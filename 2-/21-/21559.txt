@@ -1,0 +1,10 @@
+Und so sprach Heidi Buechele:
+
+
+Die sind auch praktischer, da gibt's weniger Fragen.
+
+Horst, Senf oder Ketchup, beides oder nix?
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

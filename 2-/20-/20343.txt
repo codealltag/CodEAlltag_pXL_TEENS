@@ -1,0 +1,9 @@
+Probierst du eigentlich in unklaren Fällen aus, ob der Code
+läuft? Wenn ja, ich hätte dir hier ein paar versteckte
+Ackermänner...
+
+mfg, 
+	Alwin
+-- 
+BOFH excuse #32:
+techtonic stress

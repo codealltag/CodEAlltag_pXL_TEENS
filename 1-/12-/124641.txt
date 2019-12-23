@@ -1,0 +1,11 @@
+* Karl Redich <ixalg@bqfyl-vgruzq.mg>:
+
+
+Ein Drittel der Postings in dcg behandeln nicht Gnus, sondern die GPL
+o.�.
+Natürlich wäre dcg ziemlich leer; es wurde angedacht, dcg zu löschen und
+den restlichen Traffic nach dcou* zu verschieben.
+
+Otto
+-- 
+cross veinless

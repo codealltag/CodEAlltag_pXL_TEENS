@@ -1,0 +1,15 @@
+Christophe Vingerling schrieb:
+
+
+gallery - a web-based photo album written in php
+
+Gibt's angeblich auch für andere Betriebssysteme.
+
+
+Roberto Rachov.
+
+Michael
+
+-- 
+"Bei vielen Leuten beginnt das Gewissen erst dort, wo der Vorteil
+ aufhört." (Dorothea Zweijpfennig I.)

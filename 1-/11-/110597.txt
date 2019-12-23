@@ -1,0 +1,18 @@
+<8uu9dk.7dx014w.4@tqkbaxzdpjq.zf>
+<MPG.15390da6fd4901d39898f2@News.CIS.DFN.DE>
+<4wQ4lfvsurA@qrsq.ijjlytsxce.fh>
+<MPG.153982ca8295c4c09898f3@News.CIS.DFN.DE>
+<5nWU09COapI@ntos.efctddqrhb.ua>
+<MPG.153d77b7d1a24ea29898f4@News.CIS.DFN.DE>
+<3q5za6.2hk3z09.2@ixgitxrvxyk.me>
+<MPG.153fd3762141cfc59898f6@News.CIS.DFN.DE>
+@Supersedes: <7v9noo.5u5.8@rhdo.czxxh.qewrj.fq>
+
+Dixit Claus Portzen <axbjovs@dxm.am>:
+
+Kontext? Was ist das?
+-- 
+Wie jagt man einen Elefanten - Teil 2:
+C- Programmierer bestimmen zuerst mit sizeof() die nötige Speichermenge
+für einen Elefanten, versuchen diese zu allozieren, vergessen dabei das
+Ergebnis abzuprüfen und schießen dann mit wilden Pointern auf den Elefanten.

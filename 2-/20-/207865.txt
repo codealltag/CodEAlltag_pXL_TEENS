@@ -1,0 +1,7 @@
+Willy Päffgen schrieb am 9 Apr 2000 in de.talk.jugend:
+
+
+Darum sollte man Mails auch immer mit dem eigenen (öffentlichen) 
+Schlüssel verschlüsseln. Läßt sich auch als Default einstellen.
+
+Patrick

@@ -1,0 +1,12 @@
+Roland Bröckels <cg@garbers.org> writes:
+
+
+Rike lohnt sich nicht, postet zuwenig, Nicola ist mir aus irgendeinem
+Grund am aus dem Filter gefallen, Othmar und Detlef hab ich manuell
+wieder rausgefischt, momentan greifenn IIRC nur zwei Scoreing-Regeln:
+aus de.all.SCORE die Regel, die meine Postings auf read setzt und eine
+andere für einen Gelegenheitsposter (plus die Spam-Regeln...)
+
+Bernhard
+-- 
+DAS verrät doch alles. [J.L.]

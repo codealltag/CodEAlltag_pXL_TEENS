@@ -1,0 +1,10 @@
+Also sprach Luis Schähle <fq@xljytxn.cui>:
+
+
+Gefunden. April 2001 auf der Mailingliste. Christian hat einen
+versimplifizierten customize-Buffer gebastelt und Per hat dann wohl
+gnus-virgin.el geschrieben.
+
+Habs aber nicht getestet; ist im CVS offenbar auch nicht drin.
+
+Nicolas

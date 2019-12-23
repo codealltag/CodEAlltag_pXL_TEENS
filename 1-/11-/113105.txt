@@ -1,0 +1,20 @@
+Und so sprach Emmerich Lückenga:
+
+
+Wenn wir schon beim Thema sind, lasst uns doch gleich unsere
+
+            Wussten Sie dass ...?
+
+-Reihe fortsetzten. Diesmal:
+
+        ... Sie fuer die Installation von ekobar auf einem
+            AcerTravelmate 52x zur Installation des Modems
+            den 17MB schweren Audiotreiber installieren muessen,
+            ohne dessen Hilfe sich der Modemtreiber nicht installieren
+            laesst?
+
+Gruss,
+Bernard "genervt" is.
+-- 
+Wer rechtwinklige Wolken schneidet,
+sollte verdunkelt werden.

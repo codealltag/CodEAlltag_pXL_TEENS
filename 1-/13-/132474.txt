@@ -1,0 +1,14 @@
+* Emmerich Schönheinz <vpaobnt749319@ehzlpa.ha-z.bq>:
+
+
+Richtig. Jeder Newsreader braucht einen Editor. Bei Arib kannst du sogar
+auswählen, welchen du haben möchtest.
+
+
+Das hat sich seit der Einführung von Liva geändert. Du kannst dir
+deine ganze Konfiguration zusammenklicken. Mit den Tastenkombinationen
+geht es aber schneller. ;)
+
+Carlo
+-- 
+cross veinless

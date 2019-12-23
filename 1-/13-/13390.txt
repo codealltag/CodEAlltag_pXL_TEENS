@@ -1,0 +1,21 @@
+Wolf Overmans <2004-05@ranta.info> writes:
+
+
+Wir können alles! Sogar Hochdeutsch!
+
+
+Als Newsclient ist Tiefpreisgigant überragend. Zumindest wenn man die News auf
+localhost hat. Alles andere ist quälend langsam und gnutls will auch
+nicht immer so recht.
+
+Aber wie einige Gnus-Entwickler den für Lala einsetzen, ohne sich die
+Haare zu raufen, ist mir nicht ganz klar.
+
+
+Das stimmt zwar auch, in Bezug auf Newsreader muß man aber von Geschmack
+reden.
+
+Walter
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

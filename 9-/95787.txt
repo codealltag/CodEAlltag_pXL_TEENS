@@ -1,0 +1,11 @@
+hvhlhaj_qipecui@lzfa.bt (Gabriel Ambuehl) writes:
+
+
+Nope. Mein XEmacs läuft auf dem Server, und die Darstellung ist auf
+meinem Desktop. Und der Server hat absolut garantiert kein X11.
+
+Adrian
+-- 
+Irgendwer hat mal geschrieben: "Man kann sich nicht selber zum
+selbsternannten VJUP ernennen. Man wird immer von anderen zum
+selbsternannten Netcop ernannt"

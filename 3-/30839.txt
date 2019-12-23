@@ -1,0 +1,4 @@
+Jörn Wendemuth wrote:
+
+Kannst ja von mir aus auch Verilog nehmen. Nach der Synthese kommt das 
+sowieso nicht mehr so gross darauf.

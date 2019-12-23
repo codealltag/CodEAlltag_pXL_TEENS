@@ -1,0 +1,11 @@
+Und so sprach Bjoern Utermühl:
+
+
+Hm. Hmmm. -- WAAAAAAH!!!1
+
+Gruss,
+Nico, man sollte sich das nicht zu genau vorstellen.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

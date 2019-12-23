@@ -1,0 +1,7 @@
+Hans Jennessen <hejolvwbmqhy@jzfygcozk.chs> writes:
+
+
+Aus /dem/ Netz wahrscheinlich nicht ... ;-)
+
+Aber im LAN sollte das möglich sein, kleine Dateien kann man ja cachen
+lassen, was sich auch bei lokalem FS empfiehlt.

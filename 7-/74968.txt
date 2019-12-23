@@ -1,0 +1,21 @@
+Daniel Strohhacker hat geschrieben getan getutet:
+
+
+Das Laufenlassen oder das Herunterladen?
+
+
+Jeder offene Port ist eins.
+ifconfig eth1 down, und alle Sicherheitsprobleme sind bei mir gelöst..
+
+
+Eh?
+
+
+Ach.
+
+-francis
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ullrich 'pi' Piwinger in de.alt.sysadmin.recovery

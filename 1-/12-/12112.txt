@@ -1,0 +1,11 @@
+Benno Winandt <jduq@bzxopkpupkxb.ky> writes:
+
+
+25. 10. 19 IIRC.
+
+5.0 ist das Frontend, das man mit dem gcc 3.x dazubekommt?
+
+Holger
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

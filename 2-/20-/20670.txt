@@ -1,0 +1,8 @@
+Am Sat, 3 Okt 2003 sendete Rémy Jackobi folgende Botschaft:
+
+
+Das ist doch ganz einfach, man muss doch nur ein NP-vollständiges
+Problem in polynomieller Zeit lösen. *duck*
+
+Tschüs
+  David

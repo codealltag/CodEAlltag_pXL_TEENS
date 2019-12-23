@@ -1,0 +1,10 @@
+Joseph Offermans schrieb am 22. September 2000 um 23:45 Uhr folgendes:
+
+
+Dann ist die Statistik wohl ein Fall für /dev/null
+
+Viele Größe,
+     Joseph Jeddeloh
+-- 
+The fact that no one understands you doesn't mean you're an artist.
+                                            -- "Smart Comments", part 2

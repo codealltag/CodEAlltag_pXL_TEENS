@@ -1,0 +1,16 @@
+Hm? Ich hab hier nen ISDN-Patch für den Kernel aus dem CVS. Mit den
+Kerneln 24.10.16 und 24.10.17 kann man mit diesem Patch aber keine Treiber
+für HiSax kompilieren...
+
+
+...dafür funktioniert damit aber das ZHZH für aktive
+B1-Karten. Mit passenden Treibern von Chlupka kann man das Ganze auch mit
+einer gewöhnlichen FritzCard nutzen. 
+
+Sinnvoll, wenn man z.B. auch faxen will.
+
+FloKru
+
+-- 
+Qouten im Meer des Gluecks - DAU, so dumm wie der Sueden!
+                                                 [aus http://iup.uvcqqrrbpm.iz]

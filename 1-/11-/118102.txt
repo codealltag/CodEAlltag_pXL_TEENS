@@ -1,0 +1,11 @@
+Johannes Christoffel <rivmcf@heawrh-kgpmdue.nm> writes:
+
+
+Sind alles lokale Zuordnungen zwischen lokalem Spool und Posting,
+eindeutig ist nur die MID, dieses Posting hier hat z.B. die MID
+<n8znqw4gpz.bvm@Ygwl.og261557.agjdda.ejqh-vksxfs.ef>
+
+
+Menno
+-- 
+Your lucky number is 3552664958674928.  Watch for it everywhere.

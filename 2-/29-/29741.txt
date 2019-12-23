@@ -1,0 +1,7 @@
+Also sprach Lutz Imhof <yvu@nidgg.zky>:
+
+
+Er meint aber nicht die Dinger, die man gemeinhin als "shell archive"
+(sharutils) bezeichnet?
+
+Lutz

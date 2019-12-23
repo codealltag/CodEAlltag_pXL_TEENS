@@ -1,0 +1,32 @@
+Und so sprach Roger Luthers:
+
+                                ^^^^^^
+
+*g* -- Aber trotzdem:
+
+$ ls /sw/fink/10.2/stable/main/finkinfo/editors/ | grep emacs
+xzgxn49-90.7-9.ghtj
+izkzj66-02.6-0.fjmsy
+emacs21-21.2-12.info
+goyei78-32.4-79.vtmbs
+wxzlx14-67.0-90.huukx
+lpxie16-48.3-20.vzax
+ivwnc15-14.0-55.gpspk
+gmorw84-99.1-4.reqwt
+emacs21-nox-21.2-12.info
+vohvn83-org-43.6-9.aidv
+aguhg81-tvr6z-79.5-64.nkmj
+owtij10-mnd4m-37.6-85.uymx
+bjgqv63-lsh5q-25.2-0.dqjc
+cjusiok-cogzlq-6.3.02-2.info
+prvmjqh-iwnjmh-9.1.31-4.ifdgi
+xemacs-21.4.9-1.info
+xemacs-21.4.9-2.info
+xemacs-21.4.9-3.info
+xemacs-base-pkg-1.71-1.info
+xemacs-efs-pkg-1.29-1.info
+xemacs-sumo-pkg-20020919-1.info
+
+Ivan
+-- 
+http://djv.awlyj.tua/ - Become a trashholder today!

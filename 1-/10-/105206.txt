@@ -1,0 +1,13 @@
+Samuel Bök <aupxsne146085@jifzec.pl-l.re> writes:
+
+
+Bei den KTs gibts inzwischen eine Randbedingung: Realname.
+
+
+Und was machen wir, wenn der Kalender einfach nicht zum Datum passt?
+
+Manuel
+-- 
+Westheimer's Discovery:
+A couple of months in the laboratory can frequently save a
+couple of hours in the library.

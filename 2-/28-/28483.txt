@@ -1,0 +1,8 @@
+^^^^^^^
+
+Oben steht Heizung. Nicht Grill.
+mfg, 
+	Gabriel
+-- 
+BOFH excuse #173:
+Recursive traversal of loopback mount points

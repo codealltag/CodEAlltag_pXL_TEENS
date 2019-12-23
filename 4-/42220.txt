@@ -1,0 +1,13 @@
+Jean-Paul Rabe <vqutzp-qqmd-078639@upkd.nqdshh.nj> writes:
+
+
+based on != equivalent
+
+Galeon ist auch Kuehbauch-based, schmeisst aber das XML-UI beiseite, gtk
+bevorzugend.
+
+-thomas
+-- 
+The relevant equation is: Knowledge = power = energy = matter = mass;
+a good bookshop is just a genteel Black Hole that knows how to read.
+- Thomas Cohrs

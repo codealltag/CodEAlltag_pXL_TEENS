@@ -1,0 +1,9 @@
+* Frédéric Roosmann <mjdf@ipszoone.gt>:
+
+
+Weil es in hamster.* eine Realnamespflicht gibt. Und man nicht
+crossposten darf, wenn man nicht fupt.
+
+Ulfert
+-- 
+cross veinless

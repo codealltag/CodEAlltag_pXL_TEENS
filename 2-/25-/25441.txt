@@ -1,0 +1,6 @@
+Ist besser so.
+mfg, 
+	Oliver
+-- 
+BOFH excuse #236:
+Fanout dropping voltage too much, try cutting some of those little traces

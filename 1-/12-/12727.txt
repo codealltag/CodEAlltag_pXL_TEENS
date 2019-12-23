@@ -1,0 +1,9 @@
+On 2004-05-04, Waldemar Schnevoigt wrote:
+
+Wenn man diesen eine Dimension räumt,  legt man sie dann nicht flach? Und
+ist das nicht genau das, was man bei dem vorgeschlagen Arraygebrauch will?
+-- 
+Mister Teatime had a truly brilliant mind, but it was brilliant like a frac-
+tured mirror, all marvellous facets and rainbows but, ultimately, also some-
+thing that was broken.
+- Walter Pratchett in `Hogfather'

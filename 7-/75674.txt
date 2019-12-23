@@ -1,0 +1,11 @@
+Nils Zurmahr hat geschrieben getan getutet:
+
+
+Ja.
+
+-max
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Italo 'pi' Piwinger in de.alt.sysadmin.recovery

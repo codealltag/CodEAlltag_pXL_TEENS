@@ -1,0 +1,12 @@
+Vincenzo Huwert schrieb am 30. April 2001 um 11:53 Uhr folgendes:
+
+
+Die Bedienung von Word ist Teil des Informatikstudiums? :-o
+
+Viele Größe,
+     Berend Krämmer
+-- 
+Q: Why does everyone say not to use gets()?
+A: Because they're trying to spoil your fun. gets() can make an otherwise
+   droll and predictable program a lot more exciting.
+                  -- comp.lang.c Answers to Infrequently Asked Questions

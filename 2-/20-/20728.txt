@@ -1,0 +1,2 @@
+Wie nahe es dran war, hängt davon ab, wie weit big endia von little
+endian bzw. middle endian entfernt ist.

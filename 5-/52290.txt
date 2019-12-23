@@ -1,0 +1,18 @@
+It was a szeep with the name Thomas Eckerlin that wrote:
+
+
+Oha.
+
+gabsi@edoras:~$ telnet news nntp
+Trying 30. 04. 19...
+Connected to tcnbch.pscdj.edvn.oc.
+Escape character is '^]'.
+200 gabsi.gnuu.de InterNetNews NNRP server INN 2.3.2 (20010120 prerelease) ready (posting ok).
+group de.talk.jugend
+433 31755 4 22920 ej.acbf.quwvwl
+
+Knapp davor. :)
+
+Ullrich
+-- 
+np: Don Mclaen - American Pie

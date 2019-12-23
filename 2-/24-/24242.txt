@@ -1,0 +1,9 @@
+Am Thu, 13 Mai 2004 sendete Gerard Veenaas folgende Botschaft:
+
+
+Damit der hintere Teil weiss wann er Bremsen/Beschleunigen/etc soll?
+Damit der Mensch der vorne steuert auch auf die Sensoren des hinteren
+Halbzuges zugreifen kann?
+
+Tschüs
+  Raphael

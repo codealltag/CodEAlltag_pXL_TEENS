@@ -1,0 +1,8 @@
+Werner Cleves <olveehrbld@uqfpgqycvw.bu> writes:
+
+
+Hinreichend abstrakt gesehen ist es in beiden Fällen ein Zielobjekt.
+
+Heimo 
+-- 
+"We wouldn't call it code if it would be easy to understand"

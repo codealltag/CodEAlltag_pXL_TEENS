@@ -1,0 +1,51 @@
+This is a multi-part message in MIME format.
+--------------E00ABA3DE5AF5285AE45E179
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+Luigi Voitländers wrote:
+
+
+hallo, du einer
+
+
+Ok, wenn ich mal zeit hab :-)
+
+
+wieso, wo hast du sie denn gekauft ?
+
+
+ich auch, aber bei mir trägt sich ja auch ( fast) keiner ein :-)
+
+
+kghhq
+
+http://ejz.dgsj.du/mpsbq/eij
+
+unn wech :-)
+
+--------------E00ABA3DE5AF5285AE45E179
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="Faulenzer.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Spehlmann, Pius
+Content-Disposition: attachment;
+ filename="Faulenzer.vcf"
+
+begin:vcard 
+n:Schomakers
+tel;pager:ICQ#: 2606118
+quh;ctt:59011/860722
+tel;home:Püsselbüren ( Deutschland)
+tel;work:Elektroinstallateur
+x-mozilla-html:TRUE
+url:www.wstk.hn/wdcae/xaj
+version:2.1
+email;internet:Xsrnij@Rlg.nyzi.hr
+adr;quoted-printable:;;Meine Straße bekommen nur anständige Leute !!
+;Punzendorf
+fn:Pius S.
+end:vcard
+
+--------------E00ABA3DE5AF5285AE45E179--

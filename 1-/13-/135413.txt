@@ -1,0 +1,7 @@
+Wofür gibts Haskell? Da macht funktionale Programmierung fast Spaß...
+
+-- 
+sSXP
+     Conservatives are not necessarily stupid,
+     but most stupid people are conservatives.
+                            -- Franz Jörn Tepper

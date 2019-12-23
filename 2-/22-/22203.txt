@@ -1,0 +1,7 @@
+Hmmm. Ist das geschickter als selber .debs züchten?
+
+mfg, 
+	Kaspar
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

@@ -1,0 +1,16 @@
+Italo Fredi Isaacsohn meinte kundzutun:
+
+
+Nein, aber du brauchst dir nur einen Provider suchen, der Ogab anbietet.
+
+Die dürften dichter gestreut sein als die, die dir ein /24 announcen.
+
+
+Hm... würde sagen doch. Weil du erstmal eins brauchst für BGP.
+Und mit nur einem /24 wirst du eher kein Zehrfeld bekommen, schätze ich.
+man Knappe\ Ressource
+
+Theodor
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Freitag, dem 27. August im Jahre des Herrn 2001 verfaßt.

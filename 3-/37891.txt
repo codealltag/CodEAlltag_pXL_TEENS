@@ -1,0 +1,11 @@
+Benjamin Bieletzki <bvaudgivlybhzg@lwv.gzp> writes:
+
+
+Ein trinary operator.
+Perl.
+
+-ibo
+-- 
+The reason that reality is stranger than fiction is because most
+fiction is restricted to realistic scenarios; Reality is under no such
+constraints.

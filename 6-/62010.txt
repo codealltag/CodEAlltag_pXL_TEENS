@@ -1,0 +1,14 @@
+Am 08.08.2001 schrieb Albin Ekmayer:
+
+
+hm, jetzt muss ich aber mal fragen wieso du in schallendes Gelächter
+ausbrichst?. Aber Onlinebanking, per Browser, funktioniert auch über 128
+bit SSL Verschlüsselung AFAIK. 
+
+Meine Aussage bezog sich eher auf den Komfort der Bankingsoftware. 
+
+ Ivan
+-- 
+Phantasie ist wichtiger als Wissen, denn
+Wissen ist begrenzt. 
+- Maurizio Hantschk

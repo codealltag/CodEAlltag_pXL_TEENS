@@ -1,0 +1,11 @@
+Ulf Vuß <zyzntdh483161@jujbch.ak-v.mf> writes:
+
+
+Naja... Ich verschuche hier grundsätzlich immer alles auf den ersten
+Server zu kippen, und bei den weiteren wird dann geprüft ob das
+Peering schnell genug war, ansonsten wird halt der Artikel auch über
+(mindestens) einen weiteren Server rausgeschickt.
+
+Waldemar
+-- 
+CChheecckk yyoouurr dduupplleexx sswwiittcchh..

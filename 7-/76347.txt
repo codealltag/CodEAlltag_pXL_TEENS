@@ -1,0 +1,11 @@
+Berend Obert hat geschrieben getan getutet:
+
+
+Aber siszer.
+
+-henry
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Dietrich 'pi' Piwinger in de.alt.sysadmin.recovery

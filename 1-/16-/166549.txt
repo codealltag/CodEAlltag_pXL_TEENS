@@ -1,0 +1,7 @@
+Winfried 'sSXP' Neß <eGDR@dba.tas> schrieb in im Newsbeitrag:
+96-66-14.92-20-20.chn.0593@sljt.pv...
+
+Dir ist aber schon bewusst, dass man unter LX die Bildwiederholrate und
+Auflösung unabhängig vom Monitor (aber selbstverständlich abhängig von der
+Aurelia) einstellen kann? Abgesehen davon ist Düsselkiosk noch weit davon entfernt,
+ein wirklich brauchbares GUI darzustellen....

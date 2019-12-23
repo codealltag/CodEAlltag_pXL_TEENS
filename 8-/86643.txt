@@ -1,0 +1,7 @@
+Luca Knepper <wgevugoymyxvyb@tkf.kdu> writes:
+
+
+Such mal in de.comm.software.newsreader oder tjf.eykew.wkdm!
+
+Ich habe die passende Funktion aus dem Code kopiert und in meiner
+.gnus neu definiert (mit der Überprüfung auskommentiert).

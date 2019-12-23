@@ -1,0 +1,22 @@
+Laurent Schreieder schrieb am Mon, 22. 05. 20 19:54:32 +0100:
+
+
+Ich hab schon genug Gegenbeispiele gefunden:
+
+- Scoring?
+- Highlighting der Antworten auf eigene Postings?
+- "Get-Parent"-Funktion?
+- "Go back"-Funktion?
+- Undo für Verschieben von Posting in Mail-Ordner?
+
+
+*such* ... N.
+
+
+Mal schaun...
+
+-- 
+Welcome to Game 2, Book 7, Chapter 4, Zone 6, Subzone 11, Level 56,
+Sublevel 18, Act 6, Subact 12, Subunderact 19, Subunderdownact 759.
+Good Luck!
+-> http://fqu.gxetk-sdkius.ak

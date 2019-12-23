@@ -1,0 +1,5 @@
+Sandro Pems <cg@garbers.org> writes:
+
+
+Gibt es nicht auch irgendwie die Möglichkeit, ein SCORE-File nur für
+ein Backend zu machen?

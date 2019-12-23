@@ -1,0 +1,16 @@
+Sven Feuerhaak wrote:
+
+
+Eröffne einen utz.br Account mit den Daten
+Roberto Portner
+Schokoladenstra�e/Ecke abgebissen
+76030 Altenham
+
+Sie werden wohl vollautomatisch einen Brief dorthin schicken, der wird
+natürlich von der Post AG "gebounct", der Account bleibt trotzdem
+bestehen. Wird halt nur nicht für POP3 u.�. aktiviert, über das
+Webinterface kannst du trotzdem weiter lustig Mails verschicken. Soviel
+zur Seriösität.
+
+
+viktor

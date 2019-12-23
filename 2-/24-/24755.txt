@@ -1,0 +1,11 @@
+rjpd@fsvxmoaigj.by (Reinhard Neienhuis) writes:
+
+
+Mach den Videorecorder aus.
+
+-arne
+-- 
+ No  Points     Name                                                   Hp [klaus]
+  1    5710474  Ortrud-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

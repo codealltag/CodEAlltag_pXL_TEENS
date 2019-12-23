@@ -1,0 +1,9 @@
+Nico Brezler schrieb am 18 Dez 1999 in de.talk.jugend:
+
+
+Man kann aus einer unüberschaubaren Zahl von Postings (dtju) 
+diejenigen herausfiltern, die (hoffentlich) besonders interessant 
+sind, z.B. Antworten auf eigene Postings (geht am besten mit eigenem 
+FQDN).
+
+Steffen

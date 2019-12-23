@@ -1,0 +1,14 @@
+Am Sun, 13 Jul 2003 sendete Olaf Reinheimer folgende Botschaft:
+
+
+Muss man ja wohl, alles selber schreiben saugt noch mehr. ;)
+
+
+Ich weiss nicht wie cvs intern funktioniert, es könnte gut sein das das
+einiges an mehraufwand bedeutet.
+
+
+Leider schliesst sie kaum jemand.
+
+Tschüs
+  Vincent

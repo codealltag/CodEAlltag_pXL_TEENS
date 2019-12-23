@@ -1,0 +1,25 @@
+* Ulfert 'sSXP' Ingenillen <cAAX@rvx.dra>:
+
+
+xrn ... da war doch was ...
+
+
+http://ngt.emjg.my/kxe/qqiqbfjazyw.ifa IIRC.
+
+
+Ich habe da eine andere Idee:
+
+edoras:~$ cat db/active | grep ^de.comp | wc -l
+    104
+
+Ansonsten `telnet ehxz.tev.ncv.xr 119'
+          `list active de.comp.*'
+
+und Zeilen zählen.
+
+
+HTH.
+
+Albert
+-- 
+np: J.B.O. - �llab�tsch

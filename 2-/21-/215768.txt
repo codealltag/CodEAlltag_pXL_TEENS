@@ -1,0 +1,31 @@
+In article <slrn7jh18v.2lc.tststs@starflower.tststs.ddns.org>, Claus Authenrieth 
+wrote:
+
+joo. 
+
+
+backup ist immer gut. dr�berb�geln geht wohl bei suse nur selten gut,
+besonders wenn das system mit vielen selbstcompilierten extras und updates
+ausgestattet wurde.
+
+
+das wäre mir definitiv zuviel arbeit. 
+
+
+halte ich bei einem suse-system für die einzige möglichkeit. (ich könnte
+jetzt ne distri-diskussion anfangen, aber ich lass es...) ;)
+
+
+wenn du soweit zufrieden bist und keine probleme mit irgendwelchen neuen
+versionen hast, die du unbedingt brauchst,  warum nicht? (ich hatte bei
+meiner ersten linux-installation z.b. mit der  zeit viel mll angehäuft,
+mein jetziges system ist fast um die hälfte schmaler, die 2.5GB reichen
+wieder)
+
+mfg
+    didier
+
+-- 
+Didier Sutterluti  -  eMail: hcflfv@qfe.srhda.ws
+IRCNet: ^Spooky    -         uxzhid@xyd.zxpflevr.bl
+          --  http://wlm.pso.cvpkn.cz/ --

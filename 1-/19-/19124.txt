@@ -1,0 +1,11 @@
+Am Tue, 25. 09. 19 sendete Benno Knut Isenborth folgende Botschaft:
+
+
+Also bislang nur irgendwelche Miniprogramme zum auslesen irgendwelcher
+Eth-kartenregister.
+
+
+*gna* Wer braucht da ein Makefile?
+
+Tschüs
+  Nuno

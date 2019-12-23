@@ -1,0 +1,19 @@
+* "Italo Stueber" <hjuv@rfaghtth.dy>:
+
+
+man Wine
+
+
+Und unter Linux ohne Offline-Funktionalität.
+
+
+s/Emacs/(X)Emacs/
+
+
+Für slrn gibt es kompilierte Win32-Binaries, die für tin sind alt. Man
+kann sich aber unter cygwin selbst einen neuen backen.
+
+
+Windows.
+
+Dennis

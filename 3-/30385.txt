@@ -1,0 +1,11 @@
+Karlheinz Mainert <hwk@iwxds.mze> writes:
+
+
+Sind wir nicht alle ein bisschen..
+
+-knut
+-- 
+I don't see what C++ has to do with keeping people from shooting
+themselves in the foot.  C++ will happily load the gun, offer you a
+drink to steady your nerves, and help you aim.
+- Marcel da Isabelle

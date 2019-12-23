@@ -1,0 +1,12 @@
+ljxgdjvpyk@lcvmzuxsif.az (Michael Foith) writes:
+
+
+Ich weiss nicht, wieso er das so macht, aber meine Lösung sah bisher
+so aus:
+
+./configure && make EMACS=xemacs
+
+Jean-Pierre
+-- 
+"Lt. Worf, scannen Sie das Schiff!"
+"300dpi, Sir?"

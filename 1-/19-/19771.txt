@@ -1,0 +1,10 @@
+Am Donnerstag jodelte Hannes Notbom:
+
+
+Termin? Huch, wann soll das denn gewesen sein? *grübel*
+
+Veit
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we 
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - Microsoft, 08. 11. 20

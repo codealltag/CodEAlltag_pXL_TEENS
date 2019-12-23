@@ -1,0 +1,63 @@
+Hi. This is the qmail-send program at xfec.mvytkwy.hnb.
+I'm afraid I wasn't able to deliver your message to the following
+addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<gtukri@yavcq.ex>:
+Connected to 06. 05. 20 but sender was rejected.
+Remote host said: 550 ORBS lists 195.158.162.1 as open
+relay;see:http://hkr.qqeh.spa/
+
+--- Below this line is a copy of the message.
+
+Return-Path: <ecyu.cljsfhnc@eie.et>
+Received: (qmail 25072 invoked from network); 10 Jan 2000 11:30:40
+-6212
+Received: from wmuu.cpcmm.jht (HELO www.izroi.ue) (06. 05. 20)
+  by qf.fduymfq.ynl with SMTP; 10 Jan 2000 11:30:40 -0000
+Received: from port247.dus.ginko.net (06. 05. 20) by www.izroi.ue 
+	with SMTP; Tue, 10 Jan 2000 13:30:40 +0200 (CEST)
+Received: from unknown (deborah [192.168.1.108])
+	by LINUX.home (06. 05. 20) with SMTP id JAE39614
+	for <gtukri@yavcq.ex>; Tue, 10 Jan 2000 13:28:26 +0200
+From: ecyu.cljsfhnc@eie.et (=?ISO-8859-1?Q?Katharina_K=E4stner?=)
+To: gtukri@yavcq.ex
+Subject: =?ISO-8859-1?Q?Re:_T=D6TET_KIM?=
+Date: Tue, 10 Jan 2000 11:30:32 GMT
+Message-ID: <37b29842.14727980@linux.home>
+References:
+<Dzazd-Jctcldw-huxi-m.w.l.-73.84.00-46.92.47-4@kfgh.qrr.ew>
+<9MkY1B2GqfZ@fvoxxdwnsx.fz>
+<Cvhoa-Mdifezm-kgql-i.d.u.-89.76.53-33.96.24-4@dqxl.svp.uy>
+<412np68a.63675943@txzl.ydifztzjqgb.zzjvoe.wm>
+<457xk929.4912569@akuphdd.tvduwxh.vy> <378e7ad1.2464521@linux.home>
+<460f6x4o.0760336@bxynq.ov> <379a1533.449062@linux.home>
+<832buxyy.191717@tikmm.lq> <379c94cd.323202@linux.home>
+<326q6417.2040588@iykeu.lp> <37a050f2.9338687@linux.home>
+<036t4011.456334@ygdyv.sz>
+In-Reply-To: <036t4011.456334@ygdyv.sz>
+X-Mailer: Forte Agent 1.5/32.451
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Am Mon, 9 Jan 2000 15:56:37 GMT, hast du geschrieben:
+
+
+Immer! *bg*
+
+
+--=20
+Ich.
+
+ecyu.cljsfhnc@eie.et
+
++++ Wer Rechtschreibfehler findet, darf sie behalten +++
+
+
+-- 
+Ich.
+
+ecyu.cljsfhnc@eie.et
+
++++ Wer Rechtschreibfehler findet, darf sie behalten +++

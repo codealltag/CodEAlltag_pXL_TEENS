@@ -1,0 +1,17 @@
+David Beuckers meinte kundzutun:
+
+:-(
+
+
+Dürfen.
+
+Aber den Scrollback-Puffer kriegst du auch größer. Auch die Linienzahl im
+"grafischen" Modus.
+
+
+Thorben nicht.
+
+Tim
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Mittwoch, dem 24. Juni im Jahre des Herrn 2001 verfaßt.

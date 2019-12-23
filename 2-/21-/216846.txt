@@ -1,0 +1,4 @@
+Herbert Adolph wrote:
+
+Ein Chip ist mehr eine Black-Box, da gibt man nicht viel her. 
+Neuentwicklung ist in diesem Fall billiger als Reverse-Engineering.

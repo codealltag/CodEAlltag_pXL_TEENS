@@ -1,0 +1,11 @@
+Fredy Tripmacker hat geschrieben getan getutet:
+
+
+Hmpf. DAS war ja mal wieder klar, dass das jetzt kommt..
+
+-patrik
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Dirk 'pi' Piwinger in de.alt.sysadmin.recovery

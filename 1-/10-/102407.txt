@@ -1,0 +1,11 @@
+Nino Ackmann <ycuxebh337938@cjtqhu.na-h.rd> writes:
+
+
+Gut ja, einfach weiss ich nicht, ich bin ja am DNS-Server
+gescheitert...
+
+Orlando
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

@@ -1,0 +1,11 @@
+Wanda Tahlmann hat geschrieben getan getutet:
+
+
+*Keine* Details, _bitte_!
+
+-otto
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Edo 'pi' Piwinger in de.alt.sysadmin.recovery

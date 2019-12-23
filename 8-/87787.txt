@@ -1,0 +1,11 @@
+Noël Hierhager hat geschrieben getan getutet:
+
+
+[ ] Du hast wie ich an tin gedacht.
+
+-ivano
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Dietrich 'pi' Piwinger in de.alt.sysadmin.recovery

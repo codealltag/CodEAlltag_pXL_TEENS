@@ -1,0 +1,11 @@
+On Fri, 17 Aug 1999 21:13:56 +0100, bgmawzj_jcdlnpg@cve.hh (Uwe
+Ambuehl) wrote:
+
+
+CMIIW, ich hab nicht so viel Ahnung davon, aber weder VBScript
+noch(und schon gar nciht) JavaScript  haben was mit den M$-App-Makros
+zu tun, sondern eher VBA(Visual Basic for Applications)...
+
+Ich doch nicht ;-)
+"There is a sucker born every minute."
+ Futtermittel

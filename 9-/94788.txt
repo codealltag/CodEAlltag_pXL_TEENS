@@ -1,0 +1,11 @@
+Rolf Mosch hat geschrieben getan getutet:
+
+
+Wo liegt ziemlich bsoffn, grad nach Hause gekommen?
+
+-maximilian
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Hubert 'pi' Piwinger in de.alt.sysadmin.recovery

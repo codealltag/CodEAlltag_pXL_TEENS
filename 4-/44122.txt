@@ -1,0 +1,13 @@
+Jörn Dürrkopp <kep@nyfnk.uar> writes:
+
+
+Glaube ich dir nicht.
+
+
+Ich vermute mal, dass der zumindest an einer dran hängt, wenn nicht im
+Stromverteiler eines Racks.
+
+-jens
+-- 
+"It's the little touches that make a future solid enough to be destroyed"
+- Bernhard S Bourroughs

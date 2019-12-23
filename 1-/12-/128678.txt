@@ -1,0 +1,8 @@
+* mqmsxp@ykgscmkxim.nw (Dirk Ingensand):
+
+
+Cleafeed verhindert recht effektiv das Posten von binaries hier.
+
+Valentino
+-- 
+cross veinless

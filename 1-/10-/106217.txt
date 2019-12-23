@@ -1,0 +1,9 @@
+* Sascha Seipelt <scrapdhfezvwkj@exb.cru>:
+
+
+Was soll ich mit SCSI/whatever-Unterstützung in meinem Kernel, wenn ich
+sowas gar nicht habe?
+
+Orlando
+-- 
+cross veinless

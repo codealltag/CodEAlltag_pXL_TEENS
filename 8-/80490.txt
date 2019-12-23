@@ -1,0 +1,9 @@
+Onno Empacher <fzinref520150@litznh.ze-i.bi> writes:
+
+
+Du solltest $EDITOR auf nen sinnvollen Wert setzen, wenn das nötig
+wird. Bei mir steht auch nix drin...
+
+Adrian
+-- 
+         The computer revolution is over. The computers won.

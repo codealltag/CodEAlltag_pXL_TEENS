@@ -1,0 +1,10 @@
+Solches tippte Udo Urselmans:
+
+(dispatch JUP setAnzahl (suc (dispatch JUP getAnzahl))))
+
+Luigi
+-- 
+Leonhard Thewen -> <GPG-Key:http://iuf.uxunwgst-utcwleh.jd/gkx.ldtwx>
+Whatever that hurts -----> <http://kmo.pchfirxd-jopofkd.ab/xyevg.qic6>
+----------> Wortschatz-Lexikon: <URL:http://xvnuqrsanf.tun-luxruxu.wx>
+<URL:http://duztudf.aeq-nhtkjxq.mj>   <URL:http://eyhi.xln-yevbgim.bt>

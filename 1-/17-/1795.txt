@@ -1,0 +1,14 @@
+Francesco Ulf Niklas schrieb:
+
+
+Wir könnten Karten spielen. Ich habe mal ein Programm entwickelt, das Karten
+per Mail an die Spieler verteilt, so dass sie nicht Karten spielen können,
+die sie nicht haben.
+
+Gruss
+
+Ingolf
+-- 
+IRC Freenode, Channel: #usenet-friends
+NEU: Das Web-Interface zum Channel:
+---------------> http://tnviifuw.sew/csrkiw/vqw.hrx <----------------

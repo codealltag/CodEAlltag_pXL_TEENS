@@ -1,0 +1,11 @@
+Dominik Koppenhöfer hat geschrieben getan getutet:
+
+
+Nicht so überstilisiert, aber nah dran.
+
+-luc
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Pierre 'pi' Piwinger in de.alt.sysadmin.recovery

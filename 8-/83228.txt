@@ -1,0 +1,9 @@
+* Philippe Ehrenpfort <kofmqmn935791@ovbjsk.kb-r.tj>:
+
+
+Hm. Genaue Fehlermeldung?
+
+Wahrscheinlich kann man beim compilieren angeben, ob man non-X-Support
+haben möchte.
+
+Nicolas

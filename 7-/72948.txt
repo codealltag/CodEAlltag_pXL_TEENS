@@ -1,0 +1,11 @@
+Ubbo Klemptner hat geschrieben getan getutet:
+
+
+*sznief* Mein Monitor schafft bei 1024x768 nur 85 Hz..
+
+-pietro
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Winfried 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,3 @@
+Denis R. schrieb:
+N. Aber wenn man dich so liest, kann man ja nur hoffen, das
+sizeof(brain) nicht in Relation zu strlength(lastname) steht.

@@ -1,0 +1,12 @@
+Stefano Ruscher schrieb:
+
+
+F: Wie kannst du dir da so sicher sein?
+
+Pierre
+
+-- 
+StarOffice 4.0:
+ "Das Dokument wurde für den Drucker Canon Bubble-Jet BJ-200
+  formatiert. Der Drucker ist nicht vorhanden.
+  Soll der Standarddrucker Canon Seat-Jet BJ-200 verwendet werden?"

@@ -1,0 +1,10 @@
+* Timo Andriessen <ujkqnvb822810@gszfqk.qi-k.jp>:
+
+
+Sicher? Ich habe bisher einmal etwas in der inn.conf geändert und
+geguckt, was passiert. Ergebnis: Die Änderung wurde _nicht_ übernommen,
+nach Neustart war sie aktiviert.
+
+Oskar
+-- 
+cross veinless

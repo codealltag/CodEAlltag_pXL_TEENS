@@ -1,0 +1,12 @@
+Menno Inzenhofer <kqkire_12-20@hdzm.pijine.bx> writes:
+
+
+Jepp. Im Extremfalle wird ein und dasselbe Posting dreimal vom Server
+angefodert. Einmal um die Header zu scoren, dann ukm den Body zu
+scoren, und dann nochmal um Head+Body zu scoren.
+
+Nino
+-- 
+Es gibt keine Wirklichkeit. Nur unsere persönliche Ordnung,
+die wir allem aufgeprägt haben.
+[Die Ordensburg des Wüstenplaneten]

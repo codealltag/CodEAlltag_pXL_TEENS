@@ -1,0 +1,20 @@
+Am Thu, 28 Okt 2001 sendete Claudio Zörr folgende Botschaft:
+
+
+MPlayer. http://komjiws.ngjzzqomppa.ubx
+
+#v+
+MPlayer is a movie player for LINUX. It plays most mpeg, avi and asf
+files, supported by many native and win32 DLL codecs. You can watch VCD,
+DVD and even DivX movies too.
+#v-
+
+Nettes Teil.
+
+Tschüs
+  Nikolaus
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Achim Isenborth, Mostly Harmless, Chapter 12

@@ -1,0 +1,15 @@
+Und so sprach Paolo Dieter Erdmann:
+
+
+Nee, das macht man mit Maple, indem man eine zweidimensionale Funktion
+einführt, z. B. f(x,y) und x und y z. B. von 0..10 laufen lässt. Dann
+führt man eine Fehlerfunktion ein, die die Abweichung vom exakten
+Resultat (Maple 4*7 ausrechnen lassen) berechnet und führt danach eine
+Particle Swarm Optimisation mit 10'000 Partikeln und 1000 Iterationen
+durch.
+
+Karsten, wenn schon.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

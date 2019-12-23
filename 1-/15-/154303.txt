@@ -1,0 +1,13 @@
+Torsten Irmisch wrote:
+
+
+Ich würde alles ausbauen  , eine alte PC-Tastatur besorgen und in denn =
+Y94
+einbauen , kommt echt cool ! Ein PC mit C64 Konsole.
+
+Grüsse Bernd
+
+
+--
+home:gover> find . -name \*.vbs -exec rm -f {} \; -print | tee /dev/null
+! Use the vi a linux powertool !

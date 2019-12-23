@@ -1,0 +1,16 @@
+Sebastian Reckhemke schrieb am 17. 02. 20 15:35:26 +0100:
+
+
+Die Tastenkombination scheint eine ganz andere zu sein.
+Wenn ich Gnus über das Men aufrufe, friert ganz Emacs ein.
+
+
+"Keine neue Mail"
+
+Warum ist Dein ICQ nicht an?
+
+-- 
+"Ich bin nicht programmiert zu bluten!"
+      Leitender Arzt der Zaisenhausen
+
+-> http://yjt.tjryh-xkuvsy.ha

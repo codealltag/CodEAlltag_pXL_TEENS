@@ -1,0 +1,25 @@
+Lorenz Zörns schrieb am 19. Mai 1999 um 21:16 Uhr folgendes:
+
+
+Wieso "was vernünftiges"? Ich habe eigentlich mit den SuSE-Kerneln
+bisher nie Probleme gehabt -- die von SuSE eingespielten Patches waren
+(bei mir) immer stabil und wurden AFAIK so gut wie immer ein paar
+Minor Releases später sowieso in den offiziellen Kernel übernommen.
+
+
+Schon bei PCI-Karten bist du im Moment mit den Treibern aus dem
+Kernel-Paket vor ein unlösbares Problem gestellt. Da helfen nur die
+(Payware-)OSS-Treiber oder eben ALSA.
+
+
+100%ig sicher sein kann man erst, wenn man's ausprobiert hat;
+grundsätzlich spricht nichts dagegen (auch wenn er nicht gegen
+glibc2.1 gelinkt ist; SuSE hat Pakete für die Abwärtskompatibilität)
+und der Halloween-Netscape (RH6.0) läuft auf meiner SuSE 6.2 völlig
+problemlos. "--nodeps" kennst du ja ;-)
+
+Viele Größe,
+     Gunter Zennegg
+-- 
+If you're happy, you're successful.
+                                               -- random fortune cookie

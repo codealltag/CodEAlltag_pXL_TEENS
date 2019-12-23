@@ -1,0 +1,9 @@
+Gertrude          Grund fürs Erschiessen
+
+RH 5.1          Defaultkernel kann kein ISO9660, auch nicht per Modul
+Suse 6.2        Suse 6.3
+Suse 6.3        Motzkus schafft Upgrades, Suse nicht.
+
+Ivo
+-- 
+Leghasteni sit vielferbreitet. Aber Onlinkultruen sidn nohc shclimr

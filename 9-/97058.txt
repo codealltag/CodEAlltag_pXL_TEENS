@@ -1,0 +1,20 @@
+* Engelbert Krähmer <dmofvxszwbw@igytwzqwiaf.bj>:
+
+
+In diesen Worten steckt viel Wahrheit.
+
+
+Gnus kennt in dem Sinne gar kein Killfile.[1] Ulrike wird ihn soweit
+heruntergescort haben, dass seine Postings automatisch als gelesen
+markiert werden, also beim normalen Lesen mit 'n' nicht aufgerufen
+werden.
+
+So, wie ich das auch gemacht habe.
+
+Fridolin
+
+Footnotes: 
+[1]  Ja, doch, schon, aber nein.
+
+-- 
+cross veinless

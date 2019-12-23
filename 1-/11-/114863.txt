@@ -1,0 +1,20 @@
+Bodo Freemann schrieb:
+
+
+Das soll erstmal einer schaffen...
+
+
+Könnte sein. Ich kenne die LAN-Funktionen von W2K ja nicht.
+
+
+Das OS ist aber das, was abstürzt, obwohl es keinen Grund dafür hat.
+Wenn die Software abstürzt kann das OS ja theoretisch weiterlaufen,
+was Windows jedoch nicht tut.
+
+Fazit: Magazin Direkt stürzt ab. Aufgrund der darauf laufenden Software zwar,
+aber es stürzt ab.
+
+Sascha
+
+-- 
+Esst den McChicken!

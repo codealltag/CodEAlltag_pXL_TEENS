@@ -1,0 +1,11 @@
+Jürg Vielmäder hat geschrieben getan getutet:
+
+
+Dir muss ich Newslaufzeit jetzt nicht erklären, hodr?
+
+-gustav
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Rüdiger 'pi' Piwinger in de.alt.sysadmin.recovery

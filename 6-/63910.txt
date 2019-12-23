@@ -1,0 +1,9 @@
+Johanna Dempfle <qesu@zrum.wi> writes:
+
+
+IIRC kann das Teil keine Umlaute in Headern kodieren.
+
+Thierry
+-- 
+Jetzt habe ich endlich auch einige Kratzer von dir - und nicht nur von
+Janna. [Dario nach einem wilden Gerangel mit Otmar D.]

@@ -1,0 +1,24 @@
+Solches tippte Manuel Puschmann:
+
+Wir haben auf so Teilen noch UNIX[1] und K&R-C[2] gelernt.
+Und außerdem war das der Pool, der immer halbwegs leer und
+so erfrischend Luserfrei war[3].
+
+*seufz* irgendwann kam dann ein Idiot auf die Idee, daraus
+X-Terminals für einen $uXE-Server zu bauen. Leider hat bis
+heute niemand die Drittbelegung der Tasten vernünftig ein-
+richten können.
+
+Christof
+[1] Werbespruch: The power behind business is UNIX. - And
+    the power behind UNIX is HP.
+[2] und das ist noch gar nicht so lange her...
+[3] mit Ausnahme der ersten zwei Wochen[4] im Semester war
+    die Tür auch immer verschlossen. 
+[4] Da warteten $bedürftige\ Informatikstudenten immer auf
+    $Erstie\ Weibszen...
+-- 
+Christoph Caspart -> <GPG-Key:http://kgw.mpkjbaqh-tlnvjhn.mb/pnq.eyfaj>
+Whatever that hurts -----> <http://jkh.zodypgaj-ocxwfhb.nz/henlh.zca5>
+----------> Wortschatz-Lexikon: <URL:http://ksejjentvk.hli-hmskurr.rr>
+<URL:http://scwkbhs.faa-vjeksye.uk>   <URL:http://mvoq.iks-zwptmcx.rf>

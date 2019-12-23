@@ -1,0 +1,14 @@
+Erich Dederl hat geschrieben getan getutet:
+
+
+Bäume sind per default arm.
+
+
+Das nächste mal bitte nicht in der Tür irren, danke.
+
+-raimund
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Guy 'pi' Piwinger in de.alt.sysadmin.recovery

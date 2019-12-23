@@ -1,0 +1,9 @@
+Gerhard Denzler <unupksxwnr@nekxtoqcyt.to> writes:
+
+
+Es soll sogar Leute geben, die die Kisten tatsächlich schonmal bei
+100%CPU-Last fahren :)
+
+Hau "Da 2.4.x backen sux" ke
+-- 
+Glaubst du, ich kann nicht hart sein? [Luis zu Eliane]

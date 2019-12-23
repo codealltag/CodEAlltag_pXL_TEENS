@@ -1,0 +1,8 @@
+Anton Süßmair <fbimkfb257509@ifzvdq.zb-v.ka> writes:
+
+
+Geht bestimmt, musst du nur mal per "alias" defenieren...
+
+Bruno
+-- 
+Reports of my assimilation have been greatly exaggerated. [J.-L. Luc, ST:FC]

@@ -1,0 +1,7 @@
+Ivano Zscheckel wrote:
+
+
+LOL in Woche 4 hätten wir hier MergeSort implementieren sollen. In Woche 
+5 Hilbertkurven und Permutationsalgorithmen. Luft dann jeweils darauf 
+hinaus, dass man sich einen Algorithmus schnappt und ihn nach Dickenau 
+übersetzt.

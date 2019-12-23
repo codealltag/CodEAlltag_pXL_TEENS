@@ -1,0 +1,12 @@
+Ludger Croeger <vugaslh654007@ospkzg.oo-a.xu> writes:
+
+
+Jepp. ABer das sollte sich mit *kram*
+
+(setq fill-column 72)
+
+beheben lassen.
+
+Ibo
+-- 
+All power corrupts, but we need electricity.

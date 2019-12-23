@@ -1,0 +1,12 @@
+Tino Rikker hat geschrieben getan getutet:
+
+
+Den müsste ich mal umständlich suchen .. Brühl ist da doch etwas ..
+"einfacher" :)
+
+-jean-paul
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Tobias 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,12 @@
+Noël Wintterer schrieb am 16. Juni 1999 um 06:35 Uhr folgendes:
+[Newsreader konfigurieren]
+
+Wozu? Realname und E-Mail-Adresse können auf einem vernünftig
+gewarteten UOJ-System automatisch ermittelt werden, Kleinigkeiten wie
+Sigdashes, MIME-Deklarierung usw. sind bei den gängigen Readern
+selbstverständlich.
+
+Viele Größe,
+     Pasquale Wasserbäch
+-- 
+All true wisdom is found in signature files.

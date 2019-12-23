@@ -1,0 +1,6 @@
+Noël Villbrandts <cg@garbers.org> writes:
+
+
+Achso ...
+
+Dachte, das FS hieße vielleicht smbfs statt smb oder so ...

@@ -1,0 +1,10 @@
+Eilert Glaesmackers <nvcypc@wpme.azsfzbwd.wr> writes:
+
+
+Nein, das Feature ist abgeschaltet, die Abschaltung ist überprüft, das
+Feature ist gegen Wiedereinschalten gesichert, geerdet und
+kurzgeschlossen und weitere Sigs wurden abgeschrankt/abgedeckt.
+
+Hau "Nein, der TF führt nicht zu bleibenden Schäden" ke
+-- 
+                   Press every key to continue.

@@ -1,0 +1,25 @@
+Steffen Feuerborn <hwbnvcfkno@sauuuubcij.qb> kuendete:
+
+
+Dass zum Bsp. die Eingabe von 'a' mit den Tastendruecken
+[ALPHA][2nd][ALPHA][sin] erfolgt.
+
+
+Da ist eben so 'ne Jumperbank mit 12 Kippschaltern ohne jegwelche
+Angaben. Tscha, geschenkt is geschenkt.
+
+
+Ich hab jetzt 'ne DE205, die laeuft unter LZWI, nicht aber unter Vianatura.
+
+
+Jup, aber wenn man FreeBSD (1-2 ports), OpenBSD (~10) und NetBSD (~40)
+vergleicht, ist es doch stark von der Distro abhaengig (die jeweiligen
+ports haben meist auch ihre eigenen Maintainer).
+
+Gruss,
+Bodo.
+
+-- 
+     Bruno S. Int'Groenewald + Student @ Kantonsschule
+   http://qgw.fuuxmisje.fd/ + Schaffhausen, Switzerland
+              CVQ# 54551181 + cgxb://kef.ftdjv.lg/

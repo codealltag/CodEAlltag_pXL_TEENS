@@ -1,0 +1,10 @@
+* Winfried Bräuler <swnztqevyiqi@ooqwejhdj.wlz>:
+
+
+Wenn ich schon ein internes Packet-Managment habe, dann will ich es auch
+nutzen.
+
+
+Ja, man gewöhnt sich schnell daran. :)
+
+Stefan

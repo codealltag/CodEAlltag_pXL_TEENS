@@ -1,0 +1,12 @@
+(A)usbildungs-
+(G)ert
+(S)chie�simulator
+(H)andwaffen
+(P)anzerabwehrhandwaffen
+
+auch bekannt als `Schie�kino'.
+mfg, 
+	Kai
+-- 
+BOFH excuse #42:
+spaghetti cable cause packet failure

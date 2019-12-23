@@ -1,0 +1,8 @@
+Fritz Haining schrieb:
+
+Aber nicht ohne FIFO Puffer sonst gibt's ständig nen Carrier-Loss.
+
+CU
+Karsten
+-- 
+Lieber voll heimkommen als leer ausgehen.

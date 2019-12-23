@@ -1,0 +1,9 @@
+Und so sprach Ingolf Ulfert Kirner:
+
+
+$ echo $Zahl
+1
+
+Martin, 100% Baumwolle
+-- 
+http://uef.ffhis.llk/ - Become a trashholder today!

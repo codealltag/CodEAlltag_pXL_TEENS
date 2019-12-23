@@ -1,0 +1,9 @@
+Berend Könneke wrote:
+
+
+Es gibt gar keine Zips mehr als internes SCSI-Gerät :-/
+
+Björn
+-- 
+pub  0125E/OCT82D80 3367-14-47 Björn Dyken <wbdqmmv@upt.mj>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 35 5P 42 7O 22

@@ -1,0 +1,11 @@
+Karl Iblacker <wltay@hzcrv.txnw.gg> writes:
+
+
+Isz habe aber gar niszt gefragt, ob Du grosze Ohren hast..
+
+-johann
+-- 
+ No  Points     Name                                                   Hp [timo]
+  1    4341437  Wilfriede-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

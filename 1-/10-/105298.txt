@@ -1,0 +1,16 @@
+Am Sun, 09. 04. 19 sendete Claudio Kreye folgende Botschaft:
+
+
+#v+
+21:25:06 ~$translate bogus
+bogus : Schwindel
+bogus : falsch
+bogus : simuliertes
+bogus companies : Schwindelfirmen
+bogus company : Schwindelfirma
+#v-
+
+HTH & Tschüs
+  Alexander
+-- 
+Notorisch Schreibfaul.

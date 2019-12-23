@@ -1,0 +1,9 @@
+* Urban Sonnenmoser schrieb: *
+
+
+Sowas steht in der Pseudo-"Newsgroup" control.cancel drin. Allerdings 
+findet man bei einigen Servern (z.B. ytvz.znu.uhi.ud) nur über Umwege 
+Zugriff darauf. Bei anderen steht sie ganz normal in der Newsgroupliste.
+
+-- 
+:: bf ::

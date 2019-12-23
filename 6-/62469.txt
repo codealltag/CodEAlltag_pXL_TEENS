@@ -1,0 +1,6 @@
+Benjamin Thorbrügge <jrllpamkpk@bisjxjdnqw.vn> writes:
+
+
+Die spielen nur eine Rolle beim Beschleunigen, die
+Beschleunigungskurve (v-t-Diagramm) wird entsprechend flacher. Für die
+Maximalgeschwindigkeit sollte das ohne Bedeutung sein.

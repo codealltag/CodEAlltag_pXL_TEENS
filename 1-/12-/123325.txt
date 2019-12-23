@@ -1,0 +1,8 @@
+begin quoting Silvio Ungerland <group-answer@garbers.org>:
+
+Wobei ich mich frage, ob das verfassungsrechtlich zulässig ist...
+-- 
+Windows ist _kein_ Virus. Ein Virus ist nämlich ein kleines, sehr
+effektiv programmiertes Stück Software, was man von KMB nicht
+gerade behaupten kann.
+               Berend Pfenningschmidt in de.alt.folklore.urban-legends

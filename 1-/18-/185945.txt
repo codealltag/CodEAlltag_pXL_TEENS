@@ -1,0 +1,9 @@
+Kortenweg, 5 Okt 1999 sendete Mirko Jeschke folgende Botschaft:
+
+
+-v bedeutet das das programm im verbose modus (also mehr meldungen als
+normal) ablaufen soll -d ist der debugmodus das ergibt noch mehr infos.
+Und das ganze jetzt auf dich bezogen.
+
+Tschüs
+  Gerard

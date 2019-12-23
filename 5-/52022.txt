@@ -1,0 +1,12 @@
+Pietro Müller-Hagen <ridrxuoflc@vhuqdjotnb.wn> writes:
+
+
+Dann patche $icq-client hinreichend. :)
+
+Zumindest lokal gpg-keyid für User notieren und Nachrichten
+signen/encrypten (und indes auch automatisch verifyen) sollte ja
+realisierbar seien (ich wollte gerade `sign' schreiben. sigh.). Später
+dann einfach im Sourcecode rumdiven, dann noch einen icq-server suchen
+und diesen patchen, und so.
+
+-towo, Realität mal bei Seite schiebend

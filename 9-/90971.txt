@@ -1,0 +1,11 @@
+Jörg Rolufs hat geschrieben getan getutet:
+
+
+Dein Name-Token kommt in ROT13 auch ziemlich gut rüber.
+
+-johann
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Erwin 'pi' Piwinger in de.alt.sysadmin.recovery

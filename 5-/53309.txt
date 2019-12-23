@@ -1,0 +1,12 @@
+Roman Baumgarten wrote:
+
+
+"Brownouts"
+
+
+Hm, gegen sowas sollen Disksize-USV ganz gut helfen. Die Hersteller
+behaupten das hilft auch gegen *richtige* Stromausfälle, das halte ich
+aber für ein Gerücht.
+
+
+Ueli, hasst es, hassen mit einem s zu schreiben

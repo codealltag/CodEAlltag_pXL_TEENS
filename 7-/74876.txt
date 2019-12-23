@@ -1,0 +1,11 @@
+Lothar Langenheder hat geschrieben getan getutet:
+
+
+No use.
+
+-leopold
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Bodo 'pi' Piwinger in de.alt.sysadmin.recovery

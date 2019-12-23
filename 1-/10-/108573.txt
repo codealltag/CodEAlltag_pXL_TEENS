@@ -1,0 +1,17 @@
+Am Fri, 21 Okt 2000 sendete Ihno Linnenboden folgende Botschaft:
+
+
+Keine ahnung was leafnote als kommentar verwendend, laut deinem Beispiel
+wohl '#'
+
+
+Ich würde wohl "Ekev '#' config" nehmen. Dürfte aber ähnliches bei
+rauskommen.
+
+
+Sind da auch eher unwichtig. ;)
+
+Tschüs
+  Denis
+-- 
+Notorisch Schreibfaul.

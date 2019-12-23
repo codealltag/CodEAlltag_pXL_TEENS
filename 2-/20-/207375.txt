@@ -1,0 +1,107 @@
+Hallo Talker,
+
+Luciano Lochkemper <jjncz@ovtkq.yd> verkündete im Newsbeitrag
+Die-Wurzel-von-6340324-ist-2518@winki.de:
+
+
+<terminalmode>
+
+$: search what="conversations between luis-schaefer/germany/earth and
+  dürrenbergstraße/germany/earth" date="31-07-2006"
+  keywords="Gehen-wir-zu-Dir-oder-zu-mir?"
+
+   please wait, searching...
+
+   searching complete
+   found 1 conversation(s)
+
+   nopjeuic="jiwv-fiyw489977502873.cr3sl"
+   type="logfile of a cyber-3d-video-chat"
+   date="31-07-2006"
+
+$: list sgsn="yjgq-cnmc916610464410.zo6ad"
+
+   this file is encoded
+   please enter password
+
+$: password
+
+   please wait, checking password...
+
+   the password you have entered is correct
+   listing file:
+
+   Luciano: Hey Luis, kannst Du Dich noch an damals erinnern, als wir
+   ständig im Usenet herumgehangen haben und uns in de.talk.jugend die
+   Bildschirme zugepostet haben? Das muss so um das Jahr 2000 gewesen sein.
+
+   Luis: N.. oder doch... ja! Das waren noch Zeiten! Damals hatten wir
+   noch lächerliche Pentium-II-Rechner mit 300 MHz und popeligen 32 MByte
+   RAM.
+
+   Luciano: Ja, kaum vorzustellen in den Zeiten eines Pentium 237 mit
+   656 GHz und 789 TByte RAM.
+
+   Luis: Aber für das Usenet reichte das allemal.
+
+   Luciano: Heute habe ich meinen Terminkalender geschaut und einen Eintrag
+   entdeckt, den ich heute vor genau sieben Jahren eingetragen habe! Das
+   Datum kann man noch ganz genau lesen!
+
+   Luis: Wie spannend! Worum geht es denn?
+
+   Luciano: Tja.. H... die Schrift ist leider im Laufe der Jahre etwas
+   verblasst... Mist, ich kann nicht mehr entziffern!
+
+   Luis: Schade... Aber ich wollte Dir sowieso noch erzählen, was mir
+   gestern passiert ist.
+
+   Luciano: Leg los, ich bin hörig... H, ich meine ich höre!
+
+   Luis: O.K.: Also, ich war in der neuen 3D-Virtual-Reality-Cyberdisco,
+   bei dieser Singleparty.
+
+   Luciano: Ja und? Hat Dich eine hochvoltige Cyberbraut angelabert?
+
+   Luis: Logo und wir sind auch noch am gleichen Abend in die Kiste
+   gestiegen. Du kennst ja meine Masche!
+
+   Luciano: Klar, mit der alten Gehen-wir-zu-Dir-oder-zu-mir?-Nummer kriegst
+   Du aber auch jede rum!
+
+   Luis: Solltest Du vielleicht auch mal wieder probieren!
+
+   Luciano: Ne, ich habe doch eine feste Freundin und der bin ich absolut
+   treu.
+
+   Luis: Was man von ihr ja nicht unbedingt behaupten kann! Höh, was ist
+   der Unterschied zwischen Deiner Freundin und einem Bügelbrett?
+
+   Luciano: Ich finde das nicht lustig!
+
+   Luis: Die Beine eines Bügelbretts sind schwerer aufzukriegen! Hahaha!
+
+   Luciano: Echt toll Luis. :--(
+
+   Luis: Sorry, ist mir so rausgerutscht.
+
+   Luciano: Hmm, wenn ich doch bloß den Terminkalendereintrag entziffern
+   könnte... würde mich jetzt echt interessieren...
+
+   Luis: War bestimmt eh unwichtig! Ciau!
+
+   Luciano: Tsch.
+
+   end of file
+
+$:
+
+</terminalmode>
+
+RY,
+Uch
+
+--
+Offizielle Urlaubsvertretung für Natalie H. im Bereich 'Gustav L. nerven'
+eMail: c-m@ppyulvfs.gc
+(Bitte keine Werbung oder Fernsehzeitschriften von 1536 einwerfen!)

@@ -1,0 +1,12 @@
+Andre Kissling <lqvhceb.ovabr@dsd.uv> schrieb in im Newsbeitrag:
+857dcaie65nrty6ol0ohlsz38fi69p63c5@8ze.qnq...
+
+Ich dachte eher daran, dass SCSI Controller i.A. Zugriffe so umbiegen, dass
+R/W Kopf nicht dauernd über die ganze Platte muss...
+
+
+DAU.
+
+
+Hmm... Das macht nimmer viel aus, dann kann ich sie gleich auf dem
+asiatischen Markt besorgen, kommt auch nicht mehr deutlich teurer...

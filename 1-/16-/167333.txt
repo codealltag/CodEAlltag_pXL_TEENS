@@ -1,0 +1,13 @@
+Alois 'sSXP' Strassmann schrieb am 22. Juli 1999 um 03:42 Uhr folgendes:
+
+
+Pfft... wahrscheinlich weit du noch nicht einmal, wer Klaas Timo
+war.
+
+Viele Größe,
+     Erwin Sauerer
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- freestyle 1.2.5 configure-script

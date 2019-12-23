@@ -1,0 +1,7 @@
+Solches tippte Georg Vesenbeckh:
+[Scannen]
+
+Es muss schon ein komicher Scanner sein, dass er mit SANE nicht tut.
+Und man will doch nicht wirklich wegen Scannen /neu booten/.
+
+Gerhard

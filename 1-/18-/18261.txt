@@ -1,0 +1,18 @@
+Eumels monatliches Statistik-Post sagt
+
+ 0.40   7324 oberstadtfeld
+
+Wobei ich sagen muß, das das bei mir wegen ein paar Sonderregeln
+meines lokalen INN durchaus dr�berliegen kann (Keine Manternach,
+...) Das du auf 1601 kommst, könnte daran liegen, das ich EMP von
+vorneherein blocke.
+
+Wie allerdings die 1382 (die auch hier angezeigt werden) zustande
+kommen ist mir (noch) ein Rätsel - Wenn ich im Spool nachzähle, 
+finde ich zwischen 01.05 und 30.09 zähle finde ich 1458 Postings.
+
+mfg, 
+	Oliver
+-- 
+BOFH excuse #172:
+pseudo-user on a pseudo-terminal

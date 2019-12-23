@@ -1,0 +1,9 @@
+Ninos Roosendaal <ilof@cxqbrdiorkr.oi> writes:
+
+[dsf 4.17]
+
+Volkert
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+30: Universeller multifunktionaler Interface-Adapter.
+       Lötkolben. (Patrik Flöss)

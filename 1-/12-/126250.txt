@@ -1,0 +1,32 @@
+STATISTIK 27. 02. 20
+-=-=-=-=-=-=-=-=-=-=-=-
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+  1  62705   60,47%  "Forte Agent"
+  2   1640    9,55%  "Xnews"
+  3   1300    7,57%  "Gnus"
+  4   1170    6,81%  "CrossPoint"
+  5    674    3,93%  ehrlich registriertes Crosspoint, via NNTP
+  6    654    3,81%  DOS Edit 6.22 I-Net Release V.79
+  7    441    2,57%  "Microsoft Outlook"
+  8    336    1,96%  "TIN"
+  9    304    1,77%  "slrn"
+ 10     89    0,52%  "Gravity"
+ 11     70    0,41%  Telnet Ver. 1.0
+ 12     40    0,23%  keiner angegeben
+ 13     21    0,12%  Yes!
+ 14     20    0,12%  "Dadu/NetScape"
+ 15     13    0,08%  "MicroDot"
+ 16      9    0,05%  NewsreaderDerFirmaForte
+ 17      6    0,03%  andere
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 27. 02. 20 von Peter Neubauer.
+(Darstellung angepasst von Ronny Pennig)
+Basierend auf den Feeds von:
+frbzjukk.zohuk.bz         ebmx.xiq.cji.hp           iwsh.t-gcgikf.gw  
+rrlm.mgk-blrtzbku.zm      lgbm.iap-kafzxltv.wd      kabm.azv-hhoobildj.az  
+hxurflbnsz.njwonbskzd.am

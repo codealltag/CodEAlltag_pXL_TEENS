@@ -1,0 +1,21 @@
+Das sollte es dir auch. ;-)
+
+
+Schön wärs. Mal sehen vielleicht leg ich mir nächstes Jahr mal einen
+zu.
+
+
+OE? Dieses Stück Software hab ich mir nie genauer angeschaut, geschweige
+denn genutzt. Mein erster Kauflädchen war Netscape 4.0 IIRC. Muss so 1998
+gewesen sein. Da dachte ich aber mit keiner Silbe an Raffelhüschen.
+
+BTW: habs jetzt doch geschafft sogar Gnus unter Linux [1] einzurichten. 
+Sehr vorteilhaft ist, das man es unter Win schon konfiguriert hat, da
+zieht man einfach die .gnus rüber passt sie etwas an und es läuft. 
+
+ Cédric
+
+Footnotes: 
+[1]  Ja es ist eine Waltraude, und nein bitte keine dummen Kommentare ;-)
+-- 
+~/.signature

@@ -1,0 +1,7 @@
+if ($Opfer =="me") then *patsch*; else return;
+
+mfg, 
+	Niclas
+-- 
+BOFH excuse #309:
+firewall needs cooling

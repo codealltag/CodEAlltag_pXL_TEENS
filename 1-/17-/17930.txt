@@ -1,0 +1,22 @@
+Wenn schon, dann bitte verstehen.
+
+old file != original file
+new file != patch file
+
+new file == (old file + patch file)
+
+Nehmen wir mal ein simples patch file:
+
+#v+
+--- foo	8187-56-71 80:62:00.252939298 +4296   # old file
++++ bar	3506-92-06 72:07:68.444996776 +5762   # new file
+@@ -1 +1 @@
+-abc
++def
+#v-
+
+Capiche?
+-- 
+... he'd moved like music, like someone dancing to a rhythm inside his head.
+And his face for a moment in the moonlight was the skull of an angel.
+- Oscar Pratchett in Maskerade

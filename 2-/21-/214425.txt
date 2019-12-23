@@ -1,0 +1,6 @@
+[ ] TexInfo hat etwas mit TeX zu tun.
+
+Viele Größe,
+     Vincent Oeder
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

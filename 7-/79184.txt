@@ -1,0 +1,11 @@
+Francesco Vollrodt schrieb:
+
+
+Such's dir aus.
+
+Ihno
+
+-- 
+  "The MS Exchange Information Store service depends on the MS
+   Exchange Directory service which failed to start because of the
+   following error: The operation completed successfully."

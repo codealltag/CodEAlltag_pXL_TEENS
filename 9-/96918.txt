@@ -1,0 +1,4 @@
+Unter einleuchten würde ich verstehen, dass sie kapieren, warum sie den 
+unglaublich komplizierten Fix für ihr achso übles Problem (viele CH ISPs 
+lassen einem mit x beliebigem From senden) wirklich jedes mal durchführen 
+müssen. Das tun sie aber nicht.

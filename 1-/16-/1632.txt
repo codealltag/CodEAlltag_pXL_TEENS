@@ -1,0 +1,11 @@
+Am Mi, 26 Okt 2006 sendete Frédéric Leiste folgende Botschaft:
+
+
+Nack.
+
+
+Jaedeke, aber anscheinend braucht niemand utf8, da sich niemand darum
+kuemmert die unterstützung fertigzubauen.
+
+Tschüs
+  Maurizio

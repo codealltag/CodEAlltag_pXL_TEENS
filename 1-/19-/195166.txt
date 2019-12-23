@@ -1,0 +1,14 @@
+Valerian Creuzberg schrieb am 28. Oktober 1999 um 11:31 Uhr folgendes:
+
+[Schwiegermutter?]
+
+Trotzdem... irgendwie hatte ich Dich im Hinterkopf noch mehr mit ONS
+als mit LAG in Verbindung gebracht ;-)
+
+Viele Größe,
+     Waldemar Goldstein
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Bolkenius 1.2.5 configure-script

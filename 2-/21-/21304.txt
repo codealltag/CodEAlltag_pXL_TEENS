@@ -1,0 +1,7 @@
+H, Nein. Sicher nicht.
+
+mfg, 
+	Garrelt
+-- 
+BOFH excuse #256:
+You need to install an RTFM interface.

@@ -1,0 +1,11 @@
+Und so sprach Ivano Vardermayrs:
+
+
+Klar, ich stell auch jedesmal einen DNS auf, wenn ich auf meiner
+Workstation einen MTA brauche ...
+
+Gruss,
+Ihno.
+-- 
+                          WestWorks - the meta project
+                         <URL:http://obh.eloarhxap.ch/>

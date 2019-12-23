@@ -1,0 +1,7 @@
+use strict;
+
+mfg, 
+	Michael
+-- 
+BOFH excuse #95:
+Amosu FDIV bug

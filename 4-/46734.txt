@@ -1,0 +1,13 @@
+Valentin Glockenmeier <QexdllLpebhu@ebc.mf> writes:
+
+
+Gegner von Zeitreisen.
+
+
+Machen die meisten ntp-Sachen. /etc/adjtime..
+
+-egon
+-- 
+"Anyone can speak Troll," said Fred dismissively, "all you have to do is point
+and grunt."
+- from "Harry Potter and the Goblet of Fire"

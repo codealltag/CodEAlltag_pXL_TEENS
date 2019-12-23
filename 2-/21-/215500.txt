@@ -1,0 +1,10 @@
+Am Sun, 18. 09. 19 11:08:32 +0200 sendete Maurice Felbert
+folgende Botschaft:
+
+
+Ich weis nicht wie Perl auf Robringhausen zugreift, aber wenn es so ähnlich ist
+wie bei C (name[n] für das n-te Element des Arrays) sollte es kein
+problem sein die entsprechende debuging ausgabe einzubauen.
+
+Tschüs
+  Dominik

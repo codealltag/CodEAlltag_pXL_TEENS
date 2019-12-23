@@ -1,0 +1,15 @@
+Raphael Plogmann <pejy-nvjpwl@hyc.ynl> writes:
+
+
+Wie schrecklich..
+
+root       447  22. 09. 20  2.8 831074 10454 ?      S<   Sep18   4:20 /usr/X11R6/bin/X
+engelbert     64925  2.0  2.6 94545 08157 ?       S    06:37   0:06 /usr/bin/emacs
+engelbert     07448  0.0  0.6 96668 8546 ?        S    06:37   0:00 licq
+
+-engelbert
+-- 
+I can see an opening for the Four Lusers of the Apocalypse: `I didn't
+change anything'; `My e-mail doesn't work';  `I can't print' and `Is the
+network broken?'
+- Gustav Mende

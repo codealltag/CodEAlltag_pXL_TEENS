@@ -1,0 +1,14 @@
+Am Sun, 22 Feb 2003 sendete Ingo Fokerts folgende Botschaft:
+
+
+Und von da aus liest du sie per Glaskugel?
+
+
+Trotzdem ist forwarding kein gegenstück zu pop3, es seiden du leist nur
+auf einem Rechner mit Standleitung und eigenen MTA.
+
+
+Nein.
+
+Tschüs
+  Jean-Claude

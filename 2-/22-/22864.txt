@@ -1,0 +1,10 @@
+Hmmm. Moment.
+Also, du kannst auf jeden Fall einen neuen User namens 'szaf' anlegen,
+und dem dann von Hand UID und GID 0 geben. root ersetzen möchte ich hier
+im Livebetrieb nicht probieren.
+
+mfg, 
+	Fabio
+-- 
+BOFH excuse #393:
+Interferance from the Van Allen Belt.

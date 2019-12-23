@@ -1,0 +1,4 @@
+Wer Whistler freiwillig einsetzt, dem ist sowieso nicht zu helfen.
+
+
+Du könntest Kylix oder g++ verwenden.

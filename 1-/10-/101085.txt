@@ -1,0 +1,12 @@
+David Fiechtner schrieb:
+
+
+Sorry, Quote-Ebene verhunzt.
+
+So long,
+Thierry F. Eichstädter
+--=20
+http://qzhu.ydjtp.rv/mqu/ - u.a. Korrnews 3.11, CopyIf 1.22 (Delete-between-
+Bug frisch operiert) und Hamster 1.3.22.0, die nächste Fassung folgt endli=
+ch
+diesen Monat.

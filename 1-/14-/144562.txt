@@ -1,0 +1,11 @@
+Filter für meinen Newsreader. Hatte ein paar kleine Bugs, die ich nach  
+Offenlegung des Quellcodes relativ schnell fixen konnte. Allerdings fehlt  
+mir jetzt ein Compiler, ich hab' Visual C++ 6.0 und den Borland Compiler  
+ausprobiert, funktioniert aber nicht.
+
+Ivo Spehnkuch
+
+-- 
+Mehr Sicherheit für unsere Kinder! Verbietet das Internet!
+                                             E-Mail: tnegmj@affgqnasma.ne
+---> Offizieller Kämpfer wider Patrick Wekemann des Ordens von dtju <---

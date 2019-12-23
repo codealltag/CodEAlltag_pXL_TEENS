@@ -1,0 +1,12 @@
+Benjamin Jungclaussen hat geschrieben getan getutet:
+
+
+Mhm.
+Ich glaube, Benjamin hat ein Problem.
+
+-walter
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Michael 'pi' Piwinger in de.alt.sysadmin.recovery

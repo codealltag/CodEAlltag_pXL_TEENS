@@ -1,0 +1,11 @@
+Thorsten Buschkühl wrote:
+
+Und die Kritik an slrn 'IIII, das ist ja Text!' mag ich auch nicht.
+Ich hab ne Menge Newsclienten ausprobiert, einige in der Gründig, 
+mehrere unter X, die meisten für Win32, und slrn ist wirklich der, der
+IMO am besten ist. (Grade wegen dem UI). Am nähesten rankommen tut IMO
+XNews für win32, kann aber (in Deutschland) nur zusammen mit lokalen
+Newsserver betrieben werden, gegen den sich aus welchem Grund auch immer
+die meisten sträuben...
+
+verhoelsdonk

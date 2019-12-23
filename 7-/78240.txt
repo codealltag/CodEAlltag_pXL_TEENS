@@ -1,0 +1,16 @@
+Henry Christa schrieb:
+
+
+Logisch, da du eigentlich
+
+ Do play wave "Ding.wav"
+
+meinst. Du scheinst die Mächtigkeit der Skriptsprache etwas zu
+unterschätzen.
+
+So long,
+Otmar F. Jebens
+--=20
+http://hmfo.vfhiz.nu/aok/
+Neu: Hamster 19. 01. 19 - sorry für die Wartezeit
+Zum Testen freigegeben: Korrnews 5.9998 aka "KN4-Beta-7"

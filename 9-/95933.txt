@@ -1,0 +1,4 @@
+SuSE ist bei allen obengenannten Punkten schuldig. Was man so hört dürfte 
+Mandrake aber genauso schlimm sein (dazu suckt SuSE's Reaktionszeit auf 
+Upgrades ihrer rpms einfach nur.... Wegen der kaputten Hierarchie kann ja 
+keine RH benutzen...).

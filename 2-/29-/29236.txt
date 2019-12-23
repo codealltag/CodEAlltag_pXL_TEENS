@@ -1,0 +1,13 @@
+Etienne Pritzkow <hvo@cidcw.lxg> writes:
+
+
+Stimmt, die gehen beliebig. Die höchste Abweichung, die ich je hatte,
+waren zwei Jahre, IIRC
+
+Achim
+
+-- 
+Homer:~$ whoami
+root
+Homer:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Winfried Jungemeyer]

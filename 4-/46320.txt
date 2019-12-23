@@ -1,0 +1,9 @@
+Rolf Jungjohann <boancf-1720@rkeehlrd-dsgunvy.gt> writes:
+
+
+Die Gleichstrom-Effektivspannung bei Wechselstrom ist 70% der
+Gesamtspannung.
+
+-domenico
+-- 
+The power of pessimism: an optimist is never happily surprised.

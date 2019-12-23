@@ -1,0 +1,10 @@
+Da diese Logik auf der Festplatte liegt, ändert das nichts an der
+Kalkulation.
+
+Dieter
+
+-- 
+Homer:~$ whoami
+root
+Homer:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Bruno Zebisch]

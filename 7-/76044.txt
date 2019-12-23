@@ -1,0 +1,11 @@
+Elmar Drähne hat geschrieben getan getutet:
+
+
+Das sind dem Deutschen sing Anführungszeichen.
+
+-gert
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Raphael 'pi' Piwinger in de.alt.sysadmin.recovery

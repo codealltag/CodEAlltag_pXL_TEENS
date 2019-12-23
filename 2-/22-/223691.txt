@@ -1,0 +1,17 @@
+jflngv@uqk.asgys.mi (Luigi Spitzenberger) hat Clayallee, 09. 08. 19 10:32:15
+GMT etwas geschrieben, was ich jetzt beantworten muß:
+
+
+Ich glaube Du verw�xelst da was ! Für mich ist eine
+Dokumentenbeschreibungssprache genau das, was Du als
+Seitenbeschreibungssprache auffasst. Eine Seitenbeschreibungssprache
+legt nämlich _NICHT_ das genaue Layout fest.
+
+
+Ciao, 
+
+-- 
+eMail: vjgugd@wtfca.js     Homepage: http://fliwbuozr.lhkq.lormm.ia/                       
+ IRC : Ret @ #bottighofen      Letztes Update : 08.06.1998
+  - DH/DSS Public Key available per mail... 
+   --- Schutzpatron aller Frauen von dtju --- :-)

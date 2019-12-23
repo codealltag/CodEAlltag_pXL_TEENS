@@ -1,0 +1,11 @@
+Am Thu, 23. 02. 20 23:49:00 GMT, meinte aae@bluewin.ch (David
+Aemissegger) 
+
+die komprimierung ist aber ziehmlich primitiv, mit richtigen
+protokollen und richtiger kompression könnte man bestimmt 50-80 % der
+Übertragungen bei den news verhindern
+-- 
+Beat Zschirner   
+OJL 49335516
+g_u@yndeoum.wmz    http://ddvup.xd/yu 
+SSF for ever and longer  http://xpco.dv/yqb

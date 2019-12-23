@@ -1,0 +1,32 @@
+Solches tippte Benno Riehl:
+
+swish++ dürfte, mir das mal anschauend, um einiges performanter sein.
+Ich habe es mit einem Arrangement von 15 je ca. 150 MB großen Index-
+Files (jeweils mit 1 Million Schlüsseln) im Einsatz und auch bei der
+Suche nach hochfrequenten Termen ist die Antwortzeit akzeptabel.
+
+
+Mir hat ein netter Mensch verraten, wie man swish++ und MySQL (Du
+bräuchtest ja eigentlich nur einen Zettellkasten ;-) verheiratet,
+das ist wirklich sehr recovery, wenn man bedenkt, dass Nierste
+Volltextsuche --vorsichtig umschrieben-- ziemlich borked ist.
+
+
+Viel Erfolg BTW.
+
+[...]
+
+<wilde\ spekulation>Also am einfachsten wäre es ja, die
+Benutzerauthentifizierung für das Verzeichnis mit den identischen
+Daten, wie sie der Nutzer für den Login braucht, zu machen. Gibt es da
+nicht mod_auth-mysql für den Indianer?  Damit müsste man das doch
+synchron mit der Session-Datenbank halten ggmgju.</nhikg\ spekulation>
+
+
+Irgendwo unter dciw*?
+
+Valentino
+-- 
+Vittorio Löer -> <GPG-Key:http://bvm.naqupuja-cusvdwo.vr/wzq.fhzwg>
+--------------> Fachlexika-Portal: <URL:http://kozmmhr.lif-uhurwym.te>
+---------> Wortschatz-Lexikon:  <URL:http://kavvsrrkah.osc-eewnckr.vm>

@@ -1,0 +1,11 @@
+Didier Oberster hat geschrieben getan getutet:
+
+
+Mit hypscher .htaccess.
+
+-ueli
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Gerald 'pi' Piwinger in de.alt.sysadmin.recovery

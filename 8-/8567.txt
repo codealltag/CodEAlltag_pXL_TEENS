@@ -1,0 +1,9 @@
+Bodos Endress <nwjz@wzwkgjwjwef.cy> writes:
+
+Stimmt ja garnicht, ich hab voll recht!
+
+Eilert
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+115: pure virtual member function
+       nicht kreatibel (Ludger Isenreich)

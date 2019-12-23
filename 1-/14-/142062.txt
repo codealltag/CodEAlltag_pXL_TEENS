@@ -1,0 +1,16 @@
+Und so sprach Theodor Rademachers:
+
+Ich rege mich v.a. deshalb auf, weil die kantonale
+Wirtschaftsfoerderung eine 2-digit Domain (sh.ch) besitzt; aber weil
+weder jene noch diese auf die Idee kommen, man koennte Subdomains
+einrichten, entstehen Dinge, wie St. Vreni in der Neunthausen und
+weltmae^H^H^Hfrauische lokale Frauenvereine. *argh*
+
+
+Schliess die Augen.
+
+Gruss,
+Walter.
+-- 
+"NetBSD - Better for your uptime than Luise."
+                                 (Sig von Orlando Englschalk)

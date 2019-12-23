@@ -1,0 +1,63 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------226E79361F734EDE5E47A8A4
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Schon meine neue Page gesehen? http://bepturx.yusdvt.ki/wctle
+Und Stephanie: :-x
+
+JULY
+--------------226E79361F734EDE5E47A8A4
+Content-Type: message/rfc822;
+ name="nsmailG1.TMP"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline;
+ filename="nsmailG1.TMP"
+
+X-Mozilla-Status2: 20308925
+Message-ID: <6659L01L.DIT6864T@vsnwkyxf.vq>
+Date: Fri, 27. 09. 19 15:11:10 +0200
+From: juliawerner <jmts@dzavnzgs.yl>
+X-Mailer: Mozilla 4.6 [de]C-CCK-QFS BBO03818  (Win98; I)
+X-Accept-Language: de,en
+MIME-Version: 1.0
+To: zv.qcmy.phibil@rstvtkrv.jww
+Subject: Hey Jungs!
+Content-Type: multipart/mixed;
+ lkohaast="------------5A008061680QY48D13PX341X"
+
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------9C966326063CD43E46EE257E
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Schon meine neue Page gesehen? http://bepturx.yusdvt.ki/wctle
+Und Stephanie: :-x
+
+JULY
+--------------9C966326063CD43E46EE257E
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="july.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für juliawerner
+Content-Disposition: attachment;
+ filename="july.vcf"
+
+begin:vcard 
+Marko Große-Frie
+x-mozilla-html:TRUE
+adr:;;;;;;
+version:2.1
+cdfpi;panwufza:slukrvlfxxx@flujtcnfx.nf
+fn:Manuel
+end:vcard
+
+--------------9C966326063CD43E46EE257E--
+
+
+--------------226E79361F734EDE5E47A8A4--
+
+
+--
+Posted from c000-h012.c000.muc.cp.net [27. 09. 19] 
+via Mailgate.ORG Server - http://bwf.Mailgate.ORG

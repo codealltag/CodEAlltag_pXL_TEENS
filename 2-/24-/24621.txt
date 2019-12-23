@@ -1,0 +1,10 @@
+Othmar Kichler <doogec-hqab-998860@igwm.bhgtlw.dp> writes:
+
+
+Falls CD-Rom-LW, habe ich hier ein Knoppix. Ansonsten Diskette. Und
+danach per Netz. So mache ich das jedenfalls.
+
+Ivan
+
+-- 
+            It is easier to fix Unix than to live with NT.

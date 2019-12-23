@@ -1,0 +1,13 @@
+Dirk Wulfhorst schrieb:
+
+
+Also die Funktion delete_subthread scheine ich jetzt doch öfters als
+gedacht zu brauchen.
+
+Joachim
+
+-- 
+StarOffice 4.0:
+ "Das Dokument wurde für den Drucker Canon Bubble-Jet BJ-200
+  formatiert. Der Drucker ist nicht vorhanden.
+  Soll der Standarddrucker Canon Hairfree-Jet BJ-200 verwendet werden?"

@@ -1,0 +1,8 @@
+Also sprach Claudio 'Meep' Richter <abfa+xbcn@mfeslge.jcg>:
+
+
+Bei uns erst Turingmaschine, Berechenbarkeit und
+NP-Vollst�ndigkeitstheorie in Theorie I. Jetzt in Theorie II endliche
+Automaten.
+
+Luciano

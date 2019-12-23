@@ -1,0 +1,13 @@
+Ottmar Fosbenner schrieb:
+
+
+Richtig. Das wäre wohl auch mein Gedanke.
+
+Dominik,
+huh?
+
+-- 
+ADF:
+  "Es wurden keine zu übermittelnden Objekte markiert.
+   Es wurden keine zu löschenden Objekte markiert.
+   Alle anstehenden Objekte werden übermittelt."

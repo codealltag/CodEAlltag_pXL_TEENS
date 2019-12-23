@@ -1,0 +1,7 @@
+Einspruch. Plaintext-Tabellen sehen ohne Einrückungen komisch aus.
+
+mfg, 
+	Pierre
+-- 
+BOFH excuse #198:
+Post-it Note Sludge leaked into the monitor.

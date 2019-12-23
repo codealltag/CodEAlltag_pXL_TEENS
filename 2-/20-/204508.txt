@@ -1,0 +1,28 @@
+bfxn.qpexbtpm@fbd.dz (Wilhelmine Notthoff) schrub/wrote:
+
+
+Killefitz. Da man mal Posting und Mail verwechselt, kann passieren und
+wird es auch immer wieder, vgl. die geposteten Wahlscheine in
+de.admin.news.groups (zum Teil auch von Leuten, von denen man das nicht
+vermuten würde). Da Mailzitate ein absolutes No-no sind, muß einem auch
+erst mal gesagt werden (ich hätte bspw. keine Probleme, im Freundes- und
+Kollegenkreis zu erzählen, wenn mir jemand einen seltsamen
+(konventionellen) Brief geschrieben hätte). Und für die Flohquadrat kannst Du
+vermutlich auch weniger (oder bist Du bei Euch daheim für den Server
+zuständig? [1]).
+
+Also alles im grünen Bereich. Wenn auch nur 30% der Neueinsteiger im
+Usenet sich so verhalten würden, wären das paradiesische Zustände.
+
+Gruß,
+Reto
+
+[1] In de.comm.software.newsserver lief demletzt eine Diskussion, wie man
+INN die "richtige" Message-ID beibiegen kann, ohne den Rechner
+umzubenennen; dazu muß man allerdings am Sourcecode fummeln. Bei Interesse
+kann ich den wesentlichen Teil daraus auch mal per Mail verschicken.
+-- 
+Reto Burgbacher * IYfwczifgm@lsm.hf * http://slidreg.odse.ktyno.wd/
+"Nimm deine Arbeit wichtig, wie bescheiden sie auch sei - sie ist etwas,
+das dir bleibt in den wechselnden Glücksfällen der Zeit." [7/16]
+Aus der alten Oedesse in Ringgau, 1693

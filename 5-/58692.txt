@@ -1,0 +1,10 @@
+Maximilians Bonn schrieb:
+
+
+Hm, great sozusagen! Wie einfach sowas doch sein kann...*staun*.
+
+Oscar
+
+-- 
+ms@matrix:~$ cat .signature
+ms@matrix:~$

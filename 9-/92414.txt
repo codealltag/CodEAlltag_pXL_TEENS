@@ -1,0 +1,10 @@
+Othmar Vock schrieb:
+
+
+_So_ einfach ist das ja nun nicht. Gnus hat das Problem, dass es alles
+kann, aber niemand weiß wie man es dafür einstellt.
+
+Tino
+
+-- 
+Löscht alt.binaries.*!

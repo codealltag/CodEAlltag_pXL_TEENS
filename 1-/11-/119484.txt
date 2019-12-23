@@ -1,0 +1,16 @@
+Carlo Altenkrüger <jrwj@aeffrmvm.mw> writes:
+
+
+Winzip: Keine Ahnung.
+
+hauke@donald:~$ ls -l 4GB_nullen.*
+-rw-r--r--    1 hauke    max        3071 Jessin  9 18:57 4GB_nullen.bz2
+-rw-r--r--    1 hauke    max     1175086 Achenbach  9 19:08 4GB_nullen.gz
+
+
+Wie gesagt: Was ich damit anstellen will wird nicht gesagt.
+
+Max
+-- 
+Was haben ein Goldfisch und ein Laserstrahl gemeinsam?
+Sie können beide nicht pfeifen!

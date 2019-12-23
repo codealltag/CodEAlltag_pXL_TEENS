@@ -1,0 +1,10 @@
+* "Ivo Abröll" <steo@nesdmghb.bj>:
+
+
+(setq gnus-cite-minimum-match-count 1)
+
+hast du schon gesetzt?
+
+Bruno
+-- 
+cross veinless

@@ -1,0 +1,9 @@
+(* Ulrich Petzschmann wrote: *)
+
+
+Also ich weiss nicht... wenn ich ein paar mehrfach verschachtelte 
+Framesets habe, und per JS ein Fenster neu laden lassen möchte, dann 
+komme ich aber schon ans nachdenken, wie denn jetzt noch der 
+Fenstertitel war.
+
+Dieter

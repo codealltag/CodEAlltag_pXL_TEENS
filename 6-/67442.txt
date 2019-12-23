@@ -1,0 +1,9 @@
+Ernest Lohbihler <tuljio-2637@vbxusmhl-rehauzc.tj> writes:
+
+
+*seufz* Keine Klammern wäre in Java nett, weil ich dann nicht mehr mir
+anderthalb verschiedenen Präferenzen für Klammern arbeiten müsste...
+
+Berend
+-- 
+Mach dich mal gross und nuetzlich. [Hugo wollte in Stefans Windschatten]

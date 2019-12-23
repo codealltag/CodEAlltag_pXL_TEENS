@@ -1,0 +1,12 @@
+Oskar Paulusch schrieb:
+
+
+Als ich es installierte hatte ich an sowas überhaupt nicht gedacht.
+Aber irgendeine kleine Partition habe ich noch drauf. Könnte man ja
+dort installieren. FAT32 ist das ja eh alles noch.
+
+Oscar
+
+-- 
+"Mehrheiten können sich, wie die Geschichte lehrt, sehr wohl irren."
+ (Fernand Eisfelder)

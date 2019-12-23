@@ -1,0 +1,8 @@
+Emma Wennesz wrote:
+
+Wohin denn ?
+
+-- 
+Wolfram, :)
+if(!exit(1))
+  fprintf(stderr, "exit call failed.\n Program will continue.\n");

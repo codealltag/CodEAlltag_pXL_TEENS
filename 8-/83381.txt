@@ -1,0 +1,10 @@
+Ivano Zuckschwerdt wrote:
+
+Und in den restlichen 25 Tagen?
+
+Noël
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+sbzo_tsbffeh)->nxv(@crejy_pdbochp_rztj[$pvvdy_basdxha_rgk_ukidgbt])->sf_jaedyj()

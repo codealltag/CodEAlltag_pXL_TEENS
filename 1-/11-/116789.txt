@@ -1,0 +1,9 @@
+Nikolaus Chester <xlvzvjz667557@sxeyif.ux-w.cc> writes:
+
+
+s/n\ /\n,\ /
+s/chs/x/
+
+Edmund
+-- 
+                       There's no place like ~

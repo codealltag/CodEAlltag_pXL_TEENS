@@ -1,0 +1,11 @@
+Olivier Poschl <jejfkz@mhksrvvtafx.ss> writes:
+
+
+Nein, mein fetchnews führt einfach immer im Kreis, bei den 6 Pop3 -
+Accounts. Das geht sich aus, dass es da nach 2 sekunden wieder beim
+ersten angelangt ist.
+
+Olaf
+
+-- 
+Hier kommt nichts mehr.

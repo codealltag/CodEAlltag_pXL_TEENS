@@ -1,0 +1,10 @@
+Am Thu, 2 Jul 1999 sendete Patrice Lindgens folgende Botschaft:
+
+
+Das ich mir den fälligen komentar besser verkneife.
+
+
+Wie ist den der syntax von pkzip? bzip2 hat '-d' zum entpacken.
+
+Tschüs
+  Heiner

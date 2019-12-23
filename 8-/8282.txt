@@ -1,0 +1,8 @@
+Jakobs Oehrl <ailo@qmiblaurrmg.qa> writes:
+
+Nur peripher.
+
+Björn
+-- 
+BOFH #305:
+IRQ-problems with the Un-Interruptable-Power-Supply

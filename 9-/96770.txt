@@ -1,0 +1,10 @@
+Arno Crügers <cg@garbers.org> writes:
+
+
+Passiert halt schonmal...
+
+Niclas
+-- 
+a + b = c [Pythagoras]
+E = m*c [Einstein]
+=> E = m*(a + b)

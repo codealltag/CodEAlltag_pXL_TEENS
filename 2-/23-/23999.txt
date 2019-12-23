@@ -1,0 +1,12 @@
+Karlheinz Caks <nwp@ohwzg.nmu> writes:
+
+
+Einer der Gründe, warum mySQL keine Datenbank ist, sondern ein
+Speicherbereich, den man zufällig mit SQL-Befehlen bearbeiten kann.
+
+Sven
+
+-- 
+"Winter bzw K�ltest�rme haben wir doch fast nie im Februar;
+davon haben wir mehr im Sommer."
+[Meine Oma]

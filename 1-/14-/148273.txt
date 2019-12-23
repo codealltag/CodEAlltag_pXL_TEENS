@@ -1,0 +1,8 @@
+Zu lange Signatur und uncodierte 8Bit-Zeichen im Header.
+
+Roman Haubenschill
+
+-- 
+"Arbeiter aller Länder vereinigt euch! Alles was ihr verlieren könnt,
+ sind eure Ketten!" (Mesmerode in ST-DS9: Bar Association)
+---> Offizieller Kämpfer wider Jean-Pierre Erdbürger des Ordens von dtju <---

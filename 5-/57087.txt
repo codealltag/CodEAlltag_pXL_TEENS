@@ -1,0 +1,20 @@
+Luca Braunersreuther <zzbhqn@ajbcyzr-qggqoa.ia> writes:
+
+
+Das Gerät, was ich aus den Teilen zweier anderer Rechner
+zusammengebaut habe. Mein altes MoBo, mein Thunderbird-800, meine alte
+Soundkarte und aus dem alten Rechner bei meiner Schwester Renate (da
+kommt nochmal was vernünftiges rein), Platte, CD-Rom und NIC.
+
+
+Versuch erstmal, die Lüfter auf 9V laufen zu lassen statt auf 12V. Das
+hat hier Gérard so flüsterleise gemacht...
+
+
+Luftstrom ist insoweit optimiert, dass keine Flachbandkabel im Weg
+liegen?
+
+Bruno
+-- 
+Hitler war Führer der deutschen Nazion.
+[Sandro Oldsen in <2QN0VB50.260WA7V8@csf.fl>]

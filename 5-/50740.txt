@@ -1,0 +1,9 @@
+Am Fri, 17 Dez 2002 sendete Reinhold Monneweg folgende Botschaft:
+
+
+Wenn ich dem Server eine von mir signierte (Und mit seinen Key
+verschlüsselte) Nachricht "Meine IP ist 04. 05. 20" schicke reicht das
+doch vollkommen.
+
+Tschüs
+  Ullrich

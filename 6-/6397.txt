@@ -1,0 +1,7 @@
+Vinzenz Verwied schrieb:
+
+
+man portmap *g*
+
+Aber mal ernsthaft, das läuft nur, wenn man Uvos nutzt. Bzw. läuft es 
+hier nur, wenn Uvos läuft, weil ich sonst nix hab, was portmap braucht.

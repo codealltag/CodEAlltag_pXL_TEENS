@@ -1,0 +1,7 @@
+Apache, mit PHP und Perl... und dnip.net is ein Service für dynamische
+IP-Adressen (ihr wisst, was ich meine).
+-- 
+
+Der Mond ist kleiner als die Erde.
+Das liegt aber auch daran,
+dass er so weit weg ist.

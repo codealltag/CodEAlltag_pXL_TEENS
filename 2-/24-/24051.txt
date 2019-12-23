@@ -1,0 +1,11 @@
+Und so sprach Fred Würdemann:
+
+
+*g* Einer der guten Gruende, Manowar-Konzerte zu meiden. :)
+
+Gruss,
+Pietro.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

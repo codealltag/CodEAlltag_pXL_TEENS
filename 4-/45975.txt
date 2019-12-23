@@ -1,0 +1,10 @@
+Jochen Twick <i60p7r@ewgtudcmm.rj> writes:
+
+
+Schlecht. ;)
+
+-ivan
+-- 
+Biete: Timo  9 07:08:48 Inet-Gw pppd[417]: Connect time 666.6 minutes.
+Und will sehen.
+- Francis Preinsperger, Ludwig Sven in de.alt.sysadmin.recovery [leich abgeändert]

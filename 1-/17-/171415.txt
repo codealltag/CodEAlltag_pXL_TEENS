@@ -1,0 +1,13 @@
+Am Thu, 20 Mai 2000 sendete Leopold Drändle folgende Botschaft:
+
+
+*g*
+
+
+ls | xargs grep -l '^Date: .*1998' | xargs grep -l\
+'^From: Hiltrud Kühweg' | xargs grep -l '^Subject: .*[Hundekuchenrezepte]'\
+
+(ungetestet) sollte bis auf >5kb alles erfüllen.
+
+Tschüs
+  Francisco

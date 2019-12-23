@@ -1,0 +1,41 @@
+Stefano Munt meinte kundzutun:
+
+
+posner@else:~ > telnet localhost 119
+Trying ::1...
+Trying 13. 06. 20...
+Connected to localhost.
+Escape character is '^]'.
+200 Leafnode NNTP Daemon, version 25.3.19 running at ofvv.hakthzez.vd
+help
+100 Legal commands
+  article [MessageID|Number]
+  body [MessageID|Number]
+  group newsgroup
+  head [MessageID|Number]
+  help
+  ihave
+  last
+  list [active|newsgroups] [group_pattern]
+  listgroup newsgroup
+  mode reader
+  newgroups yymmdd hhmmss ["GMT"] [<distributions>]
+  next
+  post
+  slave
+  stat [MessageID|Number]
+  xhdr header [range|MessageID]
+  xover [range]
+.
+quit
+205 Always happy to serve!
+Connection closed by foreign host.
+posner@else:~ >
+
+"article/body/head". Na gut. Aber gleich ineffizient. Aber das "ihave" deutet
+immerhin auf F�tterbarkeit des leafnode hin.
+
+Ernst
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Donnerstag, dem 17. Mai im Jahre des Herrn 2002 verfaßt.

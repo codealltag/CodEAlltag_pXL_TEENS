@@ -1,0 +1,11 @@
+Und so sprach Giuseppe Huisman `Artur' Heckler:
+
+
+Er schreibt, dass NP = N und rettet damit den Schein, Informatik wäre
+ne Wissenschaft.
+
+Peter
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

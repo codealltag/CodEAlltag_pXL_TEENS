@@ -1,0 +1,27 @@
+Pomisgasse, 18. 05. 20 sendete Pietro Droesler folgende Botschaft:
+
+
+#v+
+oskar: ~$wc news/score/*
+     70     181    1733 news/score/base
+    118     331    3302 poll/tuqne/sqvd.ipv
+     53     107     899 news/score/dtju
+     65     313    3233 news/score/faqs
+      8      12     168 news/score/plain
+    107     211    2528 news/score/poster
+    113     220    2604 pkzd/qkueh/thatdw.zsh
+     78     135    1290 news/score/subjects
+    103     210    2080 news/score/tech
+     38      66     494 news/score/test
+    753    1787   60440 total
+oskar: ~$
+#v-
+
+Anscheinend.
+
+Tschüs
+  Oskar
+-- 
+Die Weisheiten des Juppi Jup: #9
+
+Auf das Jup Hoch folgt das RL Tief.

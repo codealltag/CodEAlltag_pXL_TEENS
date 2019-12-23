@@ -1,0 +1,12 @@
+Carsten Doerge hat geschrieben getan getutet:
+
+
+/me ist zu inept, um per Zufall oder durch gezieltes Suchen sie zu
+ finden.
+
+-ralf
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Christophe 'pi' Piwinger in de.alt.sysadmin.recovery

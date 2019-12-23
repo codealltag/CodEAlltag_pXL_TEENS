@@ -1,0 +1,10 @@
+Brunos Pfaff schrieb:
+
+Seit wann spielt die Klein/Großschrift keine Rolle bei einem unixoiden
+Programm?
+
+So long,
+Björn W. Erftmeyer
+--=20
+http://ijme.uavez.rx/wdl/
+Endlich: Hamster 1.6.28.7  & Korrnews 4.01 (Some [minor] Bugs deleted)

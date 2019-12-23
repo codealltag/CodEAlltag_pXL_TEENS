@@ -1,0 +1,2 @@
+Anf�ngerfreundliche MTAs? Sowas gibt's IMHO nicht. Aber von sendmail würde 
+ich auf jeden Fall meine Finger lassen.

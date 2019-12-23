@@ -1,0 +1,9 @@
+On Mon, 29. 10. 20 00:17:36 +0100, Arthur Ilnseher wrote:
+Das sollte machbar sein. Dein Server ist doch debian, oder?
+
+mfg, 
+	Niko, mit Grausen an die dependancies von Rechnern anderer
+	Leute beim ECZW-Installieren denkend.
+-- 
+Pasquale Nikolaus Ibe, Naicha, Germany
+Info-Student, Freizeit-Handwerker und Pedale-Nutzer

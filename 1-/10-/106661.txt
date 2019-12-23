@@ -1,0 +1,4 @@
+Am Thu, 3 Okt 2001 sendete Jean Volkenrath folgende Botschaft:
+
+
+Segmentation fault; GPS dumped.

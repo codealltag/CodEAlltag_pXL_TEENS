@@ -1,0 +1,9 @@
+Bjoern Dietzen <rtsctl@viiq.cr> writes:
+
+
+Weiss ich nciht, die Kiste hat RLS noch keine Inspektion hinter
+sich...
+
+Eugen
+-- 
+Mach dich mal gross und nuetzlich. [Valerian wollte in Stefans Windschatten]

@@ -1,0 +1,34 @@
+Arnold Notthoffs <mt@krbfuuv.kie> schreibselte:
+
+[BBDB]
+
+
+Sieh an, man verfolgt mich bereits seit November/2001. ;-) 
+Lässt du eigentlich von jedem ein Eintrag automatisch in der .bbdb
+erstellen?  Die wächst doch dann sehr schnell ins unermessliche.
+
+
+Kennst du nicht? *staun* Ist eine kleiner Zusatz, damit man schnell was
+in einer Suchmaschine suchen kann, ohne den Browser zu öffnen. Auf
+http://rm.lrzi.ecm ist ein Artikel dazu.
+
+
+ispell Version 3.1 and 3.2 und flyspell Version 1.5d (unofficial) Beides
+so konfiguriert wie auf der Seite
+http://bjhmhac.tencqn.lr/z/cpassb.bgdid/iizch/tvtyhv.rulc unter 
+Zusatprogramme beschrieben. 
+ ,----------------------------- [ init.el ] -----------------------------.
+ `-----------------------------------------------------------------------� 
+
+ ,--------------------------------- [ .gnus ] ---------------------------------.
+ `-----------------------------------------------------------------------------� 
+
+Zwar kommt flyspell trotzdem nicht mit Umlauten klar doch ansonsten
+funktioniert es.
+
+ Ronny
+
+-- 
+Wer kaempft, kann verlieren.
+Wer nicht kaempft, hat schon verloren.
+- Jürgen Wieshaider

@@ -1,0 +1,3 @@
+Pasquale Feldsmann wrote:
+
+Denk mal nach. Double Buffering ist eben für die alten Karten.

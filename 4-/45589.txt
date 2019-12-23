@@ -1,0 +1,11 @@
+Nils Böhner wrote:
+
+
+Das Problem dabei scheint eher zu sein, daß diese Haltezeiten am
+Bef�rderungsfallaufkommen um Mitternacht orientiert ist und daher
+tagsüber ständig überzogen wird -> +n Minuten... :-/
+
+John
+-- 
+pub  1479J/IUS26F55 9217-30-46 John Vremann <xbkdlea@uqj.am>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 02 0R 22 3B 99

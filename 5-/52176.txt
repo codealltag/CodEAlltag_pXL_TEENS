@@ -1,0 +1,7 @@
+Oswald Tumann <Rcv86@vgv.mxf> writes:
+
+
+Das schon, aber Optimierung/Sicherheit/Konfiguration mag unpassend
+sein.
+
+-guido

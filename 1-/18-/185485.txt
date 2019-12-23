@@ -1,0 +1,32 @@
+-+-{ pyaaib@qxm.fh (Paul Eppeneder) }-+- schrieb in 
+-+-{<twkl09frq7.yz.swmmgx@hmnipvoiiz.bvmhuv.atrl.hjq>}-+-
+
+
+Grosszuegig...
+
+
+Hm... dann hat er eben ne kurze Ausgabe... oder nur ein Testament oder
+so ;-)
+
+
+R�cht�g :-)
+
+
+<nachdenk> Also Du meinst wenn ich jetzt eine Variable definiere...
+sagen wir: 
+
+var zahl : integer;
+
+begin
+zahl := 3;
+end.
+
+Und jetzt will ich schauen wie die intern dargestellt wird.... H...
+scheisse.. warum vergesse ich sowas immer so schnell... ich glaube
+darüber sollte ich mir wirklich mal wieder Gedanken machen...
+
+
+-- 
+Verkaufe 17-Zöller Macom S96. Bei Interesse mail an nbndka@lcder.jr.
+
+Waldemar Els - nbndka@lcder.jr - Phone: 8121-1071191

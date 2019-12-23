@@ -1,0 +1,14 @@
+Am Sun, 1 Mrz 2003 sendete Willi Gänslein folgende Botschaft:
+
+
+Wie fängt man einen Elephanten, teil 80%:
+
+dtjuler fangen einen Elephanten indem sie solange den Kontext ignorieren
+bis der Elephant von selber im Thread landet.
+
+Tschüs
+  Noël
+-- 
+Mein Beileid - das Voigtbäck-Deutsch ist irgendwie sehr eigenwillig, frei nach
+dem Motto: "verdeutsch Dich, oder ich pruegel Dich ins Dudenformat".
+(Italo Vonau in <twqu6u6h38.z71.cdc@pzzzizuqztxk.mt>)

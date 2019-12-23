@@ -1,0 +1,11 @@
+Und so sprach Oda Mitterlehner:
+
+
+Nein, aber ich hab immer noch volle.
+
+Gruss,
+Knut, seit gut 2.5 Jahren. :)
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

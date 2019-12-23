@@ -1,0 +1,9 @@
+Solches tippte Werner Federhen:
+
+parse error.  Du hattest eine "A oder B oder C" Frage gestellt, mit
+C als beliebig wählbarer Bedingung.  Da kann man nur noch ja sagen.
+
+SCNR,
+Othmar
+-- 
+N/A

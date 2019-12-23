@@ -1,0 +1,14 @@
+Am Sun, 11 Dez 2001 sendete Jean-Paul Oewerdieck folgende Botschaft:
+
+
+Du liest dcsnr oder nsr? Das ist da ein FAQ. 
+
+
+Da wirst du dann wohl einen followup_hook in slang definieren müssen.
+
+Tschüs
+  Tino
+-- 
+Die Weisheiten des Juppi Jup: #5
+
+Ivo Senkpiel rockt.

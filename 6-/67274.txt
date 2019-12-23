@@ -1,0 +1,27 @@
+Pauline Doepfer meinte kundzutun:
+
+
+Hm?
+
+
+Nein.
+
+gut != sleszt.
+szleszt != gut.
+
+!true = false
+!false = true
+
+Aber:
+
+1 != 2
+2 != 3
+3 != 1
+
+
+Nein. DAS nicht. Definitiv nicht.
+
+Waldemar
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Mittwoch, dem 22. September im Jahre des Herrn 2001 verfaßt.

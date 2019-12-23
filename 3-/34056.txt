@@ -1,0 +1,12 @@
+Am Fri, 3 Jan 2003 sendete Silvio Münichsdorfner folgende Botschaft:
+[...]
+
+Moment, was willst du Toitsche oder vernünftige Meldungen etc?
+Bis auf LC_CTYPE sollte eigentlich alles ungesetzt sein.
+
+
+*g* Das jetzt noch noch de_DE@euro zu setzen dürfte auch nicht mehr viel
+ändern, eigentlich.
+
+Tschüs
+  Bernd

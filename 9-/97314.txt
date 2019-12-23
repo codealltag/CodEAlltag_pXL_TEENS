@@ -1,0 +1,59 @@
+Hero Rahnschlägers <cg@garbers.org> writes:
+
+
+Ist der Zustand nach dem letzten Aufräumen gestern, ich hab ein paar
+Gruppen, die ich wochenlang immer per cupcake entsorgt habe, beseitigt
+habe.
+
+[ Gnus -- 2545 ]
+     0 unread    53: 0 de.admin.news.announce
+    47 unread  2977: 0 de.admin.news.groups
+     0 unread   225: 0 de.alt.netdigest
+    99 unread  5386: 0 de.alt.talk.kasper
+     0 unread   780: 0 de.alt.arnooo
+    68 unread  4233: 0 dv.dxt.duosdelp.muzledyi
+   116 unread  3995: 0 bv.iopi.phbbxfnp.jgtraosszt
+   312 unread  3622: 0 de.comp.hardware.laufwerke.brenner
+   155 unread  1898: 0 qo.vitm.cwjujheu.horfzfuhm
+     0 unread   232: 0 de.rec.sf.startrek.10vorne
+     1 unread  1291: 0 de.rec.sf.startrek.misc
+     0 unread  2400: 0 de.rec.sf.startrek.voyager
+   415 unread 10030: 0 de.talk.jugend
+   247 unread  4755: 0 jn.ociq.pdeeesxun
+   346 unread  3302: 0 de.talk.romance
+     0 unread   209: 0 free.kuwait
+    46 unread   520: 0 de.alt.admin
+  [ misc -- 72 ]
+       0 unread     0: 0 nnfolder+archive:nftj.9497-55
+       0 unread     0: 0 nnfolder+archive:oxee.0982-92
+       0 unread     0: 0 nnfolder+archive:pyjo.7489-97
+       0 unread     0: 0 nndraft:drafts
+       0 unread     0: 0 nnfolder+archive:uoug.0980-53
+       0 unread     0: 0 nnfolder+archive:veus.7724-74
+       0 unread     0: 0 nnfolder+archive:qopw.8693-08
+       0 unread     0: 0 nnfolder+archive:mpyq.5093-98
+       0 unread   277: 0 nnfolder+archive:zpso.9850-08
+       0 unread    35: 0 nnfolder+archive:fbom.7377-30
+      67 unread   705: 0 nnfolder+archive:gqus.0099-48
+       5 unread   151: 0 nnfolder+archive:nzpr.7225-64
+  [ RWTH/Agriswil -- 1 ]
+       0 unread     1: 0 rwth.informatik.hauptstudium
+       1 unread     3: 0 rwth.fachschaft.fsmpi
+       0 unread     1: 0 rwth.informatik.info1
+       0 unread     1: 0 rwth.informatik.atfs
+  [ qzjrlaeadtebh.xj -- 0 ]
+  [ Linux -- 280 ]
+     243 unread  2575: 0 de.comp.os.unix.linux.hardware
+      37 unread   470: 0 de.comp.os.unix.linux.moderated
+  [ Mails -- 340 ]
+      27 unread  4538: 0 nnimap+localhost:AIORT.nulxqg
+     313 unread  4622: 0 nnimap+localhost:INBOX
+       0 unread   136: 0 nnimap+localhost:RJSBJ.JVYKT
+       0 unread     0: 0 nnimap+localhost:XXCEL.DTHN
+       0 unread    64: 0 nnimap+localhost:INBOX.Linux-FAQ
+       0 unread     9: 0 nnimap+localhost:INBOX.Errors
+       0 unread     0: 0 nnimap+localhost:INBOX.Trash
+
+Ubbo
+-- 
+Avoid reality at all costs.

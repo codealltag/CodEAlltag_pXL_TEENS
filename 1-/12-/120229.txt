@@ -1,0 +1,11 @@
+begin quoting Stefan Tebben <he@zcfwejv.abn>:
+
+Das das Kürzen nicht notwendig war und daher auch nicht zulässig.
+RFC1036 äußert sich nur sehr nebulös[1] darüber, wann Kürzen zulässig
+sein könnte.
+
+[1] um genau zu sein gar nicht.
+-- 
+Wenn die VPK, Herr Vorbrugg, zum Thema Rechtsradikalismus im Internet fordert,
+das Material zu verbieten oder zu filtern, dann werfe ich Ihnen vor, die 
+Probleme nicht sehen zu wollen.    [Oswald Feuchtenschlager-Maghuhn in abelsgasse 82/0772, S. 104]

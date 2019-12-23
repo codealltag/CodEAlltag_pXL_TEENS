@@ -1,0 +1,11 @@
+Und so sprach Valentin Nijenkamp:
+
+
+Jap, gewisse Perlen gibts auch nur auf Vinyl.
+
+Gruss,
+Francisco.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

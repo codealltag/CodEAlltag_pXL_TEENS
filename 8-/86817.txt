@@ -1,0 +1,12 @@
+Am Sat, 26 Nov 2001 sendete Carl Gonser folgende Botschaft:
+
+
+Klar klappt das auch mit :wq, aber wer nimmt schon :wq? ;)
+
+Tschüs
+  Veit
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+André Mulke, Mostly Harmless, Chapter 12

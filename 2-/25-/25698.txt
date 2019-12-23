@@ -1,0 +1,7 @@
+Sigdatenbank aus den fortune-files.
+
+mfg, 
+	Steffen, ist nicht dazu gekommen, die alle zu lesen.
+-- 
+BOFH excuse #153:
+Big to little endian conversion error

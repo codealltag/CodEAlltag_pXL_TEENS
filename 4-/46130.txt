@@ -1,0 +1,14 @@
+Aus welchem Grund auch immer gab Niklaus Csaba bekannt:
+
+
+Warum?
+
+BTW, "$name $mail wrote:" halte ich aber auch für nicht besonders
+geeignet, da Culik eine E-Mailadresse in einer Einleitungszeile
+unsinnig ist.
+
+Bernd
+-- 
+In Linux werden mehr Sicherheitslücken gefunden.
+In Windows sind mehr Sicherheitslücken drin.
+(Eckhard Unterste in de.org.ccc)

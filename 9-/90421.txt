@@ -1,0 +1,15 @@
+Detlef Vaust schrieb:
+
+
+CopyIf.def:
+
+; Unix-Spoiler übersetzen
+Do Replace All Chr(12) with FillChar(FillChar(CR,6)+"
+<^L-SPOILER>",4)+FillChar(CR,6)
+
+So long,
+Detlef N. Drügh
+--=20
+http://whfc.tzngi.ka/hmc/
+Neu: Hamster 30. 01. 19 (hoffentlich endlich letzte Fassung vor 30. 01. 19)
+Ebenfalls neu: Korrnews 3.2 & CopyIf 1.23 (Debugmodus repariert u.a.)

@@ -1,0 +1,4 @@
+Niclas Zschischank wrote:
+
+
+Mit Variablen, die man nicht umdefinieren kann? Welcome to hell.

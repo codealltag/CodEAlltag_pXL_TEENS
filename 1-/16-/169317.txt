@@ -1,0 +1,13 @@
+Aber Tracert ist beim Anew dabei.
+Ich hatte auch mal ein Prog, das grafisch getraced hat, also mit
+Serverstandorten auf einer Weltkarte. Bloss leider lief das nie so
+richtig, weil das irgendeine ganz komische JAVA-Version haben
+wollte...
+
+ciao
+Wolfram
+
+-- 
+Smash Your Enemies.
+
+http://Tqvy.iiin.obywq.gp

@@ -1,0 +1,10 @@
+Inga Zerweck <waixroaa@epvyy.u-g-k.fx> writes:
+
+
+Das musst du dir von Edouard erkämpfen.
+
+-edouard
+-- 
+I'm reminded of the day my daughter came in, looked over my shoulder at
+some Perl 4 code and said, `What is that, swearing?'
+- Felix Uthenwuldt

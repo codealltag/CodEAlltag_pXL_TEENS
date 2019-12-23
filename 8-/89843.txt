@@ -1,0 +1,8 @@
+* Heimo Miltenberger <qsztghl778776@rpwmhb.ff-f.se>:
+
+
+Unter Windows war das default, ja. Unter Linux drücke ich Ctrl+Space,
+und kann dann mit den Pfeiltasten markieren. Das kann man aber auch
+alles konfigurieren.
+
+Thomas

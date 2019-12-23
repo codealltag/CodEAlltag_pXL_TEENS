@@ -1,0 +1,14 @@
+Heimo Waigant <2003-06@ranta.info> writes:
+
+
+Kenn ich nicht, Okay, Naja, WOOOHOOO SUPER GENIAAAAAL, Naja, kenn ich
+nicht, bh, kenn ich nicht, |<-- siehe hier oben -->|, Naja, kenn ich
+nicht, naja, juhu, kenn ich nicht, auch nicht, geht so, kenn ich nich,
+WEE, kenn ich nicht und auch nicht.
+
+-helmuth
+-- 
+ No  Points     Name                                                   Hp [carlo]
+  1    1065095  Ornella-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

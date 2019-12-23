@@ -1,0 +1,11 @@
+Gérald Jannsohn schrieb am 26. August 2000 um 13:17 Uhr folgendes:
+
+
+Sowohl unter "Internet" als auch unter "Intranet".
+
+Viele Größe,
+     Pasquale Mieschner
+-- 
+Q: Why can't you compare structs?
+A: Compare them to what?  A summer's day?
+                  -- comp.lang.c Answers to Infrequently Asked Questions

@@ -1,0 +1,15 @@
+On 2004-02-20, Paul Ullmer wrote:
+
+Das war ein Zitat, das sollte ich halt nicht korrigieren. Ich weiss
+selber, dass es grammatikalisch falsch ist.
+
+
+[Ich hasse es, wenn vim meint, wieder ganz intelligent zu autoindenten.]
+
+
+Und Nane sagt mir sehr wohl was. Ein bißchen Latein kann ich noch.
+--
+Ah, the beauty of OSS. Hundreds of volunteers worldwide
+volunteering their time inventing and implementing new,
+exciting ways for software to suck.
+- Tony Lassila, in the Monastery

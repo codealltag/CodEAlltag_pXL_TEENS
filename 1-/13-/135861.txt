@@ -1,0 +1,23 @@
+Charly Fluthwedel <htabnaz@omb.zj> writes:
+
+
+Bei meiner Privataddresse hab ich ssh zugang auf den Server, da ist das
+so. Ist üblich auf aldima - Systemen. (Und bekanntlich stammen pop3,
+tcp/ip, etc. auf aldima Systemen.)
+
+Würde man eine Datenbank einsetzten, würde der Prozessor noch weniger
+belastet.
+
+
+Ok, bei einer Datenbank ist das natürlich noch weniger Problem. Da wird
+nach algorithmen gearbeitet. Könnte schon sein, dass gmx das hat. Ist
+eigentlich vor 50.000 - 100.000 User nicht nötig. Aber Linabeck hat sicher
+mehr...
+
+
+Woher nimmst du eine Beschränkung?
+
+Christoph
+
+-- 
+Hier kommt nichts mehr.

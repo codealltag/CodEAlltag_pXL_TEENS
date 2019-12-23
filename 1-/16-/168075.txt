@@ -1,0 +1,6 @@
+Vinzenz Coler <kxhpfb@lzi.so> schrieb in im Newsbeitrag:
+5rwtdb14riynvrga21uxf7bpc30yql6umz@0ps.whg...
+(an
+
+RAID0 wird dir ziemlich sicher wenig helfen, die Ausfallsicherheit zu
+steigern...

@@ -1,0 +1,10 @@
+Ewald Steenweg wrote:
+
+Trotzdem stürzt es beim Kompilieren vom qt Snapshot ab, und zwar
+so das man nichmal mehr über n andres Terminal rankommt. Nicht gut.
+(Ok, wenn man nicht grad qt kompiliert läuft das Ganze bis jetzt
+ stabil und schnell...)
+
+naske
+-- 
+How do you make Windows faster ? Throw it harder

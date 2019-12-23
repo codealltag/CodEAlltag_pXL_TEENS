@@ -1,0 +1,9 @@
+Am Fri, 21 Dez 2002 sendete Heino Lauhöfers folgende Botschaft:
+
+
+N, es stimmt wohl schon, mit grösseren Versionsnummer wird INN schon
+empfindlicher bei Abstürzen, aber probleme z.B. mit der History gabs auch
+schon bei 1.x.
+
+Tschüs
+  Dietrich

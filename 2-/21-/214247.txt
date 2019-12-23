@@ -1,0 +1,12 @@
+On Sun, 28. 07. 20, Sascha Edenhoffer <JRmjbxikce@ewq.ja> wrote:
+
+[...]
+
+Wenn in der Partitionstabelle ein falscher Typ gesetzt wäre, dürfte
+Linux sie eigentlich auch nicht mehr mounten können. Scheint eher
+irgend ein Windows-Problem zu sein.
+
+Viele Größe,
+     Sascha Olerich
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

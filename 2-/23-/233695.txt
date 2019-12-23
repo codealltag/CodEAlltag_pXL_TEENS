@@ -1,0 +1,13 @@
+Wenn Du
+Gabriel$="klug"
+schreibst, ist es Basic V2 (C 64), das würde der String-Variable
+"Gabriel$" den Wert "klug" zuweisen, was selbstverständlich zwar
+syntaktisch korrekt wäre, aber logisch natürlich überhaupt nicht zu
+vertreten ist *g,d&r*
+
+
+Klar. Einfacher Wertevergleich.
+
+-- 
+Viktoria Jürgens-Auf-Der-Haar, Vlaminck, Germany
+http://Iwmy.xuqb.jcziq.zh

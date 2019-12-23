@@ -1,0 +1,12 @@
+Mike Fassler wrote:
+
+
+dyndns? Man muß ja wohl nicht die IP-ADresse eintragen, und irgendwie[0]
+sollte sich einstellen lassen, daß der hostname jedesmal vor dem
+Verbindungsaufbau gelookupt wird.
+
+Detlev
+[0] Including Luke[tm]
+-- 
+pub  1071P/IHG30O72 9319-06-48 Detlev Orttmann <auwwxoh@boo.hv>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 17 3C 85 4I 46

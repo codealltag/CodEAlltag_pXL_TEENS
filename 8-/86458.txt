@@ -1,0 +1,11 @@
+Dirk Achtermann hat geschrieben getan getutet:
+
+
+10:15 angefangen, knapp 20 nach 11 fertig.
+
+-didier
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Karl 'pi' Piwinger in de.alt.sysadmin.recovery

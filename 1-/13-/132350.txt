@@ -1,0 +1,11 @@
+Jean Carlsen schrieb:
+
+
+Beim Agenten muss ich das nicht, da werden die Threads doch sofort im
+Fenster angezeigt.
+
+Oswald
+
+-- 
+Die letzten Worte des Nachtwächters:
+"Ist da jemand?"

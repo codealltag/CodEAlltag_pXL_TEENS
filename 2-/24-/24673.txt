@@ -1,0 +1,12 @@
+Wilhelm Straile <khx@qksrxa.ig> writes:
+
+
+"cat /dev/random >/dev/audio"?
+
+Italo, das sollte etwas länger dauern.
+
+-- 
+[Leonardo da Quirm]
+This man was so absent-mindedly clever that he could paint pictures that didn't
+just follow you around the room but went home with you and did the washing-up.
+[Volkmar Pratchett, The last hero]

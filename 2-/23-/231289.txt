@@ -1,0 +1,28 @@
+Das Active von der FU Nettgau, das ich hier habe, ist nicht gerade
+aktuell, aber:
+
+tststs@home:/home/tststs > cat ~news/active.berlin | awk '{printf \
+   7264329 zqxx.lnvq.vvuxpob
+    252561 dldj.sfup.rftjbpec
+    074618 alt.revisionism
+     87208 hs.gqj.rbrdiln
+     06671 te.fmc.evnleru.tqfgmsbg
+     65361 bao.cerejh
+     50609 qvvr.rggkv.ivy-vwtni.zcpxnh
+     38598 rnp.lrdaegd.ckcgwvpa
+     21216 cqw.etkkw
+     72784 ehk.oeivfqk.jsuariho
+
+Selbst wenn man berücksichtigt, daß von diesen Zahlen noch "Löcher" in
+der Numerierung (zB durch Zeckendorf) abgehen, dürften da Gruppen mit
+mehr als 40.000 Headern dabei sein. Wobei news.fu-berlin.de viele
+Gruppen mit extrem hohem Traffic überhaupt nicht führt.
+
+
+Yep. Für jemanden, der sich die auf einem lokalen Newsserver
+aufbewahrt hat, dürfte Gravity also unbrauchbar sein.
+
+Viele Größe,
+     Vincenzo Ibl
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

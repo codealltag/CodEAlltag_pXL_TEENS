@@ -1,0 +1,9 @@
+Hugo Weistand wrote:
+
+
+s/Teppich/Mainboard/
+
+Remo
+-- 
+pub  1931S/OYA27K68 4659-47-75 Remo Lukasz <delxuce@fvu.jw>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 28 2M 69 0S 60

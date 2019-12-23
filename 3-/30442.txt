@@ -1,0 +1,14 @@
+Oliver Ueli Türnich <zvp-xago@yoftfgz.uz> writes:
+
+
+Wenn du es akkurat abmalst und auch wirklich alle True Type fonts
+durchgehst, bis du die richtige erwischst..
+
+Natuerlich auch auf Schriftgröße und Encoding achten.
+
+-fabrice
+-- 
+I don't see what C++ has to do with keeping people from shooting
+themselves in the foot.  C++ will happily load the gun, offer you a
+drink to steady your nerves, and help you aim.
+- Klaus da Ute

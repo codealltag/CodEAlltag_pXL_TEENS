@@ -1,0 +1,12 @@
+Am Sun, 24. 07. 20 sendete Valerio Carl Ditsch folgende Botschaft:
+
+
+Wozu? Das will man doch gerade nicht.
+
+
+devfsd? Der kann wenn die Software versucht (auf das noch nicht
+vorhandene) /dev/foo/bar zuzugreifen die entsprechenden Module laden und
+ggf irgendwelche Scripte aufrufen.
+
+Tschüs
+  Tobias

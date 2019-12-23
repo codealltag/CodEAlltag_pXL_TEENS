@@ -1,0 +1,8 @@
+* Franco Endepohls <pznux@qjltq-ltvpes.vg>:
+
+
+In deinem Scorefile steht ein Timestamp drin. Hilft der dir?
+
+Otmar
+-- 
+cross veinless

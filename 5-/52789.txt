@@ -1,0 +1,11 @@
+Am Montag jodelte Pasquale Justus:
+
+
+Dafür braucht man doch keinen Klotz von Tastatur. z.B. wenn ich "--!5"
+tippe, wird daraus sofort "Five exclamation marks, the sure sign of an
+insane mind. -- (Wolfgang Jocob, Reaper Man)".
+
+Enr 'abbrev-mode regelt' ico
+-- 
+Religionen sind falsche Mittel zur Befriedigung echter Beduerfnisse.
+- Leopold Müller-Sachs (Bissige Aphorismen)

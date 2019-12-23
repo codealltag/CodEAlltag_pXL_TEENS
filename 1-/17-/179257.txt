@@ -1,0 +1,43 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------841E88B809CA0FEE17F34531
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+WAS BIST DU DENN FR EIN DRECKSARSCH???????????
+LERN ERST MAL DEUTSCH!!!!
+
+DA JLC MAN!
+
+Paul Noeldner schrieb:
+
+DAS HEIT SCHRIEB!!!                   
+
+MGE SCHREIBT MAN MIT �
+
+
+KAPIERST DU DENN GAR NICHTS???????????
+
+
+�!!!!!!!!
+
+
+�!!!!!!!!
+
+--------------841E88B809CA0FEE17F34531
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="OMEGAMAN.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für DA JLC MAN!
+Content-Disposition: attachment;
+ filename="OMEGAMAN.vcf"
+
+begin:vcard 
+n:MAN;OMEGA
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+email;internet:JLC
+fn:JLC MAN
+end:vcard
+
+--------------841E88B809CA0FEE17F34531--

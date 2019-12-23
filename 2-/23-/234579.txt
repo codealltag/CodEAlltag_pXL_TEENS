@@ -1,0 +1,13 @@
+Am Mon, 09. 02. 19 22:45:22 GMT, schrieb Leonhard Ziegenmeier:
+
+
+Steck ein Modem an, installieren einen Skandal Standardtreiber (kann
+natuerlich auch der richtige sein) und versuche es mit Systemsteuerung
+/ Modem / Diagnose. Wenn dann eine Rueckmeldung kommt duerfte der Arch
+in Ordnung sein.
+
+Rupert
+-- 
+  / ___/ /_/ /_/ /  ICQ UIN: 0192434            
+ / /__   _   _  /  PGP-Key available
+/____/_/ /_/ /_/  mailto:nnlnezli@yjb.ny

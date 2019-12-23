@@ -1,0 +1,7 @@
+Also sprach Christoph Vervoorst <pkk@plske.czk>:
+
+
+Weil "C" oder auch "POSIX" der Default ist, bei dem nichts lokalisiert
+wird.
+
+Christoph

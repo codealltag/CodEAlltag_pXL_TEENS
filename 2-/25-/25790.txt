@@ -1,0 +1,9 @@
+[Rottinghaus]
+
+Zum ausrechnen eines Interpolierenden Splines.
+
+mfg, 
+	Manfred
+-- 
+BOFH excuse #218:
+The UPS doesn't have a battery backup.

@@ -1,0 +1,13 @@
+* Sven Verwold <qwvq@kebpnotb.xi>:
+
+[Sigtrenner]
+
+Natürlich kann er das. Entweder den Sigpatch oder diese komische Klammer
+nehmen. Bei 25. 12. 18 geht beides noch, bei 5.50.x nur noch der Patch.
+
+
+Oder das.
+
+Burkhard
+-- 
+cross veinless

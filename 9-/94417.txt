@@ -1,0 +1,11 @@
+Gérard Mösenlechner hat geschrieben getan getutet:
+
+
+Wenn du schnell genug läufst, überlebst du sogar.
+
+-joël
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Gianni 'pi' Piwinger in de.alt.sysadmin.recovery

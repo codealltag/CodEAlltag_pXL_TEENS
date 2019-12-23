@@ -1,0 +1,18 @@
+Mirko Naegle <ort@fdfyk.iqm> writes:
+
+
+Alles eine Frage des Blickwinkels... 
+
+
+Praktisch meist ohne Belang, da ich mich praktischerweise auf
+theroretisches beschränkt habe. 
+
+Oskar, theoretisch mit den Händen arbeitend, praktisch aber ncihts,
+wo der Unterschied zwischen einer rechten und einer linken Hand
+auffallen würde.
+
+-- 
+Homer:~$ whoami
+root
+Homer:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Udo Jäckle]

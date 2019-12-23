@@ -1,0 +1,14 @@
+Lars Magendanz schrieb:
+
+
+Mir ist zwar schon aufgefallen, dass dieses Programm _send_mail heißt,
+aber mit windowsgesch�digtem Gehirn habe ich natürlich gedacht, das
+ist gekoppelt mit POP.
+
+
+Dann nehme ich dafür mal fetchmail.
+
+Richard
+
+-- 
+"Wer Visionen hat, sollte zum Arzt gehen." [Lukas Zobl]

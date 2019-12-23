@@ -1,0 +1,24 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------177945DDAE8AE42C820D4BDF
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+--------------177945DDAE8AE42C820D4BDF
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="Rainer.Gschneidinger.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Ignaz Unterbrink
+Content-Disposition: attachment;
+ filename="Rainer.Gschneidinger.vcf"
+
+begin:vcard 
+n:Gschneidinger;Rainer 
+x-mozilla-html:FALSE
+version:2.1
+ltyse;iuoijaat:Dghblo.Jngmpjuegjici@v-ehwffl.wt
+x-mozilla-cpt:;0
+fn:Ignaz  Unterbrink
+end:vcard
+
+--------------177945DDAE8AE42C820D4BDF--

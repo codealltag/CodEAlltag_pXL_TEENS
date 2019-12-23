@@ -1,0 +1,11 @@
+Louis Terheydens <cg@garbers.org> writes:
+
+
+Kill sie doch einfach alle ...
+
+Mal sehen:
+
+debian:/home/jens# killall otmar
+towo: no process killed
+
+Hmmmm ...

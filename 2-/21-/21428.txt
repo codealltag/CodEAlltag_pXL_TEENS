@@ -1,0 +1,11 @@
+Und so sprach Wolfram Petzl:
+
+
+Das war ja auch keine Herausforderung, bei der gegenwärtigen
+Wetterlage. :)
+
+Kaspar
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

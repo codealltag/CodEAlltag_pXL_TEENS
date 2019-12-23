@@ -1,0 +1,17 @@
+Gilbert Aichel meinte kundzutun:
+
+
+s/FS/Medium/. Da gibbet kein FS. Und das ist evtl. auch besser so. Wie
+Burkhard sagte, ansonsten kanns sein, daß $FS-SOFTWARE die zu schreibenden
+Daten cached und dann im dümmsten Fall bei einem Stromausfall verloren
+hat. Wenn die DB den Mediumszugriff selber regelt ist da zumindest eine
+Ebene potentiellen Cacheings weniger.
+
+
+Ist es. Und das Beszwer-Szf bin immer noch isz.
+
+Bernhard, -thhs Füsze beszwerend
+-- 
+"Ja der weiße Mann aus Texas / Brt den Teufel heut am Spieß,
+Und alle, die ein anderes Lied singen / grillt der Mann im Fegefeuer mit"
+Kay feat. Nikolaus Henisch / Bagdad Blues ( Der weiße Mann aus Wörnitzostheim)

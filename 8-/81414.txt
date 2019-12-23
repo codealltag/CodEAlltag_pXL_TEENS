@@ -1,0 +1,5 @@
+Remmer Platenkamp wrote:
+
+
+towo@yggdrasil:~$ dict Kontext
+No definitions found for "Kontext"

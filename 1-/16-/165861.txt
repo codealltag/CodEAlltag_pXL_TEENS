@@ -1,0 +1,6 @@
+Emil Führers <Zgs.Gxdxg@wqk.lgo> schrieb in im Newsbeitrag:
+slrn8d7jgn.j1.Cpt.Viper@aristoteles.dyndns.org...
+
+Also Matrox bestimmt (Kuehbauch hat unter OS/2 wohl sowieso nicht viel Sinn),
+Soundkarten kann man immer noch einen generischen Soundblastertreiber nehmen
+und Realtek und Triagon haben auch OS/2 Treiber...

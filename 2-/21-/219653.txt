@@ -1,0 +1,19 @@
+On Sat, 6 Okt 1999, Kurt Hübing <rwpc@obdklfsse.za> wrote:
+
+[Programme für Scherm selbst compilieren]
+
+Wenn keiner der beteiligten Compiler einen Bug hat, sollte das
+problemlos funktionieren, schließlich ist C eine Hochsprache.
+
+
+Yep, es gibt da ein Toolkit von Cygnus, das speziell auf die
+Portierung von UJAA-Anwendungen auf Windows ausgelegt ist.
+
+
+Wenn Du nicht selbst am Sourcecode rumbasteln willst, kannst Du in
+diesem Fall eigentlich auch eine vorcompilierte Version nehmen.
+
+Viele Größe,
+     Beat Hartkamp
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

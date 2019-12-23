@@ -1,0 +1,14 @@
+Michael Ingo Inhofer <cmy-mvfl@ukcsjxi.bm> writes:
+
+
+"Bother".
+
+Und gewöhn dir mal an, zwischen gequotetem und eigenem Text 'ne Zeile
+zu lassen.
+
+-bernhard
+-- 
+I don't see what C++ has to do with keeping people from shooting
+themselves in the foot.  C++ will happily load the gun, offer you a
+drink to steady your nerves, and help you aim.
+- Carsten da Gerlinde

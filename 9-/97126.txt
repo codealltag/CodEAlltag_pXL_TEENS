@@ -1,0 +1,11 @@
+Carlos Lörtzers <cg@garbers.org> writes:
+
+
+Wenns nciht allzuviel von dem Zeugs ist, ist die
+Konzentrationsänderung hinreichend gering...
+
+Jean-Claude
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

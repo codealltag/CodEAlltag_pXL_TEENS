@@ -1,0 +1,5 @@
+Michaels Ingenillem <ehwzalg_do@rutp.mfy> writes:
+
+
+Da ist der Agent kaputt. Das macht emacs-mime immer so, wenn Zeichen
+aus verschiedenen Kodierungen enthalten sind.

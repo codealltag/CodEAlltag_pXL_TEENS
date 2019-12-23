@@ -1,0 +1,9 @@
+nancat@hafbibrcxah.bzy (Jocelyne Disse) writes:
+
+
+Tut mir leid, aber die Variable ist nunmal über $<name>
+anzusprechen...
+
+Kay
+-- 
+Diskutiere niemals mit jemandem, der drei Liter Vorsprung hat.

@@ -1,0 +1,11 @@
+On 26 Mai 2000 10:18:55 GMT, hzltti@agiel-kviolp.nr (Mark
+Windmüller) wrote:
+
+
+Mal sitzengeblieben?
+
+-- 
+abnormal program termination: "liebe"
+Trying to restart... ... can't connect to server...
+Trying to find equivalent... found "Freundschaft"
+Connecting to server... successful... connected...

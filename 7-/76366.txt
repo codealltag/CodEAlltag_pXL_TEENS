@@ -1,0 +1,32 @@
+Am Fri, 01. 11. 19 sendete Ingolf Bovendeerd folgende Botschaft:
+
+
+*rgs*
+
+#v+
+egon: ~$grep crontab /etc/ppp/ip-up
+    crontab -u root /root/cron/online
+egon: ~$su
+Password:
+root: /home/felix#cat /root/cron/online
+SHELL=/bin/bash
+
+*/15 * * * * /usr/sbin/scripts/akn+m >> /var/log/poll 2>&1
+3 */1 * * * /usr/sbin/scripts/aktime >> /var/log/poll 2>&1
+*/15 * * * * /usr/sbin/scripts/akuucp
+root: /home/felix#cat /root/cron/offline
+SHELL=/bin/bash
+
+# nix is.
+root: /home/felix#exit
+egon: ~$grep crontab /etc/ppp/ip-down
+crontab -u root /root/cron/offline
+egon: ~$
+#v-
+
+Tschüs
+  Egon
+-- 
+Die Weisheiten des Juppi Jup: #5
+
+Luigi Scharpwinkel rockt.

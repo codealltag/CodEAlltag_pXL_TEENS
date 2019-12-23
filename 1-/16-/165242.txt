@@ -1,0 +1,5 @@
+Noël Beenhouwer <edahnv@qzt.mu> schrieb in im Newsbeitrag:
+slrn8dnqsc.op.tststs@starflower.tststs.ddns.org...
+
+Wohl schon, aber einen kompletten Mailer zu zerpflücken, um bloss ein paar
+MIME decoder zu erhalten ist doch ein wenig übertrieben, IMHO.

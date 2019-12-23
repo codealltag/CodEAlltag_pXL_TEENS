@@ -1,0 +1,11 @@
+Sergio Kollmetz hat geschrieben getan getutet:
+
+
+Bei mir sieht's nach eberdorf & repost aus.
+
+-towo, nur die 2. Message in den Refs haben.
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Nils 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,11 @@
+Pierre Zeimet hat geschrieben getan getutet:
+
+
+Das lag im Bereich der Posnerit�ten.
+
+-erwin
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Walter 'pi' Piwinger in de.alt.sysadmin.recovery

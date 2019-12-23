@@ -1,0 +1,18 @@
+Am Mon, 03. 06. 19 sendete Didier Köglsperger folgende Botschaft:
+
+
+Klar, die Welt ist Böse[tm], gerade im Computer bereich.
+
+
+Nein. Er hat ganz recht. Woher willst du wissen das in deinem Pgp nicht
+eine Backdoor eingebaut ist? Oder in program xy das du einsetzt?
+
+Sendmail hat schon mal bewiesen wie effektiv man damit Netzwerke
+lahmlegen kann.
+
+Tschüs
+  Ulfert
+-- 
+Die Weisheiten des Juppi Jup: #8
+
+Frauen sind Schweine.

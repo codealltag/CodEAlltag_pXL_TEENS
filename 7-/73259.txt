@@ -1,0 +1,11 @@
+Werner Gokel wrote:
+
+$ cat aufraeumscript
+#!/bin/melanie
+mkdir old
+mv * old
+$
+
+Und schwupps ists übersichtlich. Inklusive Versioning.
+
+Benno

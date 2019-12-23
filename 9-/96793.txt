@@ -1,0 +1,3 @@
+Für dhcp braucht nun beim besten Willen kein PPP. Das geht besser ohne (ist 
+hier ja schliesslich auch so). Und DSL mit zeitabhängiger Abrechnung zeugt 
+von extremer Ausprägung des ersten Punktes.

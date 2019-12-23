@@ -1,0 +1,11 @@
+Niclas Malau hat geschrieben getan getutet:
+
+
+Nein, wenn man 8 MB hat, ist es ein brauchbares Betriebssystem.
+
+-towo, emacser
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Domenico 'pi' Piwinger in de.alt.sysadmin.recovery

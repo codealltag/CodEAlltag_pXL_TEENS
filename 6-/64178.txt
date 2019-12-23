@@ -1,0 +1,11 @@
+Vito Vogtschmidt schrieb:
+
+
+Die nette konsole. Irgendwie scheint sie ohne kdebase nicht zu laufen,
+oder etwa doch?
+
+Michael,
+warum hat xterm nur so unschöne Farben? :-(
+
+-- 
+cat .signature

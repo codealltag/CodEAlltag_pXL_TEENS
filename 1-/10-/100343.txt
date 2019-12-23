@@ -1,0 +1,13 @@
+Unterhausweg, 22 Feb 2002 sendete Roman Ungers folgende Botschaft:
+
+
+Dann lösch halt fröhlich.
+
+
+N. Wenn man ganz sichergehen will rm -i aufrufen, egal ob der alias
+gesetzt ist.
+
+Tschüs
+  Eilert
+-- 
+Notorisch Schreibfaul.

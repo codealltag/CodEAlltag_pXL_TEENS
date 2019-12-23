@@ -1,0 +1,11 @@
+Fabrice Zillig hat geschrieben getan getutet:
+
+
+Dieses herauszufinden sei dem geneigten Leser als Uebung ueberlassen.
+
+-frank
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Alois 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,30 @@
+On Sat, 26 Dez 1998, Lukas Altenidiker <srhbqhu_eookqeq@lbn.qu> wrote:
+
+[...]
+
+Kenn ich nicht...
+
+
+Machen neuere INN-Versionen auch auf Wunsch. Ich will aber automatisch
+Statistiken erstellen können <g>
+
+[...]
+
+Damit könnte ich ja noch etwas anfangen ;-)
+
+[wegschnippel; irgendwie habe ich zu den Themen heute Mor^h^hittag
+schon mal was geschrieben]
+
+
+Ja, toll, IIRC wenn es darum geht, ob 3D-Elemente 'eingedrückt' oder
+'ausgebeult' dargestellt werden sollen. Das macht natürlich das Wesen
+eines GUI aus.
+
+
+Nein, nicht ganz. Soll ich die QT-Lizenzbedingungen in voller epischer
+Breite ausführen? <eg>
+
+Viele Größe,
+     Jacques Thomans
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

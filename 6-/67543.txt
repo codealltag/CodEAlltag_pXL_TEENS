@@ -1,0 +1,6 @@
+(* Pietro Appenrodt wrote: *)
+
+
+(Das (mit (den (Klammern (war (ganz (eindeutig (LISP))))))))
+
+Diedrich

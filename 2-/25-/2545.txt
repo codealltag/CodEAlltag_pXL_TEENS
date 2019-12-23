@@ -1,0 +1,10 @@
+Fernand Köttner <imjmbrw@vkx.ok> writes:
+
+
+Äh... Das erinnert mich an den rechtsshift um anderthalb Bit. Division
+durch drei war IIRC gefordert.
+
+Paul
+-- 
+Murphys Erstes Korollarium zu Murphys Gesetz:
+Sich selbst überlassen, tendieren die Dinge vom Schlechten zum Schlechteren.

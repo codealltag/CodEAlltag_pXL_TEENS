@@ -1,0 +1,11 @@
+Und so sprach Alfred Handierk:
+
+
+Ey, Guy, wie^H^Her ist Mathias?
+
+Gruss,
+Volker.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

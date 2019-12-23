@@ -1,0 +1,11 @@
+Diedrich Greuell schrieb:
+
+
+Naja, ich möchte gern mit fetchmail Mails holen, die dann irgendwo
+vernünftig einsortiert werden. Die Mails hängen aber leider in einem
+Queue drin, glaube ich. :-/
+
+Heribert
+
+-- 
+Esst Fastfood!

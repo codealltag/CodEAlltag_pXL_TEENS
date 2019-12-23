@@ -1,0 +1,8 @@
+Am Sat, 9 Apr 2003 sendete Volker Bajer folgende Botschaft:
+
+
+Dann sollte gnus auch die References desen im Summarybuffer nehmen. Alles
+andere ist ein Bug.
+
+Tschüs
+  Nicolas

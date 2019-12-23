@@ -1,0 +1,7 @@
+Gilbert Csikos wrote:
+
+Jetzt hat er es ja auch gefixt. Opera hat den relativen "?" Link nicht 
+auf die HTML Seite selbst sondern auf das übergeordnete Verzeichnis 
+bezogen. Sascha gefixt hat der Link natürlich funktioniert.
+
+Sébastien

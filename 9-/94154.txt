@@ -1,0 +1,11 @@
+Arlette Wiederspohn hat geschrieben getan getutet:
+
+
+Jetzt schon, distribution war world.
+
+-hartwig
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Mauro 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,13 @@
+Und so sprach Arno Oehlschläger:
+
+
+Lecker, Grapefruit. ;)
+
+
+Ebend.
+
+Gian
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

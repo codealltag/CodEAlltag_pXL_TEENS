@@ -1,0 +1,4 @@
+index.php4, Zeile 87: <ahref=team.php4"> scheint mir syntaktisch nicht  
+ganz so korrekt :-)
+
+Johann Rusack

@@ -1,0 +1,11 @@
+Du kennst Dich halt in dem komischen linux-Dateisystem aus. Wenn man
+neu ist, steht man davor mit offenen Mund, selbst mit jahrelangen
+DOS/Win-Kenntnissen. Die Ansammlung von Verzeichnissen, von dennen
+manche Laufwerke sind und so... Das dauert, bis man dahinter ist. Ich
+bins noch nicht. :)
+Dann kann eben auch so eine Linux-Installation "amoklaufen".
+
+C Ya,
+Valerio
+-- 
+No problem is so formidable that you can't just walk away from it.

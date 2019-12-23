@@ -1,0 +1,18 @@
+Josefine Berthold-Asdonk wrote:
+
+*eishinterr�ckensterszteck*
+
+Sag lieb "Bitte bitte"!
+
+
+Die Länge sagt nix über den Inhalt...
+
+
+Ack.
+
+
+Normalizer: Regelt die Lautstärke automagisch immer auf ein Level
+Docker: Minimierter Winamp erscheint in der Titelleiste des aktiven
+Fensters
+
+Fabian

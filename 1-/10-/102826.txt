@@ -1,0 +1,12 @@
+* Othmar Eheim <fwghjy@qlghkm-migrfmu.dv>:
+
+[CPU-Beanspruchung]
+
+Danke.
+
+
+Du hilfst, indem du einen Bug-Report an die XEmacs-Maintainer schreibst.
+
+Lorenz
+-- 
+cross veinless

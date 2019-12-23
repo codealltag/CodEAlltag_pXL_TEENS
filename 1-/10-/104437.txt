@@ -1,0 +1,7 @@
+Dixit Hendrik Ausdermühle <kronlni362871@rikccs.uw-o.vn>:
+
+Bei 16 sehe ich das eher umgekehrt ...
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

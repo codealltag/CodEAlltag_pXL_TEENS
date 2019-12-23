@@ -1,0 +1,21 @@
+Ich fürchte eher, daß Waltraud da irgendwie Probleme damit hat...
+
+DAU Jones ;-) for "mraang.vwxdbmryebx@j-kobdhk.gh"
+(based on msgs with bodies between 11.03.00 and 28.03.00, i.e. not  
+killfiled yet ...)
+
+sh.vxng.egpswx
+Pos.	DAUs	Msgs	Ratio	Why
+
+01. 03. 20	4989	757	6,59	(probe count)
+
+1.1	4989	757	100,00%	"DAU Jones ;-)" failed!
+
+2.1	3786		75,88%	uncoded 8bit-chars in header
+
+Arno Verheuvel
+
+-- 
+Unterstüt die "Initiative tötet die Fruchtzwergem�tter"!
+                                             E-Mail: iqrymu@rfbzbxkwwc.lw
+---> Offizieller Kämpfer wider Günther Cöller des Ordens von dtju <---

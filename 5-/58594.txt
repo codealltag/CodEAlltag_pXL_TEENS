@@ -1,0 +1,20 @@
+Am Tue, 24. 12. 18 sendete Udo Huesmann folgende Botschaft:
+
+[...]
+
+Genau so hab ich mir das vorgestellt. eine Surfbox für Studies quasi.
+
+
+das ist nicht userproof, das ist kaputt.
+
+
+slrn-like ist besser. ;)
+
+
+Wird (wenn möglich) in den localen Zeichensatz umgerechnet.
+
+
+QP (incoming) ist kein Problem (solange es richtig deklariert ist).
+
+Tschüs
+  Dietrich

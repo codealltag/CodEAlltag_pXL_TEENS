@@ -1,0 +1,7 @@
+Friedrich Poehlmann <odlcgl@fnj.xx> schrieb in im Newsbeitrag:
+slrn8dpo5d.he.tststs@starflower.tststs.ddns.org...
+
+Am liebsten ein Perlmodul. in das man eine MIME messages stecken kann und
+unten kommen dann sämtliche Entities inkl. Content-type decodiert raus (ja,
+ich weiss, es gibt MIME::tools, aber mit dessen Doku kann ich wenig bis
+nichts anfangen)... Das wäre optimal ;-)

@@ -1,0 +1,17 @@
+Etienne Poettker <ytmjohxzbs@grwxuemwti.kk> writes:
+
+
+Nimm einfach an, dass die debian-Patches erst dann rauskommen, wenn
+sie wenigstens einigermassen getestet sind.
+
+
+[ ] Du hast an die richtige Betonung gedacht
+[ ] Ich werde demnächst exzessiv Anmerkungen machen
+
+
+Jepp. Aber "Alle drei Monate" wird es hoffentlich nicht werden
+
+Vincent
+-- 
+This sentence contradicts itself -- no actually it doesn't.
+ -- Hofstadter

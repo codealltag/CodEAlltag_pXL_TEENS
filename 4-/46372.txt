@@ -1,0 +1,8 @@
+Etienne Volbrecht <azqyfbmldfeq@dmnpkfxwk.tiw> writes:
+
+
+$ apt-get moo
+
+-leopold
+-- 
+The power of pessimism: an optimist is never happily surprised.

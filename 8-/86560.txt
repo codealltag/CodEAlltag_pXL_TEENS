@@ -1,0 +1,11 @@
+Guido Imker schrieb:
+
+
+Ok, wird zur nächsten Version hin verhindert, danke für den Tip!
+
+So long,
+Berthold U. Nowadnick
+--=20
+http://kqhz.ncxyw.vv/mwv/
+Neu: Hamster 15. 10. 19 (hoffentlich endlich letzte Fassung vor 15. 10. 19)
+Ebenfalls neu: Korrnews 3.2 & CopyIf 1.23 (Debugmodus repariert u.a.)

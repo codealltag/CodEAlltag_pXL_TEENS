@@ -1,0 +1,7 @@
+s/nahezu//
+
+mfg, 
+	Wolfram
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

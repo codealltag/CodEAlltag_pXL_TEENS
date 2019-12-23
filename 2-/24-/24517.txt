@@ -1,0 +1,9 @@
+Gute Frage, nächste Frage. Mut du in 'man random' oder 'man urandom'
+mal nachlesen, und eventuell im Kernel nachkucken, wo der die hernimmt.
+
+mfg, 
+	Pierre
+-- 
+BOFH excuse #317:
+Internet exceeded Luser level, please wait until a luser logs off before
+attempting to log back on.

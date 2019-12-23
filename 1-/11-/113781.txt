@@ -1,0 +1,9 @@
+Gottfried Jeß <l-zum@wvdediqnlwx.lo> writes:
+
+6. e7-e6      pg1-e2
+
+René
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

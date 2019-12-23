@@ -1,0 +1,11 @@
+On 17 Sep 1998, Paul Zängerling <dgeqsj@wesdu.ct-anx.vl> wrote:
+
+[PGP-Konfiguration]
+
+Einen Blick in die Konfigurationsdatei zu werfen, um das zu
+überprüfen, sollte kein größeres Problem darstellen, oder?
+
+Viele Größe,
+     Ulfert Constanz
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,24 @@
+Am Thu, 07. 05. 19 sendete Folkert Köhrs' folgende Botschaft:
+
+
+Wenn die mal nicht so pfimschich wären....
+
+
+Na jedem absturz. Mittlerweile wird INN jede Nacht neu gestartet, und
+die entsprechende suckrc bereitgehalten. ein Newsverlust von mehreren
+Monaten ist nicht schön.
+
+
+Wieso?
+
+
+Tja mein hauptfeed läuft via suck.
+
+
+Ein grep übers overview sollte bei dir sein. Den rest kannst du ja
+selber rausziehen.
+
+Tschüs
+  Alexandre
+-- 
+Notorisch Schreibfaul.

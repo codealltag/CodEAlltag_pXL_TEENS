@@ -1,0 +1,13 @@
+apzrqwi_kchbxkr@gfxn.hc (Gabriel Ambuehl) writes:
+
+
+cp /mnt/d/Eigene<TAB> führt bei mir zu
+
+cp /mnt/d/Eigene\ Dateien/
+
+An der Stelle wird das Quoting eben von der Mierbeth selber durchgeführt.
+
+Bruno
+-- 
+Wenn ich etwas von Ihnen brauche,
+koennen Sie mich jederzeit anrufen!

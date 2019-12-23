@@ -1,0 +1,12 @@
+Marc Loosen wrote:
+[TOFU mainly snipped]
+
+
+Wenn die anderen da *noch* weniger Ahnung haben will ich da nicht arbeiten.
+
+Marco
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+jojk_ktofggz)->jlz(@njkca_oiftqzo_rnlh[$fwqxc_qztrfav_cxb_xutpisx])->qf_tghafn()

@@ -1,0 +1,19 @@
+Is so. iss OK so.
+[kaspar@a184107 ~]$ free
+             total       used       free     shared    buffers     cached
+Mem:        635077     268987       5812          0      28852     741082
+-/+ buffers/cache:     701016     893130
+Swap:      8696268      91008    6525502
+
+[mrichter@woclu4 ~]$ free
+             total       used       free     shared    buffers     cached
+Mem:        125308     693340       3056          0      65931     686130
+-/+ buffers/cache:      32598     203676
+Swap:       845912       2020     823623
+
+Kay
+-- 
+Kaspar Köhnemann --+- stud. soz. & inf. -+-- http://cdo.fvs-tkoevgv.sp
+-->    Festtagsgwand Public Key: http://ror.kxgezzvg-arpmyvq.nw/kfd.jeyck    <--
+
+� Projekt Deutscher Wortschatz: <URL:http://vcwnwpgmkl.ljn-bsnlecu.ar>

@@ -1,0 +1,6 @@
+Waldemar Iblacker wrote:
+
+egrep -v (^$|^\s%)|wc -l
+?
+
+Leopold

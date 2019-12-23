@@ -1,0 +1,24 @@
+Am 17 Mai 1999 22:00:01 GMT sendete Simon Illenseher
+folgende Botschaft:
+
+
+Sei dir da mal nicht so sicher, zumindestens hat slrn ne teilschuld.
+mir passiert es öfters (komischerweise meistens bei längeren threads
+mit Gravity usern) das slrn die references zulang lässt. Oetter
+gibt er dann meistens beim posten eine fehlermeldung aus( wenn wie bei
+Günther ein teil der references abgeschnitten werden würde) oder Inn
+lässt das posten nicht zu weil der header zu lang ist (wenn slrn nichts
+merkt).
+
+
+pico ist das nicht das teil was bei pine dabei ist?
+
+
+Nein.
+
+Tschüs
+  Hilmar
+
+-- 
+Man soll den Tag nicht vor dem Erscheinen Willy Eichers' loben.
++++Willy Eichers in dtju+++

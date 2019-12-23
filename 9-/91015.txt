@@ -1,0 +1,15 @@
+Remmer Tzschentke <yxvzdrw286152@uvgort.la-x.nj> writes:
+
+
+*g*
+
+
+Ich würde auf den INN tippen. Welche Distri[1]? Letztens (vier wochen
+oder so her) war jemand in der Newsreadergruppe, dessen INN lieferte
+IIRC unterschiedliche Header und Bodys aus, wenn man beide getrennt
+(und eigentlich zueinander passend) anforderte...
+
+Domenico
+[1] im vorliegenden Falle NLD
+-- 
+            Secret hacker rule #11: hackers read manuals.

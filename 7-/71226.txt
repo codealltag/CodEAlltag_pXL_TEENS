@@ -1,0 +1,12 @@
+Patrik Vennen hat geschrieben getan getutet:
+
+
+Wer braucht so'n Schrott? Wenn man irgendwo Tags korrigiert bekommt man
+die ja dann nur so um die Ohren geworfen..
+
+-jens
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Othmar 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,30 @@
+cg@garbers.org (Orlando Philippi) writes:
+
+
+Hm. Dumm das.
+
+
+Nein, erstmal um die neue Tür für den Panda gekümmert...
+
+Aber gerade dann doch mal gesucht:
+
+obrien:/home/hauke# fdisk /dev/hda
+[...]
+/dev/hda6          2174      2204    539422   82  KRT
+[...]
+
+Seltsame Dinge geschehen hier an diesem Rechner... Ich bin mir recht
+sicher, damals 512MB als Swap angelegt zu haben, und die 250MB, die
+ich wiedergefunden habe, werden nichtmal aktiviert...
+
+Naja, jetzt sieht das ganze etwas gesünder aus:
+obrien:/home/hauke# free
+             total       used       free     shared    buffers     cached
+Mem:        322779      74723     813488      82341       6172      85375
+-/+ buffers/cache:      23321     768745
+Swap:       944472          0     944472
+
+Günter
+-- 
+I used to drive a Heisenbergmobile, but every time I looked at the
+speedometer, I got lost.

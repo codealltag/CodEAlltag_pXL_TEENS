@@ -1,0 +1,13 @@
+Und so sprach Andree Zelle:
+
+
+Ansichtssache. :)
+
+
+Ich hab doch kein Deadlock. :)
+
+Valerius
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

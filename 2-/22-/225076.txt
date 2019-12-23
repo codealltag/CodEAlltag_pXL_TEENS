@@ -1,0 +1,16 @@
+keine ahnung, ich kopier mir den kernel auch immer per hand aus dem
+source-baum, ich hab das jetzt so geschrieben weil es offensichtlich
+funktionieren muss (sonst würde das ja nicht im suse-handbuch usw... stehen)
+und weil das simpler ist als handarbeit. 
+
+
+war das jemals der fall bei dir? meiner ist entweder nicht durchcompiliert
+oder er lief problemlos. 
+
+mfg
+    urs
+
+-- 
+- Urs Jaeneke  -  eMail: dodxpy@vbz.zawgd.rm
+- IRCNet: ^Spooky    -         ltsneh@wcw.ynjmjuvz.nr
+--

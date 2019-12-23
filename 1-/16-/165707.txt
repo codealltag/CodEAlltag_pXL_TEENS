@@ -1,0 +1,17 @@
+Stefan 'sSXP' Höpner <bPXB@apb.ure> schrieb in im Newsbeitrag:
+50-88-05.27-18-02.oqr.8733@ugid.qq...
+werden
+
+Das heisst nicht, dass es keinen ssh Client gibt. Das bedeutet bloss, das
+unter ssh keiner installiert ist.
+
+
+Wahrscheinlich da: das MS sowas wie einen Telnetclient mitliefert.
+
+
+Da könntest du dich aber täuschen. Aber frag ich mich in einem Monat
+nochmal, dann kann ich dir mehr dazu sagen...
+
+
+Nicht wirklich. Ohne Klemt sind die eh nicht viel wert und das prinzipielle
+Problem bleibt bestehen.

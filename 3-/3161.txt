@@ -1,0 +1,9 @@
+Ruedi Zieglmüller wrote:
+
+
+Zur Not tuts auch ein baugleiches Board, dem dann im laufenden Betrieb
+der Baustein getauscht und dann "normal" geflasht wird...
+
+Uwe
+-- 
+reiner

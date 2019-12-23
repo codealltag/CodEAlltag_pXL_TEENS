@@ -1,0 +1,11 @@
+On Sat, 25 Dez 1998, Ueli Damen <uzyutrw_xqlhfnk@pup.jq> wrote:
+
+[YaST "shreddert" Partition?]
+
+Mmh - an welcher Stelle greift Yörük schreibend auf eine Partition zu,
+ohne daß Du es ihm erlaubst?
+
+Viele Größe,
+     Mirko Wiebesiek
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

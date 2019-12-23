@@ -1,0 +1,9 @@
+Aber nicht wirklich neues Zeugs.
+
+Abbildungen, Körper/Ringe, Translation, ...
+
+mfg, 
+	Klaus
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

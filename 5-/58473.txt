@@ -1,0 +1,8 @@
+Ulrich Vocht <avyviv-85-1901@vemd.linexm.rn> writes:
+
+
+Lesen. Da steht, dass du ":help", nicht "help" eingeben sollst.
+
+Felix
+-- 
+Indifference will be the downfall of mankind, but who cares?

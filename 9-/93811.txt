@@ -1,0 +1,11 @@
+Patrik Lint hat geschrieben getan getutet:
+
+
+Dann ist seit meinen 16 Lebensjahren keiner eingeschlagen.
+
+-knut
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Matthias 'pi' Piwinger in de.alt.sysadmin.recovery

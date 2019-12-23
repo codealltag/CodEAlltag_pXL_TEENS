@@ -1,0 +1,8 @@
+Lucas Däumichen <ptsc@nwgffwgnrqp.pf> writes:
+
+Wir haben weder shared memory noch ein shared Konto. Lass es.
+
+Hinderk
+-- 
+BOFH #305:
+IRQ-problems with the Un-Interruptable-Power-Supply

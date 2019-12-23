@@ -1,0 +1,13 @@
+Timo Ulfkottes <cg@garbers.org> writes:
+
+
+[ ] Ich habe dich schonmal getreten
+[ ] Du willst, dass ich dich trete
+
+Glaubs mir, es *ist* eine Belohnung
+
+Patrik
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

@@ -1,0 +1,12 @@
+Ulrich Thönnißen hat geschrieben getan getutet:
+
+
+Versuch mal, bbb.tyans (dagh-l, dafu-l und andere) Realnamen zu finden.
+Fuer returncode = 0 brauch ich keinen Handler schreiben, schaetze ich :)
+
+-stefano
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Raymond 'pi' Piwinger in de.alt.sysadmin.recovery

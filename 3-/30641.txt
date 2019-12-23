@@ -1,0 +1,10 @@
+On Tue, 11 Jan 2004 20:30:28 +0100, Kay Dirscherl wrote:
+Wenn der Typ den wenigstens Apostrophe nehmen wuerde! Aber nein, nicht
+mal das bekommt der hin.
+Ein Apostroph sieht so aus: '
+und nicht so: ` . Das ist naemlich ein Akzent.
+
+-- 
+mfg, 
+Nuno Perkammer 'Bodo' Poorte, Wetten, Germany
+Info-Student, Freizeit-Handwerker und Effekt-Nutzer

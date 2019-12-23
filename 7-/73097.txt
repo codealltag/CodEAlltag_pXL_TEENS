@@ -1,0 +1,11 @@
+Juan Wiewelhove hat geschrieben getan getutet:
+
+
+Meinst du nu Multiple Injection oder nicht?
+
+-tim
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Hartmut 'pi' Piwinger in de.alt.sysadmin.recovery

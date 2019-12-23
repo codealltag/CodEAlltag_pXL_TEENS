@@ -1,0 +1,9 @@
+On Prickle-Prickle, Day 14 of Chaos 3170, Stefan Denker wrote:
+
+
+Das erinnert mich irgendwie an das Prinzip "Pointer in die Großkayna
+zeigen lassen, auslesen wohin der zeigt, das als Zufallszahl nutzen"...
+
+Karsten 
+-- 
+"Fernand war ein Optimist."

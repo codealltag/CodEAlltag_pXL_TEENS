@@ -1,0 +1,29 @@
+D:\>mem
+
+
+    191185 Byte Gesamtspeicher
+    191185 Byte verfügbar für DOS
+    485684 gr��tm�gliche Programmgröße
+
+   1246073 Byte EMS-Speicher
+   2183244 Byte freier EMS-Speicher
+
+   3232725 Byte XMS-Speicher
+   3232725 Byte verfügbarer XMS-Speicher
+         0 Byte zusammenhängender EMS-Speicher verfügbar
+           DOS resident im HMA (PapierConcept)
+           HMA (High Memory Area) in Benutzung
+
+D:\>ver
+
+Version 4.00 des Operating System/2 wird verwendet
+
+D:\>
+
+
+Wenn ich den Shirtschleuder-Treiber rauswerfe, haette ich noch 608 B mehr...
+  :-)
+
+-- 
+Alexander
+"It is better to die on your feet than to live on your knees."

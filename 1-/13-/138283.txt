@@ -1,0 +1,18 @@
+Denis Bodo Aengen-Eyndt schrieb am 17. September 2001 um 17:43 Uhr folgendes:
+
+["Einheitssubject"-Skript]
+
+<SCNR> Generell scheint es ähnlich sinnvoll zu sein, einem
+ZVS-User Skripting-Fähigkeiten zur Verfügung zu stellen, wie einem
+Kind ein Skalpell zum Spielen zu geben: Die meisten interessiert es
+gar nicht richtig, viele schneiden sich damit in die Finger
+(Makro-Viren, VBS-Attachments) und die etwas älteren und geschickteren
+stellen fest, dass man damit coole Muster in die Tischplatte schnitzen
+kann... </SCNR>
+
+Viele Größe,
+     Gert Oel
+-- 
+Q: Why can't you compare structs?
+A: Compare them to what?  A summer's day?
+                  -- comp.lang.c Answers to Infrequently Asked Questions

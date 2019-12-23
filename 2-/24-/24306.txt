@@ -1,0 +1,9 @@
+Othmar Clemens Pfluegl <jre-gnex@yovlmek.wq> writes:
+
+
+make-kpkg kam nicht dazu, ein 'touch stamp-binary' zu machen.
+
+-alexander
+-- 
+circa mea pectora multa sund suspiria de tua pulchritudine que me ledunt misere
+tui lucent oculi sicut solis radii sicut splendor fulguris lucem donat tenebris

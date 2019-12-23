@@ -1,0 +1,10 @@
+Olivier Jarchow wrote:
+
+Ob Du das nun mit einmal klicken machst oder nicht, das sind und bleiben 2 
+Konvertierungen. 24bpp -> 8bpp -> Gif. Und daß zwischen 24bpp -> 8bpp ein 
+Verlust eintreten kann bezweifelt wohl niemand ;-)
+
+
+Ganz Wohnkunst-Like ist z.B. das TIF Format, das ebenfalls eine LZW Kompression 
+beherbergen kann.
+TGA gibt's auch mit verlustfreier Kompression.

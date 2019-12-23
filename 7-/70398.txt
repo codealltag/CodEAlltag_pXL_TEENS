@@ -1,0 +1,17 @@
+Am Thu, 31 Jul 2001 sendete Niklaus Varnskühler folgende Botschaft:
+
+
+Das wird bei Kyrillisch und latin1 eher nicht gegeben sein.
+
+
+Du schickst also nur Fragezeichen als quoting? Lustig. ;)
+
+
+Und der währe? (Unicode zählt _nicht_)
+
+Tschüs
+  Folkert
+-- 
+Die Weisheiten des Juppi Jup: #9
+
+Auf das Jup Hoch folgt das RL Tief.

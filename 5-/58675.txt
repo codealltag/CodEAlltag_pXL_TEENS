@@ -1,0 +1,13 @@
+Ludwig Winkelhausen schrieb:
+
+
+Das ist ja mal ein Angebot. Aber mir ist das zu peinlich.
+
+
+Uh, huh?
+
+Remmer
+
+-- 
+ms@matrix:~$ cat .signature
+ms@matrix:~$

@@ -1,0 +1,9 @@
+* Oswald Weise <nhzd@arlivzkut.yv>:
+
+[Realname-Filter]
+
+Für Gnus hätte ich eine. Für Telnet nicht. Sorry.
+
+Cédric
+-- 
+cross veinless

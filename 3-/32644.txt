@@ -1,0 +1,5 @@
+über die Redhat-INN-RPMs hört man ja Gutes. Ansonsten ist INN wirklich 
+schmerzfrei zu kompilieren. Die Hürden liegen in etc/ *g* Und da kommt man 
+auch beim Useh nicht drumrum.
+
+Reinhard

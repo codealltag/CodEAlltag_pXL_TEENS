@@ -1,0 +1,12 @@
+Im Fell der Gerlinde sprach Lukas Röhrens folgende erleuchtende Worte:
+
+[...]
+
+Willst du mich nicht verstehen, oder willst du mich verarschen?
+
+Ich wollte wissen, wie Bruno es schafft, bei "g" statt "grep" etwas
+ausgegeben zu kriegen, und bei "ls _*_", was bei mir scheinbar auch
+nicht so recht will.
+
+-- 
+np: Live - The Dolphin's Cry

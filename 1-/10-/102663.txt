@@ -1,0 +1,14 @@
+Roger Meinert <lkqcjl@htfuqo-zjcmwxd.gq> writes:
+
+
+Ist auch gut so.
+
+
+Wie stabil läuft bei dir der 2. IDE-Kanal? Meine viel bis zur 12. 08. 20
+BIOS-Version einmal die Woche aus...
+
+Sandro
+-- 
+Wie jagt man einen Elefanten - Teil 3:
+LISP-Programmierer bauen einen Irrgarten aus Klammern und hoffen,
+dass sich der Elefant darin verirrt...

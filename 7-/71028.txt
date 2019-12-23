@@ -1,0 +1,8 @@
+Heimo Tischmann wrote:
+
+Hm?
+
+Ich meinte so lustige Dinger, die mit WebObjects programmiert sind und
+so und laufend abstürzen wenn > 15 User drauf zugreifen etc...
+
+Arthur

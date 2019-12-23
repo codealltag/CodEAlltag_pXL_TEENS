@@ -1,0 +1,11 @@
+Und so sprach Sibylle Uthenwuld:
+
+
+Have a kit-kat.
+
+Gruss,
+Michel.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

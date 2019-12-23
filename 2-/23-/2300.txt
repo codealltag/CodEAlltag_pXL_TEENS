@@ -1,0 +1,15 @@
+Kay Oberröder wrote:
+
+
+Ich assoziiere frei:
+
+$ rm -rf /var/spool/dickdarm
+
+/var/spool/dickdarm ist eine *sehr* wichtige FIFO, die vor allem für
+eine saubere Deinstallation von .lunch-Paketen wie "Fruehstueck" oder
+"Mittagessen" benötigt wird, damit einem dabei nicht alles um die Ohren
+fliegt.
+
+Otto
+-- 
+carl

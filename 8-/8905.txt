@@ -1,0 +1,8 @@
+Lars' Unterlechner <kiit@ydbkdgpxczz.bk> writes:
+
+
+Du solltst doch auch dank shared Memory kein Problem damit haben.
+
+Nane
+-- 
+"Werner war ein Optimist."

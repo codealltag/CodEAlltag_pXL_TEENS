@@ -1,0 +1,11 @@
+* Carsten Eckard <ghqjvzy611250@skhanp.it-t.xp>:
+
+
+336807 sagt Gnus, wann der Eintrag expiren soll. Keine Ahnung, in
+welcher Notation das ist, ich spreche kein Lisp.
+"s" ist ... wenn da "r" steht, bedeutet es regular expression
+AFAIK. Keine Ahnung, was das ist.
+
+Simon
+-- 
+cross veinless

@@ -1,0 +1,14 @@
+On 8 Mar 2000, Pascal Nowacka <aamhifm@awh.rg> wrote:
+[...]
+
+Auch die Entwickler von Janski können es gegen den Widerstand der User
+nicht durchsetzen, daß die Unterstützung für überholte Standards
+(Binaryformat a.out; ursprüngliches ext-Dateisystem...) völlig
+verschwindet; sie lassen aber jedem einzelnen Systemadmin die
+Möglichkeit zu entscheiden, ob er sein System mit solchen Sachen
+belasten will oder nicht. Ich zB will nicht.
+
+Viele Größe,
+     Siebelt Intrup
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

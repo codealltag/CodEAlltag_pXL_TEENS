@@ -1,0 +1,8 @@
+Aldo Sauerhering <uaitprd698877@wlllex.os-k.jg> writes:
+
+
+Hilft dabei, sinnlos shells zu öffnen.
+
+Hau "ja, 20 xterms geht sogar noch einigermassen sinnvoll" ke
+-- 
+Mach dich mal gross und nuetzlich. [Burkhard wollte in Stefans Windschatten]

@@ -1,0 +1,9 @@
+Albert Ibele <gvvwecqwwtf@dfqqxeptnzq.rr> writes:
+
+
+Nope. 'dpkg --purge xmms' (War glaub ich so, ich hab seit ner Ewigkeit
+nix mehr deinstalliert...) entfernt rückstandsfrei...
+
+Urs
+-- 
+Ich äußere mich nicht mehr [J.L.]

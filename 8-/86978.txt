@@ -1,0 +1,13 @@
+Marlyse Heilbrunner hat geschrieben getan getutet:
+
+GNU.
+
+
+*hinterherschau*
+
+-paolo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Volker 'pi' Piwinger in de.alt.sysadmin.recovery

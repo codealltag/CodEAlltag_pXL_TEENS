@@ -1,0 +1,10 @@
+Danke, das funktioniert. Eine Frage noch: Warum? Warum funktioniert es  
+mit ./ (was AFAIK doch das momentane Verzeichnis bedeutet?) und ohne  
+nicht?
+
+Egon Knörschild
+
+-- 
+Ich schätze Bruno Vaih sehr!
+                                             E-Mail: bizrod@foasfjiupo.hw
+---> Offizieller Kämpfer wider Kurt Bleyl des Ordens von dtju <---

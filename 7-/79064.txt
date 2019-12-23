@@ -1,0 +1,12 @@
+Am Tue, 02. 07. 20 sendete Steffen Gehrts folgende Botschaft:
+
+
+'ls -lR /home/public/mp3/mp3/ | grep -i "foo"'
+
+HTH & Tschüs
+  Winfried
+-- 
+Die Weisheiten des Juppi Jup: #6
+
+Am Hagener Bahnhof haben sie zwar eine Tür geöffnet,
+aber dafür sind die Strassen dicht.

@@ -1,0 +1,11 @@
+Und so sprach Reinhold Drews:
+
+
+Nein, wir befinden uns hier im kontextfreien Raum.
+
+Gruss,
+Italo, wer zum Fleischer ist Domian?
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

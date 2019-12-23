@@ -1,0 +1,11 @@
+Ullrich Sommerfeld schrieb:
+Nein, weil ein Klötzchen eben keine Fläche bilden kann. Ich meinte mit
+"schattieren" nicht Schatten erzeugen, sondern Lichtreflexionen
+berechen.
+
+Gruß
+
+Urban
+-- 
+"There's a sucker born every minute."
+(ENH)

@@ -1,0 +1,11 @@
+Luca Vermaten hat geschrieben getan getutet:
+
+
+War wohl die temp-datei von wtc-photo-big.jpg..
+
+-ludger
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Gianni 'pi' Piwinger in de.alt.sysadmin.recovery

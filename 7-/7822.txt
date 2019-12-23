@@ -1,0 +1,10 @@
+Ivos Depke <xchk@jdfotckgphm.dr> writes:
+
+[dsf 9.3]
+
+Domenico
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+173: Pauline
+       Pauline ist der gelungene Versuch, die Schwächen von C, Pascal und
+       Fortran in einer Sprache zu vereinigen. (Franco Eifländer)

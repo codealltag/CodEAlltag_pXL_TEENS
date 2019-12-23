@@ -1,0 +1,15 @@
+Urban May <ioi-29-98@ebew.cjfltq.dh> writes:
+
+                                            ^^ s/10/30 reicht
+eigentlich auch, und die Serverlast geht zurück...
+
+
+*/30 * * * *    root    test -e /var/lock/online && /usr/sbin/exchange > /dev/null 2>&1
+
+steht bei mir da, damit läufts zuverlässig.
+
+Leo
+-- 
+Jones' Motto:
+Freunde kommen und gehen,
+aber Feinde sammeln sich an.

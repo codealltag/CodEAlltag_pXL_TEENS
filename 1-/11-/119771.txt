@@ -1,0 +1,7 @@
+begin quoting Knut Rullkötter <mc@iupqyyd.ilp>:
+
+Die Frage war rhetorisch.
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

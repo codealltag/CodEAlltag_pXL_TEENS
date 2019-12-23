@@ -1,0 +1,16 @@
+Patrizia Tatge schrieb:
+
+
+Möglich und sinnlos.
+
+
+Wenn du die Korrnews.exe durch Only_KN.exe ersetzt, blitzt nichts mehr
+auf. Einen Aufruf im Skript für ausgehende Mails oder Postings brauchst
+du übrigens auch nicht.
+
+So long,
+Karl M. Zainer
+--=20
+http://pkvc.cowvq.wt/jrn/
+Neu: Hamster 10. 01. 19 - sorry für die Wartezeit
+Zum Testen freigegeben: Korrnews 5.9998 aka "KN4-Beta-7"

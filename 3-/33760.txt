@@ -1,0 +1,37 @@
+STATISTIK 05. 02. 19
+-=-=-=-=-=-=-=-=-=-=-=
+
+POSTINGS PRO TAG
+
+Woche   MO    THEODOR    MI    DO    GERARD    SA    SO
+---------------------------------------------------------------------------
+ 40            235   286  1438   321   201    96
+ 41      339   343   173   168    37    91   126
+ 42       99    87    78    57    24     9    32
+ 43       57    26    54    18    42    41    59
+ 44      108    70    47    98
+
+
+POSTINGS PRO WOCHENTAG
+
+Tag         Postings  Rang  Jahresübersicht
+---------------------------------------------------------------------------
+Montag       603      4     xxxxxxxx64..
+Dienstag     761      2     xxxxxxxx32..
+Mittwoch     638      3     xxxxxxxx53..
+Donnerstag  1681      1     xxxxxxxx71..
+Freitag      424      5     xxxxxxxx25..
+Samstag      342      6     xxxxxxxx46..
+Sonntag      313      7     xxxxxxxx17..
+
+
+Gesamt       :  4860 Postings      (Vormonat:  5798)
+Durchschnitt :   157 Postings/Tag  (Vormonat:   193)
+
+
+Statistik basierend auf den Ergebnissen von GoldFind 2.0.3.0
+(Darstellung angepasst von Ihno Kloevekorn)
+Basierend auf den Feeds von:
+sozs.lxf.pas.fg         kszy.nqfujtr.fr          qivm.rzazi.hnb
+gfwj.jkofmm.np          pran.m-hywrda.zv         ffel.vsx-qsmwibpg.kg
+zvdt.uft-wzvtgapke.kz

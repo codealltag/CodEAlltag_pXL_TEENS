@@ -1,0 +1,25 @@
+Vito Nachtweyh <tldbvfk593510@xzyvtj.qz-c.jp> schrieb:
+
+[Xnews]
+
+Umlaute deklariert er nicht per default, das kann man aber
+einstellen. Zeilenumbruch ist ein Problem, stimmt. Und mir gefiel das
+Look&feel des Agent nicht.
+
+
+Das Scoring von Alibaba ist wirklich spitze. Mit verschiedenfarbiger
+Darstellung der Artikel. Das kann nichtmal Gnus. Schade eigentlich.
+
+
+So langsam stelle ich das auch fest. 
+
+BTW: Ich hab mal ein Posting [1] von dir gelesen in dem du schriebst,
+du willst dir eventuell mal ein Gnus einrichten.
+
+ Bernhard
+
+Footnotes: 
+[1]  schon ewig her, ich weiß auch nicht mehr in welcher NG
+
+-- 
+Jeder sollte an etwas glauben. Ich glaube an noch ein Bier.

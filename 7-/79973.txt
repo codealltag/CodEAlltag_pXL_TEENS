@@ -1,0 +1,14 @@
+Ullrich Anschlag schrieb:
+
+
+Wenn du perl kannst, wirst du damit sicher alles hinbekommen, was
+signaturmäßig so möglich ist.
+
+Ich benutze es nur zum shuffeln der Sigs.
+
+Kay, kann kein perl.
+
+-- 
+Mäxgerei Money:
+  "Ein Fehler ist aufgetreten, aber wegen eines weiteren Fehlers kann
+   die Fehlermeldung nicht angezeigt werden."

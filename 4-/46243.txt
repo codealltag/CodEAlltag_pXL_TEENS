@@ -1,0 +1,10 @@
+Ulrich Zumbach wrote:
+
+
+Ich wurde kurze Zeit vor dem Posting auf die Möglichkeit einem
+deb2rpm-wrappers oder so hingewiesen...
+
+Jann
+-- 
+pub  2559F/BCF19L49 8840-06-77 Jann Cloodt <viuaxyh@kdz.gk>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 25 8B 68 0Z 96

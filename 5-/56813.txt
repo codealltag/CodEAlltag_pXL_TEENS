@@ -1,0 +1,6 @@
+"Ruedi E. Nesemann" <cog@xau.fi> writes:
+
+
+CopyIf halt.
+
+-rudolf

@@ -1,0 +1,11 @@
+Walter Weise schrieb:
+
+Falsch, du verwechselst eine logische Verzweigung mit einer
+While-Schleife.
+
+So long,
+Nicolas J. Imsieke
+--=20
+http://yetp.ccbth.bw/cyt/ - Korrnews 3.01 (Fußnotenverwaltung, Boxquotes
+& Co), CopyIf 1.1 (XNews & OE-Ergänzungen) und der immer noch nicht mit
+kleineren Bugfixes versehene Hamster 15. 12. 18

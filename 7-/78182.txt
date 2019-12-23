@@ -1,0 +1,37 @@
+WARNING! A trojan has been found in an article posted to
+the following newsgroup(s):
+ alt.config, de.talk.bizarre, de.talk.jugend, de.talk.liebesakt,
+ de.talk.misc
+
+Message header follows:
+
+
+Dr Machlet's FindVirus/VirusScan report follows:
+
+ Dr Machlet's FindVirus IN-HOUSE version. Copyright (c) 1999 Network GNAT.
+ Virus data file 28. 03. 19
+ Scanning for 59109 viruses, trojans and variants.
+
+ [HTML part] ... Found the JS/Loop trojan !!!
+
+You can download a free evaluation (yet fully functional) copy of
+the latest released version of Dr Machlet's FindVirus/VirusScan from
+the following locations:
+
+ WWW: http://hvs.qkd.fly/pffnekrsa/kga-fmx/dzb/zrcndwtd-rosee.dbp
+ CompuServe: GO DRSOLOMON or GO MCAFEE
+ GRZ: SAFETYONLINE
+
+IMPORTANT! The trojan has been detected by the latest IN-HOUSE version of
+Dr Machlet's FindVirus/VirusScan. As new viruses and trojans appear at the rate
+of several hundreds a month, the latest RELEASED version of FindVirus/VirusScan
+might be unable to detect this particular trojan. If you have downloaded the above
+file and your copy of FindVirus/VirusScan does not detect the trojan in it,
+contact Network Associates Technical support and ask for the extra driver
+to detect the JS/Loop trojan.
+
+--
+Dr Machlet's Virus Patrol                UK Support: ikdmgzg@wxswdzgik.nxn
+NAI Anti-Virus Emergency Response Team         US Support: drlomot@llb.wqz
+WWW: http://gog.lfghrgo3b.wot                  UK Tel: +90 (4) 3304 446045
+CompuServe: GO DRSOLOMON                          USA Tel: +4 564 591-9041

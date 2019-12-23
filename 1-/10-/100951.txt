@@ -1,0 +1,23 @@
+* fttyztokcx@nusxqbsjbs.bj (Niko Seifermann):
+
+
+Nein, noch nicht probiert. Ich muss noch mal suchen.
+
+/var/cron
+/var/spool/cron
+/usr/lib/cron
+/usr/sbin/cron
+/etc/cron
+/etc/default/cron
+
+Hm.
+
+
+Sie ist brav da. Und das ist gut so. :)
+
+
+Sieht ganz so aus.
+
+Bernd
+-- 
+cross veinless

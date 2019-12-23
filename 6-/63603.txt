@@ -1,0 +1,10 @@
+Dieter Vischedyk <zjvudbyuui@yifujobxsel.hb> writes:
+
+
+Die Partition ist recht sicher nicht vorher formatiert und/oder
+gecheckt worden. Und das wäre aufgefallen.
+
+Artur
+-- 
+Bettina  : DAS hatten wir schon mal.
+Inge: Davon habe ich nichts gemerkt.

@@ -1,0 +1,11 @@
+Salvatore Tescher hat geschrieben getan getutet:
+
+
+Nachts hat man nicht mehr erreichbar zu sein.
+
+-fredy
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Klaas 'pi' Piwinger in de.alt.sysadmin.recovery

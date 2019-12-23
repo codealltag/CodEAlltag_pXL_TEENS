@@ -1,0 +1,12 @@
+Pietro Zachert <qsowbleu.mshzvhbm@gnr.aj> writes:
+
+
+Das Wollschaf 6310i hat sowas ähnliches implementiert. Man füge den zu
+filetierenden im Adressbuch hinzu, benenne eine der Gruppen in
+"Killfile" um, setze für diese Gruppe das Klingelzeichen auf "kein"
+und füge den Menschen dieser Gruppe hinzu.
+
+Gert, das baer noch nicht selber probiert habend.
+
+-- 
+Ich werde schlafen bis zum Umfallen. [Gretchen Onym]

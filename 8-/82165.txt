@@ -1,0 +1,13 @@
+Maik Kannenberg hat geschrieben getan getutet:
+
+
+Nein, bei der riesigen Sammlung von O'Reillys u.a. (leider nur
+elektronisch, nicht in Buchform), die ich hier habe, ist MCSE AFAIK
+nicht dabei.
+
+-towo, diese Bücher wohl irgendwann mal lesen müssend
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Jacques 'pi' Piwinger in de.alt.sysadmin.recovery

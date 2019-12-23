@@ -1,0 +1,11 @@
+Ivan Ditges schrieb:
+
+
+Das habe ich versucht, aber mit vim+slrn kam ich bedeutend schneller
+besser klar, *obwohl* ich zunächst Gnus probiert hatte.
+
+Mathias
+
+-- 
+"Die Neugier steht immer an erster Stelle des Problems, das gelöst
+ werden will." (Friedrich Lochner)

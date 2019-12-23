@@ -1,0 +1,19 @@
+Markus Radetzky schrieb am 06. April 2001 um 21:39 Uhr folgendes:
+
+[SuSE tut bei mir, was es soll]
+
+Ob es "taugt", hängt massiv davon ab, was man daraus lernen will. Wenn
+du wissen willst, wie du einen Server mit einem halben Dutzend
+Services aufsetzt und sicher bekommst, kannst du das Buch vergessen.
+
+Wenn du Infos darüber brauchst, wo und warum sich SuSE von anderen
+Distributionen unterscheidet und wie man das "Eigenleben" abstellen
+kann, dann gibt's im Handbuch genau dazu ein Kapitel, das so machen
+"SuSE-ist-scheiße"-Thread ersparen könnte (würde es gelesen).
+
+Viele Größe,
+     Franz Osenstätter
+-- 
+Q: Is C an acronym?
+A: Yes, it stands for ``C''.  It's another of those funky recursive acronyms.
+                  -- comp.lang.c Answers to Infrequently Asked Questions

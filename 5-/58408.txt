@@ -1,0 +1,7 @@
+Paolo Tombach <lsaxtjbkspaavf@axl.mbk> writes:
+
+
+set(KMMJ.Termin,Paolo.Date.Acquiry('bedrucktes T-Shirt')+1);
+Paolo.Behavior.Set(Clothing,KMMJ,'bedrucktes T-Shirt');
+
+-timo

@@ -1,0 +1,7 @@
+Fred Ziegenbalg <ouoqrvdioo@ynfcmqaztsq.rp> writes:
+
+
+Erste Vermutung: .profile != .bashrc, bzw. die eine sourced die andere
+nicht.
+
+-paul

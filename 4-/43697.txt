@@ -1,0 +1,14 @@
+Paul Interthal schrieb:
+
+
+hm, ich habe absolut keine Ahnung, worüber wir genau gerade sprechen.
+
+
+Och, so wichtig ist das auch nicht.
+
+Ivan
+
+-- 
+"INSUFFICIENT EXTENDED MEMORY FOUND
+ Extended Memory Required: 0 KBytes
+ Extended Memory Found on this computer: -16384 KBytes"

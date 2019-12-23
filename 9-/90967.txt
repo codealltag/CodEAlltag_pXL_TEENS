@@ -1,0 +1,11 @@
+Erich Clodius hat geschrieben getan getutet:
+
+
+Ich glaube, du hast ein Problem mit Doppelpostings.
+
+-etienne
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Lothar 'pi' Piwinger in de.alt.sysadmin.recovery

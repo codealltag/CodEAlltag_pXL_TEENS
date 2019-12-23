@@ -1,0 +1,14 @@
+Am Sun, 13 Dez 1997 16:47:42 +0100 sendete Siegfried Vennekohl
+folgende Botschaft:
+
+
+Brr Wie umständlich. Linux im BootEprom und programme auf Zip oder
+noch besser per nfs.
+
+Tschüs
+  Jochen
+
+-- 
+Aus besonderem Anlass ändern wir unser Program:
+Statt der Doku "Der Xte Absturz von Windoof95" sehen sie:
+"Ein kleiner Pinguin auf der Reise durch die grosse Datenwelt"

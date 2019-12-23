@@ -1,0 +1,13 @@
+Und so sprach Thierry Moosburner:
+
+
+Vampire saugen ueberall. :-)
+
+Und wart erst mal ab, bis Dir zum ersten Mal die Rente gekürzt wird
+...
+
+Gottfried
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

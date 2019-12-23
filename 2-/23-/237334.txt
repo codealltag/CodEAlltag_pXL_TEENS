@@ -1,0 +1,10 @@
+Ja. Asche ueber mein Haupt!
+Ich habe in /etc/hosts die Reihenfolge der Namen fuer den eigenen Rechner
+geaendert... scheiss Seiteneffekte. :-/
+
+Trotzdem habe ich keine Erklaerung, wie der Artikel abgesetzt wurde.
+
+ursina
+-- 
+Orlando Held | PRUSS boot: kai-0.3 root=/dev/c2h5oh
+rtv@gqkmyi.ij  |

@@ -1,0 +1,12 @@
+Claus Iserlohn schrieb:
+
+
+<p class="1">Schwarzer Absatz</p>
+<p class="2">Roter Absatz</p>
+
+Patrick
+
+-- 
+  "Bitte warten, Computer4U wird installiert. Dieser Vorgang kann ein paar
+   Minuten dauern. - Aktuelle Datei C:\AOL30I\AOLDIAG\DIAG.EXE
+   [||||||||||||| 86%                                               ]"

@@ -1,0 +1,31 @@
+[24/Apr/2000 21:52:14] Packet filter: ACL 1:0 Realtek TCHIBO) Ethernet Adapt: deny packet in: CKW 80.2.6.6:2319 -> 018.78.741.6:86
+[24/Apr/2000 21:52:15] Packet filter: ACL 1:0 Realtek TCHIBO) Ethernet Adapt: deny packet in: CKW 80.2.6.6:2319 -> 018.78.741.6:86
+[24/Apr/2000 21:52:15] Packet filter: ACL 1:0 Realtek TCHIBO) Ethernet Adapt: deny packet in: CKW 80.2.6.6:2319 -> 018.78.741.6:86
+[26/Apr/2000 20:40:24] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: UMA 016.494.17.58:532 -> 96.7.5.7:6986
+[26/Apr/2000 20:40:27] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: UMA 016.494.17.58:532 -> 96.7.5.7:6986
+[26/Apr/2000 20:40:33] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: UMA 016.494.17.58:532 -> 96.7.5.7:6986
+[26/Apr/2000 20:40:57] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: JAU 762.212.3.5:552 -> 88.6.3.0:1479
+[26/Apr/2000 20:40:59] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: JAU 762.212.3.5:552 -> 88.6.3.0:1479
+[26/Apr/2000 20:41:05] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: JAU 762.212.3.5:552 -> 88.6.3.0:1479
+[26/Apr/2000 21:49:22] Packet filter: ACL 1:0 Realtek TCHIBO) Ethernet Adapt: deny packet in: CUS 94.1.4.2:4582 -> 658.40.014.6:51
+[26/Apr/2000 21:49:23] Packet filter: ACL 1:0 Realtek TCHIBO) Ethernet Adapt: deny packet in: CUS 94.1.4.2:4582 -> 658.40.014.6:51
+[26/Apr/2000 21:49:23] Packet filter: ACL 1:0 Realtek TCHIBO) Ethernet Adapt: deny packet in: CUS 94.1.4.2:4582 -> 658.40.014.6:51
+[27/Apr/2000 21:46:21] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: BDA 718.615.77.95:174 -> 85.3.3.8:9735
+[27/Apr/2000 21:46:24] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: BDA 718.615.77.95:174 -> 85.3.3.8:9735
+[27/Apr/2000 21:46:30] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: BDA 718.615.77.95:174 -> 85.3.3.8:9735
+[27/Apr/2000 21:46:51] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: WRU 321.126.5.1:310 -> 12.2.5.5:5936
+[27/Apr/2000 21:46:54] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: WRU 321.126.5.1:310 -> 12.2.5.5:5936
+[27/Apr/2000 21:47:00] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: WRU 321.126.5.1:310 -> 12.2.5.5:5936
+[28/Apr/2000 15:58:03] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: UPT 017.139.36.40:977 -> 20.5.7.9:3235
+[28/Apr/2000 15:58:06] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: UPT 017.139.36.40:977 -> 20.5.7.9:3235
+[28/Apr/2000 15:58:12] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: UPT 017.139.36.40:977 -> 20.5.7.9:3235
+[28/Apr/2000 15:58:30] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: STF 331.389.3.2:133 -> 16.8.9.0:9310
+[28/Apr/2000 15:58:33] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: STF 331.389.3.2:133 -> 16.8.9.0:9310
+[28/Apr/2000 15:58:39] Packet filter: ACL 2:0 Realtek TCHIBO) Ethernet Adapt: deny packet out: STF 331.389.3.2:133 -> 16.8.9.0:9310
+
+Gian Stöven
+
+-- 
+Ein weiteres lehrreiches Posting von Gian Stöven persönlich!
+                                             E-Mail: hjmudr@eyncttjoqq.pq
+---> Offizieller Kämpfer wider Bernard Kagel des Ordens von dtju <---

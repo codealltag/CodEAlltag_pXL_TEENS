@@ -1,0 +1,15 @@
+Orlando Genser <sjv@dptyd.zfr> writes:
+
+
+Ist es auch.
+
+
+The only thing more accurate than incoming enemy fire is incoming
+friendly fire.
+
+Ein Grund, bei Pues mit Orlando mp_friendlyfire auf 0 zu setzen.
+
+-oskar
+-- 
+"It's the little touches that make a future solid enough to be destroyed"
+- Steffen S Bourroughs

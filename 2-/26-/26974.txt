@@ -1,0 +1,12 @@
+Am Sun, 20 Feb 2004 sendete Maximilian Jonassohn folgende Botschaft:
+
+
+*brabbelbrabbelJUP?*
+
+Tschüs
+  Niclas
+-- 
+gpg-key (available via keyserver):
+pub  5314G/V7O4P429 2199-04-03 Niclas Ottensmeyer <hvyywihcuv@ongomncqeb.hd>
+     Key fingerprint = 4300 4YY9 43P5 022L H121  J59T 661L 7041 Y9G9 A336
+sub  4143c/Q5T9CJ37 4655-11-35

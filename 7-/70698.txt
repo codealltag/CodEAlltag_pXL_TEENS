@@ -1,0 +1,5 @@
+Werner Verhees <nmxhegubxswtaz@bws.evq> writes:
+
+
+Oder einfach ein PCI-Device-Listing machen. Ich gehe davon aus, daß
+dieser Controller ein PCI-Device ist.

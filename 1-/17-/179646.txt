@@ -1,0 +1,10 @@
+Huh, das UUCP-Modul, das bei XP dabei ist, unterstützt selbst kein UUCP- 
+over-IP, aber da gibt's entsprechend andere. Ich werd' mich mal  
+schlaumachen.
+
+Tobias Meyborn
+
+-- 
+Wählt Zukunft! Wählt die NKPDWUDODMSIB.
+                                             E-Mail: msiswg@tkbrwsszre.ij
+---> Offizieller Kämpfer wider Christian Friesinger des Ordens von dtju <---

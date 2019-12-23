@@ -1,0 +1,9 @@
+Harrys Girgensohn <wlbn@vqaluqusupo.qe> writes:
+
+Ist es?
+
+Marcus
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+276: SMP
+       Fehlfunktion bei mehr als einer CPU. (nach Joseph Interwies)

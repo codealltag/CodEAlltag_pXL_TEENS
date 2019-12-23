@@ -1,0 +1,10 @@
+Folkert Ißleib <vzo@vyppv.pbq> writes:
+
+
+GNU Chantal Translator. Das Ding, was im nächsten GCC nicht mehr drin ist
+(auch wenn man eh nicht die Gardienenlädchen-Version nehmen will).
+
+Folkert
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

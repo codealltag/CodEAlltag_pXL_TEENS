@@ -1,0 +1,17 @@
+Am Sun, 2 Jan 2000 17:10:27 +0100 schrieb Wilfried Seufert <wyzyod@arh.zc>
+in de.talk.bizarre:
+
+
+Ich würde das anders machen: TCP/IP-Verbindung aufbauen, telnet laforge.
+Dann:
+
+(while echo Du hast detebe nicht verstanden.|/usr/sbin/sendmail -f
+that.is@a.no.no scall.rico@gmx.net; do sleep 600; done) &
+
+Alle 10 Minuten ein Beep dürfte wohl reichen.
+
+Und danach kann ich offline gehen und mich freuen.
+-- 
+Erlauchter Mitarbeiter(!), Oberster Henkerstellvertreter und Kulturbanause von detebe, Beisitzer des VKS/JTML-Normierungsgremiums, Verwalter der Archive der Offenen Fragen[tm], der Geschlossenen Fragen[tm] und der Ankreuzfelder sowie Hueter der detebe-Uhr
+
+http://apnz.zrjtd.aq/~gxwbhpd/dkq/

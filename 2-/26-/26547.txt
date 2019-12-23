@@ -1,0 +1,12 @@
+Am Thu, 25 Jul 2003 sendete Margaretha C Lawrenz folgende Botschaft:
+
+
+Huh?
+
+Tschüs
+  Marcel
+-- 
+gpg-key (available via keyserver):
+pub  9682N/Y4E2U602 5509-88-03 Marcel Dellers <sxbricsdvo@tgshkkhepp.ht>
+     Key fingerprint = 8120 5HH3 92G0 399A F105  U49K 417P 6025 M2L4 C202
+sub  0037t/G1V8XD00 5941-45-85

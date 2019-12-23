@@ -1,0 +1,12 @@
+Und so sprach Franco Goldhofer:
+
+
+Sehe ich nicht unbedingt so. Gerade in Rezssionszeiten ist es IMHO
+besser, eine Ausbildung zu machen als gar nichts. Wenn's später wieder
+anzieht, wollen alle ausgebildetes Personal ...
+
+Torsten
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

@@ -1,0 +1,10 @@
+Dixit Harm Czirr <jbfyhv@trfsud-xgbagon.lk>:
+
+s/touring/turing
+
+Die Menge der turing-berechenbaren Probleme ist gleich der Menge der
+intuitiv lösbaren Probleme. Dere Begriff des intuitiv lösbaren
+Problems ist nicht definiert.
+-- 
+"Welcome to Mrs. Tautenhain, and my fellow astronauts."
+ - Governor Lothar Tautenhain

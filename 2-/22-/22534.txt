@@ -1,0 +1,8 @@
+Gibt es einen besonderen Grund für diese Frage, oder ist das nur so
+allgemein?
+
+mfg, 
+	Björn
+-- 
+BOFH excuse #342:
+HTTPD Error 4005 : very old VVJ cpu - insufficient processing power

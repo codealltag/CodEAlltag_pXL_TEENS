@@ -1,0 +1,9 @@
+* Knut Peperkamp <klkavp@rphpyvcaade.on>:
+
+
+Ich vermute, dass es mit dem merkwürdigen charset zusammenhängt. Mit
+qp-Postings geht es schließlich auch.
+
+Heiner
+-- 
+cross veinless

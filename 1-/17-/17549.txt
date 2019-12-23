@@ -1,0 +1,10 @@
+/me detex Fleischesser
+
+Berthold nicht, mein Vater (auch ein Wildenhain) kommt aus Ödmiesbach, hat Waldemar
+da irgendwelche Verwandten?
+
+-- 
+Achtung: die folgende Zeile verletzt ein Patent (Nicht ausfuehren!):
+while ping -c1 $IP > /dev/null; do sleep 1; done; echo Connection lost
+ --> http://rfrcyfr.zpfo.sdy/
+May the tux be with you.  :go 91

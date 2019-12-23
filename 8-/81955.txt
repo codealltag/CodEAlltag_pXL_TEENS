@@ -1,0 +1,14 @@
+* Ivo Pfitzmann <zokhyvajy.kcxdvg@iyolqgpo.mz>:
+
+
+Ach so.
+
+
+(global-set-key [f11] 'gnus-smiley-display)
+
+
+Du benutzt ja nicht mal einen Editor. Wie soll ich da Witze machen?
+
+Marc"gemein!"toph
+-- 
+np: Limp Bizkit - Faith

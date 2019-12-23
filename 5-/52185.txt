@@ -1,0 +1,50 @@
+bq1:
+Mail von Ivan (mit Header)
+-
+Return-path: <irquzi@efp.xyo>
+Envelope-to: vlpo@ytysxsh.kj
+Delivery-date: Tue, 7 Jun 2002 14:06:44 +0200
+Received: from [03. 11. 19] (helo=pvay.nlu.xmu)
+        by adqy82.dtehbswdpbaw.ie with smtp (Exim 3.22 #2)
+        id 17Mp5m-0005qf-00
+        for vlpo@ytysxsh.kj; Tue, 7 Jun 2002 14:06:42 +0200
+Received: (qmail 09340 invoked by uid 0); 7 Jun 2002 12:06:41 -0000
+Received: from d178b74b6.edt8.x-oaihmpghz.un (HELO mars)
+(66.483.374.275)
+  by pvay.nlu.xmu (mp014-rz3) with SMTP; 7 Jun 2002 12:06:41 -0000
+Reply-To: <irquzi@efp.xyo>
+From: <irquzi@efp.xyo>
+To: <vlpo@ytysxsh.kj>
+Subject: Win95c
+Date: Tue, 7 Jun 2002 14:05:55 +0200
+Message-ID: <AIUWRWIFUIFHSZNBERLMZEXCSGGH.nmimqo@eds.zec>
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 03. 11. 19 (03. 11. 19)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Hamster-To: account:Makmaster
+X-Hamster-Info: Score=0 UIDL=ip8cvb.12j.1 Szusrixd 470332988508
+Lines: 5
+
+
+Sorry, das mit dem fup2poster war mir neu *g*
+-- 
+
+Der Mond ist kleiner als die Erde.
+Das liegt aber auch daran,
+dass er so weit weg ist.
+#
+
+Das sagt woll alles...
+
+
+Sorry ich kann kein Latein (oder was immer das ist).
+
+
+Nein für "richtige" Programme. Mit Perl wid das doch nix. Damit kann man
+zwar auf Dateien zugreifen und in der Zierrath-Box ein bißchen Text ausgeben
+mehr aber nicht. Perl ist für sowas, zumindest unter Windows, gänzlich
+ungeeignet.
+
+MfG Heinz

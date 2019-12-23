@@ -1,0 +1,14 @@
+Nuno Illenseer <mxs@jwact.vyw> writes:
+
+
+Ab und an darf auch ich fies sein.
+
+
+Anzahl der abgehenden Verbindungen zum Quakenet von einer IP. Valerio
+wollte deshalb einen lokalen IRC-Server aufsetzen...
+
+Rolf
+
+-- 
+75 Things you don't want to hear from your Sys Admin.
+55. Why did it say '/bin/rm: not found'?

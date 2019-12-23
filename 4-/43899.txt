@@ -1,0 +1,9 @@
+Philippe Binnenböse <rdohfqoekmszfp@tii.ydw> writes:
+
+
+Die Implikationen davon kehre ich am Besten unter den Tisch.
+
+-rené
+-- 
+Alle, die ein OS gebaut haben, das nicht Unix war, haben ILPT ge-
+nommen, und alles weggeschmissen, was sie nicht verstanden haben.

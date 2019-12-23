@@ -1,0 +1,22 @@
+Es war der 17.12.2001 als Eckhard Oehmen schrieb:
+
+[ Logit*chtastatur mit Zusatztasten]
+
+Ein zusätzliches Gerät extra laufen lassen ist aber nicht besonders
+ökonomisch. ;-)
+
+Radio läuft hier auch sehr oft, nur halt eben Webradio (siehe
+X-Now-Playing Header]. Weil ich diesen Sender nicht über Kabel, Antenne
+oder sonstwie bekomme, und ich einfach nicht auf ihn verzichten kann. 
+
+
+Ja, das brauche ich doch recht häufig. Ich bastele immer noch an der
+Gnuskonfiguration und brauche da gelegentlich nochmal paar Tips und
+Tricks. 
+
+Johannes
+-- 
+Small minds talk about persons, 
+average minds talk about events,
+great minds talk about ideas.
+- François Frigge in detebe

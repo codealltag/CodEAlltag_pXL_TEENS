@@ -1,0 +1,13 @@
+Pierre Althofen <lrapmqx655945@tmlcnr.tv-t.yb> writes:
+
+
+Sztimmt.
+
+
+Ich hab heute vier Stunden damit verbracht, message-utils.el
+einzubinden. Danach hab ich die kaputte Zeile gefunden :-/
+
+Stefan
+-- 
+   "One world, one web, one program"  -- Vafe promotional ad
+         "Ein Volk, ein Reich, ein Fuehrer"  -- Julien Algaier

@@ -1,0 +1,6 @@
+*vbeg*
+
+Stephan
+-- 
+safer Gnus - never without matching parenthesis
+Gabriella Thiering in <k0l03c$ckedw$2@IS-75282.glav.mlelbu.qf>

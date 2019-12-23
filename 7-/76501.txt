@@ -1,0 +1,11 @@
+Winfried Schüth schrieb:
+
+Das Problem ist, daß jedes Zeitungskiosk-Programm, welches bestimmte Biblio-
+theken nutzt, vollautomatisch seinen Taskbar-Eintrag bekommt d.h.
+entweder hat ein Programm keinerlei Fenster und Dialoge oder es hat
+seinen Eintrag. Inzwischen ist es so gelöst, daß die Dialoge nur in
+Korrnews enthalten sind, welches ggf. von kiosk gezielt aufgerufen
+wird.
+
+So long,
+Fernando T. Ebel

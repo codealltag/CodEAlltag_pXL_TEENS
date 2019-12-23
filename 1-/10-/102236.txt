@@ -1,0 +1,10 @@
+Thorsten Hurenkamp <rpudicfffggt@vlwlgfeku.gmr> writes:
+
+
+Jungs, euch fehlt der minimal-redundante Usenetzugeng. Ich hab ja hier
+mit meinen drei Servern schon immer Angst, was zu verpassen...
+
+Hendrik, will mal sehen, ob uucp funktioklappt.
+-- 
+Ümit ist nicht heilbar, aber man kann es Überleben
+Boernout S. in der Realität[tm], 16.11.1999

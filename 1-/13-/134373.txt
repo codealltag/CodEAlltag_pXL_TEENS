@@ -1,0 +1,13 @@
+Buggy beta :-(
+Irgendwie gingen ein paar References durcheinander, ich hab' jetzt eine  
+alte Version eingespielt, da tritt dieser Fehler AFAICS nicht auf,  
+Bugreport ging auch raus.
+Die kaputten References in diesem Posting liegen jetzt natürlich daran,  
+daß sich der Fehler fortpflanzt.
+
+Pius Clauhsen
+
+-- 
+Ich verabscheue Kurt Hannweg!
+                                             E-Mail: jycruc@cljvkipssn.lm
+---> Offizieller Kämpfer wider Kurt Hannweg des Ordens von dtju <---

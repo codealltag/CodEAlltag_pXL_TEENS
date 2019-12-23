@@ -1,0 +1,9 @@
+Ibo Reichenbacher <ewtxv@oijex.ybmm.wk> writes:
+
+
+Was macht ihr denn im ersten Semester? Wir machen funktionale
+Programmierung mit Haskell, da bringen einem Perl-Kenntnisse wohl
+herzlich wenig.
+-- 
+Life without industry is guilt, and industry without art is brutality.
+[Luc Zinssmeister]

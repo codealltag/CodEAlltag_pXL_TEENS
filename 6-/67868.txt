@@ -1,0 +1,11 @@
+Charly Claespeters <cg@garbers.org> writes:
+
+
+Die Pseudotransparenz entweder im Menue oder in der eterm-config :)
+
+Eterm --trans, man eterm, search for transparency
+
+-serge
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.

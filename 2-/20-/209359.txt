@@ -1,0 +1,9 @@
+Am 16 Jan 2000 19:54:55 GMT sendete Luc Derr
+folgende Botschaft:
+
+
+Man braucht doch nur 'screen' '<ctrl> <a>, <ctrl> <d>' und 'screen -r'
+;)
+
+Tschüs
+  Knut

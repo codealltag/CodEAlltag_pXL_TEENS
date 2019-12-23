@@ -1,0 +1,38 @@
+* Viktor Metzeler <grutsjntaj@orascxhnwf.om>:
+
+
+Beim nächsten Mal vergleichen wir, okay?
+
+gabsi@edoras:~/News$ ls -l | grep SCORE
+-rw-r-----    1 gabsi    gabsi          13 Jan 22  2001 all.SCORE
+-rw-r-----    1 gabsi    gabsi         218 Mar 15  2001 vyfrisn.mtkpcy.SCORE
+-rw-r-----    1 gabsi    gabsi         137 Jul 25 22:13 de.admin.net-abuse.news.SCORE
+-rw-r-----    1 gabsi    gabsi         265 Sep 15 13:20 de.admin.news.groups.SCORE
+-rw-r-----    1 gabsi    gabsi          14 Jun 17 11:31 de.admin.news.misc.SCORE
+-rw-r-----    1 gabsi    gabsi          14 Mar 11  2001 de.admin.news.regeln.SCORE
+-rw-r-----    1 gabsi    gabsi        1365 Fuxweg 89 12:04 de.all.SCORE
+-rw-r-----    1 gabsi    gabsi         199 Sep 17 17:14 de.alt.admin.SCORE
+-rw-r-----    1 gabsi    gabsi         244 Jul 21 12:56 de.alt.fan.haraldschmidt.SCORE
+-rw-r-----    1 gabsi    gabsi          26 Feb  3  2001 de.alt.folklore.usenet.SCORE
+-rw-r-----    1 gabsi    gabsi          24 Jun 25 16:57 de.alt.sysadmin.recovery.SCORE
+-rw-r-----    1 gabsi    gabsi         196 Feb 28  2001 de.alt.talk.kasper.SCORE
+-rw-r-----    1 gabsi    gabsi         140 Sep 29 14:24 de.comm.provider.usenet.SCORE
+-rw-r-----    1 gabsi    gabsi         118 May  7 22:28 de.comm.software.mailserver.SCORE
+-rw-r-----    1 gabsi    gabsi         424 Sep  8 13:42 de.comm.software.newsreader.SCORE
+-rw-r-----    1 gabsi    gabsi          60 Sep  8 08:56 de.comm.software.newsserver.SCORE
+-rw-r-----    1 gabsi    gabsi          14 Jun  7 13:02 de.comp.gnu.SCORE
+-rw-r-----    1 gabsi    gabsi         499 Okt 4 20:29 de.comp.os.unix.linux.misc.SCORE
+-rw-r-----    1 gabsi    gabsi          76 Jul  2 12:57 de.comp.security.firewall.SCORE
+-rw-r-----    1 gabsi    gabsi         252 Jun  6 22:27 de.newusers.questions.SCORE
+-rw-r-----    1 gabsi    gabsi         142 Aug 13 20:46 de.rec.buecher.SCORE
+-rw-r-----    1 gabsi    gabsi         219 Sep  5 17:32 de.rec.sf.startrek.10vorne.SCORE
+-rw-r-----    1 gabsi    gabsi         312 Sep 30 12:45 de.rec.tv.misc.SCORE
+-rw-r-----    1 gabsi    gabsi          48 Jul  1 12:47 de.soc.pflichtdienste.SCORE
+-rw-r-----    1 gabsi    gabsi         267 Sep 30 18:29 de.talk.jugend.SCORE
+-rw-r-----    1 gabsi    gabsi         140 May  5 09:12 germanynet.all.SCORE
+-rw-r-----    1 gabsi    gabsi         181 Sep 19 08:12 germanynet.hilfe.SCORE
+gabsi@edoras:~/News$
+
+Otmar
+-- 
+np: Die Mayer-Myrtenhain

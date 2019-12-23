@@ -1,0 +1,14 @@
+Und so sprach Torsten Czauderna:
+
+
+Keine Ahnung. Ich habe Masquerading und alles Wueste, aber klappt ganz
+gut.
+
+(Wenn Du mit Linux Masq machst, brauchst Du das entsprechende Modul
+geladen.)
+
+Gruss,
+Guido.
+-- 
+                          WestWorks - the meta project
+                         <URL:http://yfe.iloynqhks.he/>

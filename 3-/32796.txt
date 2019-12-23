@@ -1,0 +1,4 @@
+Werner Ramrath wrote:
+
+So ganz prinzipiell kannst du auch HTTP über andere Verbindungen fahren. 
+Gehört das Web deshalb nicht zum Internet?

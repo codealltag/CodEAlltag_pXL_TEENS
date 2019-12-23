@@ -1,0 +1,17 @@
+Am Fri, 16 Aug 2003 sendete Vittorio Onno Dombrink folgende Botschaft:
+
+
+Stimmt. Manchmal sollte man gedanken mal etwas weiter spinnen. 
+Allerdings hast du meist mehr als eine Verbindung zwischen zwei
+Knoten, so das man wohl noch virtuelle Knoten zusätzlich zu den realen
+Umsteigemöglichkeiten einfügen muss. Also alles recht unangenehm.
+
+
+solange keiner meckert nicht. ;)
+
+Tschüs
+  Carlo
+-- 
+-:- Topic for #netcologne: In the beginning was The Word and The Word was
+          Content-type: text/plain
+	  -:- topic set by DonutMan [Fri Dec 20. 03. 20]

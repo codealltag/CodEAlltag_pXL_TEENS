@@ -1,0 +1,9 @@
+* Kaspar Nickchen <nejdwbfevectey@lmc.qie>:
+
+
+Bekommst du Gnus alleine kompiliert? Ich muss wohl mal ein Tutorial
+schreiben ...
+
+Remmer
+-- 
+cross veinless

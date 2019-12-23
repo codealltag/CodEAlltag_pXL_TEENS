@@ -1,0 +1,11 @@
+Und so sprach Ronny Opl:
+
+
+Ich bin einfach im flachsen Studiengang. :-)
+
+Gruss,
+Domenico, manchmal echt.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

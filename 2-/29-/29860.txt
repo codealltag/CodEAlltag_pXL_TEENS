@@ -1,0 +1,2 @@
+Ok, die grösste Zahl, die man mit hundert Zeichen angeben kann, ist
+grösser.

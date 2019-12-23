@@ -1,0 +1,13 @@
+Timo Panhans meinte kundzutun:
+
+
+Und wieso *wird* sie dann komplett geladen?
+
+          ^^^^
+
+Ah. Ich hab den Haken entdeckt.
+
+Theo
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Montag, dem 15. März im Jahre des Herrn 2002 verfaßt.

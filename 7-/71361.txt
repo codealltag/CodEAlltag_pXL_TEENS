@@ -1,0 +1,7 @@
+(* Veit Awick wrote: *)
+
+
+Arrrrgh... Catherine 
+"vrr".replace(0, "NRW");
+
+Dominik

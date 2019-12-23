@@ -1,0 +1,12 @@
+Sebastian Lauwasser <arfqsia@eii.sq> writes:
+
+[transparente texturen]
+
+func_wall-Entity ohne Textur und ein Decal mit dem Ding draufpacken,
+so oder ähnlich in HL. Herr Aidams kann dir da sicher mehr zu erzäh-
+len.
+
+-benno
+-- 
+Light travels faster than sound, that's why
+people seem bright until you hear them.

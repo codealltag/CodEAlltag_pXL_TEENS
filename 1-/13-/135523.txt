@@ -1,0 +1,10 @@
+Diese Kritik ist unbegründet. XP verwendet als interne Datenbankstruktur  
+eben das ZConnect-Format. Der Agent und OE benutzen z.B. auch ein  
+proprietäres Datenbankformat.
+
+Theo Wöstmann
+
+-- 
+Ich hasse jegliche Art und Abart von Kultur!
+                                             E-Mail: cpwkey@gwpipudoir.oa
+---> Offizieller Kämpfer wider Alois Evermann des Ordens von dtju <---

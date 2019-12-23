@@ -1,0 +1,11 @@
+Sylvia H. Würminghausen <news2004a@arandor.org> writes:
+
+
+*best�tigtschau*
+
+Jacques
+-- 
+Homer:~$ whoami
+root
+Homer:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Theo Rörnbacher]

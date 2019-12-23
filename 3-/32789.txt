@@ -1,0 +1,15 @@
+Harald Nitzsche <NOSPAM@ambuehl.tk> writes:
+
+
+100% ACK. Wobei ich inzwischen die Gepo-Implementierung von Perl
+vorziehe. Ist aber leider auch an Perl und Interbase gebunden...
+
+
+Naja, mein erstes Programm wäre dann aber schon ein richtiger Reinfall
+geworden. Einen Wecker, der nicht in Echtzeit läuft, zu programmieren
+macht nicht sonderlich viel Sinn.
+
+Björn, der Java - aus bekannten Gründen - nicht mag.
+
+-- 
+Der macht son angenehmes Geräusch -- Dieses Ozon![Jakob]

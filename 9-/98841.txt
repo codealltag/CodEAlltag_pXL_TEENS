@@ -1,0 +1,2 @@
+Normalerweise nicht. Aber IE 5.5 hat zeitweilig gewisse Probleme, 
+bei DNS lookups die ich mir nicht wirklich erklären kann.

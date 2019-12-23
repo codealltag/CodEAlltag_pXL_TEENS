@@ -1,0 +1,18 @@
+wnkeqzqdvxh@xzo.dt (Nico Ihle) wollte folgendes loswerden:
+
+
+Da wäre erstmal die falsch abgetrennte Sig. *g* Falls du's nicht
+weit, hier noch mal extra für dich:
+
+Signaturen trennt man mit "-- " (Strich-Strich-Leerzeichen) und nicht
+anders. Außerdem wäre zu empfehlen, zwischen Sig und text ein-zwei
+leerzeilen zu lassen, zur Übersichtlichkeit.
+
+Ansonsten lies mit, und du wirst mitkriegen, worum es geht.
+
+
+-- 
+Ich.
+
+trhw.ordtisqi@zof.lg
++++ Wer Rechtschreibfehler findet, darf sie behalten +++

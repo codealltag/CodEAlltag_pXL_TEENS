@@ -1,0 +1,10 @@
+Domenico Pirnbaum <stqiauh272816@iecidr.zv-x.rm> writes:
+
+
+Die Shell, wie die bash oder sie csh, sind durchaus Schalen. Sie
+liegen um den Kern herum...
+
+Willibald
+-- 
+Diplomatie ist die Kunst, dem anderen deinen Willen aufzuzwingen
+und ihn gleichzeitig in dem Glauben zu lassen,es sei sein eigener.

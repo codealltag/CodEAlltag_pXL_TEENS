@@ -1,0 +1,8 @@
+* Luc Osterbrink <grkf@vgwckbei.aa>:
+
+
+Wenn er kompiliert wird, ist er schneller.
+
+Benjamin
+-- 
+cross veinless

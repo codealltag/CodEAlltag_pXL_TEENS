@@ -1,0 +1,5 @@
+Mein EOK zensiert nichts, mein Hamster der die Mails via Küchenmanufaktur abholt,
+überprüft die Server in den Received Headern mit 3 RBLs, wenn da was als
+Spamschleuder drin ist, wirds gelöscht.
+-- 
+np: R.E.M - Summer Turns To High

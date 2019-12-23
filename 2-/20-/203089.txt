@@ -1,0 +1,18 @@
+bboawrq_pflndfx@bbe.qd (Gilles Nonnenbroich) hat am Thu, 11 Aug 1999
+22:04:57 +0200 etwas geschrieben, was ich jetzt beantworten muß:
+
+
+es heisst Index und nicht index... vielleicht hat da mancher Browser
+Probeme mit. Wenn man zu www.yri.tc/jwur/ geht bekommt man nämlich die
+verzeichniss liste und nicht wie üblich die index.htm angezeigt.
+Ursache: es gibt keine index.htm, sondern nur eine Index.htm und das
+kapiert Dein Server nicht.
+
+
+Ciao, 
+
+-- 
+eMail: cxznot@tsnxt.nv     Homepage: http://addaqihgd.hiwa.xoemx.vd/                       
+ IRC : Ret @ #tannay      Letztes Update : 19.09.1998
+  --- Schutzpatron aller Frauen von dtju --- :-) 
+   --- Der mit dem berühmten Augenstrahlfaktor ---

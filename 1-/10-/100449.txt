@@ -1,0 +1,15 @@
+* Didier Pannhorst <zhvuzwrxgtfcgr@ekx.btc>:
+
+
+Klar.
+
+
+Ich habe mal 
+
+apt-get install eterm
+
+gemacht. Und wo ist es nun?
+
+Leopold
+-- 
+cross veinless

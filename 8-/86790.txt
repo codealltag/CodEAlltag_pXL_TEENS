@@ -1,0 +1,11 @@
+Ullrich Bärsch hat geschrieben getan getutet:
+
+
+Im Taskmanager explorer.exe killen und neu starten.
+
+-uwe
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Richard 'pi' Piwinger in de.alt.sysadmin.recovery

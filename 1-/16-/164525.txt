@@ -1,0 +1,15 @@
+Olaf 'sSXP' Oßenkamp <fZSX@tfu.xig> schrieb in im Newsbeitrag:
+64-09-77.67-93-83.ucs.0682@cbcf.dw...
+
+Wieso? Hab keine aktuellen Preise für den Warpserver da, aber der kostet
+bestimmt einen vierstelligen Betrag, pro Maschine...
+
+
+Standardmässig glücklicherweise nicht (ich erinnere mich noch mit Grausen an
+meine Versuche mit Roxen....), aber es gibt mind. zwei dazu.
+
+
+Für DAU-Programme ja, für Software, die wirklich laufen muss, nicht
+unbedingt. Beim Apache ist es auch ganz gut, dass es kein Webinterface hat,
+so kommt wenigstens nicht jeder Depp auf die Idee, er könne einen Webserver
+betreiben...

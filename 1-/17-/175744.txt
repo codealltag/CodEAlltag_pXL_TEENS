@@ -1,0 +1,17 @@
+Jörg Oesterheld schrieb am 21. August 2000 um 00:08 Uhr folgendes:
+[Opera 4.0]
+
+Sorry.
+
+
+Auch da nicht wirklich. Die Linux-Version ist in so einem frühen
+Stadium, dass sie sich noch nicht einmal trauen, es "Alpha" zu nennen
+(sondern "Technology Preview", IIRC).
+
+Viele Größe,
+     Udo Abrill
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- saf-Kopiersysteme 1.2.5 configure-script

@@ -1,0 +1,14 @@
+Am Thu, 13 Aug 2000 sendete Carsten Bodenstaff folgende Botschaft:
+
+
+Also wenn es um defektlos geht liegen Gnus und slrn bestimmt vor dem
+Agent. Allerdings würde wird es zwichen den beiden schwer einen
+unterschied diesbezüglich zu machen.
+
+Tschüs
+  Wolfgang
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Luis Düsdieker, Mostly Harmless, Chapter 12

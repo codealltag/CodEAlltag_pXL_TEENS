@@ -1,0 +1,11 @@
+* akwrtz@sbyedbfcrm.oe (Nils Iselein):
+
+
+Kodiere es halt mit ROT5, dann fällt das keinem auf.
+
+
+Danke.
+
+Valentin
+-- 
+cross veinless

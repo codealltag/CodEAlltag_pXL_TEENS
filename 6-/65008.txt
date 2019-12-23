@@ -1,0 +1,14 @@
+Reinhard Eisfeld <chrsyaobptr.99@eoqwxbdwlnp.wm> writes:
+
+
+Linuxversion?
+
+[x] Du willst pr-1.30/linux herunterladen, ausfuehren, und pak0.pk3
+von der CD kopieren und dann geniessen.
+
+Performance ist, IMHO, besser, wie es bei jeder Linux-native Version
+ist :). Tribes 2 hatte ja nachgewiesenermaszen 20%
+Steigerung. Dummerweise gibt's keinen kostenlosen Patch fuer
+Windows-Versionen.
+
+-arno

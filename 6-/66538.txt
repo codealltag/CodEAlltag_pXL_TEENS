@@ -1,0 +1,10 @@
+Peter Englschalk <udbemg_46-05@kydz.rwwqte.rz> writes:
+
+
+[ } Das hilft gegen umgeworfene Gläser
+
+Jean-Paul 
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

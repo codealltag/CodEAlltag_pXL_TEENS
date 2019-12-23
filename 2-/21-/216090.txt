@@ -1,0 +1,16 @@
+On Sat, 03. 07. 20, Klaus Zizmann <xdurjqw_gjunnik@vko.ko> wrote:
+
+[PsychoKid]
+
+Und Du meinst ernsthaft, daß er auf das "Angebot" reagiert hätte?
+
+
+Durch Filterung nach Message-ID oder Path bekommst Du zumindest
+diejenigen raus, die via Remailer posten. Ansonsten hilft regelmäßige
+Benutzen von Ctrl-K (oder welche Tastenkombination auch immer beim
+Gravity einen Autor ins Kill befördert).
+
+Viele Größe,
+     Ingmar Jörgensen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

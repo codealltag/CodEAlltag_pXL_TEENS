@@ -1,0 +1,11 @@
+* Enno Rohlfing <uloignm348024@bkkohb.cc-q.di>:
+
+
+Ja, aber sonst macht das doch keine Spaß.
+
+
+Ich mag Pointer nicht. Zumindest nicht in C++.
+
+Helmut
+-- 
+cross veinless

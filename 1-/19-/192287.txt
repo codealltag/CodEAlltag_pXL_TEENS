@@ -1,0 +1,8 @@
+Am Sat, 21. 02. 19 sendete Siegfried Grässer folgende Botschaft:
+
+
+bzip2, bunzip2, bzcat und noch ein paar andere sind bei bzip 2 auch
+möglich.
+
+Tschüs
+  Hansruedi

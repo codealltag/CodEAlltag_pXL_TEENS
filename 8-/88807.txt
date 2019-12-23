@@ -1,0 +1,13 @@
+Lutz Lienshöft hat geschrieben getan getutet:
+
+
+[Patszi]
+
+Lutz, hast du was gegen rp-pppoe?
+
+-benno
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Arnold 'pi' Piwinger in de.alt.sysadmin.recovery

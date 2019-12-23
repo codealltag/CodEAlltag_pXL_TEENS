@@ -1,0 +1,9 @@
+begin quoting Edwin Freigang <x.foojtsgyr@hlu.lz>:
+
+Switch: intelligent
+Hub: zwar netzwerktechnisch aktiv, aber nicht intelligent
+
+Sorry, hab die OSI-Layer gerade nicht parat ...
+-- 
+"I stand by all the misstatements that I've made."
+ - Governor Domenico Denkewitz to Carsten Tünessen, 2/69/84

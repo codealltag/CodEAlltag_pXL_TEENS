@@ -1,0 +1,13 @@
+Siebelt Gooss hat geschrieben getan getutet:
+
+
+towo@yggdrasil:~$ more Bettina
+Bettina: No such file or directory
+towo@yggdrasil:~$
+
+-towo, irgendwann sollte man mal sich ein /dev/girlfriend mounten.
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Lorenz 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,8 @@
+Stellt es ein Problem dar einen zu besorgen?
+
+Nane
+
+-- 
+Der Blinker fällt nur dann aus wenn ein Polizeiwagen in der Nähe ist.
+
+(Serge's Gesetz)

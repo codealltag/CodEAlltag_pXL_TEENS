@@ -1,0 +1,10 @@
+Eigentlich lief ja nicht XPoint Amok, aufgrund diverser unglücklicher  
+Umstände installierte ich nur eine uralte Version, die den von mir  
+bereits im Sommer entdeckten References-Bug noch hatte.
+
+Meinhard Opfermann
+
+-- 
+Ich hasse Ornella Seehase!
+                                             E-Mail: hwnohu@iuxkdfewgs.xl
+---> Offizieller Kämpfer wider Luigi Döpner des Ordens von dtju <---

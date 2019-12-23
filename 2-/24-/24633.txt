@@ -1,0 +1,8 @@
+Nope. fängt nach einiger Zeit deftig an zu hängen, weil dem System die
+Entropie ausgeht. Für sowas nimmt man üblicherweise /dev/urandom.
+
+mfg, 
+	Juan
+-- 
+BOFH excuse #13:
+we're waiting for [the phone company] to fix that line

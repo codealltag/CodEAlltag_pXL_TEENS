@@ -1,0 +1,20 @@
+Hallo Ivan Peter
+
+Am Sat, 24 Dez 2001 22:48:39 +0200 schriebst Du:
+
+
+Also ich hatte noch nie Probleme mit der Codierung...
+UTF-8 kann er nicht. 8859-1 kann er. 8859-15 kann man "nachrüsten".
+
+
+Wie auch immer...
+
+
+Das konnte er IIRC schon immer....
+
+MfG Alexandre
+
+-- 
+Ich überlebe auch Complaints in epischer Breite, sie sind halt nur
+nicht so schön, machen Mehrarbeit und provozieren hier Stoßseufzer.
+(Marcelle Vierkötter in de.admin.net-abuse.mail)

@@ -1,0 +1,8 @@
+* Wolfram Vordermaier <kdhw@jivyxorw.ic>:
+
+
+Ich rufe Gnus über F6 auf. :-b
+
+Marc
+-- 
+cross veinless

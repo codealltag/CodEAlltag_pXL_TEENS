@@ -1,0 +1,11 @@
+Michel Eickelpasch <pazqzno@jfk.fy> writes:
+
+
+Nix. Wenn man nicht nachts um 2 in das 102. Element eines Array mit
+101 Elementen schreiben will, gehts. Man muss halt nur mal nachdenken,
+was man will, dass der Code tut, und was er im Gegensatz dazu tut.
+
+Lothar
+-- 
+Meinetwegen. Ich lasse es trotzdem mal weg.
+[Vincent Wendroth zu Hubert Raschendorfer in <xxdk6raqto.sbk.qihb@lnijvz.dsschso.yj>]

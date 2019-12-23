@@ -1,0 +1,17 @@
+Und so sprach Ronald Iseli:
+
+
+Viel interessanter: Was ist LOVE?
+
+Life's One Vital Emotion
+Loss Of Virginity Expected
+Leaves One Virtually Euphoric
+
+... und das ist erst der Anfang.
+
+Gruss,
+Tim.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

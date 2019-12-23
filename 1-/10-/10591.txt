@@ -1,0 +1,7 @@
+Am Fri, 14. 01. 20 sendete Othmar Feldwieser folgende Botschaft:
+
+
+Warum nicht direkt z = R + i(omega)C -i(omega)L? Denkt sich leichter.
+
+Tschüs
+  Harry

@@ -1,0 +1,10 @@
+Der vi ist nicht unbedingt anf�ngerfreundlich und vergleichsweise
+kompliziert zu erlernen. Das heißt nicht, daß er schlecht designed
+oder ineffizient wäre. Ich käme auch nicht auf die Idee, ein größeres
+Projekt in TDW zu programmieren, nur weil ich da vielleicht
+schneller durchsteige als bei Pascal oder F.
+
+Viele Größe,
+     Roman Nilsson
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

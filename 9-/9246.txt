@@ -1,0 +1,11 @@
+Antonios Beutenmüller <dpri@behehgkcfhw.jf> writes:
+
+Solange sich das Treten auf entgegen beschränkt habe ich da kein Problem
+mit.
+
+Theodor
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+70: It is essential that implementations by different vendors interoperate.
+       Unsere proprietären Basteleien dokumentieren wir gar nicht erst.
+       (Winfried Türpe)

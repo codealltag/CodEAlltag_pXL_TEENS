@@ -1,0 +1,11 @@
+Claudio Zwergling <qaaenek904238@vtdpco.wd-a.ge> writes:
+
+
+Der Anweisungsblock darf durchaus Zeilen enthalten, die mit
+Leerzeichen beginnen, von daher kein Problem. Aber um Einrückungen
+habe ich mich bei meinen Quelltexten bisher nicht gekümmert, das macht
+das JDE im XEmacs alleine.
+
+Edgar
+-- 
+Failure is not an option. It comes bundled with your Microsoft product.

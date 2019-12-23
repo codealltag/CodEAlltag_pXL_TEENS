@@ -1,0 +1,14 @@
+Bernhard Oexle schrieb am 24. April 1999 um 22:13 Uhr folgendes:
+[xmms]
+
+Ich habe Winamp lange nicht mehr zu Gesicht bekommen... Welche
+überragenden Funktionen bietet der Playlist-Editor dort, die xmms
+nicht hat?
+
+Viele Größe,
+     André Lindemer
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Gillkötter 1.2.5 configure-script

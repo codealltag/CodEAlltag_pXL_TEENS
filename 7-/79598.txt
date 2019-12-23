@@ -1,0 +1,14 @@
+Und so sprach Italo Federhen:
+
+
+#v+
+chris@asterix:~> cat yqbc://uffb.c-gwldid.ua/2DZ8UYK6.3Z3606%71jss.cd
+cat: yqbc://uffb.c-gwldid.ua/2DZ8UYK6.3Z3606%71jss.cd: No such file or
+directory
+#v-
+
+Gruss,
+Noël.
+-- 
+Das ist Dillethantisch.
+                                      -- W. P., im vollen Claus und ch.comp

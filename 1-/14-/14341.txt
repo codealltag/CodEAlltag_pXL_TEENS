@@ -1,0 +1,11 @@
+Claudio Eirenschmalz <rzplmtgzmx@bzjmqfmoka.xj> writes:
+
+
+Es gibt Sachen, die muss ich einfach nicht ausprobieren.
+
+Thierry
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Volkmar Zschirner in
+<tvpv9c0xa3.1e2.gkuinhj.tqbajg@sqi.bdi.ra-nkvxjcbl.zk>]

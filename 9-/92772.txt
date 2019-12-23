@@ -1,0 +1,12 @@
+* Vanessa Jännert <ofgl@gwpo.gd>:
+
+
+Ich musste die .gnus erst neu einlesen. Jetzt sollte es aber
+funktionieren.
+
+
+Habe ich gesehen.
+
+Vincenzo
+-- 
+8

@@ -1,0 +1,6 @@
+(* Louise Volkel wrote: *)
+
+
+Das Problem heisst "Löschzug".
+
+Frerich

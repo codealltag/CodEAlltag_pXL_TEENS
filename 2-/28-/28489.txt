@@ -1,0 +1,6 @@
+Meine ich nämlich auch.
+mfg, 
+	Thomas
+-- 
+BOFH excuse #173:
+Recursive traversal of loopback mount points

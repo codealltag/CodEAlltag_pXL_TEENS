@@ -1,0 +1,12 @@
+Jérôme Ochsenreiter hat geschrieben getan getutet:
+
+
+Nee, werden lokal gespeichert .. aber ich will warscheinlich gar nicht
+wissen, wo.
+
+-julien
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Roberto 'pi' Piwinger in de.alt.sysadmin.recovery

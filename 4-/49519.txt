@@ -1,0 +1,17 @@
+Hallo Christian Biehn
+
+Rebgasse, 11 Mrz 2002 16:54:50 +0200 schriebst Du:
+
+
+Oder zumindest das wichtigste...
+
+
+Wenn man erstmal OOP kapiert hat, hat es sehr wohl große Vorteile. Das
+ist IMO zumindest in Opam so. Also sollte man sich mit dem Konzept
+schon auseineandersetzen, wenn man die Sprache richtig lernen will...
+
+MfG Carlos
+
+-- 
+Fachlich gebildete Personen könnten fachliche Stellungnahmen zu meinen
+posting machen. (Winfried Dilsen, de.alt.ufo, 31.12.1998)

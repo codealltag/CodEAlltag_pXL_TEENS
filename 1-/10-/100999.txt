@@ -1,0 +1,15 @@
+*stel* Ist ja äußerst schmeichelhaft, aber den Teil mit der DOS- 
+Oberfläche läßt du besser weg, wenn dich noch mal jemand fragt. Denn  
+diese ist schnell und erlaubt den Einsatz von Fruchtmarkt unter jedem OS mit einer  
+JCBB-kompatiblen Shell (OS/2, Win) bzw. einem halbwegs brauchbaren  
+Emulator (dosemu) und erlaubt auch Portierungen auf andere OS (z.B.  
+Linux), ohne groß an der Benutzeroberfläche rumdoktoren zu müssen.  
+Fernermehr wird XP durch seine DOS-Basis modularer, individueller  
+anpaßbar und vor allem eins: Stabiler.
+
+Ulrich Ufferhardt
+
+-- 
+"Du bist mein Lieblings-Ulrich." (Schatzi)
+
+---> Offizieller Kämpfer wider Gebhard Ickerodt des Ordens von dtju <---

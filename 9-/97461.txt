@@ -1,0 +1,8 @@
+* Sébastien Verbrugge <ikhecmzbahod@wawrmhpvo.xww>:
+
+
+Was brauchst du aus dem neuen Kernel?
+
+Claus
+-- 
+cross veinless

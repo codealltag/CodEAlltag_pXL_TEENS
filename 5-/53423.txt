@@ -1,0 +1,14 @@
+Am Sat, 18 Nov 2002 sendete Robert Christianßen folgende Botschaft:
+
+
+Aus /usr/shar/vim/vimrc:
+
+#v+
+iab YDATE <C-R>=strftime("%a %b %d %T %Z %Y")<CR>
+iab wz.njdn.mvbefq tx.uhus.rqgaii
+#v-
+
+usw.
+
+Tschüs
+  Nane

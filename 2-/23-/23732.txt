@@ -1,0 +1,12 @@
+Und so sprach Serge Geismann:
+
+
+Noe, wenn schon ein Stammbaum, dem ein paar Pointer durcheinander
+gekommen sind.
+
+Gruss,
+Othmar.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

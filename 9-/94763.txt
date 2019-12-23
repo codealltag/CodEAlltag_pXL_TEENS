@@ -1,0 +1,11 @@
+Raphaël Tapp hat geschrieben getan getutet:
+
+
+Was sollte da fehlen?
+
+-andree
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Lars 'pi' Piwinger in de.alt.sysadmin.recovery

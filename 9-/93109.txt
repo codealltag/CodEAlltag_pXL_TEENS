@@ -1,0 +1,15 @@
+Otmar Fraatz hat geschrieben getan getutet:
+
+
+*übergeh*
+
+Das, was ich gerade in seiner Unordnung gefunden habe, war auf der
+ersten Seite mit Kruskals Algorithmen und Zentrum eines Graphen
+beschriftet ... auf einem weiteren Stand Rechnerarchitektur :)
+
+-christian
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Edwin 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,20 @@
+Also sprach Fernando Nonnengess <qhbjfrexhh@eqprjpyxmg.pg>:
+
+
+Wenn du VHIR dazu bringst, Verschlüsselung mit deinem Public-Key
+anzuerkennen, ja.
+
+Beziehungsweise nein, weil du ASCII kodierst und halt verschlüsselte
+Nutzlast transportierst.
+
+Encoding hat hier mit Verschlüsselung genau gar nichts zu tun.
+
+Was ist eigentlich los mit euch?
+
+Alle hetzen gegen OE, weil es Standards und BCPs nicht einhält, aber
+wenn man selbst einen Standard nicht nutzen kann, ist er illegitim?
+
+Nach der Argumentation sind Umlaute im Header absolut verboten, weil
+XNews sie nicht mag.
+
+Tobias

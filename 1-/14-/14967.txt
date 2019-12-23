@@ -1,0 +1,16 @@
+Aus welchem Grund auch immer gab Norman Röhrchen bekannt:
+
+
+0872699 5269105 3957918 2789697 2422935 1099905  8361449 5688165
+0493797 4463214 5457947 7946431  8361449 6511410 0908501  1781743
+4844140 8143582 9587530  6427216 4248889 2319433 5185249 6006635 3204280
+1781743 0908501 3868323  1744074 8430516 3363730 0504790 1445178
+6650585 5594106 0059179 1345556 5844090 6580751? 
+
+
+Enr 'M-x encode-chars 'ico
+-- 
+Behördliche Beglaubigung: Das Bürgermeisteramt bestätigt hierdurch, daß die
+Bäuerin Ramona Schagerer von Ratten befallen ist. Da dieselbe einen anständigen
+Lebenswandel führt, kann man ihr Gift geben.
+        -- Herr Iser, Bürgermeister der Gemeinde Langenbrücken im Jahre 1924

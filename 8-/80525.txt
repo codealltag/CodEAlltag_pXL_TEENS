@@ -1,0 +1,11 @@
+Niklaus Voecking hat geschrieben getan getutet:
+
+
+Um die groszen Ereignisze zu besztimmen.
+
+-niklaus
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Patrik 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,13 @@
+Jörn Kircher <cyaycz@qbkcy-ofiimi.jx> kuendete:
+
+
+[ ] Du kennst telnet/ssh
+[ ] FreeBSD hat ein gutes Setup
+[X] NetBSD tut auf einem 386er (sic!) ;-)
+
+Gruss,
+Manfred.
+-- 
+     Massimo I. Unterloh + Student @ Kantonsschule
+   http://rmr.xytokdnon.fu/ + Schaffhausen, Switzerland
+              VLA# 33246314 + idgd://mga.hpwcb.cp/

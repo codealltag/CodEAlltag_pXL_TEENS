@@ -1,0 +1,14 @@
+Achim Ingendae schrieb:
+
+
+ms@matrix:/windows/F/Usenet-Archiv > du -sch 
+5.5G    . 
+5.5G    insgesamt
+
+Vielleicht sollte ich mal weniger Gruppen ziehen.
+
+Rüdiger
+
+-- 
+Mac-OS:
+  "Unbekannter Fehler '-128' bei '57'."

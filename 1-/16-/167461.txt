@@ -1,0 +1,15 @@
+Am Sat, 13. 07. 19 sendete Rémy 'sSXP' Angerschmied folgende Botschaft:
+
+
+Weil alle daten (passw�rter befehle etc) im klartext übertragen werden
+es reicht ein paketsniffer an geeigneter stelle um alle daten
+mitzulesen.
+
+Tschüs
+  Folkert
+
+-- 
+Ja? Na, dann wollen wir mal kurz nach Deinen Schäden schauen... Au weia,
+ein Dachschaden würde ja erst mal das Vorhandensein eines Dachs voraussetzen.
+[Wolfram Ebenkofler in <69i9c0$5yc$5@zwnkvjm9.mby.uae-wdxtusxun.mk>
+zu Gert Reppert]

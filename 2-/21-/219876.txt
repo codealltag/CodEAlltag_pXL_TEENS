@@ -1,0 +1,10 @@
+Thorsten Fritzenkötter schrieb:
+
+Find ich auch gut. Die Riva128 läuft normalerweise mit 100 MHz, aber
+meine macht problemlos 125 MHz mit. Der Riva TNT war langsamer getaktet
+als der Riva128, hat dafür aber massig mehr Transistoren.
+
+CU
+Ludwig
+-- 
+Lieber voll heimkommen als leer ausgehen.

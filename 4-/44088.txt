@@ -1,0 +1,12 @@
+Es war im Juli 2002 als Pauline P. Cothmann tippte:
+
+
+ACK! Ich bin ja gerade dabei mein Layout mit CSS zu gestalten. Doch ist
+dies auch nicht der Weisheit letzter Schluss. Wenn man da mit dem Netscape
+4.7 und abgeschaltetem Javascript ankommt, sieht man nur noch eine
+völlig deplatzierten Text. ;-(
+
+Enrico
+-- 
+"Es gibt einfach alles fuer Windows." - "Aber nicht alles ist auch
+fuer Windows geeignet." (Urban Jüngen und Heiko Wiesinger)

@@ -1,0 +1,8 @@
+Am Sun, 12. 02. 19 sendete Rüdiger Nicolas Nilsson folgende Botschaft:
+
+
+install:
+	cat README
+
+Tschüs
+  Fe*eg*lix

@@ -1,0 +1,11 @@
+Richard Coort hat geschrieben getan getutet:
+
+
+freshmeat/google
+
+-uwe
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Leonhard 'pi' Piwinger in de.alt.sysadmin.recovery

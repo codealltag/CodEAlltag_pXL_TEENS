@@ -1,0 +1,11 @@
+Ulf Grashoff hat geschrieben getan getutet:
+
+
+Wie war das noch mit Running Man im RL?
+
+-theodor
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Heinrich 'pi' Piwinger in de.alt.sysadmin.recovery

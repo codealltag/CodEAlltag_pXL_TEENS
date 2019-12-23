@@ -1,0 +1,14 @@
+Nix und. Ich hab mir die Signatur angesehen und fertig. Ich kann sie ja 
+sowieso nicht verifizieren, also was sollte ich sonst damit anstellen?
+
+
+Um was wollen wir wetten das ACI sie hat?
+Ok, hier extra für dich:
+
+ ,----------- [ <9ttctn.3vvn2qn.1@jakobi-28216.user.dfncis.de> ] -----------.
+ `--------------------------------------------------------------------------� 
+
+Sascha
+
+-- 
+Der älteste Goldfisch wurde 41 Jahre alt. Sein Name war Bodo.

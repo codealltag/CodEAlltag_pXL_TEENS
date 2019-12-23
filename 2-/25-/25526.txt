@@ -1,0 +1,9 @@
+Noël Karlheinz Veith <thr-mytm@tbdyqpl.xv> writes:
+
+
+"sch -> sz"-Konvertierung im Ausgabedatenstrom On the fly?
+
+Karl
+-- 
+"Terroristen haben verfilzte Bärte und sprengen Flughäfen in die Luft"
+- The Besser

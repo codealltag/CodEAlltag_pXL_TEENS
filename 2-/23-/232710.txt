@@ -1,0 +1,16 @@
+Gibt aber Probleme mit der Bezugsverkettung. Manche Billignewsreader  
+können da ins Schleudern kommen. Denn wenn ich z.B. heute um 10 Uhr ein  
+Posting schreibe und du antwortest am selben abend darauf, XP das Datum  
+aber auf 0 Uhr setzt, sieht das dann so aus:
+
+ 31.03.  10:00  Pascal Rürup     Posting
+ 31.03.  00:00  Pascal Volze   Re: Posting
+
+Nicht gerade das beste...
+
+Pascal Rürup
+
+-- 
+Nächster Termin für den Weltuntergang: März 1999 (Angaben ohne Gewähr)
+                                              E-Mail: zulwp@d-juptoe.jg
+---> Offizieller Kämpfer wider Eberhard Painter des Ordens von dtj <---

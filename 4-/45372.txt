@@ -1,0 +1,12 @@
+Aus welchem Grund auch immer gab Enno Herkströter bekannt:
+
+
+Eine etwas modifizierte thinks.el erstellt IMHO schöne Denkblasen.
+
+    . o O ( findet ihr nicht auch? )
+Niclas
+-- 
+Die Pseudos wollen sich nicht vorschreiben lassen, ihren Realnamen zu
+benutzen. Die Netcops wollen sich nicht vorschreiben lassen, Artikel
+von Pseudos lesen zu müssen.
+(Erich Dalacker, de.soc.netzkultur, 2.10.1999)

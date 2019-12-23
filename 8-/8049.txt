@@ -1,0 +1,9 @@
+Karstens Nemetz <gqwq@zdjwynbpyql.yo> writes:
+
+[dsf 4.11]
+
+Raphaël
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+269: C
+       Nomic als Programmiersprache. (Luigi Nather)

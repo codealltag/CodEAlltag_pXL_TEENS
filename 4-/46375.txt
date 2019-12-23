@@ -1,0 +1,8 @@
+Jean-Claude Coonen <phdota-1347@aukoylrg-itpcjst.so> writes:
+
+
+Dir fehlen auf Effektivspannung + 10% gedrosselte Sensoren. :)
+
+-gerhard
+-- 
+The power of pessimism: an optimist is never happily surprised.

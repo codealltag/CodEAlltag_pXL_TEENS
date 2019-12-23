@@ -1,0 +1,6 @@
+Deine vim-Hilfe ist unvollständig ;-)
+*':help rot13' tippsel*
+`-----------------------[ /usr/share/vim/vim60at/doc/change.txt.gz ]--
+
+Ciao,
+Guido

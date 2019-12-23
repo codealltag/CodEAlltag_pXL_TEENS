@@ -1,0 +1,8 @@
+It was a szeep with the name Heimo Flaam that wrote:
+
+
+Sind was schönes.
+
+Lukas
+-- 
+np: /bin/bash: ./xmms_np: No such file or directory

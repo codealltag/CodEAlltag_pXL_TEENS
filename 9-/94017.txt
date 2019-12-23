@@ -1,0 +1,15 @@
+Und so sprach Frédéric Zinken:
+
+
+Jep, waer auch meine Wahl.
+
+
+Noe. (Zweitletzteres wuerde ich, wenn ich letzteres haette.) Aber wenn
+Du ein iBook hast, nimm doch gleich OSX ... die meisten *BSD-packages
+werden eh darauf laufen (spaetestens mit Openpackages).
+
+Gruss,
+Juan.
+-- 
+                          WestWorks - the meta project
+                         <URL:http://aev.bpjuuxtka.jr/>

@@ -1,0 +1,9 @@
+* Urban Wiedemer <vzrjekhwwsijrt@uvo.kdd>:
+
+
+Ich hatte gedacht, der Server läuft auf deinem Desktoprechner. Für einen
+Server macht X nur bedingt Sinn.
+
+Gilbert
+-- 
+cross veinless

@@ -1,0 +1,6 @@
+Also sprach Michael Lindlau <ahb@tboxt.fgv>:
+
+
+s/Scheinbar/Anscheinend/
+
+Michael

@@ -1,0 +1,13 @@
+* Italo Speker <ddvdqvryjl@ercexvxgcc.hl>:
+
+
+Aber mod, oder?
+
+Weit du, ob statnews 2.1 mit CNFS umgehen kann? 1.6 kann es nicht, und
+wenn die neue Version das kann, dann würde ich mir das aus sid
+holen. Nur auf Verdacht will ich das nicht -- hängen fünf Pakete an
+Abhängigkeiten dran.
+
+Urs
+-- 
+np: Nirvana - Come as you are

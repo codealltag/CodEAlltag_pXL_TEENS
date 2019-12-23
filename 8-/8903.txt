@@ -1,0 +1,9 @@
+Fabios Amerein <aftt@ihhjyiwfpci.pv> writes:
+
+
+Derzeit habe ich eigentlich keine Zeit um zu reden. Und wenns so
+weitergeht, dass free() nicht tut auch keinen Speicher mehr.
+
+Ruedi
+-- 
+"Philipp war ein Optimist."

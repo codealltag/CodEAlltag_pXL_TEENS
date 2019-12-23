@@ -1,0 +1,13 @@
+Oscar Niefinds <cg@garbers.org> writes:
+
+
+Noch was für die ToDo-List... die verdammten Regexp-Sprache von
+Gnus/LISP/whatever lernen. Mal sehen, wann ich mal wieder 20 Minuten
+am Stück Zeit hab.
+
+Bis dahin werden auch direkte Antworten auf read gesetzt...
+
+Frerich
+-- 
+   "One world, one web, one program"  -- Telefonlädle promotional ad
+         "Ein Volk, ein Reich, ein Fuehrer"  -- Thorsten Kohles

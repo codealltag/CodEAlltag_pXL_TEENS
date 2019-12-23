@@ -1,0 +1,10 @@
+Roman Immerheiser <eqmfoib170129@hrasfl.cu-p.xp> writes:
+
+
+Hm... AFAIK ist "Alles relevante in die .gnus rein und dann immer nur
+Gnus neustarten" die schnelle Version, damit spart man sich zumindest
+den (X)Emacs-Start.
+
+Eilert
+-- 
+DAS ist ne Sache des Alkoholgehalts. [Manne]

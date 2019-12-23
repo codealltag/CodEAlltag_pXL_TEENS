@@ -1,0 +1,12 @@
+Rudolf Zurmühl wrote:
+
+*g* Wer definiert ab wann eine Taste klemmt? 10 Grob.? 20? 1000? Keine
+kleinen?
+
+
+Quantifier für vorhergehende Zeichenklasse, halboffener Bereich (10
+bis...).
+-- 
+M: Wir ham hier'n Haufen festplatten - du mußt nur was für uns tun...
+J: Warum machst du jetzt die Beine breit???
+[Willibald und Jan]

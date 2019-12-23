@@ -1,0 +1,2 @@
+/home/ernest>grep klar /etc/passwd 
+klar:x:101:202:Ralf Friedrich Klar:/home/klar:/usr/local/bin/bash

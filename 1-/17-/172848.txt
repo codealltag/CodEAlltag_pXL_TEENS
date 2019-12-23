@@ -1,0 +1,14 @@
+Udo Thorwirth schrieb am 1. Juli 1999 um 18:10 Uhr folgendes:
+
+
+Slrn kommt damit wunderbar klar; offenbar verwendest du auf deinem
+Terminal ganz einfach eine Schrift, die nicht völlig ISO 8859-1-
+kompatibel ist. Unter X könnte ich da misc-fixed empfehlen.
+
+Viele Größe,
+     Erwin Tanzler
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- MyFashion 1.2.5 configure-script

@@ -1,0 +1,19 @@
+Urban Kühlmuß wrote:
+
+Nein.
+
+AFAIK max. 
+$ chmod ugo[+-]rwxs 
+
+
+Na und?
+
+
+Tsja... *katianguck*
+
+
+Langweilig.
+
+Macht das Headersignatur?
+
+Pius

@@ -1,0 +1,15 @@
+Bernhard Overmans hat geschrieben getan getutet:
+
+
+Wunderb.
+
+hm.
+
+Bis auf den Loop, oder irre ich mich da?
+
+-ronald
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Charly 'pi' Piwinger in de.alt.sysadmin.recovery

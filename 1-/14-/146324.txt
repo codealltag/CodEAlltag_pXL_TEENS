@@ -1,0 +1,11 @@
+Habt ihr zufällig Aktivmarkt-Newbie verständliche Ahnung von X11...? Ich
+poste auch grad in div. Linux-NG's und stell da mein Problem vor,
+allerdings bekomm ich da, sicher hochqualifizierte, Antworten, für mich
+aber unbrauchbar, halt Perlen vor die Sue...
+
+Immer wenn ich X starten möchte, kommt die Fehlermeldung, dass er die
+Maus nicht erkennt. Ich benutze 'ne USB-Maus.
+
+Ciao,
+
+Kaspar

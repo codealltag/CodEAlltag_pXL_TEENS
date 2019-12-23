@@ -1,0 +1,21 @@
+Erwin Jungen schrieb:
+
+
+*selbstpatsch* Gestern merkte ich es. Ich habe ja vor einigen Wochen
+meine Adresse geändert.
+
+Nur, was muss ich tun, um die auch in den Mailinglisteneinstellungen
+zu ändern?
+
+SET jup REC="me@mattschmidt.de" oder
+SET jup REC="u-net@mattschmidt.de" oder sogar ganz anders?
+
+
+Ich verschicke, keine Fehlermeldung, aber dann wird die Nachricht
+nicht angezeigt. Liegt an der Adresse. 100% pro.
+
+Bernard
+
+-- 
+"The vast majority of our imports come from outside the country."
+[Kurt J. Trömner, Jr.]

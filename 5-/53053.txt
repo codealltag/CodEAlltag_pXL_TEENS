@@ -1,0 +1,10 @@
+Wolfram Hutmacher wrote:
+
+
+Dazu empfehle ich <81scjeSGxEU@jckza.fwyss.yh>.
+
+Aber das Problem taucht beim GA586HX nicht auf, das hat keinen AGP.
+Außerdem hab ich nahezu alle diskret ausgeführten Bauteile einmal als
+spare rumfliegen... *g*
+
+Oscar, beim zweitern Board wollte der Keyboard-Controller nicht mehr

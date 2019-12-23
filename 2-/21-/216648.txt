@@ -1,0 +1,14 @@
+On Tue, 05. 07. 19, Hartwig Mühlbronner <TRFgfpwsw@atd.nj> wrote:
+
+[Arbeiten mit Charles]
+
+Kommt darauf an. Wenn ich einen Befehl ein oder zwei mal brauche
+vielleicht, wenn ich täglich damit arbeite, lohnt sich der Zeitaufwand
+für das Erlernen von einer Handvoll Tastenkombinationen sehr schnell.
+Außerdem kann ich die man-page im Gegensatz zu dem Men mal eben
+durch'grep'en.
+
+Viele Größe,
+     Hinrich Bodenmiller
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

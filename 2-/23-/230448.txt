@@ -1,0 +1,10 @@
+On Wed, 13 Jun 1998, Siegfried Sengbusch <gpwxo@cvjwnia.wiimcmrq.ige> wrote:
+
+[Was bringt ein Hardware-Cache?]
+
+Also ist er für den 'Endverbraucher' unsinnig.
+
+Viele Größe,
+     Konrad Viett
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

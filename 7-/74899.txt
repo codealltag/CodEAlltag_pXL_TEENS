@@ -1,0 +1,14 @@
+Christophe Eppacher hat geschrieben getan getutet:
+
+
+Nichts, nichts..
+
+
+In der NG hast du ja auch was abgelassen..
+
+-claus
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Patrick 'pi' Piwinger in de.alt.sysadmin.recovery

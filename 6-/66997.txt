@@ -1,0 +1,13 @@
+Volkert Eiker <kxmfvbk@jkb.hk> writes:
+
+
+Autsch.
+
+
+Das ist ne Breite, die vermutlich nur per String zu schaffen ist[1], und
+den darfst du auf mehrere zeilen verteilen.
+
+Noël
+[1] Mutwilligkeit mal ausgeschlossen...
+-- 
+Dieses Posting wurde mit 256-fach ROT13 verschlüsselt.

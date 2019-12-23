@@ -1,0 +1,8 @@
+Meinhard Altfatter wrote:
+
+Bei Standleitung hast du ein SLA.
+Bei DSL üblicherweise maximal best effort IP.
+
+9er kosten Geld.
+
+Sebatian

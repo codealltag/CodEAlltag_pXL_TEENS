@@ -1,0 +1,11 @@
+Pasquale Almenröder schrieb:
+
+
+Hab's gesehen. Naja.
+
+Werner
+
+-- 
+MadTeam ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

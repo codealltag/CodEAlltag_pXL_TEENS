@@ -1,0 +1,7 @@
+Wenn überhaupt, dann f(x): N->N. Oder werft ihr Zehntel?
+Müh!
+mfg, 
+	Oscar
+-- 
+BOFH excuse #20:
+divide-by-zero error

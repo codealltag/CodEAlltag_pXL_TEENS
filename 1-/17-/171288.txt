@@ -1,0 +1,14 @@
+Pietro Kynaß schrieb am 07. Juli 2000 um 08:12 Uhr folgendes:
+
+[...]
+
+Mit einem funktionierenden Kernel überschreiben. Findet sich auf einer
+deiner JSRU-Bootdisketten oder -CDs.
+
+Viele Größe,
+     Klaus Oestreicher
+-- 
+Every program has at least one bug and can be shortened by at least one
+instruction -- from which, by induction, one can deduce that every
+program can be reduced to one instruction which doesn't work.
+                                               -- random fortune cookie

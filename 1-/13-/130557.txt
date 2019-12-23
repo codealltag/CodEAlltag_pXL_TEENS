@@ -1,0 +1,9 @@
+* Niklaus Pfafenrot <wijktr@irotlnpcexc.xa>:
+
+
+Es soll Leute geben, die ihr Killfile nicht nutzen, _obwohl_ ihr Reader
+diese Option anbietet. :)
+
+Tobias
+-- 
+cross veinless

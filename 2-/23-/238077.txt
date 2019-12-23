@@ -1,0 +1,13 @@
+In article <EUY.793z989437430jrk45z35b@bfkmhijik.cpirsge.ql.cpn>, 
+mkilgus@gmx.de says...
+
+Sag ich ja. Logisch, dass die CPU (d.h. eigentlich der TCP/IP Stack, 
+aber der kann das ohne CPU schlecht tun) drauf antworten muss...
+
+CU
+Gilbert
+
+-- 
+Shooter, siegreicher Ritter im Namen des Ordens von de.talk.jugend
+http://hjo.wwkkyud.kdid.jrh   Biggest Technomidipage of the World
+http://gfz.rxo.kkff.efx       de.talk.jugend Page

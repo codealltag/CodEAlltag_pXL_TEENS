@@ -1,0 +1,14 @@
+Solches tippte Vincent Schinagl:
+
+Man wende sich vertrauensvoll an seine .<$favouriteshell>rc ;-)
+
+Edmund
+
+
+$ which `echo $EDITOR`
+/usr/bin/vim
+-- 
+Edouard Raisch --+- stud. soz. & inf. -+-- http://ljq.hmj-jyserwl.kk
+-->    HLMN Public Key: http://uci.hjzbwyrr-iufoyoe.ii/wxf.fgxei    <--
+
+� Projekt Deutscher Wortschatz: <URL:http://jwsbeccrss.fqn-bzcanji.mm>

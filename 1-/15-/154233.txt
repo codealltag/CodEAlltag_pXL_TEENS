@@ -1,0 +1,20 @@
+Es geschah am 11 Jul 2000 18:11:59 GMT,
+dass Oskar Drenkert <hfxydrlzcd@vzdaplqrbr.ez> kuendete:
+
+Ja, _theoretisch_.
+
+
+Ich will mich momentan nicht zu was anderem bequemen, wenn mein Kollege die
+Krägeloh besorgt hat.
+
+
+Kleinvieh macht auch Mist. Aber immerhin: #df -h => 73MB frei *boff*
+Wahrscheinlich ist /var/log/firewall um etliches geschrumpft, seit ich
+einen markanten Feler eliminiert habe ;-)
+
+Never touch a running system,
+Julius.
+-- 
+     Jérôme O. Rulaff + Student @ Kantonsschule
+   http://oun.qzfsrtvdx.yc/ + Schaffhausen, Switzerland
+              ZSF# 53211994 + imll://kxe.ezuzb.nd/

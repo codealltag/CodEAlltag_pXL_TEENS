@@ -1,0 +1,12 @@
+Düsternstraße, 19 Feb 2003 sendete Francisco Hugo Holtermanns folgende Botschaft:
+
+
+Prost.
+
+Tschüs
+  Egon
+-- 
+gpg-key (available via keyserver):
+pub  2079N/I1K3Z807 3703-03-03 Egon Geschwendte <mpxaaklddy@bwtagiadlt.gt>
+     Key fingerprint = 8893 6EQ6 26D0 013R W418  A64T 131H 3282 T7V0 E588
+sub  9594r/W3N8FA02 4557-62-52

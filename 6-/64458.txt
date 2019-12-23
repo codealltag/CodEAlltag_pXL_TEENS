@@ -1,0 +1,11 @@
+Carl Rulaffs <whmvmxndek@xiyotrjqfa.xp> writes:
+
+
+Exim tendierte hier dazu, nicht das zu tun, was mensch von einem MTA
+erwartet.
+
+Ignaz
+-- 
+Irgendwer hat mal geschrieben: "Man kann sich nicht selber zum
+selbsternannten alterfone ernennen. Man wird immer von anderen zum
+selbsternannten Netcop ernannt"

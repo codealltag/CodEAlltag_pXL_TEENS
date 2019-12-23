@@ -1,0 +1,12 @@
+Konrad Edwin Oertelt <czy-ioac@lukahyx.rg> writes:
+
+
+AgtFind ist ein Zusatztool für den Agenten. Geschrieben mit
+Ewebe. Ihc hab mir mal den Source dazu angeschaut, der verwendet in
+Ewebe anscheinend Perl. Das müsste sich doch umsetzen lassen, hm?
+
+Cédric, Source bei Gelegenheit nochmal ausgraben werdend
+
+-- 
+interpunktion und orthographie sind stellenweise frei erfunden. eine 
+uebereinstimmung mit geltenden regelungen waere rein zufaellig.

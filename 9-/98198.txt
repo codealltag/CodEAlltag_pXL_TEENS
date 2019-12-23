@@ -1,0 +1,15 @@
+Andreas Rikkert <Jrafljeki.Npqjzisk@lwhtta.bv> wrote in news:9giuha$i2i
+$59$6@aqda.z-ilxfaj.wuc:
+
+Sicher nicht. Aber für Metal ist es mindestens genauso wichtig wie die 
+Gitarre selber.
+
+
+Hint: Wavetables sind keine Synthesizer, die haben Samples, die dem 
+aktuellen Instrument angepasst werden. Wenn man nun solche Spielarten 
+braucht, muss man sich eben die richtigen Wavetablesets besorgen (oder man 
+sampelt es halt selber aus einem schon vorhandenen Lied).
+
+
+IMHO kann man beides durch den Computer ersetzen, wenn man sich genug 
+Aufwand macht.

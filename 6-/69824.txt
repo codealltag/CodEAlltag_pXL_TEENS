@@ -1,0 +1,14 @@
+Pascal Rockland meinte kundzutun:
+
+Ein Freund von mir sagte, bei Blind Guarsian würden sich die Gitarren
+verzerrt ahren. Mag aber auch am Codec legen (!FhG).
+
+
+Wieso? Wenn nicht viel Bandbreite benötigt wird, lieber da weniger
+verwenden und dafür an anderer Stelle schön klotzen... Meine VBR haben
+teilweise > 320K, teilweise < 50K.
+
+Pierre
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Mittwoch, dem 4. April im Jahre des Herrn 2002 verfaßt.

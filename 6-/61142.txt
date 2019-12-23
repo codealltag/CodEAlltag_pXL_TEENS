@@ -1,0 +1,17 @@
+Gebhard Zelck <khsqal@xztzbroj.ol> writes:
+
+
+Nein. Auf die trifft auch "in letzter Zeit" nicht zu. Die Seite ist
+vermutlich auch nicht HTML 4.01 transitional. Hm. Sie wäre es, wenn
+ich sie als solches deklarieren würde...
+
+
+Gibt schlimmeres, was man mit Flash verbrechen kann.
+
+
+Auch da war ichs nicht, falls du http://gva.bzqm-bscuklhlp.tf/
+meinst. Die Site validiert auch nicht als HTML 4.01 transitional
+
+Reinhard
+-- 
+            0 and 1. Now what could be so hard about that?

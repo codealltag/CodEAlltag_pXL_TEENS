@@ -1,0 +1,8 @@
+Mike Pfüll <lbbdbis.oozrb@orq.ie> writes:
+
+
+N, kein Netz -> kein Hostname
+
+Waldemar
+-- 
+                   It's not a bug, it's tradition!

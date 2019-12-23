@@ -1,0 +1,6 @@
+Ulf Osterfeld <eqbko@skpdlobn.zc> schrieb in im Newsbeitrag:
+5c7hwo.8k.2@slypc-gyzlhj.lc...
+
+Mit W9X hat man sowieso nur Probleme... Alles was nicht gerade DirectX >3
+benötigt, läuft bei mir unter NT. (Server unter Linux und evtl. bald ein BSD
+Derivat).

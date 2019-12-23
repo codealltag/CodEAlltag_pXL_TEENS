@@ -1,0 +1,11 @@
+Henning Verlande wrote:
+
+
+Naja, beim C64 brauchte man wirklich nicht viel zu wissen.
+LOAD "$",8 reichte da eigentlich schon.
+
+Luciano
+
+-- 
+Dieser Text wurde mit 100% chlorfreigebleichten,
+handelsüblichen, glücklichen Elektronen erzeugt.

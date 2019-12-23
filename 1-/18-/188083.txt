@@ -1,0 +1,10 @@
+Nicht nötig, ist ganz einfach: Erstelle mal z.B. im Gorenflo-Editor einen ASCII- 
+Rahmen und kopiere ihn dann nach Notepad, dann kommt sowas raus -  
+eindeutig ein Problem der Konvertierung zwischen ASCII und FUPC.
+
+Dominik Johansson
+
+-- 
+Sport ist Mord!
+                                             E-Mail: yncugv@vjnjsxdkib.vm
+---> Offizieller Kämpfer wider Theo Ingendahl des Ordens von dtju <---

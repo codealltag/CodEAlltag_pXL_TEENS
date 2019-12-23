@@ -1,0 +1,7 @@
+*notier* thh möchte ein 1/1 Meep.
+
+mfg, 
+	Gunter
+-- 
+BOFH excuse #270:
+Someone has messed up the kernel pointers

@@ -1,0 +1,14 @@
+Torsten Nörrenberg schrieb am 16. September 2000 um 11:26 Uhr folgendes:
+
+[vernünftige Browser, die nicht von donare stammen]
+
+Man sollte sich allerdings darüber im Klaren sein, dass eine solch
+enge Einbindung in das Betriebssystem in einigen Bereichen Vorteile
+bringt (etwa die Möglichkeit, das Programm deutlich schneller zu
+machen), in denen Konkurrenzprodukte unmöglich mithalten können.
+
+Viele Größe,
+     Torsten Zepp
+-- 
+Common sense is the collection of prejudices acquired by age eighteen.
+                                                     -- Karl Wintermann

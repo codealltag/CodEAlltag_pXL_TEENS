@@ -1,0 +1,14 @@
+Mirko Andernachs <cg@garbers.org> writes:
+
+
+"man sollte" Gnus bebringen, nach der Domain der Mailaddy beim DNS
+nachzufragen, und bei ungültigen Domains runterzuscoren. und nein, ich
+mache das nicht.
+
+
+Der Gewinn ist gross genug.
+
+Eilt
+-- 
+Was haben ein Goldfisch und ein Laserstrahl gemeinsam?
+Sie können beide nicht pfeifen!

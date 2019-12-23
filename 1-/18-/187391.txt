@@ -1,0 +1,19 @@
+alouop@wza.fx (Peter Tophofen) wrote in
+<slrn838p8j.40j.tststs@starflower.tststs.ddns.org>: 
+
+
+Zum Beispiel so:
+
+Score:: +500
+References:hrry-7\.qxib\.cwi>.?<[^\@]+\@[^\@]+>(.?<[^\@]+\@[^\@]+>)?$
+
+Damit werden bei mir die naechsten 3 Postings auf meine Postings 
+hochgescort. Gibt bestimmt auch bessere Loeungen, aber mich als 
+RegExp-Anfaenger hat das Ding da oben ein halbe Stunde gekostet, und 
+ich fands einfach schoen. :)
+
+Fredy
+-- 
+
+Es gibt auch Pferde, die machen MUH
+doch diese Pferde heissen Kühe.

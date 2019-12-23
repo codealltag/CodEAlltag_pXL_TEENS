@@ -1,0 +1,9 @@
+Steffen Reckweg <rtejwaf.dvgxd@why.kb> writes:
+
+
+Habt ihr mal nach der Full/Half-Duplex-Konfig gesehen? Meine hier war
+da ein wenig eigenwillig...
+
+Dennis
+-- 
+DAS war anstrengend! [Hiltrud nach einem ca. 10minütigen Klobesuch mit Berthold]

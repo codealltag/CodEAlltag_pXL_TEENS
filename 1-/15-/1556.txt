@@ -1,0 +1,12 @@
+Schon lange. Aber das geht wohl kaum, von kexec mal abgesehen. Aber das
+funktioniert wohl nicht mit windata. Wäre auch zu schön, wenn Redmond
+sich mal an die Regeln halten würde. 
+
+Immerhin, durch deren Ignoranz kann man prima UDP-Scans voin Windows
+fahren. In der Hinsicht ist Windows dann sogar besser als Unixoides.
+Georg
+
+-- 
+- "What're quantum mechanics?"
+- "I don't know. People who repair quantums, I suppose."
+        -- (Heiko Becker-Ross-Troeller, Valerio)

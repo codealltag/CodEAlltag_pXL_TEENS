@@ -1,0 +1,15 @@
+Peter Absmaier schrieb:
+
+
+Ja, erfordert zwar Einarbeitungszeit, lohnt sich aber IMHO.
+
+
+Mache ich immer von Hand. Wie's richtig geht hat Siebelt ja schon
+gesagt. Allerdings verstehe ich crontab auch nicht so richtig. Mal
+irgendwann man lesen. *seufz*
+
+Karsten
+
+-- 
+frisko Photoshop:
+  "Der Befehl konnte nicht ausgeführt werden, weil."

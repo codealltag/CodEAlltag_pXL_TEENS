@@ -1,0 +1,11 @@
+Bernd Obenhaupt hat geschrieben getan getutet:
+
+
+Ganz nebenbei: Isometrieansicht.
+
+-berend
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Carsten 'pi' Piwinger in de.alt.sysadmin.recovery

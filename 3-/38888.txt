@@ -1,0 +1,19 @@
+Britta Waldhauser <oinpssju@izcnb.d-e-y.zl> writes:
+
+
+Hmm. Von meinem Calendarfile:
+
+$ calendar
+ 3 Okt* Tag der deutschen Einheit
+ 3 Okt  Offizielles Ende der DDR :-), 1990
+ 4 Okt  Netzwerktreffen bei Udo Altenbuchner
+
+Der Smilie in der Mitte lies mich irgendwie verwundert sein. Nein, der
+ist nicht von mir.
+
+-david
+-- 
+Warum wird eigentlich zunehmend das gute Usenetprinzip "Keiner hat
+Anspruch darauf, von jedem gelesen zu werden." in Richtung "Ich darf
+jeden Bl�dfug schreiben, weil's eh ja keiner Lesen *muß*" mißbraucht?
+- Gerald S. Zieglwalner in ysbyhjd.xw.lnoz

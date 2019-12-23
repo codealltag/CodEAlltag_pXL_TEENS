@@ -1,0 +1,15 @@
+Danke für die Auskunft, doch leider werden _das_ sehr wenige lesen.
+
+Es ist nun schon geraume Zeit her das man dir die Seite: 
+http://stzkl.hs/iqono empfahl doch du bist immernoch der Meinung, 
+"sowas brauch ich nicht". Nunja, dann musst du halt mit den 
+Konsequenzen leben. Ich werde jetzt erstmal mein Scorefile editieren 
+und folgende Zeile hinzufügen: -1000 ~From "Samuel Partner"
+
+In diesem Sinne nichts für Ungut, aber du hattest deine Chance.
+
+Jörn
+-- 
+Das, was du mit deinem Programm machen willst, steht nicht im Handbuch.
+
+(Niklaus's Gesetz)

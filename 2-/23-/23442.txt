@@ -1,0 +1,22 @@
+Ivo Füllgraf meinte kundzutun:
+
+
+sposner@else:~$ man hat ja auch frher in seiner Freizeit auf dem Bau geholfen...
+No manual entry for hat
+No manual entry for ja
+No manual entry for auch
+No manual entry for frher
+No manual entry for in
+No manual entry for seiner
+No manual entry for Freizeit
+No manual entry for auf
+No manual entry for dem
+No manual entry for Bau
+No manual entry for geholfen...
+sposner@else:~$ 
+
+Hm, wohl doch eher nicht.
+
+Eckhard
+-- 
+Der Kontext ist der Feind des Witzes

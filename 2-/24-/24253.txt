@@ -1,0 +1,11 @@
+Die würde sicherlich funktionieren[0], wenn der Formeleditor nicht
+dauernd abstürzen würde.
+
+mfg, 
+	Timo
+
+[0]: für angepasste Werte von 'funktionieren'
+
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

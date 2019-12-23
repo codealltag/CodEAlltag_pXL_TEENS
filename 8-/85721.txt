@@ -1,0 +1,9 @@
+(* Daniel Richter wrote: *)
+
+                   ^^^
+
+BTW, was heisst dieses schöne englische Foo eigentlich ? Ich les das 
+immer wieder aber kann es absolut nicht zuordnen. Selbst RAINER soergel 
+nicht weiter. Vielleicht irgendwie sowas wie 'bla'?
+
+Josef

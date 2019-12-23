@@ -1,0 +1,14 @@
+epdtmrulun@epltpyngyh.kj (Robert Thrän) writes:
+
+
+Ja.
+
+
+6 Monate, wie immer.
+
+
+s/ftp/scp/
+
+Helmuth
+-- 
+            It is easier to fix Unix than to live with NT.

@@ -1,0 +1,18 @@
+Peter Jaenike schrieb am 10. Juni 1999 um 22:06 Uhr folgendes:
+
+
+Echt?
+
+news@starflower:~ > ctlinnd newgroup 'name.der.gruppe'
+Ok
+news@starflower:~ > tail -1 /var/lib/news/active
+name.der.gruppe 0000000000 9320481728 j
+
+Zumindest bei mir sind "rest" und "creator" optional, oder meintest du
+jetzt etwas anderes?
+
+Viele Größe,
+     Burkhard Jörling
+-- 
+The fact that no one understands you doesn't mean you're an artist.
+                                            -- "Smart Comments", part 2

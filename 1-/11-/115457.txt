@@ -1,0 +1,7 @@
+Dixit Volker Intrup <lfbbvhh642256@sbapyl.ug-h.qx>:
+
+Warum habe ich bloß vorausgeahnt, daß ich mißverstanden werden würde?
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

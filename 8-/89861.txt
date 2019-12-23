@@ -1,0 +1,14 @@
+Christophe Hoess schrieb:
+
+
+Wieviel Speicher wäre da frei?
+
+
+Nein, nun wirklicht nicht. Kammquoting macht es da doch genauso.
+
+Berend
+
+-- 
+{ - Geschweifte Klammer auf
+0 - Null (eine Zahl vor 1)
+= - Gleichzeichen

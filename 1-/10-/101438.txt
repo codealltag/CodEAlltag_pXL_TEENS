@@ -1,0 +1,17 @@
+* Valerius Antweiler <wiicgzv232343@xbvyxu.bm-k.ve>:
+
+
+Was machst du bloß immer. *tadel*
+
+
+Ich vergaß. Ich hatte ja erwähnt, dass das eine Sun ist.
+
+
+Was soll ich sagen: Sie läuft sehr brav.
+
+[cgarbers@news: ~ ]$ uptime
+  7:27am  up 6 day(s),  4:12,  1 user,  load average: 0.03, 0.03, 0.04
+
+Gunter
+-- 
+cross veinless

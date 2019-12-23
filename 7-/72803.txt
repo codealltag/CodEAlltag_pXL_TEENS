@@ -1,0 +1,9 @@
+Willi Friedhoff meinte kundzutun:
+
+
+s/\([A-Z]. \(.\).\).\(.\).\{3\}\(.\{3\}\(.\).\{3\}\)..\(.\)\6\(\(.\).\{2\}\).\(.\)./\1\9\3\2\4br\8ch\7B\8\5/
+
+Philippe
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Donnerstag, dem 4. Dezember im Jahre des Herrn 2001 verfaßt.

@@ -1,0 +1,9 @@
+Thomas' Knapik <axlf@fgozhjuboze.eq> writes:
+
+whois-Daten umgesetzt?
+
+Fabian
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+14: Client-Server
+       Wir wollen mehr als einen Rechner verkaufen. (Dario Folkmar)

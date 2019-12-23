@@ -1,0 +1,12 @@
+Fernandos Höpers <lmkhzgu_fz@zhwx.ims> writes:
+
+
+Ich hab auch erst gegelaubt, eins meiner eigenen Postings vor mir zu
+haben...
+
+Hinrich
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Ueli Neefischer in
+<mzjd1z6ph3.3q7.ebebulx.afwcoa@awu.ojs.lr-mnamxuco.jz>]

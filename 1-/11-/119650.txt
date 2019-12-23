@@ -1,0 +1,10 @@
+* Valerius Düring <x-fjm@khokfdnsahy.mj>:
+
+[Bekannte]
+
+Ich würde in so einem Fall auf "Fwd:" im Suject matchen lassen. Das hat
+zumindest bei mir kaum false positives.
+
+Berend
+-- 
+cross veinless

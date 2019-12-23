@@ -1,0 +1,9 @@
+Othmar Berthold <DmtgtyJwifmn@cwh.ie> writes:
+
+
+poff: Multiple ppp devices connected, specify device or use -a
+
+
+Zu spät.
+
+-françois

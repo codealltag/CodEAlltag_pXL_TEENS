@@ -1,0 +1,3 @@
+Also ist ein Hasz ein assoziatives Array, oder er meint mit Hasz ein
+assoziatives Array was aber nicht dasselbe wie ein Hasz ist, und ich
+darum dann wieder nur Bahnszaf verstehe?

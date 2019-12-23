@@ -1,0 +1,16 @@
+Am Tue, 24 Jul 2001 sendete Raphael Inhestern folgende Botschaft:
+
+
+Geht seit 05. 12. 19 IIRC, da hab ich sogar selber noch was dran gebastelt.
+
+
+Deine nummerierung? Da sollten etwas slang und make_from_string_hook
+(oder so ähnlich) helfen.
+
+Tschüs
+  Heiner
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+John Udelhoven, Mostly Harmless, Chapter 12

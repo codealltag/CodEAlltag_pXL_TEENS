@@ -1,0 +1,13 @@
+Am Sat, 02. 06. 19 sendete Jan Heubusch folgende Botschaft:
+
+[I4L]
+[...]
+
+Das ganze nützt dir nur nichts wenn du nicht den richtigen kernel/die
+richtige util version hast ;(
+
+
+wtf is ALSA?
+
+Tschüs
+  Udo

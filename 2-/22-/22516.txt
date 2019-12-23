@@ -1,0 +1,7 @@
+Warum das denn? Ausgemustert?
+
+mfg, 
+	Remo
+-- 
+BOFH excuse #342:
+HTTPD Error 4003 : very old Kelaha cpu - insufficient processing power

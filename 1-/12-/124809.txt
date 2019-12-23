@@ -1,0 +1,8 @@
+Ornella Ohsenbrügge wrote:
+
+Wer ist das schon ?
+
+-- 
+Dirk
+if(!exit(1))
+  fprintf(stderr, "exit call failed.\n Program will continue.\n");

@@ -1,0 +1,15 @@
+Benno Vondenhoff schrieb:
+
+
+Bisher sieht mein Win-Maschine scheinbar nur den Apache Webserver,
+denn will über die Linux-Kiste rein ins Netz, zeigt der Internet
+Explorer eine SuSe-Seite, die lokal auf der Linux-Maschine ist. Egal
+welche Adresse ich eingebe...
+
+
+Ah je, das wäre eigentlich sogar noch wichtiger als oberes. :-(
+
+Rémy
+
+-- 
+Nirgendwo fallen so viele Schulstunden aus, wie in der Schule.

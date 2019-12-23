@@ -1,0 +1,17 @@
+Und so sprach Patricia Zimmer:
+
+
+Hier (jaja :)) beginnt fuer die meisten mit 16 die Ausbildung in einem
+Betrieb, d.h. die Leute kriegen eine Lehrstelle mit Vertrag (ziemlich
+aehnlich einem Arbeitsvertrag) und arbeiten einen gewissen Teil ihrer
+Zeit fuer den Betrieb.
+
+
+Das hat Grigo alles einen gemeinsamen Grund.
+
+Gruss,
+Jean-Paul.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

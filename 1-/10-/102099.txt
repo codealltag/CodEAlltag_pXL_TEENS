@@ -1,0 +1,16 @@
+Am Tue, 20. 06. 19 sendete Tobias Walner folgende Botschaft:
+
+
+Alles ganz logisch, gell?
+
+
+Dann is ja gut.
+
+
+Set den automagischen umbruch auf 72 zeichen. Den aktuell eingestellten
+Wert kannst du mit ':set tw' abfragen.
+
+Tschüs
+  Harry
+-- 
+Notorisch Schreibfaul.

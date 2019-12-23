@@ -1,0 +1,7 @@
+Patrice Fickler wrote:
+
+
+Anfangs ich auch, deswegen mein Vorschlag mit gvim im Gado-Mode oder
+mehreren SSHs.
+
+Onno

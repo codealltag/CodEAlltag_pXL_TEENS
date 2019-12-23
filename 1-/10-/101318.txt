@@ -1,0 +1,8 @@
+* mwqieqowik@dnnonfxbpf.gr (François Glocke):
+
+
+Bei Gnus mit Emacs reicht './configure'.
+
+Joël
+-- 
+cross veinless

@@ -1,0 +1,9 @@
+Wohl so einige.
+
+
+AFAIR waren es im August 2002 70.000 weniger als im Januar 1999.
+-- 
+"der normale DAU weiß nicht, wie man in die Systemsteuerung kommt, und
+wenn, will der DAU-F (Fortgeschritten) wieder raus, weil er Angst hat
+was kaputtzumachen"
+  -Stephan Toeppner in de.comp.hardware.cpu+mainboard.amd

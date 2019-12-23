@@ -1,0 +1,12 @@
+Urban Nietsche <ffhnpjkberc.25@phrnbvqkzlx.dx> writes:
+
+
+Wie schaffst du es, das noetig zu haben?
+
+ls -la, gut ist.
+
+-nikolaus
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.
+`sudo /root/get-xmms-title`

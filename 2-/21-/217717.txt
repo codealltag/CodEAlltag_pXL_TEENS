@@ -1,0 +1,11 @@
+Karsten Handel schrieb:
+
+
+Korrigiere mich wenn ich mich irre, aber soweit ich weiss sind 
+8 Baud = 8 Bit/s = 1 Byte/s.
+
+CU
+Gerhard
+-- 
+Management by Jeans: An den wichtigsten Stellen sitzen die größten
+Nieten.

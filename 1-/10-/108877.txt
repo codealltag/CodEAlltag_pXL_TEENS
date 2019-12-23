@@ -1,0 +1,12 @@
+* Raphael Gugler <itgnwwntwuw@xtcsnapjdnj.tj>:
+
+
+Jepp. :)
+
+
+suck - Pull a small newsfeed from an Eitelbeck server, avoiding
+       the NEWNEWS command.
+
+Giovanni
+-- 
+cross veinless

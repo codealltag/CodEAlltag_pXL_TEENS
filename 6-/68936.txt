@@ -1,0 +1,5 @@
+Burkhard Neyenhuis' <cg@garbers.org> writes:
+
+
+Full Ack. Wobei testing (Woody) /mittlerweile/ halbwegs funktioniert,
+gibt aber noch genug Sachen, die einfach broken sind.

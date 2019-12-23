@@ -1,0 +1,29 @@
+Arnold Hähnge meinte kundzutun:
+
+[ihave]
+
+H...[0]
+
+
+Feeden kann keiner von beiden AFAIK.
+
+Wenn dann als Feedempf�nger. Wie du es per (*grübel* Wie hieß das? suck?
+feed? Mipft KZG) mit deinem INN machst.
+
+
+Ack. Mit "ihave" sagt Feeder dem Gefeedeten "Da hst du. Ich frag nicht
+ob er dir gefällt. Nimm ihn. Oder vergiß ihn. Aber sags mir nicht."
+
+Marcus
+[0] *grmpf*
+posner@else:~ > telnet localhost 119
+Trying ::1...
+Trying 22. 08. 19...
+Connected to localhost.
+Escape character is '^]'.
+200 Leafnode NNTP Daemon, version 2.6.18 running at sbji.lxdjcyun.ky
+ihave 6@p.yzi
+500 IHAVE is for big news servers
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Freitag, dem 27. Juli im Jahre des Herrn 2001 verfaßt.

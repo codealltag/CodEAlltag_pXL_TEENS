@@ -1,0 +1,5 @@
+"Karl Schaufuß" <nham@furrrmjw.ss> writes:
+
+
+1a) Message contains characters with unknown encoding,
+                                           really send?      ----> y

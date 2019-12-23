@@ -1,0 +1,11 @@
+Gabriel Johanningmeier schrieb:
+
+
+Wieso das? 
+Ein bisschen JavaSkript kann doch auch zum Vorteil werden, wenn
+dadurch nicht die Navigation geschädigt wird.
+
+Edwin
+
+-- 
+Ein Computerprogramm tut, was Du schreibst, nicht was Du willst.

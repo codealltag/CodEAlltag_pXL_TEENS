@@ -1,0 +1,23 @@
+Am Sun, 06. 09. 19 sendete Konrad Jaschinski folgende Botschaft:
+
+
+Wer weiss was du da kaputt gemacht hast.
+
+
+Software aus Pakistan?
+
+
+Ich bitte darum.
+
+
+N, das war schon immer so. Des letze Bug darin wurde auch hier
+entdeckt. Viele NR und "NR" kürzen die References extrem früh, nur slrn
+und ein paar andere (z.B. Gravity) nutzen das Limit voll aus. Also
+müssen verdammt viele Zufälle zusammen spielen.
+
+Tschüs
+  Reto
+-- 
+Die Weisheiten des Juppi Jup: #9
+
+Auf das Jup Hoch folgt das RL Tief.

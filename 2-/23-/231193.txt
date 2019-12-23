@@ -1,0 +1,19 @@
+Tarmannstraße, 24 Jun 1999 18:27:49 GMT sendete Gian Uterhardt
+folgende Botschaft:
+
+
+FA erzeut den Date header beim absenden? in obigen beispiel sind
+Albin T. und ich davon ausgegangen das der Date header beim klicken
+auf das send button im msg-editor erzeugt wird.
+
+
+Zwei Postings (war den die Zeilenanzahl auch gleich?). Ich weis
+nicht wie viele Postings mit der selben zeilenzahl, 
+nntp-posting-host und date es sein müssen um gekillt zu werden,
+aber ich bezweifel das das im normal betrieb vorkommt.
+
+Tschüs
+  Ivano
+
+-- 
+Kumm loss mer fiere ...

@@ -1,0 +1,7 @@
+Am Mon, 12. 06. 20 sendete Vittorio Viellehner folgende Botschaft:
+
+
+Für dich nicht umbedingt. Aber locking über nfs ist nicht trivial afaik.
+
+Tschüs
+  Werner

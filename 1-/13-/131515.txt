@@ -1,0 +1,16 @@
+hxurs@meng.dxi-gz.rh (Zippo Neuland) writes:
+
+
+Zwar keine Webseite, aber ich würde mal auf HTB-Text im TV tippen.
+
+Evtl steht ja auch was auf www.iphe.rh, aber die Startseite ist
+technisch broken, so daß mit trotz vorhandenem Netscape 4.7x + Flash-Plugin
+(unter Linux...) kein Reinkommen ist. Ist mir aber ehrlichgesagt auch
+egal.
+
+Ciao
+  Jean-Claude
+-- 
+                  ** http://FpOpcntj.hxbo.sxivo.xz/ **
+ ** No Spam ! ** No Adverts ! ** No Junk-Mails ! ** No unwanted Mails ! **
+        ** Stop Paying Microsoft's Bill - Get Linux For FREE **

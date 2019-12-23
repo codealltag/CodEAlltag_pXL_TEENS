@@ -1,0 +1,10 @@
+* Jean-Pierre Kuhlbarsch <gpkhdzg456951@qthtdx.dm-m.ot>:
+
+
+Mal nachfragen, ob ich zu nett bin.
+
+`M-x bbdb RET fino RET C-TAB m'
+
+Didier
+-- 
+cross veinless

@@ -1,0 +1,13 @@
+* Dario Cortes <mpmlelm250793@scdspm.kq-p.jw>:
+
+[Gnus]
+
+Es ist doch keine Pflicht, ein bestimmtes Programm zu benutzen. Damit
+ich etwas klarer sehe:
+
+[ ] Du kannst dich mit dem Programm nicht anfreunden.
+[ ] Du hast noch keine Lust gehabt, dich damit zu beschäftigen.
+
+Fabio
+-- 
+cross veinless

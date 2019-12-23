@@ -1,0 +1,34 @@
+* Domenico Rittershaus <zutt@aofxpaqi.yg>:
+
+
+Ja.
+
+--snip--
+1. RfD: UDP für h.v.v
+=====================
+
+Vorgeschlagen wird eine auf de.* beschränkte UDP für c.m.h.
+ Dies betrifft alle Postings der genannten Person, die
+in wenigstens eine Gruppe der de-Hierarchie (einschließlich
+de.alt.*) gepostet werden. Der Vorschlag beschränkt sich
+ausdrücklich nicht auf Postings, die mit <rycmta.timqc@kxtsdt.lf>
+als From:-Adresse gepostet werden.
+
+Betroffene Postings
+- sollen, soweit technisch realisierbar, nicht propagiert
+   werden und
+- dürfen ohne weitere Begründung fremdgecancelt werden.
+
+Begründung: c.m.h stört den Gruppenbetrieb in dtju
+            durch konsequente Kleinschreibung.
+
+Proponent: Domenico Rittershaus <zutt@aofxpaqi.yg>
+
+Sonstiges: Das Verfahren wird unter sinngemäßer Anwendung der
+           in news:de.admin.infos veröffentlichten Regeln
+           durchgeführt.
+--snap--
+
+Siebelt
+-- 
+cross veinless

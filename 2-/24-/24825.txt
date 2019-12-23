@@ -1,0 +1,11 @@
+Alex Vildhaut <cwihwrwmxfzijr@egu.via> writes:
+
+
+Sohn?
+
+-gilbert
+-- 
+ No  Points     Name                                                   Hp [henning]
+  1    2137657  Ornella-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

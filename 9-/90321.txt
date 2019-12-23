@@ -1,0 +1,5 @@
+Matthias Unterwurzacher <lvclbpa@ggt.rb> writes:
+
+
+Du machst überflüssige und falsche Leerzeichen zwischen Wort und
+Satzzeichen.

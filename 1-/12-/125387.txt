@@ -1,0 +1,13 @@
+begin quoting vbeeam@xrzmvvimduc.omb (Lotti Ellenrieder):
+
+Das sowieso. Also:
+
+Wenn ich im From stehe, werden alle Artikel, die die Message-ID dieses
+Artikels in den References haben, hochgescoret.
+
+Geht auch: Die diese Message-ID unter den letzten (1/3) Einträgen in
+den References haben?
+-- 
+Fredy Flashar, 38666 Pütz, DE
+My favorite newsgroups:
+de.talk.jugend, de.alt.fan.aldi, alt.fan.harry-potter

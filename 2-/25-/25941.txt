@@ -1,0 +1,13 @@
+Und so sprach Anni Heykamps:
+
+
+christophleuzinger@dhcp-04:~> du -k Pictures/falbala-logo.jpg 
+24      Pictures/falbala-logo.jpg
+
+Gruss,
+Pascal, weniger ist mehr.
+-- 
+us  dere  bouschteu  wird  es  fr�idehuus   |  us  em  schnee  vo  geschter  e
+fluss  | & glychschtrom  wird  w�chsuschtrom  |  die wanda wut wartet voruss |
+d gruebe  wird  e  garte  |  us  dere  knacknuss  wachst  e  boum | & d  boum
+treit  honigs�essi  frücht  |  -  dert  isch  scho  wieder  dr  wurm  drin ...

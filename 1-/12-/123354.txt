@@ -1,0 +1,77 @@
+STATISTIK AIGRTT 4836
+-=-=-=-=-=-=-=-=-=-=-
+
+DAU-Karl
+
+Pos.  DAUs  Msgs.  Ratio   Name
+---------------------------------------------------------------------------
+   1    98      1   98,00  "TkA" <xxx@xxx.xxx>
+   2   163      2   81,50  "Yogi1999" <eqgw5931@antvijb.ssv>
+   3    81      1   81,00  Nomen Nescio <srmqou@zdtrt.hnv>
+   4    71      1   71,00  uxjtxhzbzq@iegnku.ddu
+   5    62      1   62,00  "2001" <nh_b@plrqvfe.qkr>
+   6    50      1   50,00  Luciano Fäht <N.Dukhlul@ppqkmpg.jj>
+   7    26      1   26,00  herwig reinl <uhqnwg.ouowim@hludmzffkeauh.eo>
+   8    22      1   22,00  "Luca Vokt" <bgbx@rpdstoek.sl>
+   9    21      1   21,00  Skwermhogqwb@lrr2749.hid
+  10    20      1   20,00  cvxkur@zefzf.fty
+  11    20      1   20,00  <mdxtr.vsuutbmn%cfuy.jgx@jnxel.iyx.ov.ni>
+  12    17      1   17,00  "jzeise" <zomhef@rvlbry-cwhsosswoxwy.sq>
+  13    16      1   16,00  "Eberhard Vorderegger" <l.ggozlzz@juc.mm>
+  14    26      2   13,00  "Ady" <vaavd@isy.gt>
+  15    10      1   10,00  pmsjoh@vlzwgzn.sxj
+  16    20      2   10,00  iewzs470@yuo.ftd
+  17    10      1   10,00  i@on.ru
+  18    10      1   10,00  khmqfx@bglndycdrla.qht
+  19    10      1   10,00  xhcnbv@lfuvtgi.uel
+  20    30      3   10,00  gustav
+  21    10      1   10,00  <cie.vyd.ejznoqbi.fzenyy.mnf@fxzxurq.rz>
+  22    10      1   10,00  roghvz@bityfrq.cid
+  23   390     42    9,29  Luca Venjacob" <collra.fpyfkeyfjjqn@din.dq>
+  24    10      2    5,00  npbc@xcfdnkoxdb.yo (Eberhard Zijlstra)
+  25    37      9    4,11  Lukas Rübensaal" <qn342@dlh.el>
+  26    14      4    3,50  Eduard Gronov <m.etygdv@s-mmmmsi.el>
+  27   387    112    3,46  Uda Rothvoß" <Qxfeq.Rnwkdp@h-weckrc.nl>
+  28   205     73    2,81  Sabrina Velmans <xkse.m@gvghe.bp>
+  29   694    264    2,63  Uda Rothvoß <Qxfeq.Rnwkdp@h-weckrc.nl>
+  30     5      2    2,50  <tr2yni@s-eogvoj.ae>
+  31    19      8    2,38  karlheinz Mitterle <lgrfnf@gihj.qr>
+  32    83     51    1,63  Raphael Vierkotten <crkuth-ahdrfo@aawmac.ztyl.oa>
+  33   301    211    1,43  Wolf Ultsch <rvarhhmffgbvgr@cli.wij>
+  34   210    159    1,32  mlwcez@pfyckaioj.ar (Ivano Hoffeller)
+  35   271    221    1,23  Edouard Weise <nnqq@bdcrvttzw.xl>
+  36   589    496    1,19  Lukas Iserlohn <p-vgi@ydxnbwdafov.gu>
+  37   441    406    1,09  cvuzfy@wrprjzgecvw.ddf (Gertrude Unertl)
+  38     1      1    1,00  Leopold Madwig" <rwapp@vqzxg-ppjzwh.dc>
+  39     1      1    1,00  Nino Besgen <y-pexnvjl@ljd.zqp>
+  40     1      1    1,00  Egon Germeroth" <hwhsdo.egxt@pgl.jb>
+  41     1      1    1,00  <boueryxssi@rgkgbz.mrm.fg>
+  42     1      1    1,00  Gabriel Magerkord" <jevrs@oaa.no>
+  43     1      1    1,00  Eberhard Wiesenmüller" <gvjr@wmqgrcsmmw.ta>
+  44    87    108    0,81  xkse.m@gvghe.bp (Sabrina Velmans)
+  45    34     43    0,79  Leopold Volmers <zpttedi@vnf.en>
+  46    19     26    0,73  y96m6m@qvirdbqxr.vn (Ivano Hoffeller)
+  47   203    310    0,65  Nino Uternöhlen <swjtgwc670551@ifxnzg.qk-i.hc>
+  48    37     57    0,65  Lukas Iserlohn <ygcbgk@lfzisbcpbxh.zw>
+  49   376    665    0,57  dwplji@hgskcvsgln.km (Eberhard Zijlstra)
+  50   117    219    0,53  Eberhard Zonneveld <umoiyp@rrhys-zouqdy.vd>
+  51   105    209    0,50  Kai Fäht <dyrs@huttfyno.md>
+  52     1      2    0,50  Gerhard Uferkamp" <kxdauuecn@mksipp.vk>
+  53     1      2    0,50  Olaf Unterkötter" <qtygeyyxai@mfh.dz>
+  54    15     32    0,47  Edouard N. Aßenmacher 'Home'" <ttp@acfboulb.yy>
+  55    52    116    0,45  Laurent Karsten Oexle <aawynhkm@q2jtww.dfe>
+  56    25     62    0,40  Domenico Looks <buqgcjo@pxum.tm>
+  57    13     56    0,23  Lotte Vierkotten <Vluluv98@kfh.ytd>
+  58     6     27    0,22  Eberhard 'sSXP' Ingensand <cCDX@sqi.tsw>
+  59    14    113    0,12  zslwcozixl@jkhvfqtsxs.cl (Roland Ilinseer)
+  60     1     12    0,08  Roe.Vpzkm@bpv.bmg (Luca Isenhardt)
+  61     2     46    0,04  JxlkxkHrcpyxkpt@m-rrtmoa.bx (Uwe Volkradt)
+ (62)   11    297    0,04  Ivano Johannwille <group-answer@garbers.org>
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 19. 12. 19 von Karl Unverhaun.
+(Darstellung angepasst von Eberhard Zijlstra)
+Basierend auf den Feeds von:
+yjywhccb.ndtqk.cs         hwvf.csm.tyx.mi           bhso.b-pxuguv.bb  
+aycl.moc-wgimbhyu.zc      irqa.kta-ihorquhy.cc      ethm.iqq-evmzdredj.pa  
+fuqmfkqhrd.hmstshshef.sz

@@ -1,0 +1,8 @@
+Hm. *umkuck* Meine Fenster sind noch heil, mein Monitor hat auch kein
+Loch. Wo hast du hingeworfen?
+
+mfg, 
+	Francesco
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old CUCL cpu - insufficient processing power

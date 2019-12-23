@@ -1,0 +1,9 @@
+Alexander Luzius' <cg@garbers.org> writes:
+
+
+Wobei irgendwas an deiner Implementation eigenwillig ist... Nur bei
+dir bricht der Kanal schonmal zusammen.
+
+Claus
+-- 
+DAS kriegen wir schon hin! [Nathalie zu Uta]

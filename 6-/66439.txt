@@ -1,0 +1,20 @@
+Am Tue, 30. 12. 19 sendete Fernando Wirnsperger folgende Botschaft:
+
+
+Chef von $KUNDEN bei euren Aussenstellen? Dann braucht der wohl eher
+keine e-mails an euch schicken.
+
+
+#v+
+heribert: ~$grep -a 'From: Fernando Wirnsperger <xvvtqa@myloxxxw.yb>' /usr/news/spool/cnfs/dtju* | wc -l
+    651
+#v-
+
+IBTD
+
+Tschüs
+  Heribert
+-- 
+Die Weisheiten des Juppi Jup: #5
+
+Michel Fuehrmann rockt.

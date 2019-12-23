@@ -1,0 +1,10 @@
+Zumindest NAV in den letzten drei Versionen prüft AFAIK nur das erste  
+Archiv, sich darin befindliche Archive werden erst beim entpacken  
+geprüft.
+
+Jan Freihoff
+
+-- 
+"Da bin ich dir direkt neidisch."
+(Schatzi zu meinen zehn Punkten in der Matheabfrage)
+---> Offizieller Kämpfer wider Roger Plankl des Ordens von dtju <---

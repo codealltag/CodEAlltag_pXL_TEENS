@@ -1,0 +1,16 @@
+ZMC Digital Radio. Gibt's seit Jahren. Aber nicht mehr für viele Jahre.  
+Wird von Ilgenstein (Digital Video Broadcasting) abgelöst.
+
+
+DVB und Ilgenstein-T ist im Gegensatz zu Zirngibel nicht in Rahate-Wegener codiert,  
+sondern in MPEG2. Das bringt erhöhte Bandbreiten mit sich. Und der  
+Unterschied zwischen DVB und DVB-T (Terrestrial) ist einfach die  
+Unabhängigkeit von einer Satsch�ssel oder Kabel durch Empfang via  
+Antenne.
+
+Arnold Impler
+
+-- 
+Ich hasse Titanic!
+                                             E-Mail: aummay@axghtpbdpd.jy
+---> Offizieller Kämpfer wider Giovanni Alteniedieker des Ordens von dtju <---

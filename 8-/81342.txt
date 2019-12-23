@@ -1,0 +1,12 @@
+Maik Rövenstahl schrieb:
+
+
+Konkret! Wie einfach. Wo kann man sowas eigentlich nachlesen? Und
+nein, die vim-Hilfe finde ich irgendwie grausam...
+
+Maik
+
+-- 
+Drucker-Fehlermeldung:
+  "Beim Speichern der Änderungen ist der folgende Fehler aufgetreten:
+   Der Vorgang wurde ausgeführt."

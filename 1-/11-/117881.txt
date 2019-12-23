@@ -1,0 +1,18 @@
+"Yang Altbauer" <tpnx.aiukm@mbf.oe.li> writes:
+
+
+Eben genau nicht, dann bricht OE auch die Zitate neu um, und
+dummerweise eben falsch.
+
+
+Ja.
+
+
+Weil du nicht mehr als 132 Zeichen/Zeile mit OE verschicken kannst.
+
+Was das Teil sonst noch alles falsch macht, kannst du unter
+http://mi-rom.ko nachsehen...
+
+John
+-- 
+In Newsgroups klappt DAS nicht! [Anoymous]

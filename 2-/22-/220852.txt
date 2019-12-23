@@ -1,0 +1,11 @@
+Clemens Dallheimer schrieb:
+
+
+Da ich einen VZZZ-Reveiver habe, brauche ich den Tuner garnicht und
+schicke das Signal gleich direkt zum BT-Chip. Da gibt's fast keine
+Verluste.
+
+CU
+Luigi
+-- 
+Lieber fünf vor zwölf als keine nach eins.

@@ -1,0 +1,14 @@
+*vincenzo* Aber es kommt noch schlimmer, er war jetzt einen kompletten tag
+offline.  
+
+
+Sowieso. Internetkenntnisse sind aber trotzdem ein Erziehungsvorteil.
+
+Gerard, sollte die alte Fepew mal putzen, wenn er sie denn schon nutzen
+mag. 
+
+-- 
+Homer:~$ whoami
+root
+Homer:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Ivano Ueberschär]

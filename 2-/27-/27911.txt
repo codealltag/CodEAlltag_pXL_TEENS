@@ -1,0 +1,9 @@
+Also sprach Urs Berend Enssle <crs-xhbb@gimuzgr.rt>:
+
+
+Na, die sind semientscheidbar.
+
+Ich muß mir doch nochmal das TSCP (Travelling Santa Claus Problem)
+anschauen...
+
+Thomas

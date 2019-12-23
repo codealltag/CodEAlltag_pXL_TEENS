@@ -1,0 +1,9 @@
+Und so sprach Valerius Weckl:
+
+IE rafft CSS1 auch nicht korrekt/komplett.
+
+Gruss,
+Konrad.
+-- 
+"NetBSD - Better for your uptime than Greta."
+                                 (Sig von Adrian Henseli)

@@ -1,0 +1,14 @@
+Also sprach Hansjörg Raitner <qat@wkttc.jqr>:
+
+
+Ich meditiere mal drüber.
+
+
+Gott bewahre! Mein aktueller Key hat keinen Umlaut. ich habe es mit
+Latin-1 und mit Unicode versucht, aber Ärger gibts immer.
+Nein, ich heiße "Hansjörg Repschleger". Allerdings habe ich mal einen RSA-Subkey
+hinzugefügt, und ich bilde mir ein, daß es seitdem so ist.
+
+Aber retrieven nach Key-ID geht einwandfrei...
+
+Hansjörg

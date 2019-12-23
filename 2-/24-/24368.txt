@@ -1,0 +1,7 @@
+Sogar schlimmer als mit TeX und cat/sed.
+
+mfg, 
+	Georg
+-- 
+BOFH excuse #104:
+backup tape overwritten with copy of system manager's favourite CD

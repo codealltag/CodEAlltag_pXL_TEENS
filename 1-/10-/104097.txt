@@ -1,0 +1,11 @@
+Sandro Tauben <oaevxtv520655@kguzan.zr-y.xr> writes:
+
+
+vei slrn, mutt und tin darf sich mükra jeder mit dem Editor in den
+Fuss schiessen, den er dafür bevorzugt. Der einzige technisch an einen
+Editor gebundene konsolenbasierte Newsreader, der mir einfällt ist
+Gnus.
+
+Bernard
+-- 
+                  Weird enough for government work.

@@ -1,0 +1,22 @@
+Arnold Düniss hat geschrieben getan getutet:
+
+
+Jubb.
+
+
+Oder mit Mamsell (automagisch)/ WHOIS (manuell), ob er ueberhaupt im IRC
+ist.
+
+
+So meinte Sandro das jetzt nicht..
+s/\.$/, wenn sie online sind./
+
+
+Und man kann ihm auf jedem System zufriedenstellend "verstecken".
+
+-valentino
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Eberhard 'pi' Piwinger in de.alt.sysadmin.recovery

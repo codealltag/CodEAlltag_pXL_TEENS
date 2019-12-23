@@ -1,0 +1,8 @@
+* Walter Joseph <uolvuzpoporpzm@uif.mgz>:
+
+
+Der Pseudofilter ist in 30sec eingebaut. bbdb auch.
+
+Berend
+-- 
+cross veinless

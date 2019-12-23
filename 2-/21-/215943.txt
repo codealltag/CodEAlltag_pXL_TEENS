@@ -1,0 +1,14 @@
+Am 18. 02. 19 21:36:54 GMT sendete Max Wis
+folgende Botschaft:
+
+[...]
+
+Wer braucht den Disketten? ;)
+
+
+Wenn du (wie ich meinte) nur lilo auf der disketten installierst, und
+den rest auf der HD sollte es da eigentlich keinen spürbaren
+zeitunterschied geben.
+
+Tschüs
+  Vittorio

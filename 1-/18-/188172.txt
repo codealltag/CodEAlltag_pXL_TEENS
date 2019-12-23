@@ -1,0 +1,10 @@
+Ich hoffe, ich verwechsle nichts, aber MAZV gibt's den Bug nur beim  
+Borland Pascal-Compiler und der schmiert mit einem Runtime Error 200 und  
+keiner Division durch Null ab.
+
+Anton Arbesmeier
+
+-- 
+Gott schätze Amerika... VOR MIR!!!
+                                             E-Mail: cukjhv@mdmpfuvhrp.li
+---> Offizieller Kämpfer wider Pierre Temberg des Ordens von dtju <---

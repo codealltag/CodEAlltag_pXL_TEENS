@@ -1,0 +1,14 @@
+An einem Mittwoch im Oktober gab Menno Eichstädter bekannt:
+
+
+Wenn du über "radstudio" etc. scorst? Ja.
+
+
+all.SCORE reicht ja. Und dafür hat man dann die gnus-killfile.el [1]
+
+Rolf
+
+Footnotes:
+[1]  http://ed.nqqv.fyn/Kpxb/6546394400
+-- 
+ich halte mich nicht fuer was besseres, ich bin es. (Werner)

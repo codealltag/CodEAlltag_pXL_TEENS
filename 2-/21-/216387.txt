@@ -1,0 +1,29 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------1566819A2BAA55D11D499F34
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+JBO ist absolute spitze. und Meister der Musik Teil 2 sowieso der beste
+Track der ganzen CD (Thorsten Mommers !!! :-) Trash ohne Ende !!
+Oswald
+--------------1566819A2BAA55D11D499F34
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="sf.stormbringer.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Oswald Proelß
+Content-Disposition: attachment;
+ hzlvukge="nw.aeplcczzckoz.tpv"
+
+begin:vcard 
+n:Offermann;Stefan
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+lslpf;hnlqvvca:dvjlv@uohx.uht
+title:Willbrandt
+x-mozilla-cpt:;21584
+fn:Oswald Proelß
+end:vcard
+
+--------------1566819A2BAA55D11D499F34--

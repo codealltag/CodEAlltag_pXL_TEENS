@@ -1,0 +1,14 @@
+Und so sprach Denis Heinrich Averhage:
+
+
+Man atmet auch schnell mal ne Wespe ein.
+
+Masshaltung in allen Ehren, aber die totale Abstinenz ist defintiv nix
+fuer mich. ;-)
+
+Gruss,
+Thierry.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

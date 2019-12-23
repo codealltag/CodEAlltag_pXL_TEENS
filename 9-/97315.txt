@@ -1,0 +1,12 @@
+Italo Willfahrts <cg@garbers.org> writes:
+
+
+ACK. Erstmal SMTP konfigurieren, und dann per fetchmail...
+
+
+Postfix läuft bei mir hier praktisch Out-of-the Box.
+
+Etienne
+-- 
+BTW: Warum überreicht Jürgen sich selbst???�
+ M.J. in <2l4azm.8rvb0vl.1@rjv.apd-szlbrw.cx>

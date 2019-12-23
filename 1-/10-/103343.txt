@@ -1,0 +1,8 @@
+Jörg Strassner <jmfkhet359568@pgasob.lh-b.gq> writes:
+
+
+Macht nix, ":set tw=72" tuts trotzdem :-)
+
+Denis
+-- 
+DAS hat mit Schlafen nix zu tun. [???]

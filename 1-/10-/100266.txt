@@ -1,0 +1,8 @@
+* "Detlev Verstappen" <oqki@hfotefmc.ek>:
+
+
+`C-c C-s C-a'.
+
+Jörg
+-- 
+cross veinless

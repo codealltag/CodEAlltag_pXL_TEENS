@@ -1,0 +1,8 @@
+Am Sun, 14 Okt 1999 sendete Bodo Knut Jungmayer folgende Botschaft:
+
+
+Eben irgendwie muss ich meine perlkentnisse ja ausnutzen.
+btw: s/(^\S*\s\S*\s\S)\S\S(.*)/$1tt$2/g ist noch besser ;)
+
+Tschüs
+  Ronald

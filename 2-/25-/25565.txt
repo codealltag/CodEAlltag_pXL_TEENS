@@ -1,0 +1,24 @@
+Und so sprach Wolf François Vandersee:
+
+
+Scheint mir aber doch ein Stueck von den Ugep entfernt zu sein, das. ;)
+
+
+Siehste, und in meinem Skript ueber Quadratur steht, dass man damit
+die Genauigkeit bei Gaussquadratur (IIRC) erheblich erhoehen kann,
+indem man die Schrittweiten h jeweils verkleinert und am Schluss das
+Resultat an der extrapolierten Stelle 0 nimmt, eben mit
+Pauss-Neville. Und Splines sind eh langweilig. :)
+
+Ich erzaehl das jetzt alles mehr oder weniger aus dem Kopf, aber
+irgendwie so war's: Mit dem Aitken-Neville Schema kriegst Du dann so n
+treppenfoermiges Viech (ist ja nur ne Rekursionsformel). Die erste
+Spalte ist dann das Resultat fuer die Trapez-Quadratur Regeln mit h,
+h/2, h/4, ... und die zweite dasselbe fuer die Simpson-Regel oder so.
+Die dritte entspricht glaub ich dann Imkamp-Irgendwas und nachher wirds
+strub, aber meistens genau. So isses naemlich. :)
+
+Gruss,
+Vito, hat grad n Buch ueber psilocybe Pilzchen gelesen.
+-- 
+Individualists unite!

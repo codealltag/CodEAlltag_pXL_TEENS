@@ -1,0 +1,10 @@
+Hugo Niedenthal wrote:
+
+Nein. Eine PERLe.
+
+Dirk
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+hgob_kzsmosl)->yzx(@skpgj_rnupohm_qpav[$wgxfi_wweloko_otq_ncyvrcd])->vq_ekjqbi()

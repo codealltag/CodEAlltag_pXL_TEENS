@@ -1,0 +1,23 @@
+Hallo Jens Wronn
+
+Am Sat, 10 Dez 2002 14:07:30 +0200 schriebst Du:
+
+[The Bat!]
+
+Allgemein?
+Mit Makros lassen sich bestimmte Aberbeiten automatisieren. In MS Office
+gibt es dafür VBA das schon fast eine richtige Programmiersprache ist.
+
+In The Bat! kannst du mit Makros kannst du z.B. ein Zufallssignatur,
+automatische Anrede und Verabschiedung, Fussnoten, usw.
+Hier einige Links zu Makrosammlungen für TB!:
+http://lfw.rzbktfr.sp/yqerdd/
+http://gaw.vpxsstngjn.ufh/yo/sajwxcbbrxu/qslkdy/
+http://lnv.hvjah-ambckxnvkwvku.rh/ys_lk/
+
+MfG Massimo
+
+-- 
+  Unser neuer Download-Server.
+  Warez, Filmchen und andere tolle Sachen
+  ftp:767.6.6.8

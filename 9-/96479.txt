@@ -1,0 +1,9 @@
+Konrad Benzenhöfers <cg@garbers.org> writes:
+
+
+Regexp. Ich hab momentan keinen Nerv, den Krams zu lernen, weil ich
+gerade eher Perl brauche...
+
+Berend
+-- 
+AAAAA = Anonymous Association Against Acronym Abuse

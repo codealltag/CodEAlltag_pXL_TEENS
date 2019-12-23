@@ -1,0 +1,8 @@
+Wolf Mülner schrieb am 8 Jan 2000 in de.talk.jugend:
+
+[XNews und Custom-Headers]
+
+Wenn du die Änderungen an der XNews.ini vornimmst, dann musst du 
+AFAIK XNews neustarten.
+
+Jacques

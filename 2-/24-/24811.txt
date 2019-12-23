@@ -1,0 +1,11 @@
+Wolfgang Christoff <skaspoo@hpl.un> writes:
+
+
+Schlechte Karten; nicht: non-existente Karten.
+
+-valentin
+-- 
+ No  Points     Name                                                   Hp [kay]
+  1    1615182  Prisca-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

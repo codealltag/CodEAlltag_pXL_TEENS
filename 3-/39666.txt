@@ -1,0 +1,7 @@
+Am Thu, 8 Mai 2003 sendete Rolf Radde folgende Botschaft:
+
+
+Dann bau dir einen RSA-Key und mach einfach Cross-signing.
+
+Tschüs
+  Erwin

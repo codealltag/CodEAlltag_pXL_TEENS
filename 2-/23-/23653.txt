@@ -1,0 +1,11 @@
+Und so sprach Albrecht Kirchheim:
+
+
+Liest sich uebel. ;)
+
+Gruss,
+Gilles.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

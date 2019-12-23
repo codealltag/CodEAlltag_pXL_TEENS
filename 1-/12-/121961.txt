@@ -1,0 +1,11 @@
+Lutz Redlingshöfer wrote:
+
+Klaro kannst du. man zcat.
+
+
+Schlechter Packer. Bei einem gescheiten Algorithmus schrumft Plaintext zu
+nahezu null zusammen.
+
+Volkmar
+-- 
+Wir ziehen keine Analogien. Das tut Mike weh.

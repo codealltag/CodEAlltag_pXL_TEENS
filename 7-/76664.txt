@@ -1,0 +1,17 @@
+Albrecht Vomfell <utfxhgnywgwpqj@cwb.xaq> wrote:
+
+[crontab]
+
+Ja für eine Dial-up Leitung sicher sehr gut. nur wollt ich es so wie
+bei meinem Hamster einrichten das er alle 10 min News holt respektive
+sendet. (Wenn ich online bin, was bei Lüchau-Flat eigentlich fast immer
+ist) Also der corn-daemon wird beim booten gestartet soviel ist klar
+jetzt hab ich auch folgende Zeile in die crontab eingetragen:
+----------[crontab]--------------
+
+*/10 * * * * news  test -x /usr/local/sbin/fetchnews &&
+/usr/local/sbin/fetchnews -vvv 
+
+----------------------------
+Nur führt er es nicht aus. Also irgendwo klemmt noch was. Muss ich mich
+nochmal mit befassen.

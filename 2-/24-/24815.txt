@@ -1,0 +1,12 @@
+Alwin Schäufle <mvvng@acgpb.oget.qh> writes:
+
+
+Keine Sorge, Massenvernichtungswaffen sind stark genug, um auch ein
+sich nicht an den Kriegen beteiligendes Land kaputt zu machen.
+
+-cédric
+-- 
+ No  Points     Name                                                   Hp [frank]
+  1    2138382  Doreen-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

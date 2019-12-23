@@ -1,0 +1,7 @@
+Otmar Verwayen <pkbrcm@kmo.gf> schrieb in im Newsbeitrag:
+7ou5bs861elmgo7i0uafehk71imk285pu9@4ax.com...
+
+Das kommt noch dazu, ja. Wobei es mir allerdings eh nicht so recht
+einleuchten will, warum die lieben Programmierer da immer ihre eigenen
+Formate haben müssen, wenn doch schnelle Engines den Compilern kostenlos
+beiliegen...

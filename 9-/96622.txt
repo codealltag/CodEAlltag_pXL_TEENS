@@ -1,0 +1,8 @@
+MEC hat als Default tcsh. Hmpf.
+
+
+Auf nem Server hat der nichts bei mir zu suchen.
+
+
+Das ist sogar sehr produktiv. Auf einem Productionserver macht inetd schnell 
+mal schlapp ;-). Deswegen läuft bei mir alles stand alone ;-)

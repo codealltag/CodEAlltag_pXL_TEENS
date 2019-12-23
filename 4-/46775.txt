@@ -1,0 +1,14 @@
+Hallo Philippe
+
+Quote [ Philippe Besserer * Thu, 19 Mai 2002 14:16:25 +0200 ]
+
+
+Das war bestimmt der entscheidenede Grund. :-)
+
+Best regards,
+ Ignaz
+
+-- 
+Fachbegriffe der Informatik einfach erklärt
+290: libc 
+     Servicepack für C (Rudi Heibrook)

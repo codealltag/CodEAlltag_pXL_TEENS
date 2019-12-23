@@ -1,0 +1,11 @@
+Diedrich Abeling <bcobtsmbiystnh@vio.dxt> writes:
+
+
+In der Tat.
+
+-jean-pierre
+-- 
+ No  Points     Name                                                   Hp [patrice]
+  1    7007431  Waltraud-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

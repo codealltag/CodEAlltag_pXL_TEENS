@@ -1,0 +1,13 @@
+Am Mon, 08. 01. 20 sendete Nico Cédric Laz folgende Botschaft:
+
+
+Schlecht.
+
+
+Bh.
+
+
+Das ist irgendwie Sinn der Sache. devfs macht mknod überflüssig.
+
+Tschüs
+  Egon

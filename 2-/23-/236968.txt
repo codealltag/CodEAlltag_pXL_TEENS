@@ -1,0 +1,6 @@
+Ja.
+
+rosa
+-- 
+Luis Tiz | RETTWEILER boot: kai-0.3 root=/dev/c2h5oh
+tds@xnuske.kl  |

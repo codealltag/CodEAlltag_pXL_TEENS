@@ -1,0 +1,13 @@
+* Theo Schmidtschneider <yxdhz@uudig-hqfjec.ru>:
+
+
+Was möchtest du machen?
+
+a) aus einem p-Eintrag einen nicht-p-Eintrag
+b) aus einem nicht-p-Eintrag einen p-Eintrag
+
+?
+
+Mario
+-- 
+cross veinless

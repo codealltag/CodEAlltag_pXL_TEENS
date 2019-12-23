@@ -1,0 +1,13 @@
+Konrad Pavl <iizyma-0378@rlvqycln-tppvonh.zd> writes:
+
+[Pizzaautomaten]
+
+VC?
+
+
+Type of arg 1 to push must be array (not scalar dereference)
+
+-wolfram
+-- 
+Light travels faster than sound, that's why
+people seem bright until you hear them.

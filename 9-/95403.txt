@@ -1,0 +1,12 @@
+"Alois Jackobi" <ixuj@fyeiijfk.xq> writes:
+
+
+"Gestaltung" heisst im Falle von HTML für mich zunächstmal, dass der
+Text besser verständlich wird, MaW Textformatierungen an passenden
+Stellen, Literaturhinweise eben als Hyperlinks, dadurch vereinfachter
+Zugriff darauf, während gleichzeitig der eigentliche Text
+evtl. kompakter geschrieben kann.
+
+Olivier
+-- 
+Quick!!  Act as if nothing has happened!

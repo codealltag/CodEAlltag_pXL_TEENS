@@ -1,0 +1,11 @@
+Hmm... ein Perl-Script würde sicherlich auch funktionieren. Es müßte nur  
+eingehende News auf bestimmte Schlüsselwörter scannen und gegebenenfalls  
+eine bestimmte Headerzeile einfügen sowie bei ausgehenden News den  
+Newsreader-Header austauschen...
+
+Bernd Josenhans
+
+-- 
+Der Kommunismus ist NICHT an allem Übel der Welt schuld!
+                                             E-Mail: zqaivp@cobuzgetxv.xo
+---> Offizieller Kämpfer wider Rüdiger Schmackpfeffer des Ordens von dtju <---

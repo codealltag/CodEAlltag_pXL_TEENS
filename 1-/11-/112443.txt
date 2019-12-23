@@ -1,0 +1,9 @@
+* Denis Zehender <utzw@rpmdzamm.td>:
+
+                   ^^^^^^^^^^^^^ 
+
+Leistungskursklausuren sind 4stündig, der Rest 2stündig.
+
+Ulfert
+-- 
+cross veinless

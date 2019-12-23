@@ -1,0 +1,7 @@
+* Olivier Thoenesen <hdarfzxswvg@nntmtrddtfy.gk>:
+
+
+vim is the editor with the two modes: one that beeps and one that
+corrupts your files.
+
+Tim, oder so ähnlich

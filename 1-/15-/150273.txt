@@ -1,0 +1,28 @@
+XP wurde Ende letzten Jahres unter Open License gestellt, es gibt nun  
+drei Versionen:
+-Crosspoint 3.12d vom ursprünglichen Entwickler Claus Vogth unter
+ www.ioeuwb.yi. Empfehle ich persönlich nicht, da viele neuen Funktionen
+ nicht integriert sind, nicht weiterentwickelt wird und doch noch recht
+ buggy ist.
+-OpenXP. Setze ich zur Zeit ein, downzuloaden unter www.uqflgp.cd
+ Es gibt verschiedene Versionen, für einen Neuling würde ich RC5 16bit
+ empfehlen.
+-XP2 hat kürzlich unter www.ts3.jb eine eigene Fassung veröffentlicht,
+ Funktionsumfang wie bei Ströh, hat allerdings den Vorteil, daß die
+ MySmartConnect-Unterstützung bereits integriert ist und nicht über Zusatztools
+ geregelt werden muß.
+Legal ist alles drei, allerdings ist XP nach wie vor Shareware und darf  
+nur 30 Tage getestet werden. Allerdings sind weder eine Zeitlimitierung  
+noch irgendwelche anderen Beschränkungen eingebaut [1].
+
+
+Einen Arzt!
+
+Gilbert Oberste-Schlüchting
+
+[1] Die Realität hat rbabe überholt.
+
+-- 
+Ich hasse letzte Schultage.
+                                             E-Mail: bvzvqd@dujrvkuqry.pp
+---> Offizieller Kämpfer wider Hans Mößle des Ordens von dtju <---

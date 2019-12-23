@@ -1,0 +1,11 @@
+Sandro Vittinghof <algzarxzgwq@prlmqvtxhoo.ta> writes:
+
+
+Ja. Ich weiss, wieso ich meinen Server per SSH konfiguriere... Da hab
+ich noch keine Lust gehabt, gpm draufzumachen.
+
+Norman
+-- 
+Kierkegaard's Beobachtung:
+Man versteht das Leben nur rückwärts,
+aber leben muss man es vorwärts.

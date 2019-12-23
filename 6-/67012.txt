@@ -1,0 +1,10 @@
+(* Patrice Praße wrote: *)
+
+
+Abzufangen! Ich schmeisse doch nicht freiwillig mit sowas um mich :-)
+
+
+Was für einen Sinn macht es die DB-Anbindung serverm��ig nicht in Java 
+zu schreiben, wenn der Rest in Java läuft?
+
+Cédric

@@ -1,0 +1,15 @@
+Othmar Fassbinder <axjwlwn236620@pbjiwv.xo-j.sg> wrote in
+rhaz:mbo.206075255964.90398@gixjbqykn.sejhwmwgra.ta: 
+
+
+Ich denke nicht, dass man das so pauschal sagen kann (eine gewisse Wahrheit 
+steckt in dem aber auf jeden Fall). Das Problem bei nur einem Server für x 
+Millionen Sites ist viel mehr dass wenn der Server sich verabschiedet, eben 
+alles weg ist. Dass Server sich verabschieden ist praktisch nicht zu 
+verhindern, aber wenn man die Domains auf 1000 Server verteilen würde, hätte 
+ein Ausfall keine allzuschlimmen Konsequenzen. 
+
+Die Probleme, die RAID Arrays in den Dimensionen mit sich bringen, sind eine 
+andere Sache (was für ein Filesystem setzt Strato eigentlich ein?). Es 
+dauert nunmal seine Zeit, selbst bei einem JournalingFS, um nach einem Crash 
+X TB zu checken.

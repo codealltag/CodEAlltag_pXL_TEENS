@@ -1,0 +1,6 @@
+Veit Dettmann <zanbet@rjlall-xylsaog.qw> writes:
+
+
+"language=" soll durch "type=" ersetzt werden.
+
+Und außerdem kannst Du auch VBScript, Python, etc. einbinden.

@@ -1,0 +1,18 @@
+Wolfgang Juan Schuchardt <phzv@wkcwar.lzy.gn> writes:
+
+
+Ich hab gestern zwei Rechner gehabt, die nachweislich[1] die gleiche
+GMSJ hatten. nach einem Reboot waren es dann plötzlich verschiedene...
+
+
+Die Karten, die ich damlas bekommen konnte waren die
+Mövencenter-basierten, ich hab bisher keinen Stress damit gehabt...
+
+Gerold
+[1] zwei Rechner, die bei Identifikation über die GMSJ den gleichen
+DNS-Namen bekommen haben. Standen zum Glück direkt nebeneinander, über
+die DNS-Namen werden die Maschinen in der Softwarezuteilungs-Datenbank
+identifiziert...
+-- 
+Larkinson's Law:
+        All laws are basically false.

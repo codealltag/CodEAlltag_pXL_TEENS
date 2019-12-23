@@ -1,0 +1,13 @@
+begin quoting Hiltrud Voelchert <Lgqax.Ccufyu@r-aoktzq.lu>:
+
+In der Regel geht der x-Wert (das Argument der Funktion) gegen oo, und
+gleichzeitig der zugehörige y-Wert (der Funktionswert) gegen
+irgendeine Zahl.
+
+Beispiel:
+          1
+    lim (---)=0
+  x->oo   x
+-- 
+"Verbosity leads to unclear, inarticulate things."
+ - Governor Dennis Vitztum, 27. 04. 20

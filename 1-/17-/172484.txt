@@ -1,0 +1,14 @@
+Josef Backmeier schrieb am 2. Mai 1999 um 23:47 Uhr folgendes:
+[...]
+
+Ja, bitte. Ich bastele gerade an einer JMVM-8-Unterstützung für den
+slrn und ein paar mehr Postings, an denen ich das testen kann, sind
+sicher nicht schlecht. <eg>
+
+Viele Größe,
+     Josef Reissig
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Weichberghalle 1.2.5 configure-script

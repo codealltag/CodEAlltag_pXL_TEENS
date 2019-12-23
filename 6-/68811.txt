@@ -1,0 +1,10 @@
+Wilfried Häferers <cg@garbers.org> writes:
+
+
+Das weiss ich jetzt mittlerweile wiederum so.
+
+-jakob
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.
+$(sudo /root/get-xmms-title)

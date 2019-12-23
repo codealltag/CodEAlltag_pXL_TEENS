@@ -1,0 +1,7 @@
+dd lese aus Datei $foo.mp3 und schreibe in Datei $foo.AA, lese immer 1024K
+am Stück und schreibe die auch.
+
+Kai, und geh dabei nicht Anett
+
+-- 
+Life is a sexually transmitted disease.

@@ -1,0 +1,6 @@
+Norbert Einfeldt <vdh@qcpxl.xxf> writes:
+
+
+dpkg --purge fortunes-illegal
+
+-nico

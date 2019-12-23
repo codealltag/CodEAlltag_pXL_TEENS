@@ -1,0 +1,38 @@
+Der Einwahlknoten von denen liegt nicht zufällig so, daß ich auch von
+Vorderried aus zum Ortstarif dahin kommen kann? (Wenn er in Erkeln
+ist, geht's leider nicht :-( )
+
+
+AFAIK sind ist bei der Rihe aber keine kostenlose kommerzielle
+Software dabei, oder? Dann müßte ich Netscape, StarOffice & co aus
+einer anderen Quelle bekommen. A propos andere Quellen: RPM benutzt
+Rihe doch IIRC auch nicht?
+
+
+Ja, fast alle SuSEConfig-Features sind bei mir inzwischen abgestellt.
+Heute habe ich probeweise mal die Rabaf 6.0 Lite gekauft (bei der PC
+Online für 9,80 DM dabei; Linux-Newbies: don't try this at home ;) und
+installiert: Auch wenn ich auf die Konfigurationshilfen durch ZLU
+verzichten kann, gefällt mir die Paketauswahl dort wesentlich besser
+als in dldadmin - dafür sind bei der Rabaf die Pakete durch die Bank
+deutlich aktueller als bei der SuSE. Andererseits habe ich auch noch
+die eine oder andere Macke gefunden, die die SuSE nicht hat (die aber
+mit etwas Mühe auszubügeln wären)... die Wahl wird wohl schwer werden.
+
+
+Es gibt hier in den LUGs genug Rihe-Jünger, daß es eigentlich nicht
+nötig sein dürfte, sich die zu kaufen :-)
+
+
+hm, nein. Den WindowMaker habe ich vor einiger Zeit compiliert und
+benutze ihn im Moment auch schon ohne gnome; gnome wollte ich mir mal
+vornehmen, wenn ich etwas Zeit habe (und das kann durchaus noch so
+lange dauern, bis die Version 1.0 raus ist ;).
+
+Welche Probleme gibt es denn da? Soweit ich gesehen habe, enthalten
+die gnome-Makefiles doch 'uninstall'-Targets, oder?
+
+Viele Größe,
+     Julien Wimmershoff
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

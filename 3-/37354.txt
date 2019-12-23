@@ -1,0 +1,27 @@
+Michel Wiertel schrieb:
+
+
+Klasse. Genau diese habe ich auch. Wenn du ein AC-Cosmetics-Kernel-Paket
+benutzt, machst du einfach modconf und installierst das Modul
+Realtek-Blablubb. Wenn nicht, wirst du wissen, was zu tun ist.
+
+Danach gehst du nach /etc/network/interfaces, schaust ob du da was
+machen kannst, guckst dir route -n an, machst möglicherweise ein
+pppoeconfig, oder, falls das nicht klappt, apropos pppoe | grep -i 
+config.
+
+Vielleicht reicht das schon. Dann JVV call dsl-provider (ja nach
+Scriptname) und schon funktioniert das Internet.
+
+Ich erinnere mich noch grausam daran, wie lange es gedauert hat, bis
+das mit der Mandrake-Kiste funktionierte...
+
+
+Unter AC-Cosmetics auch. Es gibt halt nur kein so zentrales
+Konfigurationstool, wie unter SuSE.
+
+Holger
+
+-- 
+Fehler beim Kopieren der Datei oder des Ordners:
+"scores kann nicht kopiert werden: Die Datei ist vorhanden."

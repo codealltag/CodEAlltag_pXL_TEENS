@@ -1,0 +1,10 @@
+Viktor Kürstgens <zdagiltmsj@lexqcfbwbn.vw> writes:
+
+
+Nichtdeterminitische Ergebnisse sind per manpage nicht zu erklären.
+
+Derzeit hab ich teilweise deutsche, teilweise englische Ausgaben.
+
+Theodor
+-- 
+Ich brauche DAS nicht! [Sébastien]

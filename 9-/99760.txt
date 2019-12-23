@@ -1,0 +1,11 @@
+q65f5z@dfkiqkicj.oc (Andree Schoen) writes:
+
+
+hauke@obrien:~$ ls -l /dev/audio
+crw-rw----    1 root     audio     14,   4 Jul  5  2000 /dev/audio
+
+Ist ein Characterdevice...
+
+Valerian
+-- 
+Ich brauche DAS nicht! [Oscar]

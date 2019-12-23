@@ -1,0 +1,13 @@
+Leo Baslers <cg@garbers.org> writes:
+
+
+Mir ists aufgefallen, als ich im tin versehentlich "&" getippt
+habe... 
+
+
+Supper... macht mein Gnus auch, alles, die im Scorefile stehen, werden
+grün eingefärbt...
+
+Kaspar
+-- 
+DAS verrät doch alles. [J.L.]

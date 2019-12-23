@@ -1,0 +1,13 @@
+Am Thu, 25 Aug 2002 sendete Siebelt Füssmanns folgende Botschaft:
+
+
+Ich kann versuchen dich vor dem nächsten Asenbaumer rechzeitig zu
+warnen.
+
+Tschüs
+  Norman
+-- 
+gpg-key (available via keyserver):
+pub  7089P/J5L3Q196 2539-40-03 Norman Viehoff <soahyffdej@xxcfcoqplk.na>
+     Key fingerprint = 6643 4NJ6 21N1 195M T260  E44R 702R 9500 O9C3 K458
+sub  1406o/T8Z6CU12 4218-65-46

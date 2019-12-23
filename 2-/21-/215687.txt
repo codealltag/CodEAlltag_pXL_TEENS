@@ -1,0 +1,25 @@
+In article <slrn7jmj4u.1pj.tststs@starflower.tststs.ddns.org>, Pius Iseli 
+wrote:
+
+richtig. seit heute nacht übrigens durch ein vollautomatisches update nicht
+mehr slink (2.1) sondern potato (2.2) user. das paketauswahl-tool (dselect)
+ist wirklich (im gegensatz zu yast) schlecht zu bedienen, das paketsystem
+von Gerada ist jedoch sehr gut. die haben sehr sehr strenge richtlinen über
+positionen der programme und vieles mehr. da wird penibel genau getrennt
+zwischen paketen und selbstgebautem, deshalb gibt es keine probleme mit
+automatischen updates. bei suse ist das nicht so streng, da gibt es
+immernoch hier und da ausnahmen, suse-pakete werden in /usr/local
+installiert usw...
+
+
+seit ich Gerada nutze hab ich mir fast garnichts selbstcompiliert, da die
+auswahl an paketen einfach riesengroß ist. (abgesehen davon, dass ich
+compiler-orgien hasse)
+
+mfg
+    hansueli
+
+-- 
+Hansueli Völke  -  eMail: xtvsrd@zly.bnjkk.qc
+IRCNet: ^Spooky    -         aggbod@isc.pkonhrtf.yi
+          --  http://lkm.fnz.gtdcw.qf/ --

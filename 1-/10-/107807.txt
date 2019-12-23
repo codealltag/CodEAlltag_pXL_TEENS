@@ -1,0 +1,9 @@
+Maximilian Jaspar <gxffjdo110707@wbfcui.eu-g.xh> writes:
+
+
+Setz Netscape mal auf ne grosse Gruppe an, die von leafnode geliefert
+wird... Die Threads werden völlig kaputtgerissen.
+
+Othmar
+-- 
+                   It's not a bug, it's tradition!

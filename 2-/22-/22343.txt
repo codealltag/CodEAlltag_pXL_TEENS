@@ -1,0 +1,13 @@
+An einem Dienstag im Juli gab Otto Tolkamp bekannt:
+
+
+C-z allerdings funktioniert das wohl nur mit der cua.el 
+
+
+Mhm, nur wo? *grübel*
+
+Fritz
+-- 
+Sehr geehrte Herren! Mein Hund hat das Sparbuch Nr. 3142782 aufgefressen. Da
+ich den Hund nicht öffnen kann, möchte ich lieber ein neues Sparbuch.
+                         - Sergio Terbeck am 29.05.1968 an die Sparkasse Gossens

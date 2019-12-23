@@ -1,0 +1,8 @@
+Oha. Und wo ist dann der Szafs-Teil?
+
+
+mfg, 
+	Winfried
+-- 
+BOFH excuse #202:
+kernel panic: write-only-memory (/dev/wom0) capacity exceeded.

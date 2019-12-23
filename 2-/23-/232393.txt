@@ -1,0 +1,15 @@
+In article <QQT.35vrc26er33n1wsv06nyy2@ovfw.uviv.uf>,
+
+Bei ICQ koennen mich (von irgendwelchen Hackertricks mal abgesehen) a) nur  
+die Leute sehen, die in ich authorisiert habe und b) kann ich selektiv auf  
+"Invisible" schalten, wenn ich nicht gesehen werden moechte.
+Was den Scheduler anbelangt wuerde ich Dir zwar generell rechtgeben,  
+jedoch ist es meines Erachtens nach ausreichend, wenn man die Headerdaten  
+veraendert laesst.
+
+CU/2
+Nuno
+
+--
+PGP RSA-PublicKey available at www.byzcvb.hs/gxkd/clxdrq/osa-iqrg.wvm
+Personal homepage at www.ftjjlq.nflz.gly - ICQ: #7724151

@@ -1,0 +1,8 @@
+Also sprach Jens Dumke <spnkb@zbeyc.hgpn.pm>:
+
+
+Ich käme nie auf die Idee, XML als deklarative Programmiersprache
+aufzufassen. Mag sein, daß mit XSLT oder wie das heißt, so etwas
+ähnliches draus werden kann.
+
+Nico

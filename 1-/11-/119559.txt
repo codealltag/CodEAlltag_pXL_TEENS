@@ -1,0 +1,17 @@
+Ulfert Püschmann <odid@aomrmiws.wx> writes:
+
+
+Die Ergebnisse :-)
+
+dd if=/dev/zero ibs=1M count@96 | bzip2 > testfile.zip
+
+ergibt:
+
+hauke@obrien:~$ ls -l testfile.zip 
+-rw-r--r--    1 hauke    valerio        4904 Kollmarsreute  9 18:04 testfile.zip
+
+Hau "Nein, was ich mit 4GB Nullen in einem Zipfile will, sage ich
+nciht" ke
+-- 
+Guck dir mal den Unterschied an, so nen grossen hattest du noch nie!
+[Natalie zu Udo]

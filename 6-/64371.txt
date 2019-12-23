@@ -1,0 +1,10 @@
+Jens Geißhardt <tmevhge561024@nvvtce.mg-h.lj> writes:
+
+
+Nicht wirklich. War auch auf anderer Hardware mit anderem Bediener zu
+reproduzieren. Ergebnis: Da läuft jetzt postfix, der lief nach 5
+Minuten...
+
+Edo
+-- 
+Experience is something you don't get until just after you need it.

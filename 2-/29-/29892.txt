@@ -1,0 +1,9 @@
+Also sprach Rebecca <Cklumf-T@nlg.jik>:
+
+
+bb(n) für n=Infoszaf, wobei der numerische Wert von Infoszaf in
+<vm6p9i51h3keqjgpo1ns1vdrs1u2n7cg9w@3cc.cdm> nachzulesen ist.
+
+bb ist die Busy-Beaver-Funktion.
+
+Bernard

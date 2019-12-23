@@ -1,0 +1,7 @@
+Jup7: Australien.
+
+mfg, 
+	Thierry
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

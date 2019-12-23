@@ -1,0 +1,11 @@
+* Karlheinz Lütke-Wenning <epnwdojyoccjmg@cqx.srv>:
+
+
+Wann muss ich dir denn gratulieren?
+
+BTW: Mit Gnus kannst du gruppenabhängig Sigs setzen. Und einen Rotator
+gibt es auch. :-)
+
+Sven
+-- 
+cross veinless

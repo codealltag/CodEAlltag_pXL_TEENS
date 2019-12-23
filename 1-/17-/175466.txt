@@ -1,0 +1,9 @@
+Roman Redlingshöfer wrote:
+
+User-Agent: ngkx/8.4.1.5 (OS/2)
+                          ^
+
+-- 
+Patrick
+"Am I human ?    Or am I just programmed to believe I am human ?"
+                                                 - Ingmar V. Oberlander

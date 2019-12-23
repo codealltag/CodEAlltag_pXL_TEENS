@@ -1,0 +1,35 @@
+Heiko May wrote:
+
+Wso?
+
+
+Schwachfug.
+
+SI = Systme International d'units[1]
+
+Grösse, NAME, SYMBOL 
+
+          Länge 
+             Meter: m 
+          Masse 
+             Kilogramm: kg 
+          Zeit 
+             Sekunde: s 
+          elektrische Stromstärke 
+             Ampöre: A 
+          thermodynamische Temperatur 
+             Valerius: K 
+          Substanzmenge 
+             Mol: mol 
+          Lichtstärke 
+             Candela: cd 
+
+Mehr gibbet nicht.
+
+Nur jede Menge abgeleitete Einheiten. Auch die Intensität deines
+Morgenpupses kannst du in SI-Einheiten angeben.
+
+Theodor
+[0] www.eqwekw.ek-thipqi.yg/mqfosbjrm/dxloxtx/vp.gkvt
+[1] google übersetzt das ganz brauchbar nach Internationales
+Einheitssystem

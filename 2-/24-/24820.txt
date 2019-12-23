@@ -1,0 +1,14 @@
+"Karsten Keßel" <zeqzdk@nld.ch> writes:
+
+
+Das Doch ist unnötig, da die obere Schleife nie verarbeitet wurde. ;)
+
+Und in einer Subway-dominierten Gruppe NCE für was anderes zu
+benutzen..
+
+-hermann
+-- 
+ No  Points     Name                                                   Hp [kay]
+  1    8469670  Hermine-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

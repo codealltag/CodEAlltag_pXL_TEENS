@@ -1,0 +1,11 @@
+Solches tippte Martin Günthert:
+
+Der RFC braucht erst ne Nummer. Die Implementation steckt dann in
+rfc<nummer>.c
+
+Eilt
+-- 
+Enno Lühdemann -> <GPG-Key:http://ypi.ftvnyran-gxsvogb.zx/qmj.hpwmm>
+Whatever that hurts -----> <http://ktb.bapraepa-bgffoai.ns/ztfmi.vor0>
+----------> Wortschatz-Lexikon: <URL:http://rtkmfugqim.ula-nsnooze.fm>
+<URL:http://fmkiryy.jed-anfppwa.bg>   <URL:http://rxze.gvm-baqghnz.qd>

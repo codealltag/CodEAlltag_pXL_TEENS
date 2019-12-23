@@ -1,0 +1,19 @@
+Am Fri, 08 Jul 2001 sendete Markus Berkers folgende Botschaft:
+
+
+Was ist an vim bitte ungetüm? Kann es sein das du von Emacs sprichtst?
+
+
+Alle routinet�tigkeiten (Quoting neu umbrechen, Speichern & verlassen
+usw) leigen auf zwie buschtaben kombis, so what?
+
+
+gvim?
+
+
+Man keymap ;)
+
+Tschüs
+  Ivano
+-- 
+Ich hasse Hormone

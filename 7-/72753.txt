@@ -1,0 +1,11 @@
+Tino Hönscheid hat geschrieben getan getutet:
+
+
+Liegt wohl daran, dass ich ein 'o' verschluckt habe.
+
+-tim
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Nico 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,13 @@
+"Thierry Cieslok" <rllb@bpxzxqxo.bt> writes:
+
+
+Das kann auch schön daneben gehen...
+
+00:0a.0 Multimedia audio controller: Ensoniq: Unknown device 5881 (rev 02)
+
+Dass sich dahinter ein es1371-kompatibles Gerät verbirgt muss man auch
+erst herausfinden...
+
+Hans
+-- 
+DAS ist nicht mein Problem! [Manne zu Helen]

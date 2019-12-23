@@ -1,0 +1,5 @@
+Waldemar Vehns wrote:
+
+?
+Jede Kühlschrank könnte ein Modem ansteuern wenn er eine serielle 
+Schnittstelle hätte.

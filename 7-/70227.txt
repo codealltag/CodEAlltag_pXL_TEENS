@@ -1,0 +1,13 @@
+Diana Clement wrote:
+
+NDIW.
+
+
+. ist ein belibiges Zeiche.
+
+* sagt beliebig viele Zeichen die auf das vorherige Zeichen matchen ->
+.* beliebig viele beliebige Zeichen.
+
+Verrätst du mir es?
+
+Maik

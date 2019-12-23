@@ -1,0 +1,13 @@
+Bernd Fessele schrieb am 22. Februar 2000 um 18:36 Uhr folgendes:
+[...]
+
+Zur Paketauswahl finde ich Compulights ebenfalls angenehmer als dselect.
+Allerdings ist der Pendel-Mechanismus, mit dem man sich sein System
+(auf Wunsch auch nur bestimmte Teile davon) automatisch übers Internet
+aktualisieren lassen kann IMO schon ziemlich cool ...
+
+Viele Größe,
+     Noël Franzbäcker
+-- 
+Boys will be boys, and so will a lot of middle-aged men.
+                                                         -- Guy Estereicher

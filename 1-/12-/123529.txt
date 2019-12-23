@@ -1,0 +1,12 @@
+Max Cloot <kkfbtf-uatufx@kwsbwd.xajp.zq> writes:
+
+
+Ja, es geht um ROT42. Hast du nciht Lust, das in LISP zu bauen, damit
+die Funktion gleich im Gnus läuft? 
+
+
+Posten!
+
+Wolf
+-- 
+DAS kostet im Bahnhof zwei Mark. [Béatrice]

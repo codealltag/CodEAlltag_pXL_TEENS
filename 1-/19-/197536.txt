@@ -1,0 +1,17 @@
+------
+18:26:44 ~$grep '^de\.' /usr/news/spool/articles/de/admin/lists/49
+wa.ocga.izvuxm                                    73921     04660.82 0.00 %
+------
+
+und zwar ist das aus:
+
+------
+From: swzu@yn.qd.juj (News-Administrator)
+Newsgroups: de.admin.lists
+Subject: TOP 100 Newsgruppen (nach Artikel-Anzahl) fuer Monat Lfc40
+Message-ID: <7qibu7$g1l$1@newspeer.do>
+Xref: bhazetqkmc.bxwegbd.ou xb.afgvp.sbsul:70
+------
+
+Tschüs
+  Sascha, ohne worte.

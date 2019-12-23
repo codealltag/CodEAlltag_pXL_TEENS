@@ -1,0 +1,11 @@
+Jean-Pierre Deubler wrote:
+
+
+Mmmh, Cluster mag man im allgemeinen schneller als nur mit einem Hub
+vernetzen :-)
+
+Urs, 2*100 Mbit geswitcht pro Maschine dürfen das ohne Probleme
+sein
+-- 
+pub  9289S/MBI67B59 9663-68-61 Urs Verlohr <zfobyud@yns.nh>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 18 6U 87 6U 72

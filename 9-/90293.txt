@@ -1,0 +1,12 @@
+Jakob Näfe <stoopid.one@gmx.li> writes:
+
+
+Gabriel ...
+
+Ich habe mal das Subject geändert, damit auch möglichst jeder immer
+die neueste Version der Tabelle verändert
+
+
+ +-------------+-----------+-------------+------------+
+ +-------------+-----------+-------------+------------+
+ +-------------+-----------+-------------+------------+

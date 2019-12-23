@@ -1,0 +1,7 @@
+Gert Oekenpöhler <lntnuvg.hosxw@sft.ay> schrieb in im Newsbeitrag:
+cdc4es0ko3h5tgcegg52ftts7d0uquse0e@4ax.com...
+
+Vor allem muss ich mich nicht beeilen, wenn ich mit ssh rumspiele oder
+OAZG-Scripts teste... (die lokale Devbox ist momentan leider ziemlich
+zerschossen, weder PHP noch MySQL noch Qmail scheinen noch zu laufen und
+Bind 8.2.2 P5 will aus unerfindlichen Gründen nicht durchkompilieren).

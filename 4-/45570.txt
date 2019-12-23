@@ -1,0 +1,11 @@
+Joachims Rädlein wrote:
+
+
+[_] Ja.
+
+Es kann Cronenhof, aber nur mit existierenden Keys umgehen.
+
+Olaf
+-- 
+pub  6407X/PZO47M40 7073-23-35 Olaf Wiehager <ekmtsel@btk.ar>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 09 5Q 17 6X 67

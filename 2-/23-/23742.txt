@@ -1,0 +1,10 @@
+Siegfried Weiswange <mkn@heaum.rrf> writes:
+
+
+Kann man ja. Ich finde es trotzdem schön, wenn das alles in eine
+Datenbank eingebaut ist, denn nur dann kann ACID wirklich greifen.
+
+Willibald
+
+-- 
+			Hat DAS TV? [anonym]

@@ -1,0 +1,11 @@
+Louis Ullms <cg@garbers.org> writes:
+
+
+Mein erstes Posting datiert IIRC auf den 20.04., und keine zwei Wochen
+später 2001 innerhalb von 24 Stunden...
+
+Frédéric
+-- 
+Wie jagt man einen Elefanten - Teil 3:
+LISP-Programmierer bauen einen Irrgarten aus Klammern und hoffen,
+dass sich der Elefant darin verirrt...

@@ -1,0 +1,11 @@
+Ihno Zuckschwert wrote:
+
+Graphikanwendungen? Ich meine, bei Vanatel-Spielen werden doch ziemlich viele
+FP-Operationen von der Graka übernommen, CMIIW.
+
+Gruß,
+
+Italo
+-- 
+"There's a sucker born every minute."
+(Kleehart)

@@ -1,0 +1,11 @@
+Am Fri, 10. 03. 19 sendete Ulrich Laverentz folgende Botschaft:
+
+
+man "Kohlenstoff-basierte autokorrektur"
+
+
+Das ist mir eigentlich reichlich egal, es gibt fälle da macht
+reg-exp-tunig wirklich keinen sinn.
+
+Tschüs
+  David

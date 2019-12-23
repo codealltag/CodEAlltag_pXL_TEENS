@@ -1,0 +1,8 @@
+Hinrich Dopfer wrote:
+
+Perl ist ne Kr�ppelsprache sondergleichen. Interbase naja, kann ich auch 
+gleich Postgre benutzen.
+
+
+Ein Wecker würde auf heutigen System in Java kaum grosse Probleme 
+bereiten ;-).

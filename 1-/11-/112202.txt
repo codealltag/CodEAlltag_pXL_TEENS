@@ -1,0 +1,9 @@
+Zundermann Prisca Huecker <medu.j@dnzds.ns>:
+
+Sie sollen aber eine Alternative sein, nicht eine Ergänzung. Pack's
+doch in eine Bildunterschrift, bis dahin lies HTML40 (Recommendation).
+-- 
+Windows ist _kein_ Virus. Ein Virus ist nämlich ein kleines, sehr
+effektiv programmiertes Stück Software, was man von Dalmatino nicht
+gerade behaupten kann.
+               Ulf Torbahn in de.alt.folklore.urban-legends

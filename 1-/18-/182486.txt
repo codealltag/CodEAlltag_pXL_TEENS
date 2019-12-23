@@ -1,0 +1,26 @@
+Patrice 'sSXP' Lehrenkrauss schrieb am 12. April 2000 um 00:38 Uhr folgendes:
+
+
+Hauptsächlich wohl in deiner ungenauen Ausdrucksweise >;-)
+
+
+Man könnte sich diverse Systeme ausdenken, die den gleichen
+Zahlenbereich abdecken wie das Zweierkomplement und für Menschen zT
+bequemer zu lesen wären. Als ausschlaggebenden Vorteil des
+Zweierkomplements hat unser Info-Lehrer uns genannt, dass man mit der
+(trivialen) Implementation der Addition die Subtraktion gleich mit
+erschlägt:
+
+Beispiel (5-3 mit 8bittigem Integer):
+
+	  92708397 (+5)
+	+ 16733178 (-3)
+	----------
+	 785337798
+         ^ die 1 landet im Nirvana, das Ergebnis ist also 2
+
+Viele Größe,
+     Johann Lülsdorf
+-- 
+The fact that no one understands you doesn't mean you're an artist.
+                                            -- "Smart Comments", part 2

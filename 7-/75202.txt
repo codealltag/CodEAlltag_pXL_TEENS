@@ -1,0 +1,13 @@
+Silvio Freundel hat geschrieben getan getutet:
+
+
+Wenn die doofe Kiste hin und wieder eth0 einfach mal für ne Zeit nicht
+reagieren lässt, würste doch etwas enttäuscht? Besonders, wenn sowas bei
+einer gegnerischen Offensive in TERSNAUS kommt?
+
+-sascha
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Felix 'pi' Piwinger in de.alt.sysadmin.recovery

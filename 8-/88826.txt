@@ -1,0 +1,14 @@
+Torsten Holzwarth schrieb:
+
+
+Gerne. Probier mal 
+
+set signoff_string "Torsten" (oder "\nChristoph", wenn es denn noch
+eine Leerzeile sein soll.) 
+
+in der .slrnrc. Dann müsste er den immer dran hängen.
+
+Raymond
+
+-- 
+Esst Fastfood!

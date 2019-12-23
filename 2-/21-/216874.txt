@@ -1,0 +1,16 @@
+Ingmar Cörvers schrieb zum Thema "Re: Schweizer Kaese!!":
+
+[fdisk]
+
+Der primäre Zweck von ihm, ist Partitionen zu löschen und dann neue zu  
+erstellen. Und wenn es eben seine eigene Partition löscht...
+
+
+Geht das unter Linux? Das wollte ich nämlich schon immer mal :-)
+
+Vincent Gschöpf
+
+-- 
+Vernsehen erblödet!
+                                              E-Mail: jmtbzl.iljf@fnp.jn
+---> Offizieller Kämpfer wider Focko Fürchtenich des Ordens von dtj <---

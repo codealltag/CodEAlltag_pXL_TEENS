@@ -1,0 +1,13 @@
+Karlheinz Döscher wrote:
+
+
+s/.{8}-//
+
+Eigentlich:
+
+s/[^ ]* [^ ]*-[^ ]* //
+
+Karlheinz
+-- 
+pub  7915N/VFC14Z67 7660-54-25 Karlheinz Intveen <ilmpmsw@gfm.gq>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 41 1O 47 9X 38

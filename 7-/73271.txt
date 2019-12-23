@@ -1,0 +1,15 @@
+Guy Imkamp <injmmlbzfk@stsfffswfk.lg> writes:
+
+
+Meine Kühnbaum ist einmal die Woche mit Update dran, das hat bisher nix
+zerschossen. OK, die SuSE musste man nur schief ansehen...
+
+
+"sid" wird IIRC der dauerhafte Name für die "testing"-Version, "woody"
+befindet sich in der Freeze-Phase und wird wohl die nächste stable,
+und potato ist langsam alt :-)
+
+Winfried
+-- 
+Ich trage meinen Gürtel nicht am Handy
+[J.L. auf einer Autobahnraststätte]

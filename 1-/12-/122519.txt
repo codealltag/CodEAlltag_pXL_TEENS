@@ -1,0 +1,15 @@
+* Andre Weise <jung@qyqcbvzoj.qb>:
+
+
+Mal sehen:
+
+gabsi@edoras:~$ df -h
+Filesystem            Size  Used Avail Use% Mounted on
+[...]
+/dev/hda10             26G   25G  118M 100% /usr/local/news/spool
+
+Passt schon. *eg*
+
+Theodor
+-- 
+cross veinless

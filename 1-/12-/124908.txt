@@ -1,0 +1,9 @@
+Markus Uhlenbruck wrote:
+
+Mich aber.
+Du musst sowieso viel Zeit haben wenn du jetzt sogar nach sss zurueckkehrst :)
+
+-- 
+Denis
+if(!exit(1))
+  fprintf(stderr, "exit call failed.\n Program will continue.\n");

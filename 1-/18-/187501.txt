@@ -1,0 +1,8 @@
+Nein.
+
+f(x)=x^n -> f'(x)=nx^n-1
+
+-- 
+sSXP
+
+Science is what happens when preconception meets verification.

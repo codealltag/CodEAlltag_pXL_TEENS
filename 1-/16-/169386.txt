@@ -1,0 +1,9 @@
+Jean Deutschland <wfvmlin_vtqeqdv@cch.hj> schrieb in im Newsbeitrag:
+88ms78.5o.0@news.buz.ch...
+
+Uups.. Jetzt dupet das blöde OE auch noch. Erst crashen, über 7000 Mails ins
+Nirvana reissen (aus irgendwelchen Gründen crasht das blöde Importtool wenn
+man versucht, die Database wieder einzulesen) und nun das...
+
+CU
+Jean

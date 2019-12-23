@@ -1,0 +1,13 @@
+Am Mon, 17. 09. 19 sendete Ottmar Leitmeier folgende Botschaft:
+
+
+Sicherheitsrelevante Software kompiliert man immer selbst. Es ist schon
+schlimm genug das man selten die Zeit und können hat die sourcen zu
+Kontrolieren.
+
+Tschüs
+  Gerhard
+-- 
+Die Weisheiten des Juppi Jup: #2
+
+Man sollte am frühen Morgen nicht seinen Laptop auseinander nehmen.

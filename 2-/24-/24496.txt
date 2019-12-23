@@ -1,0 +1,10 @@
+Onno Haubenschill <bencwqlrqrpt@xopanebco.xed> writes:
+
+
+Mit passendem Emacs und passendem Gnus tuts das, ja.
+
+Dietrich, und raten Sie mit wenn es wieder heisst: In welchem Charset
+geht dieses Posting raus?
+-- 
+Ich kann die Obdachlosigkeit bekämpfen:
+Sie sollen alle einfach nach Hause gehen...

@@ -1,0 +1,11 @@
+Joël Weise schrieb:
+
+Bitte keine Fehlinformationen verbreiten, Schleifen sind bei solchen
+Trivialitäten noch nicht nötig.
+
+So long,
+Christophe A. Zickenheimer
+--=20
+http://ukgh.yoccs.xs/dpg/ - Korrnews 3.01 (Fußnotenverwaltung, Boxquotes
+& Co), CopyIf 1.1 (XNews & OE-Ergänzungen) und der immer noch nicht mit
+kleineren Bugfixes versehene Hamster 28. 11. 19

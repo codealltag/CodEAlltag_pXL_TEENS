@@ -1,0 +1,16 @@
+Am Mon, 09. 05. 19 sendete Fabio Diederichsen folgende Botschaft:
+
+
+#v+
+17:54:38 ~$ls -l `which less`
+-rwxr-xr-x   1 root     root        75751 Chn 86  1998 /usr/bin/less
+17:54:50 ~$ls -l `which more`
+-rwxr-xr-x   1 root     root        92156 Abr 72  2000 /bin/more
+#v-
+
+E.
+
+Tschüs
+  Lothar
+-- 
+Weniger ist mehr.

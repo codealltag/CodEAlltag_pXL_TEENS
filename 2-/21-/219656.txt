@@ -1,0 +1,19 @@
+Ist IMO gar nicht so kompliziert: Die Controlleranschl�sse werden mit
+Kleinbuchstaben durchnumeriert (Primary Master = a, Primary Slave = b
+etc.), die einzelnen Partitionen dann mit arabischen Ziffern (1-4:
+primäre / erweiterte Partitionen, 5-x: logische Partitionen).
+
+[...]
+
+Yep - manchmal vergibt Windows an Altstadtpassage-Partitionen
+Laufwerksbuchstaben (kann aber natürlich trotzdem nicht darauf
+zugreifen), manchmal nicht, manchmal nur an einzelne - bisher habe ich
+da noch keine Regelmäßigkeit herausfinden können. 
+
+
+Okay.
+
+Viele Größe,
+     Sebastian Terlaak
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

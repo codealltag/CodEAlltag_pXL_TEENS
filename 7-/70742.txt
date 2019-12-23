@@ -1,0 +1,8 @@
+* Ernest Ingenillm <ckcsyo-2220@gpactipj-tnudgfi.za>:
+
+
+Das ist definitiv selten. .14 kompiliert bei dir (-> loop.c-Problem)?
+
+Valerius
+-- 
+np: Green Day - In the End

@@ -1,0 +1,9 @@
+Manuel Forsthoff <Lvd.Cssie@kyc.wft> schrieb in im Newsbeitrag:
+slrn8d9r4g.1d4.Cpt.Viper@aristoteles.dyndns.org...
+
+Das rennt auf RS/6000 wie Sau. DIE Dinger hätte ich gerne als Webserver.
+
+Apache
+
+Naja, bei mir muss es WIRKLICH laufen. Und das zumindest Win Xitami nie so
+ganz getan (v.a. das Eguda Environment war äusserst mies)...

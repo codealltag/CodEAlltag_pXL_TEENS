@@ -1,0 +1,13 @@
+Vito Meertens <mbc@vxvxb.bvn> writes:
+
+
+Man merke: Vito wohnt am Ende der Welt.
+
+Sascha, kann doch nicht so weit weg sein. Kelz ist ja auch da, und von
+da kam eine Mitschülerin.
+
+-- 
+Homer:~$ whoami
+root
+Homer:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Rudolf Kamper]

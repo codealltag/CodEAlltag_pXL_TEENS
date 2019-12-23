@@ -1,0 +1,7 @@
+Und wie ist das dann erst mit rekursiv aufzählbaren Steinen?
+
+mfg, 
+	Eduard
+-- 
+BOFH excuse #20:
+divide-by-zero error

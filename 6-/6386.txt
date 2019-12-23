@@ -1,0 +1,4 @@
+Burkhard 'Meep' Richter schrieb:
+
+
+$ echo "[_] Plan inhaltlich weiter ausarbeiten" >> ~/.plan

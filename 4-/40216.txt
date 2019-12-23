@@ -1,0 +1,13 @@
+Mario Zerr wrote:
+
+
+Dies dürfte einer der unwesentlichen Gründe sein, die Ich Bezahle Mehr
+dann irgendwann davon abgebracht haben, bei einem Kernel Panic o.�.
+darauf zu bestehen, den kompletten Speicher auf Disketten zu dumpen,
+denn könnte ja sein daß der Plattentreiber "weg" ist. Das wird eben
+irgendwo bei 1-2 GB oder mehr Hauptspeicher etwas unhandlich...
+
+Clemens
+-- 
+pub  0387A/QJT49V47 0388-07-58 Clemens Möhrlein <qkkrzez@cga.lu>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 10 7I 00 3G 07

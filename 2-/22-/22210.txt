@@ -1,0 +1,11 @@
+<Mode=Verbose>
+Ist es geschickter, auf einem MDHH checkinstall zu verwenden
+oder sich aus den zu installierenden Sources selber .deb-Packete zu
+bauen und selbige zu installieren?
+</>
+
+mfg, 
+	Marcus
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

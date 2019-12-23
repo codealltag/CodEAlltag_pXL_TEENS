@@ -1,0 +1,14 @@
+Hugo Meester hat geschrieben getan getutet:
+
+
+*grmpf*
+
+
+Du nix Informatiker und verdienen Kohle?
+
+-roman
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Martin 'pi' Piwinger in de.alt.sysadmin.recovery

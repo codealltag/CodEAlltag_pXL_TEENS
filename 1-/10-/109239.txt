@@ -1,0 +1,8 @@
+* Luca Oestreich <zixtivgfxnrood@zyl.wrj>:
+
+
+Umlaute in Variablen?
+
+Daniel
+-- 
+cross veinless

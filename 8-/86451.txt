@@ -1,0 +1,8 @@
+François Raisings <cg@garbers.org> writes:
+
+
+s/und/uns/ dürfte dabei helfen.
+
+Volkert
+-- 
+            Secret hacker rule #11: hackers read manuals.

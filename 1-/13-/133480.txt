@@ -1,0 +1,12 @@
+Am Fri, 09. 12. 19 23:04:23 +0100 schrieb Christophe Jocob:
+
+
+Mein Agentfind spuckt folgendes aus:
+
+71 671 257 196 3157549 749
+
+Diese eine lange Zahl deutet sowas zumindest an, würde ich sagen *g*
+
+-- 
+"Du nimmst mir das Wort aus dem Mund. Was soll ich denn noch sagen?" -
+  "Ich habe Hunger?"                      [Therese Junger in dtju]

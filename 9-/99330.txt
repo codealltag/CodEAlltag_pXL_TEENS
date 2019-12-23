@@ -1,0 +1,13 @@
+Am Tue, 21 Nov 2001 sendete Simon Vorwald folgende Botschaft:
+
+
+Das musst du aber dann erstmal per malloc auf die grüsse von name_len-4 
+bringen. In einen zeiger auf ein char passt nix rein.
+
+
+Das wäre die quick&dirty methode.
+
+Tschüs
+  Urs
+-- 
+Notorisch Schreibfaul.

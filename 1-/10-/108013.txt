@@ -1,0 +1,11 @@
+Und so sprach Gerard Czichos:
+
+
+Vergiss NN 4.x. Das Scheissteil kennt nicht mal "width"-Attribute fuer
+<td>, weder HTML noch CSS. Es ist von seinem behaemmerten
+Ausgleichsalgorithmus so ueberzeugt ...
+
+Gruss,
+Orlando.
+-- 
+Kriechstrom ist eklig.

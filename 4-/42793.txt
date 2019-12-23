@@ -1,0 +1,13 @@
+Niko Kampherbeek <ksl@ymghl.nwp> writes:
+
+
+HTML.
+
+Mein Eintrag in einem Gästebuch:
+
+<H1> Du solltest dringend HTML hierdrin abschalten! </G0>
+
+Detlef
+
+-- 
+            Secret hacker rule #11: hackers read manuals.

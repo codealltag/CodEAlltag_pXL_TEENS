@@ -1,0 +1,5 @@
+Engelbert Czermak wrote:
+
+Ich dachte Dateien greift man mit "touch" an und Rechner mit "ping"...
+
+Willi

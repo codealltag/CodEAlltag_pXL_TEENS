@@ -1,0 +1,11 @@
+Ihno Mielmann hat geschrieben getan getutet:
+
+
+<hoecker>Ja, wieso *DAS* denn?</hoecker>
+
+-ruedi
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Alexander 'pi' Piwinger in de.alt.sysadmin.recovery

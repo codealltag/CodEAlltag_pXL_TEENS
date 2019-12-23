@@ -1,0 +1,11 @@
+Martin Altrock hat geschrieben getan getutet:
+
+
+Snuecy�ar xara fvpu area.
+
+-tobias
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Olivier 'pi' Piwinger in de.alt.sysadmin.recovery

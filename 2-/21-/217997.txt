@@ -1,0 +1,9 @@
+Sag das Wilma.
+
+BTW, hat Windows ueberhaupt ein Hostfile ?
+  Ich habs mal geloescht, weil ich keine gefunden habe :)
+
+-- 
+Helmuth
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

@@ -1,0 +1,11 @@
+Und so sprach Nico Vortkamp:
+
+
+Ich bin ja kein Menschenfeind. Ausserdem habe ich schon schlimmeres
+gemacht.
+
+Thomas, Viba-Shop installiert, z. B. :)
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

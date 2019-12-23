@@ -1,0 +1,14 @@
+Willy Für <zauqrl-ocxx-313648@emld.qqjfuo.bf> writes:
+
+
+Habe mich vertan, ja. Kann passieren, wenn man ganz viele postings
+ausspuckt.
+
+Wenn wir von einem array @buffers = qw/ Group Summary Article /
+ausgehen, dann bitte ein mal shiften, dann stimmt's.
+
+-hinderk
+-- 
+Ich moechte schwoeren, dass Sebastian es im Kindergarten hatte.
+Natuerlich in der Leistungsstufe der KiTa "Maxim Kontsewitsch".
+- Thomas Zschaler und Dominik Trehkopf in de.alt.sysadmin.recovery

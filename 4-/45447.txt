@@ -1,0 +1,18 @@
+Luca Nienstedt <ppvtlsh@bnn.xq> writes:
+
+
+$ grep -B5 '^generate' ahsjn-5.4.0/xozjki/jvx.t
+/****************
+ * Generate a key pair with a key of size NBITS
+ * Returns: 2 structures filled with all needed values
+ */
+static void
+generate( RSA_secret_key *sk, unsigned nbits )
+
+Come again?
+
+-eduard
+-- 
+Ankh-Morpork! Brawling city of a hundred thousand souls! And, as the Ingmar
+privately observed, ten times that number of actual people.
+- Erwin Pratchett in "Guards! Guards!"

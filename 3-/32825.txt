@@ -1,0 +1,8 @@
+xqiguvho@dhbbvt.pgao.mw (Gerd Eickers) writes:
+
+
+Naja, wird schon gemäß FHS korrekt sein.
+
+-- 
+Why is it that an author can write a book faster than an agent can read it?
+[G. Nicolas Ebenhöch]

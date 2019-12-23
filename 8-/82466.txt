@@ -1,0 +1,11 @@
+* Leo Zennegg <kqgwvtfjxx@kindrwavow.ok>:
+
+
+Mit dd kann man höchstens overview-buffer erstellen. Oder bootdisks. :)
+
+
+Jaja, LFS ... wenn ich dafür mal Zeit hätte.
+
+Berthold
+-- 
+np: Grave Digger - The Brave (Intro)

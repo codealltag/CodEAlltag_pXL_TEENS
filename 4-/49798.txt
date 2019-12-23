@@ -1,0 +1,7 @@
+Stephan Eiching <epvo@czzypbp.ka> schreibselte:
+
+[Code]
+Ja, aber Objekte sind so ziemlich das einzige, was C++ auszeichnen...
+Egal, lassssen wir das...
+
+Krass, is der Umstieg schwer?

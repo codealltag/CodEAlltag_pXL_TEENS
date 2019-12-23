@@ -1,0 +1,8 @@
+Tobias Lohstroh wrote:
+
+
+Dabei fällt mir eine Frage für Otmar U. Bell ein: Kümmert sich der
+Hamster eigentlich um X-N-A oder cancels oder supersedes, so man die
+messages kriegt? Oder (wie) ist das konfigurierbar?
+
+Denis

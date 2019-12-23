@@ -1,0 +1,15 @@
+On Wed, 12 Sep 1998, Wolfgang Schlotthauer <pwxxoxr_raodyny@yyt.cq> wrote:
+
+[Cluster oft mit Uwet-Prozessoren]
+
+Nun ja, ich habe jedenfalls bisher noch von keinem P100-Cluster gehört.
+
+[Webserver]
+
+Yep, auf so einem Ding läuft auch der Webserver unserer LUG (Storchmühle bin
+ich gerade nicht sicher, ist aber auf jeden Fall ein 486er).
+
+Viele Größe,
+     Fernando Jansohn
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

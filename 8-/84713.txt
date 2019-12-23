@@ -1,0 +1,10 @@
+Am Mon, 3 Dez 2000 sendete Benno Irlenborn folgende Botschaft:
+
+
+gq
+
+Tschüs
+  Simon
+-- 
+Hier sollte eigentlich ein netter Satz aus "Programming Perl" stehen,
+aber leider finde ich ihn nicht wieder.

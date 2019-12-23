@@ -1,0 +1,12 @@
+On Boomtime, Day 73 of Bureaucracy 3169, Richard Denker wrote:
+
+
+X marktiert die Stelle ;)
+
+hauke@obrien:~$ locate agt | grep zip
+/mnt/e/agtfind_src.zip     <-- X
+hauke@obrien:~$
+
+Indy
+-- 
+Help fight continental drift.

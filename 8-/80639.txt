@@ -1,0 +1,9 @@
+* Wolfram Hildenbrand <hxzvvateaf@xbjeibcpez.qj>:
+
+
+Warum nimmt er nicht einfach -15 statt -1, wenn ein Zeichen vorkommt,
+das -1 nicht hat?
+
+Günter
+-- 
+np: Die Holdermann - Lass Uns Schmutzig' Liebe Machen

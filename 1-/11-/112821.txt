@@ -1,0 +1,9 @@
+* Vittorio Nunheiser <louktrv072517@bungnn.kt-c.wd>:
+
+
+Die ganze Diskussion. Wenn möglich, mbox-mäßig. So zum Reinimportieren
+in den nndoc-Server. Ja? Danke.
+
+Otmar
+-- 
+cross veinless

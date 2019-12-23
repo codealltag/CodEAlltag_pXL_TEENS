@@ -1,0 +1,16 @@
+Antoines Dannheimer schrieb:
+
+
+Ja, vim kann das. Aber kann vim auch HTML-End-Tags automatisch
+einfügen? Also so, dass beim Schreiben von <p> automatisch </p>
+hinzugefügt wird, so wie in Ullis Editor?
+
+Solange ich nicht weiß wie das geht macht es kaum Sinn vim zum
+HTML-Schreiben zu benutzen, auch wenn ich das gerne tun würde.
+
+Raphaël
+
+-- 
+Obstmarkt Money:
+  "Ein Fehler ist aufgetreten, aber wegen eines weiteren Fehlers kann
+   die Fehlermeldung nicht angezeigt werden."

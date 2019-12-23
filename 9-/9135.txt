@@ -1,0 +1,11 @@
+Rainer Cuiper <bmblz@wqdprr.johpenelk.jv> teilte folgendes mit:
+
+
+Wie meinen?
+
+-be
+
+-- 
+Edmund's Technische Praxis:
+2.11 - Ein Fehler tritt erst dann auf, nachdem die letzte
+       Kontrolle durchlaufen worden war.

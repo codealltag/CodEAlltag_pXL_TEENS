@@ -1,0 +1,11 @@
+Emil Achternbosch <tmai@pgmiftnqjzbb.uv> writes:
+
+
+Na, einen allgemeinen Graph will man aus Gründen der Übersichtlichkeit
+eh nicht. Mindestens planar sollte er schon sein. Obwohl Zyklen - in
+Maßen - manchmal recht praktisch wären.
+
+Otto
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

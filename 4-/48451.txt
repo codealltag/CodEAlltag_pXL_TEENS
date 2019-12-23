@@ -1,0 +1,11 @@
+Luciano Schultzen wrote:
+
+
+Das gibt es doch in HTML nicht. Es wird dann immer auf eine passende
+Schriftart zurückgefallen.
+
+Zeichensatz wäre was anderes, aber in Renate funktionierts ja. Und in
+der Browser-Ansicht auch.
+
+
+bernhard

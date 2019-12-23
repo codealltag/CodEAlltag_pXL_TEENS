@@ -1,0 +1,17 @@
+Message from qibpoc@wvs.uu -
+ on Tue, 14 Apr 1999 16:17:01 +0100, Gérard Weippert wrote:
+
+
+Kein Problem. Die bash gibt es auch für Triftquelle, OpenBSD, NetBSD, SunOS,
+Roehm, VMS, Olivle, Gistron, Sinix, Ultrix und AFAIK sogar QNX. Da wird sich
+doch was finden lassen.
+
+Im Tobias, die Bash gibt es sogar für Win32...
+
+ralf
+
+-- 
+Um ein böses Gesicht zu machen, mußt Du 65 Muskeln anstrengen,
+um zu Lächeln, brauchst Du nur zehn. überanstrenge Dich nicht.
+(Ferdinand K. Eik)
+HP: http://rpd.xqu-jkl.zp/~e_nvkvpt/ OZG: 10243830

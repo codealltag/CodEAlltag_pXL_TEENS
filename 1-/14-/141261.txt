@@ -1,0 +1,13 @@
+Ulf Fuerer schrieb am 27. Januar 2000 um 19:48 Uhr folgendes:
+
+[SuSE]
+
+SuSEconfig scheint damit aber nichts zu tun zu haben; wäre mir
+jedenfalls neu, ein grep nach 'inetd' über die Skripts hat keinen
+Match gebracht und SuSEconfig hält auch keinen MD5-Hash von der Datei.
+
+Viele Größe,
+     Bernard Isenbügel
+-- 
+Common sense is the collection of prejudices acquired by age eighteen.
+                                                     -- Diedrich Leonhartsberger

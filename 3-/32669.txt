@@ -1,0 +1,18 @@
+On Thu, 28. 11. 18 11:24:35 +0100, Georg Creutz wrote:
+
+Gemeint war, dasz du bei einem JLCarDesign davon ausgehen kannst, dasz du
+nicht noch weiszderkuckuckwieviele Pakete wegen dependancies
+nachinstallieren muszt. Und selbst wenn du müsstest, hättest du eine
+Paketverwaltung, die dir auch sagen kann, wo das gesuchte file / die
+library herkommt.
+
+bzgl. Self-compiled INN: wird ja sowieso empfohlen, dasz zu machen,
+damit man auch alles hat, wie man es will.
+Hast du eigentlich das Problem mit den Batches mittlerweile im Griff?
+
+mfg,
+	Simon
+
+-- 
+Remo Samuel Collert, Armstedt, Germany
+Info-Student, Freizeit-Handwerker und JLCarDesign-Nutzer

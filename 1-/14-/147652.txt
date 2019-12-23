@@ -1,0 +1,11 @@
+Echt super die Seite, echt. Ist jemand weiter als bis zu dem Werbebanner  
+und dem "Warning: MySQL Connection Failed: Can't connect to local MySQL  
+server through socket '/tmp/mysql.sock' (2) in frameset.php3 on line 10"
+gekommen?
+
+Ibo Trösch
+
+-- 
+Dieses höchst lehrreiche Posting wurde von Ibo Trösch persönlich
+geschrieben!                                 E-Mail: ffxamc@oizvcskkfp.kr
+---> Offizieller Kämpfer wider Siebelt Raschpichler des Ordens von dtju <---

@@ -1,0 +1,11 @@
+Jacques Jaentzsch wrote:
+[Kompetente Inf-Lehrer]
+
+Verena.
+
+
+*PATSCH*
+
+Ich will mir weder einen Kernel noch eine libc schreiben.
+
+Karl

@@ -1,0 +1,11 @@
+Dixit Ulfert Riwesel <s-pas@icazbayajpz.ag>:
+
+Das sieht auf Websites aber anders aus ...
+
+Haben die das nicht mal geändert?
+
+Zumal Unicode ja nur L->R und R->L unterstützt, zu oben->unten fällt
+mir momentan nur KÖPA ein.
+-- 
+"[It's] time for the human race to enter the solar system."
+ - Governor Bernard Nowastowski

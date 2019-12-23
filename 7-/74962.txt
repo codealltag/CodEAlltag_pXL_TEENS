@@ -1,0 +1,11 @@
+Christof Fot hat geschrieben getan getutet:
+
+
+Es gibt aber auch einige, die nach aussen offen sind.
+
+-carsten
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Albrecht 'pi' Piwinger in de.alt.sysadmin.recovery

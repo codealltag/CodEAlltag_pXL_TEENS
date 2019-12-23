@@ -1,0 +1,23 @@
+Paul Haemaekers meinte kundzutun:
+
+
+*Hier* nicht... bin grad sogar dabei, den Emailausgang von hier nach
+draußen "etwas" aufzubohren... *g*
+
+
+Hm. Wo anmelden? Costa la quanta?
+
+
+Sagen wir es so: Ich hätte schon gerne From:,Reply-To:,Date: (soweit
+gesetzt),Subject:,In-Reply-To:,References: und ähnlich interessante
+Header unverändert weitergegeben.
+
+Nicht so wie mekyta.l-sobzri.yy, der das From: auf die eingestellte
+Webmailadresse umschreibt... Und wenn die eben nicht eingestellt ist
+steht als Emailadresse im From eben die TOI-Anschlußkennung als
+Emailadresse...
+
+Theodor
+-- 
+Wörter des Tages
+3.8.2002: Westerwelle - Massenvernichtungswaffen - Angerhöfe

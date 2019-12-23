@@ -1,0 +1,4 @@
+Roman Vermehren wrote:
+
+Newsgroups können mit "Verwenden kein HTML" o.�. konfiguriert sein -> 
+überschreibt globale Einstellung.

@@ -1,0 +1,8 @@
+begin quoting Frieda Finkernagel <asac.c@lertz.os>:
+
+Uns zwar einer, der PHP in Dateien schreibt, für die kein
+entsprechender Handler gesetzt ist. SCNR.
+-- 
+"I have made good judgments in the past. I have made good judgments in the
+future."
+ - Governor Frerich Voltmann

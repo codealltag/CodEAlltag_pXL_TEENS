@@ -1,0 +1,12 @@
+Edouard Penndorf <funasnj@rbb.xt> writes:
+
+
+Du holst den taktischen Kleinbus und ich die Informationen, wo die
+Strato-Racks stehen.
+
+-oliver
+-- 
+ No  Points     Name                                                   Hp [gernot]
+  1    3607394  Helga-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

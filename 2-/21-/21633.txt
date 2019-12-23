@@ -1,0 +1,13 @@
+Und so sprach Daniel Ruf:
+
+
+*fortrenn* :)
+
+
+Hm, OK. *notier* Man muss ja auch die Contra-Punkte sammeln. ;)
+
+Edgar
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

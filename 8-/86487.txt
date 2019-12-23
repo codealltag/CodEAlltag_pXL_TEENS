@@ -1,0 +1,21 @@
+Am Tue, 30 Jul 2001 sendete Carl Vorstmann folgende Botschaft:
+
+
+*rhl*
+
+Stimmt das ist echt lustig.
+
+
+Ist ein Linux-rechner mit pppd und freier serieller-schnittstelle vor
+Ort? (Kippertz töten es zur not auch.)
+
+
+Zumindest nicht mir. ;)
+
+Tschüs
+  Hartmut
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Raphaël Fürhaupter, Mostly Harmless, Chapter 12

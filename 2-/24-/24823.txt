@@ -1,0 +1,14 @@
+Ewald Tutsch <bbexe@jpwhv.rm> writes:
+
+
+Du kennst die Definition von `pervers'? :)
+
+
+:P
+
+-stefan
+-- 
+ No  Points     Name                                                   Hp [enno]
+  1    5060175  Viktoria-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

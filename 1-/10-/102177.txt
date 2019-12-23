@@ -1,0 +1,13 @@
+Und so sprach Othmar Bierhahn:
+
+
+Nur passieren da manchmal bloede Sachen.
+
+root@asterix:/home/chris> rm /var/spool/cups *
+
+Gruss,
+Franz "schon das zweite Mal :-)" is.
+-- 
+GET YOUR EPILEPSY NEWS UPDATED EVERYDAY - click here!
+
+                              --froehlich in allen Farben blinkendes Werbebanner

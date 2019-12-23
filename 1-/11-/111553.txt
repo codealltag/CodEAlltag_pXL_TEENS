@@ -1,0 +1,14 @@
+o52t3a@txuecphdp.ud (Nane Gedecke) writes:
+
+
+Es soll angeblich helfen, Leute, die an der Grenze stehen, zurückzuholen.
+
+
+hauke@Kira:~ > wc -l share/gensig/taglines 
+    171 share/gensig/taglines
+
+170 Sigs (eine doppelte) selber zu wechseln ist !recovery
+
+Clemens
+-- 
+DAS kitzelt! [Klaas zu mir]

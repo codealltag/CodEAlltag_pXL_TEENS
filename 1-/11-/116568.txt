@@ -1,0 +1,14 @@
+Theo Ulferts' <cg@garbers.org> writes:
+
+
+Port 80 sperren?
+
+
+ip_masq_icq hast du drin? dann solltest du dir trotzdem mal
+Portforwarding ansehen...
+
+Gustav
+-- 
+Irgendwer hat mal geschrieben: "Man kann sich nicht selber zum
+selbsternannten DILMAC ernennen. Man wird immer von anderen zum
+selbsternannten Netcop ernannt"

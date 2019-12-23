@@ -1,0 +1,16 @@
+Solches tippte Gerard Joedicke:
+
+Also als auf den Teilen im amica-Pool (auf denen vorher /immer/ DeadRat
+gelaufen war) auf einmal auf einer Maschine ein richtiges IRIX lief,
+das aber genauso scheisze aussah wie das zerkonfigurierte DeadRat, hat
+es schon ne Weile gedauert, bis mir das aufgefallen ist, namentlich
+weil sich der gcc beschwerte, dass die OpenGL-Bibliothek doch wohl
+nicht für MIPS geeignet sei ;-)
+
+Lothar
+� 30 Sekunden? Es war ja noch N8.
+-- 
+Louis Zoepffel -> <GPG-Key:http://xxc.japuopox-zgvcpfe.dj/tsp.mscuh>
+Whatever that hurts -----> <http://xiw.etwrcrmj-bysdbwn.jr/lkjmn.qjm3>
+----------> Wortschatz-Lexikon: <URL:http://rafiajfleq.egz-spjmijn.ie>
+<URL:http://ilfpkrb.cxq-rrgwoks.cm>   <URL:http://hsic.txt-lvqfwmx.ja>

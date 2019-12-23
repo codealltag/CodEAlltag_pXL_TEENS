@@ -1,0 +1,25 @@
+Am Fri, 23 Mai 2001 sendete Raimund Verhoefen folgende Botschaft:
+
+
+Ich hab auch nie vom Guru sein gesprochen, dann wäre Linux bei weitem
+nicht so verbreitet.
+
+
+Jep, es ist halt deutlich einfacher damit.
+
+
+Das ist Ostioptik sowieso die wichtigste vorrausetzung.
+
+
+Womit wir wieder bei den Programmierkenntnissen sin. Die sind auch bei
+shellscripten hilfreich weil man sich ein anderes denken angewöhnt.
+
+Perl hat btw das problem das es zwar recht simple ist, es aber zu
+unsauberen Code verleitet.
+
+Tschüs
+  Fernand
+-- 
+Die Weisheiten des Juppi Jup: #2
+
+Man sollte am frühen Morgen nicht seinen Laptop auseinander nehmen.

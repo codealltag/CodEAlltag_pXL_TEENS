@@ -1,0 +1,12 @@
+Christophe Mittenentzwei schrieb:
+
+
+Hm, bei mir gibt es beide, aber die .jnewsrc ist so alt, dass das wohl
+von einer früheren Installation herkommt.
+
+Dietmar
+
+-- 
+  "The MS Exchange Information Store service depends on the MS
+   Exchange Directory service which failed to start because of the
+   following error: The operation completed successfully."

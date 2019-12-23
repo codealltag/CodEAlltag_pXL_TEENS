@@ -1,0 +1,11 @@
+Volker Olthof hat geschrieben getan getutet:
+
+
+Siiiiiiiiiicher.
+
+-gert
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Heiko 'pi' Piwinger in de.alt.sysadmin.recovery

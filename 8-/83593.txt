@@ -1,0 +1,14 @@
+Am Sat, 16 Mrz 2002 sendete Carsten Olbrichs folgende Botschaft:
+
+
+Ah, da ist ja ein Koli-freund. Du kannst mir sicherlich sagen wie ich
+meinem Laptop (debian Potato) beibringe das slang installiert ist (das
+ist nicht per deb sondern von hand installiert).
+
+TIA & Tschüs
+  Diedrich
+-- 
+* Recent news from http://nggf.gjvwnaorvzd.ixu/
+ -> [2001-08-20] slrn 28. 05. 20 released
+ -> [2001-08-11] slrn-announce mailing list created / wishlist reviewed
+ -> [2001-06-06] slrn 28. 05. 20 released

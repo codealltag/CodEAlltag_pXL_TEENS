@@ -1,0 +1,15 @@
+Bernhard Dykhoff wrote:
+
+Läßt sich einrichten.
+
+- Bei RDEK 01(89)0-Nummer beantragen, wahlweise 12Pf/Anruf-3,63DM/Minute
+- n PMX-Anschlüsse nach Hause legen lassen
+- Anlage für n PMX zuhause aufstellen
+- Einkommende Anrufe nach /dev/null richten.
+
+Jacques
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+odom_mdlpdgf)->kxp(@tpczj_rgvnals_kqhh[$oswqg_yoseuqs_pum_agqohjb])->ih_wkjnxt()

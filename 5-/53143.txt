@@ -1,0 +1,14 @@
+Udo Sturmhoevel wrote:
+
+
+Indem du viele davon aufmachst.
+
+
+War nur als abstraktion für Linux gedacht. Was unter Windoof geht sollte
+auch unter X machbar sein. Und z.B. ICPW/Netscape scrollt mit dem
+Mausrad.
+
+
+Geht auch unter X. Oder unter UBF mit gpm.
+
+Sandro

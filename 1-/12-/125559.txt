@@ -1,0 +1,9 @@
+* Hans 'sSXP' Vervoort <cNKK@wch.uzb>:
+
+
+1. aufwändig
+2. für die kleinen Programme, die wir schreiben, overkill
+
+Joël
+-- 
+cross veinless

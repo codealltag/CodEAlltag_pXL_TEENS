@@ -1,0 +1,13 @@
+On Tue, 09. 11. 20, Ihno Große-Frintrop <TFLrhtrcq@wuz.zc> wrote:
+
+[Men vs. Tastatenkombinationen / Kommandozeile]
+
+Mit dem Linux-fdisk bin ich (ohne ein einziges Mal die manpage gelesen
+zu haben) deutlich schneller am Ziel als unter DOS. Schon allein, weil
+es nicht nach jedem zweiten Tastendruck der Meinung ist, die komplette
+Platte scannen zu müssen.
+
+Viele Größe,
+     Ingo Lautenschlager
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

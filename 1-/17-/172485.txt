@@ -1,0 +1,11 @@
+Alberto Deißmann schrieb am 21. April 2000 um 16:47 Uhr folgendes:
+
+
+Seit wann ist das Speichern und Einlesen von Daten eine Sache des
+grafischen Frontends?
+
+Viele Größe,
+     Oliver Denert
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

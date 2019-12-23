@@ -1,0 +1,13 @@
+Weertdine Maspfuhl hat geschrieben getan getutet:
+
+
+Ach ... das ist ja schon fast ein Fall für dafu; Valerio hat einen RfD
+gestartet, und ihn dann aufgrund heftiger Proteste zurückgezogen. Das
+Detail an diesem kannst du dir ja vielleicht jagen & sammeln.
+
+-torsten
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Domenico 'pi' Piwinger in de.alt.sysadmin.recovery

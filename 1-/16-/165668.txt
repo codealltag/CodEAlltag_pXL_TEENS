@@ -1,0 +1,15 @@
+Und das Bild sieht auf jedem Win-PC mit DF-Netzwerk so aus. Wo liegt
+wohl der entscheidene Unterschied?
+
+
+Unversch��sselte PWs haben ja kaum etwas mit DoS-Attakten zu tun. Eher
+bevorzugen �berdimensioniere Sicherheitesanlagen Ansatzpunkte für DoS.
+
+
+'Userrechte' ist das zentrale Wort.
+
+-- 
+sSXP  
+      We have only two things to worry about:
+      That things will never get back to normal,
+      and that they already have.

@@ -1,0 +1,12 @@
+Luca Olds schrieb:
+
+
+Also die Festplatte sollte nicht das Problem sein und RAM eigentlich
+auch nicht. Der Prozessor macht eigentlich die Hauptarbeit. Der IYW 177
+sucht z.B. im 10Mbit Netzwerk radikal viel schneller als der P120
+daneben.
+
+CU
+Jacques
+-- 
+Macht Watt ihr Volt.

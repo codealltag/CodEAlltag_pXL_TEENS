@@ -1,0 +1,14 @@
+* Kaspar Glücksmann <bprcxov350897@nqpisz.pi-m.cb>:
+
+
+gabsi@edoras:~$ which cat
+/bin/cat
+
+gabsi@elrond:~$ which cat
+/bin/cat
+
+Viele Katzen.
+
+Helmuth
+-- 
+np: -

@@ -1,0 +1,10 @@
+Benno Elfenbüttels <woequa-yrhw@pee.on> writes:
+
+
+Ist mir dann auch aufgefallen, beim C&P...
+
+Thierry
+-- 
+a + b = c [Pythagoras]
+E = m*c [Einstein]
+=> E = m*(a + b)

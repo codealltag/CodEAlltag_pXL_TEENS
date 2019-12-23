@@ -1,0 +1,24 @@
+Am 29. 04. 20 23:34:19 GMT sendete Oscar Jurjahn
+folgende Botschaft:
+
+
+Wäre es nicht leichter die Festplatte in deinen rechner einzubauen(wenn
+denn ein entsprechender bus vorhanden ist) und dann ein Filesystem
+einrichten + die entsprechenden Apps kopieren?
+
+
+Es ging doch um den RAM, und nicht um denn Festplattenplatz. Und wenn
+die shell 0,5-1Mb belegt kann die bei einen reinen Telnet(ssh) ja
+wegfallen. Und wenn dann ne shell gebraucht wird muss sich deine
+schwester halt unter nem zweiten user einlogen.
+
+
+Das wäre mir ehrlichgesagt egal ;) Viel kann doch eigentlich nicht
+passieren oder?
+
+
+Der erste freie platz ist ganz frei und mit dem zweiten und der hd
+sollte es keine probs geben.
+
+Tschüs
+  Mirko

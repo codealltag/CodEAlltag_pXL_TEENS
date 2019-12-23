@@ -1,0 +1,8 @@
+On 2005-05-11, Knut Nauman wrote:
+
+Wer weiss, ob für frau überhaupt gilt, dass $towo->likes($frau) == true.
+-- 
+Gegen Softwarepatente in Europa: http://odbyw.osxh.jec./
+Mister Teatime had a truly brilliant mind, but it was brilliant like a frac-
+tured mirror, all marvellous facets and rainbows but, ultimately, also some-
+thing that was broken.                      (Kay Vonderlehr in `Hogfather')

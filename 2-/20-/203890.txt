@@ -1,0 +1,13 @@
+Am Mon, 24 Jun 1999 sendete Valerian Miedema folgende Botschaft:
+
+
+Ziemlich.
+
+
+Das ist aber dann nichtmehr cleanfeed(aka 'filter_innd.pl') sondern ein
+filter der direkt auf das gepostete wirkt (filter_nnrpd.pl) der aufbau
+dürfte ähnlich sein, nur sollte es dann eigentlich eine fehlermeldung
+geben.
+
+Tschüs
+  André

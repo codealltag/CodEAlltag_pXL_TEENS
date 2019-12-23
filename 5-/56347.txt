@@ -1,0 +1,9 @@
+Erhard Junghans wrote:
+
+[Elektrikerarbeitsregeln]
+              ^^^^
+
+Geht nicht mit einer Hand zu bedienen -> Ergo wird ein zweiter
+Elektriker benötigt.
+
+Didier

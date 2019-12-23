@@ -1,0 +1,22 @@
+On 30 Okt 1999, Volkmar Johansmeier <lmwsvwmbfa@uyzfnpjcin.pj> wrote:
+
+['References:' zu lang]
+
+Ich nehme mal an, daß das ganz einfach daran liegt, daß sowohl slrn
+wie auch Gravity sehr lange Message-IDs erzeugen.
+
+
+*shrug* AFAIK sind die 998 Zeichen noch nicht einmal vom RFC
+vorgeschrieben, sondern nur eine Uhren-Empfehlung.
+
+
+Ich habe ein wenig im Sourcecode gewählt und denke, daß ich das
+Problem entdeckt habe - Einzelheiten wirst Du dann ja schon in
+news.software.readers zu sehen bekommen :) Wenn ich mit meiner
+Vermutung richtig liege, dürfte Kurt' Problem damit aber nichts zu
+tun haben...
+
+Viele Größe,
+     Oskar Johannisbauer
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

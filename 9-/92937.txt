@@ -1,0 +1,11 @@
+Ullrich Stieger schrieb the following
+in a Newsbeitrag called <3x54rn$ogitm$2@TU-32008.nnms.rkvfyj.zd>
+
+
+Aber nur die Funktion des Start-Men-Öffnens. Während Windows+E den 
+Explorer öffnet oder Windows+Pause den Gerätemanager, funktioniert das 
+mit Strg+Esc+E bzw. Strg+Esc+Pause nicht.
+
+
+-- 
+   :: bf ::

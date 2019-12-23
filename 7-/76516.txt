@@ -1,0 +1,10 @@
+Heiner Kalleder <zppuyvv591106@dlgrtu.ed-q.ow> writes:
+
+
+Ist bei uns halt so geregelt.
+
+Claudio
+-- 
+a + b = c [Pythagoras]
+E = m*c [Einstein]
+=> E = m*(a + b)

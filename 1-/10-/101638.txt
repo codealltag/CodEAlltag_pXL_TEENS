@@ -1,0 +1,11 @@
+"Nane Laufenberg" <guqi@bfjkhiom.ox> writes:
+
+
+War unter X Standard bei mir...
+
+Ansonsten: IIRC heisst das Teil "Xkeymap", damit sollte das auch
+klappen, dass du umbelegst...
+
+Benno
+-- 
+Math problems?  Call 1-800-[(10x)(13i)^2]-[sin(xy)/2.362x].

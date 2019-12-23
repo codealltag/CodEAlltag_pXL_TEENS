@@ -1,0 +1,7 @@
+-v bitte.
+
+mfg, 
+	Oscar
+-- 
+BOFH excuse #342:
+HTTPD Error 4005 : very old JPZ cpu - insufficient processing power

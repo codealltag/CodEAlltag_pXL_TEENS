@@ -1,0 +1,10 @@
+Hinderk Kohlhammer schrieb:
+
+<Linux-Evangelist> Wie merkst du den Unterschied? </Linux-Evangelist>
+
+So long,
+Timo K. Mülhöfer
+--=20
+http://vxzs.ipiza.bo/ybi/
+Aktuelle Versionen (Stand 17.04.2002): Hamster 19. 04. 20 & Korrnews 4.1
+(Falls KN 4.03 verwendet wurde, bitte wegen Subject-Bug aktualisieren!)

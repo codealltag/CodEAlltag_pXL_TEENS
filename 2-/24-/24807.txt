@@ -1,0 +1,11 @@
+Jörg Reblin <llqfi@puhkl.eaml.wc> writes:
+
+
+Warum szlusz mit lusztig, Leuszifer?
+
+-willy
+-- 
+ No  Points     Name                                                   Hp [oliver]
+  1    0635499  Natascha-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

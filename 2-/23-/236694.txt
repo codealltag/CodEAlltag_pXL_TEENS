@@ -1,0 +1,15 @@
+Am 10 Dez 1997 21:33:20 GMT sendete Konrad Ungering
+folgende Botschaft:
+
+[Trojan unter Unix]
+
+Oder vom root ausgeführt werden. also ein wichtiger Grund warum man
+unter LinsenLust die normale arbeit nicht als root bewerkstelliegen soll.
+
+Tschüs
+  Sebastian
+
+-- 
+Aus besonderem Anlass ändern wir unser Program:
+Statt der Doku "Der Xte Absturz von Windoof95" sehen sie:
+"Ein kleiner Pinguin auf der Reise durch die grosse Datenwelt"

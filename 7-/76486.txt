@@ -1,0 +1,11 @@
+Fabio Rebers hat geschrieben getan getutet:
+
+
+Warum sollte es auf einer amerikanischen Wetterseite nicht stehen?
+
+-serge
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Gérald 'pi' Piwinger in de.alt.sysadmin.recovery

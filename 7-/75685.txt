@@ -1,0 +1,11 @@
+Louis Vermeeren hat geschrieben getan getutet:
+
+
+Das merkst du jetzt erst?
+
+-enrico
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Benjamin 'pi' Piwinger in de.alt.sysadmin.recovery

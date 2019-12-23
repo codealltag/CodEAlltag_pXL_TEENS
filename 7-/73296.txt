@@ -1,0 +1,13 @@
+Björn 'sSXP' Knierriem hat geschrieben getan getutet:
+
+
+Das Farblayout geht ja.
+
+Aber der Inhalt entspricht beepworld-niwo.
+
+-alain
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Gustav 'pi' Piwinger in de.alt.sysadmin.recovery

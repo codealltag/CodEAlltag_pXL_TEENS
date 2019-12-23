@@ -1,0 +1,14 @@
+Otto Trosiner hat geschrieben getan getutet:
+
+
+man Szafspfoten
+
+
+Lokale Variable, das.
+
+-otmar
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Lukas 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,6 @@
+Dennis Kroon wrote:
+
+Jepp, so sollte es sein.
+
+
+Durch einen erneuten Aufruf der Routine mit Länge 0 z.B.

@@ -1,0 +1,10 @@
+Und so sprach Florian Vogtschmidt:
+
+
+Caesar wurde erdolcht, nicht verschlüsselt.
+
+Willibald
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

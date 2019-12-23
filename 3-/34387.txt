@@ -1,0 +1,17 @@
+Im März schrieb Charly Abelns folgendes:
+
+
+Definitiv. Einfach nur das tar.gz in das richtige Verzeichniss kippen,
+fertig.
+
+Aber ich hab mir heute mal den aktuellen Gnus via CVS gezogen und
+kompiliert. Macht einen sehr guten Eindruck, außerdem habe ich einen
+neue Lieblingsfunktion. M-x morse-region. *g*
+
+../.../- -../---/-.-./.... --././-./../.-/.-../--..-- -./../-.-./..../-/..--..
+
+Torsten
+-- 
+Konfigurationsdateien sind schwierig zu erstellen, da muss es auch
+schwer sein, diese nachtraeglich zu verstehen.
+(Philipp Heese in de.alt.arnooo)

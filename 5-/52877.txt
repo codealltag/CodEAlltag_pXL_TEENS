@@ -1,0 +1,10 @@
+Fridolin Süssenbecker wrote:
+
+
+Naja...
+
+
+Warum hast du Shodan dann nicht von Hand runtergefahren sondern den
+USV-Daemon gestartet?
+
+Daniel

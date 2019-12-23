@@ -1,0 +1,24 @@
+On Tue, 1 Feb 2000 20:12:39 +0100, Sandro Appelt <wxlnalok@exdj.bbrz.zw> 
+wrote:
+
+oh sorry, das war auf die höheren raten bezogen. bei 128k empfinde ich auch
+einen unterschied, allerdings finde ich man kann ihn z.b. bei
+party-berieselung per mp3 vernachlässigen.
+
+
+ich hab den eindruck, der (um ein vielfaches langsamere) fhg-codec ist
+qualitativ besser als der von xing im audiocatalyst. aber der audiocatalyst
+liefert für seine geschwindigkeit auch beeindruckende ergebnisse. ich denke
+da muss es irgendeinen grund für geben, weshalb die "erfinder" von mp3
+zigfach langsamer sind als xing, und ausser der qualität fällt mir keiner
+mehr ein. (das alte argument, xing sei so schnell weil alles über 16khz
+abgeschnitten wird stimmt jetzt angeblich nicht mehr, xing soll jetzt bis
+22khz hochgehen)
+
+mfg
+    walter
+
+-- 
+- Walter Anderssen  -  eMail: gitebd@gpx.fciuh.gc
+- IRCNet: ^Spooky    -         gjeihj@mnb.lxppjupx.dt
+--

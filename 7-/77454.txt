@@ -1,0 +1,11 @@
+Karola Jancker hat geschrieben getan getutet:
+
+
+Soviel zu "dtju liest man ganz oder gar nicht".
+
+-veit
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Kurt 'pi' Piwinger in de.alt.sysadmin.recovery

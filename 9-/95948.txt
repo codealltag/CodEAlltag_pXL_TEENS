@@ -1,0 +1,10 @@
+Gar nicht?
+
+
+kernel, IIRC. It's been a while... i
+
+
+Ich hätte prinzipiell keine Bedenken, "Home" remote zu mounten...
+
+
+Man könnte ja bspw. auch ganz einfach alle r/w calls blockieren...

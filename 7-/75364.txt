@@ -1,0 +1,12 @@
+Eckhard Unverzagt hat geschrieben getan getutet:
+
+
+Weisst du, Rainer, telnet als root solltest du auf jeden Fall erlauben.
+Und taskselect/dselect sind prima Installer.
+
+-carl
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Stefano 'pi' Piwinger in de.alt.sysadmin.recovery

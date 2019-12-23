@@ -1,0 +1,9 @@
+Also sprach Fabrice Bohlke <mkovulgtup@raxbmxzsqp.du>:
+
+
+Das hat man wohl schon aufgegeben. Nein, jetzt will er, daß USEFOR ihm
+seinen Message-ID-Standard absegnet, bei dem Binaries durch eine
+Zeichenkette in der MID gekennzeichnet werden. Oder so ähnlich
+jedenfalls.
+
+Anton

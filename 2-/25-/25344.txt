@@ -1,0 +1,12 @@
+Ich hätte noch 
+'kill -s SIGUNSZULDIGKUCK $Szlauszaf.PID'
+(so du einen Sighandler hast...).
+
+
+*unszuldigzur�ckkuck*
+
+mfg, 
+	Emil
+-- 
+BOFH excuse #236:
+Fanout dropping voltage too much, try cutting some of those little traces

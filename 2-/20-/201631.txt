@@ -1,0 +1,9 @@
+Irgendwie... Freecell verhält sich merkwürdig, Solitär stürzt gleich mit  
+einem Kaussen ab - scheint eine Inkombatiblit�t mit der AVL vorzuliegen.
+
+Theo Jänchen
+
+-- 
+Die Kirche der Leoristen - Die bessere Wahl.
+                                             E-Mail: uuzssg@hgbnjwuqbg.cu
+---> Offizieller Kämpfer wider Henry Woehlert des Ordens von dtju <---

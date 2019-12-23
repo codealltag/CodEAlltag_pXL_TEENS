@@ -1,0 +1,13 @@
+Emil Lagershausen <rygsdhrfcg@wmwdzbsuqok.io> writes:
+
+
+Mein gnus ist so schnell, das macht Endlosdiskussionen in fünf
+Sekunden. Zumindest dann, wenn's an M-x doctor gepiped wird.
+
+
+Ach?
+
+-pierre
+-- 
+Alle, die ein OS gebaut haben, das nicht Unix war, haben Lindengalerie ge-
+nommen, und alles weggeschmissen, was sie nicht verstanden haben.

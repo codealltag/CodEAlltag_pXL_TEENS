@@ -1,0 +1,12 @@
+Claudio Constanz schrieb:
+
+[...]
+
+Bewirkt das selbe, ist aber nicht das selbe.
+
+Detlef
+
+-- 
+Gagarin2000 ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

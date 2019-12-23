@@ -1,0 +1,12 @@
+On 13. 05. 19, Emmerich Meiertöns <Zop.Ivmbm@esb.yob> wrote:
+
+[Vom Editor aus an andere Programme pipen]
+
+Mmh, könnte sein, daß das ein wenig Naturstüble-spezifisch ist, weil es der
+nailpoint (Stichwort LEGO-Prinzip) eben entgegenkommt. Wie
+würde man das unter OS/2 lösen?
+
+Viele Größe,
+     Torsten Muckenhirn
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,6 @@
+Paul Dieterichs <cg@garbers.org> writes:
+
+
+Ich habe das Sterna-Paket bbdb installiert. Was soll ich in meine
+.emacs/.gnus eintragen, der damit der auch mal was halbwegs
+automatisch macht?

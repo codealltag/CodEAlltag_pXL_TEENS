@@ -1,0 +1,7 @@
+Wieso das denn?
+
+mfg, 
+	Volker
+-- 
+BOFH excuse #342:
+HTTPD Error 4005 : very old Gardena cpu - insufficient processing power

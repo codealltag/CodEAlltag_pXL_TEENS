@@ -1,0 +1,18 @@
+brrrr liebe mitlebenden! hallo counterstriker! hi pots! hola kamele!
+
+Andree Zenke <mniyeshyjjm.57@vqoukwoytke.md> brrrrte folgendes von
+sich:
+
+
+Ich will es eben Standardmässig so und mit einer Ausnahme, die dann so
+ausieht:
+
+<p>
+Hier ist der linke Text      Und im selben P soll er auch rechts sein!
+</p>
+
+Und das in einer Zeile!
+
+-- 
+Normale Steigerung halt.
+                 [Onno Da-Silva und Volkert Glockentöger]

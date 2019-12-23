@@ -1,0 +1,11 @@
+Hansjörg Gscheidle hat geschrieben getan getutet:
+
+
+Soon.
+
+-hubert
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Nane 'pi' Piwinger in de.alt.sysadmin.recovery

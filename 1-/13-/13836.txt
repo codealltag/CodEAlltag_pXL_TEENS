@@ -1,0 +1,11 @@
+Knut Pletner <KKHHIM@ekrvzhzemzdmdzdlon.ee> writes:
+
+
+Ein ganz normales if-Konstrukt. Frag mich nicht warum, aber der Begriff
+"if-Schleife" scheint sich mehr und mehr unter den Anfängern
+durchzusetzen. :-(
+
+Othmar
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

@@ -1,0 +1,22 @@
+Solches tippte Niko Mölder:
+
+Das ist natürlich ein Argument: "*hmpf*"
+
+
+Zugegeben, ich muss da mit mehr Daten fertig werden. Nett ist der
+Zeitvergleich der Index-Aufbauzeiten: swish++ ca. 90 Minuten -- MySQL-
+Volltextindex: 2 Monate, dann irgendwann nach zwei Wochen "repair with
+keycache" abgebrochen.
+
+
+"Irgendwann..." gabs es da nicht mal ein grauslichtes Lied?
+
+
+Da Du auf dem Server nicht wirlklich was ändern kannst, würde ich's
+am ehesten mal in dciw.authoring.misc probieren?
+
+Denis
+-- 
+Denis Rempening -> <GPG-Key:http://mws.devucwtq-afgbtlk.ip/kqa.mpsdo>
+--------------> Fachlexika-Portal: <URL:http://cmexazu.qsm-dnkyese.zs>
+---------> Wortschatz-Lexikon:  <URL:http://lmxokmpogy.vfg-ajsbikf.ak>

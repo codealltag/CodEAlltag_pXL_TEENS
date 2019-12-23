@@ -1,0 +1,96 @@
+STATISTIK NCVMCL 2833
+-=-=-=-=-=-=-=-=-=-=-
+
+DAU-Niclas
+
+Pos. DAUs  Msgs   Ratio  Name
+---------------------------------------------------------------------------
+  1   150     1  150,00  rfttas@efcbrlv.eey
+  2   252     2  126,00  "Schüleraustausch USA" <oyzl@cnbr-txgylj.at>
+  3   100     1  100,00  mxtsej@rtpwi.tls
+  4    88     1   88,00  <julp-56688@cjmfpiw498595.ki-i.lb>
+  5    65     1   65,00  Mohamad <opbrrsmu@gvg.nu-oyzyno.xd>
+  6   190     3   63,33  spambot@stopspam.org
+  7    36     1   36,00  "MAD" <ghaylyijwwFAZ@gaozt.coe>
+  8    32     1   32,00  rvrtftapc@iiwwqzeo.jxy (Hiltrud)
+  9    29     1   29,00  "Pierre Wassum" <p.rgskwxs@uik.gp>
+ 10    22     1   22,00  Vincenzo Kickelhain <Iqfywzhc_xyjavp_dnbvr@qmysvdf.pro>
+ 11   364    17   21,41  "Catherine" <Tpwhccus.Wbuloegqh@i-zbimcf.gh>
+ 12    40     2   20,00  viotecyncx@um-jgnk.smr
+ 13    18     1   18,00  "vipery" <rzuzrj@axh.sr>
+ 14    15     1   15,00  "MOP-CLUP" <ooz-ljva@bpx.qn>
+       15     1   15,00  zncojaixo.rndq@bgaqen.tv (jochen)
+       15     1   15,00  <bijs-18681@fymrrmr441468.ke-y.yl>
+       15     1   15,00  p1564562@rj-gbfl.rec
+       15     1   15,00  Marguerite <usuwf06@rql.hfu>
+       45     3   15,00  Charly <rkglfwosvttavlz@ln-dxue.jkt>
+ 20    14     1   14,00  "mad" <itaaozajza@hmhpu.tmi>
+ 21    12     1   12,00  "thorsten-girl" <ptgpr-bura79@sxl.mcqvkon.km>
+       12     1   12,00  <jdiw-56937@ssmewxv926257.lj-c.dy>
+       12     1   12,00  "jsvf.kkl.enixavx.zsf" <dqstvh.gdlvs@eqkhtyc.fnb>
+       24     2   12,00  "quint" <mczda@k-icydud.if>
+ 25  1044    94   11,10  pnbrmu@mupyztlja.ca (Serge Felsberg)
+ 26    11     1   11,00  "m" <p@ijbmw.gca>
+       11     1   11,00  "Fulgor" <Wcgbuprfd@lzb.ew>
+       11     1   11,00  ubhxcj@mnfsmys.fqf
+ 29   800    73   10,96  Pierre 'sSXP' Jennerjahn <vGQV@dfa.omm>
+ 30    54     5   10,80  "by: strain+" <shlqmq@hsmxwoa.bk>
+ 31    42     4   10,50  user <jbw@bpih-oq.tz>
+ 32    10     1   10,00  eqazqsraan@cxgvjobmks.zij
+       10     1   10,00  drjhwpkhxomrlsbwer@wz-hhse.npd
+       10     1   10,00  Joachim <R.Eafkrga-Cptvpby@mardkzi.jf>
+       10     1   10,00  ssoq@nomslefpqfx.hdc
+       10     1   10,00  fallingstar <sfzgry_n@cfgdKVOEmgwqz.yje>
+       10     1   10,00  Frantactical Fruke <sktthudl@gan.ox>
+       10     1   10,00  lamton001@yahoo.com.hk
+       10     1   10,00  dlvecz@a.rzu
+       10     1   10,00  pghrya@xopwj.mlm
+ 41     9     1    9,00  <xlqc-44053@aboimev107752.bf-c.jf>
+        9     1    9,00  <jntz-30429@gkdplbc592513.qh-f.nf>
+ 43  1422   181    7,85  Pierrette Mögele <temsqdcdy@pnxsj-fvubjc.cp>
+ 44    24     4    6,00  <kapq.ehmkmkegu@kdvgha-bqgvbngg.ur>
+ 45  1058   195    5,42  <qoihrvv@whryg-fyp-xvtc-dcng.wlh>
+ 46   226    43    5,26  Hrl.Dcmmw@oil.bqd (Jann Jurk)
+ 47  2492   476    5,23  idokvb.sjuqxzbmzhr@u-puhmhd.zc (Pauline Kopperschmidt)
+ 48  1117   217    5,14  temsqdcdy@pnxsj-fvubjc.cp (Pierrette Mögele)
+ 49    10     2    5,00  <mlcqkrd.gldiuumk@wocoey.wypuetc.cj>
+        5     1    5,00  "Gaetano S" <MweixtaxSbajq@ykpzytfca.pk>
+ 51   100    29    3,45  "Gerhardine Nehmiz" <Wcgbuprfd@lzb.ew>
+ 52  2497   760    3,28  cderexlqs.hedloggyf@bqnkldsrr.rs
+ 53     3     1    3,00  "Volkert Graute" <Kiixldtfnlzw@ecbmzpp.auc>
+ 54    33    16    2,06  iepaoi@nqw.the (Othmar Klindert)
+ 55     2     1    2,00  "Joan Ma" <kmkrld9739@slkmsqpo.dnc>
+        2     1    2,00  "Kristin Zinkler" <rdsy@enshu-kvaviwcn.nv>
+        2     1    2,00  "Vito Jaedecke" <BwxcieEjohtmt@luxrxisdym.go>
+        6     3    2,00  "Osmana Bin Laden" <shlqmq@hsmxwoa.bk>
+ 59    72    41    1,76  "Gerd Sobotta" <jdxjcg@decqkt.hp>
+ 60     3     2    1,50  "Fred Heydel" <bs@ock.px>
+        6     4    1,50  "Bruno Scherbarth" <soyvfx@oup.ec>
+ 62    24    17    1,41  "Fred Jaenichen" <rlqsqav_ybksmx@jxk.xi>
+ 63    21    15    1,40  Wilhelm Proehl <klak@ddzblzp-uvnmaqlq.cg>
+ 64     8     8    1,00  "Maurice Daebel" <qpxb@cjpxmotggu.jj>
+        1     1    1,00  Erhard Eiber <hdiqi@owwi.xoo-at.qk>
+        1     1    1,00  "Pierre Corzilius" <rp-aesvjnof@yifjxzlwyg.jg>
+        1     1    1,00  "Simon Pöttcher" <vtswa_istji@ajb.yyf>
+        1     1    1,00  "Pierre Evertz" <arqovesx@mac.fvy>
+        1     1    1,00  "Pierre Schellhorn" <mpyjeu@juryicedv.se>
+        1     1    1,00  "Simon Averwald" <eltgl@inl.vm>
+        1     1    1,00  "Valentina Jungschaffer" <whswqoi@rcy.xo>
+        1     1    1,00  Simon Thurau <gkhqun@rmu.ihj>
+        1     1    1,00  "Joseph Fais" <dwhowjmkjl@hkl.eq>
+ 74    60    92    0,65  uccysght@y5ydmb.pfg (Jörg Noël Vinnen)
+ 75    25    56    0,45  Pierre Weiermann <vboqa_nngaoi@iyx.kp>
+ 76   121   346    0,35  fleysjxago@tuejdrfebs.cx (Wolf Jonson)
+ 77   141   418    0,34  Philippe Mögele <vubwfb@sizwd-gihawe.mu>
+ 78    30   105    0,29  lkrrci@afiav-dzlauk.py (Philippe Mögele)
+ 79    33   321    0,10  cqxf.gkzgjpve@xtp.cu (Josefine Wilk)
+ 80     1    71    0,01  ZyholhObjlgbsry@s-wrdlpw.wt (Berthold Würthle)
+(81)   10  1740    0,01  ubucon@hnhysvjige.hx (Pierre Mekelnburg)
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 27. 02. 20 von Nils Kreß.
+(Darstellung angepasst von Pierre Mekelnburg)
+Basierend auf den Feeds von:
+zqsqwtzp.gechr.zq       epvq.dfa.wla.mv          wvfw.pmncifv.bge
+eugh.jgb.owg            orin.zmr-nnxwvzys.jv     ayqc.muk-onairbm.tl
+kjfc.yrt-qlvaahwmc.wk   ngqy.wbksnt.te

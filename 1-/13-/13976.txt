@@ -1,0 +1,12 @@
+Karl Jaruschs <cg@garbers.org> writes:
+
+
+[...]
+
+
+Schau doch eher einfach nach, ob dein Client leere Bodies verschicken
+kann. 
+
+Siebelt 
+-- 
+"Volker war ein Optimist."

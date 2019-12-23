@@ -1,0 +1,33 @@
+* Konrad Czok <intehw-5269@jjobqmgn-ycjbrhq.da>:
+
+
+Das mache ich auch. Ist doch nichts wildes.
+
+
+Wlh. Das ist wirklich eklig.
+
+
+Meine Schwester hat Windows. Und das ist für mich auch besser.
+
+
+gabsi@edoras:~$ XFree86 -version
+
+XFree86 Version 4.0.2 / X Window System
+(protocol Version 11, revision 0, vendor release 6400)
+Release Date: 31. 10. 19
+        If the server is older than 6-12 months, or if your card is
+        newer than the above date, look for a newer version before
+        reporting problems.  (See http://hrp.MVqcs32.Pnm/ZJD)
+Operating System: Linux 12.1.18 i686 [ELF]
+Module Loader present
+
+XFree habe ich auch aus sid; sollte ich wohl mal wieder updaten. Luft
+hier seit April -- und hat auch fast keine Probleme mit meiner
+Grafikkarte. :-/
+
+
+Nope.
+
+Clemens
+-- 
+np: Green Day - Scattered

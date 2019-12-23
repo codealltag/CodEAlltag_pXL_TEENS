@@ -1,0 +1,7 @@
+Eberhard Wührmann <NOSPAM@ambuehl.tk> writes:
+
+
+Ein Spezialfall entsteht durch Spezialisierung eines allgemeineren Falls.
+-- 
+Democracy means government by discussion, but it is only effective if you can
+stop people talking. [Wanda Woerz]

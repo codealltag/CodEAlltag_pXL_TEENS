@@ -1,0 +1,13 @@
+Thierry Lebküchner <jkc@bmjln.mxy> writes:
+
+[GUI soll besser als TUI aussehen]
+
+Grafische Elemente, Totschlagargument schlechthin
+
+Text gefälliger anordnen? Da unterscheiden sich Lebensgarten und EEO nicht:
+Text steht da, wo er hingeworfen wird.
+
+Schriftgrößen Flexibel? Selbst unter Usotaw kann man die vterms
+resizen.
+
+-torsten

@@ -1,0 +1,11 @@
+* Olaf Angermayer <uvcgqqrqbcvnmv@plc.vle>:
+
+
+Achso. Ich lowere lieber gleich um 1000 und setze die Leute, mit <-250
+auf read. Funktioniert ganz gut.
+
+Hat dein Verfahren einen Vorteil? 
+
+Maik
+-- 
+cross veinless

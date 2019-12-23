@@ -1,0 +1,8 @@
+begin quoting Fabrice Zweipfennig <pr@nlkfnoh.hqf>:
+
+As I already said in <17a7v4.1us.0@eahm.tllch.mttee.ri>.
+-- 
+- Macs sind für die, die nicht wissen wollen, warum Ihr Rechner funzt.
+- Linux ist für die, die wissen wollen, warum er funzt.
+- DOS ist für die, die wissen wollen, warum er nicht funzt, und
+- Windows ist für die, die nicht wissen wollen, warum er nicht funzt.

@@ -1,0 +1,20 @@
+* Ronald Frickhofen <xmbrax@kpxwlpswrca.ql>:
+
+
+XEmacs kombiniert doch zwei dir gewohnte Tastenkombinationen. Strg + X
+und danach Strg + S speichern das gerade geöffnete File. Ist das so
+ungewohnt?
+
+                                                ^^^^^^^
+
+Der beste "Postcardware" Text-Editor auf der Welt? :)
+
+
+Hast du dir den Agent einrichten _lassen_? *g*
+
+
+Schrecklich, ne?
+
+André
+-- 
+cross veinless

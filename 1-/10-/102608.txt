@@ -1,0 +1,9 @@
+* Friedrich Petzschmann <dvsqbt@clrhwp-ntpxptm.hb>:
+
+
+Was soll das bei Gnus? AgtFind setzt auf dem Agent auf, und zwar nur auf
+dem Agent.
+
+Samuel
+-- 
+cross veinless

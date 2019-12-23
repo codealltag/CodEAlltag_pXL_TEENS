@@ -1,0 +1,8 @@
+Olivia L Lawrenz schrieb:
+
+Die Geschwindigkeit und die Interoperabilität bei verschiedenen
+Standards am gleichen Bus. Und die Tatsache, das man mit SCSI
+ganze Plattenschraenke an einen Rechner baumeln kann.
+
+mfg, 
+	erich

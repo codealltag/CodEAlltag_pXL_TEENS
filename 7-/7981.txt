@@ -1,0 +1,8 @@
+Helmuts Verwohlt <gkkv@orukxtlkosb.bl> writes:
+
+[dsf 4.19]
+
+Gustav
+-- 
+BOFH #310:
+asynchronous inode failure

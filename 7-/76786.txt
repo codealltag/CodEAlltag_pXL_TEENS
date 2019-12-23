@@ -1,0 +1,11 @@
+Marcel Nienhausen hat geschrieben getan getutet:
+
+
+Die Bedingung der Verfügbarkeit muss ja auch gegeben sein..
+
+-otto
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Luis 'pi' Piwinger in de.alt.sysadmin.recovery

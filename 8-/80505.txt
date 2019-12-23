@@ -1,0 +1,15 @@
+* Arthur Laborn <fmryoaeqe.ehvqsn@lxihyxsz.ne>:
+
+
+Das ist doch ... Quatsch. Warum das denn?
+
+
+Nicht schaudern, bewundern.
+
+
+gabsi@edoras:~$ echo $EDITOR
+vim
+
+Carlos"Fragen?"toph, ;)
+-- 
+np: Bad Religion - Incomplete

@@ -1,0 +1,12 @@
+Benno Gföller <vprpch-tehj-779406@isba.kukvhh.je> writes:
+
+
+../-.-./.... ..../.-/-.../... .-./..-/-./-/./.-./--././.-.././..././-./.-.-.- ---/..../-./. --/-....-/-..- ..../....-/-..-/-----/.-./-....-/.-././--./../---/-./.-.-.-
+
+
+Hau "M-x morse-region" ke
+-- 
+                              *** Werbung ***
+"Klebriger, klumpiger Reis? Das muss nicht sein! Denn jetzt gibt es
+Uncle Ben's klebrige, klumpige Nudeln!"
+                              *** Werbung ***

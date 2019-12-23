@@ -1,0 +1,11 @@
+Simon Lütterforst <qxynn@edtnn.um> writes:
+
+
+Letzteres. über ersteres weiss ich nichts.
+
+-benjamin
+-- 
+ No  Points     Name                                                   Hp [simon]
+  1    6373210  Susi-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

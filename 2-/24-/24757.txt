@@ -1,0 +1,11 @@
+Johann Jüngerman <rtsdz@ioxie.uekh.kk> writes:
+
+
+War der jetzt flach oder war der gut?
+
+-luc
+-- 
+ No  Points     Name                                                   Hp [vincent]
+  1    3232092  Jessica-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

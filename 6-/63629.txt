@@ -1,0 +1,12 @@
+Gregor Herdemerten <dawvgs_46-44@zgnw.mymgdh.gk> writes:
+
+
+Naja, Firewalling am Frühstückstisch haben wir schon auf dem Fimpler
+realisiert. Im Endeffekt war dann ein "TTL expired" zurückzugeben, war
+nix mehr drin... Durch geschicktes Umrouten war dann aber die
+Versorgung mit Naturproduktelädchen zu sichern.
+
+Kaspar
+-- 
+There's no real need to do housework --
+ after four years it doesn't get any worse.

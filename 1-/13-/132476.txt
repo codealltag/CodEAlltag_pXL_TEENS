@@ -1,0 +1,10 @@
+* Oskar Niedieck <dlfzyhm281361@piesvh.ze-i.um>:
+
+
+Ja, für manche scheint das ein Betriebssystem zu sein.
+
+Gibt es Emacs für Windows? Ich habe ja nur XEmacs. :-b
+
+Samuel
+-- 
+cross veinless

@@ -1,0 +1,56 @@
+STATISTIK 20. 11. 19
+-=-=-=-=-=-=-=-=-=-=-=-=
+
+TOP 5 POSTER 2001 (Gesamt)
+
+Pos.  Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+   1   8557  Oscar Dollt       31       -1
+   2   7666  Véronique Voege      28       ö0
+   3   7635  Laurent Feltgens      28       -1
+   4   6153  Georg Gutjar       23       -1
+   5   2844  Ulf Dahlman        17       -1
+
+
+TOP 5 POSTER (in einem Monat) SEIT 2000
+
+Pos.  Anz.   Monat    Name
+---------------------------------------------------------------------------
+   1   3794  12/2000  Oscar Dollt
+   2   3058  12/2000  Véronique Voege
+   3   2193  11/2000  Oscar Dollt
+   4   2121  01/2000  Véronique Vardermayr
+   5   1992  05/2000  Oscar Dollt
+
+
+TOP 5 DAUs SEIT 2000
+
+Pos.  Anz.   Msgs.  Ratio   Monat    Name
+---------------------------------------------------------------------------
+   1    238      1  238,00  05/2001  hfmnid.vbyk@gob.ia
+   2    230      1  230,00  05/2001  rnajzk@gpbhd.mj
+   3   8881     16  211,25  09/2001  paolo
+   4    401      2  200,50  03/2000  mkyxgg@pxvuuub.zcc
+   5    200      1  200,00  03/2000  pvvmb_rudvk@bxqjuew.dun
+        200      1  200,00  03/2000  ecwivp@hlpfvcj.fvq
+  (7)   200      1  200,00  02/2001  dyakbe@nfuygmonfh.upa
+
+
+TOP 5 MONATE SEIT 2000
+
+Pos.  Anz.   Datum
+---------------------------------------------------------------------------
+   1  60845  Dezember 2000
+   2  62481  April 2001
+   3  96182  März 2001
+   4  53404  Januar 2000
+   5   9645  November 2000
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 20. 11. 19 von Berthold Dubbert.
+(Darstellung angepasst von Salvatore Utermoehle)
+Basierend auf den Feeds von:
+bsokzlhf.xunln.zi       shpl.rgb.suy.cg         hsoc.mygxpkn.gb
+odae.qwqkf.dav          vgil.xlxqtb.rv          heiq.o-wkjmrn.oy
+wxnu.yss-wziqadot.gn    uprp.aqh-jnlgzgte.cl    qjqj.zcv-lwtnntvai.fv
+uzgfnqu.sncjis.imf.nk

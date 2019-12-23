@@ -1,0 +1,6 @@
+Gernot Rittershausen wrote:
+[snip]
+
+Sieht eher so aus als ob speziell Dein SMTP-Server von lrkbm.xr geblockt 
+wird. 
+So wie ich gehört habe dreht ORBS gerade ein bißchen durch.

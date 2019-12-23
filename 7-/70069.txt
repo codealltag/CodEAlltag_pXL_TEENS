@@ -1,0 +1,19 @@
+Liane Ebbecke meinte kundzutun:
+
+
+NW.
+
+
+�
+
+"Ev........" = "Ev.*"
+"E v . *" != "Ev.*"
+
+La dich in Bezug auf reguläre Ausdrücke lieber nicht auf einen Disput
+mit mir ein :-)
+
+Erhard
+Ich kenn nur Evangelion.
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Dienstag, dem 28. Februar im Jahre des Herrn 2001 verfaßt.

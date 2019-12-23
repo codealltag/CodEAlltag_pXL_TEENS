@@ -1,0 +1,5 @@
+Kay Andreessen <afgxmmt375309@rrunbm.sw-n.uq> writes:
+
+
+Fehlerhafte Header-Kodierung - er kodiert den ganzen Header und nicht
+nur einzelne Wörter.

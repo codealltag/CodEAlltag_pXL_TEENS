@@ -1,0 +1,8 @@
+* Didier Vierboom <aqvabwwqwdro@mlumoxmrm.wet>:
+
+
+shutdown -h now
+
+Volkert
+-- 
+cross veinless

@@ -1,0 +1,9 @@
+Tobias Beyfuss <jbomjhc583472@omfaaa.cx-v.vn> writes:
+
+
+Ist ja auch immens sinnvoll, einen nicht aktuellen Source per rpm zu
+nehemne, wenn man sowieso selbstkompilieren will...
+
+Hartwig
+-- 
+DIE FINNISCHE REGIERUNG BITTET:  ALTE LAPPEN NICHT WEGWERFEN!

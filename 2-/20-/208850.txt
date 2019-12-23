@@ -1,0 +1,23 @@
+Den Organisation-Header kann ich auch ganz schnell ändern, nur vergesse  
+ich danach immer, ihn zurückzustellen oder edidiere das Posting nochmal...
+
+
+Nope.
+
+
+Ist auch ne' FAQ: Mein geliebtes CrossPoint unterstützt leider nur UUCP,  
+Kezo und Z-Connect. aber kein NNTP. Für GDVO-Übertragung gibt's UKAW,  
+Emip und VSoup, die News von GDVO-Newsservern saugen können und sie ins  
+UUCP bzw. Z-Connect-Format konvertieren. Für den Posteingang benutze ich  
+UKAW (VSoup scheint mit dem Hamster inkompatibel zu sein), für den  
+Postausgang VSoup (eigentlich wollte ich das auch auf EERV umstellen, aber  
+never touch a running system). Dummerweise ist VSoup ein äußerst  
+mitteilungsbedürftige Stück Software und fügt eine zweite X-Newsreader- 
+Zeile ein, obwohl es eigentlich ja nur die News saugt.
+
+Heinrich Küpers
+
+-- 
+Daniel Pröbsting übrigens auch!
+                                             E-Mail: imxqmi@jrlzdisakp.rc
+---> Offizieller Kämpfer wider Leopold Griepenstroh des Ordens von dtju <---

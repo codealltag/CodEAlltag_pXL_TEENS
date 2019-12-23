@@ -1,0 +1,12 @@
+* qyllhifobk@gojtupkmak.ob (Gregor Anger):
+
+
+So, ich habe mittlerweile ein crontab gefunden und dort auch den
+passenden job verfüttert. -e war glaube ich die Option, die funktioniert
+hat.
+
+Nachdem ich EDITOR gesetzt hatte -- nichtmal das war.
+
+Niclas
+-- 
+cross veinless

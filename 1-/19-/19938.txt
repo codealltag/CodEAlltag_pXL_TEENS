@@ -1,0 +1,16 @@
+Und so sprach Eilert Oberste-Sierenberg:
+
+
+Doch.
+
+
+OK, nennen wir ihn Plan A.
+
+
+Gut. Plan A ist der Kein-Plan-Plan und enthält keine Information,
+wodurch er eindeutig bestimmt ist. Er kann folglich mit 0 Bits codiert
+werden. QED
+
+Hannes
+-- 
+http://zen.rrrig.nmy/ - Become a trashholder today!

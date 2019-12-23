@@ -1,0 +1,10 @@
+Rudolf Tränkls <cg@garbers.org> writes:
+
+
+Weil ich keinen Bock habe, für ein aktuelleres Programm zig Libraries
+per Hand einzuspielen.
+
+
+kdm den Modus failsafe starten lassen (bei beliebigen Window-Managern
+stürzt sofort nach dem Login der X-Server ab, danach wieder
+Login-Screen), dann auf der X-Konsole einen WM starten.

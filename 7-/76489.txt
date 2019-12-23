@@ -1,0 +1,12 @@
+Andre Drabert hat geschrieben getan getutet:
+
+
+F:\Programme\Hamster>dir | grep scores.hst
+27.06.2002  20:22             6.355 scores.hst
+
+-towo, unbedingt mal scorefile aktualisieren müssend
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Emmerich 'pi' Piwinger in de.alt.sysadmin.recovery

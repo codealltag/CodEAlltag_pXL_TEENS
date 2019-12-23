@@ -1,0 +1,94 @@
+STATISTIK OGB 4624
+-=-=-=-=-=-=-=-=-=
+
+DAU-Philippe
+
+Pos.  DAUs  Msgs.  Ratio   Name
+---------------------------------------------------------------------------
+   1   238      1  238,00  Theo Langenberg <nntgoc.pmqo@hns.ys>
+   2   230      1  230,00  uaeadc@akhan.ws
+   3    56      1   56,00  Gebhard Imholz <gipuca@kfxxjorkrd.pvx>
+   4    46      1   46,00  "Oscar Unbehauer" <ysxlpze@qcg.lj>
+   5   295      8   36,88  "Theodor Froemke" <abjbqxh@gzen.ogh>
+   6    33      1   33,00  "Joachim Lünstroth" <vbfcgaynluzk@IhutGyo.es>
+   7   130      4   32,50  nyoxwz@fbkz.xg.tofpx.cq
+   8    97      3   32,33  "Etienne Leinhoß" <Urgbnsgv@j-valxgt.cu>
+   9    32      1   32,00  "Brigitta Ingenhofen" <rzcycb@tov.enx>
+  10    31      1   31,00  "Burkhard Länge" <cywpnki@i-gtlgko.yu>
+  11    30      1   30,00  Stefano Unbehau <wpk.vfbegos@dwu.bm>
+  12    56      2   28,00  "Christoph Trinkaus" <Xtopchc.Flcbigqay@mfc.fl>
+  13    27      1   27,00  "Carlo Foerstermann" <Lyhrmzcd@wgd.yu>
+  14    79      3   26,33  <Wjissan.Yzuolsvcepwcl@g-qdgbhb.pl>
+  15    52      2   26,00  "Ralph Zschieschack" <itkbsplne@fus.hf>
+  16   216      9   24,00  "Ulfert" <ee.pfhc@zopvgxdzeq.lr>
+  17    42      2   21,00  "Konrad" <ekxwqhsumwch@c-deygjh.sy>
+  18    20      1   20,00  <osroma.oophwyap.tskxevg@nkj-cskvcnr.jd>
+        20      1   20,00  ph@irgn.td (Jürg Lortz)
+  20   177     10   17,70  Nicolas Dümmler <ajqqrappn@txcndv.ob>
+  21    16      1   16,00  Thorsten Kurt Zaisser <dr4a@ef.ken-focqzqfdp.sn>
+  22    7       5   15,80  "Carlo Latzlsperger" <Aylil@zpbfs-eviqrt.bi>
+  23    30      2   15,00  "V. Ullrich" <jbuovzs.drodgpm@agwcexo.wf>
+        30      2   15,00  eoj@gwff.ii-k.de (Kurt Vorstius)
+  25    14      1   14,00  "LawLord" <GspJyjj@f-iqjlov.pu>
+        14      1   14,00  "Otti" <upxkinffg@inrkcc.zq>
+  27    69      5   13,80  "René Imberge" <hlirflnbe@vrssticiimh.bxm>
+  28    13      1   13,00  "C.Z." <rz@ec.kzo>
+  29   104      9   11,56  "Kaspar Filter" <Ihmeelyp@poutsel.hx>
+  30    11      1   11,00  "CyylROQ39731" <874fxc08@gyb.zx>
+  31    10      1   10,00  özkan
+        10      1   10,00  björn
+        20      2   10,00  whlqbw@ocw.aoy
+        10      1   10,00  njgdtl@zat.fvo
+        20      2   10,00  Stefano Liebich <kljnwdq_lbdrl@aag.of>
+        20      2   10,00  yvvvyrd@hbtqcoyxqw.ttl
+        10      1   10,00  xmjweh@wfr.yaq
+        10      1   10,00  to_infinity@mail.ru
+        20      2   10,00  <uzgl424eq_832@ssjjc.jts>
+        10      1   10,00  Wcilobs.Xytmea@nj.lgn-zpvjrxym.ah
+  41     8      1    8,00  "Kurt Ziege" <djykal@yrblppavt.sw>
+  42     7      1    7,00  "Ingolf Kagels" <akjdavb@bdanzwi.nxo>
+  43    20      3    6,67  "Peter U." <uzly@pwz.ow>
+        20      3    6,67  Ralph Wahlert <YCxwsbidz.GJ.Iuk2@zft.bs>
+  45   615     99    6,21  Dora Lungershausen <Npqqk.Lyomna@g-vatdwu.cj>
+  46   367     60    6,12  "Olga Lerchel" <QnyktmgNbfff@bku.de>
+  47    18      3    6,00  "Kurt Fuhge" <qssupv@j-btkkwq.su>
+  48   145     29    5,00  ojreaq@hserpf-tflmbvb.xj (Ingolf Inderbiethen)
+  49   187     39    4,79  "Kurt Fuhge" <yultgf@wwasblkkjeht.fw>
+  50    14      3    4,67  "Inge Keiler" <qdmk.rqapk@egrojzyrqjs.dxn>
+  51    68     15    4,53  "inge Keiler" <yod.dtiwh@rmdpp.unh>
+  52   116     27    4,30  qsot@wtf.qw (Peter Uhlein)
+  53  1953    553    3,53  Arne Vollenbroich <snltixfmjvupya@zfl.ogx>
+  54    50     16    3,13  Bjoern Kahleke <jqzvlw@xewi.ev>
+  55    42     16    2,63  vbkb@lwnku-ksmint.wzc (Sandro Olmann)
+  56   194     74    2,62  itulzs@tjiwiijpxks.ank (Carmen Verhouven)
+  57     5      2    2,50  "Joseph Weinschröder" <nymjlx@togvonj.uqm>
+  58    26     11    2,36  <bhuoqxvo@uyql.tbwjnihurd.rpvd-yyggey.fn>
+  59     2      1    2,00  "Remmer Vizithum" <eqlskj@iqin-rysngs.bs>
+        18      9    2,00  Samuel 'sSXP' Ingwersen <rTCJ@dyd.fqy>
+  61   153     97    1,58  <hzivcb.tkyloaezhaaj@msy.eb>
+  62  1292    828    1,56  Ottilie Zumbusch <rcgj.q@jxavd.fu>
+  63   244    185    1,32  vpykvconuh@zdsfaxqshr.gg (Lukas Isenbügel)
+  64     1      1    1,00  "Jochen Mocke" <Hfvlxg-Gfjy@rxw.va>
+         1      1    1,00  ctgizb@emo-lkk-zvfqmi.ok (Kathrin von der Vorderer)
+         1      1    1,00  "Béatrice Isenrath" <qge.ckfxg@fcg.dr>
+         1      1    1,00  "Inge Vollerth" <UfSrmmqs@ehkxgwirmo.wg>
+         4      4    1,00  "Jürg Lürzer" <ol413@awr.ks>
+         1      1    1,00  erasor_klehr@web.de (Arno Zurlage)
+  70    50     66    0,76  Ihno Vieregge <guibxa@hdk.lcb>
+  71    10     27    0,37  Jeanette Körnlein <wnchmkml@xus.jaf>
+  72   171    616    0,28  Jürg Inhestern <jphuxntnoqv@wzrhiovojpd.hw>
+  73   213    848    0,25  Wolfgang Arendz <kxhjnm@peeabm-qjehkce.ua>
+         5     20    0,25  Ignaz Kalkofen <pwhcf@jbgvgyprx.mh>
+  75   235    967    0,24  Kurt Vorstius <fzjtrtd864033@bydsvl.qt-c.lp>
+  76    30    157    0,19  Peter Filter <exmb@ywryyzti.lg>
+  77    16    260    0,06  Stefan Meierhofer <dfqzrryikaaw@nyojsurnw.ubo>
+  78    11    250    0,04  <naibbgw@rfpkc-jew-step-bxmi.uza>
+ (79)   33    773    0,04  Remmer Jeuter <pv@cwopfpv.jxu>
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 10. 11. 19 von Philipp Vanhees.
+(Darstellung angepasst von Samuel Mertl)
+Basierend auf den Feeds von:
+rgsmcdde.kyder.bi       zyrr.laf.lnr.ue         jyel.xyipnnw.ty
+gymp.hxoxt.ghp          rbmi.pqfrgp.mj          nwxc.q-mbdqmz.sd
+sjgh.rvy-ucdrvcfd.ud    rrvf.htt-uwrjmxqc.tq    mhur.jcp-rthgvbhwe.rc

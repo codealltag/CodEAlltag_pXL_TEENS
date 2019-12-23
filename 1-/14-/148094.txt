@@ -1,0 +1,10 @@
+Gregor Gerstendorf schrieb:
+
+
+Mach folgendes:
+Rechtsklick auf Arbeitsplatz -> Eigenschaften -> Leistungsmerkmale ->
+Virtueller Arbeitsspeicher -> Voilä!
+
+Giorgio
+
+--

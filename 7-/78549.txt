@@ -1,0 +1,25 @@
+Collegiumsgasse, 12. 06. 20 sendete Reinhold Pranghe folgende Botschaft:
+
+
+Langweilig.
+
+
+Was denn?
+
+
+Ja.
+
+
+Ich benutze die nur, den syntax hab ich mir noch nie so angeschaut, der
+ist relativ 'standard' mässig. Wenns dich interessiert dürftest du in
+
+/usr/share/doc/slang/*/slang.txt '18.  Regular Expressions'
+
+alles finden. (Keine angst, ist nicht lang) ;)
+
+Tschüs
+  Dietmar
+-- 
+Die Weisheiten des Juppi Jup: #8
+
+Frauen sind Schweine.

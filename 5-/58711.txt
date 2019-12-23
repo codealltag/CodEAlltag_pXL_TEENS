@@ -1,0 +1,22 @@
+--=-=-=
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Theodor Mickels <igsyhcl@zuobaqphg.zm> writes:
+
+
+Typisch deutsch!
+=2D-=20
+Is there another word for synonym? [Arno Kümmerle]
+--=-=-=
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: Processed by Mailcrypt 3.5.6 and Usaga Guard <http://xcw.pvvxb.oav/>
+
+iD8DBQE8jiCnOb83qsFDe3cRAp2QAJ0V46YYQpOlEAw5PRUJpDUNNObUcwCffhXy
+ry0frXgF33mjfoPIgVHdxhM=
+=lxrK
+-----END PGP MESSAGE-----
+--=-=-=--

@@ -1,0 +1,9 @@
+Niszt? Dann erklär mal, was das Topic vor 22 Uhr sollte.
+
+Samuel
+
+-- 
+Andere Staaten hingegen betrachten starke Kryptographie als stategische Waffe
+und verbieten deren Export in Quellcodeform[9]...
+[9]... nicht jedoch in Buchform! Offensichtlich können potentielle Feinde nicht
+lesen :-)                                       [Farid Hajji - Perl, Seite 647]

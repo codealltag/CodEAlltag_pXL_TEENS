@@ -1,0 +1,5 @@
+Tino Axers <cg@garbers.org> writes:
+
+
+Mal ganz abgesehen davon, daß HTML oft von Scripts ausgegeben
+wird. Das muß dann nicht mehr strukturiert sein ...

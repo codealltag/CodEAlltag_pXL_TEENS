@@ -1,0 +1,4 @@
+Bruno Norbert Rinkleib wrote:
+
+Nach den Berichten birgt alles über der Komplexität eines "Hello world" 
+Probleme. Aber wie gesagt, selbst hab ich das noch nie gemacht.

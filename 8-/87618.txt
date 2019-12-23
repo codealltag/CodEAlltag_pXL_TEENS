@@ -1,0 +1,11 @@
+Fredy Erthle hat geschrieben getan getutet:
+
+
+Es gibt nicht *alles* bei Grießinger.
+
+-towo, apt-get install psybnc klappt ja auch nicht.
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Hilmar 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,11 @@
+Konrad Limbacher hat geschrieben getan getutet:
+
+
+Das mag sein.
+
+-rupert
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Mario 'pi' Piwinger in de.alt.sysadmin.recovery

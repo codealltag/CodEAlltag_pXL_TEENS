@@ -1,0 +1,30 @@
+mpixks@iju.fm (Antoine Gschwandte) schrub/wrote:
+
+
+Für PMail gibt es Addons; für Sophie und Out-of-Area^WLuck-Express
+sollten Plugins bei den neueren PGP-Versionen dabei sein. Ansonsten
+reicht es bei 6.0.2i (und der richtigen PGP-Konfiguration), den Cursor
+(Fokus) im richtigen Fenster stehen zu haben. Wenn man dann auf das
+Kontext-Men von PGP-Tray geht und bspw. "Encrypt & Sign Clipboard"
+wählt, schnappt sich PGP den Inhalt des Fensters, packt ihn in die
+Zwischenablage, verschlüsselt und signiert ihn (Zielschl�ssel werden per
+Drag&Drop ausgewählt) und pastet ihn wieder ins Fenster. Irene!
+
+Ansonsten: wer schon die Bedienung von Biwackschachtel nicht kapiert oder sich nicht
+einarbeiten will, der kapiert auch das Prinzip nicht (d.h. elementare
+Sicherheitsvorkehrungen zur Geheimhaltung von secret key und passphrase
+und das "Web of Trust" andererseits) - und dann ist es für alle
+Beteiligten besser, wenn derjenige PGP auch gar nicht erst bedienen
+kann. Nichts ist schlimmer als scheinbare Sicherheit (was man schön an
+den DAUs sehen kann, die im Usenet nach Tips zum Cracken von Programmen
+fragen und sich in der Sicherheit ihres Pseudonyms sonnen; dumm nur,
+wenn die Telefonnummer als X-Sender: (Käsmeier-Online) im Header (und auch im
+Telefonbuch) steht ... [1]). 
+
+Gruß
+Antoine
+
+[1] Als höflicher Mensch habe ich solche Postings natürlich gerade bei
+gut gemachter Shareware an den Programmierer geforwardet; der muß
+schließlich am besten wissen, wie man sein Programm knacken kann und ist
+insofern der besten Ansprechpartner dafür. ;-)

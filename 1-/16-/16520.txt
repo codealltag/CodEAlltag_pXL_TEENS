@@ -1,0 +1,11 @@
+Bernd May <qo@r.edai.apmoxx.oui> writes:
+
+
+Nicht wirklich. Der DNS war in Ordnung, ich hatte ihm lediglich das
+Interface unter dem Hintern weggezogen. *seufz*
+
+Hannes, bei der nächsten LAN mit stabilerer Conn, hoffe ich doch.
+
+-- 
+75 Things you don't want to hear from your Sys Admin.
+55. Why did it say '/bin/rm: not found'?

@@ -1,0 +1,7 @@
+Wollen wir das denn?
+
+mfg, 
+	Volker
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old ZIGF cpu - insufficient processing power

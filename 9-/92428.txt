@@ -1,0 +1,11 @@
+Annika Olsen hat geschrieben getan getutet:
+
+
+Etwas anderes.
+
+-erich
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Winfried 'pi' Piwinger in de.alt.sysadmin.recovery

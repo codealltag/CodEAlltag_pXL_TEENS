@@ -1,0 +1,8 @@
+Willy Donnerstag <dthwt@minhz.nfbf.rw> writes:
+
+
+Du meinst so eine Art DoS per Flood-Ping?
+
+Meinhard
+-- 
+"Peter war ein Optimist."

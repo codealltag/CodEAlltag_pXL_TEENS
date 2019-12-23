@@ -1,0 +1,5 @@
+Solches tippte Ludwig Rüßbült:
+
+Etwas Net::NNTP, etwas zählen über Hashes, den Rest macht Graphviz. :-)
+
+Weißhar

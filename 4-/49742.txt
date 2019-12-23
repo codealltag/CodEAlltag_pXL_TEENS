@@ -1,0 +1,21 @@
+Hallo Wilfried Hastedt
+
+Birneckergasse, 10 Okt 2001 13:05:45 +0200 schriebst Du:
+
+
+Objekte fassen Methode, Eigenschaften und Variablen. Das hat bei
+kleineren Projekten eigentlich nur den Vorteil das es um einiges
+übersichtlicher ist und das man das ganze leichter erweiten kann. Z.B.
+hab ich erst eine Klasse für 4 gewinnt in Musterhauspark entwickelt. Das ganze
+hab ich schon mal ohne OOP gemacht. Das ganze ist mit OOP viel leichter
+zu erweitern und zu ändern. Mit C und C++ kenn ich mich leider nicht so
+gut aus, aber da ist es eigentlich ähnlich. Ich würde ich einfach mal
+googlen. Da findest du sicher eine Menge.
+
+
+Allerdings darst du es nur privat nutzen...
+
+MfG Heiner
+
+-- 
+No TV and no beer make Homer go crazy. [Burkhard Spielhofen]

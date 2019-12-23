@@ -1,0 +1,11 @@
+Erhard Rockenfelder schrieb:
+
+Ja. 
+
+dd if=$foo.mp3 of=$foo.AA bs24k
+
+Was das jetzt bringen soll weiss ich aber auch nicht.
+
+-- 
+mfg, 
+	Alessandro

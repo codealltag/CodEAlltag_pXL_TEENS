@@ -1,0 +1,11 @@
+Uwe Wellemsen <xxujckn036387@tgeaog.de-q.wd> writes:
+
+
+Java-Script liest Browser-ID aus.
+
+Für kein Javascript haben die ja eh vorgesorgt, dann kommt die
+Meldung, daß die Site ohne JavaScript nicht so läuft, wie die sich das
+vorstellen[1].
+
+[1] Was sie aber offensichtlich tun - sonst würde die Meldung ja nicht
+    kommen.

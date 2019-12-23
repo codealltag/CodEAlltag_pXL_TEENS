@@ -1,0 +1,7 @@
+*notier* Romm�karten einkaufen.
+
+mfg, 
+	Enrico
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old Dizen cpu - insufficient processing power

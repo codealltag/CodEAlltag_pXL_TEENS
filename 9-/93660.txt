@@ -1,0 +1,11 @@
+Und so sprach Ubbo Hepfner:
+
+
+sendmail, sendmail ... Ahja, das ist ja das Teil, dass da irgendwo
+unter /usr/libexec vor sich hin fault.
+
+Gruss,
+Robert.
+-- 
+                          WestWorks - the meta project
+                         <URL:http://vmn.pcipggsnr.qo/>

@@ -1,0 +1,8 @@
+Das kommt auf die Daten an. Wenn du auf die DB mit C zugreifst, und
+deine 'Daten' binär benötigst, kann das durchaus sinnvoll sein.
+
+mfg, 
+	Pius
+-- 
+BOFH excuse #329:
+Server depressed, needs Prozak

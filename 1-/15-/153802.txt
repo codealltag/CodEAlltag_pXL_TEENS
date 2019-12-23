@@ -1,0 +1,80 @@
+STATISTIK 23. 01. 20
+-=-=-=-=-=-=-=-=-=-
+
+DAU-Charly
+
+Pos. DAUs  Msgs   Ratio  Name
+---------------------------------------------------------------------------
+  1   135     1  135,00  "AlasaMorph" <F.Hchmz@ie.fx.dv>
+  2   505     5  101,00  webmaster <hnpnvcgpt@av237.idj>
+  3    90     1   90,00  Ulrich Rahtge <okhs@paevyu.ko>
+  4  3023    35   86,34  "Bl@sterm@ster" <ntdfjhyhtesdwshtr@uzg.losxwm>
+  5    80     1   80,00  <odie-83688@mwehrkm549682.nw-u.fa>
+  6    70     1   70,00  Robert Fleihsig <zjxdcnb@dorvcbwynd.cpv-rgu.lf>
+  7    63     1   63,00  "Lpvqawyfz.yfr.wu" <wjsxp@anpeuplka.qyz.pd>
+  8    60     1   60,00  Mwnaidwmjqizlm04@j-vscemd.uu
+       60     1   60,00  iadl@jowowp.kg (Carlos Labesehr)
+ 10   304     6   50,67  "Ludwig Lenkers" <zcqzf@ibhwxk.db>
+ 11    46     1   46,00  Willi Eikel <wfjqj@fys.ri>
+ 12   155     5   31,00  "Elmar Ripperger" <vqjhjud_raniiq@mkk.xp>
+ 13    20     1   20,00  sinnsuchmaschine@sinnsuchmaschine.org
+ 14    17     1   17,00  "Ullrich Unverhaun" <lelwespwt@repwjb.el>
+ 15    98     6   16,33  "by: strain+" <vcufbz@qvvjyvs.wq>
+ 16    15     1   15,00  "joohaa" <oxwyoxfor@vdc.muc>
+ 17    12     1   12,00  "Eveline Endries" <ntcjgr@uis.am>
+       12     1   12,00  "francis-ricault" <iultfq-qaksgaa@fksqudr.mc>
+ 19    11     1   11,00  "Volkmar" <773.38706@buixamyfbv.uw>
+       11     1   11,00  "Raymond" <fylaprwpn@nechxv.yc>
+       11     1   11,00  "Babyjay" <alwmrlf@ncqtkez.xrn>
+ 22   212    20   10,60  "Francis Groters" <Francis Aengbf@wpl6.vbmclzo.mr>
+ 23    10     1   10,00  vrwohzdhtb@mkavsyaeqlg.zix
+       30     3   10,00  "Fabrice Rubbert" <znzdceakolck@xcobr.wb>
+       30     3   10,00  Peacemaker <wfjqj@fys.ri>
+       10     1   10,00  charly <yhadd@qnt.sgs>
+       10     1   10,00  kdumph@ksejsda.nht
+       10     1   10,00  viper <dcayq@bun.wf>
+       10     1   10,00  roxgpl@jycvm.jzp
+ 30    58     6    9,67  <gmtatth.joyyqbov@bhipkr.ougorpg.ff>
+ 31    99    14    7,07  "Francis Groters" <Hcjkde.Vjuvfcu@hrq9.rltdpxv.uh>
+ 32    41     6    6,83  "Francis Groters" <Iexnxf.Tlcqkhw@lqi3.qqastuv.ii>
+        6     1    6,00  "Olivier Rabenhorst" <fwiclxkmw@lzzmnxvtjb.we>
+        6     1    6,00  "Ivan Jenke" <p6903346@rposy.ezp-njfqu.io>
+        6     1    6,00  <jrvs-55479@qsjqawv654511.au-w.sp>
+        6     1    6,00  "Olivier Rabenhorst" <p6903346@rposy.ezp-njfqu.io>
+ 37    23     4    5,75  Johann Laubrock <ohlhjjblz.gsvnzgpon@qlo.qn>
+ 38  1101   200    5,50  fkwiyh.mdvukodpglv@p-arsupb.db (Renata Neinhuis)
+ 39   791   153    5,17  wlwesl@mzwws.sb (Ralph Rörnbacher)
+ 40   146    29    5,03  uakaflnnp@lxpxz-oghygg.ly (Rosmarie Hoeder)
+ 41     5     1    5,00  Barbara Wesner <uafypimv@ags.vpw>
+        5     1    5,00  Kay Röglin <Vtlhggjm.Riywg@k-ejmwmc.fw>
+ 43   158    35    4,51  "Franco Unferferth" <wuvovr@den.qu>
+ 44     8     2    4,00  "Charly Genick" <jfzcp_sj@kcz.he>
+ 45    53    17    3,12  <shsbqw.ssxzfuutzp@ybt.dxp>
+ 46     3     1    3,00  "Thorsten Rickerts" <yxjrx@hx-npxtsxyyqg.pq>
+        3     1    3,00  Ludwig Neuschäffer <gbuznfqo355@u-fkpykh.yd>
+ 48     2     1    2,00  Ulfert Früauff <qyc.fd@j-enbnin.oe>
+ 49   269   140    1,92  Vincenzo 'sSXP' Rohrwasser <oQWS@hbz.eoi>
+ 50    99    65    1,52  ylaoptyws.vhclkbroy@kwdjqawew.ap
+ 51     4     3    1,33  "Ryo Kato" <cvj.xpcy@gqu.sw>
+ 52     7     6    1,17  Tim Joedeke <isha@lpjvwwi-ymlvnmpz.nc>
+ 53     1     1    1,00  "Werner Ungefugt" <xcvobq@wyunko.ce>
+        1     1    1,00  Christoph Rothamer <gugw@gmkp.gurlib.lu.fd>
+        1     1    1,00  Kay Röglin <Vtlhggjm.Riywg@k-ejmwmc.fw>
+        3     3    1,00  Karlheinz Vor-Der-Landwehr <dvazkoaqbq@zot.tzq>
+       22    22    1,00  Jann Weißenmayer <tmmzag@drg.vwd>
+        1     1    1,00  Niko Hühnervogt <oqzi.gtbkpu@nk.fac.otb>
+ 59    35    52    0,67  <ylaoptyws.vhclkbroy@kwdjqawew.ap>
+ 60    32    52    0,62  Moi.Finhq@vab.aax (Robert Rauschenberger)
+ 61    45   135    0,33  cljl.enthtmfp@tks.tp (Paola Twers)
+ 62    10    34    0,29  Roger Twilling <xvxgysk@gya.ns>
+ 63    12    55    0,22  trbuwa@gep.bhu (Ludwig Negle)
+ 64    23   153    0,15  aafmtefoyl@fegluujefz.lq (Tim Ruhfus)
+ 65     5   255    0,02  fgkhot@srlzc-rcbkry.kc (Vincent Hoeder)
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 23. 01. 20 von Christoph Notbohm.
+(Darstellung angepasst von Vincenzo Höinghaus)
+Basierend auf den Feeds von:
+nxoxijyb.pwuof.jz       nzyj.hhu.chm.id          gblb.gqutlbb.gkz
+tsqq.wfp.ots            zvob.zop-upkxtsxh.ad     baer.mwd-inlzngo.jv
+ynaz.atq-drdyqrulv.bd   rvpv.ejwveq.bf

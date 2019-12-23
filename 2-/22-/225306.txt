@@ -1,0 +1,13 @@
+Max Ohnsorg schrieb:
+
+
+Ist bei uns alles etwas anderes, wir haben diese Kabelmodems 10MBit,
+an denen hängen dann 1-5 Rechner und ne Aussenanbindung direkt zum Ebes
+(Funkbridge mit 2MBit). Unser interne Wohnheimnewsserver hängt halt
+auch hier im Netz, allerdings haben wir keinen Platz für die normalen
+Gruppen, so das die zum Uniserver durchgeleitet werden.
+-- 
+erlauchter Mitarbeiter(!) von detebe
+ _  _ . _ _ |.   Jörg Eckkard		>`)
+(_|| ||| | |||   TINA	UIN: 9880551	( \
+ _|           				 ^

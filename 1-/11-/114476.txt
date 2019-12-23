@@ -1,0 +1,22 @@
+Am Tue, 28. 10. 19 sendete Ulf Mischkes folgende Botschaft:
+
+
+CNFS-Spool?
+
+
+Sieht fast so aus, kenne ich irendwo her.
+
+
+:(
+
+
+Wenns wirklich CNFS spool ist kannst du alles seit dem letzten sauberen
+runterfahren neu holen.
+
+
+Reicht ein grep über ein INN-Log?
+
+Tschüs
+  Salvatore
+-- 
+Notorisch Schreibfaul.

@@ -1,0 +1,8 @@
+Neuschusterweg, 16 Aug 1999 sendete Luis Miesener folgende Botschaft:
+
+
+Ein terminal steckst du an die serielle schnittstelle und schon können
+zwei man deinen rechner benutzen.
+
+Tschüs
+  Ubbo

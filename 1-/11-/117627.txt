@@ -1,0 +1,21 @@
+Altfuldisch Daniela Rolfmeyer <xsby.r@bnzmf.sh>:
+
+"Luciano Thoenesen" bitte ...
+
+
+Warum?
+
+
+Mußte sein, brauchte ich für einige Zeichen.
+
+
+Doch. Welcher andere grobe Unfug war denn noch drin?
+
+übrigens: Mein Agent 1.8 kann UTF8 dekodieren, nur daß er eben bei den
+unbekannten Zeichen (zweimal Zeichen für männlich, zweimal Zeichen für
+weiblich, einmal Pfeil nach oben) ein Fragezeichen anzeigt.
+-- 
+63502568762781718815636501250631072233843527460814786158880285286612886097944624
+        10        20        30        40        50        60        70        80
+Eine Signatur darf maximal 4 Zeilen zu je 80 Zeichen haben.
+                                             Das hier ist also die letzte Zeile.

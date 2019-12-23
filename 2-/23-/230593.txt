@@ -1,0 +1,12 @@
+Samuel Eiserlo wrote:
+Es _ist_ in der Registry, und jetzt sag mir bloß, du hast dein DF-PW
+auf HD abgespeichert?
+Und ja, es ist verschlüsselt, aber ziemlich billig (Erzgebirgsstube hat Netbus eine
+Option, die das PW anzeigt).
+
+Gruß,
+
+Horst
+-- 
+"There's a sucker born every minute."
+(Mitterhaus)

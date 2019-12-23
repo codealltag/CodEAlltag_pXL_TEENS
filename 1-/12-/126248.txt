@@ -1,0 +1,70 @@
+STATISTIK 19. 08. 19
+-=-=-=-=-=-=-=-=-=-=-=-
+
+TOP 10 POSTER 19. 08. 19 (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+ 1    3794  22,11%  Vinzenz Bußkamp
+ 2    7883  14,24%  Anny Jongschläger
+ 3    1841  10,73%  Karsten Fenchel
+ 4    1580   9,21%  Willy Reinike
+ 5    1462   8,52%  Thorsten Schmalhöfer
+ 6    1161   6,76%  Karsten Foncken
+ 7    1106   6,44%  Pierre Venjacobs
+ 8     654   3,81%  Theodor Farnung
+ 9     641   3,73%  Muriel Bilmaier
+10     528   3,08%  Theodor Willibald Niggel
+
+
+TOP 5 POSTER 2000 (in einem Monat)
+
+Pos.  Anz.   Monat     Name
+---------------------------------------------------------------------------
+ 1    3794   09/2000   Vinzenz Bußkamp
+ 2    7883   09/2000   Anny Jobelius
+ 3    2193   08/2000   Vinzenz Bußkamp
+ 4    2121   10/1999   Anny Jongschläger
+ 5    1992   02/2000   Vinzenz Bußkamp
+
+
+TOP 5 POSTER 2000 (Gesamt)
+
+Pos.   Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+ 1    27346   Karsten Fenchel            45       +2
+ 2    19051   Vinzenz Bußkamp       33       +8
+ 3    33799   Anny Jobelius      33       +83
+ 4     8379   Muriel Blomberg       23       ö0
+ 5     6747   Theodor Farnung     18       ö0
+
+
+TOP 5 DAUs 6880
+
+Pos.  Anz.   Msgs. Ratio   Monat    Name
+---------------------------------------------------------------------------
+ 1    401       2  200,50  12/1999  sakcti@grwncih.los
+ 2    200       1  200,00  12/1999  pkshw_nqxeb@houvamy.psy
+ 3    200       1  200,00  12/1999  hqizqh@cmhwkds.qfa
+ 4    175       1  175,00  06/2000  dcw <qvi@ukzgvy.jansgqs.kc.gv>
+ 5    158       1  158,00  12/1999  "Clemens Reinike" <qxmsyqev@hfimjgt.en>
+      158       1  158,00  03/2000  "Rico" <hpmbbryc@x-p-l.soj>
+
+
+TOP 5 MONATE
+
+Pos.  Anz.    Datum
+---------------------------------------------------------------------------
+ 1    72235   September 2000
+ 2    42306   Oktober 1999
+ 3     9645   August 2000
+ 4     9077   Februar 2000
+ 5     5352   November 1999
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 19. 08. 19 von Wolfram Beisswenger.
+(Darstellung angepasst von Karsten Fenchel)
+Basierend auf den Feeds von:
+duecwzep.qywzu.pe         qmhj.ejj.hww.uo           qfdn.t-fhmqnn.hd  
+iapr.flh-mjozlkfz.un      anwb.usb-aaxvtukk.co      xhfx.ogq-cefmuhicz.fo  
+hxwefvqqcf.rzejakevdb.en

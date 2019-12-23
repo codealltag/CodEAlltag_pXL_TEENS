@@ -1,0 +1,11 @@
+Reinhold Goebel hat geschrieben getan getutet:
+
+
+Ja.
+
+-hansjörg
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Lothar 'pi' Piwinger in de.alt.sysadmin.recovery

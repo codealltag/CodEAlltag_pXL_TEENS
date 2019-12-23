@@ -1,0 +1,13 @@
+Louis Chun hat geschrieben getan getutet:
+
+
+Pfui.
+Du hast JavaScript an.
+[x] Geh Weg.
+
+-lars
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Alessandro 'pi' Piwinger in de.alt.sysadmin.recovery

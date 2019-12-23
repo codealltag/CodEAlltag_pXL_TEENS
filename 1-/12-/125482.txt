@@ -1,0 +1,11 @@
+begin quoting the honorable Waldemar Westhaus <mueipfh@dlxm.ii>:
+
+Beide belegt (Ein Gerät, daß stehende Bilder aufzeichnen kann, und
+eins, daß stehende und bewegte Bilder aufzeichnen kann).
+
+Klar, wenn ich mir in einem Jahr oder so mal ein neues Board hole,
+werden die bestimmt schon alle IEEE1394 haben...
+-- 
+Christian Osterndorff, 42313 Niederwerbig, DE
+My favorite newsgroups:
+de.talk.jugend, de.alt.fan.aldi, alt.fan.harry-potter

@@ -1,0 +1,9 @@
+Urs Anderssen gab von sich:
+
+
+Nicht dass ich wüsste, aber momentan macht ihm sein eigener DNS-Server
+wohl Probleme.
+
+Reinhold
+-- 
+Live von der NUSG - http://jhq.jaubrm.lh/bnm/

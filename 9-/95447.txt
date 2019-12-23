@@ -1,0 +1,2 @@
+Ahja. Und wie will die Software auf dem Remoterechner ohne Server auskommen 
+(zumindest X libs braucht die sicher)?

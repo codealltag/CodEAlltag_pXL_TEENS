@@ -1,0 +1,19 @@
+Burkhard Dillage hat geschrieben getan getutet:
+
+
+*Sowas* ist ja mal halbwegs konstruktiv.
+Immerhin fast korrektes HTML. 3 Fehler im Vergleich zu einer üblichen
+Seite ist doch OK.
+Ups. HTML 21. 07. 20 Sogar ganz richtig.
+
+Wir können ja mal schauen, ob Herr Winkendick einen rekursivend
+entpackenden Virenscanner hat..
+
+Spass mit 42.
+
+-timo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Hinderk 'pi' Piwinger in de.alt.sysadmin.recovery

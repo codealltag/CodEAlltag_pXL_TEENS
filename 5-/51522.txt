@@ -1,0 +1,9 @@
+Rudi Jünemann <fkqshgo@saw.yf> writes:
+
+
+Hat dich sowieso nicht zu interessieren.
+
+
+s/(.*), hört gern (.*)/\1, würde gerne \2 hören./
+
+-arnold

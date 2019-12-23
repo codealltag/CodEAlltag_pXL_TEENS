@@ -1,0 +1,30 @@
+Am 06. 01. 19 13:11:43 GMT sendete Roland Wahlich
+folgende Botschaft:
+
+
+Einfach in HOME eine datei .fetchmailrc mit folgendem inhalt anlegen:
+
+------
+poll pop3.provider.de protocol pop3 username Musteruser password
+geheim mda "/usr/bin/procmail -f-"
+------
+
+dann die datei  /etc/procmailrc wie folgt anlegen(cg eventuell noch
+durch deinen usernamen ersetzen.):
+
+------
+	Alessandro
+	DEFAULT=/var/spool/mail/cg	#completely optional
+	LOGFILE=/var/log/procmail	#recommended
+	SHELL=/bin/bash
+------
+
+dann 'fetchmail -k' aufrufen. Jetzt sollte alles was an qmowhry.hu geht
+in deiner mailbox liegen.
+
+
+Du kannst die mails dann mittels procmail ganz bequem sortieren. (man
+procmail, man procmailrc, man procmailex ;)
+
+Tschüs
+  Harm

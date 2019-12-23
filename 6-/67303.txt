@@ -1,0 +1,8 @@
+Ivan Zander <drmiqr@qghflqkt.do> writes:
+
+
+Jepp. DWIM(x) ist leider noch nicht implementiert :-/
+
+Christian
+-- 
+Mach dich mal gross und nuetzlich. [Julien wollte in Stefans Windschatten]

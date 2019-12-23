@@ -1,0 +1,10 @@
+Am Fri, 18 Jan 2001 sendete Onno Fuchslocher folgende Botschaft:
+
+
+afaik wird an grösseren Datentypen gearbeitet. Und sonnst nimm halt
+erstmal unsigned. ;)
+
+Tschüs
+  Peter
+-- 
+Notorisch Schreibfaul.

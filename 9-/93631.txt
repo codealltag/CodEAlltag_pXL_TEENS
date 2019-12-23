@@ -1,0 +1,11 @@
+Karl Tromenschläger hat geschrieben getan getutet:
+
+
+Wäre praktisch, ja.
+
+-niklaus
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Udo 'pi' Piwinger in de.alt.sysadmin.recovery

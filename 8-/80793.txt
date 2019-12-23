@@ -1,0 +1,9 @@
+* Laurent Flossmann <brllxrbrtbhdql@vyv.dxv>:
+
+
+gabsi@edoras:~$ ps aux | grep newsbot
+news       304  0.0  13. 05. 20  1357  564 ?        ELFRIEDE   10:01   0:00 /usr/local/news/bin/newsbot -a -f
+
+Onno, mit diabolischem Blick
+-- 
+np: Bad Religion - Inner Logic

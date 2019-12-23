@@ -1,0 +1,8 @@
+Dixit Gunter Zeckler <pijhlgmbobwdaa@fdw.sac>:
+
+?
+-- 
+48280046094174887643366188633022138015359922564542272781495383058634263975333747
+        10        20        30        40        50        60        70        80
+Eine Signatur darf maximal 4 Zeilen zu je 80 Zeichen haben.
+                                             Das hier ist also die letzte Zeile.

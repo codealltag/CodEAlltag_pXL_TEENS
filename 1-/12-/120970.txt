@@ -1,0 +1,10 @@
+Burkhard Zschammers <cg@garbers.org> writes:
+
+
+Die gedrückte Shifttaste wars nicht. Es tuts ja wieder.
+
+Edmund
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

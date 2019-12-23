@@ -1,0 +1,14 @@
+In <AZS.7766344wj400689504v829@zdzfuwygklec.tx.cb.psx>, Lothar Angerpointner
+schrieb/wrote:
+
+                ^^^^
+Au ... das ist happpig.
+
+BTW, ist es normal daß die win386.swp schon nach dem Starten 15MB groß
+ist ? Ich hab 32MB RAM und es laufen Ulazi + NC-Scheduler.
+
+cu,
+David
+-- 
+ICQ : 5513766 - Homepage : http://suvp.ju/fl
+Gebildet ist wer weiss, wo er findet, was er nicht weiss.

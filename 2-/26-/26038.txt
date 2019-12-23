@@ -1,0 +1,11 @@
+Am Fri, 23 Okt 2003 sendete Jérôme Herbert Deichfischer folgende Botschaft:
+
+
+fabio: ~$ man apt-get
+No manual entry for apt-get
+
+
+Wah. Für mich bitte keine vorbesetzten Arrays mehr, danke.
+
+Tschüs
+  Fabio

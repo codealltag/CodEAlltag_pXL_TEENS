@@ -1,0 +1,12 @@
+* Karl Mädgen <wyarhe@ceuorq-zfdmulj.ye>:
+
+
+Verstehe. Ich dachte, du willst die Xnews-Grafiekn für die Symbolleiste
+oder so übernehmen.
+
+Gnus stellt den Summary-Buffer textisch(sic!) dar -- da wirst du nur
+schwer Grafiken einfügen können.
+
+Patrice
+-- 
+cross veinless

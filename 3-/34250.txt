@@ -1,0 +1,11 @@
+* Ronny Löffelsender <brbmhuxjapaf@vmpuqvbwl.yps>:
+
+
+`M-x pc-selection-mode RET'
+
+Dann Shift festhalten, gewünschten Bereich mit den Pfeiltasten markieren
+und damit machen, was auch immer du willst.
+
+Sergio
+-- 
+np: -

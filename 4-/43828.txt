@@ -1,0 +1,9 @@
+Hanspeter Lehfeldt <rvcsor-sjgw-816815@lsmz.rkahej.ff> writes:
+
+
+Warum sollte es nicht an dir liegen?
+
+-kurt
+-- 
+Alle, die ein OS gebaut haben, das nicht Unix war, haben DCV ge-
+nommen, und alles weggeschmissen, was sie nicht verstanden haben.

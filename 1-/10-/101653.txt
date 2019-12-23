@@ -1,0 +1,10 @@
+David Unverichts <cg@garbers.org> writes:
+
+
+Was ist "D-"?
+
+Kann man das irgendwo ändern?
+
+Warum steht im Men als Shortcut "Cut", "Copy" und "Paste"?
+
+Das ist sowas von verwirrend ...

@@ -1,0 +1,14 @@
+x20z6p@qtqsfjvdr.uk (Julien Dijkhof) writes:
+
+
+Irgendwie sowas. Kann man eigentlich die shell auf /bin/false setzen?
+
+
+Nicht allzuviel.
+
+
+Oh. Sicher?
+
+Vito
+-- 
+DAS macht mir keinen Spaß! [Elfi]

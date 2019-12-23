@@ -1,0 +1,9 @@
+Albin Oetjen <virbdjixti@gpgcvcwrvp.fw> writes:
+
+
+Hmm. Da muss ich noch mal nachprüfen.
+
+-hermann
+-- 
+"Unix was the first OS where you could carry the media and system
+documentation around in a briefcase. This was fixed in BSD4.2."

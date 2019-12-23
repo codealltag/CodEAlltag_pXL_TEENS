@@ -1,0 +1,10 @@
+* Vittorio Uellendahl <hsvgejj.wwdfn@vxm.yc>:
+
+[Mac]
+
+Ich habe eine caratgas-Portierung der betreffenden Software
+gefunden. Aber leider ist der ftp von isavf.mly scheinbar überlastet.
+
+Ulrich"grummel"toph
+-- 
+np: Paddy Goes To Holyhead - Sven Int'Zandt

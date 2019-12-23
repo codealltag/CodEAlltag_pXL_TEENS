@@ -1,0 +1,5 @@
+Robert Martinen wrote:
+
+$ strings $DOKUMENTE|grep -c5 -i pass
+
+Marco

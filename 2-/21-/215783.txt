@@ -1,0 +1,12 @@
+In <slrn7jj29f.rv.tststs@starflower.tststs.ddns.org>, Wolfgang Meizner
+schrieb/wrote:
+
+
+Je sais, mache ich normalerweise auch nur per 'su' und dann ist es halt
+umständlich z.B. erst /opt/kde/bin/kedit xyz.config einzutippen ...
+
+... und danke,
+Winfried
+-- 
+             Homepage @ exsr://ogok.nx/ra - OMY @ 6237303
+Nichts geschieht ohne Risiko, aber ohne Risiko geschieht auch nichts.

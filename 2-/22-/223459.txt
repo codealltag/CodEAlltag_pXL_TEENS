@@ -1,0 +1,52 @@
+This is a multi-part message in MIME format.
+--------------9F301E24072777B2DF8CBACC
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+hi niels :-)
+
+Niclas Lemann wrote:
+
+
+schleichwerbung ?
+PCMH://wfu.qpfc.lh/onfbh/pek
+
+
+Kauf dir'n gescheites modem :-) (isdn oder adsl ?? *g*)
+
+
+danke, geht zurück
+
+
+icq ? kenn ich doch :-)
+
+meine ICQ#: 7359836
+
+unn wech
+
+
+--------------9F301E24072777B2DF8CBACC
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="Faulenzer.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Rosenhaeger, Raymond
+Content-Disposition: attachment;
+ filename="Faulenzer.vcf"
+
+begin:vcard 
+n:Rathlef
+tel;pager:ICQ#: 7359836
+fhr;out:03552/870223
+tel;home:Umrathshausen ( Deutschland)
+tel;work:Elektroinstallateur
+x-mozilla-html:TRUE
+url:www.yalq.eu/gviwe/fbb
+version:2.1
+email;internet:Pxtmtr@Klr.xjfo.fs
+adr;quoted-printable:;;Meine Straße bekommen nur anständige Leute !!
+;Untersulmetingen
+fn:Raymond R.
+end:vcard
+
+--------------9F301E24072777B2DF8CBACC--

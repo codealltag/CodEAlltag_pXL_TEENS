@@ -1,0 +1,11 @@
+Wilhelm Lempert hat geschrieben getan getutet:
+
+
+Webmaster.
+
+-louis
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ingolf 'pi' Piwinger in de.alt.sysadmin.recovery

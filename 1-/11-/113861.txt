@@ -1,0 +1,27 @@
+STATISTIK MRZ 5030
+-=-=-=-=-=-=-=-=-=-
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   5343   51,89%  "Forte Agent"
+   2   2913   28,29%  "Gnus"
+   3    722    7,01%  "Xnews"
+   4    542    5,27%  keiner angegeben
+   5    223    2,17%  "slrn"
+   6    211    2,05%  ehrlich registriertes Crosspoint, via NNTP
+   7    195    1,89%  "Microsoft Outlook"
+   8    111    1,08%  "Hugendubel/NetScape"
+   9     18    0,17%  "TIN"
+  10     14    0,14%  "MacSOUP"
+  11      2    0,02%  "Microsoft Internet News"
+ (12)     2    0,02%  andere
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 17. 11. 20 von Luc Verhasselt.
+(Darstellung angepasst von Etienne Bliebenich)
+Basierend auf den Feeds von:
+qfcjsswq.epvsj.ns       uzgn.sah.lmw.uy         qmzh.yfagsph.gw
+eiyx.hhmav.pwl          ltxh.jkzown.za          aqxf.u-rdmeba.kd
+gspd.maf-jvmyyzgi.rq    tsoe.gwc-swhdgxxg.eo    xlgl.svu-lnahjrbqy.px

@@ -1,0 +1,12 @@
+Klaus Jegg <srszia-rbhl.rzp@fsjtdk.xt-j.te> writes:
+
+
+Mein Gnus macht beide Male nach dem "html" Schluss mit Highlighting,
+also auch mit Erkennung.
+
+
+*PATSCH* "umbrochenen" heisst das.
+
+Hero
+-- 
+Der Hauptmann zog seinen Säbel und schoß den Angreifer nieder.

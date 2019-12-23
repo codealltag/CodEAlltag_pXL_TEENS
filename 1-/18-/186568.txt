@@ -1,0 +1,13 @@
+Wolfram Böcherer schrieb am 21. April 1999 um 23:51 Uhr folgendes:
+
+
+Ich score zwar auch auf fehlende Leerzeichen im "From:", allerdings
+nicht bis auf Kill runter. Der Realname kann ja auch mal aus
+Unwissenheit / technischen Problemen / whatever fehlen.
+
+Viele Größe,
+     Hansueli Nonnenmacher
+-- 
+UNIX was not designed to stop you from doing stupid things, because that
+would also stop you from doing clever things.
+                                                           -- Elmar Jakobfeuerborn

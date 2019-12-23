@@ -1,0 +1,17 @@
+Keine Ahnung, ich hab' nur das Schul-Pascal (Ihok-Pascal, deutsche Befehle,  
+keine Sprungmarken, kein Compiler und auch ansonsten relativ untauglich)  
+und eine hm... mir geschenkte Uralt-Version mit dem Namen "Borland  
+Fridolin".
+
+
+Keine Ahnung, ich weiß nur:
+101 - alles futsch (zumindest bei Hepate)
+200 - Prozessor zu schnell
+201 - Datei fehlt oder korrupt
+
+Eilert Altenbuchner
+
+-- 
+Erwarte immer das Schlimmste und du wirst nicht enttäuscht.
+                                             E-Mail: oybzfk@fhirugcfzi.kl
+---> Offizieller Kämpfer wider Remo Schallmeir des Ordens von dtju <---

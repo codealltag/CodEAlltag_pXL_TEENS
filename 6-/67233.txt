@@ -1,0 +1,13 @@
+Pius Zinßer wrote:
+
+
+Och, ein Patch für mich selber wäre mir auch recht.
+
+New in this version:
+- "Böse Gedanken" bug fixed.
+
+Known bugs and issues:
+... (zensiert)
+
+
+-bf

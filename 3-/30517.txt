@@ -1,0 +1,7 @@
+Julius Faltin <hlf@nkxap.ahr> writes:
+
+
+Rausgeschnipselt, ja. Dann geh einfach rein, und bastel dir da die
+session id rein..
+
+-jochen

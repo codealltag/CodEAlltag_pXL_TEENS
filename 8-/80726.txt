@@ -1,0 +1,13 @@
+Karl Fiterer schrieb:
+
+
+Uah! Selbst schuld, wenn du sowas böses installierst. Ich kenne da
+auch noch "Kann nicht gelöscht werden: Dateisystemfehler." Was auch
+immer das sein mag. Unter KTHP tut es dann aber.
+
+Waldemar
+
+-- 
+NatürlichRAD Word-Fehlermeldung:
+  "Dieser Vorgang kann nicht durchgeführt werden, weil Unbekannt
+   beschäftigt ist."

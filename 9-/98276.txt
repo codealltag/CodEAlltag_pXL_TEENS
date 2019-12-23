@@ -1,0 +1,8 @@
+* xzgk@fmarlgsbzp.gx (Benjamin Arnoldt):
+
+
+Ich verstehe unter Prüfung SMTP-after-POP. Mindestens.
+
+Urban
+-- 
+cross veinless

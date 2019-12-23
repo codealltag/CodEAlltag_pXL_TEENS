@@ -1,0 +1,8 @@
+Am Tue, 16 Feb 2000 sendete Denis Losche folgende Botschaft:
+
+
+Telnet ist zu unsicher, aber mit sshgibt es eigentlich keinen
+unterschied.
+
+Tschüs
+  Luciano

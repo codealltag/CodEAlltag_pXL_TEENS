@@ -1,0 +1,19 @@
+Gianni Zahnd schrieb:
+
+
+Kleiner, startet schneller, braucht nicht das XEmacs-Monstrum. Ja, das
+war's.
+
+
+Um Gnus richtig zu konfiguieren reicht es nicht eine
+Konfigurationsdatei von oben nach unten durchzugehen und die richtigen
+Sachen einzutragen...
+
+
+Bh.
+
+Arno, hat zur Zeit irgendwie keine Lust mit Linux rumzuhantieren.
+
+-- 
+"Ein Idiot zu sein macht Spaß, besonders dann,
+wenn gerade niemand zuschaut." [Norbert Eiglsperger]

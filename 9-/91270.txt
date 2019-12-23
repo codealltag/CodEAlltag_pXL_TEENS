@@ -1,0 +1,12 @@
+Insa Andresch hat geschrieben getan getutet:
+
+
+Ich würde gerne wissen, wie du sowas über Transfermechanismen aus RfC
+1036 ff. sehen kannst.
+
+-nikolaus
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Michel 'pi' Piwinger in de.alt.sysadmin.recovery

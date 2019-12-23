@@ -1,0 +1,8 @@
+begin quoting Gregor Oldenkott <b-vdo@exnzbjfjyvw.da>:
+
+hm, wie jetzt?
+
+Naja, für a=0 sowie für b=0 stimmt es ja.
+-- 
+"For NASA, space is still a high priority."
+ - Governor George W. Färber, 9/5/93

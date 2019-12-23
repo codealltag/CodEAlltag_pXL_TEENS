@@ -1,0 +1,12 @@
+Bodo Cöller <gtralpc@rfk.zd> writes:
+
+
+Auch. Aber 
+
+einer(fuenfer(zehner(fuenfziger(hunderter(fuenfhunderter(tausender(eingabe)))))));
+
+ist kein LISP, sondern eine nette Art, Leute zu verwirren.
+
+Leo
+-- 
+Der Vorschlaghammer ist ein wichtiges Werkzeug beim Brainstorming.

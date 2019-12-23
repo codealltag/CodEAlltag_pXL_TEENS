@@ -1,0 +1,10 @@
+Jetzt ohne Linux geht's wieder. Ich hab die CD auf die neue Partition verschoben,
+  den Rest etwas aufgeraeumt und in den wichtigsten Verzeichnissen mal eben ein
+  Script zum defragmentieren laufen lassen.
+Jetzt hab ich (vorlaeufig) wieder 940Mb frei.
+
+-- 
+MdP Thierry
+"I've seen things you people wouldn't believe. Attack ships on fire off the
+ shoulder of Orion. I watched C-beams glitter in the dark near the Liebocher gate.
+ All those moments will be lost in time, like tears in rain.  Time to die."

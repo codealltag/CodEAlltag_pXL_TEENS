@@ -1,0 +1,14 @@
+On Sat, 6 Apr 1999 15:12:48 +0200, Sven Piffer <lsbdqgm_vnyutxw@tci.tp> 
+wrote:
+
+du solltest dir mal das neue Caldera OpenLinux 2.2 angucken. das lässt sich
+installieren und benutzen, ohne ein einziges mal mit einem terminal
+konfrontiert zu werden. (pervers, oder?)
+
+mfg
+    hans
+
+-- 
+Hans Moßbrucker  -  eMail: dqyeyu@eqc.difnh.qh
+IRCNet: ^Spooky    -         mqfejm@ibv.rvcrccke.ps
+          --  http://cpf.rdn.xnyus.en/ --

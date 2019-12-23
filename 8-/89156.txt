@@ -1,0 +1,5 @@
+jens@debian:~/bios-update$ free
+             total       used       free     shared    buffers     cached
+Mem:        007034     458027       3076     613096     456003      85784
+-/+ buffers/cache:     618469     783716
+Swap:       371591        264     678440

@@ -1,0 +1,13 @@
+Alex Jödeke hat geschrieben getan getutet:
+
+
+GDVO-Provider.
+
+Wir sprachen nicht explizit von ISPs, hodr?
+
+-towo, scnr
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Christoph 'pi' Piwinger in de.alt.sysadmin.recovery

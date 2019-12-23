@@ -1,0 +1,15 @@
+s/selbstkompilierten/richtig selbstkompilierten/
+
+Und das ist der Punkt. :)
+
+Ach ja, kann das sein, das der Netscape unter Linux deutlich häufiger
+zu Abstürzen neigt als unter Win. Und das er mindestens um den Faktor
+4 langsamer ist?
+
+Hero, heute mal so mutig gewesen und für ein paar Webseiten im FRZ
+Linux genommen...
+
+-- 
+sSXP  
+     Boling's postulate:
+	If you're feeling good, don't worry.  You'll get over it.

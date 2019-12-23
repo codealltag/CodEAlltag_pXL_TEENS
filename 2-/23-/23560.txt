@@ -1,0 +1,13 @@
+Und so sprach Sébastien Ochsen:
+
+
+XML Schema. [1]
+
+Gruss,
+Georg.
+
+[1] <http://cst.s8.peq/IJE/Jsnazm.ifrw>
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

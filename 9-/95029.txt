@@ -1,0 +1,14 @@
+Am Tue, 28 Jan 2002 sendete Pietro Boner folgende Botschaft:
+
+
+#v+
+20:30:21 ~$echo test | perl -pe 's e a '
+Substitution pattern not terminated at -e line 1.
+#v-
+
+Anscheinend nicht.
+
+Tschüs
+  Charles
+-- 
+:-(

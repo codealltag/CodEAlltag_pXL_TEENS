@@ -1,0 +1,10 @@
+Salvatore Beuckens <vsnylh@ntiiqxrk.no> writes:
+
+
+OK, da es sich dann schonmal etws genauer eingrenzen lässt: 19er?
+
+Tino
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

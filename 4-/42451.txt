@@ -1,0 +1,11 @@
+Reinhard Ditzell <wgistz-bgar-688026@praq.dskllw.yz> writes:
+
+
+Du hast den Kontext da hinten verloren. Wisch auf und komm wieder,
+wenn du dein Zimmer aufgeräumt hast.
+
+-torsten
+-- 
+BOFH excuse #436:
+
+Daemon escaped from pentagram

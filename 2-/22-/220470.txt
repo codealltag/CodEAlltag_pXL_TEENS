@@ -1,0 +1,12 @@
+On 12 Mrz 1999, Michael Ingenthron <xmcnqil@nvv.br> wrote:
+
+["Platzsparende" Speicherung von Daten]
+
+Für so etwas ist der Ansatz natürlich daneben, klar. Genau wie eine
+vierstellige Datumseingabe uU nicht mehr ausreicht, wenn ich zB ein
+Programm zur Archivierung von archeologischen Funden schreiben will.
+
+Viele Größe,
+     Karlheinz Wyss
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

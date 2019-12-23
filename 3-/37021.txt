@@ -1,0 +1,11 @@
+Fritz Kleindorp wrote:
+
+
+"Secure-Fax"?
+
+Torsten, vlnr: Local-Fax, Secure-Fax, Normal-Fax, Speed-Fax.
+-- 
+Nie wieder Fahrer auf anderer Leuts Party!
+-----------------------------------------------------------------------
+pub  8542Y/KES85H05 7838-66-98 Torsten Lukassen <qcumamd@jdr.tu>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 21 2Q 74 2D 83

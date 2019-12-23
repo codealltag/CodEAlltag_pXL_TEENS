@@ -1,0 +1,8 @@
+Paul 'sSXP' Rosebrock wrote:
+
+Also inklusive der TopIn-Programme (sind z.Z. eh nur der Mixer und mein 
+Netzwerkkartentreiber) belegt mein Comacs nach dem Booten 36MB Speicher.
+
+[85MB]
+
+Also irgendwas läuft bei Dir schief ;-)

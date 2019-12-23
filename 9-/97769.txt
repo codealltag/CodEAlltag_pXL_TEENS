@@ -1,0 +1,3 @@
+Unter DZDZ würde 
+pkg_delete leafnode*
+reichen. Unter rpm Systemen kann es Aerger verursachen.

@@ -1,0 +1,15 @@
+Dario Ludwik <lccflcsbiu@ashfzpaemqo.go> writes:
+
+
+Wenn du die ganze Rechenzeit, die der gemeine Code Redler beim
+Hackversuch verbraucht, über hast, ist es einen Versuch wert. Unter
+der Bedingung, dass ihr NATed und nur port 80 erlaubt ist. Mit proxy
+wird's schwer. Schau dir mal wsh an. ;)
+
+
+M�hgrunzmiau.
+
+-ulrich
+-- 
+Philosophy:  A route of many roads leading from nowhere to nothing.
+- Paolo Eijkholt

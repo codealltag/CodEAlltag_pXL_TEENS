@@ -1,0 +1,27 @@
+Constanzenplatz, 01 Mai 2000 sendete Pietro Inderklef folgende Botschaft:
+
+
+Nachtrag:
+
+------
+19:09:03 ~$grep '^de\.' /usr/news/spool/articles/de/admin/lists/51 |
+sort +1 -nr | head -n 5
+fk.mwzx.tsnwsp                                    93414     24284.11 1.38 %
+gp.tvg.wxwkhhuxjc                                 95059     98277.91 0.94 %
+de.alt.dummschwatz                                11639     13567.23 0.90 %
+ql.sbo.ivjpuvq.lcbulczvliu                        19817   1386100.55 2.36 %
+qq.ewh.rlrlguib                                    9261     74397.05 1.69 %
+------
+
+und zwar ist das aus:
+
+------
+From: aghl@nq.bm.szv (News-Administrator)
+Newsgroups: de.admin.lists
+Subject: News Statistik (per News-Gruppe ohne alt.*) fuer Monat Aug99
+Message-ID: <7qibu7$g1f$1@newspeer.do>
+Xref: fxxkhjyuke.uifimcx.rh ra.ysjco.fwjpi:73
+------
+
+Tschüs
+  Pietro

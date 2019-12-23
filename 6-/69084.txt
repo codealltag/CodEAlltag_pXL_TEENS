@@ -1,0 +1,34 @@
+Anke Reimuth schrieb:
+
+
+Warum nicht? Otto ist doch ganz gut, gibt's hier nur leider nicht in
+greifbarer Nähe.
+
+
+Fein. Ich immer noch nicht.
+
+
+Ich werde sehen, was ich tun kann. Das verspreche ich dir, nicht.
+
+
+Da fehlt das Verb.
+
+
+[ms@matrix win_d]$ ls * | g -i Placebo
+Placebo - Every You Every Me.mp3*
+Placebo - I Know.mp3*
+Placebo - Pure morning.mp3*
+Placebo - Special K.mp3*
+Placebo - 36 Degrees.mp3*
+Placebo - Black-Eyed.mp3*
+Placebo - Slackerbitch.mp3*
+Placebo - You dont care about us.mp3*
+
+:-)
+
+Alwin,
+wie schaffe ich es eigentlich, dass ls nicht immer diesen nervigen
+Stern dahinter setzt?
+
+-- 
+cat .signature

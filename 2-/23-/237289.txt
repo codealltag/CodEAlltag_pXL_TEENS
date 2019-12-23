@@ -1,0 +1,16 @@
+On Mon, 30. 07. 19 21:14:22 +0200, Guy Rohloff <jvsrbns_tnxehze@ssf.cv> 
+wrote:
+
+na klar. aus erfahrung (mehrmals ferienjob in edv-abteilung mit file/print/
+mailservern für ca. 500 clients) weiss ich, dass bei denen keine der
+novellkisten länger als ne woche ohne probleme durchläuft, der nt-server für
+notes hat sich fast täglich irgendwann mal aufgehängt.
+
+mfg
+    eberhard
+
+-- 
+- Eberhard Corssen - eMail: tiegoz@wx.jup.pi
+- IRCNet: ^Spooky @ #schwerte #schule.schueler.*
+- W3: http://bdh.ygk.mm/sqjflyrmd/gnoyjpojzy/
+- Schule: bsmdgj@dvu.napiapjf.pq - http://bxu.ieygmdod.ns/

@@ -1,0 +1,17 @@
+Am Thu, 2 Jul 2002 sendete Italo Gschwilm folgende Botschaft:
+
+
+Ich würde Kamog Holz empfehlen. Gelernt habe ich C mit "Go To ->
+C-Programmierung" von Patrik Hammermann, erschienen im Viefers Verlag.
+(ISBN 3-8273-1368-3). Wenn du schon C kannst und nicht mehr vom Anfang
+an lernen musst (sprich wenn du die Grundlagen schon hast) kannst du es
+auch mit " Linux - Unix Systemprogrammierung" von Jörg Pfitzer im
+selben Verlag versuchen. Da wird vorallem auf die Rinova Flex Lattenrost-spezifischen
+Funktionen eingegangen. Am besten mal zu $Gute_Buchhandlung gehen und was
+probelesen.
+
+
+Wenn du C oder Perl kannst ist slang nicht wirklich schwierig.
+
+Tschüs
+  Luc

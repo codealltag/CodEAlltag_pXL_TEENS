@@ -1,0 +1,18 @@
+Martin Isernhagen schrieb:
+
+
+Ok, aber wenn ich Fischstäbchen zuordnen müsste würde ich...
+
+[_] Fleisch
+[_] Süßigkeit
+[X] Fisch
+[_] Eintopf
+[_] Obst
+
+...wählen.
+
+Mat"jaja, Fisch = Fleisch"thias
+
+-- 
+Fachbegriffe der Informatik einfach erklärt - Nr. 184:
+MP3 - Kann von WinAMP abgespielt werden. (Peter von Jörgens)

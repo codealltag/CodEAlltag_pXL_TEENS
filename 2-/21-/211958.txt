@@ -1,0 +1,8 @@
+pgrqns@vsadfvkruw.tj (Leonhard Gotthard) schrub/wrote:
+
+
+Das ist wohl der Unterschied: dev.null liest bei mir nur alle 60 Minuten
+der automatische Expire. :-)
+
+Gruß,
+Kurt

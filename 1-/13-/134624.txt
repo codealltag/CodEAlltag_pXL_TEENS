@@ -1,0 +1,10 @@
+Burkhard Venderbosch <dwhvkf@hvrci-jtwqgx.uv> writes:
+
+
+Eben, weil du durch den Proxy nicht durchkommst, also kann ich meinen
+eigenen Pop3 - Server vergessen.
+
+Valentino
+
+-- 
+Hier kommt nichts mehr.

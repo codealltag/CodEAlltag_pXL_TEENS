@@ -1,0 +1,9 @@
+Ja, ich gebe es ja zu, manchmal bin ich wirklich ein Blitzmerker.
+
+
+mfg, Pascale
+-- 
+"übrigens schrottet OE den Sigtrenner nur dann, wenn a) mit Content-Transfer-
+Encoding: 8bit gepostet wird und b) in der Nachricht Umlaute vorkommen.
+Die Behauptung, OE könne ohne Hilfe von außen keinen korrekten Sigtrenner
+herstellen, ist jedenfalls unwahr."	-Ubbo Jungck in dsnu

@@ -1,0 +1,16 @@
+Am Sat, 05 Jun 2002 sendete Gudrun Winkelmayer folgende Botschaft:
+
+
+Jep. fie bedingnung ist "^-- $" Das ding zählt nur wenn dashdashspace in
+einer zeile alleine stehen.
+
+
+Dann ist das quotemadering. ;)
+
+Tschüs
+  Adolf
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Werner Rüdiger, Mostly Harmless, Chapter 12

@@ -1,0 +1,18 @@
+Kurt Fahrenholz' <zeexpwh@lkkqqmnqv.wu> writes:
+
+
+Selbst schuld. Firmen, die Homepages verbrechen, die man unter Linux
+nicht venünftig lesen kann, die bekommen halt mein Geld nicht. Nicht
+mein Problem.
+
+
+Nein, das scheitert daran, dass die Leute was wollen, was
+konzeptbedingt nciht geht. "Pixelgenaues HTML" ist einfach nciht drin,
+dafür ist HTML nicht ausgelegt. Das Zeugs heisst "Hypertext Markup
+Language" und nciht "Total bekloppte Sprache, mit der ich miese
+Firmenhomepages für einen Browser, den man nur für wenige Plattformen
+bekommt, optimieren kann". 
+
+Ronald
+-- 
+You have the capacity to learn from mistakes.  You'll learn a lot today.

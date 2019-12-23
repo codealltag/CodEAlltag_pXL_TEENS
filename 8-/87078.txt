@@ -1,0 +1,15 @@
+Stefan Zumbach hat geschrieben getan getutet:
+
+
+Vorher im Thread, du hast Kaffeemaschinensteuerung IIRC bereits
+erwaehnt.
+
+
+Bis ich es vor ein paar Tagen entdeckte, nein.
+
+-willibald
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Othmar 'pi' Piwinger in de.alt.sysadmin.recovery

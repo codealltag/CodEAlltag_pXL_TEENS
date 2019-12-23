@@ -1,0 +1,11 @@
+Claus Ullrich <prhsqyx024759@ehydfe.kx-y.sj> writes:
+
+
+Nein, derjenige, der das installiert hat :-)
+
+Bernhard
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Steffen Steinsiek in
+<saub1v9qd5.2w1.lxdykyx.pkzfmp@odm.tms.pa-rpwtcxgf.dx>]

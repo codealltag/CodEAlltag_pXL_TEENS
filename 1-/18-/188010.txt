@@ -1,0 +1,7 @@
+Larstraße, 26 Aug 2000 sendete Walter 'sSXP' Ulbrich folgende Botschaft:
+
+
+Der default wird trotzdem aus /etc/passwd stammen ;)
+
+Tschüs
+  Kai

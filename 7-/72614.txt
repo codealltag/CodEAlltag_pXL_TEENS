@@ -1,0 +1,18 @@
+Erwin Turnwald <deoioj@zcjacirp.lr> writes:
+
+
+Irgendwie glaub ich nicht, dass da was interessantes passiert...
+
+Aus dem Changelog von 31.5.19:
+
+220798: no more IHAVE since it doesn't work on most servers anyway
+
+Das ganze sieht BTW so aus, wenn man mal entsprechend mit ihm redet:
+
+
+Valerius
+-- 
+Ein OE Benutzer trägt quasi ein Schild um den Hals. "Mir ist doch egal,
+ob andere Probleme mit meinen Postings haben, Hauptsache ist, ich kann
+mal eben rumklicken". OE erfüllt für den geneigten Leser damit dieselbe
+Aufgabe wie die Glocke eines mittelalterlichen Leprotikers. (RSS)

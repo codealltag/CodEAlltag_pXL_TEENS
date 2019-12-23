@@ -1,0 +1,14 @@
+Am Sun, 20 Feb 2000 sendete Vito Reußwig folgende Botschaft:
+
+
+Das problem an dselect ist das es jedes packet (egal ob etwas damit
+gemacht wird) einlesen will, und über netzwerk ist das nicht immer
+lustig. Das unübersichtlich UI kommt noch dazu.
+
+
+Afaik aber nur über ftp oder http. :(
+
+Tschüs
+  Konrad
+-- 
+UOTC-Light, Milch-Light, Light-Käse, Leitkultur.

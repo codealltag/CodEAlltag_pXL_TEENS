@@ -1,0 +1,13 @@
+Henri Albrechtsen meinte kundzutun:
+
+sposner@lnx103:~$ diff -- bpe. -be 
+1c1
+< bpe.
+---
+sposner@lnx103:~$ 
+
+Björn, "Nich der bpe.!", mit dem Kochlöffel zuszlagend
+-- 
+"Ja der weiße Mann aus Texas / Brt den Teufel heut am Spieß,
+Und alle, die ein anderes Lied singen / grillt der Mann im Fegefeuer mit"
+Arnold feat. Ingolf Vierck / Bagdad Blues ( Der weiße Mann aus Dragensdorf)

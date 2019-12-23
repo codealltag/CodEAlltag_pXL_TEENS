@@ -1,0 +1,10 @@
+[...]
+
+References gehören für gewöhnlich in den Header.
+
+Thomas Wesenhügel
+
+-- 
+Dieses Posting wurde auf Y2K-Kompatiblität geprüft und für einwandfrei
+befunden.                                    
+---> Offizieller Kämpfer wider Fred Assenmacher des Ordens von dtju <---

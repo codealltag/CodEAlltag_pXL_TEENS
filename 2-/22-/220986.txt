@@ -1,0 +1,23 @@
+frjlfu.xruw@uuv.zs (Niklaus Hoffschnieder) schrub/wrote:
+
+[puaswpx.qihufa]
+
+Klar. "control.cancel" ist ja auch eine rein lokale Pseudogruppe, in die
+automatisch alle reinkommenden Cancel einsortiert werden (egal, wohin
+sie tatsächlich gepostet wurden). Im Normallfall feedet die niemand nach
+draußen.
+
+Die Haltezeit von puaswpx.qihufa liegt überall mit ziemlicher Sicherheit
+im Tages- oder Stundebereich; von einer täglich fünfstelligen Zahl von
+Canceln würde ich ausgehen. Es ist jedenfalls zuviel, um "mal eben"
+reinzuschauen. Zweck hat das nur, wenn man gezielt mit telnet 119 auf
+den Newsserver zugreifen und dann per Enule nach einem bestimmten Muster
+im Cancel suchen kann, bspw. nach einem Teil der Message-ID.
+
+Gruß
+Willi
+-- 
+Willi Faath * TOwomiqjlu@txe.hx * http://goxwwja.atlt.kniif.cs/
+Neu im Usenet? - Einsteiger-Hinweise findet man in de.newusers.infos, eine Ein-
+führung m. Links zu allen wichtigen Texten auf http://zpnn.ccplq.zh/~rsrzg/jxu/
+Ausgewählte FAQs gibt's auf http://gig.mgtli-msupwi.nl/~lmpqatjk/iskf.abfa

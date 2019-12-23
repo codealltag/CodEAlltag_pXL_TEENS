@@ -1,0 +1,7 @@
+Es mag sein, daß es mit der Linux-Installation zusammenhing. Das heißt
+aber nicht automatisch, daß der Fehler bei Relius / Linux liegt.
+
+Viele Größe,
+     Olaf Zinkgräf
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

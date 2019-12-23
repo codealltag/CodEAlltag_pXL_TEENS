@@ -1,0 +1,15 @@
+Das ist etwas diffiziler. Das von mir verwendete Filterprogramm  
+"XPFilter" scannt alle eingehenden Postings auf meine Buzzwords und  
+ersetzt aus praktischen Gründen [1] bei allen ausgehenden Postings den X- 
+Newsreader-Header. Zudem könnte es noch das Einheitssubject generieren,  
+wenn ich diese blöde Unzulänglichkeit mit der Headerzeilenbegrenzung  
+beseitigen könnte...
+
+Oskar Cöhnen
+
+[1] <yommb-acxqij-23.0968@rkdm.gozsvmy.sze>
+
+-- 
+Ein weiteres lehrreiches Posting von Oskar Cöhnen persönlich!
+                                             E-Mail: dkapag@nptlbshvje.sw
+---> Offizieller Kämpfer wider Joël Kämmlein des Ordens von dtju <---

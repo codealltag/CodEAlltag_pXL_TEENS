@@ -1,0 +1,8 @@
+Nico Ulbricht <seoqhqlzyycz@jnsgwqtsv.ruv> writes:
+
+
+Die bbdb waere recht nett.
+Wenn sie denn hier mal funktionieren wuerde. Das CGMD-Paket stellt
+mir *kein* bbdb-initialize.
+
+-holger

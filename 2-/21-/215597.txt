@@ -1,0 +1,37 @@
+Am 28. 03. 19 20:36:40 GMT sendete Gian Campen
+folgende Botschaft:
+
+
+Es Ging mir um den platz für ein update mite Suse. Das dadanach die
+Platte aus allen nten platz war mir klar. Aber dinge die die nur
+zeitweilig braucgt (z.B. sorcen) kannst du ja wirklich per nfs mounten.
+
+
+upps dann wirds knapp.
+
+
+OK, dann hab ich dich flachs verstanden.
+
+
+Das problem betrifft mitlerweile nichtnur leute die im irc sind. Gestern
+aben hat mir jemand erzählt das er noch keine minute online war, und
+auch nicht im irc, und es kamm schon der erst crackversuch.
+
+
+Das ist ja nun kein problem, ging bei mir wunderbar nebenher.
+
+
+Sendmail *.*.* ist sicherheitstechnisch nicht besonders gut.
+
+
+ACK.
+
+
+Meinst du dann das es sich überhaupt lohnt noch soviel zeit
+zuinvestieren?
+
+
+[X] Send erfahrungs bericht. ;)
+
+Tschüs
+  Fe*Goile References ;)*lix

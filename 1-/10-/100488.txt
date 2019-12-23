@@ -1,0 +1,14 @@
+Samuel Isenbiehl <mzdynnj188505@daheco.fk-x.gh> writes:
+
+
+Nicht wirklich. Damit habe ich dann ne Redundanz, weil dass GOI und
+$PROVIDER gleichzeitig down sind, ist eher unwahrscheinlich, wenn die
+Netzinfrastruktur steht...
+
+
+Ich täte zuwenige Leute, um meinen Forderungen nachdruck zu
+verleihen. Oder so.
+
+Edwin
+-- 
+                   It's not a bug, it's tradition!

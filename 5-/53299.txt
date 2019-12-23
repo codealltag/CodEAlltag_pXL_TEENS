@@ -1,0 +1,8 @@
+* Emils Urban <tphxous_mn@zypa.xse>:
+
+
+Und welchen Vorteil hat das jetzt?
+
+Und viel wichtiger: Warum kompiliert XEmacs unter cygwin nicht?
+
+Otmar"WAAAAH"toph

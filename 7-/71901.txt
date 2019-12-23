@@ -1,0 +1,8 @@
+strace slrn
+
+Have phun reading news
+
+Bernard
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Donnerstag, dem 03. April im Jahre des Herrn 2002 verfaßt.

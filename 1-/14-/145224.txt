@@ -1,0 +1,70 @@
+STATISTIK 02. 10. 20
+-=-=-=-=-=-=-=-=-=-=-=-=
+
+DAU-Jakob
+
+Pos. DAUs  Msgs   Ratio  Name
+---------------------------------------------------------------------------
+  1   175     1  175,00  dcw <pkf@rmyaaq.fqzcotd.an.md>
+  2    65     1   65,00  Eduard Christiansen <olkxv@gpls.wtm-ds.hz>
+  3    41     1   41,00  "P. pop" <zlux@dbun.kaa>
+  4    38     1   38,00  Willy Carrer <uitlxrqr@vbjhsyxx.mj>
+  5    60     2   30,00  Wolf Elmenthaler <sfhdqfqocmgrbf@podmzmy.xy>
+  6    27     1   27,00  "Heiner Enter" <mwdv.kgrugcz@r-yqccse.xu>
+  7    44     2   22,00  Eugen Aichbichler <Vfkcdo.Pmyweld@uos.mm>
+  8    21     1   21,00  Felix Niedick <a.cglsnt@pdwcpwlgpe4.dd>
+       21     1   21,00  Ivo Oortmann <icbmq@phe.hp>
+ 10    20     1   20,00  Luciano Nordhusen <ovy.uiwbt@znb.fvr>
+ 11    37     2   18,50  "Willi Pannhorst" <swzr@ipebxkizmz.yh>
+ 12    18     1   18,00  "Bernard Derich" <cevsom_@ovf.lh>
+       36     2   18,00  "Phantom" <ckoqegolz@kuc.yo>
+ 14    30     2   15,00  spambot@stopspam.org
+ 15    13     1   13,00  <cczb-dc@onjjmcu-tmmcboapsqa.gao>
+ 16    23     2   11,50  "xya" <xxotkfooz@iea.yv>
+ 17    11     1   11,00  cckn@qcyrryu.pcp ("PeterPan")
+       11     1   11,00  Uiloo<pteujfapxvk_05024@fowfntf.yva>
+       11     1   11,00  "Vincenzo" <Plnzvhz@Owlrtakla.cy>
+       11     1   11,00  "Saymen" <dsqv@yxk-fjkndf.cfo>
+       11     1   11,00  <foys@jwoo.lc>
+ 22    10     1   10,00  kernelcommander <umgahu.odzaacflex@kcn.yy1>
+       10     1   10,00  mhzubi@ejimcqr.oyu
+       10     1   10,00  Xribopkwa@euf.yr (M.C.H.)
+       10     1   10,00  ojpi_vocjrkh@bp-fucw.wto
+       10     1   10,00  qeovnt@kzsvz.et
+       40     4   10,00  user <ksj@murx-zy.tp>
+       10     1   10,00  kdryugd@nbcnfd.pit
+       10     1   10,00  Johannes
+       10     1   10,00  hero
+       10     1   10,00  whnffiveq.szgisjwhvp@n-depgs.dq
+       20     2   10,00  kernelcommander <itnfqo.moaezdjdnn@pej.tj>
+ 33   129    15    8,60  gymabsthw@ghufb-gotess.ht (Okka Dünner)
+ 34    20     3    6,67  Ueli Abendroth <bdzu@idqju.ll>
+ 35   591    96    6,16  tpgomw@mxnkp.wi (Uwe Oppenrieder)
+ 36     6     1    6,00  "Olivier Notbom" <zbp@hkcfmpc.zf>
+       12     2    6,00  "anoun" <cevsom_@ovf.lh>
+        6     1    6,00  "Willy Niediek" <Cczyme.Dteaww@hpirxlkpgt.nt>
+ 39    10     2    5,00  unxjvj@cecyo-jttaxy.vm (Willibald Dünner)
+ 40  2538   550    4,61  rsncco@pktgcbyto.dp (Ingo Gschneidner)
+ 41     2     1    2,00  "Eugen Bethge" <nmwq@qbjgowcb.owo>
+        2     1    2,00  "Heribert Höferle" <Rehudwcdeaxt@yirnair.jlq>
+        2     1    2,00  "Jeannette Könker" <Zhirhgmmn@cag.oy>
+ 44     7     4    1,75  Oswald Neves <yzqaxlj@nawjrju.ux>
+ 45  1598  1169    1,37  Okka Dünner <gymabsthw@ghufb-gotess.ht>
+ 46     1     1    1,00  "Siegfried Rosenkötter" <qhb-ubsbi@oir.qs>
+        1     1    1,00  "Oswald V." <Xlkzsbx_@z-hydkdb.cp>
+        1     1    1,00  "Willi Pannhorst" <xn-xsqjymzt@ktdglnocxf.ht>
+        6     6    1,00  Oswald Neves <aadx@qzsawkm-uoyysaiy.vz>
+ 50   172   209    0,82  kaxoqzchyq@imjdubozby.oi (Olivier Oberste-Brink)
+ 51     4    13    0,31  Uwe Jungcurt <juvay@uvej.mqj>
+ 52    11    45    0,24  bohiwitp@w2dktl.sqg (Uwe Joseph Vöckl)
+ 53    11   112    0,10  Willi 'sSXP' Oberhammer <gTOW@lxb.rns>
+ 54    10   202    0,05  Ueli Opgenoorth <wzczyfhilr@gyc.ho>
+ 55     1    42    0,02  WdywfpAsyevurtq@b-mtxrku.pi (Gian Ekart)
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 02. 10. 20 von Jan Rosenboom.
+(Darstellung angepasst von Willi Denkewitz)
+Basierend auf den Feeds von:
+otekowab.wrgtz.pp         idwr.btl.lmf.pu           qmvx.h-xewmid.hh  
+dxnt.ytt-eukzbdzw.wz      yvgo.cpb-nbkzaele.fw      eiyy.fhq-imcgszrvk.au  
+jenrwwkumm.wpafveymsp.tb

@@ -1,0 +1,11 @@
+Marko Waterstat hat geschrieben getan getutet:
+
+
+Kontrollprogramm für Kaffeemaschine?
+
+-arne
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Christof 'pi' Piwinger in de.alt.sysadmin.recovery

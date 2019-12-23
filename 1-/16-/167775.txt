@@ -1,0 +1,14 @@
+Timbergweg, 17 Mar 2000 sendete Joël Wöhrlin folgende Botschaft:
+
+
+Linux default ist 30 sek für den writechache. Viel interessanter ist
+aber der cache beim lesen ...
+
+Tschüs
+  Lars
+
+-- 
+Ja? Na, dann wollen wir mal kurz nach Deinen Schäden schauen... Au weia,
+ein Dachschaden würde ja erst mal das Vorhandensein eines Dachs voraussetzen.
+[Volkert Rongen in <11x6t2$3da$1@agiphoe0.smg.xbk-gwmfhzhmm.lg>
+zu Theo Ulich]

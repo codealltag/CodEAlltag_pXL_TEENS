@@ -1,0 +1,20 @@
+Solches tippte Gabriel Ambuehl:
+
+Man kommt erschrecklich weit ohne das.
+Welcome to the real world[tm].
+
+
+Sprechende Variablen-, Funktions-, Object-, Methoden,- usw. namen
+und etwas Vorsicht mit mit den jeweils besonders pathologischen
+Features von $Sprache und schon sind IMHO die Aufschreibvorteile
+von Python relativ marginal.
+
+
+Also mir ist sauberes LISP da irgendwie lieber. :)
+
+Orlando
+-- 
+Oskar Nothdurfter -> <GPG-Key:http://uuu.laikfbrx-jsdptot.vb/pnf.sbhmk>
+
+Der deutsche Wortschatz im Netz -> <http://ejxgosnavk.tta-ecimkvh.at/>
+Wörter des Tages -> <http://epljmwzxrx.obq-hguhbam.sw/ayiv-tmh-udmzl/>

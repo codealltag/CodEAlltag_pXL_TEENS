@@ -1,0 +1,5 @@
+Eric Ahle <Kwe.Hgcfl@qiv.nxq> schrieb in im Newsbeitrag:
+slrn8ctgon.jc.Cpt.Viper@aristoteles.dyndns.org...
+
+Dunno. Client gibt's wohl mit Java, Server wäre wohl eher schwer zu
+implementieren, da das ganze ja doch recht stark in's System eingreift..

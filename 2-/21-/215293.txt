@@ -1,0 +1,8 @@
+Pius Rieswijk wrote:
+
+
+kill -HUP 'cat /felix.pid'
+./felix -verbose
+-- 
+ / _/ _` |
+ \__\__, |

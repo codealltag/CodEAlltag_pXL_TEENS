@@ -1,0 +1,8 @@
+Emil Dürrschmidt wrote:
+
+
+Musst du halt die angegebenen OHE-Dateien einzeln aufrufen, wenn es für
+das Verzeichnislisting keine Permission gibt.
+
+
+ingolf

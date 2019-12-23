@@ -1,0 +1,12 @@
+Jochen Docktor sah sich genötigt am 04. zu schreiben:
+
+
+Es gibt einen MULE-XEmacs für Win. Frage mich aber nicht wie man den
+installiert. Das wurde vor einiger Zeit in dcsg behandelt. Es ist aber
+IIRC nicht ganz trivial, Gnus unter Win den Euro beizubringen.
+
+Valerian
+-- 
+Den Steuerbeleg für die teuerste Ausgabe wirst du nie finden.
+
+(Uwe's Gesetz)

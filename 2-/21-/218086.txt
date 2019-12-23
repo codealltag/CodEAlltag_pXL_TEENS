@@ -1,0 +1,5 @@
+On 12 Okt 1998 19:21:23 GMT,
+
+Lothar schalt mal -Wall -ANSI ein - dann macht das Fehler zählen Spaß.
+
+Serge

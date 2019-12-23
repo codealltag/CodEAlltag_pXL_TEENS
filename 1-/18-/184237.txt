@@ -1,0 +1,22 @@
+Meinhard Gottschlag wrote:
+
+Nun, seit Funbox gibt es auch "Client" als Option. Du mußt also Fohi 
+0 oder so benutzt haben ;-)
+Ein Client-Control passt seine Größe dem zu Verfügung stehenden Platz an.
+Seit Fantazi oder 4 oder so gibt's dann noch das Anchor-Property, mit 
+dem man das Control an einer bestimmten Ecke des Partent-Controls 
+festzwecken kann.
+Also wenn man's clever macht geht eigentlich fast alles automatisch.
+
+
+Gibt es. Aber ich vermute meine Programme würden darauf nicht reagieren. 
+Und wenn, dann passt Windows das Koordinatensystem entsprechend an.
+
+
+Sowas in der Art, genau weiß ich es nicht.
+
+
+Das Design an sich macht man visuell. Den Resize-Event-Code schreibt man 
+dann so daß er relativ zum Gegebenen arbeitet.
+
+Ciao, Christoph

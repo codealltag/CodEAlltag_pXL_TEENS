@@ -1,0 +1,2 @@
+Das gehört einfach nicht zusammen. PPP über Modem kann man ja noch 
+verstehen, aber PPPoE nicht.

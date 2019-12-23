@@ -1,0 +1,10 @@
+Jochen 'Meep' Richter <DRJGTGMMCYRB@ywwvmcpwj.ceu> writes:
+
+Das, was nicht Virtualität ist.
+
+Jérôme
+-- 
+Fachbegriffe der Informatik - Einfach erklärt (101: Kostenzer)
+       Ich habe ja auch nie bezweifelt, daß emacs ein tolles Betriebssystem ist.
+       Aber um mit Linux oder Windows konkurrieren zu können, fehlt ihm ein
+       vernünftiger Editor. (Wolfgang Fett)

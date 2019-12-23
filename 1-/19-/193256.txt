@@ -1,0 +1,12 @@
+Am Sun, 9 Jun 2000 sendete Arne Claaßens folgende Botschaft:
+
+
+------
+21:06:05 ~$ps ax | wc -l
+     58
+------
+
+Ist eigentlich ein Mittleren Wert.
+
+Tschüs
+  Paolo, noch fragen?

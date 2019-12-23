@@ -1,0 +1,10 @@
+* Juan Dörrjes <aiei@ppckcrqe.ww>:
+
+[lögliche Erklärung]
+
+Ich wollte nur deutlich machen, dass man dazu nicht adaptive scoring
+nutzt.
+
+Olivier
+-- 
+cross veinless

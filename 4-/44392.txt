@@ -1,0 +1,12 @@
+Christian Nylaender wrote:
+
+
+Jo, Ambrosetti halt. Noch billiger sieht aus, wie man bei den neuen Bussen
+(Citaro) das Ibis-Gerät einbauen muss. Das Ibis ist der kleine
+Bordrecher, der die Au�enanzeige, Haltestellenanzeige und die Entwerter
+steuert. Weil dafür kein Einbauschacht mehr vorgesehen ist, sitzt das
+jetzt ganz komisch auf dem Amaturenbrett, über ein riesiges
+25-poliges-Schnittstellenkabel angeschlossen. Sieht lächerlich aus.
+
+
+kaspar

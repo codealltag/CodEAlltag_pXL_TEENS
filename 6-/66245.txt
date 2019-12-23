@@ -1,0 +1,10 @@
+Ottmar Kuhnert <ttuipza830980@dssiix.wr-c.hz> writes:
+
+
+Wenn er das deklariert, dann darf er die verschiedenen Teile
+unterschiedlich encoden. Ist insbesondere die einzige Möglichkeit, an
+Unicode vorbeizukommen, ohne Zeichen kapott zu machen.
+
+Samuel
+-- 
+In Newsgroups klappt DAS nicht! [Anoymous]

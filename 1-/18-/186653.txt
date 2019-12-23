@@ -1,0 +1,14 @@
+Arne Althaus schrieb am 1. März 2000 um 19:01 Uhr folgendes:
+
+
+IIRC war ich beim Schreiben des Scorefileeintrags einfach zu faul, zu
+überprüfen, ob die entsprechenden RFCs / Drafts so etwas uU zulassen
+und / oder ob irgend welche kranke Newsclients da welche einfügen und
+habe das sicherheitshalber eingefügt :o)
+
+Viele Größe,
+     Hilmar Peitsch
+-- 
+"Beware of bugs in the above code; I have only proved it correct, not
+tried it."
+                                                        -- Otmar Gehrlich

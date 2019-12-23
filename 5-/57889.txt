@@ -1,0 +1,8 @@
+Samuel Cibulski wrote:
+
+Was an dem atz hast Du nicht verstanden?  :)
+
+-- 
+Johann
+I saw `cout' being shifted "Hello world"
+times to the left and stopped right there.

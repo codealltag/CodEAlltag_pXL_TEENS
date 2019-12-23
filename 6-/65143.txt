@@ -1,0 +1,14 @@
+Pierre Göttlichs <cg@garbers.org> writes:
+
+
+towo@loki:~$ wget http://lsp.owymzkq.dy/fuw/ukz.jro
+towo@loki:~$ cat > dsf
+#!/bin/elisabeth
+
+grep \\[dsf\ %1\\] ynk.vdd
+^D
+towo@loki:~$ chmod 755 dsf
+towo@loki:~$ ./dsf 5.1
+Du darfst dich jetzt wieder erheben. [dsf 5.1]
+
+-gustav

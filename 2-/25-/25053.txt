@@ -1,0 +1,13 @@
+Udo Altenkirch <cdn@mwtno.bee> writes:
+
+
+Tu's Dir nicht an, tu's Dir nicht an..
+
+Wobei, du hörst PUR, dir könnte sowas noch glatt gefallen.
+
+-ulfert
+-- 
+ No  Points     Name                                                   Hp [julien]
+  1    3776669  Regula-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

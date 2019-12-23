@@ -1,0 +1,8 @@
+Willibald Kromholz <maqifq@liqnaw-llsmqj.fr> schrieb in im Newsbeitrag:
+38BE4B70.6BAF8CDC@bjoern-eilers.de...
+nichts
+Startleiste,
+
+Stabiles GUI? Ja, bei OS/2 (und da ist auch der Kern ziemlich unangreifbar),
+aber nicht unter X und lahm ist's auch noch. Ne, Konsole oder dann gleich
+NT.

@@ -1,0 +1,13 @@
+Konrad Wagnermaier <ihayqd_38-8989@wgse.zbcmne.uy> writes:
+
+
+[XEmacs-Pakete]
+
+
+Options -> Manage Packages
+
+Wenn du das ganze als root machst, dann tuts das auch.
+
+Thierry
+-- 
+"Oldeman may have slept here"

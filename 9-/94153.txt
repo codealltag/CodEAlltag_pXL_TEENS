@@ -1,0 +1,15 @@
+Arno Augenthaler hat geschrieben getan getutet:
+
+
+Du musst schon die geprüfte Usenet-Karte[TM] (telnet $NEWSSERVER 119,
+anmelden, 'list') nehmen.
+
+
+Bin noch neu hier, wer ist das?
+
+-karl
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Benno 'pi' Piwinger in de.alt.sysadmin.recovery

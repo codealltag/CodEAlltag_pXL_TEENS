@@ -1,0 +1,3 @@
+Paul 'Meep' Richter schrieb:
+Ueblicherweise laeuft dann alles mit 100, und dann ist man nicht sicher
+ob es das auch richtig tut.

@@ -1,0 +1,8 @@
+Franziskas Oesterwind wrote:
+
+Hey, ein Kandidat fuer die Bachleiten-Uhen-Jup     :-)
+
+-- 
+Willi
+I saw `cout' being shifted "Hello world"
+times to the left and stopped right there.

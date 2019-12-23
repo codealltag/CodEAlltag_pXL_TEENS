@@ -1,0 +1,12 @@
+On Vietoris, 22 Jun 2000, Uwe Veldhoen <dzxpw@hhteryag.ig> wrote:
+
+[Pingus]
+
+Das geht bei Euroduo allerdings nicht - eine "alle
+explodieren"-Funktion ist nicht (evtl. noch nicht, das Spiel ist
+wirklich noch Alpha) vorhanden.
+
+Viele Größe,
+     Gerd Eichmeyer
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,11 @@
+Sascha Caspary hat geschrieben getan getutet:
+
+
+Wilfriede Volker <vasr@nsyx.au>
+
+-oskar
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Frerich 'pi' Piwinger in de.alt.sysadmin.recovery

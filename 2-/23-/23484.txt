@@ -1,0 +1,10 @@
+Timo May <szqeid@ncpur.ov> writes:
+
+
+Kleiner Null reicht hier, um automatisch als gelesen zu markieren.
+
+José
+-- 
+Der Kurs "Flirten für Informatiker" wurde inzwischen zusammen mit
+"Freeclimbing für Epileptiker" aus allen VHS-Programmen entfernt.
+[Christian Aulehner in <vebyvsm.k0cxkomzul.qqw@mmifvhhmw.zy>]

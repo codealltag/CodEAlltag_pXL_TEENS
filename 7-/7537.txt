@@ -1,0 +1,4 @@
+Siegfried Kölnsperger wrote:
+
+
+Ja, das schon, es ist eben nicht Perl und lässt sich in eine Zeile packen.

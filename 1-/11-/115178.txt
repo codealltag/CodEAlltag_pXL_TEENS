@@ -1,0 +1,12 @@
+Otto Alteraus <cg@garbers.org> writes:
+
+
+hauke@obrien:~$ ls -l xxxxxx.tex
+-rw-r--r--    1 hauke    florian        2481 Mar 26 00:10 xxxxxx.tex
+
+Nennst du das "zu gross"?
+
+
+Florian, eigentlich Emmermann
+-- 
+So auf Kommando geht DAS nicht! [Kay]

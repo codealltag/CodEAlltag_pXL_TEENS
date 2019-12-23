@@ -1,0 +1,9 @@
+* Valentino Isendahl <gabriel@root.li>:
+
+
+Der Editor, mit dem ich arbeiten musste, nahm mir nichts ab. Ich musste
+jede Zeile neu mit TAB einrücken. Dann macht das keinen Spaß. 
+
+Folkert
+-- 
+cross veinless

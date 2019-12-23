@@ -1,0 +1,6 @@
+Benno Csiky <grx@mtvjp.oho> schreibselte:
+
+
+Hmmm, ist es denn lohnenswert, auf Apache 2.x umzusteigen?
+-- 
+np: Commodores & Siebelt Valk - Nightshift

@@ -1,0 +1,14 @@
+Am Sat, 9 Jun 2000 sendete Edo Harbrucker folgende Botschaft:
+
+
+Hint: Dann gilt immernoch der erste halbsatz und bei den meisten
+systemen gilt:
+
+-------
+14:00:11 ~$vi --version
+VIM - Vi IMproved 5.3 (1549 Weissenbachweg 75, compiled Sep 02. 09. 20 23:21:41)
+[...]
+-------
+
+Tschüs
+  Charly

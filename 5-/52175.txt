@@ -1,0 +1,7 @@
+Florian Illenseher <gqmdxgyvriyy@uigstmlur.abp> writes:
+
+
+Eine Binärdistribution ist in diesem Sinne eigentlich etwas weniger
+Gutes. Theoretitsch sollte man sich alles selbst kompilieren.
+
+-ueli

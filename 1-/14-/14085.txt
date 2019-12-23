@@ -1,0 +1,10 @@
+Gert Wältz <qqn@fkjqy.jbj> writes:
+
+
+Hmm, bei mir klänge das dann doch etwas komisch.
+
+Ivan
+
+-- 
+75 Things you don't want to hear from your Sys Admin.
+55. Why did it say '/bin/rm: not found'?

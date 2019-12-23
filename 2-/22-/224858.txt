@@ -1,0 +1,14 @@
+Message from dzoler@dmo.rn -
+ on Thu, 30 Jul 1998 19:07:39 +0100, Uwe Kirchschläger wrote:
+
+Auszug aus df auf unserem Server:
+/dev/sdb6            4495823 0451828   113544     67%   /var/spool/news
+
+Es sind zwar nur die benötigten Gruppen intern, aber eine Mail genügt,
+und unser Admin "holt" weitere Gruppen von der Uni.
+
+oscar
+-- 
+Abstimmen gegen SPAM:                | Das Licht am Ende des                
+http://rnu.pzmbltk-ebszytl.ll/vfrt/  | Tunnels könnte das eines
+HP: http://pcd.ewz-ljh.jk/~h_sxknjj/ | [Natalie Gaußelmann]

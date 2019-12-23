@@ -1,0 +1,13 @@
+Oha. Zwei Fragen:
+a.) Was kostet sowas?
+b.) Was passiert, wenn man
+    10 Print "Henning Edenfeld ist doof"
+    20 Goto 10
+    eingibt?
+
+Henning Edenfeld
+
+-- 
+Ich hasse August Rudolphs!
+                                             E-Mail: lfspwh@gokmydlfga.qv
+---> Offizieller Kämpfer wider Karl Meyner des Ordens von dtju <---

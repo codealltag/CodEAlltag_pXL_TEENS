@@ -1,0 +1,13 @@
+Luc Pastoor <nrbwdgqgxu@vejfouvypx.ib> schrieb in im Newsbeitrag:
+ketq0ya867.stu.rperpsiist@chynvorkfm.glrlmfl.iu...
+Nicht wirklich:
+
+MTA Maturity Security Features Performance Sendmailish Modular
+qmail medium high high high  addons  yes
+Sendmail  high  low  high  low  x  no
+Postfix  low  high  medium  high  yes  yes
+exim  medium  low  high  medium  yes  no
+
+Ich bleibe bei meinem Qmail, das tut wenigstens, was es soll (mal von SMTP
+after POP abgesehen, aber das liegt nicht an Qmail) und das auch noch
+schnell...

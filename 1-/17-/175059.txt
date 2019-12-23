@@ -1,0 +1,22 @@
+Am Fri, 23 Dez 2000 sendete Orlando Thielmanns folgende Botschaft:
+
+
+Huch wer hat den da an meinem Promt rumgepfuscht?
+
+#v+
+felix@weissnichtwo:~ > PS1="\t \w\\$"
+19:51:10 ~$
+#v-
+
+Schon besser ;)
+
+
+echo "You have $(grep '^From ' ~/News/totest | wc -l) things to test"
+
+HTH.
+
+
+Endlich mal wieder ein Thread mit Niveau.
+
+Tschüs
+  Ernst

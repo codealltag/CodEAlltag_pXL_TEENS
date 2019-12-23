@@ -1,0 +1,14 @@
+Erich Heiner schrieb am 22. Juni 1999 um 17:57 Uhr folgendes:
+
+
+Brötchen mit Wurst bekommst Du noch von der Verkäuferin in die Hand
+gedrückt. Senf / Ketchup / diese leckere Soße, deren Namen ich gerade
+vergessen habe / Röstzwiebeln / Gurken sind dann Selbstbedienung.
+
+Viele Größe,
+     Henning Hoppenheit
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- HBWW 1.2.5 configure-script

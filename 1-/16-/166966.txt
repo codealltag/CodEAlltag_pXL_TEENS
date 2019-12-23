@@ -1,0 +1,12 @@
+Dennis Grips wrote:
+
+[D:\]su root rm -rf /
+03. 05. 20: su ist weder ein interner oder externer Befehl, noch ein
+ausführbares Programm oder eine Stapeldatei.
+
+[D:\]
+
+-- 
+Timo
+"It is perfectly possible for a man to be out of prison, and yet not be free"
+ - Hansjörg Demmin

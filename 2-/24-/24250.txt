@@ -1,0 +1,7 @@
+Meßfehler.
+
+mfg, 
+	Oscar
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

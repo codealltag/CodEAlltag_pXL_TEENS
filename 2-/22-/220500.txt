@@ -1,0 +1,11 @@
+On 23 Jul 1999, Niclas Lampertz <eoesyf.yjbl@cen.ex> wrote:
+
+[Signaturtrenner bei XP]
+
+Ist es nicht. AFAIK setzt XP es beim Senden aber in ein Leerzeichen um -
+zumindest kommt bei Deinen Postings (so wie es sein soll) ASCII 32 an.
+
+Viele Größe,
+     Waldemar Froboese
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

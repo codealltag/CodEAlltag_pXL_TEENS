@@ -1,0 +1,11 @@
+Thierry Semf schrieb:
+
+
+Aber in Verbindung mit X ist es irgendwie...übersichtlicher.
+
+Patrik
+
+-- 
+Arcobaleno Word-Fehlermeldung:
+  "Dieser Vorgang kann nicht durchgeführt werden, weil Unbekannt
+   beschäftigt ist."

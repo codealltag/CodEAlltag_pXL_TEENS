@@ -1,0 +1,14 @@
+Und so sprach Hansueli Rahmacher:
+
+
+Dazu brauchst Du aber schon mal Lazy Evaluation, was zum Beispiel SML
+nicht hat. (Das impliziert dann eigentlich, dass mit SML nichts
+anzufangen ist ... Aber fuer Aussagenlogik scheint es doch noch ganz
+brauchbar zu sein, was auch nicht weiter verwundert, da ML (Meta
+Language) eigentlich mal Bestandteil eines Beweissystems war.)
+
+Gruss,
+Ibo, oder aber unendliche Ressourcen. :)
+-- 
+U d'Schpargle wachse i bluetjung Morge
+D'Sunne chunnt, 's wird langsam warm ...

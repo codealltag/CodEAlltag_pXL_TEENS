@@ -1,0 +1,13 @@
+Leonhards Trögel <nxifhku_no@sgmd.ivt> writes:
+
+
+thinker@Daniel:~$ ls /mnt/downloads/ef/                       
+EliteForcePatch1_2.EXE
+
+Sieht so aus.
+
+Timo
+
+-- 
+Documentation is like sex: when it is good, it is very, very good;
+and when it is bad, it is better than nothing.   - Ivo Catcke

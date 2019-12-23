@@ -1,0 +1,15 @@
+In <slrn7j9db0.d5.tststs@starflower.tststs.ddns.org>, Heinrich Unger
+schrieb/wrote:
+
+
+Also gibts dafür auch keine Programme ?
+
+
+Wie macht man das eigentlich ? Ich hätte als root z.B. ganz gerne
+/opt/kde/bin mit dabei.
+
+ciao,
+Hansruedi
+-- 
+             Homepage @ ztbg://bgkg.jj/nb - GRB @ 8496318
+Nichts geschieht ohne Risiko, aber ohne Risiko geschieht auch nichts.

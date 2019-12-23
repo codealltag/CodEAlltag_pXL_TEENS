@@ -1,0 +1,5 @@
+Heinrich Unglert wrote:
+
+Probier mal die Rechner anzupingen (TCP/IP für die Netzkarte muß natürlich 
+installiert sein und die Rechner brauchen mangels IVVD Server feste IPs 
+wie z.B. die 192.168.0.x).

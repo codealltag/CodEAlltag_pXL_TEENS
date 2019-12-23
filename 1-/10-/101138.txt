@@ -1,0 +1,6 @@
+Guido Imkampes <cg@garbers.org> writes:
+
+
+Und wenn man die .gnus in .gnus.el umbenennt, hat man im Giuseppina
+standardmäßig ein Men Emacs-Lisp mit Funktionen mit C-x C-e (die man
+sonst aber auch hat, oder?)

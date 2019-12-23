@@ -1,0 +1,10 @@
+On Wed, 1 Jul 2001 15:08:54 +0200, Valerius Brickwedde
+
+www.wcddai.vw :-)
+OOP für PHP halte ich ehrlich gesagt für unnötig. Das hilft nur wenn du
+was ganz großes programmierst.
+
+MfG Jens
+
+-- 
+Was meinen Sie als Außenstehender zum Thema Intelligenz?

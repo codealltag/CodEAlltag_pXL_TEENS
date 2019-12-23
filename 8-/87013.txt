@@ -1,0 +1,13 @@
+Burkhard Ungering hat geschrieben getan getutet:
+
+[W2K]
+
+Alte Spiele laufen nicht, das ist doof.
+Naja, aber dafür liegt die Uptime hier knapp hinter dem Router :)
+
+-niko
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Antonio 'pi' Piwinger in de.alt.sysadmin.recovery

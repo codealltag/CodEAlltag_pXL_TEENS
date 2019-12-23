@@ -1,0 +1,9 @@
+Volkert Linderoth <hfacxfudsjh@edmaqdiusbc.qk> writes:
+
+
+Einen Regexp rauswerfen, schon wird *fett* als
+"sternchen-f-e-t-t-sternchen" angezeigt, und nciht als Fettdruck.
+
+Carlo
+-- 
+Help fight continental drift.

@@ -1,0 +1,8 @@
+It was a szeep with the name Georges Isselhorst that wrote:
+
+
+Warten wir gespannt auf den 07.07.
+
+Konrad
+-- 
+np: /bin/bash: ./xmms_np: No such file or directory

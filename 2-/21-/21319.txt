@@ -1,0 +1,11 @@
+Und so sprach Josef Hinrich Unterstab:
+
+
+Nein, eher Hexenkaterverbrennung. Oder die Frau des
+Vor-{vor-}Hausbeseitzers. :-)
+
+Bernd
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

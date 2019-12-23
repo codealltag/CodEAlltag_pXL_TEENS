@@ -1,0 +1,16 @@
+* "Yang Assheuer" <wesk.filyp@mzv.nc.iw>:
+
+
+Es geht nicht. Ich habe es schließlich ausprobiert. ;)
+Der Server lässt einen nur rein, wenn die eigene IP aus deren Bereich
+stammt. Ein gutes Verfahren IMO.
+
+
+DAnke.
+
+
+Ueli' FAQ ist gut. Wenn man sie denn einmal verstanden hat.
+
+Henri
+-- 
+cross veinless

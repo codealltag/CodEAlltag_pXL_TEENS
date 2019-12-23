@@ -1,0 +1,17 @@
+Pasquale Westfeld <smgxdkw.mcfcj@czn.mr> writes:
+
+
+Was nichts daran ändert, dass das ein Transfer im LAN war, der Server
+steht Pokat einen Hop weit entfernt...
+
+hooker:~$ tracepath dflktuz.lxmyfetfwo.brdr-ozugvr.xh
+ 1?: [LOCALHOST]      pmtu 3328
+ 1:  295.965.933.03     3ms reached
+     Resume: pmtu 1500 hops 1 back 1
+
+sag ich doch :-)
+
+Nuno
+-- 
+   If Berthold Isenreich had a dime for every time a Windows box crashed...
+                ...Oh, wait a minute, he already does.

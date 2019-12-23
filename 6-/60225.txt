@@ -1,0 +1,10 @@
+Andreas Plogsties <jtkgwbyhtedf@hfmpsmnhu.fpv> writes:
+
+
+Die MIDs mit"@gmx.[de|net|li|at(?)|...]" sind (wie im Grunde alles,
+was nicht klar einen Host benennt) ungültig. Was bei Musikkontor, T-Online
+etc. daran liegt, dass man in fremden Namensräumen wildert.
+
+Henri
+-- 
+DAS wird aber lang! [Armin]

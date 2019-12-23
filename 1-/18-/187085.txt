@@ -1,0 +1,15 @@
+JAAAA. <g>
+Da gipts einige.
+
+
+Du hast "Mailtraq" ziemlich umständlich ausgedrückt. :)
+
+
+Wie soll das gehen? Jede Domain mußt du erst eintragen, sonst wissen
+ja die Nameserver nicht, welche IP sie zu dieser Domain auflösen
+müssen...
+
+-- 
+sSXP
+
+Science is what happens when preconception meets verification.

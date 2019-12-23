@@ -1,0 +1,16 @@
+On 2004-05-06, Othmar 'HE' Brockschmidt wrote:
+
+z = R + i(omega)C + 1/i(omega)L
+
+Also: Impedanz ist:
+	* der ohmsche Widerstand
+	* der kapazitive Widerstand (im Zeigermodell, deswegen komplex)
+	* der induktive Widerstand  |---------------||----------------|
+
+
+Genau dahin führte die Spirale meiner Gedanken.
+-- 
+Mister Teatime had a truly brilliant mind, but it was brilliant like a frac-
+tured mirror, all marvellous facets and rainbows but, ultimately, also some-
+thing that was broken.
+- Willi Pratchett in `Hogfather'

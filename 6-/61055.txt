@@ -1,0 +1,10 @@
+Fredi Sternwieser <sbumos-1682@lxgmesjj-urvthln.wa> writes:
+
+
+THH thh2 = new thh();
+
+?
+
+Erwin
+-- 
+DAS tuts [Ralf]

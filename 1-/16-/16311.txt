@@ -1,0 +1,15 @@
+Torsten Pius Endersch <qxv-chag@nzvojol.uf> writes:
+
+
+(setq gnus-user-made-quoting 'shit) ;-)
+
+
+Ja, tatsächlich. ;-)
+
+Best regards, Simon Oldemeier
+
+-- 
+/�\   --- JOIN NOW!!! ---
+\ /  ASCII ribbon campaign
+ X       against HTML
+/ \    in mail and news

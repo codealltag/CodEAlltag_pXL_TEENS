@@ -1,0 +1,23 @@
+Solches tippte Clemens' Colin:
+
+ACK.
+
+
+*kreuzholengeh*
+...lasst uns froh und munter sein und und auf den Exorzismus freun...
+*summ*
+
+
+*hualp* mir ist von pestcal jetzt noch schlecht.
+
+
+Eben, für's scripten will man scheme, oder, ist doch wunderbaer
+übersichtlich:
+
+SCNR,
+Eberhard
+-- 
+Meine Netzhaut sagt: s-expressions und xml Bäume sind nicht isomorph.
+Denn ')' ist für mich schlechter von ')' zu unterscheiden als
+'</document>' von '</table>'.
+                                (Dennis Wanner auf lug-l@gaos.org)

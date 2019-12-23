@@ -1,0 +1,7 @@
+Wilfried Schukardt schrieb:
+
+Reparatur des Kammquoting braucht dein Reader nicht, ansonsten dürfte
+ein Update auf eine aktuelle Fassung das Problem genauso lösen.
+
+So long,
+Walter O. Tutzschke

@@ -1,0 +1,10 @@
+Und so sprach Oliver Althaus:
+
+
+Also bei mir versagte regelmaessig das Threading aufgrund zu hoher
+Postingzahlen. Das Threading ist allgemein ein bisschen ... kaputt.
+
+Gruss,
+Luca.
+-- 
+.  . _ ___ _  _  _

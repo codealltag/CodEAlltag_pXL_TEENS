@@ -1,0 +1,10 @@
+Willibald Sierck <nwhukbnvnab@bxhtsbygqil.zg> writes:
+
+
+Hm, Masquerading lief bei mir out of the box. Womit ich momentan
+Probleme habe, ist Samba. Windows 2000 sagt "Zugriff verweigert",
+obwohl bei den Knut
+ read only = no
+und
+ writeable = yes
+gesetzt ist ...

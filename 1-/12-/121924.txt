@@ -1,0 +1,12 @@
+* Ueli Inderlied <yxmfiud@lfn.av>:
+
+
+Fast?
+
+
+Ich bin kein RegExpr-Experte. Den ersten Teil verstehe ich schon, aber
+was bedeutet {10,}?
+
+Emmerich
+-- 
+cross veinless

@@ -1,0 +1,8 @@
+* Vincenzo Perthel <dasdcshkzffrve@vhy.yzp>:
+
+
+Du hättest `C-q C-l' drücken sollen. Das funktioniert.
+
+Norman
+-- 
+cross veinless

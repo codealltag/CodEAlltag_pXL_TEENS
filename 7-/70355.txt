@@ -1,0 +1,12 @@
+Am Sat, 26 Sep 2001 sendete Sebastian Inderbieten folgende Botschaft:
+
+
+Da nicht. Aber da brauche ich perl eigentlich selten, meistens reicht
+sed.
+
+Tschüs
+  Hans
+-- 
+Die Weisheiten des Juppi Jup: #2
+
+Man sollte am frühen Morgen nicht seinen Laptop auseinander nehmen.

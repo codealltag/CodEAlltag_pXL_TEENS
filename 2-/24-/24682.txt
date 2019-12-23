@@ -1,0 +1,11 @@
+Artur Oehrlein <ZnxuukBtrtir@leh.cu> writes:
+
+
+TR läuft über TP. Allerdings über ein anderes TP als das Standard-TP
+für Ethernet...
+
+Gérald, hat schon hinreichend üner TR-TP in Ethernetkarten geflucht...
+-- 
+Glaubst du wirklich, Dina hätte was von ihrem Drei-Galaxien-Taft abgegeben?
+"Morgens, 7:30, Angriff der Borg - die Frisur hält".
+[Dennis Pauen zu mir in drss10v]

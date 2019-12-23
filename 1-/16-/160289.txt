@@ -1,0 +1,15 @@
+Tino Zeimens schrieb am 03. April 2000 um 21:39 Uhr folgendes:
+
+
+Klar. Vorausgesetzt, die nötige Entwicklungsumgebung steht bereit.
+
+[keine MIME-Deklarationen?]
+
+Welcher Bug? Welche Version?
+
+Viele Größe,
+     Onno Zörner
+-- 
+43rd Law of Computing:
+        Anything that can go wr
+fortune: Segmentation violation -- Core dumped

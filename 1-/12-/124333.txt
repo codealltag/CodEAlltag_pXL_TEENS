@@ -1,0 +1,10 @@
+Nicht nur wegen fgf. Es gibt noch eine reihe anderer Fido-Echos, die nun  
+nicht mehr gegatet werden. Und man weiß ja nicht, wieviel Traffic fgf  
+fidoseitig hat, was nicht gegatet wird.
+
+Etienne Behncke
+
+-- 
+"Arbeiter aller Länder vereinigt euch! Alles was ihr verlieren könnt,
+ sind eure Ketten!" (Süschendorf in ST-DS9: Bar Association)
+---> Offizieller Kämpfer wider Hermann Nölkenhöner des Ordens von dtju <---

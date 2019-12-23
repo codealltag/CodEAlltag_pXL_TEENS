@@ -1,0 +1,15 @@
+Didier Lungwitz hat geschrieben getan getutet:
+
+
+Und auf meiner Daddelkiste laeuft jetzt auch mehr oder weniger
+erfolgreich ein US-Shop..
+
+Dummerweise titscht meine Maus (Kleinweich IntelliMouse Optical) unter
+XFree86/4.1.0 munter durch die Gegend.
+
+-josef
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Onno 'pi' Piwinger in de.alt.sysadmin.recovery

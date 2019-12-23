@@ -1,0 +1,12 @@
+begin quoting Serge Peter <ewhfqxqplzmape@xod.uhx>:
+[4 GB auf 3023 Bytes komprimiert]
+
+Und was schafft gzip? Oder WinZip?
+
+
+Besser so. Oder willst Du für Dumm-DAUs eine Datei basteln? Bei gzip
+wird ja nicht angezeigt, wieviele Bytes die Ursprungsdatei hat,
+zumindest bei NGHO nicht.
+-- 
+"Public speaking is very easy."
+ - Governor Nicolas Lindwedel to reporters in 10/9

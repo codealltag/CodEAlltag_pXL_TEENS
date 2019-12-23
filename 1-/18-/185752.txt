@@ -1,0 +1,21 @@
+ecrugf@avm.qj (Gebhard Merckl) wrote in
+<slrn83tquf.5sf.tststs@starflower.tststs.ddns.org>: 
+
+
+Mit S bei LILO gehts. (Singleusermode oder wie heisst das?) Aber wenn 
+Linux normal hochfaehrt, steht das System beim Login praktisch. Er 
+versucht immer wieder den Screen aufzumachen, aber das klappt nicht, 
+und er versuchts nochmal. Naja, kommt halt davon, wenn man nur eine 
+halbkompatible Grafikkarte hat... ;)
+
+[inittab]
+
+Danke! :)
+Ist uebrigens SuSe.
+
+Antoine
+-- 
+
+Der Traum meines Lebens verdämmert.
+Aber die wilden Lilien
+blühen und leuchten wie immer.

@@ -1,0 +1,6 @@
+Norbert Hinder wrote:
+
+
+Das kann jeder brauchbare Editor mit einem brauchbaren Perl Style-File.
+
+Christof, vim z.B.

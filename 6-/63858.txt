@@ -1,0 +1,13 @@
+Vincenzo Ißleib schrieb:
+
+
+Gestern getan und gemerkt, dass <flame>Gnus total unübersichtlich ist,
+M-x customize mehr verwirrt, als es hilft, es *drei* Dateien zum
+Konfiguieren gibt, die Buffer sich jeglicher Logik entziehen und er
+darüberhinaus doof aussieht. Ach ja, und ((li(((s)))p)) ist eh das
+Hxhgzgbuhugv.</twytw> :-)
+
+Luigi
+
+-- 
+cat .signature

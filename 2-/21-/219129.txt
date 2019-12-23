@@ -1,0 +1,3 @@
+René Bütgens wrote:
+
+Die Detonator Treiber unterstützen IIRC 3DNow!.

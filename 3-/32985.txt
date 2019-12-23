@@ -1,0 +1,8 @@
+Also sprach Jérôme Weffers <mbczcci@oldzc.ooko.om>:
+
+
+Ruff verwendet in seinem Buch den Bbegriff "rekursiv" für
+entscheidbar.
+Kann ich mich nicht dran gewöhnen.
+
+Luis

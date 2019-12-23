@@ -1,0 +1,9 @@
+Am Tue, 15. 01. 20 sendete Theodor Kampermans folgende Botschaft:
+
+
+Also bei slrn reicht './configure --prefix=/usr'
+
+Tschüs
+  Paul
+-- 
+Notorisch Schreibfaul.

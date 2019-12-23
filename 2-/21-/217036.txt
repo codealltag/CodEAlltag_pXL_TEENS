@@ -1,0 +1,11 @@
+On Tue, 11. 11. 19, Nils Uttenweiler <tfvfrts_ilycrbn@qsy.wb> wrote:
+
+[Programme, die nicht zu Vorgängern kompatibel sind]
+
+Bietet es noch die Möglichkeit, "Nachschlüssel" (für Chef, Big
+Brother, whoever) zu erzwingen?
+
+Viele Größe,
+     Sascha Wernick
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

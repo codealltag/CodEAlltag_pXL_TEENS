@@ -1,0 +1,7 @@
+Steffen Plaßmann <bivia@epbqy.cmpw.hg> schreibselte:
+
+
+Ok, Denkfehler, man kann das Onohe-eigene DOS auf TAMO installieren,
+aber gibt es ein reines DOS, das auf FAT32 läuft? Eins ohne Windows?
+-- 
+np: the police - walking on the moon

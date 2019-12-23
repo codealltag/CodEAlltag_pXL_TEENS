@@ -1,0 +1,5 @@
+Ewald Didier Pfefferhorn wrote:
+
+Tja, deswegen benutzt man entweder BSD und Ports oder Gentoo. Wobei die 
+BSDs deutlich schneller up and running sind als Gentoo. Und FreeBSD 5 
+RC2 wird heute gerade noch getestet.

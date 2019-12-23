@@ -1,0 +1,15 @@
+Remmer Meinerz schrieb am Tue, 10 Mrz 1999 20:35:33 +0200 folgendes
+zum Thema "Re: SW FAQ":
+
+Naja. Die c't meint da was anderes: 
+(...) "Der Communicator versteht Cascading Style Sheets (CSS) und
+Dynamic HTML. Die CSS-Implementierung ist allerdings sowohl luckenhaft
+als auch fehlerbehaftet, (...)
+
+Die CSS-Implementierung vom IE sei auch nicht so der Hit, aber wurde
+sie in der c't als 'zufriedenstellend' bezeichnet, wahrend der
+Communicator nur ein 'sehr schlecht' bekam. Soweit...
+
+          ...schrieb Remmer
+
+--

@@ -1,0 +1,8 @@
+* "Olivier Stelzle" <ynbd@xvjrorxt.pp>:
+
+
+Was ist an bbdb-rss.el groß zu konfigurieren?
+
+Ihno
+-- 
+cross veinless

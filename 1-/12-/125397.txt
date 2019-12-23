@@ -1,0 +1,9 @@
+begin quoting Diedrich Czerwinski <y-vey@yxnqqrvjavy.rk>:
+[diverse unixoide OSs]
+
+Sollte bei einer standardkompatiblen libc eigentlich damit getan sein,
+daß ganze neu zu kompilieren.
+-- 
+Veit Isele, 86214 Allmethofen, DE
+My favorite newsgroups:
+de.talk.jugend, de.alt.fan.aldi, alt.fan.harry-potter

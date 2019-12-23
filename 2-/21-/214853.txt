@@ -1,0 +1,4 @@
+Volkmar Hauptman wrote:
+
+Ich kenn mich mit den Linux-Internas nicht so aus, stelle es mir aber 
+schwierig vor die Emom komplett zu portieren.

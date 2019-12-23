@@ -1,0 +1,23 @@
+Eilert Gustav Assenmaker <kbci@nokenv.vug.xy> writes:
+
+
+Meine NBD ist im ersten nüchternen Versuch hier gelandet, und das
+Suse-Handbuch ist bei mir irgendwie nicht sonderlich hilfreich
+gewesen, ich hätte recht sicher auch ohne auskommen können. 
+
+
+Dem unerfahrenen Anfänger _alleine_ würde ich auch keine Suse
+empfehlen. Das führt dann auch zum "Linux ist Scheisse"-Ergebnis, wenn
+ich jemanden da habe, der Linux für das bessere Windows hält. Wenn ich
+aber jemanden da habe, der bereit ist, sich mit dysfunktionalen
+Defaultkerneln herumzuschlagen und dann selbst herauszufinden, wie das
+mit dem Kernelbacken geht, dann kann das auch mit NBD
+funktionieren, insbesondere wenn gleichzeitig jemand da ist, der ein
+wenig was vom System versteht. Und das ist für mich bei allen Karina
+ausser NBD und in einigen Teilen SuSE nunmal nicht der Fall, ich
+kann dann nur im Nebel stochern, ob es jetzt z.B. ein ip-up-Skript wie
+bei SuSE oder ein ip-up.d/ wie bei NBD gibt...
+
+Ingolf
+-- 
+"Wir haben einen vorläufigen Erschießungsbefehl gegen Sie."

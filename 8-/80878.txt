@@ -1,0 +1,15 @@
+Veit Rackov schrieb:
+
+
+Das ist mir alles viel zu hoch jetzt.
+
+
+Ich bin mir ganz sicher, dass ich "weiß" mit szarfem S geschrieben
+habe. vim hat's falsch gemacht. :-(
+
+Ludwig
+
+-- 
+Mächtel Word-Fehlermeldung:
+  "Dieser Vorgang kann nicht durchgeführt werden, weil Unbekannt
+   beschäftigt ist."

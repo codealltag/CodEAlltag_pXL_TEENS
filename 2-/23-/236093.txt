@@ -1,0 +1,16 @@
+Am Sat, 29 Nov 1997 23:39:36 +0100 sendete Ralph Soltwedel
+folgende Botschaft:
+
+
+slrn hält wenn ich das richtig sehe(Gabriel verbessere mich wenn ich
+falsch liege) im normal betrieb nur die neuen Header im ram der rest
+wird vom Newsserver angefordert (Denkdran slrn ist ein Onlinereader)
+Allerdings ist slrn nicht langsamer als ander Newsprogs die ich kenne.
+
+Tschüs
+  Konrad
+
+-- 
+Aus besonderem Anlass ändern wir unser Program:
+Statt der Doku "Der Xte Absturz von Windoof95" sehen sie:
+"Ein kleiner Pinguin auf der Reise durch die grosse Datenwelt"

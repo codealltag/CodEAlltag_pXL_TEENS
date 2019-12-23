@@ -1,0 +1,14 @@
+Solches tippte Samuel Försch:
+
+Das wäre so in etwa der worst-case...
+
+
+Als Reaktion auf fehlamplatzige Einleitungszeilen wäre
+ähnliches zu erwarten?
+
+Stefan wer sagt, dass es hier Zusammenhänge gibt?'has
+-- 
+Meine Netzhaut sagt: s-expressions und xml Bäume sind nicht isomorph.
+Denn ')' ist für mich schlechter von ')' zu unterscheiden als
+'</document>' von '</table>'.
+                            (oyqbnr@uvaxlpdpt.yv auf lug-l@gaos.org)

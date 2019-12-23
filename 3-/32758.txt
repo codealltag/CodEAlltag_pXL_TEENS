@@ -1,0 +1,4 @@
+Dietrich Oehrlein wrote:
+
+Die Borland DB Interfaces sind genial. Sonst kann man, wenn Speed keine 
+allzugrosse Rolle spielt, aber auch gleich Java nehmen.

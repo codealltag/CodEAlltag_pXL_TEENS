@@ -1,0 +1,14 @@
+* Reiner Nienstedt <x-ugz@kqnpxieoire.pg>:
+
+
+Und warum bekomme ich sowas nicht? *heul*
+
+
+Das ist schön für dich. Und schlecht für mich.
+
+
+s/so\ sehr\ lange//g
+
+Otto
+-- 
+cross veinless

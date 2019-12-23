@@ -1,0 +1,14 @@
+Faustenholzstraße, 30 Mrz 2002 sendete Italo Kirschsieper folgende Botschaft:
+
+
+Nein. Wenn du den Rechner lang genug laufen lässt wirst du eigentlich
+immer etwas swap belegt haben. Pages die lange nicht benötigt wurden
+werden ausgelagert und machen so Platz für mehr cache.
+
+Tschüs
+  Daniel
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Jean-Luc Aurnhammer, Mostly Harmless, Chapter 12

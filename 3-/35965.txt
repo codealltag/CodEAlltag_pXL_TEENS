@@ -1,0 +1,8 @@
+Quote [ Benjamin Simbeck * Thu, 02. 09. 19 18:35:31 +0100 ]
+
+
+Anscheint klappt das auch ohne...
+Ist ja wie der normale Agent nur ein paar Features fehlen
+(Crossposterkennung, Filter, etc.).
+
+MfG Eilt

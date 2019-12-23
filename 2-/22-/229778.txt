@@ -1,0 +1,14 @@
+Am 24 Okt 1999 20:44:00 GMT sendete Erhard Thobaben
+folgende Botschaft:
+
+
+Wenn Garantiert ist das niemand anders diese Ip benutz( z.b. wenn das
+eine Ip aus dem "normalen"(und das ist afaik 168.x.x.x) Ip-raum ist
+und der Newsserver die Jehle-Id mit seiner eigenen Ip-adresse erzeugt)
+sollte das kein problem sein.
+
+Tschüs
+  Bernd
+
+-- 
+Kumm loss mer fiere ...

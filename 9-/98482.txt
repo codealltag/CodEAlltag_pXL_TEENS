@@ -1,0 +1,6 @@
+Georges Buddendiecks <cg@garbers.org> wrote in news:yw-
+878zir1d1s.fsf@gabsi.garbers.org:
+
+
+Aber so sicher, wie es die Website behauptet, ist das Teil nicht. Aber FTP 
+gehört eigentlich sowieso verboten. SFTP rulez!

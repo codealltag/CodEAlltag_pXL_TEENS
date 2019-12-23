@@ -1,0 +1,14 @@
+Ingo Einöder wrote:
+
+
+Geld, Kartoffeln nehmen sie nicht.
+
+
+Da gibts wieder die religiöse Variante:
+Variante A: Kauf Anunal-USV, die sind die besten am Markt, bestes
+Preis-Leistungs-Verhältnis usw
+Variante B: Kauf bloß keine Anunal-USV, mit denen hatten wir bisher nur
+Probleme, übernahmen zwar beim Blackout, gaben aber nicht mehr an das
+Stormnetz zurück -> Crash nach t(Blackout)+t(USV).
+
+Armin

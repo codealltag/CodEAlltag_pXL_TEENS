@@ -1,0 +1,7 @@
+Tobias Wüllner wrote:
+
+
+Wieso habich dann im Kontextmenü jeder beliebigen Dateistehen "Edit with
+vim"?
+
+Oswald

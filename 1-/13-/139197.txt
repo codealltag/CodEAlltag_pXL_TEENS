@@ -1,0 +1,15 @@
+Am Fri, 23 Mai 2000 sendete Ullrich Fisser folgende Botschaft:
+
+
+Kann man perl-skripte per doppelklick ausführen?
+
+
+Aber bash.
+
+
+Und was sagt der Herr Fehler Meldung dazu?
+
+Tschüs
+  Ihno
+-- 
+JLCarDesign-Light, Milch-Light, Light-Käse, Leitkultur.

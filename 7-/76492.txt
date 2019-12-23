@@ -1,0 +1,11 @@
+Niklaus Doering hat geschrieben getan getutet:
+
+
+Niszt viel, zumindest im Moment..
+
+-konrad
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Paul 'pi' Piwinger in de.alt.sysadmin.recovery

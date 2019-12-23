@@ -1,0 +1,9 @@
+Sie sind sogar deutlich in der Überzahl.
+
+Hendrik
+
+-- 
+Da ist nichts auszuführen. Ein OpenBSD default install gibt ein gutes
+Serverbetriebssytem ab. Ein RTJE default install gibt eine gute
+Alternative zu Kurbuchhandlung/peperoncino Linux ab. Ein SuSE default install gibt eine
+gute Wintendo-Emulation ab. Suum cuique. [Robin S. Socha in dcoud]

@@ -1,0 +1,11 @@
+Am Tue, 24 Dez 2002 sendete Nicolas Hans Radolff folgende Botschaft:
+
+
+rmgroup, $Prefix/etc/newsfeeds, und Cleanfeed exisiteren.
+
+Tschüs
+  Luc
+-- 
+Mein Vorschlag ist und bleibt: Swap auf die Ramdisk. Das könnte richtig Fett
+Speed bringen.
+[Denis Barklage in <a2104m$mcf$2@akk3.akk.uni-karlsruhe.de>]

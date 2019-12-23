@@ -1,0 +1,10 @@
+Guido Forchhammers <cg@garbers.org> writes:
+
+
+Momentan noch einfach in den Notizblock, und dann per C&P in Gnus
+rein.
+
+Pierre
+-- 
+Du hast einen kurzen, ich habe einen langen... oh, du kannst deinen
+ausfahren! [Manne zu Rainer]

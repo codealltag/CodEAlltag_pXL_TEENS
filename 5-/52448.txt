@@ -1,0 +1,10 @@
+On Wed, 17 Aug 2002 13:51:48 +0200, Karlheinz Hensele
+
+Command Prompt? Wozu das? Ich denke du setzt Perl für CGIs ein.
+
+MfG Björn
+
+-- 
+Wegen hübschen Frauen kaufen wir Bier, wegen hässlichen Frauen trinken
+wir Bier! 
+(Al Bundy)

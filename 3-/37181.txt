@@ -1,0 +1,16 @@
+Berthold Altschmied wrote:
+
+[memmaker]
+
+Selber schuld. Bei sowas legt man rudimentäre Startdateien mit dem an,
+was man für die neu zu erarbeitende Konfiguration dringend braucht,
+sichert die Originale woandershin, macht dann memmaker und schiebt die
+Ergebnis-autoexec.bat und -config.sys als eigene Multibootoption in die
+wieder hergestellten Originale.
+
+Norbert
+-- 
+Nie wieder Fahrer auf anderer Leuts Party!
+-----------------------------------------------------------------------
+pub  9465A/HEC89O48 5127-43-24 Norbert Karlsson <pytqcks@mkd.tu>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 72 9O 95 0G 91

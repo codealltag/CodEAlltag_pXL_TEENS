@@ -1,0 +1,14 @@
+Und so sprach Ullrich Hartwig Hellwing:
+
+
+Ja, eigentlich wohl schon.
+
+
+Wo nichts ist ...
+
+Gruss,
+Gerard, gebrannte Kinder haben kurze Beine.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

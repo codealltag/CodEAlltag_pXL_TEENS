@@ -1,0 +1,4 @@
+Gerhard Thives wrote:
+
+Auch tokenisierte Programme sind kompiliert (VB < 5). Ab VB5 wird sogar 
+richtiger Code erzeugt. Das ist kein Kriterium.

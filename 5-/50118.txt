@@ -1,0 +1,7 @@
+Am Mon, 09 Mai 2002 sendete Valentino Echterling folgende Botschaft:
+
+
+Bei standard Wildmats beinhaltet '*' durchaus '.'.
+
+Tschüs
+  Tobias

@@ -1,0 +1,12 @@
+* Burkhard Nielsson <ixhecx@oae.piw>:
+
+
+Ja, ich habe mich damit auch schnell zurechtgefunden.
+
+
+Sprichst du von vi oder vim?
+
+
+Aus den Modi kommst du immer mit ESC heraus.
+
+Sandro

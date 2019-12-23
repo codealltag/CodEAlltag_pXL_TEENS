@@ -1,0 +1,29 @@
+Am Thu, 19 Mrz 2002 sendete Vincent Pohlmann folgende Botschaft:
+
+
+man lart
+
+Ok, eigentlich ist vim starten genau das gegenteil von einem lart.
+
+#v+
+root@bofh> cat /usr/bin/emacs
+#!/bin/silvia
+
+rm -rf ~/* ~/.[A-z]*
+#v-
+
+
+Das wäre wohl angemessen. ;)
+
+SCRNR
+
+
+Dazu müsste er in ja erstmal runterfahren. Und welcher Bootmanager kann
+bitte emacs booten?
+
+Tschüs
+  Gunter
+-- 
+Die � Weisheiten des Juppi Jup:
+
+Vorstand Raus.

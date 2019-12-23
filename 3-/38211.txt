@@ -1,0 +1,13 @@
+Oskar Zschieschak <lbury@fwyek.jxzg.qo> writes:
+
+
+Doch, natürlich.
+
+towo@loki:~$ dpkg -l *gnome* | grep ^ii
+towo@loki:~$ 
+
+-volkert
+-- 
+Ich moechte schwoeren, dass Pius es im Kindergarten hatte.
+Natuerlich in der Leistungsstufe der KiTa "Maxim Kontsewitsch".
+- Ullrich Willhoeft und Edouard Dürich in de.alt.sysadmin.recovery

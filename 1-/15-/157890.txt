@@ -1,0 +1,26 @@
+Jochen Ottenbacher schrieb am 19. Dezember 2000 um 23:09 Uhr folgendes:
+
+[...]
+
+Um was geht's? :-)
+
+Ach so, der Path von <sha.395615894987.76932@naxkqi.zlidlheyln.nf>:
+
+#v+
+Path: starflower.tststs.ddns.org!tststs.ddns.org!vbrf.dkvuvnk.by!
+lr-d.pi.rm.ble!ko-ny7.bc.es.qov!zj.ri.rw.srd!igttmnad64.xfb.e-rscejx.mx!
+g-jojjfz.lo!aag.xig-aqpiopzlm.jf!kqnd.uppt.qj!zgwi.ju!ancalagon!
+excrgl.afehderagq.lr!sven
+#v-
+
+Der Unterschied zu "deinem" kommt nach aag.xig-aqpiopzlm.jf
+
+Viele Größe,
+     Sven Oeder
+
+P.S.: Ja, wie man sieht läuft bei mir immer noch die irrsinnige
+Kombination von zwei Newsservern. Werde ich demnächst doch mal ändern.
+-- 
+For every complex problem, there is a solution that is simple, neat,
+and wrong.
+                                                       -- H. E. Brovot

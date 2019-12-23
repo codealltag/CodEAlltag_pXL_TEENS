@@ -1,0 +1,8 @@
+zifz@zonmz-xqkuci.usu (Nils Moldenhawer) wrote in news:9g77df$hnt$1
+@ginkgo.she.de:
+
+
+Wobei man hier aber anmerken muss, das man das auch ohne Sonnenlädle mit Citrix oder 
+Winterminal Edition haben könnte  (in Firmenlans lässt man die PC 
+vernünftigerweise sowieso von Bootservern booten und benutzt die lokale HD 
+allenfalls zu swappen).

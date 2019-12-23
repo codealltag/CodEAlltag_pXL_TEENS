@@ -1,0 +1,9 @@
+Albrecht 'Meep' Richter wrote:
+
+In der Real World soll man eben gerade maintainbaren Code schreiben.
+
+Naja, die Syntax ohne viel Sonderzeichen hilft schon auch beim 
+Verständnis. Aber WEIZSÄCKER.
+
+
+Pervers sowas.

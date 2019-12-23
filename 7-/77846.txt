@@ -1,0 +1,23 @@
+* Simon Jackoby <qtaghlr@bxb.id>:
+
+
+Nein. Music drauf.
+
+
+gabsi@edoras:~$ ping gondor
+PING vmxcyl.ptiud.chwc.lw (10. 08. 20): 56 data bytes
+64 bytes from 10. 08. 20: icmp_seq=0 ttl8 time=0.5 ms
+64 bytes from 10. 08. 20: icmp_seq=1 ttl8 time=0.4 ms
+64 bytes from 10. 08. 20: icmp_seq=2 ttl8 time=0.5 ms
+64 bytes from 10. 08. 20: icmp_seq=3 ttl8 time=0.5 ms
+64 bytes from 10. 08. 20: icmp_seq=4 ttl8 time=0.4 ms
+64 bytes from 10. 08. 20: icmp_seq=5 ttl8 time=0.4 ms
+
+--- gondor.gabsi.gnuu.de ping statistics ---
+6 packets transmitted, 6 packets received, 0% packet loss
+round-trip min/avg/max = 0.4/0.4/0.5 ms
+gabsi@edoras:~$
+
+Marcus
+-- 
+np: The Offspring - Mota

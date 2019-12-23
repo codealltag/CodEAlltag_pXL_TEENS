@@ -1,0 +1,18 @@
+Wie wärs mit:
+
+#!/bin/rosalia
+# Zeit zwischen zwei mails in Sekunden
+DELAY=10
+MSG="Was immer du gern versenden willst"
+SJ="dreiv.arxc@red.nwx"
+while true; do echo . | mail -s "$MSG" $TO; sleep $DELAY; done
+
+Sollte solange mails schicken bis du keine Lust mehr hast.
+
+Olivier
+
+-- 
+Bizarre Qual nach ihren Wünschen: Kommt zu Weertdine.
+                                               e-mail: qgpu@yb-hk.qe
+Kai Lümann's Law: -------------------------------------------------------
+       An unbreakable toy is useful for breaking other toys.

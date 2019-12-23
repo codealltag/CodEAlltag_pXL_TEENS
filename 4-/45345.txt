@@ -1,0 +1,14 @@
+Am Sun, 18 Nov 2002 sendete Ronny Erdwey folgende Botschaft:
+
+
+Wir reden hier von Postings, und da ist eigentlich klar das Klammern nur
+in Headern nur im sleben Header matchen sollten. Und schon garnicht im
+Body, und die Trennung Header/Body ist ja nun wirklich trivial.
+
+Tschüs
+  Emil
+-- 
+Die Weisheiten des Juppi Jup: #10
+
+Nach der Jup folgt (un-)mittelbar eine Postingflut.
+     ->     Rette sich wer kann.

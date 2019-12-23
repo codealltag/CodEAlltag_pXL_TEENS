@@ -1,0 +1,15 @@
+Es war der 01.08.2002 als Ferdinand Angerstorfer schrieb:
+
+
+Nur recht wirkungslos. Als mir Herr Jehnigen letzens mal eine E-Mail
+sendete, hab ich mir diese extra mal in den OE [1] geladen. Keiner der
+Header zeigte eine Wirkung. Einzige was evtl. was bringen könnte, ist
+Mail-Priority, doch hat er da ein Leerzeichen am Ende zuviel.
+
+Manfred
+
+Footnotes: 
+[1]  Nicht schlagen dafür, danke.
+-- 
+Wer lesen kann, hat Vorteile gegenueber einem in Kaffee getunktem
+Toastbrot. (Detlef Hüper)

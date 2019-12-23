@@ -1,0 +1,15 @@
+Arthur Redlof <fpwedvu429029@gbnneu.im-d.jy> writes:
+
+
+Es läuft bei mir heftig zuverlässiger...
+
+
+Warten, bis der Speicher wirklich gebraucht wird.
+
+
+IIRC schmeisst der immer 0 bei den shared libs raus, frag mich nciht
+nach der Begründung...
+
+Werner
+-- 
+"Rotthege may have slept here"

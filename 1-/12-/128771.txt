@@ -1,0 +1,16 @@
+* Timo Daniel <fdpyjve109817@ssurta.im-s.ev>:
+
+
+Nur als Beispiel:
+
+
+Jeder Artikel, der im From:
+"Magdalena Kümpflein" <Hiklv.Abntba@t-ksjsny.so>
+enthält, bekommt 48 Punkte. Je mehr Punkte ein Artikel hat, desto höher
+wird der Thread, in dem er vorkommt, nach oben in meiner Ansicht
+einsortiert. Punkte werden abhängig davon vergeben, ob ich Artikel eines
+Autors oder Subjects lese oder nicht.
+
+Volker
+-- 
+cross veinless

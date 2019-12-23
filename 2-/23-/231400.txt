@@ -1,0 +1,7 @@
+Der Agent kann auch "--" abtrennen, wenn man es ihm sagt. Deshalb
+merke ich sowas z.B. nicht. Willy schon. <g>
+
+C Ya,
+Frédéric
+-- 
+23...Nichts ist so wie es scheint

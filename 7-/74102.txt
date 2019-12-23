@@ -1,0 +1,11 @@
+Isoldeweg, 05. 12. 18 sendete Gernot Verloh folgende Botschaft:
+
+
+Damit würde ich aufpassen. gnu-tar kann von hause aus kein bzip2.
+
+Tschüs
+  Hannes
+-- 
+Die Weisheiten des Juppi Jup: #9
+
+Auf das Jup Hoch folgt das RL Tief.

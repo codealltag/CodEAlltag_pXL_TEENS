@@ -1,0 +1,16 @@
+* Cédric Fränken <qcasbeo099642@sufium.ng-p.oa>:
+
+
+Hier läuft das so:
+
+- schriftliche Prüfungen
+- mündliche Prüfung
+- Ergebnis mündliche Prüfung
+- Ergebnis schriftliche Prüfung
+-> Entscheidung, ob Nachprüfung aka zusätzliche mündliche Prüfung
+
+-> Abitur
+
+Ottmar
+-- 
+cross veinless

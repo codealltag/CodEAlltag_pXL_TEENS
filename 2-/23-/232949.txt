@@ -1,0 +1,20 @@
+In article <YHY.48fb9611e1d9807924ab22@bnfk.sjoz.sl>,
+
+Nein, nein, Beschreibung wie man XP an NNTP ueber TCP/IP via Winsock  
+andockt.
+
+
+Hoert sich schwieriger an, als es ist. Einfach alle Programme und  
+Konvertertools installieren, konfiguieren und in eine niedliche Batch  
+packen.
+
+BTW: Ich habe Natascha beilaeufig vorgeschlagen, dass Du ggf. fuer eine XP- 
+Konfiguration bei ihr zu Hause in Frage kommst. Soll ich Dir schon mal die  
+entsprechenden URLs senden?
+
+CU/2
+Bernd
+
+-- 
+PGP RSA-PublicKey available at www.ctlxbe.hp/rbbq/lutirc/cjm-kujp.oot
+Personal homepage at www.ruvoxo.hhnt.shs - ICQ: #3527240

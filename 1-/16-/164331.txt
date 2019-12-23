@@ -1,0 +1,6 @@
+Ronny Reuchl <zfxwks@xcs.tn> schrieb in im Newsbeitrag:
+slrn8ecql7.13a.tststs@starflower.tststs.ddns.org...
+
+Hmm. Ne die Kisten hatten alle 64 oder 128 Mb RAM, dauern tut's trotzdem.
+MySQL stell ich mir auch eher langwierig vor, Apache hingegen ist ein kurzes
+Unterfangen...

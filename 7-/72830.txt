@@ -1,0 +1,28 @@
+Unterbachfeldweg, 14. 07. 19 sendete Axel Wenners folgende Botschaft:
+
+
+Wenn du dein s/w Terminal richtig eingestellt hat sollte alrn eigentlich
+automagisch die Mono einstellungen nehmen.
+
+
+Geht nicht. ID-generierung geht nur entweder an oder aus.
+
+
+Da musst du schon Jed treten.
+
+
+Was hast du daran auszusetzten?
+
+
+Hab ich was verpasst? slrn hat nen Editor?
+
+
+Doch ist es.
+
+Tschüs
+  Gérald
+-- 
+Die Weisheiten des Juppi Jup: #7
+
+Ein Grill zur rechten Zeit,
+erspart Kummer und Leid.

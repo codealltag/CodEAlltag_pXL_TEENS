@@ -1,0 +1,13 @@
+Und so sprach Theodor Hippler:
+
+
+#v+
+IF Bedingung THEN
+   Anweisungen
+END
+#v-
+
+Gruss,
+Nicolas "Topf-Style" is.
+-- 
+We are crazy!

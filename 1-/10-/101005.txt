@@ -1,0 +1,21 @@
+* Axel Ungerbieler <dxedck@quzntj-suyfsks.jd>:
+
+
+licq(1)                                                   licq(1)
+
+NAME
+       licq - an X11 ICQ client
+
+SYNOPSIS
+       licq [-h] [-b dir] [-d #]
+
+DESCRIPTION
+       Licq  is  an  X11 ICQ client built around the QT interface
+       libraries. It  supports  most  features  of  the  original
+       Helga  client,  including  messaging,  chat,  and file
+       transfer.
+
+HTH,
+Oscar
+-- 
+cross veinless

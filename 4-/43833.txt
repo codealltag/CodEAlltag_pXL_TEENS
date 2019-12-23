@@ -1,0 +1,9 @@
+Vittorio Uhlig <qamxvz-iwpo-027892@efii.tindzd.wo> writes:
+
+
+Doppel-ack.
+
+-pierre
+-- 
+Alle, die ein OS gebaut haben, das nicht Unix war, haben HairKiller ge-
+nommen, und alles weggeschmissen, was sie nicht verstanden haben.

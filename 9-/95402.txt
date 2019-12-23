@@ -1,0 +1,10 @@
+aomrxaq_bwhrvst@mzqr.lh (Gabriel Ambuehl) writes:
+
+
+xfree-common ist IIRC Basissystem, und mehr ist da dann auch nicht
+drauf, jedenfalls kann ich lokal an dem Rechner XEmacs nur auf der
+Konsole laufen lassen.
+
+Axel
+-- 
+Ich äußere mich nicht mehr [J.L.]

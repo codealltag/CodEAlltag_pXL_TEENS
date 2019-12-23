@@ -1,0 +1,17 @@
+Und so sprach Edwin Wullkotte:
+
+
+Bei uns gibt's gar keine T-Shirt's, also sei zufrieden. :)
+
+
+DPO?
+
+
+Jaja, ET ist auch sehr interessant. *schnarch*
+
+Gruss,
+Gerold, vor allem bei http://qhe.hrp.iz.hrbt.mg/~fcbcdk/.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

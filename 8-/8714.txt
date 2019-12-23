@@ -1,0 +1,9 @@
+Jérômes Justenhoven <mwow@huincuqkrqp.ed> writes:
+
+[dsf 2.12]
+
+Erich
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+25: Multithreaded
+       Wir mußten ein Flußdiagramm malen, um es zu debuggen. (Nikolaus Hirnschall)

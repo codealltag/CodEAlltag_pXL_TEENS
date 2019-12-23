@@ -1,0 +1,12 @@
+Ivan Usslar schrieb:
+
+
+4.x.x oder so. :-) Wie kann man das genau feststellen?
+
+Ivan
+
+-- 
+WSI:
+  "Es wurden keine zu übermittelnden Objekte markiert.
+   Es wurden keine zu löschenden Objekte markiert.
+   Alle anstehenden Objekte werden übermittelt."

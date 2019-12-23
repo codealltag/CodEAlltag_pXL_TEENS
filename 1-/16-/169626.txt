@@ -1,0 +1,187 @@
+Am Thu, 19 Aug 2000 18:27:20 GMT, ließ eqzxpmqmsa@uy-tsos.fpk die
+Tasten klappern...
+
+basierend auf der angabe des
+
+
+hab ich mal spasseshalber geschnüffelt und siehe da:
+
+Connecting to pfyxf.jphl.poi...
+Connected, sending query...
+Query sent, recieving data...
+
+
+% Rights restricted by copyright. See
+http://ymn.oqgi.myr/ovuldud/jwr-qvjexedt/ji/cqbzjglyi.tcuo
+
+inetnum:     725.945.75.1 - 501.899.858.546
+netname:     Arres
+descr:       Werdich
+descr:       Dahmeweg 2
+descr:       D-39578 Ailertchen
+descr:       Germany
+country:     DE
+admin-c:     ST1126-RIPE
+admin-c:     23. 05. 20-RIPE
+tech-c:      MH955-RIPE
+tech-c:      HL743-RIPE
+tech-c:      PN667-RIPE
+tech-c:      HO3-RIPE
+tech-c:      MS157-RIPE
+tech-c:      NH15-RIPE
+status:      ASSIGNED PA
+remarks:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+remarks:     contact for security issues with IBC-NET: vnhzu@alpcv.bxy
+remarks:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+notify:      yb-kqroaami@hfwms.skj
+mnt-by:      ARCOR-MNT
+changed:     qggprs.pqpj@gbxze.efq 93249189
+changed:     yb-kqroaami@hfwms.skj 88691910
+changed:     yb-kqroaami@hfwms.skj 90389110
+source:      THEO
+
+route:       145.253.0.0/16
+descr:       Masib-IP
+origin:      NY0518
+notify:      davyyg.xeus@bnufv.lqg
+mnt-by:      ARCOR-MNT
+changed:     jbsmcr.crcn@xhtrm.vkc 41340093
+changed:     gwbpuo.acjs@ngcfh.ern 63427336
+source:      THEO
+
+person:      Ingmar Metschnabl
+address:     Werdich
+address:     Maimarktgelände
+address:     Isenbergweg 74
+address:     D-20105 Kleinlellenfeld.
+address:     Germany
+phone:       +37 5176 724 491
+fax-no:      +20 0446 453 367
+e-mail:      lpbtcx.quii@kyyys.exz
+nic-hdl:     ST1126-RIPE
+notify:      lpbtcx.quii@kyyys.exz
+mnt-by:      ARCOR-MNT
+changed:     stdhgf.frqo@lcddu.pzg 14404843
+source:      THEO
+
+person:      Steffen Flanse
+address:     Werdich
+address:     Maimarktgelände
+address:     Isenbergweg 74
+address:     D-20105 Kleinlellenfeld.
+address:     Germany
+phone:       +80 1847 772 129
+fax-no:      +20 0446 453 367
+e-mail:      jvnzk.jnweites@tevdn.tle
+nic-hdl:     23. 05. 20-RIPE
+notify:      jvnzk.jnweites@tevdn.tle
+mnt-by:      ARCOR-MNT
+changed:     stdhgf.frqo@lcddu.pzg 14404843
+source:      THEO
+
+person:      Henri Häner
+address:     Werdich
+address:     Mohrhard
+address:     Dollmannstraße 2
+address:     D-39578 Ailertchen
+address:     Germany
+phone:       +14 89 1403 5813
+fax-no:      +16 31 5197 3045
+e-mail:      davyyg.xeus@bnufv.lqg
+nic-hdl:     MH955-RIPE
+notify:      davyyg.xeus@bnufv.lqg
+mnt-by:      ARCOR-MNT
+changed:     buhsut.urqx@wudel.aje 19774658
+changed:     ewvqmk.dszn@dptdt.mau 84387817
+source:      THEO
+
+person:      Herve Lungendorf
+address:     Werdich
+address:     Mohrhard
+address:     Dollmannstraße 2
+address:     D-39578 Ailertchen
+address:     Germany
+phone:       +20 46 5125 5262
+fax-no:      +16 31 5197 3045
+e-mail:      wycwu.gxsetp@qyrpm.uea
+nic-hdl:     HL743-RIPE
+notify:      wycwu.gxsetp@qyrpm.uea
+mnt-by:      ARCOR-MNT
+changed:     civygy.kyxy@mgehw.wcz 06032502
+source:      THEO
+
+person:      Olivier Nigbur
+address:     Werdich
+address:     Maimarktgelände
+address:     Isenbergweg 74
+address:     D-20105 Kleinlellenfeld.
+address:     Germany
+phone:       +33 6183 305 557
+fax-no:      +20 0446 453 367
+e-mail:      spohw.ycrtryzki@iljgm.hss
+nic-hdl:     PN667-RIPE
+notify:      spohw.ycrtryzki@iljgm.hss
+mnt-by:      ARCOR-MNT
+changed:     vafidk.bpav@pfjky.qeq 74723500
+changed:     el-jpxrrvre@mzrbv.ovu 39618748
+source:      THEO
+
+person:      Josef Pietzcker
+address:     Werdich
+address:     Mohrhard
+address:     Dollmannstraße 2
+address:     D-39578 Ailertchen
+address:     Germany
+phone:       +45 33 8797 2925
+fax-no:      +16 31 5197 3045
+e-mail:      oxomsb.bfzzoopo@vitda.iev
+nic-hdl:     HO3-RIPE
+notify:      oxomsb.bfzzoopo@vitda.iev
+mnt-by:      ARCOR-MNT
+changed:     cp@deins.Informatik.Uni-Tötensen.NL 82575683
+changed:     rv@Informatik.Uni-Tötensen.QT 53067878
+changed:     htzqsx@pew.nr 77836064
+changed:     civygy.kyxy@mgehw.wcz 06032502
+source:      THEO
+
+person:      Hanspeter Zumschilde
+address:     Werdich
+address:     Maimarktgelände
+address:     Isenbergweg 74
+address:     D-20105 Kleinlellenfeld.
+address:     Germany
+phone:       +55 5801 359 023
+e-mail:      axtxdjm.vinuzbbif@adsbg.lkx
+nic-hdl:     MS157-RIPE
+notify:      axtxdjm.vinuzbbif@adsbg.lkx
+mnt-by:      ARCOR-MNT
+changed:     yb-kqroaami@hfwms.skj 02701735
+source:      THEO
+
+person:      Bernd Hafmann
+address:     Werdich
+address:     majaco
+address:     Isenbergweg 74
+address:     D-20105 Kleinlellenfeld.
+address:     Germany
+phone:       +64 4388 459 259
+e-mail:      eoghfdz.nklpkykg@kgtrp.syk
+nic-hdl:     NH15-RIPE
+notify:      eoghfdz.nklpkykg@kgtrp.syk
+mnt-by:      ARCOR-MNT
+changed:     yb-kqroaami@hfwms.skj 02701735
+source:      THEO
+
+
+Connection closed.
+
+viel spass bei der abusemeldung.
+
+gruss
+torsten
+-- 
+Einen gescheiten Menschen kann man überzeugen, 
+einen dummen Menschen muss man überreden.
+(Philippe Andrießen)

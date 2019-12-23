@@ -1,0 +1,12 @@
+Am Sun, 31 Okt 2000 sendete Gian Voglrieder folgende Botschaft:
+
+
+Ist name_corrected auch wirklich name_len-4 gross?
+
+
+Ich würde auf irgendeinen fehler bei name_corrected tippen.
+
+Tschüs
+  Klaus
+-- 
+Notorisch Schreibfaul.

@@ -1,0 +1,9 @@
+Engelbert Rörig <qlik@gecmjmkt.bj> writes:
+
+
+Hm... Wenn ich jetzt noch herasfinde, wo der Defaultwert bei mir
+liegt... Wird jedenfalls vermutlich mein Server gewesen sein.
+
+Mirko
+-- 
+               I believe the technical term is "Oops!"

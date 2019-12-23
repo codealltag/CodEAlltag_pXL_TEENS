@@ -1,0 +1,5 @@
+Olaf Unverdorben <bnrbra@irp.dl> schrieb in im Newsbeitrag:
+slrn8co02i.15a.tststs@starflower.tststs.ddns.org...
+
+Falls hier jemand noch einen Mailtraq mit komplettem Feed laufen lässt,
+dafür hab ich Script, das nachweislich funktioniert (Perl).

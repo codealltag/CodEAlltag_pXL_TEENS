@@ -1,0 +1,5 @@
+Ignaz Altwasser <zbgfjr@vuca.ckczrimq.lh> writes:
+
+                 ^
+
+In der Aussagenlogik sieht der Operator übrigens anders aus.

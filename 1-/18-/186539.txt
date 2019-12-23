@@ -1,0 +1,9 @@
+Am Mon, 13 Aug 2000 sendete Fridolin Altenpohl folgende Botschaft:
+
+
+Für den fall das irgend ein krankes programm die References zeile nicht
+direkt nach dem '>' abschliesst. Allerdings hab ich das noch nie
+gesehen. 
+
+Tschüs
+  Veit

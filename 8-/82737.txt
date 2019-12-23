@@ -1,0 +1,11 @@
+* Gregor Tegtmeyer <dgfhkzr399303@ecsifs.bn-j.iy>:
+
+
+DPKG(8)                  replay GNU/Linux                 DPKG(8)
+
+NAME
+       dpkg - a medium-level package manager for Debian GNU/Linux
+
+David
+-- 
+np: NoFx - you're bleeding

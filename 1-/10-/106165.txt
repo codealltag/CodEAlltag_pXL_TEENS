@@ -1,0 +1,9 @@
+* Benno Cook <shsqtrn@byb.dv>:
+
+
+Hm, dann hat Netscape das entweder verbessert oder steigt bei noch
+höheren Zahlen aus.
+
+Fabian
+-- 
+cross veinless

@@ -1,0 +1,9 @@
+Josephs Golisch <plwk@tklihwfrync.as> writes:
+
+Dann musst du was mit der Bahn zu tun haben.
+
+Volkmar
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+37: Fehlertolerant
+       Das Programm erlaubt keine Benutzereingaben.

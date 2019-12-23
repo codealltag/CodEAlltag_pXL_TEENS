@@ -1,0 +1,12 @@
+Siebelt Erlhoff schrieb am 13. Oktober 2001 um 17:52 Uhr folgendes:
+
+[Auf der Suche nach einem UN*X-Editor]
+
+Ich gebe zu, dass vi viel kann, aber das, was Roger wollte, kann es
+leider nicht: eine Alternative zu vi bieten.
+
+Viele Größe,
+     Roger "emacs-mode in vim now ;)" Erlenbusch
+-- 
+Boys will be boys, and so will a lot of middle-aged men.
+                                                         -- Björn Gleichauf

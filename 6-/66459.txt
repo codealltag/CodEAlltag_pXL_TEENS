@@ -1,0 +1,17 @@
+Gustav Thorsten Sponagl meinte kundzutun:
+
+[Citrix]
+
+Jep, Citrix ist schon prima. Das Problem ist, daß es außerdem auch noch
+teuer ist wie pures Gold. Und da mittlerweile schon Open-Source-Linux-Clients
+für RDP im Arbeit sind, wieso *noch* mehr Geld ausgeben?
+
+
+Hm. Ist der damit ausgelastet? Nach Faustformel rechnet man pro
+Untere Rauschhofstraße 62 MB Memory, pro "Poweruser" 64 MB und pro User 100 MHz
+Prozessor.
+
+Rémy
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Donnerstag, dem 31. August im Jahre des Herrn 2001 verfaßt.

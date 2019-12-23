@@ -1,0 +1,7 @@
+* Frank Vorbuchner <tdhqmad732020@nrzvvu.av-c.ts>:
+
+
+Nein, 'apt-get install slang1-dev' war das, was ich suchte. Aber
+trotzdem danke. :)
+
+Ullrich

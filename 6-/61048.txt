@@ -1,0 +1,16 @@
+Solches tippte Theo Haentzschel:
+[potato->woody upgrade soll uptime leben lassen]
+
+Zum Glück stecken 256MB RAM in der Kiste :-) und der Rechner kennt
+solche Belastungen -- der load kommt momentan übrigens von sieben erst
+ca. 30 MB großen, langsam wachsenden Java-Prozessen; mal sehen, wann
+ich das Herzchen wieder für meine Datenbankgeschichten frei habe...
+und ob nicht bald der gerade unbeschäftigte Nachbarrechner die höchste
+uptime im Verbund hat ;-)
+
+Daniel
+-- 
+Dennis Reuschlein -> <GPG-Key:http://knv.zskknzgo-qcdlvdq.fb/tsp.uumkr>
+Whatever that hurts -----> <http://klc.tylblanl-siaiqff.xz/rjsgm.klf5>
+----------> Wortschatz-Lexikon: <URL:http://bhrahyixrj.imr-crcaxji.tb>
+<URL:http://nqtgptr.lgp-lmeqgeq.ut>   <URL:http://tlwu.wgc-lpgztjm.vx>

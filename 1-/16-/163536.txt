@@ -1,0 +1,7 @@
+Beat 'sSXP' Pauels wrote:
+
+Jepp. Was ich nur ein paar mal beobachtet hab, ist daß der Empfang von 
+Daten in Opera komplett abbrechen kann. Dann hilft nur ein Neustart von 
+Opera, dann ist's wieder gut.
+Außerdem gab's 1 oder 2 Seiten, die ihn immer mit 100% Sicherheit zum 
+abstürzen brachten. Ist aber schon eine Weile her.

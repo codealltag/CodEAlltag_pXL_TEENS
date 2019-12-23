@@ -1,0 +1,14 @@
+Am Sun, 16. 07. 20 sendete Ihno Dierking folgende Botschaft:
+
+
+Das macht gnu-ls bei grösseren Verzeichnissen aber automagisch.
+
+
+"ls --color=auto"
+
+Tschüs
+  Raimund
+-- 
+Die Weisheiten des Juppi Jup: #4
+
+Send Pixs !!!!!!1

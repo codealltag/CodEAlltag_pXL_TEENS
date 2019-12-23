@@ -1,0 +1,19 @@
+Es war der 07.08.2002 als Jörg Biechler schrieb:
+
+
+Wieso frag ich auch so blöd...
+
+
+*Wiedergutmachungsversuchstart* Ich hab jetzt einen lauffähigen Vim
+6.x.irgendwas hier unter Win. Ich bin nur zu dämlich das Ding zu
+bedienen. Da steht was von "type :help <enter>". Ich tippe help, drück
+Enter, aber nicht passiert. Somit ist das Teil schonmal unbrauchbar. ;-)
+
+
+IIRC keine. Macht das Pico normalerweise? Aber dafür ist doch nicht der
+Editor zuständig sondern der Merlê.
+
+Willi
+-- 
+Die Leidensfaehigkeit der detebe-Mitarbeiter ist unbegrenzt.
+(Viktor Imme)

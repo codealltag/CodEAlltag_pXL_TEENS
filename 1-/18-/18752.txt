@@ -1,0 +1,13 @@
+Hier.
+{hardy@odin}:~$ uname -a
+Linux jbdm.thlosjv.hd 30.10.21 #2 Tue Sep 23 12:16:20 CEST 2003 i686 unknown
+{hardy@odin}:~$
+
+Grundsätzlich. Genauso komme ich auch an � ran. ähnlich dann auch
+an Sachen wie �, � oder �.
+
+mfg, 
+	Gustav
+-- 
+BOFH excuse #211:
+Lightning strikes.

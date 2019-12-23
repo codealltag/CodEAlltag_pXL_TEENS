@@ -1,0 +1,14 @@
+"Coccinelle" <h.reynaert@wanadoo.fr> wollte folgendes loswerden:
+
+
+de.schule.schueler.kontakte ist dein Freund.
+
+Außerdem solltest du dir einen Realname zulegen. (vor- und nachname,
+zum Beispiel statt coccinelle Charly Neindorf oder so, wie du eben heißt)
+
+
+-- 
+Ich.
+
+wlxo.adpjgwfa@say.tp
++++ Wer Rechtschreibfehler findet, darf sie behalten +++

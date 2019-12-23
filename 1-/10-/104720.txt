@@ -1,0 +1,23 @@
+* iskukxepbf@fwkkyyafdg.za (Torsten Clooth):
+
+
+Ich wäre da sicher bevorzugter Staatsgast.
+
+
+Ah ja.
+
+
+Niemand will scheinbar gute Reader nutzen.
+
+
+Das sollte eigentlich den kompletten Artikel ausgeben:
+
+[...]
+
+Da stammt aus newsbot.c
+Alle anderen Variablen, die ich eingebaut habe, funktionieren, nur die
+hier nicht.
+
+Valentin
+-- 
+cross veinless

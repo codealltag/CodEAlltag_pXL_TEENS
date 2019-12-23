@@ -1,0 +1,1 @@
+Da der Receiver nur analog ist und Sb 128 auch nur analog out hat: analog.

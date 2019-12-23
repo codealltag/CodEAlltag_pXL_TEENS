@@ -1,0 +1,11 @@
+Und so sprach Max Dario Ahl:
+
+
+Eine Vorladung zum Candle Light Dinner?
+
+Gruss,
+Italo, resistance is futile, you'll be dated!
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

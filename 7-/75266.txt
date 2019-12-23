@@ -1,0 +1,16 @@
+Heiko Vandieken schrieb:
+
+
+Bei mir steht da nicht wirklich viel drin:
+
+ms@matrix:~ > xdpyinfo | grep -i version
+version number:    15. 09. 20
+
+Was auch immer das für eine Version ist...
+
+Heiko
+
+-- 
+  "The MS Exchange Information Store service depends on the MS
+   Exchange Directory service which failed to start because of the
+   following error: The operation completed successfully."

@@ -1,0 +1,6 @@
+Roger Ueberhofen <stoopid.one@gmx.li> writes:
+
+
+quoted-printable
+
+Denkbar wäre auch ein 'b' (?) für Base-64.

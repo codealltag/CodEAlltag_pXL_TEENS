@@ -1,0 +1,8 @@
+Ute Maisanhelter wrote:
+
+Wohin ?
+
+-- 
+Helmut, ratlos
+if(!exit(1))
+  fprintf(stderr, "exit call failed.\n Program will continue.\n");

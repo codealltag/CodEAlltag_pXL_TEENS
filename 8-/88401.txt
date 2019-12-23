@@ -1,0 +1,11 @@
+Jeanne Vornhof hat geschrieben getan getutet:
+
+
+Nicht beantragt oder veraltete Information?
+
+-ingmar
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Wolfgang 'pi' Piwinger in de.alt.sysadmin.recovery

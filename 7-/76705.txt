@@ -1,0 +1,30 @@
+Am Thu, 03. 10. 19 sendete Marco Fraass folgende Botschaft:
+
+
+Du kannst mich ruhig Edgar nennen.
+
+
+#v+
+felix: ~$egrep -v (^$|^\s[%#]) news/score/* |wc -l
+bash: syntax error near unexpected token `(^'
+felix: ~$egrep -v '(^$|^\s[%#])' news/score/* |wc -l
+    652
+#v-
+
+btw: bist du dir sicher das du nicht:
+
+#v+
+edgar: ~$egrep -v '(^$|^[%#])' news/score/* | wc -l
+    408
+felix: ~$egrep -v '(^$|^\s*[%#])' news/score/* | wc -l
+    408
+#v-
+
+meinst?
+
+Tschüs
+  Edgar
+-- 
+Die Weisheiten des Juppi Jup: #8
+
+Frauen sind Schweine.

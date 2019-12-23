@@ -1,0 +1,9 @@
+Remmer Johannvorderbrüggen schrieb:
+
+
+Ab 3.999 aufwärts
+
+  Do play wave "Dateiname der wav-Datei"
+
+So long,
+Patrick O. Oßenbrück

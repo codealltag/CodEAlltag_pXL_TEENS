@@ -1,0 +1,9 @@
+Josef Aveskamps <cg@garbers.org> writes:
+
+
+Noch schöner wäre natürlich ein Configscript gewesen :-)
+
+Ottmar
+-- 
+"I shot an arrow into the air, and it stuck."
+                -- Sebastian in Rheinermark

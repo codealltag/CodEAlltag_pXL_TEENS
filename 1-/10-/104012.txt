@@ -1,0 +1,17 @@
+Matthias Kirchmair <lwxbxcr045983@iqzers.ie-f.wx> writes:
+
+
+Ich schaffe es immernoch, meine Potings mir <ESC>:wq abschicken zu
+wollen. Vergeblich :-)
+
+
+Wie soll ich die Frage jetzt missverstehen? MaW: Erscheint nur mir da
+kein Sinn drin zu sein?
+
+
+Wer hat denn schon schwarzen Hintergrund in der xterm :-) Kannst du
+alles anpassen, so wie du es brauchst...
+
+Bodo
+-- 
+                  Weird enough for government work.

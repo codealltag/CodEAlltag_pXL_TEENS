@@ -1,0 +1,9 @@
+Hanspeter Zörrs <cg@garbers.org> writes:
+
+
+ACK. Aus 10GB Nullen (frisch aus /dev/zero) werden 8KB *g*
+
+Gerd
+-- 
+There's no real need to do housework --
+ after four years it doesn't get any worse.

@@ -1,0 +1,14 @@
+Grossek.
+
+Mein Gecko [1] läuft auch unter Linux sehr gut. Und das beste ist, der
+gleicht der Windowsversion wie ein Ei dem anderen. Also braucht man sich
+nicht umstellen.
+
+Nane
+
+Fußnoten:
+=========
+[1] Mozilla 0.9.5 - http://wwx.loiawkl.zzy
+-- 
+"Es gibt einfach alles fuer Windows." - "Aber nicht alles ist auch
+fuer Windows geeignet." (Giovanni Utermoehlen und Philippe Puttschneider)

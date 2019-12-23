@@ -1,0 +1,13 @@
+Thierry Ververs wrote:
+
+
+Schreib doch von der Uni aus über den ZOUN-Account.
+
+
+Irgendwie nicht. Da fehlt das Leerzeichen hinter dem letzten
+Bindestrich. Es muss "-- " (und dann harter Umbruch) lauten. Mit
+PCSZ geht das aber problemlos. Auch beim Quoten ist Netscape
+überraschend problemlos.
+
+
+-bf

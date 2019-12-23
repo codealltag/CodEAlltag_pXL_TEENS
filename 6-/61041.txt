@@ -1,0 +1,8 @@
+Jetzt nicht mehr.
+
+
+Ich hab' anstatt <a href="de.php?sort=zip"> <a href="?sort=zip">  
+benutzt. Unter IE und NS funktionierte es, unter Opera nicht. Hab' ich  
+jetzt aber hoffentlich überall ausgebessert.
+
+Peter Ihlenfeldt

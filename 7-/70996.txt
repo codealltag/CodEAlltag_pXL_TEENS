@@ -1,0 +1,15 @@
+Lukas Diekhöner <oxryyg-9967@nxkmioqa-oqfhgcu.zy> writes:
+
+
+Jepp. "Nie wieder SuSE".
+
+
+Ich hatte noch keinen Grund, mich mit den Änderungen auf 2.4 zu
+beschäftigen, und deswegen wird das wohl auch erst kommen, wenn der
+komplette Kram irgendwann mal nötig wird...
+
+Und inzwischen hab ich einen stabilen 2.2.20 hier am Start.
+
+Ingo
+-- 
+Glaubst du, ich kann nicht hart sein? [Christophe zu Giovanna]

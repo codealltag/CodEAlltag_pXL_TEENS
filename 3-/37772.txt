@@ -1,0 +1,6 @@
+5. Akt mit 4 Sorceresses? Niemals.
+-- 
+"der normale DAU weiß nicht, wie man in die Systemsteuerung kommt, und
+wenn, will der DAU-F (Fortgeschritten) wieder raus, weil er Angst hat
+was kaputtzumachen"
+  -Ingmar Tunkel in de.comp.hardware.cpu+mainboard.amd

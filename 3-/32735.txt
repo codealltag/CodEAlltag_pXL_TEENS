@@ -1,0 +1,26 @@
+Roger Fey <NOSPAM@ambuehl.tk> writes:
+
+
+Doch, ist es. Nichts gegen Python, kenne ich nicht, aber auch Python
+ist für gewisse Probleme einfach schlechter geeignet als andere
+Programmiersprachen. Und die Programmiersprache wähle ich immer noch
+danach aus, wie mein Problem aussieht. Muss das Programm rasend
+schnell gehen ablaufen, nehme ich C oder ähnliches. Ich wähle die
+Programmiersprache je nach Problem. Und in jeder Sprache läßt sich
+lesbarer Code schreiben. Es ist meine Aufgabe, daß dem auch so
+geschieht. 
+
+
+Hier waren es 8 Stück, nicht mehr und nicht weniger. Und das merke ich
+in Wolfskreut oder C definitiv nicht. Wenn ich ein paar 100 nehme, dann
+merke ich das überall, das ist wohl klar.
+
+
+Ich sehe, du willst doch nach Niedermuhlern wechseln? Denn Programmieren
+lernst du hier nicht wirklich. 
+
+Erich, spätestens nach dem dritten Semester brauchst du ncihts mehr
+zu implementieren.
+
+-- 
+Der macht son angenehmes Geräusch -- Dieses Ozon![Jakob]

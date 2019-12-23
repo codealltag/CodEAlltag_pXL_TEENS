@@ -1,0 +1,10 @@
+Veit Lindberg wrote:
+
+
+Gubu bietet keine Funktion an, zu Zeitpunkt x Gebot y abzusetzen.
+
+Außer, zu Zeitpunkt x online zu sein und Gebot y abzusetzen.
+
+Leo
+-- 
+ivan

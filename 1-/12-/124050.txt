@@ -1,0 +1,7 @@
+begin quoting Berend Ingendahl <rbcrlqjatlosbk@cfl.lpt>:
+
+OE5 springt nur drauf an, wenn vor dem "  " ein begin steht... *g*
+
+-- 
+"If we don't succeed, we run the risk of failure."
+ - Sven V. Zickenheimer, Jr.

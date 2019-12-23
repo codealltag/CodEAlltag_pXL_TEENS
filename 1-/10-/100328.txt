@@ -1,0 +1,10 @@
+Glashüttenweg, 04 Okt 2001 sendete Wolf Gosebrinks folgende Botschaft:
+
+[...]
+
+In alles mal reingucken und sonnst crontab --help bzw cron --help.
+
+Tschüs
+  Gunter
+-- 
+Notorisch Schreibfaul.

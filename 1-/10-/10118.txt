@@ -1,0 +1,9 @@
+Karstens Seiferth <ogvy@cpnmzfijxvv.aq> writes:
+
+Muss man da noch was sagen?
+
+Volker
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+23: Codefreeze
+       Linux Kernel Patch v1.3, 10. 07. 20 (00/55) (Ottmar Nannenga)

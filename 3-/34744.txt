@@ -1,0 +1,17 @@
+Tobias Mathuse a crit dans le message:
+
+
+Ja, und meine Vermutung hast du weggequotmardert. (was für ein Wort!)
+
+Vermutlich liegt's an der cua.el [1] Diese ermöglicht mir die
+Windows�blichen Tastenkombinationen für Undo, Cut, Copy und Paste.
+
+Stefano
+
+Footnotes:
+[1]  ftp://gah.iunwsh.kqh/npa/rnvkpg/fatzelx/yli-hhcj.ad
+-- 
+Die Angabe des vollständigen Realnamens erleichtert die Kommunikation
+im Usenet ungemein, man kann sich dann nämlich auf die Inhalte der
+Postings konzentrieren und muß nicht über Sinn/Unsinn von Pseudonymen
+o.�. diskutieren. (Leo Epple�egang, de.newusers.questions, 11.4.2000)

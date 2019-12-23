@@ -1,0 +1,15 @@
+On Tue, 08 Okt 1999, Maurice Int-Veen <sldgrsjt@hrd.xr> wrote:
+[PGP]
+
+Also, mein PGP (2.6.3i unter Linux) spricht Deutsch mit mir.
+
+
+Wäre doch eine nette Gelegenheit, auf ein besseres Mailprogramm
+umzusteigen. Was in dieser Richtung für Windows empfehlenswert ist,
+weiß ich nicht; unter Linux bietet mutt aber sehr komfortable
+Einbindung von PGP.
+
+Viele Größe,
+     Emmerich Ruebenstrunk
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

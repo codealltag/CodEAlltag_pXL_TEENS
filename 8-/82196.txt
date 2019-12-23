@@ -1,0 +1,12 @@
+Am Mon, 5 Mrz 2002 sendete Niels Teichmanns folgende Botschaft:
+
+
+Nein, ich weiss nichtmal mehr wer es mir mal genannt hatte.
+
+Tschüs
+  Enrico
+-- 
+gpg-key (available via keyserver):
+pub  6922I/B4T8I682 5029-27-03 Enrico Eiber <tkudiogklp@ncjwmkbsyd.rx>
+     Key fingerprint = 8330 4UM0 71O1 209Q X464  U59T 529F 3455 O3C6 X179
+sub  5544y/C7Z2KM36 1427-98-00

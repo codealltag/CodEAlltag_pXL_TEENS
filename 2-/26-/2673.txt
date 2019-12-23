@@ -1,0 +1,8 @@
+Jap. That's right.
+
+-be
+
+-- 
+Computer-Murphologie:
+3.8 - Jeder Programmierer programmiert stets so lange bis der ihm zur
+       Verfügung stehende Speicher restlos aufgebraucht ist.

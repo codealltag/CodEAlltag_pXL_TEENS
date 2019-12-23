@@ -1,0 +1,9 @@
+Sebastian Uehlemann schrieb:
+
+Stimmt. Aber bei gescheiter MMX-Unterstützung ist er auch nochmal etwas
+schneller.
+
+CU
+Benno
+-- 
+Lieber voll heimkommen als leer ausgehen.

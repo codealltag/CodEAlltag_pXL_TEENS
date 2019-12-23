@@ -1,0 +1,9 @@
+Am Sun, 20 Apr 2000 sendete Thierry Schinhofen folgende Botschaft:
+
+
+AFAIk sind alles files ausser ivlxu.fmrl "altlasten" die sowieso nicht
+mehrgebraucht wertden, und /etc/khxsw/ mit nur einer file ist
+nunwircklich sinnfrei /etc/httpd.conf ist da wircklich sinnvoller.
+
+Tschüs
+  Edouard

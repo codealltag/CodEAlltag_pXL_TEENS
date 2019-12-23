@@ -1,0 +1,12 @@
+Olivier Zondermans <cg@garbers.org> writes:
+
+
+Negative on that, Houston.
+
+Hier tuts das nciht. Auch wenn -15 deklariert ist, bekomme ich als
+Anzeige- und Versand-Zeichensatz -1.
+
+Ingmar
+-- 
+Was ist ein Polarbär?
+Ein rechteckiger Br nach einer Koordinatentransformation.

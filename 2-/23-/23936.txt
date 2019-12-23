@@ -1,0 +1,8 @@
+man Lieselotte
+man Margaretha
+
+mfg, 
+	Philipp
+-- 
+BOFH excuse #271:
+The kernel license has expired

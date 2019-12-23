@@ -1,0 +1,19 @@
+Bernd Tillmans meinte kundzutun:
+
+
+Und?
+
+Ok, besser so:
+
+#!/bin/anette
+mkdir temp.$$
+mv * temp.$$
+mv temp.$$ old
+
+
+Je tiefer das Verzeichnis, desto älter.
+
+Claudio
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Mittwoch, dem 24. Dezember im Jahre des Herrn 2002 verfaßt.

@@ -1,0 +1,8 @@
+Juliens Lercher <qwfx@vsjupcfdzmv.lu> writes:
+
+Ah. Also tue ich quasi garnix? Das finde ich toll.
+
+Torsten
+-- 
+BOFH #202:
+kernel panic: write-only-memory (/dev/wom0) capacity exceeded.

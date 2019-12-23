@@ -1,0 +1,17 @@
+Niels Herbich schrieb:
+
+[Opera]
+
+Was mich etwas wundert ist das Verhalten, wenn ich Offline bin. Opera
+schreit auf und meint es könne Remote-Server nicht finden, was ja noch
+okay ist, aber wenn ich dann online gehe und die Seite nochmal
+versuche zu laden, sagt es das schon wieder.
+
+Ich muss dann erst neu starten, damit es funktioniert.
+
+Klaas
+
+-- 
+"Wenn du immer tust, was du schon immer getan hast, wirst du immer
+bekommen, was du schon immer bekommen hast."
+                                                      [Tino Pader]

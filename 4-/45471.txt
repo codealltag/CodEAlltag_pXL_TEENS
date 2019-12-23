@@ -1,0 +1,10 @@
+Luc Grohse <wbepyf-uiic-449310@tibr.udesdl.eb> writes:
+
+
+"Message-ID: " und IIRC drei References _sollten_ in <1000 Zeichen
+passen. Und seitdem CIS wohl mal probleme mit einer Zurfehr hatte, in der
+mehr oder weniger ein ganzes Posting stand ist INN gepatcht :)
+
+Christof
+-- 
+               I believe the technical term is "Oops!"

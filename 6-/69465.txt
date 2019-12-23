@@ -1,0 +1,11 @@
+Dominik Utermühl hat geschrieben getan getutet:
+
+
+Na ... wenn man das von Hand schreibt, trainiert das Sorgfalt.
+
+-theodor
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Andree 'pi' Piwinger in de.alt.sysadmin.recovery

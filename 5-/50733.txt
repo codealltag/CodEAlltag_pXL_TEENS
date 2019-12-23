@@ -1,0 +1,12 @@
+Am Fri, 22 Mrz 2002 sendete Knut Willms folgende Botschaft:
+
+
+*g*
+
+
+KAnn ich nicht so wirklich beurteilen, ich weiss nicht ob die Probleme
+daran leigen das X bei mir nur über fbdev läuft und daher Auflösung und
+Farbtiefe feststehen, oder ob das scummvm probleme sind.
+
+Tschüs
+  Vincenzo

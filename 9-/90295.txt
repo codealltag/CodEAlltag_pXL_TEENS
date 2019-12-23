@@ -1,0 +1,5 @@
+Stephan Thümmels <vcoyuom@ctanldhvx.yk> writes:
+
+
+Kodierte Zeichen sollten einem nicht MIME-kompatiblen NUA nichts
+ausmachen - die Kodierung bleibt doch stehen.

@@ -1,0 +1,8 @@
+Nuno Brinkhoff <vvgejq@aqfbngcgwd.ca> scripsit/wrote:
+
+
+Muß man ja nicht. Man kann einfach irgendeine Länge vermuten, ihn dann
+mal allozieren und schauen, was passiert. So sind scheinbar 90% der im
+Einsatz befindlichen sicherheitsrelevanten Software geschrieben.
+
+-thh

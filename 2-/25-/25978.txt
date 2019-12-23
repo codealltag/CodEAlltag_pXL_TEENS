@@ -1,0 +1,12 @@
+Carsten Eilt Nadermann <kze-ehxf@blznpsh.hb> writes:
+
+
+Ich hätte trotzdem vorher gerne eine inversze
+szeep-Transformation... Das würde es einigen sehr viel einfacher
+machen, mich zu verstehen. 
+
+Oskar, gut, bei ralph hilft auch das nicht, aber irgendwas ist ja
+immer.
+
+-- 
+# to make Solaris happy :( [bb-cpu.sh]

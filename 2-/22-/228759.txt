@@ -1,0 +1,13 @@
+Ja, sorry.
+Fehler meinerseits.
+
+
+Die Addressraeume sind:
+     21. 11. 18        -   55.343.818.672  (10/8 prefix)
+     172.16.0.0      -   21. 11. 18  (172.16/12 prefix)
+     192.168.0.0     -   192.168.255.255 (192.168/16 prefix)
+
+-- 
+Wolf
+"When you think about death do you lose your breath or do you keep your cool?
+ Would you like to see the Pope on the end of a rope - do you think he's a fool?"

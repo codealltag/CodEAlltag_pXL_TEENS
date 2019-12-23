@@ -1,0 +1,8 @@
+* gpiemhe_apryvpt@kpyf.bm (Oliver Peterlechner):
+
+
+Gute Einstellung. SuSE hat aber weiterhin sendmail, oder?
+
+Enno
+-- 
+cross veinless

@@ -1,0 +1,14 @@
+On Setting Orange, Day 33 of The Aftermath 3169, Jürgen Inderdühnen wrote:
+
+
+Ich hab auch gesagt, dass du getrost die originale MID-Funktion nutzen
+kannst. 
+
+
+(setq message-generate-headers-first t) in die .gnus und schon sieht
+man die MID beim tippen der Antwort :)
+
+Fernand
+-- 
+Hitler war Führer der deutschen Nazion.
+[Ignaz Austmeyer in <8FG8NJ17.002TJ4C5@rns.td>]

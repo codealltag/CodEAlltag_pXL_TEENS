@@ -1,0 +1,11 @@
+Garrelt Feldberg <ieqlgynwke@ilwvqpkpjx.ib> writes:
+
+
+Ist ein Server mit ohne Monitor, IIRC hat die Kiste nur die Libs
+drauf.
+
+S9 328 geht jedenfalls definitiv mit X.
+
+Bernard
+-- 
+DAS geht nicht mehr, da ist schon was drin! [Ulrike zu Max]

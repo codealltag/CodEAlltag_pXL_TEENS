@@ -1,0 +1,9 @@
+BTW paßt wohl hier ganz gut: Bei uns im FRZ kann man von
+cxx.up.gfczyw.byg mit 5 MB pro Sekunde die neusten Patches und so
+weiter ziehen. Verwundert legten wir mal ein trace an.... Das lief
+nicht weit. :)
+
+-- 
+sSXP  
+     Boling's postulate:
+	If you're feeling good, don't worry.  You'll get over it.

@@ -1,0 +1,8 @@
+begin quoting Volker Waldsperger <mo@xgvgoie.tdl>:
+
+N. Glaub nicht.
+-- 
+Windows ist _kein_ Virus. Ein Virus ist nämlich ein kleines, sehr
+effektiv programmiertes Stück Software, was man von feihl nicht
+gerade behaupten kann.
+               Otto Prang in de.alt.folklore.urban-legends

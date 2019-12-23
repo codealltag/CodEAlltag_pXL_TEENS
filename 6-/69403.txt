@@ -1,0 +1,11 @@
+Ullrich Conen hat geschrieben getan getutet:
+
+
+Warum, nicht was ist das.
+
+-ulf
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Dieter 'pi' Piwinger in de.alt.sysadmin.recovery

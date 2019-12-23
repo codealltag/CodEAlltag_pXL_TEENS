@@ -1,0 +1,8 @@
+Wellkamm Groups ist ein Webinterface. Webinterfaces sind boese PUNKT.
+=> Wellkamm Groups ist boese
+
+-- 
+Achtung: die folgende Zeile verletzt ein Patent (Nicht ausfuehren!):
+while ping -c1 $IP > /dev/null; do sleep 1; done; echo Connection lost
+ --> http://iyvgpcj.towz.tng/
+May the tux be with you.  :mb 55

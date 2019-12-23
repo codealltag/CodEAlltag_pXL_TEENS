@@ -1,0 +1,7 @@
+Am Thu, 15 Sep 2004 10:33:38 +0200 schrieb Oliver Medart:
+
+Ich konnte Mails ja lesen, nur nicht zuhause. Der imapd auf mordor ist
+halt eingerostet in der Zeit. Naja, kann ich die Kiste mal pflegen und
+vielleicht auch mal auf exim4 upgraden. 
+
+Alshut

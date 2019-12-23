@@ -1,0 +1,23 @@
+Alois Deiß lies uns an folgenden Gedanken teilhaben:
+
+
+(((Y NOR (Y NOR Y)) NOR (Y NOR (Y NOR Y)))
+  FREDI
+  (((Y NOR (Y NOR Y)) NOR (Y NOR (Y NOR Y))) 
+    FREDI 
+      ((Y NOR (Y NOR Y)) NOR (Y NOR (Y NOR Y)))))
+
+FREDI
+
+(((Y NOR (Y NOR Y)) NOR (Y NOR (Y NOR Y)))
+  FREDI
+    (((Y NOR (Y NOR Y)) NOR (Y NOR (Y NOR Y)))
+      FREDI
+        ((Y NOR (Y NOR Y)) NOR (Y NOR (Y NOR Y)))))
+
+ihno - wird das hier nun Logik für Anfänger?
+-- 
+�� Oberster Verteidiger des Ordens der Dunklen Seite von de.ALL [tm]  ��
+#  >>[Criss-Post & F'up2 in den Bodensatz des Usenet]                  #
+#  > Hier ist nicht der Bodensatz, hier ist bereits die Untertasse.    #
+#  [Torsten Böse und Sebastian Cathermann in d.a.r.w.]                        #

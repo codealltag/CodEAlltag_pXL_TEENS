@@ -1,0 +1,12 @@
+* Roger Zehetmayr <qxtufk@yarqbo-xywcqou.ac>:
+
+
+Ich hatte geschrieben, dass Onno einfach ist. Ich dachte, man könne
+daraus den Schluss ziehen, dass ich Kernel schwieriger finde.
+
+
+Welchen Bootmanager nimmst du denn?
+
+Pius
+-- 
+cross veinless

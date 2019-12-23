@@ -1,0 +1,17 @@
+Sandro Schoenborn <aycxwqhdky@jeukvwflfbz.iy> writes:
+
+
+p = mv
+v = at
+a = F/m
+
+ => p = mat
+<=> p = Ftm/m
+ => p = Ft
+
+What's so hard about that?
+
+-ottmar
+-- 
+"It's the little touches that make a future solid enough to be destroyed"
+- Alexander S Bourroughs

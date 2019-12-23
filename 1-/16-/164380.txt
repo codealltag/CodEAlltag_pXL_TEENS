@@ -1,0 +1,11 @@
+Olivier Enssle schrieb am 07. Juni 2000 um 15:47 Uhr folgendes:
+[...]
+
+Und das ist IYO ein Argument dagegen, die Konfig-Dateien in ein
+eigenes Verzeichnis zu legen?
+
+Viele Größe,
+     Carl Enthofer
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

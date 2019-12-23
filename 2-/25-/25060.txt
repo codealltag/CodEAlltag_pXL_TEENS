@@ -1,0 +1,11 @@
+Otto Oberlies <icmtb@xabpl.lhxe.lz> writes:
+
+
+Du wollteszt "Luszifer" szagen.
+
+-marko
+-- 
+ No  Points     Name                                                   Hp [ingmar]
+  1    4619905  Veronika-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

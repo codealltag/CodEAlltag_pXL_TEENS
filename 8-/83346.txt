@@ -1,0 +1,13 @@
+Pasquale Zukriegl wrote:
+
+Kein Problem.
+
+Nimm $TEXTEDITOR, erstelle eine Datei, nenne sie "sigs", "Signaturen" o.�.
+und schreibe alle deine Sigs rein. Sara, du hast ein sigfile.
+
+Aldo
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+npdb_bibpixv)->daw(@leihx_vbpthmi_abwn[$iovak_tgsonji_sfg_guucezl])->nx_prsrak()

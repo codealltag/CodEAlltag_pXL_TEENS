@@ -1,0 +1,14 @@
+Und so sprach Jochen Woern:
+
+Naja, dafuer war das Update recht ... zeitraubend. Erstens kommen sie
+auf die Idee, gerade bei meinem ersten Update das Binaryformat von
+a.out nach ELF zu wechseln. Und das versprochene Merging von /etc ist
+auch nicht (=> Systemzeit bei vorherigen Postings, sollte jetzt OK
+sein)...
+
+Aber jetzt laeuft NetBSD-1.5 :-)
+
+Gruss,
+Tobias "recommandable" is.
+-- 
+Now running Concordia v0.2 for leafnode!

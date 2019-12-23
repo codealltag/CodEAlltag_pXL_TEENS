@@ -1,0 +1,18 @@
+Pasquale Eber <bqqcaez.xxdhh@vir.yf> writes:
+
+
+Du schuldest mir eine Tischkante.
+
+Willst du den Krams von Linux als Raid anspechen lassen, oder willst
+du, dass ein eigener Controller das macht und dir den ganzen Raid als
+eine Platte bereitstellt?
+
+
+Striping auf Softwareebene sollte recht problemlos gehen.
+
+Olivier
+-- 
+A real programmer should process the following tasks in their life:
+1. Implement a tree
+2. Build a house from own sources.
+3. Spawn a child

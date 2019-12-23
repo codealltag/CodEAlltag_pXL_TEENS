@@ -1,0 +1,13 @@
+Sébastien Niehuesbernd schrieb am 22. August 1999 um 22:04 Uhr folgendes:
+
+
+Zumindest unter Linux gibt es dafür mittlerweile auch eine ganze
+Handvoll verschiedener graphischer Frontends :-)
+
+Viele Größe,
+     Nuno Föge
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- FOA 1.2.5 configure-script

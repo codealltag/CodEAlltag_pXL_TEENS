@@ -1,0 +1,13 @@
+Marcel Jentgen meinte kundzutun:
+
+
+Wenn ich neue Sprache lese, muß ich erstmal bißchen nachdenken bis ich
+die Syntax verstehe. Und Kommentare sind NW immer so hilfreich.
+
+
+`wc -l` >> 1000? Ist groß.
+
+Alois
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Dienstag, dem 13. August im Jahre des Herrn 2001 verfaßt.

@@ -1,0 +1,11 @@
+On 18 Feb 1999, Ibo Erbes <pvgbka@wtjqe.na-fre.st> wrote:
+[...]
+
+slrn zum Beispiel. tin AFAIK auch, Gnus mit Sicherheit.
+
+    ^Da muß noch ein Leerzeichen hin, damit's ein Sigtrenner wird.
+
+Viele Größe,
+     Ueli Cammerer
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

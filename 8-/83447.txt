@@ -1,0 +1,17 @@
+Am Tue, 21 Jul 2002 sendete Clemens Ossenforts folgende Botschaft:
+
+
+Scherzkeks. Wenn man nicht weiss wonach man suchen soll nützt einem das
+beste grep nix.
+
+[...]
+
+Aja, hat vorzüglich gehelft. Vielen Dank.
+
+Tschüs
+  Walter
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Artur Jonkmanns, Mostly Harmless, Chapter 12

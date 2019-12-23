@@ -1,0 +1,9 @@
+* Ullrich Fedler <grqkfxhxdvi.19@msrggbebvbr.ba>:
+
+
+Du rufst die Postings mit einem Programm (z.B. suck) ab und fütterst sie
+nachher in den INN.
+
+Heinrich
+-- 
+np: Die Ärzte - Aldesago

@@ -1,0 +1,11 @@
+Gianni Gruenwald hat geschrieben getan getutet:
+
+
+Wer soll dir das nun glauben, hmm?
+
+-gabriel
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Kay 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,28 @@
+Wiebke Unverwert hat geschrieben getan getutet:
+
+
+Marc�lerkrankheit.
+
+
+Nisz dieses Szaf! Es iszt zu putzig!
+
+
+if mood = gut then print "Schade" else print "Glück gehabt"
+
+
+Ich trinke nicht.
+
+
+N!
+
+
+Wegen der Frage, ob die BILD im Spiel ist, bin ich albern.
+
+Interessant, dann bin ich ja ein richtiger Partykracher.
+
+-paolo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- René 'pi' Piwinger in de.alt.sysadmin.recovery

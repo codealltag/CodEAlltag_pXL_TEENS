@@ -1,0 +1,11 @@
+Niclas Föringer <iucz@fjdlbvgmbikf.zi> writes:
+
+
+Du meinst einen Automorphismus, oder?
+
+Isomorphismus ist ein bijektiver Homomorphismus.
+
+Christoph
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

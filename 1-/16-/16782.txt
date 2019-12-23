@@ -1,0 +1,10 @@
+Am Sun, 20. 03. 20 sendete Ingolf Bartisch folgende Botschaft:
+
+
+#v+
+dtju #> ls -l SW
+lrwxrwxrwx    1 dtju     dtju         5294 Nov 13 16:38 SW -> Ivan Berschens
+#v-
+
+Tschüs
+  Ruedi

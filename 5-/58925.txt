@@ -1,0 +1,9 @@
+Ernest May wrote:
+
+[$EDITOR=pico]
+
+Schau dir mal an was für Namen vielverwendete Programme unter Mannsdörfer/Linux
+haben.
+"And pipe the output to a more or less program" oder so.
+
+Heiko

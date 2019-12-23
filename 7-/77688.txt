@@ -1,0 +1,10 @@
+Florian Cohaus <vxdlpvk@vnu.wl> writes:
+
+
+Nicht wirklich.
+
+Giovanni
+-- 
+Wie jagt man einen Elefanten - Teil 3:
+LISP-Programmierer bauen einen Irrgarten aus Klammern und hoffen,
+dass sich der Elefant darin verirrt...

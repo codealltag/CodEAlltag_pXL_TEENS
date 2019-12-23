@@ -1,0 +1,7 @@
+Szade.
+
+mfg, 
+	Ignaz
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

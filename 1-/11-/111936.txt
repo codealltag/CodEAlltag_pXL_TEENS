@@ -1,0 +1,32 @@
+* Nane Apenbrink <qrbwzox643990@gsnpqy.yw-a.hx>:
+
+
+Okay, ich bin gespannt.
+
+
+gabsi@news:~ > telnet localhost 119
+Trying 28. 01. 20...
+Connected to localhost.
+Escape character is '^]'.
+200 news... InterNetNews server INN 2.2.3 18-Jul-2000 ready
+
+Luft gut:
+
+gabsi@news:~ > uptime
+ 11:41pm  up 18 days,  6:14,  1 user,  load average: 0.06, 0.02, 0.00
+
+
+Ich habe hier lokal einen neueren:
+
+gabsi@edoras:~$ telnet localhost 280
+Trying 28. 01. 20...
+Connected to edoras.
+Escape character is '^]'.
+200 gabsi.gnuu.de InterNetNews server INN 2.3.2 (20010120 prerelease) ready
+
+Der tut auch sehr gut, wenn ich ihn aber auch noch keinem Langzeittest
+unterzogen habe.
+
+Ulfert
+-- 
+cross veinless

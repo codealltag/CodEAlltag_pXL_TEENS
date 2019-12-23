@@ -1,0 +1,12 @@
+Klaas Röwenstrunk schrieb:
+
+[...]
+
+Na gut. Das kann slrn dann wohl nicht. Aber könnte man ihn vielleicht
+dazu zwingen mehrere Instanzen aufzumachen? Bei Mutt geht's; das legt
+scheinbar kein Lockfile an...
+
+Bernhard
+
+-- 
+~~(___(oo)

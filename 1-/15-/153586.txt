@@ -1,0 +1,24 @@
+Es geschah am Misselberg, 30 Jan 2000 14:14:55 GMT,
+dass Vera Cieslak <ndos.pvrtadoc@yop.jm> kuendete:
+
+Eben.
+
+
+Will einfach sagen, dass "height=" beim <table> Tag nicht Standard ist, und da
+sich die Typen schon mit dem Standard schwert tun, ist alles, was sie sonst noch
+produzieren eh mehr oder weniger unbrauchbar.
+
+
+Das wird aber zur JavaScript Orgie, wenn der Inhalt mehrer Fenster gleichzeitig
+geaendert werden soll; und mit Lynx wirds dann definitiv muehsam.
+Ist immer dasselbe Lied mit den vertikalen Navigationsleisten ;-)
+
+
+Aye Aye.
+
+Gruss,
+Kai.
+-- 
+     Kurt A. Artner + Student @ Kantonsschule
+   http://lfz.yejqghsea.rg/ + Schaffhausen, Switzerland
+              FWT# 50428343 + tdxj://bdp.isbpb.mz/

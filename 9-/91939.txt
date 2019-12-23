@@ -1,0 +1,12 @@
+"Charly Goggele" <suin@oevmqqbb.br> writes:
+
+
+ ((not
+   ("from" "\\(^\\|\\s-\\|\\s(\\|\"\\)[-a-z߰'A-Z-�]\\{2,\\}\\(\\s-.*\\s-\\|\\s-+\\)[-a-z߰'A-Z-�]\\{2,\\}\\(\\s-\\|\\s)\\|\"\\|$\\)" R))
+  -1000))
+
+tuts bei mir recht zuverlässig
+
+Giovanni
+-- 
+"Wir haben einen vorläufigen Erschießungsbefehl gegen Sie."

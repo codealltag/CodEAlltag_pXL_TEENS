@@ -1,0 +1,11 @@
+Am Sat, 24 Mai 2000 sendete Vincent Kaltschmitt folgende Botschaft:
+
+
+Darum ging es mir hauptsächlich.
+
+
+Wenn das frontend nur eine 1:1 kopie des rc's in bunt ist kann ich doch
+gleich `$EDITOR some_lame.rc' nehmen.
+
+Tschüs
+  Hubert

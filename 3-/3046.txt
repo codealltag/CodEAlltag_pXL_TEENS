@@ -1,0 +1,7 @@
+Autszi! 
+Isz mache Szersze, mit wasz isz will! Mein Szersz gehört mir!
+
+Bernhard
+
+-- 
+# to make Solaris happy :( [bb-cpu.sh]

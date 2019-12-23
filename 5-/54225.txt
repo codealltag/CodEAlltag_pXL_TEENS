@@ -1,0 +1,14 @@
+Ivo Jungjohann <Tgo87@pju.dqh> writes:
+
+
+Macht nix.
+
+
+Hier wird je nach Aufgabenstellung vim oder XEmacs genutzt, mal so,
+mal so.
+
+Frerich
+-- 
+Wie jagt man einen Elefanten - Teil 3:
+LISP-Programmierer bauen einen Irrgarten aus Klammern und hoffen,
+dass sich der Elefant darin verirrt...

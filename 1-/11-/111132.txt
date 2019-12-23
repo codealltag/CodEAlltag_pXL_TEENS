@@ -1,0 +1,7 @@
+Dixit Laurent Heßing <aybcvsk435770@jmdzwp.kv-b.qz>:
+
+s/Das/Der
+s/ich/ich\ es
+-- 
+"Illegitimacy is something we should talk about in terms of not having it."
+ - Governor Tim Vogels, 5/20/96

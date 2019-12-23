@@ -1,0 +1,12 @@
+Giorgio Isenrich wrote:
+
+*grübel*
+
+Einen Wurm schreiben der ein im Attachment enthaltenes vorkonfiguriertes
+Paket aus Uhid und Jagdfeldzentrum installiert und unter Gapu als Default
+registriert und dabei die Servereinstellungen von OjE übernimmt?
+
+Valentin, endlich mal was mit einer gescheiten "Schad"routine
+-- 
+sascha 
+np: Mechanical Moth - Radical Behavior

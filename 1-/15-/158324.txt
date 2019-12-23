@@ -1,0 +1,33 @@
+Harry Seyller schrieb am 17. Januar 2001 um 14:37 Uhr folgendes:
+
+
+Kommt drauf an. Wenn es um eine "allgemeine" Adresse wie
+dimvyssy@eout.pf geht, kann ich mir durchaus vorstellen, dass die
+Mailbox dahinter so überfüllt ist, dass es relativ schnell passieren
+kann, dass eine Mail vergessen wird.
+
+Bei einer Mail an einen von SuSE bezahlten Entwickler eines
+OpenSource-Projektes (zB Wieschebrock) würde ich dagegen durchaus erwarten,
+dass er auf Feedback reagiert und ggf. noch einmal nachhaken.
+
+[Gimple-Newsreader]
+
+Gimple ist bei weitem nicht mehr so instabil wie vor einem Jahr und
+sieht inzwischen IMO auch sehr brauchbar aus.
+
+
+Dabei liegt die Betonung eindeutig auf "war". slrn 12. 07. 20 ist seit
+kurz nach Weihnachten angekündigt, wurde dann konkret für April
+versprochen und ist bis heute nicht da.
+
+Wobei bei VANDERLIEK noch das Problem besteht, dass seine Projekte stark auf
+ihn als Person ausgerichtet sind -- wenn er keine Zeit hat (was
+durchaus verständlich ist), geht es nicht weiter. Wenn es eine
+devel-Mailingliste gibt und ein CVS, auf das mehrere Entwickler
+Schreibzugriff haben, ist die ganze Sache gegen akute Zeitnot deutlich
+unanfälliger.
+
+Viele Größe,
+     Emil Scheuber
+-- 
+A truly wise man never plays leapfrog with a unicorn.

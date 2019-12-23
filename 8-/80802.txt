@@ -1,0 +1,10 @@
+Cédric Ueberhoffs <ndynpuv@mecgemkjv.zr> writes:
+
+
+Dann erreiche ich den Bahnhof nicht.
+
+Ignaz
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

@@ -1,0 +1,23 @@
+Theo Luxembourg schrieb:
+
+
+Liest ja vielleicht noch jemand anderes hier. :-)
+
+Mal wieder was Kontextloses:
+
+Mir ist aufgefallen, dass mv über verschiedene Partitionen erst
+kopiert um erst *danach* die Dateien zu löschen. Das kann u.U.
+problematisch werden.
+
+
+Zwei Hamster installieren, zwei Fruchtoase installieren. Hamster2 holt von
+Hamster1 Postings und gibt sie an XNews2 ab.
+
+
+Wie bitte?
+
+Heiner
+
+-- 
+  "Konnte nicht Zeile nach unten erweitern, da Die Zelle 2, Spalte 2 hat
+   darunter keine Zelle."

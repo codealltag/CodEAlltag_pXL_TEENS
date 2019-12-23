@@ -1,0 +1,11 @@
+Leo Jupe <rffioyt059613@zgicer.ws-q.gi> writes:
+
+
+hauke@obrien:~$ echo "shutdown -h now" | sed s/-h/-fh
+sed: -e expression #1, char 8: Unterminated `s' command
+hauke@obrien:~$ echo "shutdown -h now" | sed s/-h/-fh/
+shutdown -fh now
+
+Ernest
+-- 
+Caution: breathing may be hazardous to your health.

@@ -1,0 +1,14 @@
+Bernard Tines hat geschrieben getan getutet:
+
+
+C'est trs possible.
+
+
+Noch gar nicht.
+
+-manfred
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Nils 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,11 @@
+Eric Draewe <zlgl@mpwc.rvlfan.ugz> writes:
+
+
+Ja, du kannst IPX nur unzureichend über's Internet routen.
+
+
+Das ist bei den meisten guten Spielen leider der Fall.
+
+-ottmar
+-- 
+You cannot kill time without injuring eternity.

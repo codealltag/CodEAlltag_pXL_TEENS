@@ -1,0 +1,19 @@
+Philippe 'sSXP' Maierhöfer <fHCP@czg.fus> schrieb in im Newsbeitrag:
+83-14-27.83-34-26.ktk.1291@ndsh.cr...
+
+Kommt sehr drauf an, wieviel Perfomance du brauchst. Zum arbeiten dürfte es
+noch reichen und beim gamen braucht man sowieso nur W9X.
+
+sehr
+
+Naja, vielleicht sind das bloss so MCSE Typen, die einfach mal hingegangen
+sind und den Idiotentest ausgefüllt haben...
+
+
+Warum teuer und langsam und Speicherverschwenden, wenn's auch schnell,
+billig und optimiert geht?
+
+
+Wer auch nur ganz ein wenig ne Ahnung von UNIX hat, kann damit ein UNIX
+System administrieren. Versuch mal NT remote (= per Inet) zu
+administrieren...

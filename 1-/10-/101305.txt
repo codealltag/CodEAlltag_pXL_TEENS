@@ -1,0 +1,8 @@
+* Heribert Drenkner <lsofxwo806941@wovlxt.ms-y.za>:
+
+
+`R' startet Gnus neu.
+
+Klaus
+-- 
+cross veinless

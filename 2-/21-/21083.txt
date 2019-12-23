@@ -1,0 +1,10 @@
+Und so sprach Enno Schmelters:
+
+
+Na, so richtig verwundert mich das ja nicht. :)
+
+Philippe
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

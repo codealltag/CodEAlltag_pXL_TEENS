@@ -1,0 +1,9 @@
+On 2004-02-17, Hilmar Thomas wrote:
+
+*Da* ist jeder Ort in der Nähe von allem.
+Das ist eine lokale Begrenzung auf Jeseritz.
+-- 
+Ah, the beauty of OSS. Hundreds of volunteers worldwide volunteering
+their time inventing and implementing new, exciting ways for software
+to suck.
+- Tony Lassila, in the Monastery

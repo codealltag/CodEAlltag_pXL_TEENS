@@ -1,0 +1,56 @@
+Auswertung für ng.oabg.uduibq
+                    von 6044-79-87 bis 2004-04-30
+                    =============================
+
+
+                            Tops und Plops
+                        (ohne 12/2001-07/2002)
+                        ----------------------
+
+
+TOP 5 MONATE SEIT 2000
+
+Pos.  Anz.   Datum
+---------------------------------------------------------------------------
+   1  54878  Juli 2000
+   2  36662  Mai 2001
+   3  92000  November 2000
+   4  88594  Oktober 2000
+   5  35652  August 1999
+
+
+TOP 5 POSTER 2004 (Gesamt)
+
+Pos.  Anz.   Name                      Prozentanteil
+---------------------------------------------------------------------------
+   1    394 Cédric Rothfos               17.06%
+   2    207 Marko Helmbrecht               8.96%
+   3    194 Ivan Antoine Riebenstahl        8.40%
+   4    170 Clemens' Ahlers                   7.36%
+   5    165 Helmuth Janesch                7.15%
+
+
+TOP 5 POSTER (in einem Monat) SEIT 2000
+
+Pos.  Anz.   Monat    Name
+---------------------------------------------------------------------------
+   1   3794  07/2000  Cédric Rothfos
+   2   2534  05/2001  Cédric Rothfos
+   3   6093  07/2000  Dina Konopacki
+   4   2193  06/2000  Cédric Rothfos
+   5   2121  08/1999  Dina Knoop
+
+
+                         Jahresübersicht 2004
+                         --------------------
+
+August 2003   :  779  ( 25.97 pro Tag)
+September 2003  :  554  ( 20.52 pro Tag)
+Oktober 2003     :  516  ( 19.11 pro Tag)
+November 2003    :  461  ( 16.46 pro Tag)
+               -----------------------
+                2309  ( 20.62 pro Tag)
+-- 
+$SIGSTART
+...
+$SIGTERM

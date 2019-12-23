@@ -1,0 +1,28 @@
+Am Mon, 16. 07. 20 sendete Peter Schedl folgende Botschaft:
+
+
+#v+
+kai: ~$ps --no-headers -C bash | wc -l
+     10
+felix: ~$ps --no-headers -C rxvt | wc -l
+      0
+kai: ~$ps --no-headers -C X | wc -l
+      0
+#v-
+
+Dafür brauchts kein X.
+
+
+#v+
+felix: ~$ps --no-headers -C screen | wc -l
+      5
+#v-
+
+Viel netter. Und für slrn, musik und so brauchts eh keine shell.
+
+Tschüs
+  Kai
+-- 
+Die Weisheiten des Juppi Jup: #5
+
+Renato Gairhos rockt.

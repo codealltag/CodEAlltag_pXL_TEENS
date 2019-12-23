@@ -1,0 +1,14 @@
+Also sprach Hansjörg Theissen <ryjwzjz@wgpap.ofbs.zp>:
+
+
+Unentscheidbar!
+
+Oder hat jemand auf einem Übungsblatt schonmal ein entscheidbares
+Halteproblem gesehen?
+
+Was war das doch gleich in Praktische Informatik? Da hatten wir
+irgendein Problem, für das wir nachgewiesen haben, daß ein Algorithmus
+zur Lösung existiert, daß man diesen aber niemals identifizieren
+kann...
+
+Italo

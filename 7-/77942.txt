@@ -1,0 +1,9 @@
+* h55z5p@vsnuxoqxb.od (Walter Unterkofler):
+
+
+gabsi@edoras:~$ ls -l /usr/lib/ | grep libro
+gabsi@edoras:~$
+
+Walter
+-- 
+np: Cyriakusplatz

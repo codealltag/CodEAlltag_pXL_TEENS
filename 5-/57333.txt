@@ -1,0 +1,12 @@
+"Vito Zirhut" <xmtlbbbbvix@jxf.emu> writes:
+
+
+Dann pack das doch in den From-Header, noch ein X-Face dazu, und es
+gibt keine Verwechslungen mehr.
+
+Remo,
+  zurück aus Hamlar
+-- 
+A little learning is a dangerous thing; Drink deep or taste not the Pierian
+spring.
+[Alain Trippke]

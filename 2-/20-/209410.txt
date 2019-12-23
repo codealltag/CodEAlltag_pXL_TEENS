@@ -1,0 +1,12 @@
+Benjamin...sSXP...Bernd schrieb am 21. März 1999 um 19:08 Uhr folgendes:
+
+
+*Bist* *Du* *Dir* *da* *ganz* *sicher*?
+
+Viele Größe,
+     Ronny Carp
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Budnikowsky 1.2.5 configure-script

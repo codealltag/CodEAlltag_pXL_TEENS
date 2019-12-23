@@ -1,0 +1,33 @@
+Kai Jantzen wrote:
+
+Durchaus.
+
+
+Naja, Kollege hat's kapiert. Der muss mir dass dann halt erklären.
+
+
+Naja, Dieter hilft vermutlich. Wer von C herkommt regt sich bloss über 
+Benjamin auf.
+
+
+Wenn man nicht weiss was man tut, schiesst man sich desöfteren in den 
+Fuss. Dafür kann man damit auch richtig programmieren und selber Memory 
+verwalten.
+
+
+Wenn Oberon Templates ala C++ kriegt wäre es vielleicht ganz brauchbar. 
+Aber jeden Algo für jeden Datentyp neu coden? Sicher nicht.
+
+
+C kann ich einigermassen. Java ist letztlich abgeflachtes C++ (hab ein 
+100kb C++ Code Projekt hinter mir) und ML ist was für Leute mit ner 
+komischen Art zu denken.
+
+
+Naja, we'll see
+
+
+Eben. Aber dann Hilbertkurven Algorithmen rauskriegen sollen. Krank.
+
+
+I'll see.

@@ -1,0 +1,15 @@
+On 2 Nov 1998, Norman Aufdemkampe <mibylmxtme@dbxgbfpgkg.ap> wrote:
+
+[Rechner dichtmachen und ohne Paßwort arbeiten]
+
+Wer aus Versehen an der inetd.conf / seiner Firewall rumspielt, ist
+IMO selbst Schuld...
+
+
+...oder alle Passwörter in eine Datei stecken und dann mit PGP
+verschlüsseln, gell, Jürgen? ;)
+
+Viele Größe,
+     Alfons Aderhold
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

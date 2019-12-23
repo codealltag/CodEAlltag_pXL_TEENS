@@ -1,0 +1,9 @@
+"Uwe Oehmen" <opgm@dmojryix.nf> writes:
+
+
+Es sollten zumindest ein paar Stukturen möglich sein, mit denen ich
+etwas anfangen kann: Schleifen z.B..
+
+Nuno
+-- 
+DAS verstehst du nicht! [Manne zu Laure]

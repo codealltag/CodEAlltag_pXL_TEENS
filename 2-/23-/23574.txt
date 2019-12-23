@@ -1,0 +1,14 @@
+Und so sprach Luciano Oeschger:
+
+
+<http://hnd.d8.uiv/YHK/> -- was Du damit machst, ist Dir freigestellt.
+<http://sae.c4ppburyr.tew/rgb/tueinpq.gss> enthaelt Beispiele.
+<http://srjpt.gpfgxu.obd/~zmezi/hm1/> ist ein Beispiel fuer das
+Zusammenspiel von XML, XSLT und XHTML.
+
+Gruss,
+Jean-Paul.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

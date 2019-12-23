@@ -1,0 +1,10 @@
+Alfons Lohmeyr <hmmjc@wjpbn.ih> schrieb in im Newsbeitrag:
+M-Hivbtlijq-Qgazghcyj-Xs.01939@wtlu.jujgq.rc...
+benutzen
+
+Da arbeitet man am besten sowieso mit einen RAID5 SCSI System und >256 MB
+RAM, dann merkt man auch nicht mehr allzuviel davon. Und dann ist wenigstens
+nach einem Crash auch nich alles weg...
+
+CU
+Hinderk

@@ -1,0 +1,16 @@
+Christophe Obermeyr <xcxnjwvyhbgu@agoomuuvx.qyd> writes:
+
+
+a) Du.
+b) Gnus.
+
+ad a) <87pty4ra9y.fsf@aiur.white-hawk.de> ist hinreichend eindeutig
+ein Followup zu <877kkef1x3.fsf@obrien.bloede-url.de>.
+
+ad b) Zumindest meine Defaultbelegung sieht "Mail forward" als an C-c
+C-f gebundene Funktion an.
+
+Udo
+-- 
+Jetzt habe ich endlich auch einige Kratzer von dir - und nicht nur von
+Jeannette. [Alexander nach einem wilden Gerangel mit Heinz E.]

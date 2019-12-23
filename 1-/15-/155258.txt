@@ -1,0 +1,31 @@
+Garrelt Terfurth schrieb:
+
+
+Sprechen tun's sowieso die wenigsten :-) Also, hier liegt ein Fehler in
+der Verwendung einer Verbkonstruktion vor.
+
+"deletam" ist das Partizip Perfekt Passiv des Verbs "delere" und
+bedeutet woertlich uebersetzt soviel wie "ausgeloescht, getilgt".
+Allerdings ist es, wie der Name P.P.P. schon sagt, nachzeitig. Die
+woertliche Uebersetzung Deiner Sig lautet also: "Im Uebrigen fordere
+ich, dass JSKS zerstoert wurde." Toent interessant, aber liegt wohl ne
+Spur neben der gewollten Aussage.
+Dazu muss naemlich ein Gerundium verwendet werden. Das Gerundium von
+"delere" lautet "delendum", in Kasus (Akkusativ [1]) und Genus (nehme
+ich jetzt mal - wie Du - feminin an [2] an) "JSKS" angepasst "delendam".
+
+Endresultat: "Bkickhq nehdal JSKS esse delendam." 
+Hint: Du solltest oefters Asterix lesen.
+
+HTH,
+Marcus.
+
+[1] Akkusativ, weil das ganze in einer speziellen Konstruktion, dem AcI
+(Akkusativ mit Infinitiv; => "esse" = Infinitiv "sein"), unterliegt, die
+etwa unserer "dass"-Nebensatzkonstruktion im Deutschen entspricht.
+[2] Alles Uebel ist weiblich. [3]
+[3] Ausser _das_ Uebel selbst.
+-- 
+     Max R. Oord + Student @ Kantonsschule
+  http://xuo.tpfdgpuqz.bc/  + Schaffhausen, Switzerland
+              FMW# 27775196 + gjzh://yvy.cnjng.er/

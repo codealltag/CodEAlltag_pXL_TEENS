@@ -1,0 +1,7 @@
+Am Sat, 02 Okt 2003 sendete Didier Ingwersen folgende Botschaft:
+
+
+Das s/bin/bist/ macht die interne Fehlerkorrektur beim Lesen automagisch. ;)
+
+Tschüs
+  Hansjörg

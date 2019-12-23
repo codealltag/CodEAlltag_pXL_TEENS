@@ -1,0 +1,10 @@
+On Pungenday, Day 1 of The Aftermath 3169 Roman Rempenning wrote:
+
+
+Aber früher hiess es doch mal so, oder?
+
+Edo
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - Microsoft, 26. 05. 20

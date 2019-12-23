@@ -1,0 +1,3 @@
+Bernhard Cichosz wrote:
+
+Vielleicht weil der v86 Mode keine perfekte Emulation des Realmodes ist.

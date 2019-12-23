@@ -1,0 +1,90 @@
+Evelyn Semmrau <fdmd@vvza.jn> writes:
+
+Matheunterricht:
+[ ] lustig
+[ ] spannend
+[ ] informativ
+[ ] interessant
+[ ] beklemmend
+[x] langweilig
+[ ] unverständlich
+[ ] unmöglich
+[ ] Badetuch
+[ ] Ananas
+[ ] Pizzabesteck
+[ ] Waldmeisterrosen
+[ ] Tomate
+[ ] funky
+[ ] groovy
+[ ] spacy
+Haarwurzeln:
+[ ] Mathe
+[x] Schuppen
+[ ] eklig
+[ ] Ich will hier raus!
+[ ] Odette
+[ ] Spicken
+[ ] Entewurzel
+Zwei Türme:
+[ ] Krankenhaus, hh!
+[ ] Buhuuhu...
+[ ] Towers of Babylon
+[ ] Feith
+[ ] Babelfish
+[ ] Raspelschokolade
+[ ] Lieblingsfarbe
+[ ] Gummistiefel
+[ ] Cuarny-Eis
+[ ] Perso
+*kritzel* [x] Orthanc und Minas Morgul
+F�llerkappen:
+[ ] Pelikan
+[ ] Adelheid
+[ ] lange Patronen
+[x] Kulli
+[x] Szaf
+Religion:
+[ ] ja
+[x] später
+[ ] Odile
+[ ] Jaust
+Ja:
+[x] Mmpfh
+[ ] Nein
+[ ] Doch
+[ ] Hmpfgrmbl
+Gemüse:
+[ ] Veggieszaf
+[ ] grün
+[ ] lila
+[ ] Ketchup
+[x] Nie wieder
+[ ] Döner
+[ ] Obst
+[ ] Rhabarber
+Krüppelkind:
+[ ] Schlose
+[ ] Szlosze
+[ ] Arschkuh
+[x] Kekskuchen
+Preis:
+[x] kostenlos
+[ ] umsonst
+[ ] billig
+[ ] preiswert
+[ ] kostengünstig
+[ ] Spinatsuppe
+[ ] doofe Ohren
+Zur Person: (weil: Anonym!)
+[ ] soo groß!
+[x] männlich
+[ ] weiblich
+[ ] alt
+[x] jung
+[ ] gut
+[x] böse
+[ ] dumm
+[x] echt dumm
+[ ] Haselnuss
+
+-claus

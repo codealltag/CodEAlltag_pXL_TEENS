@@ -1,0 +1,3 @@
+Heinz Zurkuhl wrote:
+
+So ist es auch. $ABCD steht für Hex-Zahlen.

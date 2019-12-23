@@ -1,0 +1,17 @@
+Am Thu, 27 Dez 2001 sendete Fernand Zonneveld folgende Botschaft:
+
+
+Rausschmeissen. ;)
+
+
+inn.conf? Garnicht. Die wird nur beim Startup von innd gelesen. Also
+innd neustarten. Bei andern Dateien hilft schonmal
+'ctlinnd reload <filename> reason' siehe auch man ctlinnd.
+
+
+Keine Ahnung.
+
+Tschüs
+  Wolf
+-- 
+Notorisch Schreibfaul.

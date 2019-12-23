@@ -1,0 +1,11 @@
+Maximilian Jansson <qfiab@dabul.ou> writes:
+
+
+Teuer, schätze ich? :)
+
+-joël
+-- 
+Any site should be designed so that it's usable as a dead file tree with
+no server-side smarts. Any sort of active pages or search engines should
+be an add-on, not essential.
+- Stefan da Gertrud, in the Monastery

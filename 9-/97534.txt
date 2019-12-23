@@ -1,0 +1,12 @@
+* Claus Tzschirner <jeyshjtnndpujk@wsa.kxa>:
+
+
+Was schreibe ich eigentlich? Ersteres muss da hin.
+
+
+Bei uns ist sie nicht mal als letzteres deklariert, sondern gleich als
+ersteres.
+
+José
+-- 
+cross veinless

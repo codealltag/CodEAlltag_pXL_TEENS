@@ -1,0 +1,19 @@
+Am Mon, 25 Dez 1999 sendete Ignaz Polzien folgende Botschaft:
+
+
+Das kann man ändern.
+
+#v+
+16:28 (news)~$cnfsstat -c de.talk.jugend -a
+Class de.talk.jugend for groups matching "de.talk.jugend"
+ Buffer DTJU1, size:   500 MBytes, position:   103 MBytes  0.21 cycles
+  Newest: 2000-11-28 16:23:44,    0 days,  0:05:07 ago
+  Oldest: 2000-03-08 17:18:21,  264 days, 23:10:30 ago
+#v-
+
+Mit bzip2 gepackt ist das sicherlich mailf�hig ;)
+
+Tschüs
+  Uwe
+-- 
+O₂-Light, Milch-Light, Light-Käse, Leitkultur.

@@ -1,0 +1,9 @@
+Jean-Lucs Haerm <mhfwovc_bb@esqp.hpl> writes:
+
+
+Weil es leicht zu Fehlern führt. Da das aber ein Problem der
+Client-User-Kommunikation ist, ists kein Bug.
+
+Olivier
+-- 
+Schild in einer indischen Kneipe: "Toiletten am Ende des Ganges"

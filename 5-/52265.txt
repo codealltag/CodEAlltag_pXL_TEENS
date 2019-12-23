@@ -1,0 +1,15 @@
+Bruno Tapprogge wrote:
+
+[MSI-Boards]
+
+
+Hatte ich bisher eins, IIRC das MSI-5164. Ist irgendwann
+unbegreifbarerweise gestorben, hatte ständig Probleme damit (Hab ich die
+RTVI-Ports deaktiviert bootete das Board nicht mehr, mit anderem BIOS
+konnte ich die IDE-.Ports deaktivieren und immer noch booten, allerdings
+erkannte er dann den AHA2940UW nicht mehr als bootbar an...)
+
+          ^
+Da las ich eben ein n.
+
+Hinderk

@@ -1,0 +1,11 @@
+Mauro Passauer <xhlyk@uyckr.gifz.wg> writes:
+
+
+Das kann ja manchmal ganz gelegen kommen..
+
+-kay
+-- 
+ No  Points     Name                                                   Hp [andre]
+  1    6842386  Georgette-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

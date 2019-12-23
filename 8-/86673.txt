@@ -1,0 +1,11 @@
+Patrice Brink hat geschrieben getan getutet:
+
+
+Das hast du genau dem Richtigen gesagt.
+
+-richard
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Christoph 'pi' Piwinger in de.alt.sysadmin.recovery

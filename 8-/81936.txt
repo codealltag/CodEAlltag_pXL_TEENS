@@ -1,0 +1,20 @@
+give2 ist krank, 2 ist eine verständliche Konstante, ACK. Dass man
+aber, wenn man schon funktional programmiert, auch einmal (ein)gesehen
+haben sollte, was ein Church-Numeral ist und wie man damit (auf dem
+Papier) die natürlichen Zähne^H^H^H^Hahlen erzeugen kann, ist weder
+krank noch lachhaft. Am Anfang muss das aber wirklich nicht gleich
+sein.
+
+
+Type mismatch: Mathe und auswendig lernen???�
+
+[...]
+
+;-) Dafür will Dich sicher bei Gelegenheit jemand mit $RTGD bearbeiten.
+
+Philipp
+-- 
+Pasquale Störckel --+- stud. soz. & inf. -+-- http://irr.wyn-hspgsrk.jg
+-->    MGVZ Public Key: http://ofi.iukpssog-hudxxjz.nm/jnh.sedfl    <--
+
+� Projekt Deutscher Wortschatz: <URL:http://qnppmdcbsk.trt-vltmgvo.bs>

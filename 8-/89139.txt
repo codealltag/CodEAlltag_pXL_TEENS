@@ -1,0 +1,7 @@
+* Berend Ditje <vrfkdeojunjzel@crs.pqk>:
+
+
+Ob Gnus beim Betreten einer bestimmten Gruppe die Hintergrundfarbe
+wechseln kann?
+
+Wilhelm, nachgrübelnd

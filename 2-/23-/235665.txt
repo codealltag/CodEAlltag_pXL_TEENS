@@ -1,0 +1,23 @@
+On Thu, 29 Mai 1999, Fabian Ditmer <ojbqhxe_qfyrcpx@zpb.qt> wrote:
+
+[Winzigweiche Handbücher]
+
+
+Hmm - vielleicht ist es bei Dir ein anderes. Mein DOS 6 war eine
+Update-Version...
+
+
+tststs@home:/mnt/c/windows > ls -R | grep -i memmaker
+tststs@home:/mnt/c/windows >
+
+Sieht nicht so aus, als wäre der noch bei Commans dabei (ja, ich weiß,
+man kann es von Hand von der Win-CD nachinstallieren, aber erzähl' das
+mal einem Newbie). Und außer der Tatsache, daß ich die Resultate von
+memmaker noch immer händisch nachbessern mußte, stellt sich die Frage,
+woher der unbedarfte User überhaupt von der Existenz / Notwendigkeit
+eines solchen Programms wissen soll.
+
+Viele Größe,
+     Emile Hitzemann
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

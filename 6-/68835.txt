@@ -1,0 +1,11 @@
+Luisa Gseller <wbev@mrfa.mx> writes:
+
+
+Hmm.
+Bestimmt aber nicht mit dem von dem 'Mann' gewuenschten Effekt?
+
+-reto
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.
+$(sudo /root/get-xmms-title)

@@ -1,0 +1,11 @@
+Raimund Wesendonck-Binger hat geschrieben getan getutet:
+
+
+Hmm .. ich wollte jetzt eigentlich nicht auf die Realität übergreifen.
+
+-jörn
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Stefan 'pi' Piwinger in de.alt.sysadmin.recovery

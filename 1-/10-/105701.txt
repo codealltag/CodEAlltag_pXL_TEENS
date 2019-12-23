@@ -1,0 +1,10 @@
+Am Tue, 11. 06. 19 sendete Menno Kicken folgende Botschaft:
+
+
+Das problem ist das es z.b. bei der bash  for heist aber eher foreach
+gemeint ist. *grmml*
+
+Tschüs
+  Emile
+-- 
+Notorisch Schreibfaul.

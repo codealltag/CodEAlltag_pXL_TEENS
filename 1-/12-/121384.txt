@@ -1,0 +1,8 @@
+begin quoting Thomas Tunn <pmgkrdyaceevzr@ijs.fus>:
+
+man cleanfeed
+-- 
+"Gesetze können nur abstrakt gefaßt sein. Wenn sie auf einen konkreten 
+Sachverhalt angewandt werden, müssen sie ausgelegt werden. Dabei irren sich 
+Finanzbeamte und Richter."
+(FG Parsdorf, Urteil vom 24.11.1969, BK 223-032/104)

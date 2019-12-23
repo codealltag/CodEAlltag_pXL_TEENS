@@ -1,0 +1,11 @@
+Walter Elkenhans hat geschrieben getan getutet:
+
+
+Wenn ihr Karsten getötet habt, warum schreibt er dann noch?
+
+-didier
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Olaf 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,12 @@
+Ulrichs Greib <kydiywd_fc@soxb.scw> writes:
+
+
+Wie wärs mit: Ich hole dich eben ab.
+
+Gerhard
+
+-- 
+Homer:~$ whoami
+root
+Homer:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Thorsten Geckeler]

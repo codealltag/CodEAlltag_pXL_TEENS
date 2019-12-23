@@ -1,0 +1,10 @@
+August.
+
+Dann schon. Allerdings ist die Formulierung für die Million IIRC
+'feststellen ob P=NP', und der SLK explizit auf P \subset \not \equal NP
+ausgesetzt...
+mfg, 
+	Oskar
+-- 
+BOFH excuse #179:
+multicasts on broken packets

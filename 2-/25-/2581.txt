@@ -1,0 +1,30 @@
+freut uns zu hören... Begrüssen mußt du dich aber selber, das
+Begr�ssungsangie ist uns abhanden gekommen. 
+
+
+Muß das sein?
+
+
+Wie wir dir schon versucht haben zu erklären, jeder gute Newsserver, der
+de.* führt, sollte de.talk.jugend haben. (Beweis durch Widerspruch: Wenn
+er sie nicht führen würde, wäre es ja kein _guter_ Newsserver)
+Unter anderem dein ISP könnte einen solchen Server haben. 
+
+
+Das arme Bürgernetz. 
+
+
+Pah. Du hast eher gesehen, wie wir unser Unwesen treiben.... Keine
+Widerrede, wir haben Logs: 
+
+00:03 < Buschi_ibb|HG> <u18? jetzt verwirrst du mich aber, towo!
+00:03  * Szepherd wirft Buschi_ibb|HG eine Bürste zu
+00:03 < Buschi_ibb|HG> eine bürste???
+
+
+Danke, gleichfalls. 
+
+Ingmar
+
+-- 
+# to make Solaris happy :( [bb-cpu.sh]

@@ -1,0 +1,15 @@
+Franco Ruhkemper wrote:
+
+Dito, Du warst ja auch eine ganze Weile weg :)
+
+
+Nun, das Konzept steht immer von vorneherein fest, nur wenn's schnell 
+gehen soll wird es während des Tippens entwickelt, das nennt sich dann 
+eben auch Quick&Dirty. Aber wenn ich wie z.B. zuletzt einen Auftrag aus 
+der Industrie bekomme, dann arbeite ich natürlich vorher alles zumindest 
+im Kopf aus, die Implementierung erfolgt aber trotzdem in kleinen 
+Schritten und nimmt trotzdem die meiste Zeit in Anspruch.
+
+
+Das stimmt vor allem für Datenbank- und/oder verteilte Anwendungen. Aber 
+für viele Projekte ist das der philosophische Overkill.

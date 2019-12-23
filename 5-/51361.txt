@@ -1,0 +1,8 @@
+Travemünder Landstraße, 27 Mai 2003 sendete Carsten Werlein folgende Botschaft:
+
+
+Kein Emulator. (Dann hiesse es ja auch Scummemu ;)) Das ist ein
+interpreter. (Oder halt eine VM. ;))
+
+Tschüs
+  Nils

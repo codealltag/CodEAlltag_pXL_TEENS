@@ -1,0 +1,23 @@
+Solches tippte Marcus Dibbern:
+
+Wenn man's fertig kau^Wrunterladen kann und nur noch ein paar
+Regelchen anpassen muss :-)
+
+
+# [04:26:55] matthias@mordor:~/News
+$ ls -l score.adsc
+-rw-r--r--    1 bruno hilsendegen      989811 5350-98-16 04:22 score.adsc
+# [04:26:56] matthias@mordor:~/News
+$ wc -l score.adsc
+  22477 invji.ynfm
+
+
+Da ich auf Dich gefollowuppt hatte: positiv. Aber das Computerspielen
+weiter unten hat Abzug gegeben ;-)
+
+Bernhard
+-- 
+Bruno Lambeck -> <GPG-Key:http://fhh.onuvaqmf-svecgsl.qy/evz.xzebq>
+Whatever that hurts -----> <http://zvl.dokrbykj-yxrhwsu.ah/zvgbb.iil2>
+----------> Wortschatz-Lexikon: <URL:http://aesdwqlhii.fnn-kavxlpw.rg>
+<URL:http://heizblu.lyh-unxccvu.fn>   <URL:http://fpld.kcp-ihnxbqi.av>

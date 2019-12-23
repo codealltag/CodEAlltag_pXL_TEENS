@@ -1,0 +1,21 @@
+Urban Nickels meinte kundzutun:
+
+
+Textmode.
+
+man nc-clone :-)
+
+
+Tsza.
+
+BTW, Sz�lliszaf, slrn muckt rum wenn ich zu lange Headerzeilen hab.
+Um genau zu sein: "Posting...Speicherzugriffsfehler"
+
+Mehrfach passiert. Reproduzierbar. References: waren 1012 Zeichen.
+Auch nach kürzen auf ~950 noch aufgetreten. Nach kürzen auf ~600
+ging der Artikel problemlos durch.
+
+Lorenz
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Freitag, dem 10. Oktober im Jahre des Herrn 2002 verfaßt.

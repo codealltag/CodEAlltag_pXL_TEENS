@@ -1,0 +1,17 @@
+On Tue, 31. 05. 20, René Zitzlsperger <fleehqq_czkvkjw@usm.uj> wrote:
+[...]
+
+Sorry, aber das halte ich für sehr unwahrscheinlich. Auch wenn ich
+Quisbrock nicht besonders mag - bisher haben sich solche Sachen noch immer
+als Benutzerfehler entpuppt.
+
+
+Man wird. Ich schaue selbst schon doppelt nach, was ich da eingestellt
+habe, bevor ich den Befehl zum Partitionieren / Formatieren gebe, aber
+YaST weist mich trotzdem jedes Mal darauf hin, daß auf Partition x
+alle Daten verloren gehen und holt sich noch einmal mein Einverständnis.
+
+Viele Größe,
+     Markus Hasenpusch
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,11 @@
+Am Sun, 21 Dez 2002 sendete Ralph Zenkner folgende Botschaft:
+
+
+pppoe
+
+
+Es bleibt aber doch dabei das zwischen meinem Rechner und der Teuerkom aus
+der Netzwerk-standleitung per pppoe wieder eine Wählleitung gemacht wird.
+
+Tschüs
+  Matthias

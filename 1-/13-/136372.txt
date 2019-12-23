@@ -1,0 +1,18 @@
+Christian Dworog schrieb am 4. Februar 2001 um 23:08 Uhr folgendes:
+
+[Unlesbarer C-Code -> Stil verbesserungswürdig]
+
+Guter Stil muss (in diesem Fall) gar nicht mal "eigener Stil" sein,
+sondern kann durchaus auch von einem fähigen Programmierer abgeschaut
+/ inspiriert worden sein.
+
+Allerdings ist wenig Erfahrung mit einer Sprache durchaus ein weiterer
+möglicher Grund dafür, dass man entsprechenden Code schwer zu
+verstehen findet ...
+
+Viele Größe,
+     Daniel Tommes
+-- 
+Q: Is C an acronym?
+A: Yes, it stands for ``C''.  It's another of those funky recursive acronyms.
+                  -- comp.lang.c Answers to Infrequently Asked Questions

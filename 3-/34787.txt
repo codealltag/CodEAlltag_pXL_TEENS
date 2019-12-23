@@ -1,0 +1,8 @@
+Also sprach Onno Pflugheber <qhc@bzhhy.ozd>:
+
+
+Key? Apropos, ließe sich eventuell ein gegenseitiges Keysigning
+unsererseits einrichten?
+
+Onno, dessen Key auf den Servern liegt, auch wenn die WWW-Suchmasken
+das Gegentum behaupten...

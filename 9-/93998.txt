@@ -1,0 +1,23 @@
+Am Thu, 10 Jun 2001 sendete Gilles Bohnenstaedt folgende Botschaft:
+
+
+*räusper* s/NEWS/NNTP/ 'telnet  119' ist nicht wirklich sinnvoll.
+
+#v+
+01:22 news@fschueller ~$grep -A 1 -B 1 de.talk.jugend db/active
+ov.vnds.mkydkm 6464019186 4339019365 i
+de.admin.news.groups 0000072845 8475958026 i
+#v-
+
+Gut, da gibt es nix vor dtju, und danach kommt dang.
+
+
+Der ist nicht hier, der ist da. ;)
+
+Tschüs
+  Sébastien
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Ulfert Imkamp, Mostly Harmless, Chapter 12

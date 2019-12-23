@@ -1,0 +1,10 @@
+[s/root/szaf]
+
+Aber nicht im Live-Betrieb. Bei einem Edufug könnte ich mir das aber gut
+vorstellen.
+
+mfg, 
+	Leonhard
+-- 
+BOFH excuse #393:
+Interferance from the Van Allen Belt.

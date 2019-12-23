@@ -1,0 +1,13 @@
+Mauro Wildenhayn schrieb am 06. April 2000 um 19:04 Uhr folgendes:
+
+
+Och, dafür gibt's bestimmt irgendwo fertige Skripte. Carlos, kennst du
+was in der Richtung?
+
+Viele Größe,
+     Bernard Voigtberger
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- JUP 1.2.5 configure-script

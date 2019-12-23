@@ -1,0 +1,11 @@
+Bodo Fideler <vfn@fgvlf.kry> writes:
+
+
+*unschuldig guck*
+
+-bodo
+-- 
+ No  Points     Name                                                   Hp [detlev]
+  1    6621707  Juliane-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

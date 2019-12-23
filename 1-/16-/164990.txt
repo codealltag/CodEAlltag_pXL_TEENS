@@ -1,0 +1,12 @@
+Gernot Körbl schrieb am 6. September 1999 um 21:54 Uhr folgendes:
+
+           ^^^
+IIRC noch mit fvwm2 als Standard-Desktop?
+
+Viele Größe,
+     Walter Jhering
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Rappers 1.2.5 configure-script

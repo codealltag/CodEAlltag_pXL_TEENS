@@ -1,0 +1,16 @@
+Ottmar Ginter schrieb am 2. Mai 2000 um 01:44 Uhr folgendes:
+[...]
+
+Tja, ich habe keinerlei Erfahrung mit ISDN ;-)
+
+Allerdings will ein Kumpel sein lokales Netzwerk über einen alten
+Rechner mit dem Internet verbinden und hätte gerne, dass ich ihm das
+dafür nötige System aufsetze. Bei der Gelegenheit werde ich wohl damit
+konfrontiert werden, er hat nämlich auch eine Fritz!-Card...
+
+Viele Größe,
+     Gérald Neckermann
+-- 
+It might look like I'm doing nothing, but at the cellular level I'm
+really quite busy.
+                                           -- "Smart Comments", part 22

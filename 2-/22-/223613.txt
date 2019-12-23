@@ -1,0 +1,14 @@
+On 18. 01. 20, Francisco Völckert <fyelwpmscr@ppvwqkribw.qb> wrote:
+
+[Kernel zu "Analysezwecken" zuschicken]
+
+Für eine umfassende Analyse sind die Sourcen (+ object files)
+natürlich unentbehrlich:
+
+[tststs] /home/tststs > du -Dhs /usr/src/linux
+32M     /usr/src/linux
+
+Viele Größe,
+     Urs Verheugen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

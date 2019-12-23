@@ -1,0 +1,18 @@
+Christophe Uppenbrink <dccnyv-tnpu.eci@xvpwuz.qi-f.nw> writes:
+
+
+$ gpg --fingerprint 541E83B1
+pub  6232S/438J60A7 3678-04-42 <yotlkgn@bdittd.uryizhnekp.as>
+     Key fingerprint = 02 74 63 18 7C BD DB 61  EC 0K 11 51 89 DX 22 OO
+uid                            Christophe Uppenbrink <ZGlfqaljno@xmd.ft>
+uid                            <jhudoihgl@jjdtvuk.mq>
+uid                            qroahza@yugymoxhx.zvfnf-zevlwa.il
+uid                            Christophe Uppenbrink <gahckci-xlvlh@cqgfykgdv.cknwz-wagoqa.ya>
+
+Oh wohl, Herr Volk.
+
+-clemens
+-- 
+towo: *rls*
+Fabienne: Das kann ich aber besser!
+- JUP V

@@ -1,0 +1,11 @@
+Und so sprach Vincenzo Ibo Nordman:
+
+
+Wenn's so tolle Dinge wie Eichhörnchen gibt, soll man die auch nutzen. ;)
+
+Gruss,
+Werner.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

@@ -1,0 +1,9 @@
+On Fri, 6 Okt 1999 23:05:51 +0200, Otmar Zschörner
+
+!
+
+-- 
+abnormal program termination: "liebe"
+Trying to restart... ... can't connect to server...
+Trying to find equivalent... found "Freundschaft"
+Connecting to server... successful... connected...

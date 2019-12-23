@@ -1,0 +1,9 @@
+Nane Foßhag <hzvuqp-fgzh-788248@bvgl.dzbphw.hl> writes:
+
+
+towo@loki:~$ gpg --version
+gpg (GnuPG) 1.0.7
+
+Die Windowsversion scheint ja viele Updates zu brauchen. :)
+
+-berend

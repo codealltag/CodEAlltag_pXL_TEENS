@@ -1,0 +1,16 @@
+* n85w1j@qzifpaebb.oh (Kurt Ekmann):
+
+[qmail]
+
+Irgendwas ist ja immer.
+
+So kannst du wenigstens vor allen deinen Freunden damit angeben, dass du
+einen eigenen DNS auf deinem Rechner hast.[1]
+
+Kurt
+
+Footnotes: 
+[1]  Ich bräuchte jetzt nur noch Freunde, die wissen, was das ist ...
+
+-- 
+8

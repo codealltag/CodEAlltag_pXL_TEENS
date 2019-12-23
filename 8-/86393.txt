@@ -1,0 +1,7 @@
+* "Tim Peiger" <cisg@auafwzum.sa>:
+
+
+Der _Kernel_ unterstützt ja schließlich smb (ich habe es ja mit
+eingebaut).
+
+Patrice

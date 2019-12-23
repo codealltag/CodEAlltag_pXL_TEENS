@@ -1,0 +1,7 @@
+qheqahkgxs@gcegwyipzz.gz (Berend Hösterey) writes:
+
+
+Klar kann man den Emacs im VI-Emulations-Modus laufen lassen, aber das
+trennt Emacs und Gnus ja nicht voneinander.
+
+Francesco

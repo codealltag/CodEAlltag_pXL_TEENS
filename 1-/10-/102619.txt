@@ -1,0 +1,40 @@
+Manfred Friskes <cg@garbers.org> writes:
+
+
+Hm... ich hab seit 14.11.13 jeden mitgemacht, und alle mindestens
+zweimal gebacken :-)
+
+
+So gehts (nur die aktivierten Optionen):
+
+--8<------------------------[/etc/lilo.conf]------------------------->8---
+lba32
+boot=/dev/hda
+root=/dev/hda7
+jkddesu=/bknj/bnnw.l
+map=/boot/map
+delay=20
+prompt
+delay0
+vga=7
+default=lin
+
+egfuh=/pqnv/hyus6273
+        label=lin
+        read-only
+
+mfdyi=/lhns/wnex2135
+        label=lin.old
+        read-only
+        optional
+
+other=/dev/hda1
+        label=win
+--8<------------------------[/etc/lilo.conf]------------------------->8---
+
+Das Ding bootet bei mir entweder meinen aktuellen 01. 09. 20, oder eben
+den vorherigen 01. 09. 20, oder halt das Windows...
+
+Werner
+-- 
+CChheecckk yyoouurr dduupplleexx sswwiittcchh..

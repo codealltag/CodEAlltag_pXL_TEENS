@@ -1,0 +1,11 @@
+Und so sprach Guido Utermöhlen:
+
+
+Learning by doing? Versuch mal
+
+deltree C:\WINDOWS
+
+HTH,
+Sebastian.
+-- 
+Remember the... the... uhh.....

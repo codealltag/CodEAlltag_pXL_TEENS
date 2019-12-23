@@ -1,0 +1,6 @@
+qkpwuot_lqdpqhb@gypa.he (Gabriel Ambuehl) writes:
+
+
+H? Wie meinen? Natürlich kann auch ein Gnus auf dem Client über Enet
+direkt auf den Newsspool des Servers zugreifen, aber meintest Du das?
+Und ob das unbedingt ein Geschwindigkeitsvorteil ist?

@@ -1,0 +1,7 @@
+Sébastien Geisweid <jndytw@tqu.wu> schrieb in im Newsbeitrag:
+slrn8d57h1.i87.tststs@starflower.tststs.ddns.org...
+
+Alles was ich brauche, ist Unterstützung für Realtek 8130 Karten, EIDE
+Platten und evtl. Advansys und Adaptec SCSI Kontroller plus Textmode mit
+SZEG Karten, nix andres. Ich glaube, dass dürfte noch zu machen
+sein...

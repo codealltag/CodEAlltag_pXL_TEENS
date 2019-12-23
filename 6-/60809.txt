@@ -1,0 +1,9 @@
+Und so sprach Urban Jülicher:
+
+
+cat /netbsd > /dev/audio
+
+Gruss,
+Lutz.
+-- 
+Lukas Beiwinkler                        <URL:http://znh.mcjqfsdkx.uz/~holen/>

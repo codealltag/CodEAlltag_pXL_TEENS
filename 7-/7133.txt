@@ -1,0 +1,7 @@
+Ich hab festgestellt, daß jede Menge Leute auf mich hören.. einen
+Versuch wars wert.
+
+Ullrich
+
+-- 
+# to make Solaris happy :( [bb-cpu.sh]

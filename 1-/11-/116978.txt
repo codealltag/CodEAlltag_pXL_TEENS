@@ -1,0 +1,14 @@
+* Georges Gambert <olknwoe788932@xezoar.ji-m.fk>:
+
+
+Na sowas.
+
+<kleinlaut>
+Ohne Hilmar Oltrogge wäre es mir auch nicht aufgefallen. Ich habe in
+control.cancel bisher nur auf meinen FQDN gefiltert und darum die Cancel
+erst nicht bemerkt. Nun habe ich einen passenden dtju-Filter.
+</>
+
+Eilert
+-- 
+cross veinless

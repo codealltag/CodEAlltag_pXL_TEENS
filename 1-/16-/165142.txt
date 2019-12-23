@@ -1,0 +1,10 @@
+Nane 'sSXP' Bloemsaat <hIKJ@hwj.ujj> schrieb in im Newsbeitrag:
+93-26-09.99-12-64.zve.0050@kxhb.ig...
+
+Eben, was hindert dich dann
+# whereis xf86setup
+auszuführen, um es zu finden? (höchstwahrscheinlich ist es aber sowieso im
+Path)
+
+
+Ohja, das Problem kenn ich mit meinen Peripheriegeräten..

@@ -1,0 +1,16 @@
+Wohl das. Ich hab' mal ein paar primitive Nachforschungen angestellt:  
+Wenn's hängt, dann endet mein tracert jedesmal mit einem Timeout bei CHIS  
+Langengern, außerdem ist scheinbar nur der POP-Server betroffen, auf den  
+SMTP-Server kann ich immer zugreifen.
+
+
+Glaube (bzw. hoffe) ich weniger, immerhin steht mit Teles ein doch nicht  
+gerader finanzschwacher Hersteller (naja, soviel man halt mit 0190- 
+Hotlines verdient :-)) dahinter, dessen Ruf darunter auch leiden würde.
+
+Patrick Rohthe
+
+-- 
+Dieses Posting ist es wert, richtig gequotet zu werden.
+                                             E-Mail: fghmqn@voxmjbgwcf.mo
+---> Offizieller Kämpfer wider Menno Bädke des Ordens von dtju <---

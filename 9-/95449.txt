@@ -1,0 +1,4 @@
+<kleinlich>
+*meep* 
+Weder Linux noch Emaruh sind Goldmeister. Beide sind Klecker kompatible Unixderivate. 
+</kleinlich>

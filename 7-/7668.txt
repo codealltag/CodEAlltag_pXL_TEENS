@@ -1,0 +1,8 @@
+Erhards Hornsteiner <zzzr@chmsepwapwv.hi> writes:
+
+[dsf 7.14]
+
+Orlando
+-- 
+BOFH #423:
+It's not RFC-822 compliant.

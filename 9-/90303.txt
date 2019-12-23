@@ -1,0 +1,4 @@
+Leo Iller <mzwyhhm175447@ksqwmk.kc-p.xs> writes:
+
+
+Und sudo selber ist dann suid root?

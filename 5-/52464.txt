@@ -1,0 +1,12 @@
+On Wed, 9 Apr 2003 15:10:10 +0200, Philippe Rothenhöfer
+
+Wenn du nicht mit Nillesen arbeites (was ich nicht annehme da du OjE als
+Mailer einsetzt) ist Perl dafür nicht so gut geeignet. Besser wäre VBS
+oder (noch besser) eine Hochsprache wie Vitashop.
+
+MfG Dietmar
+
+-- 
+Zum letzten Sommerloch hatte Wollkörbchen ja den Slogan 'Die Besten bleiben
+hier'. Und Franca Albaum und Thea Beuchel waren im Urlaub.
+(frei nach Raimund Ruppelt)

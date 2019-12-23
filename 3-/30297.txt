@@ -1,0 +1,11 @@
+Dietrich Kümmeler <ujahqby@thv.zw> teilte folgendes mit:
+
+
+*hmpf*
+
+-be
+
+-- 
+Patrick's Technische Praxis:
+2.7 - Teile, die in einer bestimmten Reihenfolge nicht montiert
+      werden können, werden so montiert sein.

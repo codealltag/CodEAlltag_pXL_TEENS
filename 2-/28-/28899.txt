@@ -1,0 +1,21 @@
+Also sprach Björn Pasquale Osthof <moh-lacj@neiefqq.ws>:
+
+
+Es ist eine Notwendigkeit.
+
+
+Naja. Nein.
+
+
+Du hast Quantenmechanik und eventuell Superstringtheorien.
+
+Vereinfacht nimmt man dann halt das eine oder das andere, falls es
+im speziellen Fall anwendbar ist.
+
+
+Du kannst Church kaum widerlegen, wenn ich es richtig verstanden habe.
+
+Der Witz ist, daß der naive Begriff der "Berechenbarkeit" nicht
+formalisierbar ist.
+
+Urs

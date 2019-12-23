@@ -1,0 +1,11 @@
+Gérald Vorell schrieb am 22. September 2001 um 15:46 Uhr folgendes:
+[...]
+
+Kein großes Problem -- es gibt da eine ganz brauchbare Referenz-
+Implementierung ... ;-)
+
+Viele Größe,
+     Robert Volkmars
+-- 
+Does the name Pavlov ring a bell?
+                                               -- random fortune cookie

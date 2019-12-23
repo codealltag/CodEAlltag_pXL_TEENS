@@ -1,0 +1,15 @@
+Ivanos Pfitzer <wiwqgcx_jo@dbnk.qmf> writes:
+
+
+Du möchtest per Smarthost verschicken, der MX nimmt offenabr aus der
+t-o IP-Range keine direkten Mails an. Muss nicht die dümmste
+Entscheidung sein.
+
+
+Das ist dann vermutlich nur ein Folgeproblem daraus, dass er dich
+nicht mag.
+
+Vito
+-- 
+"Lt. Worf, scannen Sie das Schiff!"
+"300dpi, Sir?"

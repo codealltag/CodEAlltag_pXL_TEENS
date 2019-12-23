@@ -1,0 +1,4 @@
+Sascha Trincker wrote:
+
+Overhead aufgrund der MIME Umsetzung bei Goroncy/News. Die Dateien werden 
+dadurch um einiges größer.

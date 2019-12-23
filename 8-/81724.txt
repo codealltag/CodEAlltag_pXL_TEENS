@@ -1,0 +1,10 @@
+Stefanie Wölfel hat geschrieben getan getutet:
+
+					  ^
+
+-towo, nachhelfend
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Heimo 'pi' Piwinger in de.alt.sysadmin.recovery

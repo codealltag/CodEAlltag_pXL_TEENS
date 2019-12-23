@@ -1,0 +1,10 @@
+Pascal May <hi@x.pxxi.vfqwos.klq> writes:
+
+
+Tut es aber zuverlässig nicht. Löschen/Verschieben einer Mail führt
+zuverlässig dazu, dass eine zusätzliche neue Mail im Gruopbuffer
+angezeigt wird.
+
+Enno
+-- 
+"Hannes war ein Optimist."

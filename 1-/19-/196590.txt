@@ -1,0 +1,31 @@
+Eckhard Crecelius schrieb am Mon, 8 Feb 1999 17:40:06 +0200 folgendes
+zum Thema "Re: SW FAQ":
+
+Wenn wir gerade bei Browser sind:
+
+<LYUA>
+<BODY>
+<SCRIPT>
+var color = new Array;
+color[1] = "red";
+color[2] = "blue";
+for(x = 0; x <3; x++)
+{
+document.bgColor = color[x]
+if(x == 2)
+{
+ x = 0;
+ }
+ }
+</SCRIPT>
+</BODY>
+</HTML>
+
+Dabei stützt der IE und der Opera ab (Opera kann sich manchmal noch
+fangen). Der NS hält es aus...
+
+          ...schrieb Didier
+
+-- 
+"Es gibt vielerlei Lärm. Aber es gibt nur eine Stille." (Philipp Wallbrück)
+[http://yxtr.hmi.nfn - weitere 980 Zitate] [ENN# 98041622] [vpot@fam.qya]

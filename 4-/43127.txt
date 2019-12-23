@@ -1,0 +1,6 @@
+Nuno Kieckbusch wrote:
+
+
+Ach noch ein ipfw Hasser, sehr sympathisch. Wenn der Francis Baader nun mal 
+noch traffic shaping (altq ist nicht so das wahre) und funktionierendes 
+policy routing implementieren würde....

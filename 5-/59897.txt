@@ -1,0 +1,41 @@
+Und so sprach Gottfried Tolksdorf:
+
+
+Auen bewohnend ja, aber nicht so dem Erdreich angetan. :)
+
+
+Schoen waers.
+
+cleuzing@slab2:~> uname
+SunOS
+
+
+Also, ich hab jetzt mal 1.4.5 installiert, klappt anstandslos:
+
+chris@asterix:~> ls /usr/local/lib/libslang.*
+/usr/local/lib/libslang.a         /usr/local/lib/libslang.so.1
+/usr/local/lib/libslang.so        /usr/local/lib/libslang.so.1.4.5
+
+slrn will aber nicht, insbesondere chkslang:
+
+wkyqv@pffvrkz:/msa/bbhmt/gzaq-8.3.6.2> make
+[...]
+Making all in src
+gcc -Dunix -DSHAREDIR=\"/usr/local/share/slrn\"
+-DSYSCONFDIR=\"/usr/local/etc\" -I. -I../intl -I/usr/local/include
+-g -O2 -c chkslang.c
+gcc  -g -O2  -o chkslang  chkslang.o ../intl/libintl.a
+-L/usr/local/lib -lslang -ltermcap   -lm 
+./chkslang wyyt 70341 23395
+Shared object "libslang.so" not found
+*** Error code 1
+
+Stop.
+*** Error code 1
+
+Stop.
+
+Gruss,
+Bruno.
+-- 
+Snow goons are bad news.

@@ -1,0 +1,12 @@
+Winfried Gerald hat geschrieben getan getutet:
+
+
+Was ich von dem Info-Material, was mein Bruder vom Kurs der Kerstin
+Emil bekommt, gesehen habe, sieht interessant aus.
+
+-marco
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Siegfried 'pi' Piwinger in de.alt.sysadmin.recovery

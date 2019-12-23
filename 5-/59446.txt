@@ -1,0 +1,9 @@
+Vincenzo Petermayrs <cg@garbers.org> writes:
+
+
+Die Lösung für dieses Problem lautet hoffentlich demnächst "5GB Spool
+auf eigener Partition"...
+
+Gerald
+-- 
+f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng.

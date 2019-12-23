@@ -1,0 +1,10 @@
+Am Thu, 18 Sep 2003 sendete Waldemar Anderl folgende Botschaft:
+
+
+LC_CTYPE ist nur für den auf dem Terminal verwendeten Zeichensatz
+zuständig, wenn ein Programm aufgrund dieser Variablen unverständliche
+Fehlermeldungen gibt, ist das ein Zeichen das du es schnellstens
+entsorgen solltest.
+
+Tschüs
+  Manuel

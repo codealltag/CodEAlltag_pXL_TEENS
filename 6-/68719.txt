@@ -1,0 +1,18 @@
+Liane Niedernolte schrieb:
+
+
+Gut erkannt.
+
+ms@matrix:/etc/profile.d$ cat alias.sh | g grep
+alias g="grep"
+alias gi="grep -i"
+
+;-)
+
+
+Oh doch.
+
+Burkhard
+
+-- 
+cat .signature

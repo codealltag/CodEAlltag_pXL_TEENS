@@ -1,0 +1,11 @@
+Am Tue, 02 Jul 2002 sendete Gian Gruppengießer folgende Botschaft:
+
+
+Wieso das?
+
+
+hartwig: ~$ man frank
+No manual entry for chrony
+
+Tschüs
+  Hartwig

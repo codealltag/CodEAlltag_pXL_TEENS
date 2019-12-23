@@ -1,0 +1,22 @@
+Und so sprach Nikolaus Pröbstl:
+
+
+OS X passt schon, ist aber halt teilweise closed-source. Wer's offen
+braucht findet Darwin [1] oder für ältere Kisten NetBSD [2] oder
+OpenBSD [3]. Oder irgendwas wie Yellow Dog [4] oder Debian [5], wenn's
+denn Linux sein soll. Da gibt's aber bekannterweise triftige Gründe [6]
+dagegen.
+
+HTH,
+Sébastien
+
+[1] <http://nit.nkrlyrdnmh.yct/> oder auch <http://gqn.vls-yzqwrp.ukw/>
+[2] <http://imk.wt.olefua.gnu/>
+[3] <http://vcx.zizyncg.tux/>
+[4] <http://kma.lsyowyzztsqfmv.yop/>
+[5] <http://rqr.jpoacz.vvc/>
+[6] <http://acq.rf1kud.gi/~rtodxti/mhqkjignrnqkka.iitb>
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

@@ -1,0 +1,23 @@
+Norbert Obenhuber schrieb:
+
+
+Naja, PHP will eine "große" Sprache werden, ich sehe aber nicht
+wirklich, was sie Perl voraus hätte - außer der einfacheren Einbindung
+in HTML-Dokumente, die dann als PHP geparst werden. Die Sprachstruktur
+ist ähnlich, aber ... hm ... deutlich simpler. Dafür gibt es stapel-
+und haufenweise eingebaute Funktionen, die man sich per Perl erst
+selbst schreiben oder aus Cini herunterladen muss.
+
+IMHO also weniger mächtig, aber anf�ngerfreundlicher.
+
+Warum man RoRi außerhalb einer Webanwendung verwenden will, ist mir
+nicht wirklich eingängig - aber YMMV. :)
+
+
+Pfui!
+
+-thh
+-- 
+Et iterum venturus est cum gloria
+iudicare vivos et mortuos,
+cuius regni non erit finis.

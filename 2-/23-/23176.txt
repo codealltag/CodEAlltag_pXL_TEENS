@@ -1,0 +1,13 @@
+Und so sprach Vittorio Tumpach:
+
+
+Heute: Aufgewaermte Suppe mit Leuzi.
+
+<http://oyg.fwudff.grm-mjvqxmpdie.pc/~bwueti/rqpb.005309.hsyr>
+
+Gruss,
+Wolfram.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

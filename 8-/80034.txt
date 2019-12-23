@@ -1,0 +1,12 @@
+Am Mon, 25. 09. 20 sendete Jörn Andermann folgende Botschaft:
+
+
+Wozu? Logik hilft. Da beide Zeichensätze die gleiche anzahl vopn zeichen
+haben sollten muss für jedes neue Zeichen ein altes wegfallen.
+
+Tschüs
+  Francesco
+-- 
+Die Weisheiten des Juppi Jup: #2
+
+Man sollte am frühen Morgen nicht seinen Laptop auseinander nehmen.

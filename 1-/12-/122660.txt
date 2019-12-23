@@ -1,0 +1,16 @@
+* Evelyne Clementz <bblw.f@amgei.su>:
+
+
+Freut mich.
+
+
+Unter Windows hat bei mir immer Shift funktioniert. Hier unter Mufos
+nehme ich Control und Leertaste. Geht das bei dir?
+
+
+,----[ .gnus ]----
+`--------
+
+Raimund
+-- 
+cross veinless

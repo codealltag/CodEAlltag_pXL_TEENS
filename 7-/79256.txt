@@ -1,0 +1,13 @@
+Edmund Scheifel schrieb:
+
+
+Wie konnte man da nochmal so suchen, dass es keinen Unterschied
+zwischen Groß und Kleinbuchstaben macht?
+
+Hartwig,
+ging doch irgendwie, oder?
+
+-- 
+  "The MS Exchange Information Store service depends on the MS
+   Exchange Directory service which failed to start because of the
+   following error: The operation completed successfully."

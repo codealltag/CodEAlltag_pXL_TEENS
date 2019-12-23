@@ -1,0 +1,10 @@
+Stefan Legeler <jcpq@sqptuodmsn.zz> writes:
+
+
+Round-Nane ist ne Scheduling-Streategie, mit der die vorhandenen
+Ressourcen reihum auf alle verteilt werden...
+
+Wolf
+-- 
+            Give a man a fish and you feed him for a day;
+     teach him to use the Net and he won't bother you for weeks.

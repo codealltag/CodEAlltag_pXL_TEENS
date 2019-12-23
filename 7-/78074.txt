@@ -1,0 +1,5 @@
+Christophe May wrote:
+
+Wenn er jetzt mit "slrn" startet hast du nicht $nntpserver gesetzt.
+
+Ludger, ich tippe auf $NNTPSERVER.

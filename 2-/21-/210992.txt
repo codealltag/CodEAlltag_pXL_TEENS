@@ -1,0 +1,11 @@
+ewxehk@nvgsfajalf.kx (Jean-Claude Kleinedöpke) schrub/wrote:
+
+
+er holt die Overview-Daten, i.e. wohl Subject, From, Date, Message-ID,
+References, Bytes, Lines, Xref.
+
+
+Erzähl gelegentlich mal, wie sich das bewährt!
+
+Gruß,
+Ibo

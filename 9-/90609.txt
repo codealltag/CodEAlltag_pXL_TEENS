@@ -1,0 +1,6 @@
+Guido Ungering <vxlwclz302080@dkbekn.ok-e.fx> writes:
+
+
+Also ist es keine reguläre Sprache? Oder sehe ich das falsch, daß sich
+die Syntax einer regulären Sprache durch einen regulären Ausdruck
+beschreiben läßt?

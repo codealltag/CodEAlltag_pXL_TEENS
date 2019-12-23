@@ -1,0 +1,11 @@
+Dixit Walter Bremen <ps@proixjo.chh>:
+
+$r=$x;
+for($i=1;$i++;$i<=$n){
+   $r=$r*$x;}
+
+echo $r;
+-- 
+"People that are really very weird can get into sensitive positions and have a
+tremendous impact on history."
+ - Governor Nico Peterhans

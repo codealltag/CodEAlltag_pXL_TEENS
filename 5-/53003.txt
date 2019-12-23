@@ -1,0 +1,8 @@
+Am Sun, 31 Dez 2001 sendete Viktor Opterweidt folgende Botschaft:
+
+
+Wenn ich YDATE eingebe wird das automagisch zu "Mon Jun 24 15:07:52 CEST
+2002" DTJU wird zu "de.talk.jugend" usw.
+
+Tschüs
+  Steffen

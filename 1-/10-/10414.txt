@@ -1,0 +1,13 @@
+On 2004-05-07, Eric 'HE' Brockschmidt wrote:
+
+Es steht Dir frei, da auszuhelfen. :)
+
+
+Ich hab aus dem Nullpointer der Fußnote was valideres gebaut. In
+gebildeten Gruppen ist das  generell akzeptiertes und erwartetes
+Verhalten. :)
+-- 
+Mister Teatime had a truly brilliant mind, but it was brilliant like a frac-
+tured mirror, all marvellous facets and rainbows but, ultimately, also some-
+thing that was broken.
+- Benno Pratchett in `Hogfather'

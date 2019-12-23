@@ -1,0 +1,84 @@
+STATISTIK 17. 01. 20
+-=-=-=-=-=-=-=-=-=-=-=-=
+
+DAU-Meinrad
+
+Pos.  DAUs  Msgs.  Ratio   Name
+---------------------------------------------------------------------------
+   1  9134     16  211,25  tino
+   2    92      1   92,00  "Mongrel Mind" <Rtgoexp_Jaqz@Kgkdo.xut>
+   3    72      1   72,00  "Oscar Tzschichholz" <mpflg@vxichlcij.wlf>
+   4    70      1   70,00  "Valentin Cauffmann" <jtktvz_wexqcon@cgpqt.ye>
+   5    84      2   42,00  "Timo Grünfelder" <zlo@aogbbi.sdn>
+   6    41      1   41,00  QvczXyiJogo8@lgoyztl.rsf
+   7    40      1   40,00  qtemqt@tzyjol.ffe
+        40      1   40,00  ucirhj@ollci.hrw
+   9    25      1   25,00  <mrdnrfgzoh.zoyn.wqww@pwpcu.xwn>
+  10    44      2   22,00  "MG" <wvqdks.awbvj@nkyjm.meumz.xt>
+  11    20      1   20,00  udyf@yplxs.lcx
+  12    14      1   14,00  sfqttzl@qbypczj.ezd
+  13    11      1   11,00  "LordX" <uptm729@bokwrll.hos>
+  14    21      2   10,50  qvlqyg@rucni.znf
+  15    10      1   10,00  PcFbU<khiyneuxf@oogtqtc.veg>
+        20      2   10,00  Thomasszaf <urbiqza881242@egiyds.eo-e.bn>
+        10      1   10,00  Nicole Dsinp<uhuai9361@ahjpwue.bog>
+        20      2   10,00  Danièle Awngf<Kvps@dxwztsc.mto>
+        10      1   10,00  Mahag Nxqhad<Esbpq@fwerwfv.orh>
+        20      2   10,00  Sbdf<cvjy@fuqbadw.uqm>
+        20      2   10,00  Mahag LfU<swpqr8021@aumacuo.vgc>
+        10      1   10,00  FSO>
+        10      1   10,00  Kdmskx<tkfqdz9282@suyyirz.tey>
+        10      1   10,00  Vjlatit.Exdxdqks@ajp.yy-ixuwoi.wx (EdlpUrn)
+        10      1   10,00  Danièle Iqcltv<zfzq9387@tkqnfug.pcd>
+        10      1   10,00  Danièle Masdse<wxmf5730@mvuvbaj.wwp>
+        20      2   10,00  Volkmar Uprhvnj<xiecorj7283@htihkza.qqs>
+        10      1   10,00  fylidb@suiothu.xas
+        10      1   10,00  Arrdcawd<mldkbt64@bbhbhee.ngt>
+        10      1   10,00  Wumap<jkunn@xoeagfj.xnt>
+        20      2   10,00  Valérie Tckwr<jjgaigqq3317@uupcxqk.cmk>
+        10      1   10,00  cokeuxf@yzsrdeqizbwubgj.prh
+        10      1   10,00  Dina Cttcd<akngtiui9529@mdcwazd.hmj>
+        20      2   10,00  Danièle Unzcyk<xibv@bburbtd.oir>
+        80      8   10,00  Thomasszaf <rbtnnyg-342020@dwltre.hk-i.hj>
+        10      1   10,00  Viviane Bdsfr<xorxfp@gwuapij.znl>
+  37     7      1    7,00  "Theo Kirschner" <cwkifwsjzx@mudgkmdch-dwjag.go>
+  38   240     74    3,24  Günter Reizlein <afspli@amff.eiwyxhju.vu>
+  39     3      1    3,00  "Urs Mühlbayer" <cmdcokzl@lcp.rtz>
+  40   176     63    2,79  Günter Reizlein <qlituzy@idh.ml>
+  41    13      5    2,60  hcea@psdtb-mrtoko.bqh (Giovanni Tornes)
+  42   884    395    2,24  Valerian Oehmicke <cuclqxnezfxdry@jtk.dyk>
+  43   326    161    2,02  Berend Leuchter <jbdpvwj.kxnsf@tcg.hp>
+  44    73     37    1,97  afspli@amff.eiwyxhju.vu (Günter Reizlein)
+  45    23     13    1,77  Daniel Ropertz <ich@c-peper.de>
+  46  1299    790    1,64  Francine Geschwandte <ofgb@jirl.dw>
+  47   173    115    1,50  Wilhelm Müllerchen <vqwjbfh.tom@jlk.ni>
+  48   261    246    1,06  Günter Reizlein <idwnzuxke.nhgeop@iqcwizea.dw>
+  49     1      1    1,00  "Lothar Inderdohnen" <Tdruodvy@Mrkbjuzx.rm>
+         5      5    1,00  "Urban" <aaqwck_7808@rblet.sa>
+         3      3    1,00  "Urban Schönenkorb" <aaqwck_7808@rblet.sa>
+         1      1    1,00  "Marc Zaengel" <Fbh.Icddmjy@kwm.ac>
+         2      2    1,00  "Wera T. Wehser" <tfdl.jomb@htx.re>
+         1      1    1,00  "Theo Kauke" <hbzwpa@xruub.hxt>
+         1      1    1,00  "Eilert Conze" <06124989@qke.tq>
+  56   163    212    0,77  Bernd Drewitz <mgvjiuu_li@exzb.qmj>
+  57    60     82    0,73  Erich Dantzler <aeydg@rsysn.la>
+  58     1      2    0,50  Gustav Ipskamp <Lrgzizv.Pvtorj@qga.xq>
+  59    32     75    0,43  Dora Oetter <ecmrhh@wmqxbozsjyq.rtr>
+  60   136    332    0,41  Eilert Marskamp <khtnaumrdsm.40@zkupuddndrt.qg>
+  61    90    240    0,38  Axel Meyerling <ktzqitaqsn@nniprymlsl.id>
+  62    12     35    0,34  "Matthias Nürenberg" <goeh@ujnbdhre.sy>
+  63    11     35    0,31  Daniel Czisch <noqaoen@sne.xn>
+  64    15     64    0,23  Daniel Czisch <jxtssae@jnz.gf>
+  65    12     74    0,16  <wgnjts-4770@vtrnoyoo-rtqdwyy.ru>
+  66    64    822    0,08  Benno Oberpichler <bwjjhry707113@cqnpub.fv-y.mg>
+  67    10    685    0,01  Domenico Kölner <hw@ciyqhti.sqb>
+  68     1    322    0,00  Luca Pahling <tmthvve@llaqvwqem.dv>
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 17. 01. 20 von Manfred Ostkamp.
+(Darstellung angepasst von Gebhard Derxen)
+Basierend auf den Feeds von:
+kkizceso.knwre.hq       puge.fah.jwu.fo         pgaa.dnzzkym.lb
+dfzx.uirpq.joj          djhd.rhixvl.yv          tzvf.k-zhgrml.yv
+ublv.pfa-stdmnppy.sc    hisb.rmi-umpqtcda.rh    ence.inu-lrtgirvcr.sp
+awrynzo.bliqql.umt.dj

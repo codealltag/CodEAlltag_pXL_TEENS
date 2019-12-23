@@ -1,0 +1,11 @@
+Pasquale Nordieker hat geschrieben getan getutet:
+
+
+Analogie des dasr'schen Fax?
+
+-gerold
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Othmar 'pi' Piwinger in de.alt.sysadmin.recovery

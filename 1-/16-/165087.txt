@@ -1,0 +1,7 @@
+Ullrich 'sSXP' Pommerening <kDZI@rmc.buz> schrieb in im Newsbeitrag:
+32-74-10.99-44-82.yrb.8539@llta.ak...
+
+Genau das mag ich an solchen Setuptools überhaupt nicht. Ich bin zwar nicht
+Unixfreak, aber einigermassen eine Vorstellung davon, wie ein brauchbares
+System auszusehen hat, hab ich auch... Und vor allem brauch ich dazu nicht
+hundert Editoren.

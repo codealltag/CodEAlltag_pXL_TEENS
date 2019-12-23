@@ -1,0 +1,16 @@
+Ingmar 'Meep' Richter meinte kundzutun:
+
+
+Das hatten wir heute Mittag schon.
+
+Jetzt habe ich gerade andere Probleme:
+
+Wieso hängt sich der mkfs bei den großen Partitionen (50+190G) auf?
+Oder scheint mir das nur so?
+
+Björn
+-- 
+[17:26] <pathfinder> Muss mich jetzt dann mal Richtung warmes Nass aufmachen,
+                     da ich gegen 18 Uhr aus dem Haus muss um nach WITTENWIL zu
+                     fahren und LotR-3 ansehen werde.
+[17:27] <Yetiszaf> pathfinder: Spoiler: Er ist Lukes Vater.

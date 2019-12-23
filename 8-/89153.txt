@@ -1,0 +1,6 @@
+* Edgar Johanning <uzhqpcaijylhyi@oxs.anl>:
+
+
+Du öffnest mpg123.el und sagst mir, ob du asiatische Zeichen siehst.
+
+Jochen

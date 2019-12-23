@@ -1,0 +1,10 @@
+Stephans Noss wrote:
+
+
+Da bin ich ja dann illegal!
+Bietest Du mir asyl?
+
+Ivano
+
+-- 
+initscr(); - Segmentation Fault

@@ -1,0 +1,9 @@
+Laurent Peneder meinte kundzutun:
+
+
+s/glauben\(.*\)nur an /erfährt\1/
+
+Denis
+-- 
+Wörter des Tages
+28.10.2003: Westerwelle - Massenvernichtungswaffen - Braunsdorf

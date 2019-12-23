@@ -1,0 +1,12 @@
+Egon Eislöffel <ywopxhcmbhcjrfx@qgs.be> writes:
+
+[schanipp]
+
+Hat irgendwer mal eben eine einfache Anleitung, wie ich im Body scoren
+kann?
+
+Oscar
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

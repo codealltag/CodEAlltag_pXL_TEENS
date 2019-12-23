@@ -1,0 +1,13 @@
+Ich habe 2 Rechner im LAN, die beide mit dem DSL Modem in einem Switch stecken.
+Ein Rechner läuft 24h und mit ihm wähle ich mich ein. Mit dem anderen surfe ich.
+Muss ich jetzt auf beiden Rechnern ein Proxy Prog drauf machen bzw. die IP einstellen, 
+oder brauch ich nur auf dem Einwähl-Rechner den Proxy einstellen, da ich ja über ihn ins
+inet geh??
+
+
+THX a lot
+
+
+-----------------------------------
+Ein Gott, der die Hölle gemacht, verdient als einziger darin zu braten!
+-----------------------------------

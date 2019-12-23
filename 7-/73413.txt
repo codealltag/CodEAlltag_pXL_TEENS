@@ -1,0 +1,13 @@
+Alwin Kerbl hat geschrieben getan getutet:
+
+
+Kommt drauf an.
+Ausgang im Sinne von Start ja, Ausgang im Sinne von Ende nein. Und meine
+Ausgangsposition ist akzeptabel.
+
+-simon
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Axel 'pi' Piwinger in de.alt.sysadmin.recovery

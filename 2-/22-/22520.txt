@@ -1,0 +1,7 @@
+Bei der Vorlage ?
+
+mfg, 
+	Peter
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old Kools cpu - insufficient processing power

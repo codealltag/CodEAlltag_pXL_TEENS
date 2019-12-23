@@ -1,0 +1,11 @@
+Nicolas Oechsler hat geschrieben getan getutet:
+
+
+Kommt drauf an, ob man sich nen Tango auf der planum spasticae wagt.
+
+-jan
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Laurent 'pi' Piwinger in de.alt.sysadmin.recovery

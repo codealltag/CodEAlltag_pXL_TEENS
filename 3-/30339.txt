@@ -1,0 +1,11 @@
+Detlev Fäth <xigrtsdtym@incyislsdu.bj> writes:
+
+
+Kombination derbeidigen.
+
+-gilles
+-- 
+I don't see what C++ has to do with keeping people from shooting
+themselves in the foot.  C++ will happily load the gun, offer you a
+drink to steady your nerves, and help you aim.
+- Vincent da Isolde

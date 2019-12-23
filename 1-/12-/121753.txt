@@ -1,0 +1,10 @@
+begin quoting Raimund Suessmann <jdllyjnuepxtdh@sqf.umc>:
+
+Dann schreib mal einen RFC für UUCP over Avian Carrier. Hast noch mehr
+als einen Monat Zeit. übrigens solltest Du Möglichkeiten finden, um
+die Bandbreite zu erhöhen. Vielleicht Multiple Carriers?
+-- 
+Windows ist _kein_ Virus. Ein Virus ist nämlich ein kleines, sehr
+effektiv programmiertes Stück Software, was man von McDonald´s nicht
+gerade behaupten kann.
+               Remmer Geisenhofer in de.alt.folklore.urban-legends

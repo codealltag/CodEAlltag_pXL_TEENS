@@ -1,0 +1,20 @@
+Am Sun, 04. 09. 19 sendete Christoph Hoppstetter folgende Botschaft:
+
+
+Dein DNS ist kaputt.
+
+#v+
+21:05:10 ~$nslookup www.bttl.qsg
+Server:  localhost
+Address:  04. 09. 19
+
+Non-authoritative answer:
+Name:    slrn.org
+Address:  04. 09. 19
+Massimo:  www.bttl.qsg
+#v-
+
+Tschüs
+  Nils
+-- 
+Ich hasse Hormone

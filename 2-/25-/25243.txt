@@ -1,0 +1,12 @@
+Wasf�rnding?
+
+Gut.
+
+Jetzt weiß ich auch, warum das ncurses-Zeugs auf der anderen Console
+nicht lief.
+
+mfg, 
+	Marco
+-- 
+BOFH excuse #362:
+Plasma conduit breach

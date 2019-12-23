@@ -1,0 +1,20 @@
+Am 9169. Tag meines Lebens schrieb Valentin das Szlauszaf:
+
+
+Inzwischen übrigens nicht mehr. ;-)
+
+
+Selbst Schuld, nutze einen Newsreader, lerne Lisp... ;-P
+
+
+Au ja! Und Massagen gibt...
+
+
+Szafe sollen ja auch nicht auf die See, sondern lieber auf eine schöne
+Weide mit viel Gras.
+
+Frédéric
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we 
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - Microsoft, 22. 03. 20

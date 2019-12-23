@@ -1,0 +1,15 @@
+Tach Erwin
+
+Quote [ Erwin Ekman * Tue, 5 Jan 2003 14:56:33 +0200 ]
+
+
+Nicht hetzen...
+
+Best regards,
+ Valentino
+
+-- 
+Fachbegriffe der Informatik einfach erklärt
+42: Stabilität 
+    200 Studenten der Informatik-Anfängerübung auf einer Maschine nachdem
+    die Vorlesung 'fork()' behandelt hat. (Serge Crabbe, linux.dev.kernel)

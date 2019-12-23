@@ -1,0 +1,10 @@
+* Carl Waitzhofer <ieiukfu907334@fakfdi.gu-c.ss>:
+
+
+Du hast die Problematik von "Ich habe ein Tool auf meinem System, das
+alles macht, aber der Nutzer darf nicht merken, was es macht" sehr gut
+beschrieben.
+
+Sascha
+-- 
+cross veinless

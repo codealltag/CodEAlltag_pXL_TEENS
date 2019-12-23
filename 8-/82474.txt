@@ -1,0 +1,11 @@
+Meinrad Lauterborn hat geschrieben getan getutet:
+
+
+Ich bezweifle das, aber ernsthaft.
+
+-franco
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Michael 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,29 @@
+Kurt Piepenbrock <qwxpnzswhsf@bhzhnslvpaz.ui> writes:
+
+
+Kann er nachweislich. Das tut hier verdammt gut :-)
+
+
+## This is the NNTP server leafnode fetches its news from.
+## You need read and post access to it. Mandatory.
+server = hoyk.yeq.hua.qb
+
+## I have free access to my news server. If you don't have, comment
+out
+## the following two lines and change them accordingly.
+username = xxxx
+password = xxxx
+
+#server = mjsn.vjhfdjfdq.ksz
+#server = news.tin.org
+#server = jodh.cnecvl.sof
+server = hpqb.lqpmvjeiovkpv.ck
+
+server = npyb.sijq-lrblry.iv
+username = xxxx
+password = xxxx
+
+server = uvbx.k-tbnfxm.lp
+
+-- 
+You have the capacity to learn from mistakes.  You'll learn a lot today.

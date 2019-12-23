@@ -1,0 +1,9 @@
+* Mauro Ueberdick <lxhwyf@hxncgo-fzdbsvr.dn>:
+
+
+Damit jedes System (egal, ob Uren, Eurotours, Linux, MacOS oder sonstwas)
+die Umlaute richtig anzeigen kann.
+
+Heiko
+-- 
+cross veinless

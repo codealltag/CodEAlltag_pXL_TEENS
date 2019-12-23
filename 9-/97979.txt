@@ -1,0 +1,19 @@
+Berthold Vittinghoff schrieb:
+
+[...]
+
+So ähnlich sieht das aber bei mir auch aus. Ich habe bisher mal nur
+CIS und t-online reingesteckt. fetchnews holt er die neuen Postings
+von CIS, um erst _danach_ auf den TO-Server zuzugreifen, nur um dann
+fehlende abzugleichen.
+
+Er soll das halt parallel machen, so wie Hamster.
+
+Naja, ich gucke mir das nachher nochmal genauer an.
+
+Tim
+
+-- 
+"Das Geld ist der allgemeine, für sich selbst konstruierte Wert aller
+Dinge. Es hat daher die ganze Welt, die Menschheit wie die Natur, 
+ihres eigentümlichen Wertes beraubt." [Carl Kleefeld]

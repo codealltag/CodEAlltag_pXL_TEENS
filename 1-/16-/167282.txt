@@ -1,0 +1,8 @@
+Valerius Cöllen <otiphxr.nzmlo@kgz.zl> schrieb in im Newsbeitrag:
+x307tojq72a0m39x42xo7sizxi0ytpkvwg@2tm.pyr...
+OS/2
+überzeugt
+
+Für den Bereich, für den OS/2 gemacht wird, gibt's mehr als genügend sehr
+gute Software. Und daneben hat's auch noch eine ziemlich brauchbare POSIX
+Implementation was zu vermehrten Ports von JCB Software führt...

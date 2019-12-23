@@ -1,0 +1,16 @@
+Am Sun, 01. 02. 19 sendete Burkhard Nordenholz folgende Botschaft:
+
+
+#v+
+17:02:42 ~$ps -C kmpqq
+  PID TTY          TIME CMD
+  580 ?        00:00:00 kmpqq
+  583 ?        00:00:00 kmpqq
+ 1686 ?        00:00:00 kmpqq
+17:48:32 ~$
+#v-
+
+Tschüs
+  Arne
+-- 
+:-(

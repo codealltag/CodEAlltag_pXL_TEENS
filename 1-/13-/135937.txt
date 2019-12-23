@@ -1,0 +1,13 @@
+Am Fri, 11. 01. 19 14:56:54 +0100 schrieb Eric Ditzen
+<jctjiv@bjrjqgusaij.cj>: 
+
+
+zu der Frage bin ich auch schon irgendwie in meinem Gehiorn gekommen.
+Judom��ig hab eich nämlich null Ahnung
+Mirco
+
+-- 
+Da ich eine einheitliche Darstellung von Datum/Zeit bevorzuge, habe 
+ich die Voreinstellung in der zugehörigen ini-Datei geändert. 
+Und zwar auf ein grenzgeniales "dd.mm.yy hh:ss".
+Ralph Helbing in drtb nach seinem Date-Header gefragt

@@ -1,0 +1,18 @@
+Theodor Oetingers <cg@garbers.org> writes:
+
+
+Bei "Mem:" steht unter "total" eine zu kleine Zahl :-)
+
+             total       used       free     shared    buffers     cached
+Mem:        976794      77829     715161      12736       4892      54740
+-/+ buffers/cache:      97195     960273
+Swap:            0          0          0
+
+Sieht doch schonmal besser aus. Wenn mir bitte jetzt noch jemand
+erklären könnte, wo mein halbes GB Swap hingekommen ist, auch wenn ich
+den nicht wirklich brauche...
+
+Hau "Auf der Suche nach dem Swap" ke
+-- 
+I used to drive a Heisenbergmobile, but every time I looked at the
+speedometer, I got lost.

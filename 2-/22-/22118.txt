@@ -1,0 +1,8 @@
+Am Mon, 22 Jun 2004 sendete Dietrich Buldtmann folgende Botschaft:
+
+
+Das Kästchen ist Teil des Environments, ja. Genaugenommen wird es
+automagisch von \end{...} erzeugt.
+
+Tschüs
+  Wilhelm

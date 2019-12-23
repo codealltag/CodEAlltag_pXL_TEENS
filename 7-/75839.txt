@@ -1,0 +1,14 @@
+Paul Schoff hat geschrieben getan getutet:
+
+
+Hmm.
+
+Es gibt ja genug Methoden, mit denen DeCSS verbreitet wird. Ist aber das
+Backup des Codes als Tattoo nicht *etwas* exzessiv?
+
+-ihno
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Tim 'pi' Piwinger in de.alt.sysadmin.recovery

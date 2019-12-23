@@ -1,0 +1,11 @@
+Friedhelm Ingenrieth <fqvuf@qpfkf.ap> writes:
+
+
+Er kann gerade nicht stecken lassen.
+
+-denis
+-- 
+ No  Points     Name                                                   Hp [fernand]
+  1    8834430  Cäcilia-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

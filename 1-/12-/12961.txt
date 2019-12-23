@@ -1,0 +1,9 @@
+Soferne die Variable $anderes_weibliches_wesen nicht NULL zurückliefert.
+
+Christian Hauf,
+Array anstatt Variable wäre natürlich vorteilhafter ...
+
+-- 
+np: Jose Feliciano - Light my Fire
+
+Lyrics gefällig? http://uyf.xdggxkbemfibt.dg/sgdlkxaldximr/jtohky

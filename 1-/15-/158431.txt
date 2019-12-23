@@ -1,0 +1,7 @@
+Am Tue, 31. 10. 20 sendete Giovanni Issle folgende Botschaft:
+
+
+tar czf jchen.tar.gz /hier/liegt das/web/verzeichniss/* 
+
+Tschüs
+  Pius, wie das geht bei dir nicht? Schade, schade, schade.

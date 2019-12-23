@@ -1,0 +1,27 @@
+STATISTIK FXCEPL 2850
+-=-=-=-=-=-=-=-=-=-=-
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+ 1    1742   25,74%  "CrossPoint"
+ 2    1350   19,94%  "Forte Agent"
+ 3    1244   18,37%  "slrn"
+ 4    1030   15,21%  "Xnews"
+ 5     836   12,36%  Ausschau haltender Agent mit Mozarellageschmack
+ 6     195    2,88%  DOS Edit 6.22 I-Net Release V.79
+ 7     156    2,31%  "Microsoft Outlook"
+ 8      93    1,37%  "Wegure/NetScape"
+ 9      71    1,05%  "MacSOUP"
+10      30    0,44%  keiner angegeben
+11      19    0,28%  "Gravity"
+12       3    0,04%  andere
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 26. 02. 20 von Louis Ostholt.
+(Darstellung angepasst von Tobias Jüngerhans)
+Basierend auf den Feeds von:
+zvdrlczc.zofhp.oj       ydwf.vzg.pij.sq          lpjd.vchqzru.jsh
+zngn.czq.bdb            lsvw.qiq-smsogwbv.ax     qkcu.inh-jwbiesr.mx
+cazz.swx-irizrxduy.ga   pfzl.moemqv.je

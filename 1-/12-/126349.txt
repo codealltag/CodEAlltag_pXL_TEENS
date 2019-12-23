@@ -1,0 +1,9 @@
+begin quoting the honorable keffek@rhtcijacza.wd (Otmar Hirschmiller):
+[XPoint]
+
+Kann man ihn so einstellen, daß er vorher den Benutzer fragt? Muß man
+dann control.cancel abonnieren oder wie?
+-- 
+Hugo Czasch, 00673 Niederschöneweide, DE
+begin  my signature
+end

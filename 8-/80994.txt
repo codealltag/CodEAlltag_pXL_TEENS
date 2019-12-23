@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: IIE2
+
+Gustav Wesendonk-Binger hat geschrieben getan getutet:
+
+
+Böser Gustav.
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGPfreeware 7.0.3 for non-commercial use <http://wzm.sda.zjy>
+Comment: generator: loki
+
+Christian
+Mittelste-Hilgenstock
+=Vn1N
+-----END PGP SIGNATURE-----
+
+-to"Ja, sehr arnoootisch."wo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Samuel 'pi' Piwinger in de.alt.sysadmin.recovery

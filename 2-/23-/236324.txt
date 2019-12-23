@@ -1,0 +1,14 @@
+Sven Kamerloher wrote:
+
+Argh, ist das Übel! Selbst bei meinem Bahnhofs-Buchhandlung sind abgesehen vom Bag-in-Port 
+alle Plätze belegt (2 ISA, 4 PCI, ein PCI muß ungenutz bleiben weil er 
+sich mit'm ISA kreuzt).
+
+
+Sowieso. Mit meiner Ockeline kann ich das Meiste gut spielen (wenn ich die 
+Zeit dazu hätte...) und wenn die gerade neuesten Karten wieder etwa bei 
+150DM angekommen sind kann ich's mir ja mal überlegen meine AGP Port 
+auszulasten ;-)
+
+-- 
+Die GEMA-Gebühren für dieses Posting werden automatisch abgebucht

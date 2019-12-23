@@ -1,0 +1,13 @@
+[X] Ralf benutzt kein telnet.
+[ ] Telnet ist was feines
+[X] _IMMER_ ssh benutzen. Wenn's nicht geht, den/die Verantwortlichen
+    nerven, bis es geht.
+[X] Dem Rest stimme ich zu.
+
+:-)
+
+ulla
+PS: Infos: http://f6afv.omrrjt.rw/cxpfjyww/lhgdkeectfwvke/hkw.arlt
+-- 
+Olivier Mahncke | VETTERMANN boot: kai-0.3 root=/dev/c2h5oh
+miy@smgloz.ez  |

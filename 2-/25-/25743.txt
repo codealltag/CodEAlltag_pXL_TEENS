@@ -1,0 +1,14 @@
+Kai Iseringhausen <zhl@uaktv.wkz> writes:
+
+
+Weil die Antworten nicht zur Frage passen.
+
+
+Danke. :)
+
+-kurt
+-- 
+ No  Points     Name                                                   Hp [fabrice]
+  1    1628351  Hannelore-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

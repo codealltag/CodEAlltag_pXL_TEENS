@@ -1,0 +1,9 @@
+* Daniel Gering <cnpeagezueypzl@qwk.ljm>:
+
+
+Kleine Änderung und große Wirkung. Nun funktioniert es zumindest mit
+unixoiden Newsreadern.
+
+Eilert
+-- 
+cross veinless

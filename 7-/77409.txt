@@ -1,0 +1,10 @@
+Nicolas Bämsch <ipoqztn@rvc.hv> writes:
+
+
+Jepp. Vor allem, wenn man keine Ahnung hat, was die Makros da drin tun
+sollten, aber die Funktion überprüfen soll :-)
+
+Otto
+-- 
+Ich stehe nicht auf Pr�gelspielchen.
+Wenn du mir das nicht glaubst, kriegste einen inne Fresse! [Antonio zu mir]

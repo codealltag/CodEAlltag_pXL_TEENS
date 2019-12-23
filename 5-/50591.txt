@@ -1,0 +1,6 @@
+Fritz Rüßkamp <yzdp@rwhhwmd.xh> schreibselte:
+
+
+Doch. Mit einem kleinen Patch sogar in beide Richtungen.
+
+René

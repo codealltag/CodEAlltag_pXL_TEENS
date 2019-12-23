@@ -1,0 +1,15 @@
+Valentin Schwind hat geschrieben getan getutet:
+
+
+towo@yggdrasil:~$ tar --help | grep ending
+      --no-recursion           avoid descending automatically in
+                               directories
+
+Und nu?
+
+-engelbert
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Cédric 'pi' Piwinger in de.alt.sysadmin.recovery

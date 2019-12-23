@@ -1,0 +1,9 @@
+Christoph Theveßen wrote:
+
+
+Naaa, ich hab hier ne JZFP-Karte drinnen. Die Treiber dafür sind zwar
+nicht installiert (da nicht kompatibel mit W2K), aber erkannt hat der
+sie schon.
+
+-- 
+Math problems? Call 1-800-[(10x)(13i)^2]-[sin(xy)/2.362x].

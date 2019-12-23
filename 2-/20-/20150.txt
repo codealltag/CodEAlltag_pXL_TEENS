@@ -1,0 +1,10 @@
+On Prickle-Prickle, Day 55 of Bureaucracy 3169, Lars Ekkehard wrote:
+
+
+Er sollte es rekursiv machen. Das, was er abgeliefert hatte war aber
+kein Fibunacci.
+
+Vittorio
+-- 
+Das ist wie mit Geld: da redet man auch nicht drüber, das hat man.
+-thh in <etf.716849759554.rdmxvh-8052@ncpnzwpuc.yugoqwxjrb.ai>

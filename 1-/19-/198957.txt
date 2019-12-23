@@ -1,0 +1,8 @@
+Am Thu, 3 Dez 1998 sendete Konrad Uhlenbruck folgende Botschaft:
+
+
+Wieso? die uucp-pakete werden _nicht_ on-the-fly sondern in
+regelmässigen abständen per cronjob auf dem servere komprimiert. 
+
+Tschüs
+  Guy

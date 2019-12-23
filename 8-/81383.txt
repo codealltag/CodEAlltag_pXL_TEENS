@@ -1,0 +1,19 @@
+Josefine Hagenbusch hat geschrieben getan getutet:
+
+
+<nitpick>Josefine, bei diesem Stilmittel geht es darum, einen *Bären*
+unterzubringen, und nicht einfach nur in pseudo-Lautschrift darnieder
+schreiben...
+
+
+Ausnahmsweise ACK.
+
+
+Sowas passiert mir auch oft genug.
+
+-johannes
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Wilfried 'pi' Piwinger in de.alt.sysadmin.recovery

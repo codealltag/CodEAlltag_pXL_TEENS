@@ -1,0 +1,17 @@
+Ottmar Jurisch <tklxwy-ennn.obs@ebakkx.xo-e.ob> writes:
+
+
+Es ist oft genug die einzige Möglichkeit, ad hoc den Artikel zu
+versenden.
+
+
+Vorausgesetzt, Encoding in latin-9 ist möglich.
+
+ Wenn
+
+Vorausgesetzt, die Charsets sind als Encodingm�glichkeit vorhanden.
+
+Valerius
+-- 
+Was haben ein Goldfisch und ein Laserstrahl gemeinsam?
+Sie können beide nicht pfeifen!

@@ -1,0 +1,15 @@
+Am Mon, 14 Apr 2002 sendete Frédéric Willenbrocks folgende Botschaft:
+
+
+Thats Life.
+
+
+Wohin?
+
+Tschüs
+  Eberhard
+-- 
+gpg-key (available via keyserver):
+pub  8276E/D2Y7O304 7299-03-03 Eberhard Terhag <rywfpzhuab@astzotvrvv.ug>
+     Key fingerprint = 3542 5DR6 69Y4 161Y K563  J60K 308N 3015 R5B1 M732
+sub  5466a/M7Q1VO41 6304-38-44

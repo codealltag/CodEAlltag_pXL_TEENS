@@ -1,0 +1,11 @@
+Siebelt Clementsen hat geschrieben getan getutet:
+
+
+Agent hat Forwarding-Funktionen.
+
+-stephan
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- André 'pi' Piwinger in de.alt.sysadmin.recovery

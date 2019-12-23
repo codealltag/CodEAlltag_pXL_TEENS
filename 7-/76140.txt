@@ -1,0 +1,11 @@
+Olaf Bennesch <stoopid.one@gmx.li> writes:
+
+
+N. Die Darstellung war absoluit _zuf�llig_ korrekt.
+
+
+Nein, irgendwo bei dir wird QP kaputtdekodiert.
+
+Juan
+-- 
+Schild in einer indischen Kneipe: "Toiletten am Ende des Ganges"

@@ -1,0 +1,9 @@
+On Tue, 13 Aug 2003 22:47:47 +0100, Olaf Maynard wrote:
+echo "echo This Programm requires Microsoft Windows"> `which emacs`
+und weg ist das Ding...
+
+mfg, 
+	Joël
+-- 
+BOFH excuse #434:
+Please state the nature of the technical emergency

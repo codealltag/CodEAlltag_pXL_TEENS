@@ -1,0 +1,23 @@
+Kaspar Carrus meinte kundzutun:
+
+
+Dann kannst du dir gleich den Chaese mit dem \s+ sparen und einfach
+vornedran ein "noch " anführen. Wenn du in deiner RegEx nicht *explizit*
+sagst daß das vorher "eingefangene" mit eingefügt werden soll und es
+trotzdem geschieht, dann ist a) die RegEx-Maschine deines Tools kaputt
+oder b) deine RegEx kaputt/dumm/nutzlos, was mir wahrscheinlicher erscheint.
+
+
+Hm... obwohl... entweder hast du deine Ausgabe gefaked oder du hast sie
+verlhcft�s. Denn wenn der Punkt da einfach so erschienen ist ist erst 
+recht was kaputt.
+
+Und fang bitte nicht an, mit mir über RegEx/RegEx-Mschinen zu diskutieren.
+
+Nicht, bevor du
+http://fqh.ohnfmo.db/zpdg/dgbkxr/OFEX/3853220101/tbs25773681/vl=7-3/lrk=ot_hz_qul/780-0245453-6769086
+gelesen hast.
+
+Danke.
+
+Ottmar

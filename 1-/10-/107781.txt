@@ -1,0 +1,16 @@
+* Harm Clemendt <shaakcftgsvnsg@ztw.ecq>:
+
+
+*eg*
+
+
+Wenn es ein Fehler in Gnus war: Die kannst du retten (außer, du hast die
+backup-Funktion aus).
+
+...
+
+Ach, du schreibst ja gar nicht mit Gnus. Pech. :)
+
+Fridolin
+-- 
+cross veinless

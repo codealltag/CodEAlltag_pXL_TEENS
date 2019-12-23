@@ -1,0 +1,9 @@
+* Achim Janka <loiizhdvmb@wbzjiwvzno.qr>:
+
+
+Besteht denn die Chance, dass der slrn-Maintainer (Lars Justi?) das
+einbaut?
+
+Johannes
+-- 
+np: Korn - Predictable

@@ -1,0 +1,12 @@
+Kurt Terstegge schrieb:
+
+
+Wäre das nicht logisch? Weiß = Summe der Farben, Schwarz = keine
+Farbe -> Ergo muss der Elektronenstrahl bei schwarz nichts tun und
+kann eben über die schwarzen Flächen einfach hinweg gehen, während er
+um weiße Flächen darzustellen immer alles anstrahlen muss.
+
+Jochen
+
+-- 
+~~(___(oo)

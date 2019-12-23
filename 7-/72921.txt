@@ -1,0 +1,11 @@
+Fabio Ungelenk hat geschrieben getan getutet:
+
+
+Sollte man bei mir nicht.
+
+-fabrice
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Oswald 'pi' Piwinger in de.alt.sysadmin.recovery

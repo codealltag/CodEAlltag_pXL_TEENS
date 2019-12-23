@@ -1,0 +1,11 @@
+Ivo Coman <pia@brhyg.ptt> writes:
+
+
+Wie so ueblich? ;)
+
+-ivan
+-- 
+ No  Points     Name                                                   Hp [theo]
+  1    6075424  Elsbeth-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

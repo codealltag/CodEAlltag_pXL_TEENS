@@ -1,0 +1,4 @@
+Bernard Zwiebels <cg@garbers.org> wrote in news:yw-
+87elsjj83h.fsf@gabsi.garbers.org:
+
+SMTP-Auth ist in einer Hostingumgebung nicht praktikabel.

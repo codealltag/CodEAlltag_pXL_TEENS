@@ -1,0 +1,11 @@
+* Lorenz Vollerth <eoozgzk286306@fizrvr.cr-m.be>:
+
+
+*g*
+
+
+Have a look at /path/to/inn/contrib/newsbot
+
+Pietro
+-- 
+cross veinless

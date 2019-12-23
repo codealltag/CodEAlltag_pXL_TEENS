@@ -1,0 +1,9 @@
+Ludwig Eicker wrote:
+
+Kann man einstellen.
+Bei mir ist es wirklich Codepage 850 (mit � auf #252)
+
+-- 
+Edwin
+"Am I human ?    Or am I just programmed to believe I am human ?"
+                                                 - Sascha C. Collas

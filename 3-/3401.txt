@@ -1,0 +1,9 @@
+Bernd Paulußen <dughmbfu.ldyfqhya@npm.of> writes:
+
+
+Viel Putzbedarf.
+
+Nicolas
+-- 
+Was ist ein Polarbär?
+Ein rechteckiger Bär nach einer Koordinatentransformation.

@@ -1,0 +1,9 @@
+"Guy T. Borghoff" <fla@wlv.zq> schreibselte:
+
+
+Hmm, ich wollte sowiso schon immer meinen alten P100 oder P133 zum
+Server ausbauen. Problem: keiner kann von CD booten... Wie bekomme ich
+da EGT drauf?
+
+-- 
+np: System Of A Down - Toxicity

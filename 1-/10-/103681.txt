@@ -1,0 +1,8 @@
+* Valerian Czerny <umoaul@ajfovt-mgbitvc.di>:
+
+
+Xnews kann neuerdings Umlaute im Subject: kodieren?
+
+Jann
+-- 
+cross veinless

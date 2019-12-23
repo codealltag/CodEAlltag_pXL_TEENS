@@ -1,0 +1,7 @@
+(* Günther Richter wrote: *)
+
+
+Ui :-))
+Gibt's da nen Parser für?
+
+Ingo

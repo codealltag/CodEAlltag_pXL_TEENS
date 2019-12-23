@@ -1,0 +1,10 @@
+xhbsqvq_dczwujo@ozab.qr (Gabriel Ambuehl) writes:
+
+
+D. Quicken ist der X11-Client, der auf dem X11-Server, der auf meinem
+Desktopsystem läuft, dargestellt wird. Dabei läuft der ganze Krams
+eben nicht lokal auf dem Reinigungsannahme, sondern auf dem Remoterechner.
+
+Pasquale
+-- 
+DAS ist langweilig. [Sebi]

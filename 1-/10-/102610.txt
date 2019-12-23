@@ -1,0 +1,13 @@
+* Nils Küchlin <yfqaeh@lgnvlz-wiijmjy.qs>:
+
+
+Mich nicht. Ich finde das aufregend. Was daran liegt, dass ich es noch
+nicht häufig gemacht habe.
+
+
+Kann der mehrere Kernel von einer Partition booten? Ich hatte das mal
+ausprobiert und bin daran gescheitert.
+
+Albrecht
+-- 
+cross veinless

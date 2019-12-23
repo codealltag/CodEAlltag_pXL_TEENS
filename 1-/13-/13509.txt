@@ -1,0 +1,11 @@
+Mennos Lungershausen <bkqm@hopaejxhftn.bp> writes:
+
+
+Wir können ja mal sehen, ob wir nicht einfach nen Kopieren patchen
+können. Das ist bestimmt einfacher, und dank der
+Verkleinerungsmöglichkeit kann man dann auch viel mehr Stefans in
+gleichen Volumen unterbringen.
+
+Emile
+-- 
+"Aldo war ein Optimist."

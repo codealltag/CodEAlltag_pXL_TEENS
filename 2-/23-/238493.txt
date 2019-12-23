@@ -1,0 +1,19 @@
+In article <3777463j.69876768@wced.pauz.mpzy.id>, sSXP@gmx.net says...
+
+Integrated Developing Environment oder so ähnlich... Nils?
+
+
+Soll ich das Menu lieber bei jeder Seite einzeln ändern? RegEx kapier 
+ich nun mal ned...
+
+
+Dafür nehm ich CuteFTP, den WindowsCommander benutz ich nur, wenn ich 
+Zeuchs von einem FTP Server direkt auf einen andrem kopieren will.
+
+CU
+Ruedi
+
+-- 
+Shooter, siegreicher Ritter im Namen des Ordens von de.talk.jugend
+http://kyc.skxfsug.vpbt.snj   Biggest Technomidipage of the World
+http://omk.ydj.syrm.xwr       de.talk.jugend Page

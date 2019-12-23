@@ -1,0 +1,11 @@
+Stroblweg, 8 Aug 2004 sendete Salvatore Hemmerlein folgende Botschaft:
+
+
+Bh, grapefruit.
+
+
+Wenn jede Teilmenge wohlgordnet ist sollte das einen Deadlock zuverlässig
+verhindern.
+
+Tschüs
+  Martin

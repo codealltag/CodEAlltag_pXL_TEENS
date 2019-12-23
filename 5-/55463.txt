@@ -1,0 +1,9 @@
+Karls Rothfuß wrote:
+
+
+Welche Voraussetzungen muß ich erfüllen? :o)
+
+Thierry
+
+-- 
+initscr(); - Segmentation Fault

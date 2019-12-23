@@ -1,0 +1,13 @@
+sihtbpeezn@iplrzoizap.bu (Max Clemendsen) writes:
+
+
+LISP halt :-)
+
+
+./configure && make reicht für den Emacs, und für den XEmacs muss dann
+eben noch das EMACS=xemacs dahinter.
+
+Angelo
+-- 
+"Your american beer is like making love in a canoe -
+ fucking close to water" [Monty Python]

@@ -1,0 +1,11 @@
+Onno Hövelmann <emu@efpnw.bgs> writes:
+
+
+Made my day.
+
+-otmar
+-- 
+ No  Points     Name                                                   Hp [ivano]
+  1    9489495  Liane-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

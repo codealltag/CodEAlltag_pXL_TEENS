@@ -1,0 +1,12 @@
+Wilfried Cook <easjzh-6188@fbbhbdad-zitlpmv.fn> writes:
+
+[Backups]
+
+Sébastien. :)
+
+
+Naja, da springt der Bus ja nur nicht richtig an. Buffer underruns.
+
+-luciano
+-- 
+The power of pessimism: an optimist is never happily surprised.

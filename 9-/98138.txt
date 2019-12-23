@@ -1,0 +1,12 @@
+* Albin Vlaminck <daoplwgjndb@chsqgcvpjfj.ku>:
+
+
+Solange er den Pfad zum Programm kennt, kannst du das einfach durch
+Eintippen des Programmnames aufrufen.
+
+
+Ist aber auch langweiliger.
+
+Jochen
+-- 
+cross veinless

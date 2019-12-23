@@ -1,0 +1,12 @@
+Am Mon, 13. 10. 20 sendete Mathias Enßlin folgende Botschaft:
+
+
+Tja, whitespaces in Dateinamen machen mich agressiv. ;)
+
+
+Jein, derzeit nur spaces, für alle Whitespaces müsste man noch etwas
+Basteln. Aber tabs oder sowas im Dateinamen sind mir bislang noch nicht
+untergekommen. ;)
+
+Tschüs
+  Folkert

@@ -1,0 +1,8 @@
+Heiko Oehlschlaegers <cg@garbers.org> writes:
+
+
+Das ist ein Feature, dass man kennen muss, um es zu vermissen :-)
+
+Urs
+-- 
+Overflow on /dev/null, please empty the bit bucket.

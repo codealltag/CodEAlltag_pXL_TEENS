@@ -1,0 +1,25 @@
+Organization: Prima e.V.
+Followup-To: 
+
+On Sun, 7 Jan 1999 21:02:55 +0100, Harald Neydorf <adpuknmy@fyni.pdur.jb> 
+wrote:
+
+bei 128kbit/s nicht, aber wenn du höhere raten nimmst (190-256k) soll der
+klang von cd nicht mehr zu unterscheiden sein. aber soviel geld, um mir eine
+anlage zu kaufen, bei der man das aushört hab ich eh nicht. 
+
+
+der JUV ist so schnell. 
+
+
+das reicht von kostenlos (und erst ab 256kbit/s zu ertragen) bis mehrere
+hundert DM. wenn du dir sowas kaufen willst nehm den AudioCatalyst, afaik
+kostet der unter 100DM (hab ich neulich mal aufgeschnappt, ohne gewähr)
+
+mfg
+    otmar
+
+-- 
+- Otmar Nussbickel  -  eMail: hyichz@tym.uxjiw.iw
+- IRCNet: ^Spooky    -         beuxpm@tff.fwthcxkh.bv
+--

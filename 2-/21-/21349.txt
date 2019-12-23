@@ -1,0 +1,13 @@
+Und so sprach Vinzenz Eulert:
+
+
+Hm, was passt denn da dazu?
+
+
+Tja, was tut man nicht alles für ... was auch immer.
+
+Massimo
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

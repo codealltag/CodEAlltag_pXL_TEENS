@@ -1,0 +1,10 @@
+Benjamin Ekamper <qptuhewzxjp.69@sxitvtceepf.zx> writes:
+
+
+Mehr Prozessoren bei SMP, anderes Timing (was sich bei Half-Life mal
+durch einen Bug bemerkbar machte) fallen mir gerade ein.
+
+-karlheinz
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.

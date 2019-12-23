@@ -1,0 +1,11 @@
+* Ludger Veidt <e-obt@famfzmujvpg.ab>:
+
+
+Meine Adresse hast du?
+
+
+(default ((t (:family "Fixed" :size "13pt" :background "grey"))) t)
+
+Konrad
+-- 
+cross veinless

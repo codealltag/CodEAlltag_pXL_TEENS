@@ -1,0 +1,13 @@
+Norbert Weitzenkorn hat geschrieben getan getutet:
+
+
+Nein, den Schlauch.
+Und der Magnet, der auf Wechselstrom lief, zog diesen Metallblock
+abwechselnd an/ab. 50 Hz. 50 Tropfen.
+
+-mathias
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Georg 'pi' Piwinger in de.alt.sysadmin.recovery

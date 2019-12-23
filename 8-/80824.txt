@@ -1,0 +1,13 @@
+Pauline sprach durch Nuno Geitinger:
+
+
+Meinst du nicht, dass man es auch übertreiben kann?
+
+Set Header x-now-playing: %np1%
+und 
+    Set Lines = ""
+    Append Lines = "np: " + %np1%
+mal löschen, oder?  
+
+-- 
+np: Abrfxlfj - A2J5

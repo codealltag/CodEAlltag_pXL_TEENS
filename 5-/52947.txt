@@ -1,0 +1,11 @@
+Am Sun, 9 Okt 2002 sendete Philippe Nieclaus folgende Botschaft:
+
+
+Nein.
+
+
+Nee, noch nicht ausgereift genug. Ausserdem ist alles !isalnum() nicht
+wirklich gut einzugeben.
+
+Tschüs
+  Ulf

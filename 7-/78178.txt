@@ -1,0 +1,10 @@
+Herwig Döderlein <jzofmmz.ynkcu@yqe.yl> writes:
+
+
+Doch, folge dem fup...
+
+Ullrich
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

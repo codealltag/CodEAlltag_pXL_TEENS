@@ -1,0 +1,11 @@
+povx@qjthjnutqm.ik (Viktor Plaspohl) writes:
+
+
+Wir bau'n die Mauer wieder auf, denn langsam wird uns das zu dumm..
+
+-detlev
+-- 
+ No  Points     Name                                                   Hp [alessandro]
+  1    8488266  Jana-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

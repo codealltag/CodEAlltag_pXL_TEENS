@@ -1,0 +1,13 @@
+Am Mon, 23 Jul 2002 sendete Klaas Wiggelinghoffs folgende Botschaft:
+
+
+Naja, bei eingleisigen Halten (bzw wenn die RB immer[-1] am gleichen Gleis
+Abfährt) kann man schon die Richtung verwuxeln.
+
+
+Kommt darauf an. Bei </= 5 Minuten nur sporadisch.
+
+Tschüs
+  Alex
+
+-1) Für DB-typische Werte von immer.

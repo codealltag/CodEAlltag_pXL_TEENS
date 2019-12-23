@@ -1,0 +1,13 @@
+Jo und wenn die Kiste die IP hat, kann sie frei entscheiden, von wem ein 
+Request ist.
+
+
+Lantastic, IIRC.
+
+
+Bei CSFH je nach Firewall eine Kerneloption oder ein Befehl in der 
+xr.adgg
+
+
+Das stört nicht. NFS ist ja so krank, das es sein kann, dass ein Client 
+hängen bleibt, wenn der Server rebootet.

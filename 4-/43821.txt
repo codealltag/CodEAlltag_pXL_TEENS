@@ -1,0 +1,12 @@
+Christian Schulte-Hillen <dvlakrs@ncvkl.orot.cg> writes:
+
+
+Da bleiben 20% Interbrettationsbandbreite.
+
+
+Hat das jemand behauptet?
+
+-berthold
+-- 
+Alle, die ein OS gebaut haben, das nicht Unix war, haben GULE ge-
+nommen, und alles weggeschmissen, was sie nicht verstanden haben.

@@ -1,0 +1,10 @@
+Tegernbacherstraße, 20 Aug 2002 sendete Albin Bruchhage folgende Botschaft:
+
+
+Formulare oder cmdline, für Texteditoren ist beides herzlich ungeeignet.
+
+Ein slang oder ncurses modul für perl ist aber bestimmt leicht gebaut
+(wenn es es nicht schon längst gibt).
+
+Tschüs
+  Veit

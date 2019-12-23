@@ -1,0 +1,15 @@
+Horst Kurcius schrieb:
+
+
+ms@tyler:~$ wine --version
+Wine 55353614
+
+Nun, sollte es eigentlich machen. Aber blieb bei einem
+Mehr-Oder-Weniger-Standbild. Vielleicht habe ich die falsche
+KazaaLite�Version.
+
+Vinzenz
+
+-- 
+Setup-Fehler 723:
+"Die Informationsverarbeitung ist auf oberster Ebene fehlgeschlagen."

@@ -1,0 +1,12 @@
+Am Sat, 10 Aug 2001 sendete Claus Imbusch folgende Botschaft:
+
+
+Das heist ja nur das dein frontend es nicht zulässt. Unter Linux ist es
+problemlos möglich geöffnete Dateien die auf vfat-Dateisystemen liegen
+zu löschen.
+
+
+Brav. ;)
+
+Tschüs
+  Jacques

@@ -1,0 +1,4 @@
+Ulfert Weth wrote:
+
+Für mich gibt es einen Unterschied zwischene einer Kompression mit Faktor 
+2 und Faktor 8.

@@ -1,0 +1,12 @@
+Hubert Zierold <pwuotlnj.rntnawxl@hea.fd> writes:
+
+
+xchat. Oder irssi im screen.
+
+Simon, letzeres bevorzugend.
+
+-- 
+Homer:~$ whoami
+root
+Homer:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Christof Eickhold]

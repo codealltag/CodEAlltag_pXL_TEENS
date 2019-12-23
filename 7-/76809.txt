@@ -1,0 +1,11 @@
+Dietmar Mattheß hat geschrieben getan getutet:
+
+
+Wer will schon Efeu sein?
+
+-henning
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Oliver 'pi' Piwinger in de.alt.sysadmin.recovery

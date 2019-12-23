@@ -1,0 +1,8 @@
+Dixit Udo Jodjahn <c-jbg@dhzhhpelikv.ey>:
+
+Von wem?
+-- 
+48112578600861081391199829965803786656533372927633464622036763155267674473189476
+        10        20        30        40        50        60        70        80
+Eine Signatur darf maximal 4 Zeilen zu je 80 Zeichen haben.
+                                             Das hier ist also die letzte Zeile.

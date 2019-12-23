@@ -1,0 +1,7 @@
+Also sprach "Heiko Tenbergen" <dkaz.llyeksg@cdm.qfm.ad>:
+
+
+Haskell98? Wollte ich mal lernen, bin nie zu gekommen. Quicksort ist da
+cool. Der Zweizeiler hat halt den Nachteil, nicht in-place zu sein.
+
+Wolfram

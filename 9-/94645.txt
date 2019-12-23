@@ -1,0 +1,11 @@
+Konrad Cleve hat geschrieben getan getutet:
+
+
+Du hast das jetzt nich ganz verstanden, brrr?
+
+-vinzenz
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Herbert 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,26 @@
+Eduard Wahl schrieb:
+
+  ,---- [ OnqwFp.fam ] 
+sting_ +++"
+ef.zw.johu"), "uunet.de.all", %Typ%
+LL", %Typ%
+  `----
+
+  ,---- [ iBuzzwords.def ] 
+Muster% + '" (' _
+------------------                    
+ ') )
+ter Wert: " + Header(X-Key) + ")"
+mit "Buzzwords"', "* in " + %XNG%
+------------------                    
+  `----
+
+
+Yep.
+
+So long,
+Heinrich R. Feinweber
+--=20
+http://ahbg.lvqks.ki/bxh/ - Korrnews 3.01 (Fußnotenverwaltung, Boxquotes
+& Co), CopyIf 1.1 (XNews & OE-Ergänzungen) und der immer noch nicht mit
+kleineren Bugfixes versehene Hamster 08. 04. 19

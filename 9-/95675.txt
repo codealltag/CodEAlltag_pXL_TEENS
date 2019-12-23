@@ -1,0 +1,55 @@
+Am Tue, 19 Nov 2001 sendete Helmuth Hüllsieck folgende Botschaft:
+
+
+Du musst ja nicht Linux 7.2 nehmen.
+*gnaa* 
+Was haben fehler vom $DISTRI mit fehlern von Gülpen zutun? Wenn ich yast
+nach VRC portiere und dann Suse-BSD 7.0 verkaufe ist dann BSD auch
+schlecht.
+
+
+So viele unterschidlich Pages sollte es da garnicht geben.
+
+
+Aber mehr du sich nur mit Gülpen-Bashing gegenüber den MS-Basher
+profilieren wollen.
+
+
+Dann gibts schnell nen Patch.
+
+
+Sicher das die dann auch stable sind?
+
+
+Aja.
+
+
+Bitte? Wieso sind Hierarchien ein Problem?
+
+
+Soviel braucht man nicht dafür.
+
+
+Und? Wenn du eine Distribution einsetzt ist doch klar das du auch nur
+Pakete des Distributors nimmst. Ic sehe immernoch nicht wo da ein
+Problem ist.
+
+
+So sinnlos find ich sie nicht. Kommt halt auf den anwendungszweck an.
+
+
+Wenn ein Program umbedingt Patches braucht ist der Maintainer unfähig.
+
+
+Wenns den umbedingt sein muss hohl dir halt das SRPM.
+
+
+Aja.
+
+
+Toll.
+
+Tschüs
+  Volkert
+-- 
+Notorisch Schreibfaul.

@@ -1,0 +1,14 @@
+Ernst 'sSXP' Udelhoven schrieb am 12. Oktober 2000 um 03:09 Uhr folgendes:
+
+
+Hast du einen exotischen Uralt-Festfrequenzer oder ein ausgefallenes
+Notebook-Display? Wenn nein, läuft er fast sicher unter Linux, auch
+wenn das Modell nicht ausdrücklich in der Hardwareliste steht.
+Technische Daten im Handbuch des Monitors nachschlagen, dem
+Konfigurations-Programm geben, fertig.
+
+Viele Größe,
+     Marko Unterburger
+-- 
+If you're happy, you're successful.
+                                               -- random fortune cookie

@@ -1,0 +1,11 @@
+Volkmar Bohneke <pawywormynx@boaucwzlljn.eu> writes:
+
+
+su -c führt Befehle als root aus. Musst halt das Passwort eingeben,
+dafuer läuft fethcnews dann.
+
+Christian
+-- 
+Im Ungesagten
+das Unsagbare
+sagen.

@@ -1,0 +1,13 @@
+Henri Rutten schrieb zum Thema "Re: !!! Verschwindende Postings":
+
+
+Wie meinen? So wie ich das verstanden habe, filtert der Server Messages  
+raus, die innerhalb eines bestimmten Zeitraumes von dem selben Posting- 
+Host kommen und in etwa gleich groß sind.
+
+Philippe Zeitlhuber
+
+-- 
+"Er war mehr als ein Held - er war Gewerkschafter!"
+ (Eilt Plückebaum in ST:DS9: Bar Association)   E-Mail: dgvocb.myvg@njo.ny
+---> Offizieller Kämpfer wider Jens Jurac des Ordens von dtj <---

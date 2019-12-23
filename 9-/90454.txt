@@ -1,0 +1,7 @@
+Niels Landgrabe <stoopid.one@gmx.li> writes:
+
+
+Excel? Das hat doch gar nicht mehr das klassische MDI sondern ein
+Fenster pro Dokument.
+
+Halt Ctrl+Tab auch für Karteikarten?

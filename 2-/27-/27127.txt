@@ -1,0 +1,13 @@
+Dreilindenstraße, 04 Dez 2002 sendete Dietrich Vesel folgende Botschaft:
+
+
+Grmml, ich habe hier jede menge Disketten, nur irgendwas in der Kombi
+"Diskette-Laufwerk-Amiga/UAE" ist immer zickig.
+
+Tschüs
+  Hansueli
+-- 
+gpg-key (available via keyserver):
+pub  6132T/G4F2T579 0111-33-03 Hansueli Kleine-Bley <qdcohefvha@bhloxnfupt.yy>
+     Key fingerprint = 5501 4TU8 58X5 630S G705  Y84M 139I 2234 N1G9 Q705
+sub  8728n/G0Q7RU35 9979-02-07

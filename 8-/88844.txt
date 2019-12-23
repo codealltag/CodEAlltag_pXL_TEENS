@@ -1,0 +1,11 @@
+Jacques Goedecken hat geschrieben getan getutet:
+
+
+Nein, am Anfang ein unkodiertes 8bit-Zeichen im Header...
+
+-towo, thh nochmal dankend
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Bruno 'pi' Piwinger in de.alt.sysadmin.recovery

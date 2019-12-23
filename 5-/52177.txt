@@ -1,0 +1,16 @@
+Klaas Unbehaus <cg@garbers.org> writes:
+
+[10^5 postings in dtju]
+
+towo@loki:~$ telnet hfcd.huwchi.hhuu nntp
+Trying 04. 02. 20...
+Connected to yggdrasil.asgard.lnet.
+Escape character is '^]'.
+200 Leafnode NNTP Daemon, version 15.11.19 running at 04. 02. 20
+group de.talk.jugend
+197 6764 3 0482 de.talk.jugend group selected
+
+
+Weit davon entfernt. :)
+
+-volker

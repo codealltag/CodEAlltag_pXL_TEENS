@@ -1,0 +1,10 @@
+begin quoting the honorable Fridolin Lowins
+<group-answer@garbers.org>:
+[adaptives Scoring]
+
+Ja, Scoring auf Subject sollte man rausnehmen. Aber wie ist es mit
+Scoring auf (Teil-)Threads (aktuelle Message-ID in den References)?
+-- 
+Serge Nowakowsky, 00604 Untersiffelhofen, DE
+My favorite newsgroups:
+de.talk.jugend, de.alt.fan.aldi, alt.fan.harry-potter

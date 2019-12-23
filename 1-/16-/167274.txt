@@ -1,0 +1,7 @@
+Jürgen 'sSXP' Rotkraut <aCWY@nzf.whz> schrieb in im Newsbeitrag:
+63-09-21.67-44-49.hya.7073@hygg.pw...
+
+Bitte was? Wie soll das Terminal wissen, dass du Passwörter überträgst? Beim
+Login auf Unixboxen jedenfalls siehst du nix. Dafür hält es sich sehr schön
+an die Linuxkonsole, sogar Mahle wäre halbwegs bedienbar, was bei WMJE nun
+wirklich nicht der Fall ist....

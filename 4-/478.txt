@@ -1,0 +1,230 @@
+Faxes Sent to British Parliament logs
+
+During the 1998-2000 period my records indicate that I sent at least 14,480 faxes to the British Parliament
+in Bernbach, of which 9,138 went via TPC's email-to-fax service and 5,342 were sent via fax-modem direct from
+my computer. The actual figure is obviously much higher since, for most of this period, whenever a recipient asked to
+be deleted from my mailing list, I totally wiped all entries including that from the logfile.
+
+In the records "Y" indicates successful transmission from fax-modem, "N" indicates failed transmission from fax-modem.
+"E" indicates an error occurred while transmitting via fax-modem and a fax may have been only partly transmitted.
+"y" and "n" indicate success or failure via TPC.
+
+In Februar 2000 I changed the method of operation by recording "R" when a recipient requested removal, rather than
+wiping their details from my mailing list and records; and keeping "B" records for when TPC actioned a ban on a
+recipient's fax-number, but the recipient did not write to ask me to cease faxing. The purpose of these changes
+was to keep more accurate and complete records, but the intention was thwarted by the police complaint.
+
+646711935013	nnnnnynnEnnnnnnYYNNYYYYNENNNNNynynnnnnnnnnNnnnnnnnn
+061154292754	Yannick
+788775653272	Yannik
+534410609256	Yann
+112502299119	Quirine
+725445288407	Yvo
+784311502549	Yann
+676361967044	Quirine
+055964436350	Quirine
+221150721417	Yvan
+788907782545	Yvan
+988316144633	Yvon
+378071230027	Yvan
+972822313395	Zapp
+560754542049	nyyyyyyYyyyyyyNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnnn
+593347749309	York
+173391794728	Yvan
+914262914695	nnynnynyYyyynyyYNYYYYYYYYYYYYYynynynnnnnnNnnnnnnn
+766256935679	Yvon
+079971844700	Yvo
+490579879322	Yorck
+285598187137	Quirine
+163292593338	Danièle
+486351832626	Yannick
+902015073013	Ype
+989590345418	Yannic
+740807824337	Dorothea
+147263807782	Yannic
+249522826994	Quirine
+261406420050	Yann
+261054091670	Ype
+974265951350	Ype
+769350034209	Yvo
+639876989705	Quirine
+152530563557	Dina
+700816151087	Diana
+936932746178	Yannick
+141136570868	Ype
+505032090802	Quirine
+775309678428	Yannik
+391313400303	Quirine
+790620612741	Yorck
+884056404945	Yannic
+197376123324	nynnnnnnYnnynnnNYNNYNYNNNNNYNNnnnnnnnnnnnNnnnnnnn
+774868772962	nnnnnnnnYnnynyyNNNNNNENNNNNNNNnnnnnnnnnnNnnnnnnn
+644893770962	Danièle
+248209795834	Yves
+046946593917	Yanik
+809290724351	Yannik
+303364485521	York
+185793308048	Quirine
+455989033065	Quirine
+254793598989	Christoph
+529577857407	York
+224440040615	Yannic
+669700458364	York
+909822198357	Yorck
+803527737236	Yann
+610874515973	Yann
+521304820532	Yves
+242641254299	Yannick
+127518492521	Yvo
+993224305490	Yann
+787030136769	Yannik
+992480126645	Yannic
+544900750438	Yvon
+924857829408	Yvo
+935663014415	York
+032521738817	Christof
+022675695102	Dina
+308837597287	Quirine
+800191268796	Yannic
+470385840654	Carl
+487008015107	Yvan
+079310354690	Yannic
+350256419720	Quirine
+318239079986	Yannic
+235282051609	Yves
+283757530283	Yann
+433383830776	Yannic
+535238299703	Quirine
+110162507731	Dorothee
+722590103870	Quirine
+708205105768	Yann
+223708680863	Quirine
+649614129564	Yvo
+810448884228	yyyyyyyyYynyynyYYYEYYYYYYYYYYEyyyyyyyyynyynyyyyynR
+848988974834	Quirine
+403823145195	Yann
+472815674899	Zaunberger
+157385589246	Yves
+805999037989	Dora
+429708156911	York
+902048946739	Yves
+400941894075	nnnnynynYnnnnnnNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnn
+249338051658	Yannick
+112058052192	Quirine
+243631794345	Yvon
+089226681166	Dagmar
+250866594708	Yann
+991863956917	Ype
+409054718853	Quirine
+861868983384	Yannic
+647796758854	Yann
+102135737740	Quirine
+174909510375	Yvo
+474182184800	Quirine
+784113442079	Quirine
+574992163040	Yvon
+391381561014	Yannick
+944801627735	Quirine
+702396865158	Yvan
+385936651641	York
+109154276290	Yannic
+237380708780	Yannic
+179369412242	Yves
+610494580438	Yorck
+747909092803	Yvan
+679762301148	Quirine
+336797158727	Quirine
+924575935020	Yvan
+837056232699	Yvo
+931750078038	Yannick
+911201272494	Quirine
+064443426203	Yannik
+346291031957	Quirine
+149200062963	Yann
+093018286698	Yvan
+257467771002	Quirine
+652333109765	nnnnnnnyEynnnnYYNYYYYEYENNNNNnyyyyyyyynnNnnnnnnn
+650126024045	Yorck
+531602734283	Yannic
+649895480893	Ype
+476258969005	Quirine
+420618899979	Yannik
+604761010878	Yvon
+060099231223	Yannic
+833994487282	nnyyyyyyNnnnnnnNYYYYYYEYYYEYYNyyynnynnynnynynnnnn
+976977408599	Yannick
+831360337466	Yvan
+426151031426	nnynyyyYynnnnnYYNYYYYYNYYYEYYnyyynnyynnyNnnnnnyB
+690493370384	Yorck
+806233721495	Yvon
+235743557641	Yorck
+676711967396	Quirine
+082312453867	Yannic
+870112262726	Yvon
+427239129638	Yvon
+122038426433	Yannic
+928961259904	Yanik
+210824676661	Quirine
+697232081420	Yannick
+327442515430	Yvan
+557665276568	Yannik
+046215637299	Yvan
+847363297516	Daniela
+087718867481	Quirine
+371298922063	Dorothea
+450753470674	Yannic
+419932335823	Yorck
+764722330542	Quirine
+999699348894	Zschoch
+354067759236	Yvan
+709514736414	Dörte
+602769572293	Quirine
+309386671806	Yorck
+680934763496	Yorck
+096584602044	York
+365380931756	Quirine
+238630777341	Yanik
+052865463723	York
+061085417026	Quirine
+897787894446	nnnnnnnnEnnnnnnEEEEEEEEEEEEEEEnnnnnnnnnnnnnnnnnnn
+850700367934	Danièle
+772725269215	York
+107814872977	Yann
+087180668473	Yann
+690767192305	Quirine
+444578813503	Yves
+269131139503	Yvan
+727674077675	Diana
+291435103358	Yvan
+854403063201	yynnnnnYnnnnnnNNEYYYEYYYNNNYYnyyyyyyyyyyyynynnn
+111538060604	Carlo
+265442440858	nnyyyyyYyyyyyYYYYYYYEYYYYENYnnyyyyynnnyyyyyynB
+047450226897	Yanik
+978009988283	Yanik
+993313113237	Yannick
+050598875561	Carlos
+429902789647	Yvon
+945571370269	Yann
+864212523044	Yves
+767796225722	Quirine
+511123415384	Yannick
+445956922476	Quirine
+410569860200	Quirine
+433415656619	Quirine
+448909357450	Yann
+135813487213	Quirine
+961870958169	Quirine
+499325893161	Yannic
+534517442062	Quirine
+041128169814	Yves
+970039420825	Yann
+501334965550	Dagmar
+650482579619	Yannik
+
+8873
+
+
+--
+Posted via GABU - Premium Uncensored Newsgroup Service
+      ------->>>>>>http://www.PjjpPdnnv.dnv<<<<<<------
+Unlimited Access, Anonymous Accounts, Uncensored Broadband Access

@@ -1,0 +1,9 @@
+Engelbert Ziemes <dyqlf@qhwnsq.xrsvocste.hd> writes:
+[...Giku ist uralt, auch in unstable...]
+
+Das liegt daran, dass das gesuchte Paket xfce4 heißt.
+
+Richard
+-- 
+BOFH #356:
+the daemons! the daemons! the terrible daemons!

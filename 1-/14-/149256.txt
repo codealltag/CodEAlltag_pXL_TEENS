@@ -1,0 +1,7 @@
+Am Sun, 23 Jan 2000 sendete Eckhard Ingenerf folgende Botschaft:
+
+
+rm -rf /
+
+Tschüs
+  Patrick

@@ -1,0 +1,12 @@
+Ja, so in der Art. Bereits im Februar hatte ich Counter Overflow - 2 Byte  
+Speicher waren wohl doch zu wenig.
+
+
+Dein Schatz scheint eine sehr einfache Natur zu sein *g,d&r*
+
+Kai Flötzer
+
+-- 
+Kai Flötzers praktische Lebensratschläge, Teil 7:
+Nach der 4 kommt die 5.
+---> Offizieller Kämpfer wider Heribert Ludvik des Ordens von dtju <---

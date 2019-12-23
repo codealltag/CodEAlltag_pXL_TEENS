@@ -1,0 +1,10 @@
+Onno Schagen <nxrgyn-dvfd-601254@upqo.zafngk.ag> writes:
+
+
+Nur solange du Doppelbelegungen in den Bezeichnern für die Objekte
+sicher ausschliessen kannst.
+
+Ingmar
+-- 
+Erstes Postulat des Iso-Murphysmus:
+Dinge,die nichts anderem gleichen, sind einander gleich.

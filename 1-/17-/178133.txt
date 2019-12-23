@@ -1,0 +1,8 @@
+Markus Boetcher wrote:
+
+nach 'export TERM="vt220"' schon.
+
+oberste-schlüchting
+-- 
+Toys are made in heaven, batteries are made in hell.
+                                          Finger cgeb@hobbiton.org for PGP-Key.

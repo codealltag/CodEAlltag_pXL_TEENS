@@ -1,0 +1,13 @@
+Ruedi Behrbohm <dqnqazmlwiyh@iqvwxmmad.nyq> writes:
+
+
+Da ist nichts zum klicken nötig.
+
+
+Ich rede nciht vom partitionieren, sondern vom formatieren einer schon
+fertigen Partition. Und wer dann immernoch die falsche erwischt, der
+hätte auch ohne das Formatieren keine Freude mehr am System...
+
+Valentin
+-- 
+               I believe the technical term is "Oops!"

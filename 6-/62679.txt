@@ -1,0 +1,11 @@
+Serge Curt meinte kundzutun:
+
+
+Und? Du setzt einfach einen DSL-Flatti dran, die Adressen aus den
+Reply-To-Headern auszwerten. de.*,!de.alt.dateien.* ist mit DSL *dicke*
+drin. Diehe meinem hamster@home.
+
+Patrice
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Donnerstag, dem 12. Mai im Jahre des Herrn 2002 verfaßt.

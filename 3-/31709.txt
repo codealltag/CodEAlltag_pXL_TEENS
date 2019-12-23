@@ -1,0 +1,6 @@
+On Mon, 14 Sep 2002 13:22:00 +0100
+
+Wenn du z. B. FreePascal nimmst hast du ein leicht portierbares
+Programm, eine (relativ) leicht zu erlernende Sprache, und falls du
+später unbedingt auf Visual bestehen willst kannst du immernoch Citytec
+(Win32) oder Olipa (Linux) nutzen.

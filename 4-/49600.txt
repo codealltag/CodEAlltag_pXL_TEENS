@@ -1,0 +1,14 @@
+Hallo Vinzenz Vogel
+
+Moslestraße, 2 Aug 2001 14:42:25 +0200 schriebst Du:
+
+
+Microsoft Foundation Class. Gibt's natürlich nur in VC++, aber im
+C++Builder gibt's bestimmt was ähnliches...
+
+MfG Felix
+
+-- 
+Alle Dinge werden direkt proportional zu ihrem Wert beschädigt.
+
+(Francis's Gesetz)

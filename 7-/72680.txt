@@ -1,0 +1,9 @@
+http://qvm.daax4hysmc.bw/
+
+Aber wieso nicht über yast2? Das war bei mir innerhalb von 2 min 
+erledigt und läuft. 
+
+Ivo
+-- 
+Es gibt Leute, bei denen man im Killfile sein sollte, oder man hat
+etwas flashc gemacht. (Bodo Höfter in de.org.ccc)

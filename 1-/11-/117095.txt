@@ -1,0 +1,11 @@
+* Italo Johannwille <btdfu@imitg-oukatu.po>:
+
+
+Sigs werden ignoriert.
+
+BTW: Wie handhaben die das eigentlich? Zählt "--" als Sigtrenner dazu?
+Sonst könnten OE-User, die viel posten, arge Probleme bekommen ...
+
+Giorgio
+-- 
+cross veinless

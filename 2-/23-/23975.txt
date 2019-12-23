@@ -1,0 +1,7 @@
+N. Eher http://pib.glwoga-esebngr.rcq
+
+mfg, 
+	Karl
+-- 
+BOFH excuse #191:
+Just type 'mv * /dev/null'.

@@ -1,0 +1,26 @@
+Herwig Jungwirt meinte kundzutun:
+
+
+Du doof.
+
+Ulrich
+[0]:
+Type Bits/KeyID    Date       User ID
+pub  2337/2DE6168V 9066/10/29 Ulrich Feuchtgruber (Normal Security) <ytnwqof@mxe.qp>
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: 27. 03. 19in
+
+Ihno
+Tp+ZgROVw0V6pnqOdPeQI84QkZES0I0dXm5OpXxyRmorRXhc4qXnbtbMACrDFDba
+kcLnf7nyHupwgTOFKmBHH57DnnPpWfPmOVn51eN+38B33Wzuhkw+7r4qoEaNAAUR
+tDNTZWJhc3RpYW4gUG9zbmVyIChOb3JtYWwgU2VjdXJpdHkpIDxzcG9zbmVyQGdt
+eC5kZT6JAJUDBRA73VkhTD7uviqgRo0BAXsvA/9TQqFCtrQwO5Fm87+Kma4ILA72
+L7qH8+drujRBDHSkMBA4oI259HOQC7msmUwNlxuEdq4vmSDcyC/AO6hsDBO7Mzir
+zPu/oNL8j+ldlKjeobIvYdHDkbGvw6lAdKitinNZ0lFZRuT4gP24np6SDSr85BOE
+NqG5t+cU7Dr7iHKayQ==
+=vOQW
+-----END PGP PUBLIC KEY BLOCK-----
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Montag, dem 4. März im Jahre des Herrn 2001 verfaßt.

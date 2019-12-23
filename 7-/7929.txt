@@ -1,0 +1,8 @@
+Joëls Ingenhütt <pqvc@abkrkjfisnj.nz> writes:
+
+[dsf 6.11]
+
+Ulf
+-- 
+BOFH #305:
+IRQ-problems with the Un-Interruptable-Power-Supply

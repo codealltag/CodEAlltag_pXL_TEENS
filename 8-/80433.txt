@@ -1,0 +1,11 @@
+Oliver Zöphel schrieb:
+
+
+Ja, ich esse gerade.
+
+Fernando, macht jetzt mal eine Pause.
+
+-- 
+Reisecenter ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

@@ -1,0 +1,9 @@
+* Karsten Fettig <vnukgze@pvc.tm>:
+
+
+Die Syntax einiger Konfigurationsdateien hat sich geändert. Und nicht
+gerade zum Vorteil IMO.
+
+Detlef
+-- 
+np: -

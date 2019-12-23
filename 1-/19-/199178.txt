@@ -1,0 +1,7 @@
+Anton Kegel schrieb am 27 Okt 1998 in de.talk.jugend:
+
+
+Die Boot Option kann man im BIOS ausschalten und den Zugriff auf das 
+BIOS (und nur das) per Passwort sperren.
+
+Luigi

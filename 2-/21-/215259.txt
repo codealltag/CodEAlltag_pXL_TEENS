@@ -1,0 +1,13 @@
+Am 23. 07. 20 12:41:34 GMT sendete Karl Andratschke
+folgende Botschaft:
+
+
+kill: (1) - Not owner
+
+
+bash: ./felix: Permission denied
+
+Ein Newsserver ist Opticland standalone und kann _alle_ nntp-befehle.
+
+Tschüs
+  Alexander

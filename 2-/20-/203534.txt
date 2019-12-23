@@ -1,0 +1,9 @@
+Deulstraße, 26 Mai 2000 sendete Ulrich Steigleder folgende Botschaft:
+
+
+Das nicht, der domainpart ist wie jede domainangabe case-insensitiv,
+allerdings sollte man dadrauf achten das der Localpart durchaus
+case-sensitive sein kann.
+
+Tschüs
+  Charles

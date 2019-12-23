@@ -1,0 +1,14 @@
+Und so sprach Rémy Oelschlaeger:
+
+
+Also ich habe mir damals das 8.1-ISO gezogen, und das tut
+einwandfrei. :)
+
+
+Hab ich mit potato auch gemacht, ging gut (im Gegensatz zum dselect &
+Krempel Zeug). Peno installiere ich sowieso immer ueber FTP.
+
+Gruss,
+Christophe.
+-- 
+Summer is a moving creature and likes to go south for the winter.

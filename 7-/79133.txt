@@ -1,0 +1,14 @@
+Solches tippte Siebelt Thoß:
+
+<style type="text/css"><!--
+a:hover.foo {color: #f00f00;}
+a:hover.bar {color: #0f00f0;}
+// --></style>
+
+<a class="foo" href="#foo">Der eine</a>
+<a class="bar" href="#bar">Der andre</a>
+
+Ciao,
+Ivo 
+-- 
+np: black sabbath - gypsy

@@ -1,0 +1,11 @@
+Olivier Mennekes hat geschrieben getan getutet:
+
+
+20.
+
+-berend
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Noël 'pi' Piwinger in de.alt.sysadmin.recovery

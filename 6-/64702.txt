@@ -1,0 +1,11 @@
+Vinzenz Ubbo Suttarp <vjwf@ooqwuj.fri.ym> writes:
+
+
+Das Problem lautet "Er schafft es ncht, mit seiner Mandrake online zu
+gehen". Hätte er ne Debian, müsste er nur meine Config anpassen und
+fertig...
+
+Beat
+-- 
+Ein Freund ist ein Mensch, vor dem man laut denken kann.
+(Vinzenz Wolf Perchtold)

@@ -1,0 +1,11 @@
+Dieter Zumbruch hat geschrieben getan getutet:
+
+
+Zugang.
+
+-towo, IAP oder ICP, wenn du willst
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- François 'pi' Piwinger in de.alt.sysadmin.recovery

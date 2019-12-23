@@ -1,0 +1,12 @@
+Alwin Kannheiser <vbrlawh.xfljw@lqs.qc> schrieb in im Newsbeitrag:
+o472ixtx25yxiaw2rajx42qrxzz7oen2lo@8aj.epa...
+
+MTBF musst du schon bei gleichen Anforderungen messen. Und ja, ich habe
+Server mit IDE, laufen alle ohne Probleme. Und das Geld, das für SCSI
+draufgegangen wäre, kann ich für andre Dinge brauchen...
+
+
+Dann waren's keine wichtigen Daten.
+
+
+Hmm... Kriegst du 3COM NICs günstig?

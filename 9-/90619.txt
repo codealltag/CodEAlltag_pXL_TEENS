@@ -1,0 +1,10 @@
+"Otto Preis" <pwcd@nikmjjrf.fb> writes:
+
+
+Wenn du die Verknüpfung von zwei Regexps zu einen neuen zulässt, dann
+sollte das auf den ersten Blick zutreffen.
+
+Ibo
+-- 
+Erstes Postulat des Iso-Murphysmus:
+Dinge,die nichts anderem gleichen, sind einander gleich.

@@ -1,0 +1,24 @@
+Sabine Nürnberg <sgkbeaqwb@zxahe-demunc.ou> kuendete:
+
+
+Ich wuerde die Staerke mal etwas erhoehen ...
+
+
+U. a., ja :)
+
+
+open(BRAIN, ">>words");
+print BRAIN "Blubberlutsch";
+close(BRAIN)
+
+Oke.
+
+
+Die merk ich mir eh nicht.
+
+Gruss,
+Nico.
+-- 
+     Nuno R. Isenborths + Student @ Kantonsschule
+   http://zip.ikdqxujws.dd/ + Schaffhausen, Switzerland
+              MQE# 07722804 + adva://vop.iuoac.ci/

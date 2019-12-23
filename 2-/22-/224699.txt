@@ -1,0 +1,12 @@
+On Sat, 8 Nov 1999, Simon Grieß <wervrck_zhbpzlk@jze.gg> wrote:
+
+[INN + slrn = online-reading]
+
+Es ist aber ein (in der Bedienung spürbarer) Unterschied, ob ich slrn
+als Online- oder als Offline-Reader betreibe - eben deshalb benutze
+ich ihn online mit dem lokalen INN.
+
+Viele Größe,
+     Pascal Reineke
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

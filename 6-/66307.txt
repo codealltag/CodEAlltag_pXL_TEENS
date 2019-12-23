@@ -1,0 +1,11 @@
+Ulfert Obereisenbuchner <niopgoddfosoax@dyg.det> writes:
+
+
+[schnuepp Scorefile-Auszug]
+
+Ich probiers dann mal so..
+
+(("from"       ("Edmund Groening <usuxtas_ju@mpmh.kiz>" -1 nil s))
+ ("references" ("ID-27906.news.dfncis.de>$" 1000 nil r)))
+
+-emil

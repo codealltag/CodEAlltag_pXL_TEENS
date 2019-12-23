@@ -1,0 +1,8 @@
+Dieter Wolfromm <SspfvnLephgs@msc.mp> writes:
+
+[Haskell]
+
+Ja, besonders schlimm ist das Typinferenzsystem.
+-- 
+It is impossible for an Englishman to open his mouth without making some other
+Englishman hate or despise him. [Otto Harry Sahlmann]

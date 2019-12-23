@@ -1,0 +1,15 @@
+Vittorio Cloodt wrote:
+
+Ob Du hinter dem Proxy für solche Zwecke so glücklich wärst... Man kann 
+auf keinen anderen FTP-Server uploaden.
+
+
+Ist bei Klier genau so. Fehlermeldung und weiteres in den Logs. Ihr dürft 
+also diesen Punkt ad-acta legen ;-)
+
+
+Ne, noch lange nicht. Der war sogar nur 8-bit.
+
+
+Leider nicht ;-)
+Obwohl ich Teile des Sourcecodes hab (vor allem die Treiber).

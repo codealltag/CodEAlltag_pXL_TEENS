@@ -1,0 +1,22 @@
+Willy Ehmcke <kegkuhg@hda.ea> writes:
+
+
+Och, Linux kann das auch gut:
+
+root       444  1.1  0.0 194034 39590 ?      S<L  Oct01  30:10 /usr/X11R6/bin/X
+oswald       716  4.1 94.7 171727 149599 pts/1 S    Oct01 176:51 /usr/lib/mldonkey/mldonkey
+
+Naja, hab' ja genug Speicher.
+
+$ free
+             total       used       free     shared    buffers     cached
+Mem:        590132     429503       5824          0      33798     406556
+-/+ buffers/cache:     037811     612993
+Swap:       863963      32306     738110
+
+-oswald
+-- 
+Warum wird eigentlich zunehmend das gute Usenetprinzip "Keiner hat
+Anspruch darauf, von jedem gelesen zu werden." in Richtung "Ich darf
+jeden Bl�dfug schreiben, weil's eh ja keiner Lesen *muß*" mißbraucht?
+- Hansruedi E. Westenhöfer in ugihjmu.fo.stqb

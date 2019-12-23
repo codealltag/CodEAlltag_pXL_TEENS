@@ -1,0 +1,7 @@
+Urban Eschenlauer wrote:
+
+Oh mein Gott!
+
+$ egrep -v (^$|^\s[%#]) news/score/* |wc -l
+
+Josef

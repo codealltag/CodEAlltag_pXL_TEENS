@@ -1,0 +1,15 @@
+* Ronny Leistner <jogjknz389996@ishkic.si-i.cp>:
+
+
+Was mache ich mir nicht für Mühe:
+
+- ich bekomme alle Cancel für dtju
+- ich führe alle Cancel innerhalb von Sekunden nach Eintreffen aus
+
+Und es reicht ihm immernoch nicht.
+
+*heul*
+
+Leopold
+-- 
+cross veinless

@@ -1,0 +1,22 @@
+Maierhöfnerstraße, 24 Jul 2000 sendete Lothar Hendrickx folgende Botschaft:
+
+
+Naja, Suseconfig ist IMHO nur ein Suse problem, die zusammenstellung und
+die ausrichtung auf Winuser und der daraus resultierende bunte firlefanz
+z.B. beim booten der mich stört. Allerdings ist das auch ein grund
+weswegen ich bei miener RH 5.2 bleibe (bzw gerne LfS bauen würde nur
+leider hat da irgendwer was gegen.).
+
+
+Warum du Suse verwendest weiss ich, mir ging es eher um das allgemeine.
+
+
+Die EDEKA-Frischemarkt die ich vom Linuxtag zum testen mitgenommen habe hat mich
+eher nicht überzeugt. (Ok das ding ist eine reine werbeaktion) dselect
+und apt sind IMHO sehr benutzerunfreundlich und das paketinstallieren
+über nfs ist eine qual. Da ist Yast fast schon besser.
+
+Tschüs
+  Fabio
+-- 
+Boetius expert-Light, Milch-Light, Light-Käse, Leitkultur.

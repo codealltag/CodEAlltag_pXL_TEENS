@@ -1,0 +1,10 @@
+Am Thu, 12. 04. 20 16:24:28 GMT sendete Bernard Forderung
+folgende Botschaft:
+
+[Path anpassen]
+
+Dann wird ONMT opt/kde/bin an der flachsen stelle in den PATH
+eingetragen.
+
+Tschüs
+  Konrad

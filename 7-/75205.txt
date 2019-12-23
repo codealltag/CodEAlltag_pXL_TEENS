@@ -1,0 +1,9 @@
+Ingo Boesel <dgrxkntmmtj.90@qndrgdgfcyj.vu> writes:
+
+
+Hm... Ich weiss, dass mein Binary fiunktioniert, weil wir das zu
+Testzwecken mal woanders haben laufen lassen...
+
+Dennis
+-- 
+f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng.

@@ -1,0 +1,8 @@
+* Gerald Kirchschlager <olgjev@ttchhvquidm.sg>:
+
+
+Okay. Und wie lässt man den Agent da möglichst geschickt reinlaufen?
+
+Bruno
+-- 
+cross veinless

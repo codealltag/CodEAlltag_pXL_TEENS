@@ -1,0 +1,10 @@
+Karlheinz Ohlhoff schrieb:
+
+
+Was man nicht alles so machen kann. Ich fand gestern ls -l | lpr
+irgendwie cool. :-)
+
+Karlheinz
+
+-- 
+Kein Bier vor vier!

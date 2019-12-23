@@ -1,0 +1,11 @@
+Bernhard Nicklisch <feusru@ihydbvihiq.da> teilte folgendes mit:
+
+
+Echt? Ein Bl�dszaf?
+
+-be
+
+-- 
+Konrad's Technische Praxis:
+2.7 - Teile, die in einer bestimmten Reihenfolge nicht montiert
+      werden können, werden so montiert sein.

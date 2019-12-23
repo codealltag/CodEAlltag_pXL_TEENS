@@ -1,0 +1,13 @@
+Bruno Nitzls <cg@garbers.org> writes:
+
+
+Die 72 Zeichen sind im Vim-Aufruf drin, Tofu erschien ihr sowieso
+sinnlos, den Realnamen hat sie auch normalerweise drin, und Binaries
+weiss ncihtmal ich bei tin...
+
+
+Optisch auch *fg*
+
+Ulf
+-- 
+DAS mit ner Flasche Sekt? Ist bestimmt prickelnd! [Rebecca und Ulf]

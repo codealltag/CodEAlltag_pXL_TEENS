@@ -1,0 +1,12 @@
+Hallo Nikolaus Hackenschmied
+
+Am Thu, 17 Jun 2002 12:09:08 +0000 (UTC) schriebst Du:
+
+
+Und das lässt sich gut mit Perl kombineren?
+
+MfG Wolfram
+
+-- 
+Eigenartig, daß das Fernsehen sich zwar für Störungen entschuldigt, nie
+aber für das Programm. (Urs Merfort, Filmregisseur)

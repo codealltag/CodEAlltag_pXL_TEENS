@@ -1,0 +1,13 @@
+* Andre Iggena <f-rbe@bntzrnlaibf.pq>:
+
+
+Norman Bongards. Der trotteligste Despammer, den das Netz je gesehen hat. ;-)
+
+
+Er tippte "http://" ein und drückte versehentlich RET. Sein Bot suchte
+nun alle Postings nach dem String ab, statt Norman zu sagen, dass das ein
+schwachsinniger String ist, und fand u.a. Normann Posting.
+
+Wilfried
+-- 
+cross veinless

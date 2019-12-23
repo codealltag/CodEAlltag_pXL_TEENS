@@ -1,0 +1,13 @@
+Ist es. Ich hab' mal den Check auf "test" im Newsgroup-Header  
+auskommentiert (zwecks Test in einer lokalen Newsgroup unpassenden Namens)  
+und dann wollte ich noch den von dir erwähnten c-Parameter mit erwähnter  
+Msg-ID ausprobieren - und schwups nahm sich das Script alle Postings hier  
+vor :-)
+
+Waldemar Graff
+
+
+-- 
+Du willst nach de.newusers.infos - SOFORT!
+                                             E-Mail: nzdsje@zpehdcclpo.dj
+---> Offizieller Kämpfer wider Ivo Zeymer des Ordens von dtju <---

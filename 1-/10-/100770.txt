@@ -1,0 +1,9 @@
+* Alberto Unkauf <mzesxse594675@pjjfkl.uv-p.qn>:
+
+[shutdown]
+
+Linux will eben laufen ... keine aussagekräftigen Sachen im log?
+
+Theodor
+-- 
+cross veinless

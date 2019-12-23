@@ -1,0 +1,7 @@
+Wie?
+
+mfg, 
+	Wilfried
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old DUSF cpu - insufficient processing power

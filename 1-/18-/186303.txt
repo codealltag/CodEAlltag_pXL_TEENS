@@ -1,0 +1,24 @@
+Am Mon, 16 Jun 1999 sendete Andree 'sSXP' Bege folgende Botschaft:
+
+
+Einfach ist relativ, es gibt auch leute die beuhaupten Windows sei
+einfach.
+
+
+Nur drei? Tausende.
+
+
+Die bereit sein nameserver für deine domain zu spielen, dir gehören
+müssen sie nicht.
+
+
+DNs ist hierachich wenn ich meinen dns-server sage such mir mal die ip
+für www.alkxetuk�rker.de raussuchen guckt der erst nach welcher
+nameserver für de zuständig ist dann fragt er den wer den für
+potenzst�rker.de zuständig ist und den nameserver fragt er dann welche
+IP www.poqphxzj�yvxa.dr hat. Wenn du jetzt die domain
+potenzst�rker.de haben willst musst du dem denic nur sagen das dein
+rechner Nameserver dafür ist.
+
+Tschüs
+  Fe*wer findet den fehler?*lix

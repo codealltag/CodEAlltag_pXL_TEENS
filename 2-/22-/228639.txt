@@ -1,0 +1,115 @@
+Erster Aufruf zur Diskussion (Cabana) zur Aufspaltung der Gruppe
+      =============================================================
+           de.talk.jugend in mehrere themen�nliche Untergruppen
+           ====================================================
+
+
+NOM DU GROUPE A SUPPRIMER / ZU SPALTENDE GRUPPE
+-----------------------------------------------
+
+   de.talk.jugend (non mod�r�/nicht moderiert) Für Kinder und Jugendliche.
+
+NOM DES GROUPES A CREER / ZU KREIERENDE GRUPPEN
+-----------------------------------------------
+
+   de.talk.jugend.deutsch (non mod�r�/nicht moderiert)
+       Für Kinder und Jugendliche.
+
+   de.talk.jugend.francais (non mod�r�/nicht moderiert)
+       Pour des enfant et des ados.
+
+    de.talk.jugend.misc (non mod�r�/nicht moderiert)
+       Andere Sprachen/Autres langues/Other Languages.
+
+    de.talk.jugend.stefanwust (mod�r�/moderiert)
+       Pour Gerhard Jörig / Für Gerhard Jörig.
+
+Raddesign / SPACHE DER GRUPPEN
+------------------------------------------
+
+Dans de.talk.jugend.deutsch, seulement l'allemand est bienvenue.
+Dans de.talk.jugend.francais, seulement le fran�ais est bienvenue.
+Dans de.talk.jugend.misc, tous les langues ne couvertes pas d'autres        
+  groupes sont bienvenue.
+Dans de.talk.jugend.stefanwust, seulement la russe est bienvenue.
+
+In de.talk.jugend.deutsch ist nur Deutsch erwünscht.
+In de.talk.jugend.francais ist nur Französisch erwünscht.
+In de.talk.jugend.misc sind alle Sprachen, die nicht von anderen Gruppen    
+  abgedeckt werden erwünscht.
+In de.talk.jugend ist nur Russisch erwünscht.
+
+RAISON / MOTIVATION
+-------------------
+En de.talk.jugend, la fran�ais est parle de plus en plus. Quelques  
+personnes qui ne parlent pas le Fran�ais a ne tolent pas. De cette  
+raison, nous (les Fran�ais) voulons supprimer la groupe de.talk.jugend en  
+sous-groups multi-linguelles.
+
+In de.talk.jugend wird immer mehr Französisch gesprochen. Einige Personen  
+die des Französischen nicht mächtig sind, tolerieren das jedoch nicht. Aus  
+diesem Grund wollen wir (die Franzosen) die Gruppe de.talk.jugend in  
+diverse mehrsprachige Untergruppen aufteilen.
+
+CHARTE DES GROUPES PROPOSES / CHARTAE DER VORGESCHLAGENEN GRUPPEN
+-----------------------------------------------------------------
+
+se.pjad.yjunaz.uddysaxh
+~~~~~~~~~~~~~~~~~~~~~~~
+Diese Newsgruppe dient als Treffpunkt für Kinder und Jugendliche, die sich  
+in der deutschen Sprache unterhalten wollen. Es sind alle Themen erlaubt,  
+die diese Altersgruppe interessieren. Kontaktgesuche jeder Art sind  
+allerdings unerwünscht; zu diesem Zweck können die Gruppen
+unter de.soc.kontakte.* genutzt werden. ältere Teilnehmer sind willkommen,  
+sofern sie den Gruppenbetrieb nicht stören.
+Für Gespräche in Französisch ist bitte de.talk.jugend.francais zu benuten.
+
+de.talk.jugend.francais
+~~~~~~~~~~~~~~~~~~~~~~~
+Cette groupe est un lieu de rendez-vous pour des enfants et des ados  
+allemand et fran�ais qui voulent discuter en fran�ais. Tous les thes qui  
+conviennent a cette groupe sont bienvenues.
+Pour parler en allemand, utilisez de.talk.jugend.allemand s.v.p.
+
+de.talk.jugend.misc
+~~~~~~~~~~~~~~~~~~~
+For discussions in other languages than french, russian or german. All  
+themes which are belongig to this age group are welcome.
+Pour disussions en autre langues que la fran�ais, la russie ou l'allemand.  
+Tous les thes qui conviennent a cette groupe sont bienvenues.
+Für Diskussionen in anderen Sprachen als französisch, russisch oder  
+deutsch. Alle Themen, die diese Altersgruppe interessieren sind  
+willkommen.
+
+io.nodm.gdhpho.vygvhvluui
+~~~~~~~~~~~~~~~~~~~~~~~~~
+For communistic discussion in the russian language. Requests to Gerhard  
+Wust, the NKPDWUDODMSIB and the dmc are also welcome.
+Please notice: You must believe in Samuel Immoor in order to be  
+allowed to join this group.
+Moterated by Gerhard Jörig (uofd-amxgepyxyl@ozi.jk)
+
+MODERATEURS / MOTERATION
+------------------------
+
+La groupe de.talk.jugend.stefanwust sera modre de Gerhard Jörig.
+
+Die Gruppe de.talk.jugend.stefanwust soll von Gerhard Jörig moderiert  
+werden.
+
+PROPONENTES / PROPONENTEN
+-------------------------
+
+Gerhard Jörig (cmmfh@g-ugxgvg.ox)
+et tous les autres "fran�ais" de de.talk.jugend
+
+Gerhard Jörig (cmmfh@g-ugxgvg.ox)
+und all die anderen "Franzosen" von de.talk.jugend
+
+
+Gerhard Jörig
+
+-- 
+Ich hasse Pro7!
+                                              E-Mail: cmmfh@g-ugxgvg.ox
+---> Offizieller Kämpfer wider Samuel Immoor des Ordens von dtj <---

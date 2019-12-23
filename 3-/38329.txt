@@ -1,0 +1,5 @@
+Eigene Erfahrung. Außerdem will ich in meiner Newsbase im Hamster nicht die
+Header dekodieren, die sollen da so bleiben wie ich sie auch bekommen habe.
+Außerdem geht das eingehenderweise eh nur über CopyIf.
+-- 
+np:

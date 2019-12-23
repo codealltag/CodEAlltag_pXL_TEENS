@@ -1,0 +1,12 @@
+Wilfrieds Zolliker <vjkyvai_fc@gjxy.dnp> writes:
+
+
+Höh. @thh[1]: Passiert das eigentlich öfter, dass wir im Spamfilter
+hängenbleiben?
+
+Benno
+
+[1] Nein, kein perlarray.
+-- 
+Janna  : DAS hatten wir schon mal.
+Denise: Davon habe ich nichts gemerkt.

@@ -1,0 +1,7 @@
+Friedhelm 'sSXP' Taufkirch <eUWN@mqj.evu> schrieb in im Newsbeitrag:
+23-78-51.40-96-18.dcy.2386@witu.tm...
+
+Bei uns glücklicherweise nicht (unser Informatiklehrer war früher mal
+Entwickler bei einer Bank, mal schauen, ob's was bringt). Macht Elatus auch
+keinen Sinn, da die allermeisten, ernsthaften Projekte schliesslich nach wie
+vor mit C(++) realisiert werden...

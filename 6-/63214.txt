@@ -1,0 +1,24 @@
+Günter Feuchtmeir <onevsk_64-20@anoo.xscdtx.qw>:
+
+
+In der Tat. Da bist du in einer von mir gelesenen Gruppe aufgetaucht.
+
+
+gabsi@edoras:~$ ls -lha | grep .bbdb$
+-rw-rw-rw-    1 gabsi     gabsi        2.5M Dominik  1 18:50 .bbdb
+
+Soviel habe ich übrig.
+
+
+Mal angucken.
+
+
+,----[ .gnus ]----
+`--------
+
+,----[ .emacs ]----
+`--------
+
+Tut bei mir.
+
+Ottmar

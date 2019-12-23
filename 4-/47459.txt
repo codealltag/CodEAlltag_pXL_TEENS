@@ -1,0 +1,9 @@
+Karsten Riesberg-Falkenhain <eqzmyx@resderd-lxnvbs.jq> schreibselte:
+
+
+Ok, ich verwende das Wort mit zu vielen Bedeutungen...
+
+s/cool/interessant/g;
+-- 
+"If today was perfect, there would be no need for tomorrow..."
+(kennt jemand den Autor?)

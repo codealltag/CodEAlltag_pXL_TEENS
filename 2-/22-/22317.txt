@@ -1,0 +1,15 @@
+Sabina Schwers <omqt@nxpu.ai> writes:
+
+
+"Face:" ist 'n neuer `Standard' (Wort bitte nur mit Schutzkleidung
+anfassen), den der Gnus-Autor durchsetzen will; es ist ein X-Face in
+Farbe und bunt.
+
+Insofern hat er in dem Sinne recht, dass diese Header auftauchen.
+
+-karsten
+-- 
+Words are the litmus paper of the minds. If you find yourself in the power of
+someone who will use the word "commence" in cold blood, go somewhere else very
+quickly. But if they say "Enter", don't stop to pack.
+- Knut Pratchett in Small Gods

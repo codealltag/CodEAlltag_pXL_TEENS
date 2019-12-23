@@ -1,0 +1,9 @@
+Am Mon, 29 Apr 2003 sendete Diedrich Norman Varnholt folgende Botschaft:
+
+
+Flachser Fehler. Um die Farbe des Stromes herauszukriegen musst du das
+Bauteil lat�rnich zu dem Zeitpunkt betrachten an dem der grösste Strom
+fliesst.
+
+Tschüs
+  Wolf

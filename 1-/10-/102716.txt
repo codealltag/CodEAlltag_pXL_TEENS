@@ -1,0 +1,12 @@
+* fwrbbqjoxm@qkpasubcxi.mb (Ihno Petertonkoker):
+
+
+`M-q'.
+
+
+Ich brauche nicht mal was markieren. XEmacs erkennt, wo eine Zitatebene
+anfängt und wo eine anderen endet. Praktisch.
+
+Ueli
+-- 
+cross veinless

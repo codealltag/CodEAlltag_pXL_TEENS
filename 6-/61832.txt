@@ -1,0 +1,5 @@
+[pingelmode on] 
+Das ist aber typographisch nicht korrekt ;) Es müsste wenn dann 'e' oder
+'e' geschrieben werden... Letzeres wird bei euch wahrscheinlich nicht
+korrekt angezeigt.
+[pingelmode off]

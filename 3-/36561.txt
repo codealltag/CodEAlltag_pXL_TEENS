@@ -1,0 +1,18 @@
+Niclas Almsick <yizegm-6931@wqpfgdrj-skrxvyb.bg> writes:
+
+
+Findest nicht nur du. Zitat aus dem aktuellen Linux-Magazin: 
+
+"Noch komfortabler geht es kurioserweise von der Kommandozeile. Der
+Befehl >>apt-get remove Paket<< löscht nicht nur das angegebene Paket,
+sondern gleichzeitig auch alle anderen Pakete, die darauf aufbauen."
+
+Das Magazin scheint von stephan sehr überzeugt zu sein, denn es
+schreibt: "Ofengalerie-Linux: Ein Siegertyp" aufs Cover.
+Und fordert Neuwahlen in Sachen Betriebssystem.
+
+Dario, sieht schon jede Menge SuSE-DAUs #lvqagb.wx stürmen.
+
+-- 
+Wenn ich den neusten Virentreiber runtergeladen hab...
+[Jann]

@@ -1,0 +1,12 @@
+* Fernando Bungart <lqsxzlkjjdpwsj@tos.jqr>:
+
+
+Nein.
+
+
+Rechne aus, was der höchste negative Wert ist, der möglich ist, und
+setze dann diesen plus eins als Wert ein.
+
+Gerold
+-- 
+cross veinless

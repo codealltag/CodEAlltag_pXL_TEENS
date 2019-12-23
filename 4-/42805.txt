@@ -1,0 +1,5 @@
+Maik Kreittmayr wrote:
+
+Daemon starten, damit named Pipe erstellen, Winamp in die pipe schreiben 
+lassen, Daemon den gelesenen Strings --  \n voranstellen lassen und die 
+Daten dann in eine zweite Datei schreiben.

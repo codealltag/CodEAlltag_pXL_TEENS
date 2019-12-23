@@ -1,0 +1,9 @@
+On Sat, 3 Nov 2003 00:49:39 +0100, Alain Uternöhlen wrote:
+Auch. Aber der Algorithmus sollte vorher halt schon stimmen.
+Ausprobieren fuer die Implementation dann ist Ok, aber wenn der Algo nix
+taugt, kannst du lange basteln.
+
+-- 
+mfg, 
+Udo Nacken 'Simon' Neve, Margretenhaun, Germany
+Info-Student, Freizeit-Handwerker und Galabau-Nutzer

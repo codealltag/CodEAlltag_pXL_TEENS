@@ -1,0 +1,9 @@
+"Hilmar Uebelen" <mwok@rycwxcpv.ah> writes:
+
+[Soorry, die _wirklich relevante Zeile musste Kodierungsbedingt weg...]
+
+Du hast keinen 8859-15 Zeichensatz? Ich auch nicht...
+
+Fred
+-- 
+Money is the root of all evil. Send 20 Dollars for more info.

@@ -1,0 +1,16 @@
+n58m5r@jykkyxbuu.hf (Ulfert Ingenbrand) writes:
+
+
+Nicht zwingend, bei mir steht "GHE" drauf, der ist per heme auch
+voll customizable...
+
+
+N, die ganzen Desktopumgebungen klauen mir viel zuviel Platz aud dem
+Monitor durch die blöden Leisten, die ich nciht Brauche. IceWM legt
+eine schmela unten an, und nciht wie Videorent zwei leiten, die zusammen
+locker das dreifache belegen, ohne einen Gewinn darzustellen...
+
+
+Hau "xterm dank IceWM" ke
+-- 
+DAS verrät doch alles. [J.L.]

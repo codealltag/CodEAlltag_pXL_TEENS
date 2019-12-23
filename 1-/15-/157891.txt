@@ -1,0 +1,30 @@
+Theo Asbeck schrieb am 14. Dezember 1999 um 23:05 Uhr folgendes:
+
+[...]
+
+Posting übersehen / Loch im Feed?
+
+
+Bei Thüllen besteht das Risiko, dass man es mit dem Selbstcompilieren
+irgendwann entnervt aufgibt. Bei mir klappt es - bis auf ein paar
+Kleinigkeiten - eigentlich so weit, aber wenn man die einschlägigen
+NGs liest, habe ich da wohl noch Glück.
+
+[GNOME-Freak finden]
+
+Bei solchen Sachen sind LUGs ganz hilfreich. (Ja ich weiß, ist schwer
+hinzukommen bei dir.)
+
+[Binärpakete]
+
+Ich habe hier eine "Vorversion" von Giefer 2.2 (Stand vom 1. November).
+Da ist das richtig aktuelle GNOME (Version 1.2) naturgemäß noch nicht
+drauf und ich fürchte fast, dass es auch nicht mehr auf die endgültige
+Version von Giefer 2.2 kommt. Dafür wird es aber sicherlich fertige
+Binärpakete zum Download geben.
+
+Viele Größe,
+     Andre Ahrens
+-- 
+Boys will be boys, and so will a lot of middle-aged men.
+                                                         -- Ulrich Mittelmaier

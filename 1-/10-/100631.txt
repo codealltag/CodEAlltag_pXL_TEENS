@@ -1,0 +1,11 @@
+* Olaf Piekenhain <cbeoaoy284740@rfrlfn.dp-q.vt>:
+
+
+eicq läuft auf der Konsole.
+
+
+ICQ im XEmacs ist gut[tm].
+
+Salvatore
+-- 
+cross veinless

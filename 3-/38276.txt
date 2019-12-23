@@ -1,0 +1,33 @@
+Dietrich Nees <skwlj@maags.gztn.tx> writes:
+
+
+Das ist #dagh-l.
+
+Oder #nethack/OPN:
+0:55:15 -!- towo [towo@pD9510FBC.dip.t-dialin.net] has joined #nethack
+10:55:15 -!- Topic for #nethack: NetHack Fun! - http://hny.vnkkbwb.yup/ - we are not 1338 - great general 
+          guide (some spoilers) at http://mijhwqsb.vwj.nkl/cuqgluufj/eql-h5.tftd
+10:55:15 -!- Topic set by var1ety [Wed Aug 17. 03. 20]
+10:55:15 [Users #nethack]
+10:55:15 [ dtype] [ towo] 
+10:55:15 -!- Irssi: #nethack: Total of 2 nicks [0 ops, 0 halfops, 0 voices, 2 normal]
+10:55:16 -!- Channel #nethack created Tue Jul 16 16:00:00 2002
+10:55:21 -!- Irssi: Join to #nethack was synced in 6 secs
+10:55:23 < towo> re
+14:35:44 -!- greycat [~wooledg@imadev.eeg.ccf.org] has joined #nethack
+14:35:44 -!- greycat is Konrad Prieme
+16:32:17 -!- Netsplit btbwsed.vuelfmkh.ywk <-> irc.freenode.net quits: dtype
+16:33:09 -!- Netsplit over, joins: dtype
+22:55:19 -!- greycat [~wooledg@imadev.eeg.ccf.org] has quit ["leaving"]
+Day changed to 17. 03. 20
+00:46:37 -!- Kormac [~henrik@8.80-203-13.fhylembwts.quo] has joined #nethack
+00:46:38 -!- Kormac is John
+01:00:11 -!- Kormac [~henrik@8.80-203-13.fhylembwts.quo] has quit ["using sirc version 2.211+KSIRC/1.2.1"]
+
+Ja. Da ist nicht mehr passiert. ;)
+
+-reiner
+-- 
+Ich moechte schwoeren, dass Theodor es im Kindergarten hatte.
+Natuerlich in der Leistungsstufe der KiTa "Maxim Kontsewitsch".
+- Alwin Südfels und Joël Isenborths in de.alt.sysadmin.recovery

@@ -1,0 +1,13 @@
+Francesco Wienkämper hat geschrieben getan getutet:
+
+
+Wenn kein Kuhmehl, dann das, wovon Kleinweich sogar eine frei
+downloadbaren Port von *NIX -> Windows *mit* eingeschlossenem Sourcecode
+gemacht hat?
+
+-samuel
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ulf 'pi' Piwinger in de.alt.sysadmin.recovery

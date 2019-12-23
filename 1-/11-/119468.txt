@@ -1,0 +1,8 @@
+* Clemens Gelbhaar <ensojrtwwcmwtm@ayr.qtf>:
+
+
+Ein tolles Komprimierungsverfahren.
+
+Felix, kennt das von seinen batches
+-- 
+cross veinless

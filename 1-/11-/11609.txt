@@ -1,0 +1,16 @@
+Kay 'Meep' Richter <LONWMHXMHUOM@wcfvwyunb.rek> teilte folgendes
+mit:
+
+["Bochs"]
+
+Hmm, kann ich mir denn damit auch aus meinem P-III mit 650 MHz einen
+P-IV mit >3 GHz emulgieren?
+
+-be,
+sowas sollte man mal entwickeln :)
+
+-- 
+Karlheinz's Hierarchien u. Organisationen:
+4.2 - In jeder Organisation gibt es eine bestimmte Anzahl von Positionen,
+      die mit Versagern besetzt werden müssen. Folge: Sobald ein Versager
+      aus einer Organisation ausscheidet, muß ein neuer eingestellt werden.

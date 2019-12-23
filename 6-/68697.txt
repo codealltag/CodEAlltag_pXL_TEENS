@@ -1,0 +1,8 @@
+Wiebke Pfeifferling wrote:
+
+$ alias grep g
+
+
+Hm? Wieso willst du die * hintendran haben?
+
+Matthias

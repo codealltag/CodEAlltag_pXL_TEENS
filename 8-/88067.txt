@@ -1,0 +1,18 @@
+Am Tue, 23 Sep 2001 sendete Veit Gewende folgende Botschaft:
+
+[vim]
+
+Soll ich dir meine Schlepptop-tastatur leihen?
+
+
+Im Posting? Mit H.
+
+
+':set paste' und dann C&P oder ':r $DATEINAME' und dann noch 
+#v+
+davor und
+#v-
+dahinter.
+
+Tschüs
+  Karl

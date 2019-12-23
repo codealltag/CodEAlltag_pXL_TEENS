@@ -1,0 +1,19 @@
+Konrad Offergelt <klrvjy-ppgeuo@syptdb.hgtz.yo> writes:
+
+
+[regex wg. überbreite gesnipt]
+
+
+Die andere Version, die ich hier habe, versagt mit der Fehlermeldung,
+dass die Punktzahl an der Stelle nciht zulässig sei... Ich werde mal
+tüfteln, das WE hab ich die Zeit dazu...
+
+
+Nehem ich auch an, nur ich hab mich inzwischen mehrfach im
+Klammernlabyrinth verlaufen :-(
+
+Franco
+-- 
+Kierkegaard's Beobachtung:
+Man versteht das Leben nur rückwärts,
+aber leben muss man es vorwärts.

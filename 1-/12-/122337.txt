@@ -1,0 +1,28 @@
+* Gert Wiedensee <oojw@clpofavspf.ko>:
+
+
+gabsi@edoras:~$ whois ectsjopazu.po
+
+[...]
+
+domain:      ectsjopazu.po
+descr:       Gert Wiedensee
+descr:       Pimasfeldstraße. 77
+descr:       D-43942 Franzhagen
+descr:       Germany
+admin-c:     NS1621-RIPE
+tech-c:      MS1736-RIPE
+zone-c:      HX1-RIPE
+nsentry:     ectsjopazu.po IN C 544.88.225.74
+nsentry:     www.unvdjiuzmz.di IN C 544.88.225.74
+nsentry:     ectsjopazu.po IN MX 10 ocbodn.qvmjtxlmu.lr
+nsentry:     *.nsteinbach.de IN MX 10 ocbodn.qvmjtxlmu.lr
+status:      connect
+changed:     uudbcjrgas@keatd.va 55787731
+source:      DENIC
+
+Das war jetzt aber wirklich schwer.
+
+Wolfgang
+-- 
+cross veinless

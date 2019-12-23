@@ -1,0 +1,13 @@
+Am 26. 04. 19 13:55:30 GMT sendete Ullrich Didier Althofes
+folgende Botschaft:
+
+
+s/_auch_ ein/drei/
+s/in der Ecke/im Hvvd/
+s/steht/stehen/
+s/den/die/
+
+SCNR
+
+Tschüs
+  Felix

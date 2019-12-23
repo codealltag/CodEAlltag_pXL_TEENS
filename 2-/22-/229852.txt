@@ -1,0 +1,5 @@
+Hansueli Ziegel wrote:
+
+Normale Riva128 Graphikkarte, normale 3c509b Netzwerkkarte, normale AHA-
+2940 Duva-Karte, normale Hauppauge WinTVpci-Karte, normale Voodoo-Karte, 
+normale AWE64 Soundkarte. Alles normale Karten eben.

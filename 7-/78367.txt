@@ -1,0 +1,15 @@
+Am Tue, 06. 04. 19 sendete Gilbert Felner folgende Botschaft:
+
+
+Da wo jetzt news steht. ;)
+
+
+OUBV-standard ist es einfach $NNTPSERVER entsprechend zu setzen.
+
+Tschüs
+  Ulrich
+-- 
+Die Weisheiten des Juppi Jup: #6
+
+Am Hagener Bahnhof haben sie zwar eine Tür geöffnet,
+aber dafür sind die Strassen dicht.

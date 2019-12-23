@@ -1,0 +1,14 @@
+Hallo Vincenzo
+
+Quote [ Vincenzo Mühlstädt * Mon, 30 Okt 2002 14:30:31 +0200 ]
+
+
+Letzteres...
+
+CU
+ Fritz
+
+-- 
+Fachbegriffe der Informatik einfach erklärt
+87: CIDR 
+    Die dezimale Quersumme der binären Repräsentation der Netzmaske. (Denis)

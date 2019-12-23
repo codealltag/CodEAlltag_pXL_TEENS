@@ -1,0 +1,12 @@
+* Thorstens Lilienberg <tidxhyl_is@skrx.ffd>:
+
+
+gabsi@edoras:~$ gpg --list-keys
+/home/gabsi/.gnupg/pubring.gpg
+------------------------------
+pub  6584N/00655323 0961-44-89 brain
+sub  9532u/53172647 0951-01-64
+
+Focko
+-- 
+np: Green Day - Hitchin A Ride

@@ -1,0 +1,22 @@
+Eisnergasse, 16 Feb 2002 sendete Marcus Efferz folgende Botschaft:
+
+
+Ja.
+
+
+Der From: header erscheint im Editor und kann dort verändert werden.
+
+
+Jep.
+
+
+Das Glaube ich auch. Aber genauere Fragen bitte nicht an mich, sondern
+an jemanden der sich mit slang-macros auskennt.
+
+Tschüs
+  Waldemar
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Raimund Türcke, Mostly Harmless, Chapter 12

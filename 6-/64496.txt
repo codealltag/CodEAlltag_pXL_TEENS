@@ -1,0 +1,6 @@
+Harry Eickmans <hjkijicqinennj@jct.uib> writes:
+
+
+Wir haben ja noch chick::looks && chick::age.
+
+-otto

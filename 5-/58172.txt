@@ -1,0 +1,18 @@
+Es war der 6. August 2001 als Gerds Altnickel meinte:
+
+
+Ja die bbdb regelt. Hab mir jetzt ein Lisp-Schnippsel besorgt, was mir
+auch die letzten 5 Subjects anzeigt. Standard ist ja immer nur der
+letzte, das macht natürlich wenig Sinn. Reply-To werte ich zusätzlich
+auch noch aus.
+
+
+Ist das überhaupt möglich? Gnus musst die Adressen ja auch verarbeiten
+können.
+
+Berend
+-- 
+43rd Law of Computing:
+	Anything that can go wr
+fortune: Segmentation violation -- Core dumped
+-- fortune

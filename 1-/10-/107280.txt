@@ -1,0 +1,14 @@
+Und so sprach Bernd Flasshaar:
+
+
+Dafuer hat gestern jemand das MAkefile gelobt. ;)
+
+
+cd /usr/pkgsrc/news/slrn/ && make && make install
+
+... jep. ;)
+
+Gruss,
+Ivano.
+-- 
+.  . _ ___ _  _  _

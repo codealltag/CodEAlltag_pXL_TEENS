@@ -1,0 +1,8 @@
+Seelig sind die geistig Armen... <eg>
+
+C Ya,
+Cédric
+-- 
+*arghl*
+Wie bekommt man das RedHat-Installationsprogramm dazu, Teile
+Installation in usr/local abzulegen?

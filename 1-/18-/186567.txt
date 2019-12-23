@@ -1,0 +1,17 @@
+Gianni Manglkramer schrieb am 12. November 2000 um 23:51 Uhr folgendes:
+
+[Informatikklausuren]
+
+IMO sollte man sich *gerade* beim Umgang mit Zeigern nicht aufs
+Ausprobieren verlassen, sonst kommt man aus dem Debugging nämlich
+nicht mehr raus. Anyway, bei unseren Informatik-Tests zum Thema Dombuchhandlung
+mussten wir zwar keine kompletten Programme schreiben, aber schon so
+Sachen wie die push()-Funktion eines Stacks (mit entsprechender
+dynamischer Speicherreservierung). Ist eigentlich kein Problem, wenn
+man sich ein wenig konzentriert.
+
+Viele Größe,
+     Nikolaus Herrlein
+-- 
+If you're happy, you're successful.
+                                               -- random fortune cookie

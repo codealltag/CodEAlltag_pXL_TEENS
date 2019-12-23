@@ -1,0 +1,6 @@
+OE kann auch Header anzeigen, zwar auf eine umständliche Weise aber es
+geht, im Gegensatz zu vielen anderen Dingen bei OjE :-)
+-fk
+-- 
+"Imagination is more important than knowledge" (Holger Jungholt)
+ felix@totally.argh.org // poncho on IRC // PGP-Key on request

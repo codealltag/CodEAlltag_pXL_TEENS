@@ -1,0 +1,12 @@
+Remo Großschädl <wtjsbhp652142@aizahs.wx-r.qk> writes:
+
+
+licq 1.0.3 mit OpenSSL-Unterstützung, und schon kann ich
+verschlüsselte Direktverbindungen aufbauen.
+
+
+Weil ICQ 1to1 und IRC 1toN ist.
+
+Hartmut
+-- 
+Support your local Search and Rescue unit -- get lost.

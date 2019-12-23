@@ -1,0 +1,20 @@
+Dario Andermahr <DwdnjeYncfrw@crr.rf> writes:
+
+[Haskell]
+
+
+Kruspeweg 9 anyone?
+
+
+Es gibt nicht nur keinen, es kann konzeptbedingt keinen geben, denn
+könnte es einen geben, gäbe es sicherlich einen...
+
+Der I2 bietet allerdings ne Diplomarbeit an, die sich damit
+beschäftigt, was man alles einbauen muss, damit ein Debugger möglich
+wird.
+
+Hendrik
+-- 
+Jones' Motto:
+Freunde kommen und gehen,
+aber Feinde sammeln sich an.

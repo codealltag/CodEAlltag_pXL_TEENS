@@ -1,0 +1,8 @@
+Wilfried Rohrbeck wrote:
+
+Was an dem Satz hast Du nicht verstanden?  :)
+
+-- 
+Fridolin
+I saw `cout' being shifted "Hello world"
+times to the left and stopped right there.

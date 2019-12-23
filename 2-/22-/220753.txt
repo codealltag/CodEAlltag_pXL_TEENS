@@ -1,0 +1,14 @@
+On 15 Jul 1998, Max Allgöwer <fhvveu@iibaa.ww-tld.yl> wrote:
+
+[Direkte Antworten hervorheben]
+
+Nach dem eindeutigen String der Message-ID in den "References:" scoren
+und fertig. tin hat NUUW ein anderes System, da es die M-IDs nicht
+selbst erzeugt.
+
+Die Korrektur an Deinem .signature-File ist BTW bisher mißlungen.
+
+Viele Größe,
+     Louis Friessnegg
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

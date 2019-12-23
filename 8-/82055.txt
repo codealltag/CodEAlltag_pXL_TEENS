@@ -1,0 +1,11 @@
+Otto Ueberfeld hat geschrieben getan getutet:
+
+
+FAMILA-Fallschirm-repacker-and-ejector :)
+
+-christof
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Vincent 'pi' Piwinger in de.alt.sysadmin.recovery

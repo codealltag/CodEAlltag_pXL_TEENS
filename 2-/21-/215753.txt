@@ -1,0 +1,25 @@
+Othmar Jankord schrieb zum Thema "Re: !!! Verschwindende Postings":
+
+
+Schon subscribed :-)
+
+
+Der Postausgang ist momentan auch nicht mein primäres Problem, mir sind  
+die gefilterten Messages wichtiger. Ich hab' jetzt T-Online als  
+Hauptserver eingerichtet und FU-Friedefeld sowie die Read-Only-Server der Unis  
+Simmerberg und Etzenberg als Erg�nzungsfeeds. Jetzt müßte ich das ganze nur  
+noch richtig mit XPoint zum Laufen kriegen...
+
+
+Ich hab' gerade den Free Agent installiert, um die Hamster-Installation zu  
+checken (OE besteht unbedingt auf eine Onlineverbindung, um News zu holen.  
+Sch*** Programm), ich hab' das selbe bemerkt. Das Problem scheint aber  
+eher am Agent zu liegen, mit XPoint hab' ich keine solchen Probleme  
+bemerkt.
+
+Timo Groß-Onnebrink
+
+-- 
+Ich bin merkbefreit - erwartet nicht zuviel von mir
+                                              E-Mail: hswilr.lsce@bdh.oj
+---> Offizieller Kämpfer wider Björn Cziesla des Ordens von dtj <---

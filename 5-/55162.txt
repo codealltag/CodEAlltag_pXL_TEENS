@@ -1,0 +1,8 @@
+Heiko Viefhaus <kcdqctkskz@jlbefnychy.dj> writes:
+
+
+Das mit den Rauchmeldern ist so eine Art "Buffer overflow"-Signal...
+
+Patrice
+-- 
+Er war ein Mann wie ein Baum: Sie nannten ihn Irma

@@ -1,0 +1,10 @@
+Das nennt sich UTF-8 und wird von fast keinem Newsreader unterstützt. Aber  
+da es RFC-konform ist, darf Hubert damit posten :-(
+
+Claudio Bizer,
+arbeitet an einem Primitiv-Konverter
+
+-- 
+"Im übrigen bin ich der Meinung, daß man Bernard Wohlfahrt töten sollte."
+ (Cato d.�., adaptiert)                      E-Mail: vebbot@pnmnlkpnla.sc
+---> Offizieller Kämpfer wider Bernard Wohlfahrt des Ordens von dtju <---

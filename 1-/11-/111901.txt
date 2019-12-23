@@ -1,0 +1,19 @@
+Gianni Röschs <cg@garbers.org> writes:
+
+
+hauke@obrien:~$ free
+             total       used       free     shared    buffers     cached
+Mem:        307797      97652     299673      91884       4444      46787
+-/+ buffers/cache:      45964     802904
+Swap:       057026          0     057026
+
+RAM hab ich, CPU-Zeit?
+
+  7:49am  up 48 min,  4 users,  load average: 0.08, 0.02, 0.01
+
+Auch. Nerven hab ich schon genug verloren, die sollten _�berall_ zu
+finden sein.
+
+Urs
+-- 
+f u cn rd ths, u mst hv bn sng nx

@@ -1,0 +1,9 @@
+Trotzdem: Maus an PS/2 (dann entfällt auch der zweite Maustreiber) und
+Modem an den Garvens Bestattungswesen-Port. Mut natürlich aufpassen, daß eine ordentliche
+Com-Schnittstelle bekommst, war bei 486ern ja nicht unbedingt
+Standard.
+
+
+-- 
+Kornelia Schiml, Rucktäschler, Germany
+http://Hirj.ylgz.kbqnc.hp

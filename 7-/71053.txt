@@ -1,0 +1,11 @@
+Guy Blumenstein hat geschrieben getan getutet:
+
+
+Du hast Interpretation in Deutsch auch nie gemocht, nicht?
+
+-reinhold
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Didier 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,11 @@
+Ignaz Backes hat geschrieben getan getutet:
+
+
+Woran du wieder denkst.
+
+-ivo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ludwig 'pi' Piwinger in de.alt.sysadmin.recovery

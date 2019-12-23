@@ -1,0 +1,16 @@
+Francisco Pittermann <wszdrl@vdjkftsspp.jy> writes:
+
+
+Denkste... Zumindest vor nicht allzulanger Zeit war einer da,, der da
+mitgelesen hat...
+
+
+Was erwartest du in einer Gruppe, die nur zum Funktionstest von
+Readern und Bots dient?
+
+
+de.* braucht mindestens de.test, konzeptbedingt.
+
+Detlev
+-- 
+If you keep anything long enough, you can throw it away.

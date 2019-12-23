@@ -1,0 +1,14 @@
+Also sprach Otmar Zieme <wzdiuc@zaardaysqz.go>:
+
+
+Sprachen, die Funktionen als first-order-objects haben.
+
+Damit wird dann so etwas möglich:
+
+(define (addn n)
+  (lambda (x)
+    (+ x n)))
+
+Viel Spaß dabei, so etwas in C nachzubilden...
+
+Ihno

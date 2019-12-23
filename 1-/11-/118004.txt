@@ -1,0 +1,10 @@
+* Berthold Wilfarth <pndlerz676682@xihhxf.gf-c.gp>:
+
+[es geht um begin/end IIRC]
+
+Vorsicht, sonst ärgerst du wieder Leute, die mal einen anderen Reader
+ausprobieren. Das wollen wir doch nicht. :)
+
+Enno
+-- 
+cross veinless

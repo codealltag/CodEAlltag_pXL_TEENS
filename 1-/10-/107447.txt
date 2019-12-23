@@ -1,0 +1,13 @@
+Am Fri, 18 Aug 2000 sendete Norbert Kuckherm folgende Botschaft:
+
+
+Ist kein teil von innd afaik, da musst du schon die manpage vom nnrpd
+befragen.
+
+
+Mein regexp dürfte auch nicht alzu kurz sein.
+
+Tschüs
+  Theodor
+-- 
+Notorisch Schreibfaul.

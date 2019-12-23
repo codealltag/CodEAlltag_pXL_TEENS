@@ -1,0 +1,8 @@
+Werd ich bei Gelegenheit mal probieren. Hatte zumindest erhebliche
+Probleme letztens die *.rpm für Suse zu installieren. Immer fehlten
+irgendwelche libraries. 
+
+ Hansueli
+
+-- 
+"Freedom's just another word for nothing left to lose"

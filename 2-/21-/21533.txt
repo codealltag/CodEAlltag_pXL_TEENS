@@ -1,0 +1,10 @@
+Und so sprach Urs Dallmann:
+
+
+There's one thing left to do: Grapefruit diet!
+
+Ottmar
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

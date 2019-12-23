@@ -1,0 +1,11 @@
+Roberto Kuhlwein <oydnbvr349853@frsswt.cn-g.uf> writes:
+
+
+Richtig. Ist aber dank der seriellen Abarbeitung im Prinzip das, was
+oben beschrieben wurde.
+
+Norman
+-- 
+Es gibt keine Wirklichkeit. Nur unsere persönliche Ordnung,
+die wir allem aufgeprägt haben.
+[Die Ordensburg des Wüstenplaneten]

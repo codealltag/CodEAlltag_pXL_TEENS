@@ -1,0 +1,11 @@
+Karl Paetzoldt hat geschrieben getan getutet:
+
+
+Tribes 2 laeuft unter Linux 20% besser als unter Windows.
+
+-luciano
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Tim 'pi' Piwinger in de.alt.sysadmin.recovery

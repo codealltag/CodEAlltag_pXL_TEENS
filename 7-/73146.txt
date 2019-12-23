@@ -1,0 +1,11 @@
+Oskar Isermann hat geschrieben getan getutet:
+
+
+Nach MS schon.
+
+-oswald
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Gebhard 'pi' Piwinger in de.alt.sysadmin.recovery

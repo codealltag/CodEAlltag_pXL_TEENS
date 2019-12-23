@@ -1,0 +1,11 @@
+Ronny Diepenbroick-Grüter hat geschrieben getan getutet:
+
+
+Stimmt, die vi-Nutzer koennen einfach nix dafuer.
+
+Paolo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Markus 'pi' Piwinger in de.alt.sysadmin.recovery

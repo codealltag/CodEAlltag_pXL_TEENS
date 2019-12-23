@@ -1,0 +1,12 @@
+Tim Immerheiser hat geschrieben getan getutet:
+
+
+Ich würde mal sagen, er sollte den Artikel dann *richtig* kodieren, und
+nicht dann einen Satz als eine weitere Nachricht abkapseln.
+
+-siegfried
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Günter 'pi' Piwinger in de.alt.sysadmin.recovery

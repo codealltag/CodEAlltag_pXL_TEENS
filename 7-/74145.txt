@@ -1,0 +1,11 @@
+Serge Eimermacher schrieb:
+
+
+Die soll doch besser gegessen werden.
+
+Berend
+
+-- 
+Mac-OS:
+  "Der Arbeitsspeicher reicht nicht aus. Es werden 1,2 MB benötigt.
+   Vorhanden sind aber nur 1,3 MB."

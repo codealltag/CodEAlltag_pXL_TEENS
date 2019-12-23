@@ -1,0 +1,5 @@
+Thierry Iskraut schrieb:
+
+Das ganze Zeug an sich. lpr ist lpr ist lpr. Ausser, es geht um
+FürUns-Shop-lpr und lprng-lpr und cups-bsd-lpr. Die sind naemlich alle
+unterschiedlich.

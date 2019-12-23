@@ -1,0 +1,12 @@
+Rolf Ohlen hat geschrieben getan getutet:
+
+
+Passt drunter durch.
+Aber in den netdigest kam's irgendwie trotzdem.
+
+-clemens
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Lothar 'pi' Piwinger in de.alt.sysadmin.recovery

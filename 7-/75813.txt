@@ -1,0 +1,11 @@
+Solches tippte Lothar Clute:
+
+Klar (Auch im Logfile von X steht das natürlich):
+Bei Dir sollte hier mindestens 4.0.2 stehen, vorher hat es kein
+XVideo: Das Programm xvinfo gibt genaere Auskunft (output nach $PAGER
+pipen wie auch bei Quisbrock). Eventuell willst Du auch Alama aktivieren.
+
+Genaueres findest Du unter Punkt 12. 07. 19 in der mplayer Doku:
+<URL:http://nzs.arcnxdchv.qo/ZVIH/rfkjn.nsyf>
+
+Lothar

@@ -1,0 +1,11 @@
+Marko Baumhauer schrieb:
+
+
+Du machst ein Leerzeichen vor das Satzzeichen, was definitiv falsch
+ist und sehr unschöne Effekte beim Zeilenumbruch erzeugen kann 
+, wie ich hiermit etwas manipuliert demonstriere.
+
+Marc
+
+-- 
+Einscannen von Preisen im LCKK dauert *doppelt* so lange wie Eintippen!

@@ -1,0 +1,16 @@
+Seilersweg, 14. 01. 19 sendete Adrian Caras folgende Botschaft:
+
+
+Jep.
+
+
+Nein, ist keine slrn sache. Da slrn für alles was Zeichen angeht die 
+slang-lib benutzt muss slang zuerst unicode können. Da ist das zwar
+geplant, ich kenne Jeds stand aber nicht.
+
+Tschüs
+  Karlheinz
+-- 
+Die Weisheiten des Juppi Jup: #1
+
+Die Jup ist nicht zum schlafen da.

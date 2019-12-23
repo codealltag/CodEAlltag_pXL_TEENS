@@ -1,0 +1,4 @@
+Anton Unsölds <cg@garbers.org> writes:
+
+
+Olivier Willikens message-utils.el enthält etwas in der Richtung.

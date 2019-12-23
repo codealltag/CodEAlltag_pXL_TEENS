@@ -1,0 +1,84 @@
+Hallo,
+
+Hier ist wieder eine gekürzte Fassung dessen, was statnews zum
+vergangenen Monat sagt. Für das Problem mit den falsch kodierten
+"Subject:"-Headern habe ich inzwischen einen Workaround entwickelt,
+allerdings ist weiterhin das Eintreffen auf meinem System
+ausschlaggebende für die Zuordnung zum Monat Dezember.
+
+Die 20 "erfolgreichsten" Threads (v.l.n.r.: Gesamtzahl Postings,
+Postings pro Tag, Anteil an allen Postings):
+
+  1) Neu-Ankündigung!......................................: 1168 40,3 17,1%
+  2) Nett, warm und gemütlich..............................: 791 27,3 11,6%
+  3) Hallo wen gibt den in dieser NG alles so ?............: 308 10,6  4,5%
+  4) her mit dem sinnlosen gelaber.........................: 257  8,9  3,8%
+  5) Quirine I miss you.....................................: 246  8,5  3,6%
+  6) Der erste Kurzurlaub des Jahres.......................: 221  7,6  3,2%
+  7) 1. RfD: Loeschung von de.talk.jugend..................: 219  7,6  3,2%
+  8) STEFAN WURST!!!!!!!...................................: 217  7,5  3,2%
+  9) Der erste Reiter der Apokalypse.......................: 207  7,1  3,0%
+ 10) Ulsperger King macht wieder vergleichende Werbung........: 202  7,0  3,0%
+ 11) Suche jugend..........................................: 140  4,8  2,0%
+ 12) AAAAAAAH!.............................................: 138  4,8  2,0%
+ 13) JUP - Die Party Mailingliste..........................: 392  4,3  1,8%
+ 14) Bier bei Tim Denzl...................................: 123  4,2  1,8%
+ 15) Hallo Leute :-) Ich bin drin!.........................: 123  4,2  1,8%
+ 16) wer ist Ubbine G.??...................................: 120  4,1  1,8%
+ 17) Weltverschwoerung.....................................: 119  4,1  1,7%
+ 18) Ein Tag, der das Ende bedeutet?.......................: 117  4,0  1,7%
+ 19) FANG 2000 space invaders..............................: 106  3,7  1,5%
+ 20) Ich bin wieder weg....................................:  96  3,3  1,4%
+
+Die 20 "mitteilungsbed�rftigsten" Poster (v.l.n.r: Gesamtzahl Zeichen,
+Zeichen pro Tag, Anteil am Gesamttraffic):
+
+  1) Nane Boeschl.....................................: 5689709 07615,4 26,1%
+  2) Ubbine Hühnerfuß................................: 404833 75612,3 10,2%
+  3) Tobias Retterath..................................: 653894 41347,5  9,8%
+  4) Sandro Gresser................................: 730327 44231,0  8,7%
+  5) Francesca Maixner..............................: 435977 32880,8  8,4%
+  6) Thorsten Nimtschke..................................: 926477 15401,0  7,8%
+  7) Tobias Brochloß..............................: 147411 55791,5  7,7%
+  8) Nane 'SSXP' Niekerken............................: 445829  8805,1  6,6%
+  9) Valentino Gündel.............................: 692256  4308,4  3,2%
+ 10) Niclas Bartosch..............................:  96981  3436,6  2,6%
+ 11) Wilfried Noerenberg.................................:  24703  1800,9  1,4%
+ 12) Sandro Niklasch..................................:  76824  1343,9  1,0%
+ 13) Valentino Pflughaupt....................................:  15401  1130,1  0,9%
+ 14) Theo Mönchhalfen...................................:  06170   930,5  0,7%
+ 15) Meinhard Oberste.................................:  04651   883,6  0,7%
+ 16) Brigitta Kohlhammer..................................:  62121   777,3  0,6%
+ 17) Albin Meinecke...................................:  59081   725,8  0,5%
+ 18) Boje Weiers................................:  72842   570,2  0,4%
+ 19) Tobias Nothdurft................................:  29556   528,9  0,4%
+ 20) Tim Nortorf.................................:  50099   419,3  0,3%
+
+Die 20 "quotteligsten" Poster (v.l.n.r: Anteil gequoteter Zeilen,
+Anteil gequoteter Zeichen):
+
+  1) Karsten B...............................................: 83,3% 88,1%
+  2) André Illenseher..........................................: 72,7% 86,1%
+  3) Meike Gantef�hr..........................................: 71,9% 87,5%
+  4) NewOne...................................................: 58,1% 61,1%
+  5) Wilfried Uhlenbruck..........................................: 54,0% 62,4%
+  6) Brigitta Kohlhammer...........................................: 48,6% 66,0%
+  7) Winfried Tellbücher....................................: 48,1% 59,8%
+  8) Albin Meinecke............................................: 47,1% 54,3%
+  9) Kays Ehrenpfordt.............................................: 46,9% 50,0%
+ 10) August Ußfelder..........................................: 44,7% 58,1%
+ 11) Tobias Brochloß.......................................: 44,2% 68,8%
+ 12) Rémy Ihno...........................................: 41,4% 52,1%
+ 13) Dbraeuni.................................................: 40,9% 47,9%
+ 14) Stephan Jakoby............................................: 40,6% 52,0%
+ 15) Nane 'SSXP' Niekerken.....................................: 40,3% 58,5%
+ 16) Hansruedi Röskamp.............................................: 40,0% 61,9%
+ 17) Francesca Maixner.......................................: 39,4% 54,3%
+ 18) Macom....................................................: 37,8% 43,3%
+ 19) Wilfried Noerenberg..........................................: 37,1% 62,0%
+ 20) Thorsten Nimtschke...........................................: 36,5% 56,4%
+
+Viele Größe,
+     Sandro Niklasch
+-- 
+All true wisdom is found in signature files.

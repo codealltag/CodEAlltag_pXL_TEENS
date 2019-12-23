@@ -1,0 +1,6 @@
+(* Antoine Zeewuster wrote: *)
+
+
+Also über Java(script) lässt sich ja streiten aber wieso denn kein CSS?
+
+Roberto

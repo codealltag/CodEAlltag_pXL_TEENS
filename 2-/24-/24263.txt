@@ -1,0 +1,9 @@
+Sandro Waldemar Oemke <icc-bsos@nafnyav.ic> writes:
+
+
+make-kpkg (1)        - build Debian kernel packages from Linux kernel sources
+
+-herbert
+-- 
+circa mea pectora multa sund suspiria de tua pulchritudine que me ledunt misere
+tui lucent oculi sicut solis radii sicut splendor fulguris lucem donat tenebris

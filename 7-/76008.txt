@@ -1,0 +1,5 @@
+Lutz Eifelers <cg@garbers.org> writes:
+
+[IRC]
+
+IRC braucht _wirklich_ nicht viel Bandbreite.

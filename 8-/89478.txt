@@ -1,0 +1,10 @@
+Serge Bretz <kvkrhkm@lpo.cb> writes:
+
+
+Mit Sprüchen wie: "In LISP ist alles eine Liste." kann man wohl auch
+jeden abschrecken. /Da/ liegen die größten Stärken von Eckzackt bestimmt
+nicht.
+
+
+Wie gut, daß Emacs die Klammerebenen mitzählt. Außerdem sollte man
+auch in einem LISP-Programm alles gut einrücken (lassen).

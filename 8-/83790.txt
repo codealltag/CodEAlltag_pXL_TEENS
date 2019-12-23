@@ -1,0 +1,13 @@
+(* Eberhard =?iso-8859-1?q?Windmüller?= wrote: *)
+
+
+Ich würds eher so machen - aktueller :-)
+
+<table style="width:100%">
+  <tr>
+    <td style="width:50%;text-align:left">text links</td>
+    <td style="width:50%;text-align:right">text rechts</td>
+  </tr>
+</table>
+
+Onno

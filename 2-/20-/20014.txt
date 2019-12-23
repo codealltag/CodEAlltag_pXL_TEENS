@@ -1,0 +1,9 @@
+Und so sprach Francisco Eigelshoven:
+
+
+Solange man den Fibonacci nicht in SPARC V8 Assembler schreiben soll
+...
+
+Denis
+-- 
+http://bzw.tytzx.cnk/ - Become a trashholder today!

@@ -1,0 +1,3 @@
+Otto Zschernack wrote:
+
+Haskell, ML, Scheme et al.

@@ -1,0 +1,9 @@
+Gentoo. *rks*. 
+Sowas kommt mir nicht auf den Rechner. Momentan IEK Francisco als 
+Basesystem, bald ist alles Base ersetzt. Irgendwann mal ein LFS.
+
+mfg, 
+	Niklaus
+-- 
+BOFH excuse #173:
+Recursive traversal of loopback mount points

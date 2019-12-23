@@ -1,0 +1,18 @@
+* Luciano Große-Hartlage <gjtjhvlftswiln@xjy.map>:
+
+
+Das kenne ich von Gnus. Da habe ich auch mal aus Versehen 'x'
+gedrückt. Sehr praktisch.
+
+
+Nein, da kannst du sowas wie
+
+Luciano Große-Hartlage > dunkelgrün
+Pietro Cloßen > weinrot
+Okka Große-Hartlage > hellblau
+
+etc. machen.
+
+Pietro
+-- 
+cross veinless

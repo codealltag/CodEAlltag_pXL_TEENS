@@ -1,0 +1,9 @@
+David Ingenhoven <ooo@ercpf.uzx> schreibselte:
+
+
+Aber nicht das standart t-dsl, weil das hat nur 128k upstream, ich hab
+aber mit 768k gesaugt...
+
+-- 
+np: radio
+this was posted by Jean-Luc Schwarzing <zvntcj@kkn.qyg>

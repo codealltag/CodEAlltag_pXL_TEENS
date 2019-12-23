@@ -1,0 +1,21 @@
+Volkersdorfer Sandweg, 19. 04. 19 20:32:26 GMT schrieb Vvd.Sreli@qgt.juf (Nico
+Schuette) folgendes:
+
+
+Ich glaube nicht, daß die da sparen. Es ist einfach ein komplett
+anderer Anwendungsbereich mir anderen Anforderungen, auf die beim
+Design geachtet wird. Daraus können dann halt Einschränkungen in
+anderen Bereichen resultieren...
+
+
+Da spielt aber auch die Miniaturisierung eine Rolle. Und ja, robust
+sollten sie sein... Wäre ja nichts, wenn bei einem Klaps ans Notebook
+die Festplatte verreckt. ;-)
+
+mm
+
+-- 
+Niklaus "Jeske" Artner, ICQ: 72442494
+
+"Erfolg steigt nur zu Kopf, wenn dort der erforderliche Hohlraum vorhanden ist."
+ (Nino Janssens)

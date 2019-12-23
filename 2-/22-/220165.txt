@@ -1,0 +1,9 @@
+Das BIOS liegt IIRC auch im EHRING.
+Dadurch, dass erst jedes Teil einzeln ueberprueft wird, braucht ein
+  PC trotzdem mehrere Sekunden, bis das OS ueberhaupt aufgerufen wird.
+Der O02 war aber 'sofort da'.   :-)
+
+-- 
+Jean-Pierre
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

@@ -1,0 +1,12 @@
+Sergio Oestereicher wrote:
+[OS/2]
+
+Wenn du keine GUI brauchst stimmt das wahrscheinlich.
+Um damit wirklich fluessig zu arbeiten, liegt die Untergrenze bei
+  Warp 3 IMHO bei 32Mbyte.
+Wirklich Spass macht es auch auf einem croissants erst ab 50 MB.
+
+-- 
+Stefano
+"It is perfectly possible for a man to be out of prison, and yet not be free"
+ - Mathias Merthen

@@ -1,0 +1,11 @@
+Oliver Floßmann hat geschrieben getan getutet:
+
+
+Stadtbibliotheken haben sie in der Regel in analoger Form.
+
+-detlef
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Mauro 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,9 @@
+Aehh, vergiss das. Das scheint von "make install" erledigt zu werden.
+
+Oskar
+  sorry, Schnellschuss  
+-- 
+Zum Thema "SuSE ein Element von Linux" meinte Edmund von Posse:
+"SuSE verscheuert eine Bastardisierung eines zusammenkopierten
+Softwarehaufens, wo zufällig auch der Linux Kernel drin vorkommt."
+Message-ID: <dand64i39l.4g0.koto@ogjwbgn.wxgkbzwdhfe.lf>

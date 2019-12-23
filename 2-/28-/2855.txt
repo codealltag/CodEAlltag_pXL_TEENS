@@ -1,0 +1,6 @@
+Willy Spätauf schrieb:
+
+
+Ich fürchte, diese Newsgroup hat tail call elimination...
+
+Felix

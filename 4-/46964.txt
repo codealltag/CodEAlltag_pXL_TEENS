@@ -1,0 +1,11 @@
+Cédric Uckermann <mzzgfwouejdmnn@gid.dch> writes:
+
+[Position der Score im gnus-Summary-buffer]
+
+Fipptehler, Fipptehler, Fipptehler..
+
+-mark
+-- 
+00:34:24 < Sidious> Eines ist klar: Eher lernt man Französisch in einer
+                    Nacht als Deutsch in einem Monat ;)
+- from ycb://qnncrksddpfc/#xrlzqa.cq

@@ -1,0 +1,8 @@
+Oliver Ohlhoff <2003-06@ranta.info> writes:
+
+
+Wieso, eine Schleife, die genau ein mal durchlaufen wird. Was hast du?
+
+-ottmar
+-- 
+circa mea pectora multa sund suspiria de tua pulchritudine que me ledunt misere

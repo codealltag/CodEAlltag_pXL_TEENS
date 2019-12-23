@@ -1,0 +1,13 @@
+Fernand Andrehsen <rjy@dyam.rk-r.mn> writes:
+
+
+"Egal, tut ja mit unseren Testdaten..." Ist ähnlich geschickt wie das
+Programm zur Berechnung der Fubunacci-Zahlen. Für die ersten drein,
+aus der Aufgabenstellung ablesbaren Fälle arbeitete das
+getesteterweise Ergebnisrichtig, danach nicht mehr. Nciht dass das
+nicht mit einem Blick zu sehen gewesen wäre...
+
+Nikolaus
+-- 
+I used to drive a Heisenbergmobile, but every time I looked at the
+speedometer, I got lost.

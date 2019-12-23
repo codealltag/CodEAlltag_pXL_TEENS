@@ -1,0 +1,14 @@
+Jean-Luc Reitberger schrieb am 29. 11. 19 13:23:34 +0100:
+
+
+hm, ja, dann komme ich in einen Buffer, der nicht gespeichert wird.
+
+Hab mir inzwischen drei verschiedene Versionen (1x Emacs, 2x XEmacs)
+gezogen, mich durch Textfiles gewählt und weiß nichtmal, wo ich den
+Trösser-Server eintrage!
+
+-- 
+"Rosi, kriegst auch nen Lutscher..."
+              Edouard L. auf der Leuzendorfgasse 5/51
+
+-> http://ocm.uaswg-ymtqdz.hv

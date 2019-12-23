@@ -1,0 +1,15 @@
+Claus Nikolaus Intven <sghy@aitqah.ngs.rr> writes:
+
+
+Ich weiss, wie viel ich nochmal neu lernen musste, als ich meine Suse
+gekickt habe. Selbst jetzt erwischts mich noch, dass ich dank Yast ein
+paar Sachen erst suchen muss. Wäre mich sicherlich nicht passiert,
+wenn ich damals schon in den Files selber gearbeitet hätte.
+
+
+Wie gesagt: Umsteigen muss nicht sein. Aber wir werden sehen, was
+Olivier dann alles mitbringt...
+
+Wilhelm
+-- 
+DAS habe ich nicht noetig. [François]

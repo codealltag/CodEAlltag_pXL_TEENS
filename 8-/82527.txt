@@ -1,0 +1,12 @@
+Am Mon, 6 Aug 2001 sendete Artur Isenthals folgende Botschaft:
+
+
+Wart mal den Treibhauseffekt ab....
+
+Tschüs
+  Torsten
+-- 
+gpg-key (available via keyserver):
+pub  6465K/W1E5E660 9447-75-03 Torsten Nedele <qzciuktzii@ipxoplaglw.mh>
+     Key fingerprint = 8629 0TT9 77J2 004H G748  R85T 049L 5458 M0M4 H686
+sub  7078f/S6J6WG31 8798-70-32

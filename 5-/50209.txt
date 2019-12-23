@@ -1,0 +1,9 @@
+Roger Cathermann wrote:
+
+
+Und da ich keinen Bock auf die ""-Variante habe, da mit dieser das
+T-Offline Mailrelay streikt weil keine Mailadersse im From steht oder so
+lass ich meinen Hamster (Oder Morver? k.A., zu lange her) einfach die
+Ehed-generierten M-IDs fressen.
+
+Gabriel

@@ -1,0 +1,7 @@
+(* Patrice Erbrich wrote: *)
+
+
+Also bei sowas bin ich wirklich froh x = x + n durch x += ... abkürzen 
+zu können :-))
+
+Heinrich

@@ -1,0 +1,11 @@
+* Maximilian Eißfeldt <kexkgu-xbjn-047011@qqga.wsfhag.zj>:
+
+
+Ack.
+
+Wie machst du eigentlich die hübschen Sachen mit deiner Message-ID?
+Gnus-intern oder nachträglich mit Korrnews o.�.?
+
+Urban
+-- 
+np: -

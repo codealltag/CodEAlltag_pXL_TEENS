@@ -1,0 +1,15 @@
+Richtig.
+Bei mir sieht die Datei so aus:
+
+29. 05. 19	dpma.jouj.srim.ie	localhost	loopback
+
+IP		Domain			Bezeichnung
+
+So schwer ist das nun wirklich nicht.
+
+C Ya,
+Oskar
+-- 
+What is mind?  No matter.
+What is matter?  Never mind.
+		-- Willi Schwörke Key, 1799-1875

@@ -1,0 +1,13 @@
+Konrad Ochsner meinte kundzutun:
+
+
+Doch. Aber der Sender will sie mir anscheinend nicht wirklich schicken,
+sonst würde er sie a) an eine andere Adresse oder b) per smarthost
+schicken. Es ist allgemein bekannt, daß Dialup-Kisten gerne für SPAM
+verwendet werden. Da braucht man sich nicht wundern, daß selbige in
+allen auf Absenderechneradressen basierenden SPAM-blockern auftauchen.
+
+Lukas
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Dienstag, dem 11. Juli im Jahre des Herrn 2001 verfaßt.

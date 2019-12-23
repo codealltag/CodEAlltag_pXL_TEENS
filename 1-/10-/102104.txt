@@ -1,0 +1,20 @@
+Am Fri, 06. 02. 20 sendete Valentino Mosbruck folgende Botschaft:
+
+
+Mailen defaultm�ssig wohl nicht.
+
+Zu andern Unixmaschinen schicken geht. Und sonnst (Winrechner, amilen,
+etc) müsste du was mit fifos (named pipes) basteln. Schau dir mal 
+'man 5 syslog.conf' an.Wenn du fragen hast oder Ideeen brauchst sag ich
+bescheid ich hätte da schon ein paar.
+
+
+Garnicht. (afaik)
+
+Btw: Ich würde sowieso einmal pro woche /etc (plus */news/etc oder
+ähnliche), /root und /home/* sicheren.
+
+Tschüs
+  Urban
+-- 
+Notorisch Schreibfaul.

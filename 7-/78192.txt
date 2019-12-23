@@ -1,0 +1,11 @@
+Mario Isenbart hat geschrieben getan getutet:
+
+
+Jubb.
+
+-uwe
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Luis 'pi' Piwinger in de.alt.sysadmin.recovery

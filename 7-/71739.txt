@@ -1,0 +1,8 @@
+Es ist wohl eher entscheidender welcher Rechner es war. Also mit "nur" 
+64 MB RAM läuft er wirklich lahm. Ich hab 128 und das geht sehr gut. 
+
+Erwin
+-- 
+Voraussetzung fürs Usenet sollte keine Unix-Installation sein, auch
+wenn genug V-Baumarkt-Nutzer eine entsprechende Arroganz vorweisen.
+(Jürgen L. Gonder in de.newusers.questions)

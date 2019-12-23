@@ -1,0 +1,12 @@
+Niko Haumschild schrieb am 8. April 2000 um 14:17 Uhr folgendes:
+[...]
+
+Ihre Bestellung ist aufgenommen. Bitte fahren Sie zum Schalter vor.
+
+Viele Größe,
+     Paul Molder
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- UCPF 1.2.5 configure-script

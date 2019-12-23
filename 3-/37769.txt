@@ -1,0 +1,9 @@
+Giovanni Oesterhelweg <rmf@trcgz.vsx> writes:
+
+
+Ich finde "Filename mit Blanks" besser lesbar als
+"Filename_ohne_Blanks"
+
+Christian
+-- 
+"Oehmcke may have slept here"

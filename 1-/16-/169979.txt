@@ -1,0 +1,13 @@
+Am Mon, 26 Jun 1999 sendete Mike Rossow folgende Botschaft:
+
+
+s/\ss(...)/n\1/
+
+Tschüs
+  Bernard
+
+-- 
+Ja? Na, dann wollen wir mal kurz nach Deinen Schäden schauen... Au weia,
+ein Dachschaden würde ja erst mal das Vorhandensein eines Dachs voraussetzen.
+[Daniel Oetges in <67r0x1$3dl$2@polqnuw5.jgk.hzh-fftnzzcyf.wo>
+zu Valerio Ueberscher]

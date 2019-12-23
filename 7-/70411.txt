@@ -1,0 +1,15 @@
+Bertholds Wegscheider schrieb:
+
+
+Und alles andere mir.
+
+
+Weil beim Korrigieren nichts geändert wird.
+
+Nur wenn ich <td> in eine neue Zeile schreibe, nach der nichts mehr
+kommt, wird </td> ergänzt.
+
+Serge
+
+-- 
+Sigfile wurde geschrottet. :-(

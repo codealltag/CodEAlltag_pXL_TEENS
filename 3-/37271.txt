@@ -1,0 +1,12 @@
+Steffen Dannhaus <cep@vncpo.iqh> writes:
+
+
+Wir haben den dedicated Server für CS auch nicht ans laufen bekommen,
+irgendein Problem mit den TCH-Versionen. Ausserdem war der Channel
+immer leer, wenn ich dort vorbeischaute. Wo warst du?
+
+Kai, der sich demnächst mit dem kaputten TCH-Server
+auseinandersetzen wird.
+
+-- 
+              To boldly go where I surely don't belong.

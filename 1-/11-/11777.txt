@@ -1,0 +1,12 @@
+Johannes Ahnepohl artikulierte sich wie folgt:
+
+
+Nix da. Das einzige mir bekannte mehrdimensionale Array (in dem von mir
+gemeinten Sinne) geb ich nicht weiter - auch nicht als var_dump().
+
+rolf
+-- 
+�� Oberster Verteidiger des Ordens der Dunklen Seite von de.ALL [tm]  ��
+#                  My Butt does not deserve a website                  #
+#                  My Butt does not deserve a website                  #
+#                  My Butt does not deserve a website                  #

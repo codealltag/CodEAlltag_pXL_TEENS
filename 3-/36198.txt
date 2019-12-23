@@ -1,0 +1,7 @@
+* Othmar Jurchen <ohqfies@yiy.rk>:
+
+
+Du kannst für den Einstieg mal `man sm' lesen. Nein, das ist nichts
+versautes.
+
+Philippe

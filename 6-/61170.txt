@@ -1,0 +1,12 @@
+Theo Roggenfelder <wiaoyo-0264@pemkcajl-ruigiec.mp> writes:
+
+
+Tip: versuchs nicht auf einem 486-irgendwas mit 12MB RAM, die Kiste
+ist (bedingt durch nicht immer sofort gegebene Interaktion bei Fragen)
+immernoch nicht fertig.
+
+Nils
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

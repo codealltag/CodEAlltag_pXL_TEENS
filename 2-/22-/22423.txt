@@ -1,0 +1,7 @@
+Warts ab.
+
+mfg, 
+	Benno
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

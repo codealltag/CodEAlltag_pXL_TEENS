@@ -1,0 +1,18 @@
+Muß am Betriebssystem liegen:
+C:\XP>make love
+
+Dega (R) Program Maintenance Utility   Version 1.50
+Copyright (c) Microsoft Corp 1988-94. All rights reserved.
+
+MAKE : fatal error U1073: don't know how to make 'love'
+Stop.
+
+C:\XP>_
+
+Ivan Debis,
+wie der Herr, so is G'scherr
+
+-- 
+Der Pessimist hat immer recht.
+                                             E-Mail: swojav@nfrctyihit.pw
+---> Offizieller Kämpfer wider Marcel Majjer des Ordens von dtju <---

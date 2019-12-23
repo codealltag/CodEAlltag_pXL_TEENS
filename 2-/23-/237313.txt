@@ -1,0 +1,9 @@
+Oktoberkinder in Verbindung mit wmci.ofki.bk und längerer offline-Zeit
+wollte ich sagen. Francesca hat einfach die alten Artikel nicht, da sie
+durch den Expire gerutscht sind und er ja im Mozilla keinen lokalen
+Expire größer als Serverexpire einstellen kann.
+
+C Ya,
+Adolf
+-- 
++++ am 07.06. und 08.06. vermutlich offline +++

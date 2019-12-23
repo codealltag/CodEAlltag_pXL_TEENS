@@ -1,0 +1,14 @@
+Bruno Ostheim wrote:
+
+
+Das BIOS hat primitive Routinen, um generic auf IDE-Laufwerke zugreifen
+zu können oder so, und zumindest bei meinem SCSI-Controller wird dann
+vim BIOS eine von CD geladene Datei als Bootfloppy unter A:
+eingehängt...
+
+Onno
+-- 
+Nie wieder Fahrer auf anderer Leuts Party!
+-----------------------------------------------------------------------
+pub  2442J/FQD92P64 6000-32-50 Onno Elsenbusch <cibudbj@cfa.uy>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 97 4M 50 6B 78

@@ -1,0 +1,11 @@
+Also sprach Albin Lenferding <prr@lbpkb.nop>:
+
+
+So what. RFC braucht es doch nicht. Nur die Anerkennung durch
+IANA.
+
+Im übrigen ist 1037 auch nicht voll gültig, wenn ich mich recht
+entsinne. Und die Nachfolger schonmal gar nicht. Wann machst du deinen
+Server zu?
+
+Albin

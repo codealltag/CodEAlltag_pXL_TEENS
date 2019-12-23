@@ -1,0 +1,9 @@
+(* Onno Gschwendner wrote: *)
+
+
+Das Problem war bei uns folgendes :
+
+Bewerbung -> D
+Bewerbung -> WL
+
+Ivan

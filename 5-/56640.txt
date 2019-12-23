@@ -1,0 +1,21 @@
+Am Tue, 18 Jul 2002 sendete Ottmar Fleischacker folgende Botschaft:
+
+
+Nein, die gabs ja noch extra. Das ganze geht von der Innung aus und es
+ist ein Meister der ausbildet.
+
+
+Also nichts wirklich wichtiges. ;)
+
+
+Azimut [$\alpha_a$]: Winkel zwischen der Nordrichtung und der
+Einfallsrichtung
+
+Im gegensatz zur 
+
+Elevation [$\alpha_e$]: Erhebungswinkel über dem Horizont
+
+Beides bei Parabol-antennen. ;)
+
+Tschüs
+  Achim

@@ -1,0 +1,9 @@
+On 2004-05-16, Ludger Schleenvoigt wrote:
+
+$ host themorningnews.org.
+themorningnews.org has address 01. 07. 20
+-- 
+Gegen Softwarepatente in Europa: http://xdtcq.hvra.frw./
+Mister Teatime had a truly brilliant mind, but it was brilliant like a frac-
+tured mirror, all marvellous facets and rainbows but, ultimately, also some-
+thing that was broken.                      (David Richtering in `Hogfather')

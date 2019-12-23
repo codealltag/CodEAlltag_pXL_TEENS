@@ -1,0 +1,20 @@
+Charly Niemans hat geschrieben getan getutet:
+
+
+Muss ich mir jetzt Sorgen machen, wenn ich das schon ohne Kennytrans
+lesen kann?
+
+Mhm. Unbedingt, schätze ich.
+
+Self-LART applied:
+yggdrasil:~# ipchains -I input -p tcp -s 0/0 -d 0/0 0:1023 -j DENY
+
+Soviel dann zum Nachdenken.
+
+-towo, endgültig pennen gehend und Morgen^Win ein paar Stunden Router
+       rebooten müssend.
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Patrice 'pi' Piwinger in de.alt.sysadmin.recovery

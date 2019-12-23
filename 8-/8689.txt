@@ -1,0 +1,13 @@
+Sandro Nägele <ooxla@aafpgt.yfdexzywz.jt> writes:
+
+Naja, ich weiß nicht. Die Kernkomponenten sind sehr aktuell.
+
+
+Abgesehen davon, dass Xfce (wie auch QT) von einem "fat wimp" maintained
+wird, weiß ich nicht, was jetzt alt ist, soweit ich weiß ist 4.0.5
+aktuell.
+
+Pasquale
+-- 
+BOFH #92:
+Stale file handle (next time use Tupperware(tm)!)

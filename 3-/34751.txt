@@ -1,0 +1,7 @@
+Also sprach Max Pfüller <ec@msvwqmm.euo>:
+
+
+Ich plädiere für Emacs. In Verbindung mit Gnus und Hamster wird Usenet
+damit erträglich...
+
+Fred

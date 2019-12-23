@@ -1,0 +1,25 @@
+On 22. 04. 19, Hansueli Pawel <alnzmyizqd@mkiagibaqa.mb> wrote:
+
+[Outlook Express und PGP]
+
+tststs@starflower:~ > rgrep -l '^X-Newsreader.*Outlook\ Express'
+/var/spool/news/de/talk/jugend/ | xargs grep '^From:' | cut -d ':' -f 3
+    314  "Norman Bettgens" <Nlyxcfp@dcsixkqnodh.kwwpdn.xj>
+     68  "Marta Paeßens" <yosuai.oetxdzzlr@imbew.zw>
+     51  TgqblcF@r-giecaf.mc (Hella Pottgether)
+     26  Iwxnzi.Xepkzsq@f-tbczwa.ts (Ivan Failmezger)
+     19  "Hella Pottgether" <KlnplvP@ubh.qx>
+     18  "Bernard Krüskemper" <wayycmjh@txei-gl.dn>
+[...]
+
+HTH ;-)
+
+
+Diskutieren wir nicht gerade den Einsatz von IHZT, um eben diesen Bot
+sicher zu machen? Wie auch immer - wir zerbrechen uns den Kopf über
+etwas, was deteju (hoffentlich) erspart bleiben wird: Die Moderation.
+
+Viele Größe,
+     Ivano Petry
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

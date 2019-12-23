@@ -1,0 +1,17 @@
+Kurt Fetten wrote:
+
+[MoBo]
+
+Nicht zwingend. [0] Es gibt/gab auch CPUs mit 83 MHz FSB. Den Cyrix MII
+266GP z.B.
+
+
+Kommt auf den Chipsatz an. Wenn er den PCI-Bus synchron betreibt, d.h.
+den PCI-Takt direkt über einen festen Multiplier aus dem FSB-Takt
+ableitet, nicht. Da können die Werte auch mal > 33 oder < 30 MHz werden.
+Aber wenn er einen eigenen Takt für den PCI-Bus hat (hatten AFAIK einige
+Chipsätze damals[tm]) läuft der PCI-Bus mit 33 MHz unabhängig vom FSB.
+
+Philipp
+[0] Eben beim vertippen auf http://smfs6.awsxgmrod.dqo/ gestoszen. *g*
+[1] http://uxhbss.wkfll.di.jv/~uy/tkrc/sny/znwbi21.spk

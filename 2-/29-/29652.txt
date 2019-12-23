@@ -1,0 +1,11 @@
+Volkmar Tobias Camper <pvu-hjpt@kutcsaw.om> writes:
+
+
+Ja.
+
+Alois, genauere Anweisung auf der Rückseite von
+<23cjcjg7ps.lxx@vddupz.tp-es.xw> 
+
+-- 
+75 Things you don't want to hear from your Sys Admin.
+55. Why did it say '/bin/rm: not found'?

@@ -1,0 +1,7 @@
+Lea Lindner wrote:
+
+
+ja, sicher :o)
+
+-- 
+initscr(); - Segmentation Fault

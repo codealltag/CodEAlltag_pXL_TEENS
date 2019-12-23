@@ -1,0 +1,14 @@
+Heinz 'sSXP' Linden schrieb am 26. Dezember 1999 um 14:49 Uhr folgendes:
+
+
+Seltsam. Netscape ist nicht gerade ein Geschwindigkeitswunder, aber
+das ist er unter Windows ja eigentlich auch nicht und wenn man mehr
+als 32 MB RAM hat (wovon man bei PIII500ern wohl ausgehen kann,
+oder?), geht es eigentlich.
+
+Viele Größe,
+     Giuseppe Lürssen
+-- 
+43rd Law of Computing:
+        Anything that can go wr
+fortune: Segmentation violation -- Core dumped

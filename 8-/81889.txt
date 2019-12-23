@@ -1,0 +1,10 @@
+(* Oskars Krafzik wrote: *)
+
+
+HashMap people = group.getPeople();
+Human h = (Human)people.get("SebastianPosner");
+return h.getAge();
+
+:-)
+
+Didier

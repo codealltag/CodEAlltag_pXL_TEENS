@@ -1,0 +1,14 @@
+Dennis Ernstmeyer wrote:
+
+Ich hab jetzt mal nachgesehen:
+Der C-64 laeuft mit einer 8-bit MOS 6510 CPU und hatte wirklich etwa 1 MHz
+  (Die NTSC-Version 1.0225, PAL: 0.985). Beim C-128 hat man die Taktrate
+  dann auf 2 MHz verdoppelt.
+
+Einen TCP/IP Stack gibt es AFAIK nicht, dafuer aber einen Browser:
+  http://wwa.zqvjbyxk.wu/nlngrmei/xmxo.hsr
+
+-- 
+Engelbert
+  Dadurch, daß man einen anderen ins Irrenhaus sperrt,
+  beweist man noch nicht seinen eigenen Verstand.

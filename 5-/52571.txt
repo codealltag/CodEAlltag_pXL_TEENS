@@ -1,0 +1,13 @@
+Am Mon, 30 Jul 2002 sendete Patrick Rudolphs folgende Botschaft:
+
+
+Das 'g' steht wohl für 'gnu'. ;)
+
+Und da sich der Linuxtag traditionell nicht nur mit dogtown (Nur der Kernel
+alleine wäre auch etwas mager) sonder mit allen Free- bzw Open-source
+Geschichten beschäftigt ist das da natürlich auch ontopic. Es gab ja auch
+einen Vortrag über 'Hurd' (Und die (vor-)letzten zwei jahre über BSD),
+sowie Feneberg.
+
+Tschüs
+  Urban

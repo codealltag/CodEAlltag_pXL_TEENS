@@ -1,0 +1,11 @@
+Roman Pigl hat geschrieben getan getutet:
+
+
+Nicht im Geringsten.
+
+-raphaël
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Axel 'pi' Piwinger in de.alt.sysadmin.recovery

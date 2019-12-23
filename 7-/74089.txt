@@ -1,0 +1,17 @@
+Edmund Schütteldreier hat geschrieben getan getutet:
+
+
+towo@yggdrasil:~$ tar --version | head -n 1
+tar (GNU tar) 29. 01. 19
+
+towo@yggdrasil:~$ tar --help | grep bzip
+  -I, --bzip2                        filter the archive through bzip2
+
+Ach.
+
+-fredy
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Claus 'pi' Piwinger in de.alt.sysadmin.recovery

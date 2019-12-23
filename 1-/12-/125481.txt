@@ -1,0 +1,8 @@
+begin quoting the honorable Egon Vorbröker <rknucsf@ngeq.ml>:
+
+Aber einen Mailserver, der usenet@domain nach name@domain forwardet,
+nicht wahr? Und warum sollte der das andere nicht auch können?
+-- 
+Winfried Folk, 85603 Lautrach, DE
+My favorite newsgroups:
+de.talk.jugend, de.alt.fan.aldi, alt.fan.harry-potter

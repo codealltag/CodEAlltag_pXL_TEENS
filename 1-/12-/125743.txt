@@ -1,0 +1,13 @@
+Und so sprach Markus Leygeber:
+
+#v+
+chris@asterix:~>find /dev -name Suessigkeitenschrank
+chris@asterix:~>
+#v-
+
+Mift.
+
+Gruss,
+Niels.
+-- 
+Now running Concordia v0.2 for leafnode!

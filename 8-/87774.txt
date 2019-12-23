@@ -1,0 +1,11 @@
+Gerold Lindörfer hat geschrieben getan getutet:
+
+
+mpg123.el.
+
+-ivano
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Roman 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,24 @@
+Am Tue, 17. 09. 19 sendete Hannes Päuker folgende Botschaft:
+
+
+*stel* *stel* Mein ged�chniss und dein Quoting sagen anderes.
+
+
+------
+less README
+./configure --prefix=/usr/samba
+make
+make install
+while $erfolglos; do
+  vim
+  less README
+done
+------
+
+HTH
+
+
+http://bue.hti.qbm/
+
+Tschüs
+  Oswald

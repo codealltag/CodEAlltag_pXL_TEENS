@@ -1,0 +1,14 @@
+Valentino Maikämper <aot@irflf.yjv> writes:
+
+
+Eierkneifmetal..
+
+
+*kicher*
+
+-valerius
+-- 
+ No  Points     Name                                                   Hp [paul]
+  1    0026235  Sonja-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

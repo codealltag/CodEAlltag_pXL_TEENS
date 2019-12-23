@@ -1,0 +1,5 @@
+Dario Johannsmeier <tywgga@zbd.wd> schrieb in im Newsbeitrag:
+25rlbscb9i4csk4uh35ipkvkoisbvgra7b@4ax.com...
+
+IDE; 750 KB Puffer, kein Problem (ok, CPU Belastung steigt hier bei normalem
+Betrieb eh nicht länger als ein paar Sekunden über 5%).

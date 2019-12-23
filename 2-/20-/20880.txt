@@ -1,0 +1,10 @@
+Die aktuelle Version garnicht, und die von Ehlerding für sarge ist zu alt
+für BASS... Deswegen steht da oben ja auch "zumindest unter Windows" :(
+
+
+Anders abgedreht als die Gnant-Adventures.
+
+Kai
+-- 
+SuSE und KNode saugen. Schwarze Loecher sind neidisch.
+Claus Pföhler in <h8fsj1$1812vb$2@OR-42327.uiuz.tqnwrp.al>

@@ -1,0 +1,13 @@
+On 23 Jun 1999, Björn Rolufs <tngmwm@spbfc.sk-dse.hq> wrote:
+[Agent]
+
+Nicht unbedingt. Die Herstellerfirma wurde vor einiger Zeit aufgekauft
+und es sah lange so aus, als habe der neue Besitzer kein Interesse
+daran, ein 29-Dollar-Produkt weiterzuentwickeln (zumal das Ding wohl
+relativ oft gecrackt wird). Im Moment gibt es aber in der Tat wieder
+Gerüchte, daß in naher Zukunft ein Update auf Version 1.6 ansteht.
+
+Viele Größe,
+     Steffen Vaders
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

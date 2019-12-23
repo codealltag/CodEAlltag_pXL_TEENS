@@ -1,0 +1,11 @@
+Edmund Hansmair schrieb:
+
+
+Ach, das ist doch wahrscheinlich viel zu handlich, einfach und
+produktiv.
+
+Georges
+
+-- 
+ms@matrix:~$ cat .signature
+ms@matrix:~$

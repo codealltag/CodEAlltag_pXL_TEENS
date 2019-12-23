@@ -1,0 +1,7 @@
+Soso.
+
+mfg, 
+	Ullrich
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

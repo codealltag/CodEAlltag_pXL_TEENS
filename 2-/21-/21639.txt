@@ -1,0 +1,13 @@
+Und so sprach Henriette Vreede:
+
+
+*hinguck* Ne, das wichtige ist noch da. :-)
+
+
+Sollen wir mal ganz laut rufen? ;)
+
+Jan
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

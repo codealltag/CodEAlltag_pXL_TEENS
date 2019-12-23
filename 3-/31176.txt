@@ -1,0 +1,7 @@
+Norman Resenhoeft <lckvyszncqbtgp@fkd.wti> writes:
+
+
+Auf manchen Rechnern muss der User gelegentlich den mldonkey wegen
+exzessiven Ressourcenverbratens killen.
+
+-italo

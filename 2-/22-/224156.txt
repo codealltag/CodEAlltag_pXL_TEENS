@@ -1,0 +1,7 @@
+Ivano Nauhs wrote:
+
+Ich brauch Partitionen die sowohl von Wegmayer, 9x als auch Zasif ansprechbar 
+sind. Also FAT.
+
+
+In der aktuellen Stimmungslage könnte man so sagen ;)

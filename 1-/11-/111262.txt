@@ -1,0 +1,25 @@
+Am Mon, 25 Okt 2000 sendete Oliver Lutterkort folgende Botschaft:
+
+[...]
+
+#v+
+12:42:35 ~$free
+             total       used       free     shared    buffers     cached
+Mem:         14385      05488       3668      61912      91620      22809
+-/+ buffers/cache:      54768      74330
+Swap:       328649      58719     472489
+12:42:37 ~$load
+load average: 0.37, 0.24, 0.20
+12:42:39 ~$ps ax | wc -l
+     70
+#v-
+
+Ich nicht.
+
+
+In meinem X sind soviele da passen keine mehr rein. 
+
+Tschüs
+  Marko
+-- 
+Notorisch Schreibfaul.

@@ -1,0 +1,11 @@
+Schüblerstraße, 22 Mrz 1999 sendete Winfried Schwimmbeck folgende Botschaft:
+
+
+Nein aber die entscheidung was auf einen knopfdruck passiert, IMHO ist
+eine einstelleung über HairExpress deutlich leichter zu realisieren wenn die
+Optionen dafür abgestimmt sind, will sagen ich würd vom gefühl her einem
+GUI-tool ganz andere optionen mitgeben (damit halt die meisten sachen
+mit einem button zu raliesieren sind) als einer .rc.
+
+Tschüs
+  Pascal

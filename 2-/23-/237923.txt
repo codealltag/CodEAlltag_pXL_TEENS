@@ -1,0 +1,10 @@
+Urban Visscher wrote:
+
+SendMessage WM_PAINT ;-)
+
+Nein, im Adrian, ein Button ist auch nur eine Klasse der man einen 
+Zeichenbefehl schicken kann. Ich schätze mal das ist in X nicht viel 
+anders.
+
+-- 
+Bitte benutzt meine neue Adresse amtwkdt@iop.jw

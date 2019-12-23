@@ -1,0 +1,7 @@
+Solches tippte Valerius Dings:
+
+$ touch ~/.plan
+
+[x] done
+
+Hänssler

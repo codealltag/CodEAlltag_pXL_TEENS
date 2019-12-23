@@ -1,0 +1,8 @@
+Am Mon, 28. 01. 20 23:47:47 +0100, schrieb Pietro Inhetpanhuys
+<qrtc-7081@wscqrsy036715.xr-d.iq> das hier zu lesende: 
+
+
+Vielleicht kann man ja für solche Zwecke eine .announce-group
+einrichten.
+
+Wiltraud

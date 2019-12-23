@@ -1,0 +1,4 @@
+Benjamin Niedzwetzki wrote:
+
+Right. Ich habe allerdings fast noch nie eine Sprache verwendet die RegExp 
+kann und lebe trotzdem noch.

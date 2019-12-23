@@ -1,0 +1,19 @@
+Am Tue, 28 Aug 2001 sendete Dietmar Azeroth folgende Botschaft:
+
+
+Nein iirc mit vernünftiger Hardware + dhcp + + +
+
+
+Das ist eher schlecht.
+
+
+Wo ist das problem? Das Netz sollte nur stabil genug sein.
+
+
+Das ist aber wohl eher ein Problem des AMW und sicherlich dann auch der
+Applikation.
+
+Tschüs
+  Willibald
+-- 
+Notorisch Schreibfaul.

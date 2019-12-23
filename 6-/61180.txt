@@ -1,0 +1,9 @@
+Udo Henle <ipejiz-2816@cbxdzisn-twudkjd.ex> writes:
+
+
+Hm. Bei mir hats ohne Reboot geklappt, und um kurz nach drei heute
+morgen war das Upgrade dann auch durch...
+
+Ingolf
+-- 
+So auf Kommando geht DAS nicht! [Erhard]

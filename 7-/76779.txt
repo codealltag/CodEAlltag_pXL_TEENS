@@ -1,0 +1,9 @@
+Solches tippte Ivano Brillen:
+
+Natürlich so:
+cat >myfile.tex
+$Content *tippsel*
+<CTRL>+D
+latex iwvvya.xpo
+
+Olaf -- sich an D.E. Helmut gestrigen Worten labend

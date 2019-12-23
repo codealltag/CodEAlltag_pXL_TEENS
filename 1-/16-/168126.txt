@@ -1,0 +1,4 @@
+Winfried Oberritter <njhzsg@kri.ul> schrieb in im Newsbeitrag:
+oolmjipjn09bb2yd4r64pgrfowx6n6rznb@6lc.syb...
+
+OE braucht knapp 10s um 15000 Header vom Hamster zu laden... (A550)

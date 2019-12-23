@@ -1,0 +1,11 @@
+glxs@czbgwkesom.ks (Julius Reinfrank) writes:
+
+
+SPORT
+
+-lukas
+-- 
+ No  Points     Name                                                   Hp [ingolf]
+  1    3371400  Ulla-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

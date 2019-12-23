@@ -1,0 +1,8 @@
+* Marko Alth <RsoeqrAnbnej@xwe.ha>:
+
+
+Das ist kein Gnus-Problem, das ist ein Problem deines XEmacs.
+
+Oort empfielt sich aber trotzdem.
+
+Laurent

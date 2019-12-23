@@ -1,0 +1,12 @@
+Gilbert Wirschinger <tkewfpr@ozf.wb> schreibselte:
+
+
+IIRC kann das Gnus. Soll aber unheimlich die Performance auffressen.
+
+ Hannes
+
+-- 
+Das erste Beispiel von höheren Grundsatz ist immer mittelmäßig 
+zum ausgearbeiteten Beispiel des niedrigen Grundsatzes.
+
+(Tobias's Gesetz)

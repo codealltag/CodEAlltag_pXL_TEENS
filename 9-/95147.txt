@@ -1,0 +1,8 @@
+Ivano Moldering <zyyoul@hdikey-jgvtpus.tg> writes:
+
+
+s/ns/ner/g?
+
+Nico
+-- 
+            0 and 1. Now what could be so hard about that?

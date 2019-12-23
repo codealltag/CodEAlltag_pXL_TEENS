@@ -1,0 +1,10 @@
+Thorsten Johannwille schrieb am 13. Februar 2001 um 01:00 Uhr folgendes:
+[...]
+
+RFC 2045 lesen hilft. Wenn der Usefor-Draft in der aktuellen Form
+durchkommt, wird für Header-Zeilen BTW alles außer UTF-8 "deprecated".
+
+Viele Größe,
+     Thorsten Füssmann
+-- 
+A truly wise man never plays leapfrog with a unicorn.

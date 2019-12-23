@@ -1,0 +1,12 @@
+Helmuth Tenvorde hat geschrieben getan getutet:
+
+
+Ist doch eigentlich recht nett.
+Sieht sogar in lynx und w3m halbwegs vernünftig aus.
+
+-focko
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Eilt 'pi' Piwinger in de.alt.sysadmin.recovery

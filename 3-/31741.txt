@@ -1,0 +1,14 @@
+Na ja. Es ist richtig. Was in Visual Basic erlaubt ist ist natürlich
+eine frechheit. Wer in Visual Basic zu programmieren beginnt, fängt
+mit einem sehr unsauberen programmierstil an. variablen werden weder
+explizit deklariert noch definiert, typisches Basic halt ;) - bei mir
+war es genauso! betonung auf "WAR!"
+
+es ist sehr wohl möglich, sich einen schönen programmierstil
+anzueignen. ich rede jetzt nicht von "immer schön den text einrücken"
+oder "kommentieren", sondern jede variable zu deklarieren, den
+speicher schön zu verteilen, das alles ist möglich. natürlich kommt in
+keiner meiner Anwendungen mehr ein Variant vor...
+
+ganz anders, in (C++) wird man dazu gezwungen. dass man sich hier
+einen programmierstil angewöhnen "muss", ist mir klar ;)

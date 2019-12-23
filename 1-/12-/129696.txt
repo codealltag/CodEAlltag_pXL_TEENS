@@ -1,0 +1,14 @@
+Albert Prüll wrote:
+
+Das und hunderte weitere Spiele, darunter viele Kopien von recht 
+populären Games (Lemmings, Mortal Kombat, SuperMario, Worms, Arkaniod, 
+Monopoly, 50 Tetris Varianten...siehe 
+http://qwg.sdhixy.ljd/pe76/qlzah/gqwksu/ bzw. die anderen Verzeichnisse. 
+Mit Screenshots ;-) 
+Hab allerdings bisher nur Doom probiert, wobei das auf'm Emulator 
+ziemlich flackert. Aber es funktioniert :)
+
+
+Dürfte gehen, etliche Terminal Emultionen gibt's auf der Site und eine 
+vollwertige RS232 Schnittstelle zum Datenverkehr mit einem PC haben sie 
+auf jeden Fall.

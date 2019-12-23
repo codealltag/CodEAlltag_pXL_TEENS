@@ -1,0 +1,11 @@
+Frank Wegertseder hat geschrieben getan getutet:
+
+
+Depends.
+
+-othmar
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Johann 'pi' Piwinger in de.alt.sysadmin.recovery

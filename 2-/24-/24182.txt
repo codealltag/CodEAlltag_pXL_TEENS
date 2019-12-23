@@ -1,0 +1,11 @@
+Ueli Hasenschar wrote in de.talk.jugend:
+
+
+Oh, wo hast du die denn her? Meine ist wohl kaputt und ich könnte daher
+einen Neue gebrauchen. 
+
+René
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we 
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - Microsoft, 24. 10. 19

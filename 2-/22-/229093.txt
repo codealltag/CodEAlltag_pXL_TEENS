@@ -1,0 +1,21 @@
+Am Fri, 15 Nov 1998 21:48:10 +0100 sendete Uwe Waechter
+folgende Botschaft:
+
+
+*Arrg* Nein, nicht ohne Punkt, sondern ohne sogenannten
+"Full-Qualified-Domian-name" das sie einen Punkt haben muss, ergibt
+sich daraus das wohl niemand eine sever auf einem Pestel betreiben wird.
+
+
+Hast du einen lokalen Newsserver laufen? Sonst solltest du deine
+e.V. mal in den hintern treten das sie ihren newsserver richtig
+konfigen,da die Msg-Id bestimmt nichtz von OE stammt.
+
+
+Ja.
+
+Tschüs
+  Mirko
+
+-- 
+Kumm loss mer fiere ...

@@ -1,0 +1,11 @@
+Claus Höß hat geschrieben getan getutet:
+
+
+4GB pro Einzeldatei am Ende der Reihe, ja.
+
+-carlo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Vinzenz 'pi' Piwinger in de.alt.sysadmin.recovery

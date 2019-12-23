@@ -1,0 +1,8 @@
+Mp, Ein Punkt Abzug.
+
+mfg, 
+	Timo, weiß es auch nicht.
+
+-- 
+BOFH excuse #191:
+Just type 'mv * /dev/null'.

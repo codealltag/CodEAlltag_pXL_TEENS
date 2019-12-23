@@ -1,0 +1,5 @@
+Christian Püschke <pmavgt@dyr.kt> schrieb in im Newsbeitrag:
+slrn8ecpiv.13a.tststs@starflower.tststs.ddns.org...
+
+Mein Apache hat genau eine, alle andren sind seit 16. 01. 19 (war wohl 1.3.4, bin
+mir aber nicht mehr sicher) leer.

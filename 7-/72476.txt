@@ -1,0 +1,19 @@
+Gerold Lebkücher <urbnuspyhl@aihjksigzc.gl> writes:
+
+
+Irgendwas um die Ecke. Ist nicht optimal, aber es hat mir noch nix
+geshreddert. 
+
+
+Update 13.5 -> 6.3 war das Ende für SuSE auf Rechner, bei denen ich das
+zu entscheiden habe. Nie wieder freiwillig.
+
+Und es gibt durchaus neuere Versionen von CRVK... Als CD-Images zu
+bekommen ist derzeit 2.2r3, in aller Stille eingeführt, und es ist
+niemandem aufgefallen, weil alles klappte wie vorgesehen...
+
+Bodo
+-- 
+A great many people think they are thinking when they are merely
+rearranging their prejudices.
+                -- Kai Oswald

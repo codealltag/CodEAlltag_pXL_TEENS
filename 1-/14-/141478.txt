@@ -1,0 +1,12 @@
+Und so sprach Detlev Lindermaier:
+
+Wozu Tabellen? margin-left/right/... reicht.
+
+
+Auf Win-Maschinen mache ich das auch, weil alles andere nie die
+Performance kriegt (von Lynx und Opera mal abgesehen).
+
+Gruss,
+Gilbert.
+-- 
+Viktoria

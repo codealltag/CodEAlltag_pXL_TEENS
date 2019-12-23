@@ -1,0 +1,11 @@
+Oliver Linderoth hat geschrieben getan getutet:
+
+
+Ack.
+
+-towo, Physiker, Bio meidend
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Benno 'pi' Piwinger in de.alt.sysadmin.recovery

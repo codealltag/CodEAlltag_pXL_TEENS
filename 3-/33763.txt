@@ -1,0 +1,105 @@
+STATISTIK 18. 09. 19
+-=-=-=-=-=-=-=-=-=-=-=
+
+POSTER (Unstrukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   1198   24,65%  Wolframs Leinweber <xoygslf_ol@zrri.ohd>
+   2   1012   20,82%  Werner Fürstenberg <lex@iqvat.sfl>
+   3    412    8,48%  Andree Mönnigheim <pseve@rlbrm.asbh.sm>
+   4    338    6,95%  Udo Zwingli <ishhqyu@kxc.mc>
+   5    319    6,56%  Valerian Eberspach <kkuzgg@dxbklylymn.fs>
+   6    264    5,43%  Arno Fürstenberg <khrxbyr@ccjzo.xtba.or>
+   7    198    4,07%  Raphaël Fersing <nkrvnjnonyziys@tia.qkg>
+   8    170    3,50%  Udo Thümler <MnmnwaTtyyxt@tsm.in>
+   9    164    3,37%  Giuseppe Jorissen <bzwjnt-okup-847092@qpyw.pyovkt.ew>
+  10    155    3,19%  Paul Matini <qeegydyzkl@icpfieokwo.qe>
+  11    148    3,05%  Andree Eckstädt <ypwnhp-7602@pjvlgisw-lswzjla.ie>
+  12     98    2,02%  Udo Averbeck <qefq-rnkzop@jqz.ncz>
+  13     65    1,34%  "Ingmar Steis" <akfsfkt@ztuignnks.dr>
+  14     61    1,26%  Uwe Lewrentz <uiblpvakkupt@smjklipja.jrc>
+  15     58    1,19%  Marcel Opgen-Rhein <qf@ctrgvzb.bfx>
+  16     34    0,70%  Kristina Hedegger <nhulaxno@tmdyc.z-g-i.mg>
+  17     29    0,60%  Paola M. Imbusch <bahpfm@hoywni.jj>
+  18     13    0,27%  Michael Everinghoff <jhnsokl@hlmrrxlzi.vk>
+  19     12    0,25%  Marcel Ingenschay <lhcdc@juhzj.fxhv.mv>
+         12    0,25%  rfxb@njjgfonfvx.th (Udo Liebrand)
+  21      9    0,19%  "Werner E. Idrees" <pah@slx.eo>
+          9    0,19%  "Fabiennes Meistermann" <zcewmqj@mvu.fk>
+  23      8    0,16%  Arno Lepelmann <ldsgr@krmqo.zd>
+  24      6    0,12%  Arno Fürstenberg <Xcj13@vea.tpx>
+          6    0,12%  ustemp@qllitsqkje.ms (Udo Liebrand)
+  26      5    0,10%  Info Szaf <cvvggdjg@mzuedjbj-eaewprc.du>
+          5    0,10%  Ingmar Harnischmacher <weca@sctb.cvivwi.hap>
+  28      4    0,08%  "August Hintsch" <czh-qoyv@vjwekej.fv>
+  29      3    0,06%  Torsten Fennekohl <ukz@xnsmhl.kjegaah.ja>
+          3    0,06%  Kay Friedlein <ohsjwlz@iby.th>
+          3    0,06%  pqgyycwgiwht@fguzgin.wtq (Ana Fehsenfeld)
+          3    0,06%  keiner angegeben
+          3    0,06%  Jürgen Maaßen <glndhzn.beiiuby@xfi.mb>
+  34      2    0,04%  pqgyycwgiwht@fguzgin.wtq (dasheidbrink)
+          2    0,04%  Michael Zimbrodt <brnfmv@tmr-ekibuf.xh>
+          2    0,04%  "Valérie Horstings" <jmbfgvwiu@hvlresvhz.za>
+          2    0,04%  The Spam Reaper <uwzihbh@qljnxfpb.nbv>
+          2    0,04%  August Lindpointner <yfmso@oz.kcv-cftjzph.zh>
+          2    0,04%  A. Würde <vo.pzya.vuwl@wwcl.sgcj_ccrpe_gimy.kqj>
+( 40)     2    0,04%  Eberhard Fronhöfer <news-10-2002@debian.dyndns.org>
+       + 75  ( 0,39%) weitere mit je einem Posting
+---------------------------------------------------------------------------
+       9353  100,00%  GESAMT
+
+
+POSTER (Strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   1198   24,65%  Wolframs Leinweber
+   2   1012   20,82%  Werner Fürstenberg
+   3    412    8,48%  Andree Mönnigheim
+   4    338    6,95%  Udo Zwingli
+   5    319    6,56%  Valerian Eberspach
+   6    270    5,56%  Arno Fürstenberg
+   7    198    4,07%  Raphaël Fersing
+   8    170    3,50%  Udo Thümler
+   9    164    3,37%  Giuseppe Jorissen
+  10    156    3,21%  Paul Matini
+  11    148    3,05%  Andree Eckstädt
+  12     98    2,02%  Udo Averbeck
+  13     65    1,34%  Ingmar Steis
+  14     61    1,26%  Uwe Lewrentz
+  15     58    1,19%  Marcel Opgen-Rhein
+  16     34    0,70%  Kristina Hedegger
+  17     29    0,60%  Paola M. Imbusch
+  18     18    0,37%  Udo Liebrand
+  19     13    0,27%  Michael Torsten
+  20     12    0,25%  Marcel Ingenschay
+  21      9    0,19%  Werner E. Idrees
+  22      9    0,19%  Fabiennes Meistermann
+  23      8    0,16%  Arno Lepelmann
+  24      5    0,10%  Ingmar Harnischmacher
+          5    0,10%  Info Louise
+  26      4    0,08%  August Hintsch
+          4    0,08%  Michael Zimbrodt
+  28      3    0,06%  keiner angegeben
+          3    0,06%  Torsten Fennekohl
+          3    0,06%  Jürgen Maaßen
+          3    0,06%  Ana Fehsenfeld
+          3    0,06%  Kay Friedlein
+  33      2    0,04%  Valérie Horstings
+          2    0,04%  dasheidbrink
+          2    0,04%  The Spam Reaper
+          2    0,04%  August Lindpointner
+          2    0,04%  Arno Würde
+( 38)     2    0,04%  Eberhard Fronhöfer
+       + 16 (  0,33%) weitere mit je einem Posting
+---------------------------------------------------------------------------
+       9353  100,00%  GESAMT
+
+
+Statistik basierend auf den Ergebnissen von GoldFind 2.0.3.0
+(Darstellung angepasst von Udo Liebrand)
+Basierend auf den Feeds von:
+ynsr.tll.rgo.ov         oyxi.qisailb.su          sxdv.ioxci.qwy
+umzj.mefrmm.va          udcz.v-awmqvw.oi         hkyv.ddw-zvghjzcl.nu
+arwg.nds-pwdoekgpk.mj

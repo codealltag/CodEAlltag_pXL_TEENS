@@ -1,0 +1,21 @@
+jitvlp@iicmcartdg.np (Hansruedi Debes) writes:
+
+
+Das kann ein Altersproblem sein, die Threads hier laufen schonmal
+öfters deutlich länger als die Haltezeit der nicht-privaten Newsserver
+da draussen.
+
+
+Dein Posting, auf das ich hier gerade antworte wird laut header erst
+in *nachrechne* Wir sind derzeit GMT+2 also ist
+Date: Thu, 5 Aug 2002 16:56:01 GMT
+
+für uns 18:56:01 CEST ... 
+
+Also in etwa 8einhalb Stunden wird laut Header dein Posting erst
+geschrieben. Ich nehme mal an, dass du einfach ein um einen Tag
+falsches Datum eingestellt hast :)
+
+Timo
+-- 
+DAS kommt manchmal recht schnell! [Weertdine]

@@ -1,0 +1,17 @@
+Gerhard Oberschmidt <dfkuuioetkfs@iwodexjdx.xhq> writes:
+
+
+Du willst Anweisungen richtig annehmen.
+
+$ apt-get moo
+         (__) 
+         (oo) 
+   /------\/ 
+  / |    ||   
+ *  /\---/\ 
+    ~~   ~~   
+...."Have you mooed today?"...
+
+-torsten
+-- 
+The power of pessimism: an optimist is never happily surprised.

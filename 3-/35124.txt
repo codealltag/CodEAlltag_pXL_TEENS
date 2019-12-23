@@ -1,0 +1,9 @@
+Aus welchem Grund auch immer gab Reinhold das Szlauszaf bekannt:
+
+
+Belasse es dabei. Ein hündisches einfügen in die .gnus ist wesentlich
+nervenschonender, ausserdem macht es ein späteres ändern einfacher.
+
+Ueli
+-- 
+Statistik ist die mathematische Form der L

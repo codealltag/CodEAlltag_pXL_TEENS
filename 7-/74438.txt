@@ -1,0 +1,9 @@
+Meist ist es nicht die Feuerwehr sondern die Nachbarn die dann gleich 
+den Aufstand proben.
+
+Burkhard
+-- 
+Das, was du mit deinem Programm machen willst, 
+wird erst in der nächsten Version des Programms implementiert.
+
+(Wolfgang's Gesetz)

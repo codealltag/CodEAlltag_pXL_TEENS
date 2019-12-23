@@ -1,0 +1,8 @@
+Luca Rohte wrote:
+
+Das hat schon was. Wieso man bei Pierre zB wenn man nur ein Statement 
+pro Zeile hat, die Semikolons weglassen darf, ist mir einigermassen ein 
+Rätsel. Oder wieso es kein WHILE X .. Break; gibt...
+
+
+Der Mann ist weise.

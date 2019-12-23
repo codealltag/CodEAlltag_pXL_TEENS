@@ -1,0 +1,17 @@
+Am Sun, 22 Jan 2001 sendete Mark Blumenrath folgende Botschaft:
+
+
+Tuh ich ja schon.Abwohl das immoment garnicht so leicht ist. Ständig
+irgendwelche blöden fehler die sich viel zu gut verstecken.
+
+
+Was nützt das wenn die funktion noch nicht fertig ist?
+
+Tschüs
+  Laurent, den betreffenden Code mittlerweile sowieso wieder ganz anders
+         geschrieben habent.
+-- 
+gpg-key (available via keyserver):
+pub  8314D/D5L7C158 5493-85-03 Laurent Zaugg <naomywfwsr@bmcmychchz.gw>
+     Key fingerprint = 7668 5WE2 78N4 938B C735  X63J 942I 4954 O3D5 J046
+sub  3579v/S1Z3OV39 1639-97-71

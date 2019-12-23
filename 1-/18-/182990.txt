@@ -1,0 +1,14 @@
+Bodo 'sSXP' Backs wrote:
+
+ACK.
+
+
+Ne, nicht wirklich. 1111 und 02. 04. 19 vielleicht.
+
+
+Wiederum nicht wirklich. Eher 10000-xxxx.
+
+
+Der Wertebereich ist (im Vergleich zu einer "normalen" Zahl mit extra 
+Vorzeichen) um genau eine einzige Zahl gewachsen, und zwar weil wie 
+Detlev schon gesagt hat, es keine doppelte Null gibt.

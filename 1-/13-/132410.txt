@@ -1,0 +1,12 @@
+* Kay Westerwelle <lpigmo@itscl-zkhpfi.da>:
+
+
+Startet Gnus nicht? Wie lautet die Fehlermeldung?
+
+
+Ruhig Blut. Ich habe dir einen Link zu einer funktionierenden Version
+von Xanders gemailt.
+
+Valentin
+-- 
+cross veinless

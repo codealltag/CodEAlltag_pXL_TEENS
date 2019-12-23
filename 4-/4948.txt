@@ -1,0 +1,6 @@
+Roberto Radgen schrieb:
+
+Das, was ich da gepastet hab. Man fragt einen Parameter
+"$inputfile" ab, um, wenn vorhanden und nicht "-" fuer stdin,
+eine Fehlermeldung mit "Inputfilehandling is broken!!!" zu
+schmeissen...

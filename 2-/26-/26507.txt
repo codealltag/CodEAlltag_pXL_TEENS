@@ -1,0 +1,12 @@
+Am Fri, 20 Jun 2003 sendete Dominik Looschelder folgende Botschaft:
+
+
+Philippe clattevole(?) Zischang.
+
+Tschüs
+  Christoph
+-- 
+gpg-key (available via keyserver):
+pub  0240M/J5J9T436 7559-85-03 Christoph Zehnder <ragbteeiam@whyavbyjev.nl>
+     Key fingerprint = 7985 2FZ0 90B0 346J B941  A68Q 770U 5898 A9J5 M962
+sub  7268i/Y2B5OK61 2380-75-78

@@ -1,0 +1,11 @@
+Alternativ schlage ich noch vor, detebe zu löschen, de.alt.dateien.*  
+abzuschaffen - oder am besten gleich de.alt.*. Natürlich könnte man auch  
+mal wieder versuchen, KISS einzuführen und de.comm.software muß immer  
+noch reorganisiert werden. Als Proponent schlage ich Nobby Püschel vor.
+
+Ueli Zitterbart
+
+-- 
+Ueli Zitterbarts praktische Lebensratschläge, Teil 4:
+Heizkissen sind gesundheitlich nicht unbedenklich.
+---> Offizieller Kämpfer wider Silvio Rübl des Ordens von dtju <---

@@ -1,0 +1,11 @@
+Sebastian Dowe hat geschrieben getan getutet:
+
+
+Du spielst MP3s ja durch Benutzung von mpg123.el ab? -> MP3-Player :)
+
+-patrick
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Gebhard 'pi' Piwinger in de.alt.sysadmin.recovery

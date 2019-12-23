@@ -1,0 +1,8 @@
+Laurent Bernhard Probstmeier <hln-umof@gmxaldk.ks> writes:
+
+
+ATM und IrDA lassen sich nicht bauen.
+
+Burkhard
+-- 
+DAS war anstrengend! [Isolde nach einem ca. 10minütigen Klobesuch mit Leo]

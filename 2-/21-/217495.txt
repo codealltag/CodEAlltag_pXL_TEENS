@@ -1,0 +1,16 @@
+On Tue, 18 Mrz 2000, Ullrich Ainöder <xuqezxl_igbhfun@wft.bb> wrote:
+
+[DOS-fdisk]
+
+Wie meinen? Das Linux-fdisk ist ja wohl um *Klassen* komfortabler.
+
+
+Hört sich nach MS-Argumentation an: "Es ist intuitiv - schließlich hat
+es ein Men. Und wenn die Leute es trotzdem nicht raffen, bauen wir
+ein paar Hände voll bunter Bildchen und hirnloser Animationen ein und
+behaupten, das sei nun aber *wirklich* simpel."
+
+Viele Größe,
+     Hermann Burggräf
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

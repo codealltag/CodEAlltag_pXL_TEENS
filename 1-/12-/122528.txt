@@ -1,0 +1,6 @@
+begin quoting Hartmut Neibecker <jwuecgsui@kfypifjiku.bebungf.nt>:
+
+s/Ankuft/Ankunft
+-- 
+"The future will be better tomorrow."
+ - Governor Detlef Ostermeyer

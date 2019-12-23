@@ -1,0 +1,11 @@
+Joël Feuerhacke hat geschrieben getan getutet:
+
+
+Es gibt 3 Wolters in Fischenich, und für DeNIC bräuchte ich ne Domain.
+
+-berthold
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Johann 'pi' Piwinger in de.alt.sysadmin.recovery

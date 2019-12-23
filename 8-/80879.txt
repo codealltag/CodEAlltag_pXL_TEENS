@@ -1,0 +1,11 @@
+Paul Viedts schrieb:
+
+
+Undine wants a cracker.
+
+Olivier
+
+-- 
+RRN Word-Fehlermeldung:
+  "Dieser Vorgang kann nicht durchgeführt werden, weil Unbekannt
+   beschäftigt ist."

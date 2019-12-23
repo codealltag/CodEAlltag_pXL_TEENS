@@ -1,0 +1,10 @@
+Valerian Steltzig <plhdtk-8320@odrnzfat-bafbjzg.wv> writes:
+
+
+Dass sollte ich mal den "Haskell ist toll"-Leuten hier an der Uni
+empfehlen. Die Unlambda-Unleserlichkeit ist nur marginal grösser als
+die von Haskell...
+
+Theodor
+-- 
+If you explain so clearly that nobody can misunderstand, somebody will.

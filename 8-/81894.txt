@@ -1,0 +1,15 @@
+Am Thu, 18 Apr 2001 sendete Philippe Zippel folgende Botschaft:
+
+
+Aber hallo. Unleserlich^3.
+
+
+man dasr *eg*
+
+Tschüs
+  Alex
+-- 
+gpg-key (available via keyserver):
+pub  7667G/Q8U5P386 1753-97-03 Alex Gering <qfzbhmvfei@nzubdeknwm.ex>
+     Key fingerprint = 0995 8IB5 89F1 331S A948  T79W 416P 9499 M6C3 A085
+sub  7399r/P9B6ZT85 5816-48-61

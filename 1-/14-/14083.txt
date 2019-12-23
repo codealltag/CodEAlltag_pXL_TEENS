@@ -1,0 +1,29 @@
+Gilbert Urban Ehgartner <dpi-mcyo@kyboqnh.hp> writes:
+
+
+Klar ist das dabei... Man müßte nur wissen, welches Modul man da
+nehmen sollte... Nicht, daß der Kerl definitiv einen PC mit
+Internet-Anschluß danebengehabt hätte und ich wahrscheinlcih auch im
+ICQ erreichbar gewesen wäre...
+
+
+Japp, hab ich auch gesagt.
+
+
+Er setzt bis jetzt nur SuSE ein, reicht das als Erklärung?
+
+
+Dazu müßte man Kernel bauen können.
+
+
+Das fand ich schon klasse, weil es so passiv klingt. Wenn ichs nicht
+geliefert kriege, dann weiß ich auch nicht weiter...
+
+
+Romy halt.
+
+Eberhard
+
+-- 
+Nothing's louder than the end of a song that's always been there.
+[Christoph Pratchett - The Wee Free Men]

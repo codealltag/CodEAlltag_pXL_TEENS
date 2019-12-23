@@ -1,0 +1,11 @@
+Rosina Wallroth hat geschrieben getan getutet:
+
+
+In diesem Falle war de JUP gemeint.
+
+-franco
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Stefano 'pi' Piwinger in de.alt.sysadmin.recovery

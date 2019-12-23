@@ -1,0 +1,4 @@
+Gut, dann meint er mit dem Hasz ein assoziatives Array, das wiederum
+Hasz heisst. Warum können wir dann nicht einfach bei Hasz bleiben?
+
+Haszes sind cool.

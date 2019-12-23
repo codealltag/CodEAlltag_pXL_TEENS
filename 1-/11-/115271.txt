@@ -1,0 +1,9 @@
+* "Yang Twumasi" <btwi.qcegk@kuf.gx.oh>:
+
+
+IMO ja. Du kannst, wenn du den Hamster nimmst, mit 4 Threads
+gleichzeitig News holen. Du nutzt die Bandbreite besser.
+
+Niels
+-- 
+cross veinless

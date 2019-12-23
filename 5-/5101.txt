@@ -1,0 +1,4 @@
+Patrik Reusswig schrieb:
+*erwin* so ist das. Wobei ich doch gerne mal einen Blick auf die
+Sendmail-Config-Tools werfen wuerde, die man wohl kaufen kann.
+Die sollen das deutlich vereinfachen.

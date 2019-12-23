@@ -1,0 +1,26 @@
+On 15 Mrz 1999, Sandro Makeprange <Jwr.Izqtj@bih.xv> wrote:
+[...]
+
+Mut Du nicht. Du kannst jederzeit Deine eigene Oberfläche entwerfen -
+da die Trennung Frontend / Backend oft sehr konsequent durchgehalten
+wird, dürfte das sogar relativ problemlos sein.
+
+[Lexika auf CD-ROM setzen Win voraus :-(]
+
+Ein äquivalentes Lexikon im Bücherregal ist teurer als die CD-CRONENBERG plus
+die Windows-Lizenz plus ein aktueller PC, um das Ganze anzeigen zu
+können... dafür gibt's dann weder Volltextsuche noch Hypertext.
+
+
+Schön.
+
+
+Mmh... als wenn ich mal ein Progrämmchen unter Culik schreibe,
+benutze ich keinen MS-Compiler (sondern einen von Boerboom, heute
+Inprise). Ich finde ihn (gemessen an Win-Verhältnissen) eigentlich
+nicht überteuert.
+
+Viele Größe,
+     Hansjörg Märkle
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

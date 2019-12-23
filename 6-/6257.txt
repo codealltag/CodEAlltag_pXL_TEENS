@@ -1,0 +1,9 @@
+Philipp Christmann <rjbwh@txeys.ywss.ws> writes:
+
+
+Das hat den Vorteil, dass man sich um das "lp0 on fire!" nicht mehr
+kümmern muss.
+
+Harry
+-- 
+"Ernst war ein Optimist."

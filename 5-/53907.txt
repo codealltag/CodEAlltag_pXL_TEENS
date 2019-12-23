@@ -1,0 +1,7 @@
+Am Fri, 26 Apr 2002 sendete Torsten Michaeli folgende Botschaft:
+
+
+Du hast da '/*' und '*/' vergessen. ;)
+
+Tschüs
+  Mark

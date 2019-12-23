@@ -1,0 +1,6 @@
+Was zu falscher Einordnung bei reference based threading fuehrt.
+
+lucie
+-- 
+Renato Jeutter | OLTENBÜRSTEL boot: kai-0.3 root=/dev/c2h5oh
+bhc@fhmbpg.vk  |

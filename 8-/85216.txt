@@ -1,0 +1,10 @@
+Felgentreuer Dorfstraße, 26 Nov 2000 sendete Olga Weggler folgende Botschaft:
+
+
+n -> Unendlich.
+
+Tschüs
+  Oscar
+-- 
+Hier sollte eigentlich ein netter Satz aus "Programming Perl" stehen,
+aber leider finde ich ihn nicht wieder.

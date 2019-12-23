@@ -1,0 +1,27 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------4D01997510883F80FAB659C8
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Habe Puzzle von den Backstreet Boys (500 Teile)
+Originalverpackt zu verkaufen    15,-
+
+--------------4D01997510883F80FAB659C8
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="Matthias_Walter.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Marcus Uekötter
+Content-Disposition: attachment;
+ filename="Matthias_Walter.vcf"
+
+begin:vcard 
+n:ICQ: 88871644;Oluppivv Vincenzo
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+mgxuk;caddqcmh:Qjkdvchr_Hwszpc@f-bqpooi.aw
+x-mozilla-cpt:;-18192
+fn:Marcus Uekötter
+end:vcard
+
+--------------4D01997510883F80FAB659C8--

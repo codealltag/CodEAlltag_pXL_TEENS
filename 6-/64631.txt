@@ -1,0 +1,10 @@
+Heiner Trumheller <zpqecio527552@qyikbr.st-r.wp> writes:
+
+
+..
+
+
+Musz isz niszt erst Umlaute im Quoteteil umschreiben, damit du niszt
+wegen multipart meckerst.
+
+-hanspeter

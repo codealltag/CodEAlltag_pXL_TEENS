@@ -1,0 +1,4 @@
+Ulfert Altemüller wrote:
+
+Was verstehst Du unter "Windows Kernel"? Der Microkernel von Sandpassage 
+bringt es auf 380kb.

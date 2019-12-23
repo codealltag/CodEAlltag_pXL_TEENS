@@ -1,0 +1,15 @@
+Hero Lörchen wrote:
+
+
+Mich leider nicht. :-( Ich hatte es vor Jahren schon mal getestet und
+heute noch mal aus Neugier probeweise die neuste Version getestet, aber
+es kommt immer noch nicht mit allen HTML-Mails zurecht.
+
+Zumindest nicht mit denen, wo der HTML-Code als Attachment geschickt
+wird. Headerkennzeichen dafür ist wohl "multipart/alternative" statt
+"-mixed". Nadja hatte damit nicht das geringste Problem.
+
+Schade. Mal Pegasus probieren.
+
+
+ignaz

@@ -1,0 +1,10 @@
+* Theodor Egglseder <whro@ledunlco.dj>:
+
+[UTF-8]
+
+Eines der wenigen Features, die OE5 mal halbwegs vernünftig eingebaut
+hat, oder? Ich habe das noch nie ausprobiert.
+
+Nils
+-- 
+cross veinless

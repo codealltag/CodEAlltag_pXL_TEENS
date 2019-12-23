@@ -1,0 +1,14 @@
+Hm...
+
+mir geht da gerade so was durch den Kopf... dtju per Handy ;-)
+Natürlich beschränkt auf ausgewählte Threads :) Müsste doch eigentlich
+_irgendwie_ zu machen sein, oder? Ich meine: man kann doch sms an
+mailadressen schicken... dann müsste man sich nur noch ein Gateway
+einrichten, das email an eine bestimmte adresse nach dtju weitergatet.
+Lesen dann wenn Postings eintreffen werden die ersten 160 zeichen als
+mail verschickt ... Hm, wäre ne nette Sache, das :-) Muss ich nochmal
+genauer drüber nachgrübeln und vielleicht mal in die Tat umsetzen :)
+
+-- 
+Dafür haben wir Männer die Frauen.
+Und das ist bei weitem schlimmer... (Windy in dtju)

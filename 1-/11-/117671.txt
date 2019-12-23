@@ -1,0 +1,9 @@
+* Thierry Janowsky <shagubs054940@cjkdos.wx-m.at>:
+
+
+Eben, mir war auch nichts aufgefallen. Naja, wer sein eigenes Programm
+nicht kennt ...
+
+Othmar
+-- 
+cross veinless

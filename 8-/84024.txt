@@ -1,0 +1,10 @@
+Am Tue, 31 Mai 2002 sendete Wolf Dohmann folgende Botschaft:
+
+
+Was bitte ist Feuchtraum für eine Kabeleigenschaft?
+
+Tschüs
+  Dirk
+-- 
+Hier sollte eigentlich ein netter Satz aus "Programming Perl" stehen,
+aber leider finde ich ihn nicht wieder.

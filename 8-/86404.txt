@@ -1,0 +1,6 @@
+* Sandro Pfalzgraf <bmgfjcl730606@zpooec.fv-q.sb>:
+
+
+Damit schickt man Postings ab. Aber das ist ein anderer Editor ...
+
+Giuseppe

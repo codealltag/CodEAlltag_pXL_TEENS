@@ -1,0 +1,46 @@
+This is a multi-part message in MIME format.
+--------------5974930F1100D2275E3C071B
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+hi, david,
+
+wegen dem html, greif dir lieber mal 'n paar andere, die öfters hier postings
+abliefern und html verwenden, oder glaubst du, ich stelle wegen 3 postings in
+den ng's mein zeuchs ab ?
+lass dich an denen aus, die bilder und sowas in den ng's abliefern, denen
+kannste mal was schreiben, denn DAS nervt, und net die paar links oder was
+weis ich, was dich nervt...
+sorry, aber mir geht's ums prinzip, immer werden die angegriffen, die am
+wenigsten scheiss bauen, und die, die am laufenden meter gegen die netiquette
+verstoßen, die werden auch nicht zurechtgewiesen, also, lass dir mal was
+einfallen, unn lass mir meine ruh'.
+
+das musste jetzt mal sein ...
+unn wech
+
+
+--------------5974930F1100D2275E3C071B
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="Faulenzer.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Mile, Torsten
+Content-Disposition: attachment;
+ filename="Faulenzer.vcf"
+
+begin:vcard 
+n:Münsterkötter
+tel;pager:ICQ#: 8615343
+qvb;ajd:71821/738870
+tel;home:Tödtenried ( Deutschland)
+tel;work:Elektroinstallateur
+x-mozilla-html:TRUE
+url:www.qpbm.sd/rwxsl/yox
+version:2.1
+email;internet:Acezlo@Xfn.cgwv.hf
+adr;quoted-printable:;;Meine Straße bekommen nur anständige Leute !!
+;Tschachoritsch
+fn:Torsten M.
+end:vcard
+
+--------------5974930F1100D2275E3C071B--

@@ -1,0 +1,14 @@
+Olivia Zebe schrieb:
+
+
+Hoh! Wie setzt du den richtig durch?
+
+Situation: Person A soll gekillfilet werden. Person A wird nun auch
+gedanklich auf unread gesetzt. Jedoch kann Person A auch weiterhin
+rumschwallen. Das Killfile scheint nicht zu wirken. - What to do?
+
+Oswald
+
+-- 
+Die letzten Worte des Börsianers:
+"Sofort alles kaufen!"

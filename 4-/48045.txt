@@ -1,0 +1,10 @@
+Arno Kohlhause wrote:
+
+
+IIRC ein ZIP, welches man sowohl an Paralellport als auch an SCSI
+anst�pseln konnte.
+
+Alfred
+-- 
+pub  1388P/LCO21B64 2623-87-45 Alfred Mühlhoff <lylngyh@dzw.dw>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 85 0V 80 9D 88

@@ -1,0 +1,10 @@
+Salvatore das Szlauszaf skrev i meldingen:
+
+
+Und damit kann man glaskugeln?
+
+Vito
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we 
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - Microsoft, 02. 05. 20

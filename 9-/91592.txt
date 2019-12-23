@@ -1,0 +1,18 @@
+Niels Kreppel hat geschrieben getan getutet:
+
+
+Sollte auch überflüssig sein.
+
+
+www.uuxx.ags also :)
+
+
+Mhm.
+Ja.
+
+-niclas
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Erhard 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,21 @@
+On Sun, 6 Jun 1999, Stefano Schirrwagen <bglxc@tyish.np> wrote:
+[...]
+
+
+Was sollte man dagegen einzuwenden haben?
+
+<EYP 8041>
+    In order to conform to RFC-822, the Message-ID must have the format:
+
+                          <unique@full_domain_name>
+
+    where full_domain_name is the full name of the host at which the
+    message entered the network, including a domain that host is in, and
+    unique is any string of printing ASCII characters, not including "<"
+    (left angle bracket), ">" (right angle bracket), or "@" (at sign).
+</RFC 1037>
+
+Viele Größe,
+     Lukas Zitzelsperger
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

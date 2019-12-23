@@ -1,0 +1,20 @@
+Alfons Urs hat geschrieben getan getutet:
+
+
+Syntaxhighlighting.
+
+
+Immerhin. Jemand, der sich an die Standards halten will .. sieht man
+selten.
+
+
+Wizo?
+footer, allgemeine Metaheader..
+Da ist SSIS nicht weit entfernt :)
+
+-hartmut
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- François 'pi' Piwinger in de.alt.sysadmin.recovery

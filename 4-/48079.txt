@@ -1,0 +1,15 @@
+Arno Imholte wrote:
+
+
+Nein. NT ist jetzt soweit entwickelt, daß es stabil läuft und verwendbar
+ist, da ist es nach Mickersofts Meinung Zeit für einen neuen Anlauf...
+
+
+Na und? BTW stimmt das so nicht, es kamen noch einige Servicepacks
+hinterher.
+
+Henry, und zur Not hab ich hier auch noch Win2000 Advanced Database
+Server rumfliegen... Zur Not hab ich das Ende des Monats :-)
+-- 
+pub  1664A/TCQ38H56 9305-55-23 Henry Vormberg <uhprbdr@kep.fb>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 34 6F 90 9S 05

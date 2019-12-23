@@ -1,0 +1,11 @@
+* Christof Illenseer <iezpclc915873@sxffhx.cr-y.gc>:
+
+
+Wir haben mal ein Bruchrechnungsprogramm geschrieben ...
+
+
+... das genauso ablief.
+
+Berend
+-- 
+cross veinless

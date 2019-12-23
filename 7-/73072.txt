@@ -1,0 +1,16 @@
+Am Mon, 27. 03. 19 sendete Siebelt Canitz folgende Botschaft:
+
+
+Ich ging von 'mv sourcefile /other/part/destfile' aus.
+
+
+Nicht wirklich. Du verschiebst ja auf eine andere Partition, sonst
+werden die Daten eh nicht angefasst.
+
+Tschüs
+  Bodo
+-- 
+Die Weisheiten des Juppi Jup: #7
+
+Ein Grill zur rechten Zeit,
+erspart Kummer und Leid.

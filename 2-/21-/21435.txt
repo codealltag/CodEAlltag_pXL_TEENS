@@ -1,0 +1,10 @@
+[ Inhaltsverzeichniss von Diätpillen gesnippt ]
+
+Grün. Mit einem Hauch Minze.
+
+
+mfg, 
+	Beat
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

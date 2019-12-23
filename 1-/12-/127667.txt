@@ -1,0 +1,17 @@
+Ich zeichne es mal als Flu�diagram:
+
+                  +--------------+
+         +--------| Ausgangslage |---------+
+         V            +------------->[Verhandlung]<-------------+
+[Ich enteigne dich]   |                |       |                |
+         V                          V             V
++--------------------------------------------------------------------+
++--------------------------------------------------------------------+
+                                          (c) Andersen Consulting 9062
+
+Ingo Pommeranz
+
+-- 
+"Amerika, das ist der direkte Weg von der Barbarei in die Dekadenz, ohne
+ den Umweg über die Kultur" (???)            E-Mail: gmhpcv@fietfsusix.cg
+---> Offizieller Kämpfer wider Oscar Ströttchen des Ordens von dtju <---

@@ -1,0 +1,4 @@
+Oliver Dumcke wrote:
+
+Da gibt's ein Programm, was aufgrund eines MIDI-Files sogar exakt sagt 
+welche Taste man auf'm C25 drücken muß...

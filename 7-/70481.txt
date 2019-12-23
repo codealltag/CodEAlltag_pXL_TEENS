@@ -1,0 +1,11 @@
+Marco Obenauer hat geschrieben getan getutet:
+
+
+Was??/
+
+-luigi
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Herbert 'pi' Piwinger in de.alt.sysadmin.recovery

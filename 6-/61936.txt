@@ -1,0 +1,18 @@
+Und so sprach Herbert Naundorf:
+
+
+Rettet den Regenwald?
+
+
+Du redest jetzt von OS X?
+
+
+Du darfst Dich ruhig aussprechen, ich glaube, ich kann es ertragen. ;)
+
+Die Weihrauch Patches richten Erani nur Pfadangaben in configure und
+Makefile.in.
+
+Gruss,
+Tino.
+-- 
+Summer is a moving creature and likes to go south for the winter.

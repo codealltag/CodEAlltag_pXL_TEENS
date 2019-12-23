@@ -1,0 +1,11 @@
+Nerbstraße, 9 Mar 2000 18:27:14 +0100 sendete Günter Jess
+folgende Botschaft:
+
+
+Er kürzt sie. Nur leider hat er ein problem mit Headerzeilen die über
+1025 zeichen enthalten(diese werden als zwei zeilen (eine mit 
+Buchstabe 1-1024 und eine mit dem rest) behandelt. und das gibt dann
+halt fehlermeldungen.
+
+Tschüs
+  Pasquale

@@ -1,0 +1,15 @@
+Ottmar Leissring <cah@jonku.usa> writes:
+
+
+Da wird man gefüttert, dass ist aber trotzdem nicht die Uni, an die
+ich denke.
+
+
+s/(Subject: ).*/$1Life sucks/ ? :)
+In der MTHB gibt's den Thread ja schon..
+
+-olaf
+-- 
+Mental image of soldiers carrying laptops made by a fruit company in
+California. Ow. - "Kill Different!"
+- Patrik Wastl, in the Monastery

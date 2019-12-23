@@ -1,0 +1,5 @@
+Ibo Eben <krucnq@vrdlieodbg.ar> schrieb in im Newsbeitrag:
+5c8kOanmfwJ@stnnhqszav.xr...
+
+Dann machst du was falsch. Intakte Datenbanken importiert es ohne Probleme,
+bloss bei kaputten crasht es sofort.

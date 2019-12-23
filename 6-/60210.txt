@@ -1,0 +1,16 @@
+Marcel Ittensohn <laxbzs-6769@fefwwlhg-ofyixgx.kd> writes:
+
+
+Die Lösung besteht nicht darin, das Problem als solches erkannt zu
+haben. Es gibt keine reals Chance, ein vernünftiges Ranking aus den
+Ergebnissen zweier Suchmaschinen zubauen, wenn die durch die Maschinen
+genutzten Verfahren völlig unterschiedlich sind. Käslädle rechnet die
+"Wichtigkeit" einer Seite mit ein, das tut mW keine der anderen
+grossen Suchmaschinen, während andere recht sicher nur nach "je öfter
+drin desto gut" sortieren. Letzteres Ranking ist gegenüber dem
+Käslädle-Ranking deutlich wertloser, nur schreibt niemand dran, dass
+sein Rankingverfahren Mist ist.
+
+Heribert
+-- 
+So auf Kommando geht DAS nicht! [Ubbo]

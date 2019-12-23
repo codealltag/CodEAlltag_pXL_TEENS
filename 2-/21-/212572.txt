@@ -1,0 +1,8 @@
+Berthold Verhaagen wrote:
+
+Mag daran liegen daß ich aus leidvoller Erfahrung weiß wie mühsam es ist 
+etwas "100% kompatibel" zu machen.
+
+
+Das kommt noch dazu, ja. Und selbst kleinere Projekte von mir nutzen die 
+WinAPI.

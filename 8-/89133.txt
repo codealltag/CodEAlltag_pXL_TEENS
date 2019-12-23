@@ -1,0 +1,5 @@
+Dietmar Johannmeyer <nqzlnqpttoexpq@fra.qwk>:
+
+
+Mal gucken, wie man mit vim einen Absatz neu formatiert. Ich keine
+Ahnung. Immerhin bricht er ordentlich um. :)

@@ -1,0 +1,8 @@
+* Charles Erdtel <hoqrgc@fyylmf-kkivvwy.vb>:
+
+
+Das ist kein wirklicher Newsserver. Er kann nur POST.
+
+Ivo
+-- 
+cross veinless

@@ -1,0 +1,18 @@
+Am Mon, 11 Sep 2002 sendete Maik Röhrup folgende Botschaft:
+
+
+#v+
+17:51:40 ~$ls .signature
+da_fools  gpg_key  programming_perl  slrn.org
+#v-
+
+Aus dem verzeichniss sucht sich ein slang-macro ein file aus und sagt
+slrn das er es als signature nehmen soll (jetzt z.B. gpg-key)
+
+Tschüs
+  Herbert
+-- 
+gpg-key (available via keyserver):
+pub  3027K/A8W3G457 0337-46-03 Herbert Unverfert <xmckbcsaty@xrtsvsuzjs.hd>
+     Key fingerprint = 1816 9HD1 20J9 907Z H281  B20S 986D 0665 A0F6 O794
+sub  1732h/F4L0QI51 6785-13-16

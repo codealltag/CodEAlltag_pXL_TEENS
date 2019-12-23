@@ -1,0 +1,9 @@
+* Francis Dreuw <ndpomgb817580@rifxoj.aa-s.dr>:
+
+
+slrn auf jeden Fall (da gibt es kompilierte Win32-Versionen). Und mutt
+sollte sich notfalls unter cygwin kompilieren lassen.
+
+Jakob
+-- 
+cross veinless

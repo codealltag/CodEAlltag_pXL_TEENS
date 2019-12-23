@@ -1,0 +1,8 @@
+* Georg Luecke <bkbdqkmyzvevdz@fww.dme>:
+
+
+"We need killfiles that actually kill". Oder so ähnlich.
+
+Leonhard
+-- 
+cross veinless

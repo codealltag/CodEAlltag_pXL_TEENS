@@ -1,0 +1,7 @@
+* "Ivan Iseringhausen" <cpvc@yarypzvz.za>:
+
+
+Wenn ich mpg123 installiere, werden keine Abhängigkeiten zum XEmacs
+aufgelöst, nein.
+
+Massimo

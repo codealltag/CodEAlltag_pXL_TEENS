@@ -1,0 +1,13 @@
+On Thu, 24. 11. 18 13:11:08 +0100, Niclas Immoor wrote:
+[ INN aus der Dose^w^wdem debian-package vs tar.gz] 
+Ich hab hier noch irgendwo ein Buch liegen, da steht dann bei
+Anpassungen vonn Software sinngemaesz: Sie sollten sich gleich daran
+gewoehnen, Software selbst zu Kompilieren. Sonst werden sie nie ein
+echter Hacker.
+
+
+mfg, 
+	Charles
+-- 
+Konrad Christian Imhäuser, Leiperzell, Germany
+Info-Student, Freizeit-Handwerker und Eislabor-Nutzer

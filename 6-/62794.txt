@@ -1,0 +1,14 @@
+Am Tue, 02 Mrz 2001 sendete Jörn Huppertz' folgende Botschaft:
+
+                                    ^^^^^
+            ^^^^^^^
+
+undefined reference
+
+Tschüs
+  Arno, i8255 mit gcc unter wixdos geschädigt. Morgen muss ich das
+         ganze erstmal unter Fleuristik testen.
+-- 
+Die Weisheiten des Juppi Jup: #4
+
+Send Pixs !!!!!!1

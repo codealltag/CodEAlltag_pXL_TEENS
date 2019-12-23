@@ -1,0 +1,11 @@
+Willy Angerlechner meinte kundzutun:
+
+
+nvidiafb
+
+Framebuffer für ETPA
+
+
+Matrox.
+
+Hans

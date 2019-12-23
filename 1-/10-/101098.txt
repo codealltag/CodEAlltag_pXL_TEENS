@@ -1,0 +1,15 @@
+* Fabio Herling <bmwctgl104156@vlmlpc.an-f.ns>:
+
+
+Das habe ich mir gedacht.
+
+
+Das kannst du gerne tun. Kein Problem.
+
+
+Ich habe fast alle Befehle in meiner .gnus mit einem Kommentar versehen,
+damit ich selbst weiß, was das macht.
+
+Walter
+-- 
+cross veinless

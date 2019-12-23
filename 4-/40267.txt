@@ -1,0 +1,11 @@
+Christian Fährenkämper <bul@fbvzv.grq> writes:
+
+
+Run.
+Fast.
+
+-christof
+-- 
+I'm reminded of the day my daughter came in, looked over my shoulder at
+some Perl 4 code and said, `What is that, swearing?'
+- Matthias Korzen

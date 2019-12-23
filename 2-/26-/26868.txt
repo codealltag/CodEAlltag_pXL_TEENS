@@ -1,0 +1,12 @@
+Bomheuerweg, 18 Nov 2002 sendete Hendrik Frohnhoffs folgende Botschaft:
+
+
+news.software.readers und cxor.mcjnrzzi.nfoo
+
+Tschüs
+  Patrice
+-- 
+gpg-key (available via keyserver):
+pub  6969N/Y1U0C328 8973-24-03 Patrice Wiesmüller <pxaxvlyqmd@vzjoplgslb.lq>
+     Key fingerprint = 7522 9ZH6 24L5 435R I701  J98E 038T 0066 T3B7 Y279
+sub  5815d/P6A2QJ59 4218-03-25

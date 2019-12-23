@@ -1,0 +1,16 @@
+* Aldo Detjens <rqvoee@ervvcd-wqyqkmm.qj>:
+
+
+Ich weiß unter Bibliofila nicht, wie es geht. Unter Linux geht das mit top
+... unser Kater hat doch 2000, oder? Wie geht das denn da?
+
+
+Bei mir tut er das ohne Probleme. Neulich ausprobiert, wie gesagt.
+
+
+Ich tippe darauf, dass der XEmacs für Windows das nicht packt. Ich kann
+aber nur vermuten.
+
+Timo
+-- 
+cross veinless

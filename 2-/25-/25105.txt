@@ -1,0 +1,8 @@
+Schwerer Felher. Jetzt muß ich nur noch die Frequenz und ID der
+Gruppenschleife rausbekommen...
+
+mfg, 
+	Pascal
+-- 
+BOFH excuse #210:
+We didn't pay the Internet bill and it's been cut off.

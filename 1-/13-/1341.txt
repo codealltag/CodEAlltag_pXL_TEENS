@@ -1,0 +1,11 @@
+Christof Csaszar <NYLXBZ@lnpqykccagsirouipf.am> writes:
+
+
+Vielleicht sollten wir einen Normalenvektor zur Verbindungslinie als
+"weit" definieren, weil dann müssen die nur was breiter, aber nicht so
+weit liefern...
+
+Pierre
+-- 
+...Last night I lay in bed looking up at the stars in the sky, and I
+thought to myself, where the heck is the ceiling?

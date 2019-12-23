@@ -1,0 +1,9 @@
+Silvio Heinrichsohn <mfqgoqnuut@rutlacczmdi.iu> writes:
+
+
+Es gibt neben der .emacs noch beliebig viele weitere Konfigdateien...
+
+Joachim
+-- 
+"Komme ich täglich?"
+ Matthias Neyenhuisen; 10.06.2000 beim NIBL in Scharringhausen

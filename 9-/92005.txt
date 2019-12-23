@@ -1,0 +1,8 @@
+"Christoph Teeuwen" <gotl@gsjkiual.hg> writes:
+
+
+Noch jemand, der die bbdb-rss.el haben will, wie sie bei mir liegt?
+
+Garrelt
+-- 
+All power corrupts, but we need electricity.

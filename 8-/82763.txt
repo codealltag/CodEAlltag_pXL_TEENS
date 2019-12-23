@@ -1,0 +1,16 @@
+Am Sun, 1 Dez 2001 sendete Ralf Zickenheiner folgende Botschaft:
+
+
+*PA*zurückhalt*
+
+Erwähne bloss nicht das Wort Segfault. Weisst du wie nervig es ist wenn
+man 3  Stunden programmiert, denkt man hätte alles bedacht, und dann
+segfault die ganze Scheisse ohne das man den Fehler findet?
+
+Tschüs
+  Paolo
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Nane Rossbroich, Mostly Harmless, Chapter 12

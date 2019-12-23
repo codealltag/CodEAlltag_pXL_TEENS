@@ -1,0 +1,14 @@
+Ivano Jehring schrieb:
+
+
+Woher dann?
+
+
+Huh!?
+
+Gian
+
+-- 
+Mac-OS:
+  "Der Arbeitsspeicher reicht nicht aus. Es werden 1,2 MB benötigt.
+   Vorhanden sind aber nur 1,3 MB."

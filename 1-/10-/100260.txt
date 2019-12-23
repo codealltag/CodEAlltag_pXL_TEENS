@@ -1,0 +1,11 @@
+* ysgf@nnjuq-jabqat.uxi (Bruno Unbehauer):
+
+
+Ein offenes Relay ist ein Mailserver, der von jedem E-Mails annimmt und
+ausliefert, egal, ob der Einlieferer Kunde ist oder nicht.
+
+Sehr grob gesprochen. Reicht dir das?
+
+Peter
+-- 
+cross veinless

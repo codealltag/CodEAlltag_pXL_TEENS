@@ -1,0 +1,9 @@
+Didier Labuddas <cg@garbers.org> writes:
+
+
+Hm? Ich habs irgendwie[tm] geschafft, dass mein Gnus die gesplitteten
+Teile selbst zusammengesucht hat...
+
+François
+-- 
+[x] <-- nail here for new monitor

@@ -1,0 +1,70 @@
+STATISTIK 25. 06. 19
+-=-=-=-=-=-=-=-=-=-=-=-
+
+TOP 10 POSTER 25. 06. 19 (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+ 1    2193   22,74%  Björn Elspaß
+ 2    1118   11,59%  Lucia Vonderweiden
+ 3    1113   11,54%  Fabrice Int-Veld
+ 4     928    9,62%  Arnold Wiedenmann
+ 5     811    8,41%  Angelo Isenberger
+ 6     656    6,80%  Françoise Ingenrieth
+ 7     535    5,55%  Frédéric Ingenrieth
+ 8     406    4,21%  Alfred Velte
+ 9     298    3,09%  Dietrich Morgenthal
+10     289    3,00%  Markus Wäscher
+
+
+TOP 5 POSTER 2000 (in einem Monat)
+
+Pos.  Anz.   Monat     Name
+---------------------------------------------------------------------------
+ 1    2193   06/2000   Björn Elspaß
+ 2    2121   08/1999   Lucia Vonderweiden
+ 3    1992   12/1999   Björn Elspaß
+ 4    1984   09/1999   Fabrice Int-Veld
+ 5    1976   08/1999   Fabrice Int-Veld
+
+
+TOP 5 POSTER 2000 (Gesamt)
+
+Pos.   Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+ 1    07701   Fabrice Int-Veld            43       -1
+ 2    58184   Björn Elspaß       35       +6
+ 3     7738   Frauke Ewerz       23       -2
+ 4     7492   Lucia Volbracht      22       +1
+ 5     6093   Angelo Isenberger     18       +1
+
+
+TOP 5 DAUs 8349
+
+Pos.  Anz.   Msgs. Ratio   Monat    Name
+---------------------------------------------------------------------------
+ 1    401       2  200,50  10/1999  oncxts@hgyosuu.jux
+ 2    200       1  200,00  10/1999  imwud_pgsul@qhcroiu.xne
+ 3    200       1  200,00  10/1999  zzomcy@anoyawe.zce
+ 4    175       1  175,00  04/2000  dcw <qqa@zjoild.cppujzd.zq.bm>
+ 5    158       1  158,00  10/1999  "Kai Kreissl" <aemlqacv@flvepfm.vt>
+      158       1  158,00  01/2000  "Rico" <laxtptbb@z-x-a.hsi>
+
+
+TOP 5 MONATE
+
+Pos.  Anz.    Datum
+---------------------------------------------------------------------------
+ 1    89320   August 1999
+ 2     9645   Juni 2000
+ 3     9077   Dezember 1999
+ 4     3450   September 1999
+ 5     7766   Mai 2000
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 25. 06. 19 von Laurent Espeter.
+(Darstellung angepasst von Fabrice Int-Veld)
+Basierend auf den Feeds von:
+dfiepdgr.qmddi.xu         zebk.nka.grv.ze           ecng.r-eacyje.mw  
+oakz.vnn-uehdoggs.yv      mszy.tbe-yzdzgahi.fm      dcxc.tpx-hhtshhtop.st  
+okxuqfrngx.jlqxjromhk.za

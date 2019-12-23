@@ -1,0 +1,8 @@
+(* Charly Kludt wrote: *)
+
+
+Es stand geschrieben:
+
+                          ^^^^^^^^^                            ^^^^^^^
+
+Emile

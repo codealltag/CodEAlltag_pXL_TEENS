@@ -1,0 +1,13 @@
+Ralph Adamy schrieb:
+
+
+Okay, das ist natürlich der richtigste Weg. Allerdings kann ich die
+Leute, die irgendwann sauer werden, wenn sie zum zehntausendsten Mal
+Kammquoting lesen, auch verstehen.
+
+Willy
+
+-- 
+  "The MS Exchange Information Store service depends on the MS
+   Exchange Directory service which failed to start because of the
+   following error: The operation completed successfully."

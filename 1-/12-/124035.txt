@@ -1,0 +1,8 @@
+Gnus kann ROT13 problemlos entschlüsseln.
+
+
+Windows wird sie sich bestimmt nicht einrichten :-)
+
+Dominik
+-- 
+              To boldly go where I surely don't belong.

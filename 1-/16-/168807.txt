@@ -1,0 +1,7 @@
+Nane Zwirlein <h.g.ayxje@dks.kg> schrieb in im Newsbeitrag:
+55s83z04.6942737@xnev.per-qgmvgaci.my...
+
+Das liegt nach der Aussage zumindest zweier Entwickler nicht wirklich am
+UART Chip sondern viel mehr an der Dummheit der Entwickler bei Reichlmayr. Beide
+behaupten, sie hätten ihre UART 8250 mit 115200 ohne Probleme benutzt. Muss
+mal fragen, ob die Treiber noch rumliegen.

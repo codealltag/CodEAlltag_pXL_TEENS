@@ -1,0 +1,9 @@
+Ivan Corts wrote:
+
+
+Depends on POV.
+
+Charly
+-- 
+pub  5016D/UDH79K66 6657-02-39 Charly Rauhs <fxxqmgt@vua.ir>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 47 2W 70 5B 19

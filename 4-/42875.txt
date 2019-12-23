@@ -1,0 +1,9 @@
+François Verhaegh <avy@jbwmp.wdc> writes:
+
+
+#include<loriot/ach>
+
+-francesco
+-- 
+Philosophy:  A route of many roads leading from nowhere to nothing.
+- Willy Kleve

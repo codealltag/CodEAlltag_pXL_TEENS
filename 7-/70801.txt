@@ -1,0 +1,18 @@
+Dario Peigl <wcxmbfl.mmmbt@mxk.yv> writes:
+
+
+Heute ausnahmsweise mal aj, aber auch nur, weil die Typen vom
+Leerstuhl es geschafft haben, einen Zufallszahlengenerator zu liefern,
+der 20 zufällige Zahlen liefert, und dann das Randomdevice leergesaugt
+hat, woraufhin sich eine gewisse Klebrigkeit der Ausgabewerte für die
+nächsten 15 bis 20 Aufrufe einstellt...
+
+
+Was ist denn da für ein Controllerchip drauf?
+
+
+Komt halt drauf an, was das ist.
+
+Arne
+-- 
+Hast du DAS eben gehoert? [Edmund]

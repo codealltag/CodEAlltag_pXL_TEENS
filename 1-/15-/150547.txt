@@ -1,0 +1,10 @@
+Wellesweilerstraße, 12 Mrz 2001 sendete Claudio Zerweckh folgende Botschaft:
+
+
+alias rm="rm -i" bei JUA und arbeiten nur als user.
+
+
+Was ist da der unterschied? ;)
+
+Tschüs
+  Vinzenz

@@ -1,0 +1,9 @@
+Eduard Gierhahns <cg@garbers.org> writes:
+
+
+Saugt. Christoffers, ueberladener und unausgereiftere out-of-the-box-config
+als GNU emacs.
+
+Bin wieder auf letzteres nach einiger Zeit mit UDFN umgestiegen.
+
+-nicolas

@@ -1,0 +1,11 @@
+On Tue, 8 Jun 1999, Roland Zelter <zaacfdm@xrc.ew> wrote:
+
+[Alaz auf Linux portieren]
+
+Mmh... welche Komponenten sind Deiner Meinung nach zum Beispiel unter
+Linux wesentlich schwerer zu implementieren als unter Windows?
+
+Viele Größe,
+     David Trabert
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

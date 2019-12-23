@@ -1,0 +1,26 @@
+Vittorio Ihle schrieb:
+
+
+Warum patcht MS das nicht?
+
+if zeilenanfang = '>' then zeilenumbruch := 0 - Voilä! :-)
+
+
+Yang, teste doch einfach mal XNews zusammen mit dem Hamster (denn Geld
+ausgeben willst du vielleicht noch nicht...). Je weniger man sich an
+OE gewöhnt hat, desto leichter fällt der Umstieg. Und du kannst mir
+glauben, dass du, wenn du dich länger mit dem Tent beschäftigst,
+auch irgendwann umsteigen wirst. :-)
+
+Alternative: OE zusammen mit dem Hamster. Soll ja angeblich
+recht...mittelmäßig funktionieren. ;-)
+
+Alternative II: Weiter wie bisher, aber ohne Sig und IMO nervigem
+manuellen Zeilenumbruch. Funktioniert, macht nur leider eine Menge
+Arbeit, die man sich sparen könnte. q/p mag OE dann aber trotzdem noch
+nicht. ;-)
+
+Timo
+
+-- 
+Fastfood rulez!

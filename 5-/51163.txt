@@ -1,0 +1,15 @@
+Hallo Valentina Immoor
+
+Am 5 Jul 2003 13:06:57 GMT schriebst Du:
+
+
+Hey ich bin hier schon etwas länger hier....
+Du folgst uns[tm] wohl überall.
+
+MfG Charles
+
+-- 
+Fachbegriffe der Informatik einfach erklärt
+303: RSA 
+     Potenzieren in einem endlichen Ring, der direkte Summe mehrerer Körper ist. 
+     Der Ring heißt der öffentlicher, die Summenstruktur privater Schlüssel.

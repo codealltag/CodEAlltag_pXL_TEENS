@@ -1,0 +1,12 @@
+Samuel Niedernolte wrote:
+
+
+Würde mich auch wundern. Schließlich besagt tradspool eben, daß jeder
+Artikel als eigene Datei an passender Stelle in einer
+Verzeichnisstrukturangelegt wird, die dem Aufbau der Newshierarchie(en)
+entspricht.
+
+Nicolas
+-- 
+pub  3738R/YUO80T63 4764-29-25 Nicolas Schmidtkonz <epgcjzc@uvr.vp>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 26 3J 39 0G 58

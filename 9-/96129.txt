@@ -1,0 +1,21 @@
+Am Mon, 24 Okt 2000 sendete Anton Streidel folgende Botschaft:
+
+
+In dasr wurde afaik letztens intensiv darüber geredet wie man sowas
+effektiv verhindert.
+
+
+Mit welcher facility?
+
+
+Bei Win wirst du auch nix wichtiges remote mounten.
+
+
+Also wenn deswegen mehr als nur die shell hängenbleibt ist was kaputt.
+Das Programme probleme kriegen wenn ihnen Verzeichniss untzer den Schliersee
+weggezogen werden ist aber doch logisch.
+
+Tschüs
+  Eckhard
+-- 
+Notorisch Schreibfaul.

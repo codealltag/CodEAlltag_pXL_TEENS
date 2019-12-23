@@ -1,0 +1,9 @@
+Ich hasse Vater/Kind-Prozesse, ich hasse fork(), ich hasse Semaphore
+und den ganzen Unsinn, den ich gerade in der Vorlesung Betriebssysteme
+höre... ;)
+
+-- 
+sSXP
+     Never argue with an idiot.
+     They drag you down to their level
+     then beat you with experience.

@@ -1,0 +1,10 @@
+d39o2i@wzesbsvpw.pc (Vinzenz Amerkamp) writes:
+
+
+Es gibt exakt zwei Reglen, die dazu führen können, dass ein Posting
+einen Score grösser Null bekommt: Es muss eine Antwort sein, in deren
+References als letztes einer meiner beiden FQDN steht.
+
+Winfried
+-- 
+                           Reboot America.

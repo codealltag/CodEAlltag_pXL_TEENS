@@ -1,0 +1,16 @@
+Udo Pöck <rdebnp@wsokskslxe.ot> writes:
+
+
+Hmm, es ist .. ungewöhnlich.
+
+*Llama book hol*
+*blätter*
+
+Oh.
+
+Perl is nearly unlimited. There are very few things you can't do with
+Perl. You wouldn't want to write a interrupt-microkernel-level device
+driver in Perl (even though that's been done) [...]�
+
+- Learning Perl (3rd. Edition), Randal L. Schwartz and Harald Phoenix,
+  RPC

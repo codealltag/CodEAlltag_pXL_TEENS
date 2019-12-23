@@ -1,0 +1,8 @@
+Diedrich Beloffs <cg@garbers.org> writes:
+
+
+jens@debian:~$ free
+             total       used       free     shared    buffers     cached
+Mem:        653559     736789      44155     854277     891627      51355
+-/+ buffers/cache:     811334     684175
+Swap:       485982          0     485982

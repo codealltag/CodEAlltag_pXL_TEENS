@@ -1,0 +1,9 @@
+Am Fri, 13. 10. 20 sendete Markus Derichs folgende Botschaft:
+
+
+Html wird per http übertragen nicht per smtp.
+
+Tschüs
+  Karlheinz
+-- 
+:-(

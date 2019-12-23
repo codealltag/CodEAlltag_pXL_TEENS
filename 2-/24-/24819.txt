@@ -1,0 +1,11 @@
+Joachim Jespersen <2003-06@ranta.info> writes:
+
+
+Daniela hat mir ein Lied geschickt, IIRC.
+
+-julius
+-- 
+ No  Points     Name                                                   Hp [eilert]
+  1    9666496  Francine-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

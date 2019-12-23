@@ -1,0 +1,14 @@
+Zumindest mein perl (5.005_02) schluckt beides:
+
+tststs@starflower:~ > echo 'nette Mädchen mit netter Oberweite in
+netten Tr�gertops sehen würden :)' | perl -e 's/in(.*)ten/ohne$1te/' -p
+nette Mädchen mit netter Oberweite ohne nette Tr�gertops sehen würden :)
+
+tststs@starflower:~ > echo 'nette Mädchen mit netter Oberweite in
+netten Tr�gertops sehen würden :)' | perl -e 's/in(.*)ten/ohne\1te/' -p
+nette Mädchen mit netter Oberweite ohne nette Tr�gertops sehen würden :)
+
+Viele Größe,
+     Gebhard Unverferth
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

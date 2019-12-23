@@ -1,0 +1,12 @@
+Nino Schmedt schrieb:
+
+
+Naja, die Funktionen sind anders. Daher auch andere Fehlermeldungen.
+Vor allem bei Stoffregen, Word und Powerpoint.
+
+Philippe
+
+-- 
+Wollstudio ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

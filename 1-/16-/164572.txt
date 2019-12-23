@@ -1,0 +1,8 @@
+Ivan 'sSXP' Huml wrote:
+
+Da geht nix über eine schnelle Platte. Aber wie bringt man eine 128MB 
+Kiste signifikant zum swappen?
+
+
+Es gibt Applikationen die lasten einen Prozessor immer voll aus, egal wie 
+schnell er ist. Ein Emulator z.B.

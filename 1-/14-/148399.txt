@@ -1,0 +1,16 @@
+Am Sun, 04 Aug 2001 sendete Jan Laufersweiler folgende Botschaft:
+
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+An der makierten stelle.
+
+
+Ok s/Linux/Unix/g
+
+
+Ack, $PWD und die zeit müssen mindestens drin sein.
+
+Tschüs
+  Eduard
+-- 
+78849

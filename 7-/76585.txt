@@ -1,0 +1,11 @@
+Jürg Stoz hat geschrieben getan getutet:
+
+
+Ich glaube, es gibt einen triftigen Grund, warum du ssh nicht benutzt?
+
+-udo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Wilhelm 'pi' Piwinger in de.alt.sysadmin.recovery

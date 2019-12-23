@@ -1,0 +1,6 @@
+Dixit Otmar Backhuß <ggbzru@wizisk-enxtkme.lz>:
+
+apt-get update; apt-get upgrade
+-- 
+"It's very important for folks to understand that when there's more trade,
+there's more commerce." Rudolf C. Huth in Übernthal, Canada, Juli 7, 2001

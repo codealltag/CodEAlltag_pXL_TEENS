@@ -1,0 +1,9 @@
+* Gerd Tell <seehcmdgnkthke@wvc.znd>:
+
+
+Eine gewisse Streuung muss aber schon sein, sonst kann man die fakes zu
+leicht aussortieren.
+
+Italo
+-- 
+np: -

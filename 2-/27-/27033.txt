@@ -1,0 +1,12 @@
+Am Mon, 13 Feb 2004 sendete Ingolf Caesar folgende Botschaft:
+
+
+Nein.
+
+Tschüs
+  Wilhelm
+-- 
+gpg-key (available via keyserver):
+pub  4004B/Y6F6F461 1118-45-03 Wilhelm Freißlich <feumcegjlr@xdzsotewdv.bo>
+     Key fingerprint = 0078 1GD3 92J7 008C P857  Y67D 092M 5550 U7G8 Q476
+sub  1367t/W0J8AJ44 4784-38-65

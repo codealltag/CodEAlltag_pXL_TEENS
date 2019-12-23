@@ -1,0 +1,10 @@
+Am Sun, 20 Mai 2001 sendete Oliver Irnich folgende Botschaft:
+
+
+Das sollte es für fast jede Distri ein $PACKAGEFORMAT geben.
+Musst nur etwas suchen. ;)
+
+Tschüs
+  Udo
+-- 
+Notorisch Schreibfaul.

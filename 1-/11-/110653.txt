@@ -1,0 +1,13 @@
+Roman Kemkes <jyoxqbi855966@gxbnxy.zo-a.ho> writes:
+
+
+Schaun wir mal...
+
+Kira:/home/hauke # wc -l /etc/leafnode/config
+     64 /etc/leafnode/config
+
+Stehen auch noch ein Haufen Kommentare drin...
+
+Veit
+-- 
+      ...and that is how we know the Earth to be banana-shaped.

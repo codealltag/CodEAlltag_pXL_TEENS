@@ -1,0 +1,16 @@
+ftxenqgnhc@kaglkoamtz.kq (Ivo Krehahn) wrote in 
+<euom634nqe.rk4.cketwfhquu@yietnjtdcc.tblmdre.ih>:
+
+
+Sowas 'wichtiges' sollte man immer zur Hand haben. Genauso wie eine 
+Seriennummer. *seufz*
+Und Windows hat in der Reinstallation mal wieder den Bootsektor 
+uebergebuegelt. Muss ich wieder das Risiko eingehen, mit fdisk alles 
+zu zerstoeren. ;)
+
+Norman
+-- 
+
+Oh schimmernder Mond!
+Ich ging auf dich zu und ging und ging
+und kam dir doch nicht näher.

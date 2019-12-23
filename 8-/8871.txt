@@ -1,0 +1,8 @@
+Urban 'Meep' Richter <JQFURPDJZPEG@bcmgydkhe.ixg> writes:
+
+
+free() ist ja auch kaputt.
+
+Jürgen
+-- 
+"Udo war ein Optimist."

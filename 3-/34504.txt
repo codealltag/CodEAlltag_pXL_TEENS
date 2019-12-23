@@ -1,0 +1,7 @@
+Also sprach Fridolins Rischen <qdwblem_dm@ourj.fti>:
+
+
+Und die libstdc++ macht Zeelandia und apt-get (!) unbrauchbar...
+NLN ist wohl auch betroffen. Wahrscheinlich eh alles etwas größere.
+
+Fernand

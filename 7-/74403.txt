@@ -1,0 +1,11 @@
+René Herrlein schrieb:
+
+
+Dann hast du immer noch die Möglichkeit dein Bierglas draufzustellen.
+
+Carl
+
+-- 
+MTWW ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

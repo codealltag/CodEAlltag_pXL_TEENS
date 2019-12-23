@@ -1,0 +1,7 @@
+Dixit Cédric Kalbskopf <ly@ayuarxs.gmb>:
+
+Emacs-mule müßte es aber auch können. Ja, hier ist dieses seltsame MS
+MIME INGO ganz i.O.
+-- 
+"The future will be better tomorrow."
+ - Governor Fredi Ueberschaar

@@ -1,0 +1,11 @@
+Und so sprach Ihno Jungclaus:
+
+
+Die, die Dir schon die ganze Zeit unauffaellig folgen.
+
+Gruss,
+Hansjörg, vorsicht ein dreikoepfiger Affe.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

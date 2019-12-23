@@ -1,0 +1,14 @@
+Juan Möser <cpqyxn-8394@rbopfpjy-rclbalb.kq> writes:
+
+
+Ersteres.
+Dumm nur, dass mutt dann beim normalen Hintergrund diesen schwarz, und
+nicht durchsichtig, anzeigt.
+
+       ^
+Hmpf.
+
+-wolfram
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.

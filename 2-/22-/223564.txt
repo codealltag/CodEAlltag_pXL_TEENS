@@ -1,0 +1,3 @@
+Ullrich Innerkofler wrote:
+
+Dann solltest Du nie versuchen einen PC in Asm zu programmieren ;-)

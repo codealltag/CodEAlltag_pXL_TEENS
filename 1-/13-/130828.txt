@@ -1,0 +1,4 @@
+Bodo 'sSXP' Imkampe wrote:
+
+Wenn man die Firewall so einstellt, daß nur die Zieladresse erreicht 
+werden kann, dann sehe ich da kein Problem.

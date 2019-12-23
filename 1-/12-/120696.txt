@@ -1,0 +1,12 @@
+* Pierre Zichner <a-vtj@xnspddfugha.pg>:
+
+
+Nehmen wir das Beispiel lim a(a -> oo)
+
+Der dazu gehörigen Graph (den man nicht wirklich zeichnen will) nähert
+sich unendlich immer weiter an, erreicht unendlich aber nie, bleibt also
+immer darunter. Warum sollte das nicht funktionieren?
+
+Eugen
+-- 
+cross veinless

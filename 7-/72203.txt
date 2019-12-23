@@ -1,0 +1,6 @@
+Edo Zehnpfennig <tqarntwzxsqequ@unr.taw> writes:
+
+
+Der DHA-Crashmanager sagt immer, daß die Anwendung ein Signal 11
+(SIGSEGV) veranlaßt hat, ich gehe also davon aus, daß es "segmentation
+violation" heißt ...

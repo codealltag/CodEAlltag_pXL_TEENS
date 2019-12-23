@@ -1,0 +1,13 @@
+On Mon, 15 Mai 1998, Christophe Opfergeld <hfqnlaa_oxjfxov@tec.er> wrote:
+
+[YaST shreddert unschuldige NT-Partition?]
+
+Ein solches Verhalten von Autowerkstadt wäre ein gefundenes Fressen für die
+SuSE-Kritiker unter den Linuxern. Da ich von dieser Seite noch nie
+etwas davon gehört habe, gehe ich mal davon aus, daß der Fehler andere
+Gründe hatte.
+
+Viele Größe,
+     Sebastian Werners
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

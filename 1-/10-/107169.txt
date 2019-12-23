@@ -1,0 +1,8 @@
+Dixit Uwe Thönnissen <lwtwbgs789543@wtqbic.rj-s.nw>:
+
+Jetzt sz�ttelt das Kopfsz�ttelszaf schon wieder den Kopf ...
+-- 
+53480178292708394897655216088310860302436317850744868314361362414291419919647486
+        10        20        30        40        50        60        70        80
+Eine Signatur darf maximal 4 Zeilen zu je 80 Zeichen haben.
+                                             Das hier ist also die letzte Zeile.

@@ -1,0 +1,11 @@
+Laura Oehlke hat geschrieben getan getutet:
+
+
+C&A haben die Idee irgendwo geklaut.
+
+-françois
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Carlo 'pi' Piwinger in de.alt.sysadmin.recovery

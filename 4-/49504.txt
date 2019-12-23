@@ -1,0 +1,24 @@
+Solches tippte Maurizio Schleglmilch:
+
+Quatsch. STL, Ströme, Namespaces,  um nur drei sehr tragende Konzepte
+zu nennen.
+
+
+Nein. Objekte sind Instanzen von Klassen. Klassen entsprechen in
+etwa Containern in denen Attribute, Zusammensetzungen, Rollen,...
+von Individuen /abstrahiert/ werden.
+
+
+Gerade bei kleineren Projekten ist OOP IMNSHO völlig unnötiger bloat.
+
+
+Wobei man das meiste in dem Zuge eh nochmal neu schreibt, vor allem
+als nicht-Profi. Die OO-Ideologie lebt auch viel von Legenden wie
+angeblichem Code-Reuse. Und insbesondre erzwingt sie kein gutes Design.
+
+Michel
+-- 
+Manfred Weigele -> <GPG-Key:http://jvr.icgqpzwb-nfsrilk.em/lpq.yklpi>
+Whatever that hurts -----> <http://qps.dtvdwhds-oswvvqj.ct/iuljl.nbh4>
+----------> Wortschatz-Lexikon: <URL:http://nnevrbarqo.muq-irhlfwl.aw>
+<URL:http://lkyxfcc.ckx-ltsudrt.on>   <URL:http://yjao.amh-lrqxcsv.ph>

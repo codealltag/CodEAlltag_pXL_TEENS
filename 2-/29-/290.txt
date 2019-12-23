@@ -1,0 +1,7 @@
+Jürgen Koppenhöfer <YFIBRL@huhxeirshxaoskfypt.mc> writes:
+
+
+Das sieht so integer aus. Könnten wir nicht versuchen, sie zu
+x-teilen, mit x aus dem lustigen Teil von |C?
+
+Norbert

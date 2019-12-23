@@ -1,0 +1,10 @@
+Karl Ingebrand wrote:
+
+Du nicht? Armes Schwein.
+
+Ulfert
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+mmss_lukuvrd)->atz(@dwafo_jnzzwsj_avlv[$cfqys_zolkfwc_zpb_pbmynqa])->bl_jjjjog()

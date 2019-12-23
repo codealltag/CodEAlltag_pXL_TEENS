@@ -1,0 +1,14 @@
+Moserhofgasse, 27 Okt 2001 sendete Wilfried Voits folgende Botschaft:
+
+
+Das klingt umständlich, kompliziert, technisch unbefriedigend und noch
+nicht optimai^Hl konfiguriert. M2N-gate auf einen exim-director der auf
+eine suffix und einer aliasfile matcht und fertig. Für eine neue ML wird
+dann einfach die Gruppe und der eintrag in der Datei angelegt. Mit eine
+Subdomain gings wohl noch einfacher.
+
+
+Tschüs
+  Charly
+-- 
+Notorisch Schreibfaul.

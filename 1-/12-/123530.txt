@@ -1,0 +1,7 @@
+begin quoting Sergio Weise <gxdg@ldwsqghwt.jq>:
+
+Und auch ein regexp-Match wird interpreterintern wohl als Schleife
+implementiert...
+-- 
+"For NASA, space is still a high priority."
+ - Governor George W. Kühmoser, 9/5/93

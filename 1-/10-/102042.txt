@@ -1,0 +1,10 @@
+Karl Corss' <cg@garbers.org> writes:
+
+
+<507ws1l8x1.hil@hmox.oo058748.hcnfkb.njpi-ddkvre.nx> gibt Auskunft.
+
+Ferdinand
+-- 
+Wie jagt man einen Elefanten - Teil 3:
+LISP-Programmierer bauen einen Irrgarten aus Klammern und hoffen,
+dass sich der Elefant darin verirrt...

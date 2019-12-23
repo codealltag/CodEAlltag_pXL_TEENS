@@ -1,0 +1,20 @@
+Timo Immink hat geschrieben getan getutet:
+
+
+Als selber-FAQ-Macher kann ich da nur zustimmen.
+
+User: "$FRAGE"
+Gruppenregular: "-> Read FAQ" (Gruppenregular !&elem;
+dtju-Leserschaft\(Stadler, Dröge-Witthohn, Nordholz))
+
+Kommt viel zu oft.
+
+
+Aber zumindest ist deine Adresse Ontopic :)
+
+-hero
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Robert 'pi' Piwinger in de.alt.sysadmin.recovery

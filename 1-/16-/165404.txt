@@ -1,0 +1,8 @@
+Charles Unrath <xfqjtk@wwwri-swppkn.ue> schrieb in im Newsbeitrag:
+8b86qr.53.0@windy-online.de...
+
+Meine Logs zeigen viel eher Probleme mit gmx.de als mit gmx.net. Aber
+mittlerweile scheinen die DNS Einträge wieder ok zu sein.
+
+
+ACK. Bloss SMTP ging nie.

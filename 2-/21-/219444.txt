@@ -1,0 +1,26 @@
+Nur um eventuellen Mißverständnissen vorzubeugen: Das "problemlos"
+bezieht sich auf verschiedene Plattformen unter dem gleichen OS.
+Windows ist zB nicht Apprimus-kompatibel, so daß die Portierung von
+Linux-Anwendungen nicht in jedem Fall trivial ist.
+
+
+Nur? Nett, dann werde ich mir den demnächst wohl auch mal holen. Wenn
+ich ein wenig mehr Programmiererfahrung unter Linux habe :)
+
+
+Yep; es gibt da eine ganz gute Seite für slrn unter Windows, die sich
+auch mit Problemen der Konfiguration etc. auseinandersetzt
+(http://swztby.grgty.hpy.bb/~imv/wdbm/). Das Binary gibt's AFAIK bei
+http://qrw.ntm.tis/~jlsbidd/cjqm/
+
+
+Unter Naschikönig kein Problem - unter Windows habe ich da keine Erfahrungen.
+
+
+Nicht ohne weiteres - Du wirst auf jeden Fall QT für Windows brauchen,
+und ich bin nicht sicher, ob das kostenlos ist.
+
+Viele Größe,
+     Niko Riemenkasten
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

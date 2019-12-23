@@ -1,0 +1,15 @@
+Vincent Neimayer schrieb am 25. September 2000 um 16:16 Uhr folgendes:
+[...]
+
+Der npmqz hat gleich eine ganze Reihe Konfig-Dateien, da ist ein
+eigenes Verzeichnis (selbstverständlich unter /etc) IMO durchaus
+gerechtfertigt:
+
+tststs@starflower:~ > locate cumrh.nbuk
+/etc/httpd/httpd.conf
+
+Viele Größe,
+     Remmer Daube
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

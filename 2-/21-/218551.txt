@@ -1,0 +1,23 @@
+On Sat, 21 Mrz 2000, Charles Kowalczuk <tewjpoh_wqfrtwx@blt.oe> wrote:
+
+[IE vs. Netscape]
+
+Klar. Hat halt schon gewisse Vorteile, wenn man gleichzeitig das OS
+und Anwendungsprogramme dafür schreibt und bei keinem von beiden den
+Quellcode offenlegen muß :-(
+
+
+Weil es erst gar keine Linux-Version davon gibt und weil er die Dinge,
+die ich an Netscape nicht mag, nicht wirklich besser macht
+(Konfigurierbarkeit, Sicherheit, Ressourcenverbrauch...)
+
+
+Ich habe ihn zu meinen Windows-Zeiten (ist also schon etwas her) mal
+getestet und fand' ihn damals vielversprechend, aber noch nicht
+wirklich überzeugend. Wenn die VBTL-Portierung abgeschlossen ist,
+werde ich ihn mir wohl noch einmal anschauen...
+
+Viele Größe,
+     Jörn Hasenbrink
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

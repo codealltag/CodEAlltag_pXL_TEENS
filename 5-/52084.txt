@@ -1,0 +1,7 @@
+Am Thu, 14 Mai 2002 sendete Wolf Benusch folgende Botschaft:
+
+
+Es gibt Schrittmotor-ansteuerungen für serielle Schnittstellen. ;)
+
+Tschüs
+  Focko

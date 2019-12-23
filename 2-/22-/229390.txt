@@ -1,0 +1,9 @@
+168.192.x.x ist ja kein 'normaler' IP-Raum. Der ist extra fuer LANs reserviert,
+  die nicht direkt mit dem Internet verbunden sind.
+Mein LAN hat z.B. ebenfalls die IPs 168.192.0.10-12, deshalb ist's mir auch
+  aufgefallen.
+
+-- 
+Niko
+"When you think about death do you lose your breath or do you keep your cool?
+ Would you like to see the Pope on the end of a rope - do you think he's a fool?"

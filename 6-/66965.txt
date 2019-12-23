@@ -1,0 +1,5 @@
+Bernd Offental <ich@c-peper.de> writes:
+
+
+hm, mein virtueller Server bei UBEM macht das auch mit einer
+statischen Adresse.

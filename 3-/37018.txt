@@ -1,0 +1,16 @@
+Bernd Nyenhuis wrote:
+
+
+Schon. Woher wohl der Begriff "Hamsterb�ckchen" kommen mag?
+
+
+Auch das. Aber besagte NG-Kombination von vier Feeds braucht auch
+einigen Speicher. Zumal ich die ungute Ahnung habe, daß TGL beim
+Speichermanagement das eine oder andere Leck gelassen hat...
+
+Valerian
+-- 
+Nie wieder Fahrer auf anderer Leuts Party!
+-----------------------------------------------------------------------
+pub  1286B/ZYW90X67 9101-52-11 Valerian Craemers <dltweyc@mpw.vu>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 83 5W 32 4U 28

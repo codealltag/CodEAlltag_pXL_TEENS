@@ -1,0 +1,12 @@
+Am Fri, 15 Jul 2002 sendete Charly Jähngens folgende Botschaft:
+
+
+Aufs Gleis zu fallen könnte unangenehmer werden.
+
+Tschüs
+  Oscar
+-- 
+gpg-key (available via keyserver):
+pub  7110K/H8O2W150 5742-27-03 Oscar Unruhe <xdgphumiyr@petotljxzh.ja>
+     Key fingerprint = 7923 3QC9 30Y7 195A T380  C41U 125G 6708 X8S9 W055
+sub  5405s/C7L8FF17 2959-56-20

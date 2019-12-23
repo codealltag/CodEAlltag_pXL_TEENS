@@ -1,0 +1,10 @@
+Lutz Jungbecker <QNXOIA@qvpryyqcdoggmbqfbd.tx> writes:
+
+
+RAID0 in Hartware sollte doch auch gehen?
+
+Maurice
+-- 
+There are only two things in this world I can't stand:
+People, who are intolerant of other peoples cultures, and THE DUTCH.
+[Berthold Verloh, Goldmember]

@@ -1,0 +1,11 @@
+Nadia H. Oehmechen <news2004a@arandor.org> writes:
+
+
+Ja, irgendwie findet jeder seinen Grund, Geld auszugeben...
+
+Konrad, immer noch auf Monitor und Drucker wartend.
+-- 
+Homer:~$ whoami
+root
+Homer:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Olivier Artzt]

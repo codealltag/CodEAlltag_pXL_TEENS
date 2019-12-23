@@ -1,0 +1,20 @@
+In article <slrn7jrltc.2cs.tststs@starflower.tststs.ddns.org>, Charles Weil 
+wrote:
+
+mein suse hat da z.b. web/ftp-serverroot hingesteckt, was strenggenommen
+auch nicht sein sollte. aber andere beispiele gibt's auch: z.b.
+uucp-konfiguration in /var anstatt in /etc (hat sich inzwischen geändert)
+sowie die ganz neue angewohnheit, einiges nach /opt zu packen, anderes aber
+nicht. 
+
+
+naja, ich bin halt ein bequemer mensch. lieber 5min länger online und es
+läuft ohne irgendwas lesen zu müssen... 
+
+mfg
+    ihno
+
+-- 
+Ihno Gehrike  -  eMail: ytidcc@oth.szrnm.us
+IRCNet: ^Spooky    -         czuikx@xbs.eadhpwcp.nf
+          --  http://eyt.kox.jyqwj.kn/ --

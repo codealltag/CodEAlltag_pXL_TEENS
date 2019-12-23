@@ -1,0 +1,10 @@
+* Ingo Ulber <oagqfri591621@zaoeze.vn-j.pi>:
+
+
+Du könntest natürlich LaTeX und XEmacs kombinieren, da XEmacs da jede
+Menge Funktionen/Unterstützung bietet. Da bin ich aber eindeutig der
+falsche Ansprechpartner.
+
+Willy
+-- 
+cross veinless

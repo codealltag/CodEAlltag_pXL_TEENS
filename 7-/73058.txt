@@ -1,0 +1,14 @@
+Willy Pfluegl schrieb:
+
+
+Ich will eigentlich nicht lägen, aber: Ja.
+
+
+Oh doch!
+
+Johann
+
+-- 
+Effekt ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

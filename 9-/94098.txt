@@ -1,0 +1,11 @@
+Und so sprach Albrecht Neß:
+
+
+OK, ich geb Dir nen SSH Account mit einem Shell-Skript, mit dem Du Dir
+die Mail zuschicken lassen kannst.
+
+Gruss,
+Philipp.
+-- 
+                          WestWorks - the meta project
+                         <URL:http://ngk.xniwyfdee.ve/>

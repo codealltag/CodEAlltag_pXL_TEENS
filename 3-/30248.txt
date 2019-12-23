@@ -1,0 +1,3 @@
+Otmar Hoppstetter wrote:
+
+Sablotron gehört verboten. libxslt gehört die Zukunft.

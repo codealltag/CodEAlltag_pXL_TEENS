@@ -1,0 +1,11 @@
+Heribert Eckstet hat geschrieben getan getutet:
+
+
+Wie waer's mit einem Image von Hansens Versuch, toscanafraktion zu installieren?
+
+-ralph
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ulf 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,14 @@
+Am Tue, 7 Okt 2003 sendete Matthias Nils Mühlöder folgende Botschaft:
+
+
+*innanguck* Macht der sicj auf der Platte Breit.
+
+
+Also bei mir liegen die Kupi-Buffer ganz normal auf einer ext2-partition.
+*g*
+
+
+Sollte nicht rasier-fs nicht auch als DB zu benutzen sein?
+
+Tschüs
+  Anton

@@ -1,0 +1,3 @@
+Bernd Pollman wrote:
+
+Welche Treiber beziehst Du denn? Normalerweise sind die im 2MB Bereich.

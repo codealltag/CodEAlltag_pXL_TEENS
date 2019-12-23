@@ -1,0 +1,22 @@
+Vincenzo Fehlig schrieb um exakt 06:39 Uhr folgendes:
+
+
+*hust* Klar...
+
+
+s/Newsclient/Mail- und Newsclient/
+Das tolle daran ist ja, dass es praktisch keinen Unterschied macht ob es
+sich nun um News oder Mails handelt.  
+
+
+News will man ja auch auf dem localhost haben.
+
+
+Offenbar machst du etwas falsch.
+
+Wolf
+-- 
+Sehr geehrter Herr Rektor! 
+Falls mein Sohn weiterhin so faul sein sollte, möchte ich Sie bitten, ihn in
+meinem Namen gründlich zu verhauen. Zu Gegendiensten gerne bereit, zeichne
+ich ergebenst.         -  Francisco Terschluse an die Oberrealschul-Direktion Woppenthal

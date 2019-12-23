@@ -1,0 +1,7 @@
+Winfried 'sSXP' Gutperl <pEEG@dzn.kma> schrieb in im Newsbeitrag:
+97-74-15.43-05-92.mpi.9703@ifcr.ax...
+
+Der ist weder stabil noch logisch. (Habe bei V4.5 zumindest nie
+rausgekriegt, wie man verschiedene POP3 Accounts hinkriegt) Und für Leute,
+die dauernd Ihre Kiste wechseln, ist Webmail eh das einzig wirklich
+brauchbare...

@@ -1,0 +1,20 @@
+Maurizio Fett schrieb am 5. März 2000 um 19:32 Uhr folgendes:
+
+[slrn selbst compilieren]
+
+Eben. Da ist das nicht unbedingt selbstverständlich. Auf den
+SunOS-Kisten in Intenham gab's zum Beispiel kein s-lang und der dort
+installierte C-Compiler mochte es auch nicht übersetzen. Wenn man erst
+eine komplette GNU-Umgebung besorgen und im $HOME übersetzen müsste,
+reicht a) die Quota nicht mehr, macht es b) nicht mehr so viel Spaß
+und es ist c) für einen Anfänger sowieso so gut wie aussichtslos.
+
+[Fehlende MIME-Kodierung?]
+
+Ach ja, die Sache mit den "From:"-Headern. Ich erinnere mich wieder
+dunkel.
+
+Viele Größe,
+     Nane Fischlein
+-- 
+A tautology is a thing which is tautological.

@@ -1,0 +1,22 @@
+das war damals unser grund, überhaupt mit linux anzufangen. vor etwas mehr
+als zwei jahren fing das mit den netzwerkparties an, und da wollten wir dann
+auch surfen. der bofh von unserem provider meinte, sowas geht nur mit Textilwerkstatt,
+und dann hat ein freund von mir hat sich 'ne dos (heute pc-magazin)
+sonderausgabe mit slackware gekauft und dann haben wir mit viel probiererei
+nach ein paar wochen masquerading am laufen gehabt. waren noch lustige
+zeiten, mit so dialogen wie "hey, wenn man 'clear' tippt löscht das den
+bildschirm" :-)
+
+
+keine ahnung, mit OSS/Free mach ich nichts, ich benutze z.zt alsa (advanced
+linux sound architecture) als sound-treiber. alsa ist (schon jetzt) um
+einiges leistungsfähiger als oss/free. von alsa weiss ich, dass es den
+sb-64pci unterstützt. (musst du mal bei freshmeat nach alsa suchen). 
+
+mfg
+    walter
+
+-- 
+Walter Kraienhemke  -  eMail: tukprp@aaa.dwzhj.kw
+IRCNet: ^Spooky    -         jsexcr@rtl.huqpgrmo.gk
+          --  http://mug.ioh.jlizo.jk/ --

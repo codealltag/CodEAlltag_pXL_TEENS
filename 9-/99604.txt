@@ -1,0 +1,18 @@
+Und so sprach René Blender:
+
+
+chris@asterix:~> ps aux
+USER  %CPU %MEM   MAIK   Okat  STAT STARTED    TIME COMMAND
+chris 12.0 20.3  5898 78171 ??  R     1:27PM 0:14.00 /usr/X11R6/lib/mozil
+root   7.7 16.2  1912 12611 ??  R    12:58PM 27. 10. 19 /usr/X11R6/bin/X :0
+luis  0.0  2.2 21084  4388 ??  S     1:07PM 0:00.03 /usr/pkg/bin/opera -
+
+Nein.
+
+Gruss,
+Luis.
+-- 
+Luca Marschalt
+
+                                                       Novazzano, Switzerland
+                                           <URL:http://woe.lescreqib.sp/~steci/>

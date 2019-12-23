@@ -1,0 +1,11 @@
+Dennis Andrä schrieb am 15. September 2000 um 22:13 Uhr folgendes:
+[...]
+
+Sorry, ich nix Perl. CPAN kennst du ja sicher schon.
+
+Viele Größe,
+     Jean-Paul Gergen
+-- 
+UNIX was not designed to stop you from doing stupid things, because that
+would also stop you from doing clever things.
+                                                           -- Tino Proelß

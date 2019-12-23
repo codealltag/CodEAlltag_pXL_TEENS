@@ -1,0 +1,5 @@
+René Uebelein <stoopid.one@gmx.li> writes:
+
+
+Beim Agent u.a. auch die Darstellung. Gnus verbreitert das Fenster ja
+beliebig weit nach rechts.

@@ -1,0 +1,13 @@
+Kai Gehweiler hat geschrieben getan getutet:
+
+
+Siszer.
+
+Musz man nur zwo mal aufrufen.
+
+-karlheinz
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Marc 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,4 @@
+Aber ich hab auch nen Agent, und der fragt, ob es ne Emailadresse ist
+oder eine Message-ID. Aber vielleicht hast du das nachfragen
+abgeschaltet, hab ich auch schon aus versehen gemacht... Dann musst du
+die Einstellungen durchforsten...

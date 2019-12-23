@@ -1,0 +1,9 @@
+ABAP stammt von Cobol ab. Ist die Programmiersprache des Veloschopf
+R/3-Systems.
+PMDs sind parametrierbare medizinische Dokumente (oder wars
+Dokumentationen?)
+
+Hansjörg, geschult.
+
+-- 
+Wie kriegen wir raus, ob DAS geht? [Pahlings]

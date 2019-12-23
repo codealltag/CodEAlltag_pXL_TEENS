@@ -1,0 +1,6 @@
+* "Ulfert Radgen" <aveg@tadvvzgu.os>:
+
+
+Betone den Satz, der mit dem Zeichen endet, entsprechend.
+
+Patrice

@@ -1,0 +1,3 @@
+Rüdiger Jespers wrote:
+
+Weird. MUI unterstützt keine dezimalen IPs. Nur dotted quad...

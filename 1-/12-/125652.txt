@@ -1,0 +1,15 @@
+* Uwe Weise <sbis@qbanwdiew.ej>:
+
+
+i4l läuft hier zumindest auf einem Rechner ohne Probleme.
+Und c4l bald auf dem anderen.
+
+
+hm... :)
+
+
+Wer will schon den Agent unter Linux?
+
+Menno
+-- 
+cross veinless

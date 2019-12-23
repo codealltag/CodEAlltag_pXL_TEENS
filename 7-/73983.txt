@@ -1,0 +1,11 @@
+Tim Anderleit hat geschrieben getan getutet:
+
+
+Ein Wort.
+
+-otmar
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Massimo 'pi' Piwinger in de.alt.sysadmin.recovery

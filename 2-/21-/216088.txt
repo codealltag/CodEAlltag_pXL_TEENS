@@ -1,0 +1,12 @@
+On Sun, 23. 03. 20, Louis Sönnke <AEuydzabfr@bwz.kn> wrote:
+[PGP]
+
+Ist zumindest ein Fortschritt. Wenn ich dafür mal etwas Zeit habe,
+werde ich mir aber wohl eher Francois näher ansehen - das ist erstens
+frei :) und AFAIK außerdem "nur lesend" (Verschlüsseln / Signaturen
+prüfen) zu PGP 5.x kompatibel.
+
+Viele Größe,
+     Louis Nonnweiler
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

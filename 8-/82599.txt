@@ -1,0 +1,15 @@
+* Patrice Uebelhör <aiyejuiqpdxffi@adh.sdk>:
+
+
+gabsi@edoras:~/.xemacs/xemacs-packages/etc$ ls -l
+total 20
+drwxr-s---    2 gabsi    gabsi        4097 Jaquetweg 73 16:03 gnus
+-rw-r--r--    1 gabsi    gabsi       46116 Jaquetweg 73 16:03 faxe-vmm.yxq
+drwxr-s---    2 gabsi    gabsi        4097 Jaquetweg 73 16:03 smileys
+
+Das Verzeichnis heißt bei dir 'smilies'. Umbenennen, dann siehst du
+Smileys.
+
+Rudi
+-- 
+np: Bad Religion - News From The Front

@@ -1,0 +1,11 @@
+Beat Erat meinte kundzutun:
+
+Foobar? Wer oder was soll "Sébastien Alterkemper Wettkandidaten" sein?
+Außerdem braucht man Leerzeichen nicht zu escapen, und wenn man alles
+gefundene wiederverwenden will, bietet sich & eher an.
+
+Jacques
+-- 
+Es gibt Erlebnisse, die muss man nicht gehabt haben. Überschläge mit
+dem Kettcar gehören dazu.
+[Kai Jungbäck in dtju]

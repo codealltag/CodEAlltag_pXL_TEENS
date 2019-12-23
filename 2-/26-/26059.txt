@@ -1,0 +1,15 @@
+Detlef Frenze <ssxmcjv@yio.lf> writes:
+
+
+Sorry, vertan gehabt:
+
+$ echo 'foo' > bar
+$ cat temp bar 2>&1 > file | sed 's/temp/szaf/' 1>&2 | cat < file
+foo
+cat: szaf: No such file or directory
+
+So hat man sogar automagisches Sammeln der Fehlermeldungen. ;)
+
+-vittorio
+-- 
+The most common form of marriage proposal: "YOU'RE WHAT!?"

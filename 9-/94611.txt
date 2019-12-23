@@ -1,0 +1,12 @@
+Gerhard Juelich hat geschrieben getan getutet:
+
+
+Doch. "Pugnate!" der ähnliches wurde damals beim Einfallen in
+gegnerische Städte benutzt.
+
+-fabian
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Mathias 'pi' Piwinger in de.alt.sysadmin.recovery

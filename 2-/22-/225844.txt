@@ -1,0 +1,13 @@
+swtsdu@gnw.ioesy.mg (Klaas Jähnicke) wrote:
+
+[linux-Zeugs, was sonst? ;)]
+
+Hey, haste endlich einen Provider gefunden? Schön das Du wieder da
+bist.
+
+C Ya,
+Beat
+-- 
+*arghl*
+Wie bekommt man das RedHat-Installationsprogramm dazu, Teile
+Installation in usr/local abzulegen?

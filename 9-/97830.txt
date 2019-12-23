@@ -1,0 +1,13 @@
+Charly Elsässers <cg@garbers.org> writes:
+
+
+Irgendwie schon.
+
+
+Meinst du? Naja, ich habs immerhin geschafft, die Lib in die
+jx.cs.oebx einzutragen, damit jpilot läuft...
+
+Max
+-- 
+Ich leide nicht unter Wahnvorstellungen,
+ich geniesse sie!

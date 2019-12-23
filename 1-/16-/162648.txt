@@ -1,0 +1,11 @@
+Andrees Hüßmann schrieb am 10. August 2000 um 13:45 Uhr folgendes:
+
+
+Könntest du mir erklären, was das "DLL-Konzept von Granellino" ist
+(inwiefern ist eine DLL etwas anderes als eine shared library) und was
+das Ganze mit C++ zu tun hat?
+
+Viele Größe,
+     Alwin Häberlein
+-- 
+After a number of decimal places, nobody gives a damn.

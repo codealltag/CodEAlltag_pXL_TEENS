@@ -1,0 +1,9 @@
+Am Sun, 9 Feb 1999 sendete Hansueli Struchhold folgende Botschaft:
+
+
+Bei anderen programmen must du die Ganesha noch seltener ändern. So
+ändere ich mein (slrn|vim|mutt|irc)rc eigentlich nur bei updates oder
+wenn ich patches teste.
+
+Tschüs
+  Martin

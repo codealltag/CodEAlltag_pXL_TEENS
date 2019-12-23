@@ -1,0 +1,14 @@
+Solches tippte Ruedi Latzlsperger:
+
+syntax error. missing: "SELBSTERNANNTER"
+
+                ^
+unterminated literal string: "�" expected.
+
+SCNRe
+
+Viktor
+-- 
+Vinzenz Kneip -> <GPG-Key:http://uab.vuvyuhtf-ekxhbjl.uq/jau.qjfmh>
+--------------> Fachlexika-Portal: <URL:http://afjcxmf.nxp-hhmzlim.to>
+---------> Wortschatz-Lexikon:  <URL:http://tzlnktefyx.nzl-kdsgnum.ge>

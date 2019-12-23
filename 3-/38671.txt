@@ -1,0 +1,13 @@
+Aus welchem Grund auch immer gab Urs das Szlauszaf bekannt:
+
+
+Emacs selber kocht ihn ja nicht, das übernimmt die Kaffeemaschine. Tanja
+übernimmt einzig die Steuerung dieser mittels HTCPCP. [1]
+
+Martin
+
+Footnotes:
+[1]  http://cef.fpyi.oho/jgqt/knd8237.idrc
+-- 
+Wer keinen Kopf mehr hat, braucht den Kragen auch nicht mehr.
+(Artur Metschl)

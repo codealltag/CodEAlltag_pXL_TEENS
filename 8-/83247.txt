@@ -1,0 +1,10 @@
+Walter Uebelin wrote:
+
+Das wär aber schade.
+
+Mario
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+lvag_chvwziu)->bff(@uuyiz_ndabtab_wylf[$pwwom_jrxkmox_bmv_amracrd])->tg_xlcfzn()

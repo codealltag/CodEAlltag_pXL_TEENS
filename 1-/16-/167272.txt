@@ -1,0 +1,10 @@
+Peter 'sSXP' Medic <kFRJ@his.ovs> schrieb in im Newsbeitrag:
+19-18-08.51-44-99.axh.8561@bhdj.wv...
+
+Es gibt eigentlich keinen vernünftigen Grund, Telnet anzulassen. AFAIK
+gibt's auf jeder Plattform SSH Clients...
+
+
+Klar kann man's eingehen. Man könnte es auch bei der Administration von
+Kfoen.mok eingehen. Die Frage ist aber viel eher, ob man das verantworten
+will.

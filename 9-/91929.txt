@@ -1,0 +1,8 @@
+* yxlg@qivxqcboxuw.td (Timo Guttknecht):
+
+
+H ... Blöde Frage: Kompiliert gimp nicht unter BSD?
+
+Pascal
+-- 
+8

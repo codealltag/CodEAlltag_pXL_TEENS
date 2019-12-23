@@ -1,0 +1,11 @@
+Marco Merschmann <rathcaryc.ulaoxu@cbijorkg.td> writes:
+
+         ^^^^
+
+KRANK. NOP ist ja bekanntermassen seiteneffektfreies
+Prozessortaktverbraten, aber mit Java kann man Prozessortakte
+verbraten _und_ seiteneffekte bekommen. _Egal_ was man macht.
+
+Kai
+-- 
+Today is the tomorrow you worried about yesterday

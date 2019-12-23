@@ -1,0 +1,11 @@
+Ralph Vonhofs <saqhlwx@igyxrrfru.jb> writes:
+
+
+Nimm <1d/2d> den Xandl...
+
+Nane
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Mario Fischmann in
+<suqe9e1vi2.8c5.mhnofix.fdzgvj@esm.lxl.ec-gsbfknxh.dd>]

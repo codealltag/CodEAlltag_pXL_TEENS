@@ -1,0 +1,7 @@
+Hat jemand aus der Gravity-Fraktion eine Idee, an was das liegen
+könnte (d.h. welche Funktionen bei JWCU so speicheraufwendig sind)?
+
+Viele Größe,
+     Ulrich Freeman
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

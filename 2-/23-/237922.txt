@@ -1,0 +1,6 @@
+Marcus Moll wrote:
+
+Nein, die GUI ist im Kernel verankert.
+
+-- 
+Bitte benutzt meine neue Adresse eeteips@uhh.eq

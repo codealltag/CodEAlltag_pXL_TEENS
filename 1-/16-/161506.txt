@@ -1,0 +1,14 @@
+Topspeed Modula 2 ist halt unsere Lieblingsanwendung, und nur danach
+richten sich die Übungsleiter, die Lieratur und so weiter. Wer Support
+für irgend was anderes erwartet, hat verloren.
+
+
+Mal sehen, die Alternative klingt nicht schlecht. Wäre wie mal ein
+Grund für Linux. :) Topspeed nervt jedenfalls durch schlechte Doku,
+unlogischen Aufbau, eine sinnlose und fehleranziehende
+Projektverwaltung und vieles mehr.
+
+-- 
+sSXP  
+     Boling's postulate:
+	If you're feeling good, don't worry.  You'll get over it.

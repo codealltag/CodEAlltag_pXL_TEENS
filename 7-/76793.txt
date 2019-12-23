@@ -1,0 +1,12 @@
+Am Thu, 07. 02. 20 sendete Fredi Zöller folgende Botschaft:
+
+
+N, slrn hat keinen einkompilierten default. Normalerweise muss entweder
+$NNTPSERVER oder '-h host[:port]' benutzt werden.
+
+Tschüs
+  Marco
+-- 
+Die Weisheiten des Juppi Jup: #5
+
+Kai Viellehner rockt.

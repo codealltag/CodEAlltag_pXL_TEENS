@@ -1,0 +1,25 @@
+Karlheinz Junghen <vvkftlk556216@iikydi.zh-e.pv> writes:
+
+
+[ ] Das nützt mir was.
+
+Die INNs bei JFZH scheinen eine Tendenz dazu zu haben, stressig zu sein.
+
+
+Wer weiss.
+
+
+ACK. Ich hab meinen RAM nichtmal komplett gebraucht, als ich eben mal
+spasseshalber Kernel gebacken hab.
+
+
+Hm. Blöd. Ich hab hier auf nem P1-Board 2x32MB, 2x16MB...
+
+
+*g*
+
+Sergio
+-- 
+Nostalgie ist auch nicht mehr das, was es früher mal war.
+Und die Zukunft war frueher auch besser.
+[Peter Eckholz und Artur Kolke in dtj]

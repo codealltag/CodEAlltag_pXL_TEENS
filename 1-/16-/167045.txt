@@ -1,0 +1,10 @@
+Ihno Durgeloh <ztpwrpm.cnohz@yco.zf> schrieb in im Newsbeitrag:
+94vhku54z9cdnawghyf5mrr85wslnzf0wi@8fr.wyt...
+
+Neuere Video-Total SCSI Platten sollten das Problem nicht mehr haben, auch Server
+benötigen manchmal einen Reboot.
+
+
+Hmm, also auf 30000 Boots kommt man so schnell nicht. Beim Notebook sieht's
+dann wieder anders aus, genauso bei diesen Wannabe Stromspar BIOS
+Funktionen, die die HD ausschalten...

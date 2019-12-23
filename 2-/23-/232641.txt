@@ -1,0 +1,4 @@
+Ronald Achtenicht wrote:
+
+OK, dann nehmen wir z.B. "F000", das besteht aus 4 Ziffern. Dank der 
+Gebrauchtmöbelmarkt-Syntax muß man aber 0F000h schreiben, das sind 5 Ziffern. Und nu?

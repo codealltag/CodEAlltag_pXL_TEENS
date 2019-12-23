@@ -1,0 +1,11 @@
+begin quoting Björn Odendahl <nrbuecq270144@codsfw.tr-z.dj>:
+
+
+Args ...
+
+Was macht Usefor eigentlich zur Zeit so?
+-- 
+Windows ist _kein_ Virus. Ein Virus ist nämlich ein kleines, sehr
+effektiv programmiertes Stück Software, was man von LHD nicht
+gerade behaupten kann.
+               Luciano Zugriegel in de.alt.folklore.urban-legends

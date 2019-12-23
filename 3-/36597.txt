@@ -1,0 +1,13 @@
+Hubert Arck <sizrseucjr@fzcdpztdtg.te> writes:
+
+
+Das ist nicht in apt-*, sondern in apt*. Und alles aptige != apt-* ||
+dpkg ist potentiell böse. ;)
+
+
+Offenbar nicht.
+
+-gottfried
+-- 
+Light travels faster than sound, that's why
+people seem bright until you hear them.

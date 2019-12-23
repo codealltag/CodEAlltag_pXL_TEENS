@@ -1,0 +1,13 @@
+Luis Rostins <cg@garbers.org> writes:
+
+
+Options -> Syntax Highlighting -> [X] In this Buffer
+
+HTH,
+
+Mike
+-- 
+Es tut mir leid, Olivier!
+[Italo entschuldigend zu Olivier, da dieser sich den ganzen Abend
+nicht mit Ute beschäftigen durf^W^W^W^W^W^W^W^W^W^W^W^W^W^W - völlig
+aus dem Zusammenhang gerissen]

@@ -1,0 +1,12 @@
+Am Tue, 28 Nov 2001 sendete Valerio Stunz folgende Botschaft:
+
+
+Eben, drum ists ja auch kein ISP.
+
+Tschüs
+  Heiko
+-- 
+gpg-key (available via keyserver):
+pub  0177Q/C0Z4B680 2102-46-03 Heiko Klaßes <vvhnyafujz@zeykayjfdl.ka>
+     Key fingerprint = 3660 6XR3 68M3 831B R581  V67I 189E 9605 C9Q3 O013
+sub  8814e/L9C7LV47 4029-39-18

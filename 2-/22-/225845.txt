@@ -1,0 +1,12 @@
+"Simon Laut" <Mtshvwo@qtlekfhaazt.vygvei.cc> wrote:
+
+[demo-Tape]
+
+Hier ist nix angekommen...
+
+C Ya,
+Maik
+-- 
+*arghl*
+Wie bekommt man das RedHat-Installationsprogramm dazu, Teile
+Installation in usr/local abzulegen?

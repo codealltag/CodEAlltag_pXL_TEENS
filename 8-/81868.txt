@@ -1,0 +1,14 @@
+Eckhard Stöwe hat geschrieben getan getutet:
+
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ^^^^^^^^^^^
+
+General Protection Fault in Modul logic.vxd. Press any key to reboot
+brain.
+
+-folkert
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Sébastien 'pi' Piwinger in de.alt.sysadmin.recovery

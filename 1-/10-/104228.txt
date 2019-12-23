@@ -1,0 +1,9 @@
+* Henry Schuhwirth <csoqiwcqwiyt@eccmruaff.cif>:
+
+
+Echt nicht? Hm, ich verwende keine temporären Scores (entweder ganz,
+oder gar nicht).
+
+Berend
+-- 
+cross veinless

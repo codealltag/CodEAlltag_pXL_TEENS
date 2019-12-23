@@ -1,0 +1,26 @@
+Ullrich Inderklef <lpfdcivcvr@hdhbqhzrvo.rk> kuendete:
+
+
+Nicht im Geringsten. - Zuerst hatten wir da ein paar alte Performas
+(der Name hat _ueberhaupt nix mit der Leistung zu tun), die stuerzten
+ab (mit Bombe und Sysfehler 11 und allem was dazu gehoert), wenn man
+sie nur schraeg ansah. Und so von wegen Dau: Wenn sie den Browswer
+starteten, mal das Fenster schlossen, hatten sie keine Ahnung, woher
+sie ein neues kriegen sollten, weil sie halt nicht bemerkten, dass
+nicht die Menuleiste vom Finder, sondern die von Netscape da war, wo
+man neue Fenster findet. Naja, dann ziehen sie jeweils den
+Netzteilstecker raus ...
+
+
+Ja, was wann?
+
+
+Nope; man kann z. B. zuerst die ganze Kernel-Config durchsuchen, um
+herauszufinden, wie die NIC konfiguriert werden soll ...
+
+Gruss,
+Luca.
+-- 
+     Luca U. Tenberg + Student @ Kantonsschule
+   http://qcw.puwkeseva.dt/ + Schaffhausen, Switzerland
+              YXN# 17154799 + wbks://vvv.gmeyj.av/

@@ -1,0 +1,10 @@
+* Jens Meewes <nmdrdq@kgibzck-fhbypp.xh>:
+
+
+Manche Leute sind so.
+
+Othmar
+=2D-=20
+$ grep "stoile" ~/News/de.talk.jugend.SCORE=20
+
+  ("Egon Vornholt <qsdwyv@rgkxmvldgu\\.xb>" -1000 nil r)

@@ -1,0 +1,14 @@
+Das Posting funktioniert. Im Gegensatz zu manch anderem:
+-Test in Non-Test-Group
+-fehlender Realname
+-vermutlich ungültige E-Mail-Adresse
+-vermutlich unbefugte Nutzung eines FQDN bei der Erzeugung der Msg-Id
+-Benutzen eines scheunentoroffenen Newsservers
+
+Peter Olßon,
+und der Agent rostet auch schon
+
+-- 
+Ich hasse den Kapitalismus!
+                                             E-Mail: itvxzy@zficmzoagw.bh
+---> Offizieller Kämpfer wider Dominik Inderdühnen des Ordens von dtju <---

@@ -1,0 +1,11 @@
+Louis Fuhrman hat geschrieben getan getutet:
+
+
+Yer waersion aff crosslinkt-maind is autdaetaet.
+
+-orlando
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Jann 'pi' Piwinger in de.alt.sysadmin.recovery

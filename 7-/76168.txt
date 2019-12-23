@@ -1,0 +1,41 @@
+* Eckhard Koalick <bnehmfapnyzr@qlzzrjaec.ipn>:
+
+
+gabsi@edoras:~/News$ find . -name "*.SCORE" -exec grep -c "windy" {} \;
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+gabsi@edoras:~/News$
+
+Oskar
+-- 
+np: Offspring - What Happened To You?

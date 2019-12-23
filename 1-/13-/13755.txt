@@ -1,0 +1,4 @@
+Ivo Eichsteller schrieb:
+Nein. Memory Management will ich schon selber machen. Alleine schon
+deswegen, weil ich dadurch deutlich schneller, kleiner und flexibler
+bin.

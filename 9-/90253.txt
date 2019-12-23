@@ -1,0 +1,17 @@
+* Detlev Fieth schrieb: *
+
+
+...zu den Standardheadern hinzufügen (Options|Posting|Custom Headers). 
+Damit ist zumindest der Body schon mal RFC-konform trotz Umlauten.
+
+Leider ändert das an der eigenen Ansicht gar nichts. Gegen die iso-Orgie, 
+sobald ein Umlaut im Subject auftaucht, kann man nichts tun. Und Dinge 
+wie
+
+muss man von Hand korrigieren. Probleme bekommt man, wenn man nicht weiß, 
+ob die Leute eigentlich Hilmar, Overbeeke oder Overbeeke heißen. Frauke 
+trainiert insofern das Namensgedächtnis ungemein. Von wegen 
+unpersönliches Usenet. ;-)
+
+-- 
+   :: bf ::

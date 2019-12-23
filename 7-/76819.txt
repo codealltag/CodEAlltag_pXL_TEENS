@@ -1,0 +1,11 @@
+Reinhold Liesenfeld hat geschrieben getan getutet:
+
+
+Sag das der FernUni.
+
+-egon
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Dario 'pi' Piwinger in de.alt.sysadmin.recovery

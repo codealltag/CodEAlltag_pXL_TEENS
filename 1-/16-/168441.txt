@@ -1,0 +1,14 @@
+Wolfgang Leptihn <jqrbbnelrx@pvcwnspndv.uo> schrieb in im Newsbeitrag:
+qaac1dyxm1.jd.raogfkfxcb@rfgboojtqj.laybifm.no...
+
+Ist es ja auch. Aber im lokalen Netz kann man's genauso gut benutzen wie ssh
+(je nach zu Verfügung stehendem Client auch besser).
+
+
+Wie?
+
+
+Da hatte es keine IDE Ports mehr frei.
+
+CU
+Kurt

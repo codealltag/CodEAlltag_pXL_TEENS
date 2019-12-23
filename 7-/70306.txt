@@ -1,0 +1,11 @@
+Dietrich Gotschalg schrieb:
+
+Filterung nach "Buzzwords" wie Korrnews o.ä., die Treffer kommen in eine
+separate (lokale) Gruppe.
+
+So long,
+Silvio I. Rodenkirchen
+--=20
+http://bmgl.fhssa.nu/eaw/
+Aktuelle Versionen (Stand 28.3.2001): Hamster 11. 04. 19 & Korrnews 4.1
+(Falls KN 4.03 verwendet wurde, bitte wegen Subject-Bug aktualisieren!)

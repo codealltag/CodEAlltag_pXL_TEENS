@@ -1,0 +1,14 @@
+begin quoting Bianca Jobelius <dpxr.h@pfczr.xv>:
+
+USER ülkü
+PASS ägidius
+
+Und weiter weiß ich nicht ...	
+
+
+LIST oder sowas ...
+-- 
+begin  ybcs.lcd
+Hi! I'm a polymorphic signature virus. Edit this line  as you like and
+distribute me until the bitter
+end

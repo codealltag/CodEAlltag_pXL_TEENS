@@ -1,0 +1,3 @@
+Fred Ukert wrote:
+
+Das ist dann i.A. nicht mehr sehr human readable. LZW jedenfalls eher nicht.

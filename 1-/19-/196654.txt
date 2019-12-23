@@ -1,0 +1,8 @@
+Am Tue, 07 Mai 2000 sendete Torsten Oehmicke folgende Botschaft:
+
+
+Hallo GA aufwachen, ein einfaches s/flachs/richtig/ sollte jeder kennen,
+aber \s \S und soweiteier sind wirklich eine perl eigenart.
+
+Tschüs
+  Oscar

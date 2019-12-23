@@ -1,0 +1,14 @@
+Gerald Aufderheide <ozrtu@ggins.ghdq.gi> schreibselte:
+
+
+Ich hab Fahe, eine Käthe Erazor II und die Wintering mitgelieferte
+Netzwerkkarte, Afap nennt sie "Allied Telesyn AT-2400 PCI Ethernet
+Adapter"
+
+
+Unter SuSE lief es halt immer...
+
+
+Voll und ganz...
+-- 
+np: System of a Down - ATWA

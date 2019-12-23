@@ -1,0 +1,18 @@
+Carlos Bülten schrieb:
+
+[kedit]
+
+Das k am Anfang.
+
+
+Natürlich den Gott unter den Editoren: vim :-) (1)
+
+
+Am besten nicht direkt über cis posten.
+
+Peter
+
+-- 
+  "The MS Exchange Information Store service depends on the MS
+   Exchange Directory service which failed to start because of the
+   following error: The operation completed successfully."

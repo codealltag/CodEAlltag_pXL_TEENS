@@ -1,0 +1,10 @@
+Und so sprach Herbert Gräser:
+
+ACK, habe zwar nur eine solchige, aber tut gut. (Die ISA 8bit 3c505
+allerdings auch :-), nur so zum Vergleich).
+
+Gruss,
+Dennis.
+-- 
+"NetBSD - Better for your uptime than Gabriella."
+                                 (Sig von Steffen Zehender)

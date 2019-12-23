@@ -1,0 +1,11 @@
+Tobias Aldes <bsmnjp@fdlyxquejt.jb> kuendete:
+
+
+rm -r ist auch nicht ungefaehrlicher. Und unmount gibt's auch nicht.
+
+Gruss,
+Niels.
+-- 
+     Nico W. Januar + Student @ Kantonsschule
+   http://qzh.flpzfskhc.qq/ + Schaffhausen, Switzerland
+              HQO# 30589340 + tnzk://zwn.oeqmc.wd/

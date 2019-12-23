@@ -1,0 +1,11 @@
+Uwe Breyer <endcgm@bpdxpjfjzc.mg> writes:
+
+
+Wieso, wenn ich PHP und eine mySQL-Datenbank im Hintergrund habe, ist
+die Implementation trivial.
+
+Edo, weder EBD noch mySQL-Datenbank im Hintergrund
+habend. Mift. Dann den ganzen Kram per email machen müssend.
+
+-- 
+Gott schätze Amerika. VOR MIR!!

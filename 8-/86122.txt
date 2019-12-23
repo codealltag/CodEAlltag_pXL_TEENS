@@ -1,0 +1,15 @@
+Am Tue, 5 Sep 2001 sendete Gérard Fiedeldey folgende Botschaft:
+
+
+Nach 0.5H schon 5MB swap?
+
+
+Weil das meiste eh nur Plattencache ist?
+
+Tschüs
+  Henning
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Nikolaus Ellingen, Mostly Harmless, Chapter 12

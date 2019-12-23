@@ -1,0 +1,8 @@
+Endlich kein GUI mehr, das einem dazwischen funkt, bessere Docs (allerdings 
+weniger kommerzielle), weniger DAUs auf den MLs, cvsup für Kernel und 
+Userland, *1* Distribution, deswegen keine Probleme mit kaputten Hierarchien 
+etc. Halt BSD und nicht SystemV (wo Linux AFAIK eher hingehört, BSD fehlen 
+zB die unseligen Runlevels). Besseres Packetmanagement als rpm (IIRC ist deb 
+stark von den ports inspiriert), insgesamt wohl fähigeres Entwicklungsteam 
+und sicher besserer Ansatz für ein OSS OS, Kernel und Userland besser 
+aufeinander abgestimmt, make world, BSDL.

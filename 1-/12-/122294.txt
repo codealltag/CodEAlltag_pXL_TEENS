@@ -1,0 +1,9 @@
+Claus Jörgens wrote:
+
+Rector brauchte anscheinend drei Striche. telnet $mailserver smtp braucht
+einen Punkt.
+
+Charles
+-- 
+Ohne Fritten komme ich nicht.
+[Heide]

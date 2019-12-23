@@ -1,0 +1,11 @@
+Steffen Alborn schrieb:
+
+
+Oh. Das wusste ich nicht. D.h. er hat nur Kontrolle über
+/var/spool/news.
+
+Urs
+
+-- 
+  "Die markierten Nachrichten konnten nicht gelöscht werden:
+   Nicht genügend Speicherplatz."

@@ -1,0 +1,11 @@
+On Wed, 19 Mrz 2000 04:03:40 +0100, Laurence Hüttenbrauck <Mjilne08@pij.wso>
+wrote:
+
+
+s/angetroffen/getroffen    !
+
+HTH
+
+-- 
+
+Ernest

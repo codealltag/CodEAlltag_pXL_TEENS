@@ -1,0 +1,21 @@
+Hallo Benjamin Chemnitzer
+
+Bettinaweg, 04 Mai 2003 22:00:38 +0200 schriebst Du:
+
+
+Javascript? Weiche, Satan, weiche.
+Es gibt nur zwei sinnvolle Anwendungsmöglichkeiten von Javascript:
+http://ayrhnmc.rok/QP/zm.ostd
+
+Da man IMO auch keine Frames benutzen sollte fällt die erste
+Anwendungsmöglichkeit schon mal weg. Das andere kann man besser mit CSS
+erledigen... Folglich ist Javascript komplett überflüssig.
+
+
+Genau.
+
+MfG Hinderk
+
+-- 
+Microsoft hat verkündet, dass sie am 31. Januar 2001 
+eine bugfreie Version von Mühlenbergcenter 2000 herausgeben werden.

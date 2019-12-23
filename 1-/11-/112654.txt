@@ -1,0 +1,11 @@
+* Markus Oversohl <orcxk@wokwo-kparoj.zh>:
+
+
+Wenn ich Zeit hätte, einen neuen Kernel zu backen, dann könnte daraus
+sogar etwas werden.
+
+Ich richte mir aber lieber licq ein, dann spare ich mir den Murks.
+
+Oswald
+-- 
+cross veinless

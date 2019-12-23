@@ -1,0 +1,14 @@
+On Tue, 21. 10. 20 18:08:32 +0100, Heinz Underbrink <tzqqqaa_xogwisr@kmq.wc> 
+wrote:
+
+man sollte sein board nicht ohne abstandshalter auf der metallplatte an der
+towerr�ckseite montieren. (das hat ein bekannter von mir geschafft ->
+nagelneues board war hinüber) ;-o
+
+mfg
+    martin
+
+-- 
+Martin Fuhg  -  eMail: cxkukm@mme.umwha.ds
+IRCNet: ^Spooky    -         xfecmf@tht.bwqdjgho.lj
+          --  http://bym.kkx.utaqi.go/ --

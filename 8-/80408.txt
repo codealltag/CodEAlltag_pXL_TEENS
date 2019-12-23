@@ -1,0 +1,14 @@
+* Berta Barfuhs <vgzx@avgf.cq>:
+
+
+Sollte ich denn?
+
+gabsi@edoras:~$ ls -l /var/files/audio/mp3/gabsi/ | grep "Foo"
+gabsi@edoras:~$
+
+
+Wieso das?
+
+Hermann
+-- 
+np: Bad Religion - Hear It

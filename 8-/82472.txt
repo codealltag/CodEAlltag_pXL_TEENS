@@ -1,0 +1,14 @@
+Nuno Thill hat geschrieben getan getutet:
+
+
+Und das von einem 'admin' ;)
+
+
+Scheint wohl so zu sein.
+
+-andree
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Pascal 'pi' Piwinger in de.alt.sysadmin.recovery

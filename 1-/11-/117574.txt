@@ -1,0 +1,10 @@
+* Ivano Doepper <mogm@dvakcdpx.ff>:
+
+[UTF-8]
+
+Ab und an stört es ja auch nicht sehr. Auf die Dauer ist es nur
+schlecht, wenn der eigene Reader das nicht vernünftig anzeigt.
+
+Silvio
+-- 
+cross veinless

@@ -1,0 +1,14 @@
+On Thu, 22 Aug 1999 20:18:42 +0100, Heiner Bennink <pcnsoma_dmrcdab@qiy.lx> 
+wrote:
+
+warum? auch unter nt haben die programme nur die rechte des benutzers, unter
+dem sie laufen. wenn der benutzer keine scheisse machen darf darf das
+programm das auch nicht.
+
+mfg
+    fred
+
+-- 
+- Fred Cloot  -  eMail: rcymng@pyd.nciwo.je
+- IRCNet: ^Spooky    -         bxfokc@eqc.qfleoaqz.ea
+--

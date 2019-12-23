@@ -1,0 +1,10 @@
+Und so sprach Kai Gampper:
+
+
+Was hat Lydia mit roten Haaren am Hut? :-)
+
+Bernhard, tell me more.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

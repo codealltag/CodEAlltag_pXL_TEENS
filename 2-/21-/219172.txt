@@ -1,0 +1,16 @@
+nteobpa@iwo.ab (Ludwig Schulteiß) hat am 14 Feb 1999 19:01:32 GMT etwas
+geschrieben, was ich jetzt beantworten muß:
+
+
+Ich habe mir jetzt mal ne Bash inkl. gcc etc. für Windows gezogen und
+versucht etwas zu kompilieren. Tja, das klappt nur leider nicht so wie
+ich es will...
+
+
+Ciao, 
+
+-- 
+eMail: yestov@lhobf.lt     Homepage: http://bkvhmejlz.gpel.zaouw.po/                       
+ IRC : Ret @ #saanen      Letztes Update : 19.07.1998
+  - DH/DSS Public Key available per mail... 
+   --- Schutzpatron aller Frauen von dtju --- :-)

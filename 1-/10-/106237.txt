@@ -1,0 +1,8 @@
+Dixit Jochen Holzemer <sh@jzufnhp.bcn>:
+
+Darüber hab ich mich auch schon gewundert.
+-- 
+73113550840271362011132016254129535617908262594509617832063136816456904955963538
+        10        20        30        40        50        60        70        80
+Eine Signatur darf maximal 4 Zeilen zu je 80 Zeichen haben.
+                                             Das hier ist also die letzte Zeile.

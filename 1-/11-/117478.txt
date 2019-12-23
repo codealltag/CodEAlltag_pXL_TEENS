@@ -1,0 +1,21 @@
+* "Yang Jäscke" <twig.rinhv@zio.ob.bm>:
+
+
+Gehabt.
+
+
+Egal.
+
+
+gabsi@edoras:~$ telnet arrn.dvsb.kyr.op gdrw
+Trying 07. 02. 20...
+Connected to ahfl.leqj.vyc.kt.
+Escape character is '^]'.
+502 Permission Denied - Permission Denied - Powered by Typhoon -- http://pte.kyhkkpvv.bku/ (Typhoon v1.2.2)
+Connection closed by foreign host.
+
+Permission denied ist gut. Typhoon kenne ich nicht. Naja.
+
+Serge
+-- 
+cross veinless

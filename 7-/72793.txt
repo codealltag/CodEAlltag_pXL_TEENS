@@ -1,0 +1,11 @@
+Roberto Lichtenberg meinte kundzutun:
+
+
+Was macht slrn wenn er im .followup eine Nene vorfindet wenn bei ihm
+MID-Generation aus ist? Gibt er sie weiter wie jeden anderen Header
+den man einfügt oder verwirft er sie?
+
+Patrick
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Freitag, dem 13. April im Jahre des Herrn 2002 verfaßt.

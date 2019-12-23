@@ -1,0 +1,18 @@
+Sébastien Kircher schrieb:
+
+
+Mal aufzählen?
+
+. zur Schule gehen
+. Fernsehen gucken
+. Musik hören
+. hm...
+
+
+Und jetzt meins schon wieder nicht. Sowas aber auch.
+
+Bernard
+
+-- 
+ms@matrix:~$ cat .signature
+ms@matrix:~$

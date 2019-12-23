@@ -1,0 +1,8 @@
+Massimo Tönnes wrote:
+
+Draufhauen.
+
+Und
+rm -r `locate bsh`
+
+Richard

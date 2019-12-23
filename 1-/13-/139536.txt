@@ -1,0 +1,86 @@
+STATISTIK 10. 09. 19
+-=-=-=-=-=-=-=-=-=-=-=
+
+DAU-Louis
+
+Pos. DAUs  Msgs   Ratio  Name
+---------------------------------------------------------------------------
+  1   405     4  101,25  ovg@aymnbwkwsn.ab
+  2   189     2   94,50  Evil Azrael <DavdPccaof@LtabQmnlnr.fl>
+  3    90     1   90,00  prb_lljdy@idanwvj.iut (P. Zinkgräf)
+  4    83     1   83,00  "Laurent Verdieck" <tdi@gcxa.uoa>
+  5    78     1   78,00  "Louis Schwierskott)" <kxvxswn@mpo.ev>
+  6   291     4   72,75  "Günther Tiemens" <fey@dblpkrn.oi>
+  7    72     1   72,00  "guenter berges" <pdffxvmc@fyjvoeq.cg>
+       72     1   72,00  "Olaf Isenbort" <a.vkufkwtchn@knaceyqltnb.zn>
+      144     2   72,00  "Willy Barnsteiner" <dgmxzifg@xe-kpviiaeusg.gg>
+ 10    71     1   71,00  Vittorio Dilge <vpak@rtd.li>
+ 11    70     1   70,00  Juergen Ginkel <afkiltv.uqkykn@gjqxue-hikghra.jpc>
+       70     1   70,00  ivktsx@vixrdu.twnrqnz.qi.wvs (Nico)
+       70     1   70,00  Thomas Zeeh <R.Dtnqtsd@lsmdzbo.ni>
+      140     2   70,00  Heinrich Igelspacher <vhhx@jqys.rvdz.mn>
+       70     1   70,00  awjkccxyq@xnyzo.wrk (erich s. uhl)
+ 16    50     1   50,00  csfjgddhogr@rqol-vdelk.gqf
+ 17    47     1   47,00  axtp@hociwzddqltko.jcy
+ 18    31     1   31,00  "Klaus Traber" <fhahom@huaonvpnhg.dl>
+ 19    30     1   30,00  Massimo Rettinger <wruyjti.bubkpv@kcq.lz>
+ 20    22     1   22,00  Jean Tägder <binilacld@zrx.wvv>
+ 21    21     1   21,00  rayhxk@uwzgkfsrvyedhxs.xsx
+ 22    41     2   20,50  evkien@uv7ovswnb2v1hpe.kul
+ 23    20     1   20,00  ivvivx@SECONDRING.COM
+       20     1   20,00  krhjqt@sg2amseqo5z7lnu.vph
+       20     1   20,00  dqjaug@igebfios.hev
+ 26    17     1   17,00  "LUCIANO" <kgaiqc43@vwshyqp.xub>
+ 27    29     2   14,50  "Michel Christ" <pjvbed@pttljl.hn>
+ 28    11     1   11,00  "Franco" <pspav@rsr.fm>
+       11     1   11,00  ngrkykn@qlxmrghidltji.ijs
+       11     1   11,00  Eric <bkrnjaiup9i@o-yqjcsy.hv>
+ 31    75     7   10,71  "Jann Bruuns" <zkpi@bvjrdngijz.em>
+ 32    21     2   10,50  Skee <Wlctmua@tcy.rp>
+ 33    10     1   10,00  xbliohe@xolw.lxu
+       30     3   10,00  spambot@stopspam.org
+       10     1   10,00  Rudix <yttev@rzbbov.ps>
+       10     1   10,00  kund@wtyc.fc
+       10     1   10,00  xfs@q51.ug
+       10     1   10,00  wnbr@dyvlpxl.cvv
+       10     1   10,00  Mayrhofer <Mrkvv-Gqrbgdvc@o-utonzl.vw>
+       10     1   10,00  vxgjrb@nmnne.cj
+       10     1   10,00  besjol@nuc.hli
+       10     1   10,00  vuao@moubopnujr.yva
+       10     1   10,00  kjstpunn@e-vszlgq.ii (aiguille)
+       10     1   10,00  Valerius <weieurhdf81@ln-lywb.ktl>
+ 45     9     1    9,00  "Theres Inhetpanhuys" <bsbrxx_pvxpvylq_@dei.me>
+ 46    25     4    6,25  "Patrik Adami" <pag.fjcmrgy.s-gwih@acp.kk>
+ 47     6     1    6,00  "Othmar Jungewelter" <zpcsvbemftpdf@ffszfw.rt>
+        6     1    6,00  "Jean-Claude Sandvoß" <muzvg�wiqhxj@dfoagakwz.qm>
+ 49     5     1    5,00  vdaojf@mqikt-gmtvvy.js (Jürg Sonneborn)
+        5     1    5,00  Othmar Arnholtz <kjeqefbj@djxnvrfrc.ug>
+       20     4    5,00  qybtjg@giydc.ld (Nico Ißleb)
+        5     1    5,00  Pierre Stempels <nmthkfq_zh@woj.bfq>
+       20     4    5,00  imtttnrlz@iqnru-tmdnld.ak (Theda Sonneborn)
+ 54    12     3    4,00  Jean Ewerhart <Isenbiehl.Jdqoe@E-Mjinfz.oe>
+ 55    11     6    1,83  "Emmerich Amberg" <Xggtfo@ryo.jq>
+ 56     7     4    1,75  "Jean-Claude Sandvoß" <ajdsetwxfvgs@zpz.kf>
+ 57    10     7    1,43  Bjoern Depner <tyfryn@ppzn.ui>
+ 58     4     3    1,33  "Pasquale Zeman" <aaraks4623@mfj.rqm>
+ 59   613   473    1,30  pebemz@hywcstmjn.ut (Klaas Ertelt)
+ 60     1     1    1,00  Konrad -HERZ- Makowski <herz@flirtcafe.ORG>
+ 61   147   259    0,57  Jann 'sSXP' Irnich <kTXN@bya.udn>
+ 62   101   212    0,48  xalxkt.inssbqieuyk@tdn.mk (Tanja Zimmerhackel)
+ 63   109   277    0,39  Salvatore Glazle <tgshsnp@pvtf.fi>
+ 64    42   113    0,37  Sabina Depke <ttkyhxcx@pad.mgj>
+       30    81    0,37  vzrfmfgz@z2jgxi.cid (Niklaus Leo Hayd)
+ 66   111   316    0,35  qxrrkhxnlc@dzatvxfvoc.jr (Günther Isenrath)
+ 67   159   579    0,27  zroi.hmetbuds@jdx.bw (Werra Amende)
+ 68    61   262    0,23  Hansruedi Zscheuschler <ujaycv@emw.jsh>
+ 69   197   994    0,20  Theda Sonneborn <imtttnrlz@iqnru-tmdnld.ak>
+ 70     3    22    0,14  Jean Anzel <wivznoewivmeni@tvpxmrv.rj>
+ 71    57   736    0,08  <dzachgx@xzouc-kft-krpj-pene.zif>
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 10. 09. 19 von Louis Zumkeller.
+(Darstellung angepasst von Jann Sorgert)
+Basierend auf den Feeds von:
+ypjkniay.cgddl.bw         qwwn.qvg.gjs.iz           sxkl.t-cmnziv.cy  
+ntbs.tez-hmnxepyf.oj      lbvl.bte-ekqqtbyk.pr      rpho.imx-fgnhrfkjl.ew  
+ltixgdybue.ipmnrpiydl.jv

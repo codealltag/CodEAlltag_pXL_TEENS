@@ -1,0 +1,11 @@
+Und so sprach Vittorio Bartelsen:
+
+
+DTDs sind baeh!
+
+Gruss,
+Gilbert.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

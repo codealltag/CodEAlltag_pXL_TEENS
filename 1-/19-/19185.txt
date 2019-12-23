@@ -1,0 +1,6 @@
+Dafür sind die doch da, oder?
+mfg, 
+	Otto
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

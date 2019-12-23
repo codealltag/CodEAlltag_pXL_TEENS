@@ -1,0 +1,11 @@
+On Sweetmorn, Day 31. 10. 20 Daebel das Szlauszaf wrote:
+
+                   ^^^^^
+
+Das wäre auch eine blöde Idee, Walter ist doch kein Spammer. ;-)
+
+Hartmut
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - Microsoft, 31. 10. 20

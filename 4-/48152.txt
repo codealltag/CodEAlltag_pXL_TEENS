@@ -1,0 +1,16 @@
+Moin Wolfgang
+
+Quote [ Wolfgang Imgrunt * Zänkner, 10 Jul 2002 14:09:00 +0000 ]
+
+
+HamRasDial( $Provider, $Username, $Password )
+HamFetchMail( $server, "pop3", $Username, $Password, "admin")
+
+
+Muss nicht sein...
+
+HTH
+ Kurt
+
+-- 
+Alle Kinder langweilen sich zu Tode, nur nicht Mario, der hat ein Hobby.

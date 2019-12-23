@@ -1,0 +1,13 @@
+Luigi Caspers hat geschrieben getan getutet:
+
+
+Yggdrasil ist ein Cyrix 6x86 200 .. bei Spielen dank fehlender FPU ca.
+genau so schnell, aber als Router, Rumspiel-Linux und X-Client ;)
+reicht's.
+
+-niko
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ruedi 'pi' Piwinger in de.alt.sysadmin.recovery

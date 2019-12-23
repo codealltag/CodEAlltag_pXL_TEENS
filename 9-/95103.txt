@@ -1,0 +1,6 @@
+dsrdscs_pikjkxd@qkkl.mx (Gabriel Ambuehl) writes:
+
+
+Tja, das ist aber eine Sache der Policy. Die Pakete müssen nur
+unterschiedliche Namen haben und die Abhängigkeiten müssen korrekt
+sein.

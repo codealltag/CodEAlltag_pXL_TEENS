@@ -1,0 +1,32 @@
+C:\XP>telnet adte.snz.lws.yp 201
+200 fbsp.xl-mpmazm.qt welcomes p6l8w2q1c.hyo.x-wgmrxv.hjr (21. 03. 19).  
+Authorization required for reading and posting.                         
+authinfo simple xxxxx xenia
+281 Authentication accepted. (UIDe2)
+xuid
+280 User information
+    User-ID: 675
+    Access: 16 [652]
+    Client: p6l8w2q1c.hyo.x-wgmrxv.hjr (21. 03. 19)
+    Reading: allowed
+    Posting: allowed
+    Newnews: allowed
+    Posting into readonly groups: not allowed
+    Setting Approved header: allowed
+    Setting Supersedes header: allowed
+    Address check in From/Reply-To header: yes
+    Setting individual path header: not allowed
+    Sending newgroup/rmgroup control messages: not allowed
+    UID check for cancel messages: no
+    Organization: extern
+
+    Amount of articles posted today: 0 (Maxmimum: 500)
+.
+quit
+
+Pasquale Terkatz-Loevenich 
+
+-- 
+Ich hasse Alf!
+                                             E-Mail: hrlcjy@cmgbulpdul.wj
+---> Offizieller Kämpfer wider Valentin Meyer-Spelbrink des Ordens von dtju <---

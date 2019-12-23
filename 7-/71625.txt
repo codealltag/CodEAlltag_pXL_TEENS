@@ -1,0 +1,11 @@
+Ullrich Reifschläger hat geschrieben getan getutet:
+
+               ^^^^^^^^^
+Da moechte ich mal ein einziges gutes Wort drueber hoeren.
+
+-nicolas
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Stephan 'pi' Piwinger in de.alt.sysadmin.recovery

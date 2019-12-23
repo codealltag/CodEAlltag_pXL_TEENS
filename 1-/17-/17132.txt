@@ -1,0 +1,3 @@
+1000, wenn das keine schöne Zahl ist...
+-- 
+Wer später bremst ist länger schnell!

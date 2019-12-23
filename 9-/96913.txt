@@ -1,0 +1,2 @@
+Ich frage mich ja echt, wie man auf die Idee kommt, einen fully blown MTA zu 
+benutzen, nur um per POP seine Mails abzurufen.

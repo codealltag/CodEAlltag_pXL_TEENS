@@ -1,0 +1,11 @@
+Maurizio Preusler <fkurvhefdh@awjosoqgvg.bg> writes:
+
+
+Du sollst relativ referenzieren, und nicht absolut. Dann geht auch der
+Wechsel problemlos. ;)
+
+-bodo
+-- 
+Nun, ohne deinen Namen zu sehr verhunzen zu wollen.... aber es klingt bestimmt
+lustig, wenn du dich einem Mann vorstellst, der auch Christof heißt :)
+- Kai Christianssen zu Christof Nimmich in de.alt.sysadmin.recovery

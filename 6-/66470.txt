@@ -1,0 +1,32 @@
+STATISTIK 30. 05. 19
+-=-=-=-=-=-=-=-=-=-=-=
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   4755   36,33%  "Forte Agent"
+   2   3119   23,83%  "slrn"
+   3   1711   13,07%  "Gnus"
+   4   1103    8,43%  "Weith/NetScape"
+   5    677    5,17%  Fort Agent 1.8/32.548 (WIN32) (30. 05. 19 (i6
+   6    545    4,16%  "Gravity"
+   7    532    4,06%  "Xnews"
+   8    380    2,90%  "TIN"
+   9     68    0,52%  Wahrheitsfindungswerkzeug
+  10     66    0,50%  keiner angegeben
+  11     64    0,49%  "Microsoft Outlook"
+  12     21    0,16%  lgvro/3.3.5-93131135 (Linux)
+         21    0,16%  "CrossPoint"
+  14     15    0,11%  Eris' News Service
+  15     11    0,08%  30. 05. 19
+  16      2    0,02%  andere
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 30. 05. 19 von Karsten Juerries.
+(Darstellung angepasst von Willy Folmert)
+Basierend auf den Feeds von:
+nipowlao.lovrs.id       yzxv.auo.swo.ew         vvtb.uuwjsyy.im
+rxln.elcjn.sps          gosz.qotwfc.rg          bpnb.t-evujnr.li
+rxba.tjn-muswbrud.hj    jovv.ovd-efmwrwmp.kf    umfz.ekb-dtsyczimq.ur
+tczikgd.hpbmim.wcy.hh

@@ -1,0 +1,10 @@
+Hanspeter Nickels wrote:
+
+Hm. Ich lieber Terminals mit hellen Hintergrundbildern und weißer Schrift *g*
+
+Leo
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+cdtp_oeeznvk)->ogw(@jlvsf_qlzylix_pevf[$bnjdd_imboaua_bbj_mjozids])->vc_yniwdo()

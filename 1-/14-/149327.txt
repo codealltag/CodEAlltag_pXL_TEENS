@@ -1,0 +1,12 @@
+Nico Ishag <imhd-76538@bqlmkyq558757.xd-k.lx> kuendete:
+
+
+Jup *bg* Aber irgendwo kann man eben die fqdn eintragen (notfalls mit
+Hexedit ...), wo jetzt diejenige der Mailadresse steht.
+
+Gruss,
+Björn.
+-- 
+     Bruno C. Unverfehrt + Student @ Kantonsschule
+   http://dvj.kbllpgikg.qa/ + Schaffhausen, Switzerland
+              ZLZ# 08987264 + rdfi://mei.ausbf.wn/

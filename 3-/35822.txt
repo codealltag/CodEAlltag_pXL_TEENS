@@ -1,0 +1,10 @@
+Dieter Cottmann <emzjyevwau@zdrkhvpsvl.yn> writes:
+
+
+Nein.
+FootLooker ist auch in debs verpackt und bleibt Scheisse.
+
+
+Das soll mit dselect gehen, wenn man es denn versteht.
+
+-fredi

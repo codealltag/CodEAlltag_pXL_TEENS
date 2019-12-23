@@ -1,0 +1,15 @@
+Ich als liberaler Mensch gebe mich damit zufrieden - aber verklickere das  
+mal Samuel :-)
+Darüberhinaus würde ich eine UDP wirklich nicht an kaputten Sigtrennern  
+aufhängen, das ist IMO äußerst eigenwillig. Problematischer ist da schon  
+der Werbefooter und IMO auch die Tatsache, daß die standardmäßig benutzte  
+@my-deja.com-Adresse nicht replyf�hig ist, solange man sie nicht explizit  
+aktiviert. Dazu noch die kaputte Umlautcodierung und das nonexistente  
+Abusehandling - das gibt schon mehr für eine UDP her.
+
+Ivano Neunmann
+
+-- 
+Ich hasse die französische Sprache!
+                                             E-Mail: ismzwb@pdbphllitw.iv
+---> Offizieller Kämpfer wider Silvio Janka des Ordens von dtju <---

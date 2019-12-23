@@ -1,0 +1,15 @@
+Norman Brenneke schrieb:
+
+
+Naja, mit man set komme ich auf die Manual-Page der Shell. :-)
+
+
+In DOS ging das immer damit.
+
+Daniel
+
+-- 
+Zunoz:
+  "Sie haben nicht die Berechtigung den aktuellen Besitzer anzuzeigen,
+   aber Sie haben vielleicht die Berechtigung, diese zu ändern. Mächten
+   Sie versuchen, den aktuellen Besitzer zu überschrieben?"

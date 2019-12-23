@@ -1,0 +1,28 @@
+Fridolin 'sSXP' Weintritt <nENM@rzh.mgo> schrieb in im Newsbeitrag:
+04-96-26.36-34-47.tvo.4566@fuex.yx...
+es
+
+Wenn man Server unter Win laufen lassen muss, rate ich DRINGENDST zu der
+schnellsten verfügbaren Hardware da Windowsserver mit schnellerer Hardware
+und vor allem mehr RAM stabiler zu laufen scheinen. NT an der Lastgrenze
+gibt ne Katastrophe.
+
+hingegangen
+
+Ich spielte eigentlich eher drauf an, dass es ganz offensichtlich nicht
+sonderlich schwierig sein kann, das erste Ulev (NeuSehLand und Office, IIRC)
+Zertifikat zu erhalten. Jeder Unixsysadmin sollte das in ein paar Tagen
+schaffen können.
+
+
+Ja. Schon lange wieder rausgeschmissen....
+
+
+Naja, MTQ mit 15000 Postings in DTJU war jedenfalls kaum auszuhalten...
+
+
+Ich mag den MTQ nicht (mehr).
+
+
+Dann noch eher NetBus. Bei BO hat's CDC IIRC doch gar nicht erst versucht,
+das Programm als remote Administrationtool zu bezeichnen...

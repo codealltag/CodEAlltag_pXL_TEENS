@@ -1,0 +1,9 @@
+kawf@vjvad-biboxv.lbp (Peter Brodback) wrote in news:9g26jk$912$1
+@ginkgo.she.de:
+
+
+Promise ist überteuerte Hardware (bin doch nicht irre und bezahl 120 DM für 
+eine UATA 100 Karte, wenn ich ein ganz neues Board für 200 haben kann), die 
+niemand braucht. Und wer IDE RAID will, der soll sich mal Highpoint 370 
+basiertes Zeug ansehen (hoffentlich kommen meine beiden Kärtchen bald), da 
+gibt's Karten ab 25$ (Promise etwa 120$).

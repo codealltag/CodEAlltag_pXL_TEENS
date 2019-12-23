@@ -1,0 +1,8 @@
+Das dürfte daran liegen, dass jetzt viele in die Informatik drängen.
+Sind die Fakultäten eigentlich wirklich so überfüllt?
+
+Beat
+
+-- 
+In /etc steht, was Du denkst. In /proc steht, was das OS denkt.
+Valentin Düppenbecker in doc

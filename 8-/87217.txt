@@ -1,0 +1,9 @@
+* Geralds Dall <cutoxqw_zd@nsda.waa>:
+
+
+gabsi@edoras:~$ kill gilbert
+bash: kill: towo: no such pid
+
+Muss ich wohl warten, bis sich das von selbst löst.
+
+Rainer

@@ -1,0 +1,6 @@
+Solches tippte Carls Zeitlmayr:
+
+Ich brauche halt kein Betriebssystem mit einer kranken
+LISP-Implementierung, sondern einen tüchtigen $Editor ;-)
+
+Denis

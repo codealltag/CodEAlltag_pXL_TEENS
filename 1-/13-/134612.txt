@@ -1,0 +1,17 @@
+Jean-Luc Klinck <arvzcs@jgkpqowhxtz.ue> writes:
+
+
+Ja, klingt irgendwie gut. Am schönsten ist's wenn sich beide
+gleichzeitig ineinander verlieben. ;-)
+
+
+Man tippe "C-n Trash RET" und schon wird das Re: gelöscht, das
+neue Subject eingefügt, das alte in Klammern gesetzt und ein was: an die
+richtige stelle gesetzt. (Natürlich braucht man dazu einen gscheiten
+Newsreader.)
+
+
+Juan
+
+-- 
+Hier kommt nichts mehr.

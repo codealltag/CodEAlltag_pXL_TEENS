@@ -1,0 +1,11 @@
+Hartwig Dutenhöffner hat geschrieben getan getutet:
+
+
+Mein dict sagt No definitions.
+
+-harry
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ihno 'pi' Piwinger in de.alt.sysadmin.recovery

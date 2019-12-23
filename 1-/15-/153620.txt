@@ -1,0 +1,9 @@
+Uferzeile, 31 Dez 2000 00:44:53 +0200 schriebelte Carl Czichon:
+
+
+Warum interpretiert Opera und AFAIK auch die neueren (oder älteren)
+Versionen von Netscape bei Tabellen über die ganze Seite das
+height="100%" immer so pld? *argh*
+
+-- 
+Ich schlage vor, wir schlagen mit einem Fels drauf und essen es.

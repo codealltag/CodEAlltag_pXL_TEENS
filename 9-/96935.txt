@@ -1,0 +1,8 @@
+Manuel Jährlings <cg@garbers.org> writes:
+
+
+s/Konsistenz/Quelle/ ;-)
+
+Niels
+-- 
+            0 and 1. Now what could be so hard about that?

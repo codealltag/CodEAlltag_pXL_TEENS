@@ -1,0 +1,29 @@
+On 31 Okt 1999 21:07:16 GMT, Dieter Hahs <giivqs@xgl.vg> wrote:
+
+hi dieter :-)
+
+
+ich kann ja mal fragen, wie es damit aussieht. waere schwerte nah genug?
+also die sind gerade dabei, ein datenfunknetz aufzubauen, vielleicht kommt
+das ja irgendwann in schwerte an und dann könnten sie hier auch einen
+enwahlknoten hinstellen... *schwafel*
+
+
+[GJNH]
+
+
+hmm, afaik haben die gleich mehrere versionen parallel, sowohl stabile als
+auch neuere versionen. aber ich meine auch, dass viele programme schon
+direkt vom autor als .deb gepackt werden. 
+
+
+hmm, eine eigene LUG schwerte (gibts noch nicht) wär mir zu viel arbeit. wie
+sind die dortmunder denn so? 
+
+mfg
+    juan
+
+-- 
+- Juan Achternkamp  -  eMail: gmfnwv@baq.nauut.ix
+- IRCNet: ^Spooky    -         xbnthq@csk.ndoucicw.ll
+--

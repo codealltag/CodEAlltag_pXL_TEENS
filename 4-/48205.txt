@@ -1,0 +1,15 @@
+Egon Underberg <vfegxy-6463@ctworkhb-yuoasrm.eo> writes:
+
+
+Hmm, wenn man dann nicht den JMCP-MegaPentium-Cluster XXP hat, wird
+das doch schon ein Problem.
+
+Windows 2010 wird mit den unter Lizenz genommenen Ubune-Treiber
+vielleicht insoweit darauf laufen, dass man den Cursor über's Netzwerk
+schicken kann, bei entsprechender solider Netzwerkstruktur (genügend,
+um den mit 500 fps gerenderten animierten Mauszeigen in 512-bit Farben
+zu übermitteln, sollte minimum sein). Und dann kommt noch der
+DRM-Overhead für die Absicherung der Benutzung von illegalen
+Netzwerken, Netzwerkkarten und Mauscursorn hinzu.
+
+-marco

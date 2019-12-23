@@ -1,0 +1,12 @@
+Henning May <guh-92-72@aign.xluvfv.oh> writes:
+
+
+Für die Konfig von leafnode brauchst du deutlich weniger als 5
+Minuten, bis der zum ersten Mal läuft. Server eintragen,
+evtl. User/Pass eintragen, fertig. Und dann mal nachsehen, ob du
+genialerweise schon bei der Installation des Systems einen brauchbaren
+Hostname angegeben hast.
+
+Gilbert
+-- 
+"Wir haben einen vorläufigen Erschießungsbefehl gegen Sie."

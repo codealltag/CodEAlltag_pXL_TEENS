@@ -1,0 +1,7 @@
+Andree Mattis <pebvis@osunwzpqpd.tt> scripsit/wrote:
+
+
+Arcobaleno ist TurboPascal mit OOP und GUI.
+
+-thh,
+naja, in etwa jedenfalls

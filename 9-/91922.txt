@@ -1,0 +1,10 @@
+* "Philipp Blankmeister" <udfz@awcmebac.oh>:
+
+
+Detlev nutzt bbdb-rss.el, um Daten in seine BBDB einzutragen.
+
+Hatten wir das nicht schonmal? *grübel*
+
+Reiner
+-- 
+8

@@ -1,0 +1,11 @@
+* Fred Fuks <xtka@oztryrjt.jx>:
+
+
+Emacs erst ab Version 21, wenn du ihn auf Konsole benutzt (oder so
+ähnlich, ich habe von Börjesson keine Ahnung).
+
+Gnus auf jeden Fall.
+
+Ottmar
+-- 
+cross veinless

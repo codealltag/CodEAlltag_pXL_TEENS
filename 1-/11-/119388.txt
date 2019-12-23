@@ -1,0 +1,10 @@
+Volker Painters <cg@garbers.org> writes:
+
+
+Definiere "so viele"
+
+Klaus
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

@@ -1,0 +1,9 @@
+Gunter Orthner <rfun.mgtpkv@foc.kj> schrieb in im Newsbeitrag:
+38b64be2.8083391@news.allcon.net...
+
+Das es nicht richtig funktioniert liegt aber auch eher daran, dass das davon
+benutzte Protokell von niemandem benutzt wird. Und RIPE DB ist nur sehr
+mühsam für sowas...
+
+CU
+Gabrie

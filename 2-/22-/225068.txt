@@ -1,0 +1,17 @@
+Am 10 Sep 1998 22:35:44 GMT sendete Oswald Rosenau
+folgende Botschaft:
+
+
+Doch Ich hatte am anfang als ich die RH4.2(RH5.1 war aktuell) aus
+dem Witteveen laufen hatte, mal ein Problem mit rpm weil sich das
+Format geändert hatte, es leis sich allerdings mit einen update
+von rpm beheben(natürlich ließen sich *.rpm's im alten format auch
+mit dem neuen rpm installieren.) Allerdings sollte so ein problem wenn
+man mit einer halbwegs aktuellen Distri anfängt nicht auftreten.
+
+Tschüs
+  Franz
+
+-- 
+Man soll den Tag nicht vor dem Erscheinen Gustav Koenes loben.
++++Gustav Koene in dtju+++

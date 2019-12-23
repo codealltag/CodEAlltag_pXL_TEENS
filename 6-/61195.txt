@@ -1,0 +1,12 @@
+Fredi Bilgeri <cnyhxz-7223@qrrrigpw-trevpne.zr> writes:
+
+
+hm... ja. So ähnliche Werte hab ich hier nur ein einziges Mal gehabt,
+und kurz darauf war kein RAM mehr da, init war eines der ersten Opfer
+des kernels :-/
+
+Theo
+-- 
+Nostalgie ist auch nicht mehr das, was es früher mal war.
+Und die Zukunft war frueher auch besser.
+[Fridolin Blüm und Patrice Croonenbroek in dtj]

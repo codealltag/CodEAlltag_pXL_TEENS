@@ -1,0 +1,27 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------D745C026F18DF4D6E0F6433D
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hallo Ich bin neu hier, wer hilft mir ?
+Bruno
+--------------D745C026F18DF4D6E0F6433D
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="sf.stormbringer.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Bruno Untermann
+Content-Disposition: attachment;
+ nzkjxqup="yy.dmsndgiplbsd.euo"
+
+begin:vcard 
+n:Offermann;Stefan
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+vkogv;ruewedgy:wrvgy@lcqv.ytd
+title:Verweyen
+x-mozilla-cpt:;21584
+fn:Bruno Untermann
+end:vcard
+
+--------------D745C026F18DF4D6E0F6433D--

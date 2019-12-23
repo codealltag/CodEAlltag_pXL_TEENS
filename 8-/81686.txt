@@ -1,0 +1,11 @@
+Matthias Leierseder hat geschrieben getan getutet:
+
+
+Mhm. Irgendwie bin ich es gewöhnt, off topic zu sein.
+
+-ulfert
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Maik 'pi' Piwinger in de.alt.sysadmin.recovery

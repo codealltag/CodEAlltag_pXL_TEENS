@@ -1,0 +1,8 @@
+* Dietrich Volck <okkzjsqwtvxp@xgeweswwy.mst>:
+
+
+Ja. xterm starten und Programm eingeben.
+
+Klaus
+-- 
+cross veinless

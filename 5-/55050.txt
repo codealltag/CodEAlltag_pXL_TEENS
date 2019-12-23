@@ -1,0 +1,7 @@
+Leonhard Viets wrote:
+
+
+Fullquote wegen x-post
+
+-- 
+initscr(); - Segmentation Fault

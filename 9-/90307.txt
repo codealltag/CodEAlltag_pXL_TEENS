@@ -1,0 +1,11 @@
+Und so sprach Beat Haefele:
+
+
+In der main.cf gibt's nen Abschnitt "DELIVERY TO MAILBOX". Vielleicht
+hilft's, wenn Du dort "mail_spool_directory" definierst.
+
+Gruss,
+August.
+-- 
+                          WestWorks - the meta project
+                         <URL:http://llb.kuwdeupsh.rm/>

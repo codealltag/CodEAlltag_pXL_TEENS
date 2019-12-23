@@ -1,0 +1,7 @@
+Zanderweg, 05. 10. 20 sendete Ueli 'Meep' Richter folgende Botschaft:
+
+
+Es war IIRC explizit ULONG_MAX als Obergrenze angegeben.
+
+Tschüs
+  Giovanni

@@ -1,0 +1,8 @@
+Bernd Niels Immink <flr-cicw@ejqtily.mg> writes:
+
+
+ActiveState Perl fühlt sich bei #!/usr/bin/perl auch verantwortlich.
+
+-valentino
+-- 
+The most common form of marriage proposal: "YOU'RE WHAT!?"

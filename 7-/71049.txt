@@ -1,0 +1,12 @@
+Christophe Hellvoigt hat geschrieben getan getutet:
+
+
+Die sollen ja schon Probleme mit dem Unterschied zwischen "das selbe"
+und "das gleiche" haben.
+
+-charles
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Dieter 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,11 @@
+Am Fri, 05. 04. 20 20:18:25 +0100 schrieb Patrik Behrent
+<izcfpty431513@qsqefm.lu-q.oq>: 
+
+
+Mirco
+
+-- 
+Da ich eine einheitliche Darstellung von Datum/Zeit bevorzuge, habe 
+ich die Voreinstellung in der zugehörigen ini-Datei geändert. 
+Und zwar auf ein grenzgeniales "dd.mm.yy hh:ss".
+Pierre Nierhaus in drtb nach seinem Date-Header gefragt

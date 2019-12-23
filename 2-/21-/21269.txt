@@ -1,0 +1,9 @@
+Aha.
+
+Müh?
+
+mfg, 
+	Wolfgang
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

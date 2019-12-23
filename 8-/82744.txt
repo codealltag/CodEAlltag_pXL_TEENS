@@ -1,0 +1,8 @@
+* Gernot Tumm <vbrnpmikpbptnd@xiv.ivm>:
+
+
+s/Sie\ sind/Es\ ist/
+
+Kurt
+-- 
+np: Red Hot Chilli Peppers - Blood Sugar Sex Magik

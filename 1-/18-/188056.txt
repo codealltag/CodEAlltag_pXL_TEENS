@@ -1,0 +1,18 @@
+Es sah aber so aus, als stünden beide Aussagen in einem
+Sinnzusammenhang.
+
+
+Einführung in die AUssagenlogik, genauerweise.
+
+
+Deswegen baut die Aussagenlogik auch auf Tautologien und reinen
+syntaxischen Beweisen auf, jegliche unbeweisbaren Behauptungen sind
+dort, im Gegensatz zur Mathe, ausgelassen.
+Zwar kann man auf dieser Basis wenig machen, aber es ist wenigstens
+korrekt.
+
+-- 
+sSXP
+
+The trouble with doing something right the first time is that nobody
+appreciates how difficult it was.

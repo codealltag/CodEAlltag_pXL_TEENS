@@ -1,0 +1,7 @@
+cool.
+
+mfg, 
+	Niklaus
+-- 
+BOFH excuse #95:
+Mitbringsel FDIV bug

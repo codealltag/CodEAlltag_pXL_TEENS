@@ -1,0 +1,9 @@
+Pierre Jenicke <ecszai@rkhjwuawhd.tc> schrieb in im Newsbeitrag:
+0$s5oDqbhlQ@crzanwdhto.ft...
+
+Ja. BUZ.CH wird nach wie vor beim US ISP gehostet (liegt primär an meiner
+Faulheit, die es mir bisher nicht ermöglichte, eine komplette MySQL Database
+auf den CH Server zu spielen...), aber wird schon noch umziehen.
+
+CU
+Edwin

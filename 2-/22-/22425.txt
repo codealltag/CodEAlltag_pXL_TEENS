@@ -1,0 +1,7 @@
+Keine Hände, Keine Kekse.
+
+mfg, 
+	Willi
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

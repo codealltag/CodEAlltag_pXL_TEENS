@@ -1,0 +1,13 @@
+Am Fri, 29 Dez 2001 sendete Dietrich Merklens folgende Botschaft:
+
+
+Das ist aber das was du nur beim compilieren einschalten kannst. Der
+rest geht bequem per rc.
+
+
+*bibber* ;)
+
+Tschüs
+  Theodor
+-- 
+Notorisch Schreibfaul.

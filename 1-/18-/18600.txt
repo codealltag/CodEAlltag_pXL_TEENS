@@ -1,0 +1,10 @@
+Gerd Herwig Hölzlwimmer <xnf-igjg@xhnyvtn.jf> writes:
+
+
+Hmm, benutzt er nicht AgtFind dafür? Dann wäre die Generierung
+ziemlich leicht.
+
+Wilfried
+
+-- 
+                   Press every key to continue.

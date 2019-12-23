@@ -1,0 +1,16 @@
+Klaas Aschoff <quzrty-rotr.hpb@vpvvbu.ib-v.dh> writes:
+
+
+Isz auch zuerst Weide. F12, arrow up, F3, ssh yggdrasil, su -c
+'fetchnews', F1, M-x gnus, de.talk.jugend, a, post, C-c C-c, Alt-Tab,
+Alt-Up, su -c 'fetchnews', C-d, C-d, alt-tab. So ungefähr. :)
+
+
+Meep ja nimmer.
+Ivan und H.
+
+-karl
+-- 
+*rls*
+Das kann ich aber besser!
+- Fabienne und towo auf der JUP V

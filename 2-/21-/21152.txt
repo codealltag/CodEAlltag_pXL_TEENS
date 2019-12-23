@@ -1,0 +1,10 @@
+Und so sprach Samuel 'Meep' Richter:
+
+
+Nee, eben nicht.
+
+Marco, Weird Al.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

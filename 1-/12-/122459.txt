@@ -1,0 +1,8 @@
+* Karlheinz Bschorer <mmpndscipdiull@ipb.upc>:
+
+
+Nimm Emacs 21. Der kann zumindest auf der Konsole bunt.
+
+Hansueli
+-- 
+cross veinless

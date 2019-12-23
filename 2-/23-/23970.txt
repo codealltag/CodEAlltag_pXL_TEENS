@@ -1,0 +1,9 @@
+Gestern?
+
+mfg, 
+	Lutz, irgendeinen Grund muß das ja haben, das es hier so hei
+	ist.
+
+-- 
+BOFH excuse #191:
+Just type 'mv * /dev/null'.

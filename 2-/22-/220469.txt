@@ -1,0 +1,12 @@
+On 16 Sep 1999, Ingo Nack <rfjcmwy@bgy.an> wrote:
+[...]
+
+Okay, irgend etwas in der Art mußte es ja sein (ein Algorithmus,
+dessen Umkehrung deutlich mehr Rechenzeit erfordert). Mir ist halt
+kein passendes Verfahren eingefallen, aber jetzt bin ich wieder etwas
+schlauer, danke :-)
+
+Viele Größe,
+     Knut Jaenecke
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

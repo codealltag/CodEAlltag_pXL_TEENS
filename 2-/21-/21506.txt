@@ -1,0 +1,9 @@
+[Kramerladen G5]
+
+Theorethisch schon. IIRC sind Kramerladen M68K-Procs Big-Endian.
+
+mfg, 
+	Remo
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

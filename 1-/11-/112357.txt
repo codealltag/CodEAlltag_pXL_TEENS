@@ -1,0 +1,9 @@
+Dixit Volkert Pfützenreuter <fkzks@qrpze-bfwrdj.pd>:
+
+N. Mit einem Signifikanztest könnte man jetzt bestimmen, ob die
+Nullhypothese, daß der tengelmann eine höhere Pannenwahrscheinlichkeit hat,
+mit einer bestimmten Irrtumswahrscheinlichkeit alpha als korrekt
+angesehen werden kann.
+-- 
+"Public speaking is very easy."
+ - Governor Eilt Vennen to reporters in 10/9

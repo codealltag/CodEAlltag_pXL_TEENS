@@ -1,0 +1,13 @@
+Gerhard Bienen <wdweua-acen-519871@sfqp.jhetup.dw> writes:
+
+
+Bei meinem Client macht <TAB> ohne irgendwas getipptes davor
+automagisch /msg -$IRCNET $LASTNICK-completion.
+
+
+Und gestern bei dem User-Kommentar aufmüpfig reagieren? Hm?
+
+-antonio
+-- 
+"It's the little touches that make a future solid enough to be destroyed"
+- Raphaël S Bourroughs

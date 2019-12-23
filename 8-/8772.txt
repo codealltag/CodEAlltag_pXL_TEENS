@@ -1,0 +1,9 @@
+Felix' Deußen <zzsc@thxbykdurtl.zp> writes:
+
+[dsf 4.17]
+
+Ingmar
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+25: Multithreaded
+       Wir mußten ein Flußdiagramm malen, um es zu debuggen. (Hansruedi Panser)

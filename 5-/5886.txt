@@ -1,0 +1,8 @@
+José Trummert <hpr@adlpo.fbo> writes:
+
+
+Charset auf us-ascii knallen wem Ümläüte in der Sig sind.
+
+Walter
+-- 
+"Bernd war ein Optimist."

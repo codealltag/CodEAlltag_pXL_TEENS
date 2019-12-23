@@ -1,0 +1,12 @@
+Am Sat, 29 Mrz 2002 sendete Georg Diederichsen folgende Botschaft:
+
+
+Also bei vielen Möglichkeiten werden Menus zu unübersichtlich. Ausserdem
+sind die Namen meist eher unintuitiv. Dann doch lieber gleich Doku lesen,
+bevor ich was richtig kaputt mache.
+
+
+man gvim. ;)
+
+Tschüs
+  Ingo

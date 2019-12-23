@@ -1,0 +1,15 @@
+Thorsten Vokkert <oheijps878575@olmfkt.vp-q.yd> writes:
+
+
+RPM sucks, wenn man .deb kennt :-)
+
+
+von den 37 MB Cache kannst du sicherlich nen Haufen wegschmeissen...
+
+
+Was ist da für ein Kernel drauf? IIRC war da irgendwas mit dem
+09. 10. 19...
+
+Willibald
+-- 
+              To boldly go where I surely don't belong.

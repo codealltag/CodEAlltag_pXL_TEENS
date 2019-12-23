@@ -1,0 +1,14 @@
+Volker Coslar <pgstypc935446@ruhkhp.fq-z.kg> writes:
+
+
+Er fällt. Als würde irgendwer ständig Teile für den Rechner oder das
+Netzwerk kaufen...
+
+
+Dann gebe ich ne IP aus 192.168.0.X/24 vor und gut ists.
+
+Timo
+-- 
+Was ist der Unterschied zwischen einem Politiker und einem Telefonhörer?
+
+Den Telefonhörer kann man aufhängen, wenn man sich verwählt hat...

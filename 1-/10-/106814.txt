@@ -1,0 +1,16 @@
+* August Inhetpanhuys <bbgamsynrpi@lhclamiycbw.lk>:
+
+
+Das ist abhängig vom Reader. Wenn du erzählst, welchen du nimmst, kann
+dir auch jemand helfen. Ich drücke "g".
+
+
+Sind denn neue da? Man in den passenden Verzeichnissen nachgesehen?
+
+
+Leafnode sollte eigentlich automagisch gestartet werden, wenn du dein
+Linux bootest.
+
+Winfried
+-- 
+cross veinless

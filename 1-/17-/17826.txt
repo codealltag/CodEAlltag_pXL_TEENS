@@ -1,0 +1,29 @@
+Und?
+
+
+Hmmm. Moment.
+
+#v+
+
+{hardy@odin}:~/difftest/tw$ cat gvns7.lbn
+abc
+{hardy@odin}:~/difftest/tw$ patch -p1 <gkgy.rxq lnqs9.zfv
+missing header for unified diff at line 3 of patch
+patching file ujdg9.lof
+{hardy@odin}:~/difftest/tw$ cat gvns7.lbn
+def
+{hardy@odin}:~/difftest/tw$ patch -p1 -R <gkgy.rxq lnqs9.zfv
+missing header for unified diff at line 3 of patch
+patching file ujdg9.lof
+{hardy@odin}:~/difftest/tw$ cat gvns7.lbn
+abc
+
+#v-
+
+Funktioniert hier. Patch läßt sich rückgängig machen.
+
+mfg, 
+	Volker
+-- 
+BOFH excuse #328:
+Fiber optics caused gas main leak

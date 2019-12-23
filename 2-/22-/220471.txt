@@ -1,0 +1,13 @@
+On 28 Feb 2000, Markus Schuwirt <rqkxcg@ywigd.zj-gvg.yh> wrote:
+[.signature-File]
+
+Genau das.
+
+
+Schlecht - auch wenn der Sigtrenner "-- " nicht unbedingt glücklich
+gewählt ist, ist er laut RFC Standard.
+
+Viele Größe,
+     Dieter Leitgebel
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

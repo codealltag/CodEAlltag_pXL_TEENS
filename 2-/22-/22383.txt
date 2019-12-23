@@ -1,0 +1,14 @@
+Dennis Kneiper <unjcyt-zrxu-126159@kytk.pqlsqf.yi> writes:
+
+
+Ich glaub, in der Hinsicht bin ich schmerzresistent, ich hab eben nen
+Regexp von ".*tefan" auf ".*\\(S\\|s\\)tefan" umgebaut, obwohl die
+Relevanz der Änderung in der Praxis tendenziell kleinergleich Null ist
+:)
+
+Niklaus
+-- 
+                              *** Werbung ***
+"Klebriger, klumpiger Reis? Das muss nicht sein! Denn jetzt gibt es
+Uncle Ben's klebrige, klumpige Nudeln!"
+                              *** Werbung ***

@@ -1,0 +1,13 @@
+Ingo Johnßon hat geschrieben getan getutet:
+
+[GNU tar mess]
+
+Kill all short parameters!
+Long paramaters rule the world!
+
+-stephan
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Friedhelm 'pi' Piwinger in de.alt.sysadmin.recovery

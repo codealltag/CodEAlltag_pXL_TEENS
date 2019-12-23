@@ -1,0 +1,11 @@
+* Pierre Geschwendner <zheqor-8404@rklxnshl-amopnom.qy>:
+
+
+Damit habe ich noch nichts gemacht.
+
+gabsi@edoras:~$ apt-cache search debmake
+debmake - Debianizing Tool and automated binary generation
+
+Klingt aber nicht schlecht.
+
+Hansruedi

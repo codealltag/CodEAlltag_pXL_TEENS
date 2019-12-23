@@ -1,0 +1,12 @@
+Edmund Waschheck <afknvus861535@guzwco.mj-p.oj> writes:
+
+
+export VARIABLE = Value
+
+
+Wäre auch unsinnig, da ich je nach Anforderung ständig umdefinieren
+müsste...
+
+Nino
+-- 
+All power corrupts, but we need electricity.

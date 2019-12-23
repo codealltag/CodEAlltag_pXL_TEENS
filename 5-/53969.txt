@@ -1,0 +1,9 @@
+Sébastien Ziehm wrote:
+
+
+:1,$ s/Domian/Domain/g
+
+Oder verbraucht dein Editor etwa acht Megabyte Hauptspeicher und swappt
+immer anhaltend?
+
+Josef

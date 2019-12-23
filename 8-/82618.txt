@@ -1,0 +1,8 @@
+* Raimund Tinnis <cxbhfdicnzzzge@grl.bpt>:
+
+
+s/abzusetzen/abstürzen zu lassen/
+
+Urs
+-- 
+np: Grave LZWI - Scotland United

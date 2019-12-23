@@ -1,0 +1,8 @@
+* Claudio Zscheppank <fsodjat635507@spcfgz.qh-p.zc>:
+
+
+Ein bisschen Zauberei in der .gnus und ein kleines externes Programm.
+
+Luc
+-- 
+np: Red Hot Chilli Peppers - Blood Sugar Sex Magik

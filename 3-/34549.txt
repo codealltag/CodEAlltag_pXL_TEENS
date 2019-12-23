@@ -1,0 +1,13 @@
+Ingolf Roht <asb@sgbod.zoc> writes:
+
+
+Gaz sicher nicht. SPC funktioiert noch weniger. Desegen hab ich
+auch gestern um einen nicht aufzufindenden Task zu killen mal eben
+neuinstallieren dürfen.
+
+Waldemar
+-- 
+Das Dilemma des Arbeiters:
+1. Ganz gleich, wieviel man tut, es ist nie genug.
+2. Alles, was man gerade nicht macht, ist viel wichtiger als das,
+   was man gerade tut.

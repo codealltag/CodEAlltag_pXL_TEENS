@@ -1,0 +1,16 @@
+Björn Rosendal hat geschrieben getan getutet:
+
+
+Im Prinzip schon.
+Nur wenn irgendson Idiot (Caesar, Stahlberg, Ovid, etc.) mal wieder die
+ganzen Konstruktionen hinten und vorne verschiebt, sucht man den
+Zusammenhang manchmal wie die Nadel im Heuhaufen.
+
+Aber hat man dann erstmal den Ansatz, gehts fix :)
+
+-wolf
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Joachim 'pi' Piwinger in de.alt.sysadmin.recovery

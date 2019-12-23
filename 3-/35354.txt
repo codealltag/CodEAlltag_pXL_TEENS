@@ -1,0 +1,11 @@
+* hityueap@kgioqm.txiv.dd (Gerhard Muelder):
+
+
+*nachdenk* Such mal lieber per google ... es gab da mal was, was beim
+ersten Gnus-Start alle wichtigen Sachen (Name, E-Mail-Adresse,
+Newsserver etc.) abgefragt und dann in die .gnus gepackt hat --
+"gnus-virgin" oder so ähnlich.
+
+Philippe
+-- 
+np: -

@@ -1,0 +1,11 @@
+Kaspar Ulerich <bzimd@twzqp.eddi.zc> writes:
+
+
+Es ist: aargh.
+
+-frerich
+-- 
+ No  Points     Name                                                   Hp [arnold]
+  1    7947572  Nathalie-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

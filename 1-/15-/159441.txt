@@ -1,0 +1,13 @@
+Valentino Aichman schrieb am 30. September 2000 um 21:08 Uhr folgendes:
+[...]
+
+Fehler suchen -> Patch schreiben -> alle Leute, die das gleiche
+Problem hatten, glücklich machen :-)
+
+
+Funktioniert hier out-of-the-box.
+
+Viele Größe,
+     Ivo Aufmhoff
+-- 
+After a number of decimal places, nobody gives a damn.

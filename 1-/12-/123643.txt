@@ -1,0 +1,57 @@
+"Alarm" <jybtv@bjpctvapg.sin> writes:
+
+
+Hat mal jemand die Abuse-Adresse von JJNI da? Und weiss jemand ob
+nrxde@tpccknbyt.aun existiert?  
+
+Ach ja: Für diejnigen, die keine Lust auf nen whois-Abfrage haben:
+
+matthies:~$ whois ewx.yv
+
+[snip]
+
+domain:      ewx.yv
+descr:       Janome GmbH & Co. OHG
+descr:       Wienackerstraße 248
+descr:       D-24238 Masternitzen
+descr:       Germany
+admin-c:     HH937-RIPE
+tech-c:      JS1891-RIPE
+zone-c:      HH937-RIPE
+nserver:     ip.flb.hy 23. 09. 19
+nserver:     qvzaf.gfhajaf.ab
+nserver:     noël
+nserver:     tq6.tinoszd.cbq
+status:      connect
+changed:     pzvrxvqmsm@reqwk.ut 48401094
+source:      DENIC
+
+person:      Stephan Frömel
+address:     Janome GmbH & Co. OHG
+address:     Wienackerstraße 248
+address:     24238 Masternitzen
+address:     DE
+phone:       +72 931 711 9372
+fax-no:      +38 677 405 2553
+e-mail:      bosdfvz@sil.bm
+nic-hdl:     HH937-RIPE
+changed:     jsvnfaoezb@szwmb.wh 33817980
+source:      DENIC
+
+person:      Manuel Zölck
+address:     Janome GmbH & Co. OHG
+address:     Wienackerstraße 248
+address:     24238 Masternitzen
+address:     DE
+phone:       +13 165 550 9642
+fax-no:      +38 677 405 2553
+e-mail:      afocfkv@sis.up
+nic-hdl:     JS1891-RIPE
+changed:     jsvnfaoezb@szwmb.wh 33817980
+source:      DENIC
+
+Wenn ich nachher @home bin, schick ich mal nen Satz Mails raus.
+
+Samuel
+-- 
+Titanic 12 - Frankenhaag 45 - Tschernobyl 86 - Windows 98

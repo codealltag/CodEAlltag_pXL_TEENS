@@ -1,0 +1,15 @@
+Winfried Jarusch <ipffsjat.wwgkuyoc@pas.xl> writes:
+
+
+Na ich gehe am 17.2. auf ein Konzert von denen. 
+
+
+Stimmt. *g* 
+
+Italo
+
+-- 
+Homer:~$ whoami
+root
+Homer:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Timo Sparkuhle]

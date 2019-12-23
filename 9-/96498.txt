@@ -1,0 +1,11 @@
+Am Thu, 14 Apr 2002 sendete Wolfram Darmstädter folgende Botschaft:
+
+
+bei mir (suck 4.2.5) steht das in man suck. Und wenn du einfach
+get.news.inn aus $PTAH_TO_SUCK_SRC/sample nimmst gehts mit ezwas
+anpassung (ersten 35 zeilen) ganz automagisch.
+
+Tschüs
+  Vincent
+-- 
+Notorisch Schreibfaul.

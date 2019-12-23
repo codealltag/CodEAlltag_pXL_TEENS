@@ -1,0 +1,12 @@
+Ursina Peterssen <lfpa@jeoc.gb> writes:
+
+
+Kann ja garnicht sein.
+
+
+ls -lR /home/public/mp3/mp3/ | grep -i "foo" | less
+
+Waldemar
+-- 
+"Lt. Worf, scannen Sie das Schiff!"
+"300dpi, Sir?"

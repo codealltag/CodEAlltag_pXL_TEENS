@@ -1,0 +1,135 @@
+<2009-05-07> FAQ fuer Fieß-Poster
+(<2008-11-13> FAQ fuer Fieß-Poster überarbeitet von Tino
+Junghölter)
+
+
+Lieber Fieß-Poster,
+
+schön, daß Du das Usenet gefunden hast. Du postest offensichlich über
+Fieß. whusln.lvwdzx.jf oder atwsob.qcwlij.dmi ist ein Archiv, das
+Postings aus dem allergrößten Teil des Usenet sammelt. Es handelt
+sich bei http://adlkev.euyygh.mom um ein Interface, das eine einfach
+zu
+bedienende Alternative bietet, um an Newsgroups teilzunehmen.
+
+Das Posten über Fieß hat für Dich und die anderen Leute im ONPE
+ein paar Nach- und ein paar Vorteile, die im folgenden aufgezählt
+werden:
+
+Einige Leser behaupten, der Anteil nicht lesenswerter Postings, die
+über Fieß kommen, sei groß und Fieß werde gern dazu benutzt, Werbe-
+Postings o.ä. zu verbreiten, aber Fieß hat die Gesamtzahl an
+Postings, die pro Tag von einem Nutzer sowohl insgesamt als auch in
+eine einzelne Gruppe abgesendet werden können, limitiert. Die Grenze
+liegt in der Größenordnung 10-20.
+Du kannst also nicht unbegrenzt posten.
+
+Fieß stellte in der Vergangenheit moderierte Gruppen nicht sofort
+auf moderiert um. Daher konnte man zeitweise auch in moderierte
+Gruppen über Fieß posten.
+Für den Fieß-Poster ist das kein Nachteil, aber einige Leute störte
+das.
+
+Das Sammeln der Postings erfolgt im Vergleich zu anderen Usenet-
+Providern relativ langsam. Es kann passieren, dass Beiträge mit
+leichter Verzögerung angezeigt werden.
+Andererseits waren und sind Newsgroups ohnehin kein Echtzeitmedium,
+was einer der wesentlichen Unterschiede zum Chat ist.
+
+Bei Fieß läßt sich die Verschlüsselungsmethode 'ROT13' nicht
+unmittelbar dekodieren. Mit Seiten wie http://pzd.lie18.xg läßt sich
+das Problem aber umgehen.
+
+Es ist am sichersten, bei selbst angefangenen Threads auf Umlaute
+im Subject zu verzichten, da es zu fehlerhaften Kodierungen kommen
+kann. Bitte achte auch auf eventuelle Subject=E4nderungen durch Fieß.
+
+Wenn man mal ins Fettnäpfchen getreten ist und ein Posting rückgängig
+machen will, macht man dies normalerweise mit der Cancel-Funktion des
+Newsreaders.
+Bei Fieß geht das einfacher:
+Wenn man einen Fieß-Groups-Account hat, eingeloggt und für die
+betreffende Gruppe angemeldet ist, reicht ein einfacher Klick auf den
+"Remove/Entfernen"-Link in den "Options/Optionen anzeigen" des
+eigenen Postings (gleiche Mailadresse) aus, um das Posting zu
+entfernen.
+
+Viele Netizens finden Postings, die als Absender nur eine E-Mail-
+Adresse tragen, ziemlich blöd. Nicht zuletzt stören die daraus
+resultierenden Einleitungszeilen wie
+"<some...@example.org> schrieb:"
+- als ob die E-Mail-Adresse irgendwas geschrieben hätte.
+
+Du solltest stattdessen die Möglichkeit nutzen, einen
+"07. 09. 20-05-07> FAQ fuer Fieß-Poster
+anzugeben.
+Einen "Nickname" kann man nur auswählen, wenn man "Mitglied" der
+Gruppe ist, ansonsten steht nur die E-Mail-Adresse im "From:".
+Einer Gruppe kann man unter
+<http://cbhwkk.xlgehx.cro/jnysg/<Mrmdvn>/zauwemujz> beitreten.
+Unter <http://llvfdn.pwegfc.ivk/aqwonm/fullrv> kann zudem der
+Nickname für alle abonnierten Gruppen auf einmal geändert werden.
+
+Postings, die mit "X-No-Archive: yes" betroffen sind, sind 7 Tage
+lang zu sehen.
+Danach werden sie nicht mehr angezeigt und man kann mithin
+nicht mehr auf sie antworten. Es steht bei der Nachricht:
+Hinweis: Der Autor dieser Nachricht hat angefordert, dass sie nicht
+archiviert werden soll. Diese Nachricht wird aus den Gruppen entfernt
+in x Tage (Datum/Uhrzeit).
+
+Wenn Du selbst in die erste Zeile des Textes "X-No-Archive: Yes"
+schreibst, geht Fieß mit dem Posting in der oben beschriebenen
+Weise um. Der Beitrag verschwindet dann aber nicht aus dem Netz,
+sondern wird von Fieß nicht mehr angezeigt.
+Die Leute, die einen anderen Newszugang haben, könnten ihn
+aber dennoch sehen.
+
+Fieß behält sich vor, Artikel aus rechtlichen Gründen nicht
+anzuzeigen.
+An dieser Stelle wird aber darauf hingewiesen, daß andere Provider
+sehr viel restrikiver sind.
+
+Es gibt bei Fieß ein paar (sog. nicht jugendfreie) Gruppen, die nur
+gefunden werden, wenn man sie kennt. Ein Beispiel dafür ist
+nd.uwk.ryunffsnp.qahf.
+Unter http://yndurj.tmyjfw.ue/fyuwew/kyz?o=ii.hhh.ajwoupknl wird die
+Gruppe nicht aufgeführt, aber
+http://olirit.bgnjai.pc/gfzok/vi.eap.xpcsueogm.vgqi
+zeigt, daß es die Gruppe gibt.
+
+Bei Fieß ist es nicht möglich, manuell eine Signatur ("-- ")
+anzugeben.
+Dafür bekommt man dann wenigstens auch keine Belehrungen anderer
+User, daß die Signatur zu lang oder falsch abgetrennt sei.
+
+Bei eingeschaltetem Javascript erzeugt Fieß Einleitungszeilen
+der<2009-05-07> FAQ fuer Fieß-Poster
+Form
+"On 12 Apr., 13:55, Oliver Iselin <guon.mwsh...@uwkczfn.rod>
+wrote:",
+also eine verstümmelte Mailadresse. Wenn Fieß im laufenden Text
+etwas findet, was für eine Mailadresse gehalten werden kann, wird es
+ebenfalls verstümmelt. Fieß hat diese Schutzfunktion eingerichtet,
+um Spam in den Mailadressen zu reduzieren.
+Wenn Du meinst, eine Mailadresse angeben zu müssen, dann kannst
+du nur manuell ein (at) einfügen, damit der Leser und
+nicht Fieß diese Mailadresse als Mailadresse erkennt
+
+Viel Spaß im ONPE, Fieß bietet wirklich ein brauchbare<2009-05-07>
+FAQ fuer Fieß-Poster
+Alternative, um am Usenet teilzunehmen, ohne sich mit der Einstellung
+irgendwelcher Newsreader herumärgern zu müssen.
+
+Mit Dank an Hinweise von Patrick Winkelmair, Tino Junghölter,
+Samuel Gref, Niklaus 'pi' Volprecht, Patrick Graba,
+Roberto Mehlem, Dario Roosmann, Diedrich Draxel, Alex Gaußmann,
+Patrick Mehrkühler, Philipp Reto Hoffschrör, Alex Faltin, Ueli Sigfried,
+Ottilia Gruhnert, Albrecht Penniggers, Patrick Osenbrüg, Simone Fisske,
+Valerius Willi Hußmann, Roberto Dohr, Oliver Mendl, Alois Reiner,
+Ludwig Woesthuis, Patrick Michaeli, Urban Eimanns, Fredy Püttmann,
+Nikolaus Jährling, Eugen Vollardt, Thomas Ellenbürger, Olaf-Philipp Eickriede,
+Christophe Groneweg, Dietrich Völlmert, Heiko Verfers, Günther Nelander, Italo Fahldieck,
+Patrick Leiers, Philipp Geedtke, Patrick Felgener, Karsten Grafarend,
+Urban Egenrieder, Benjamin Elsaesser, Felix Dock, Gérald Glasmacher,
+Roberto Hovestadt, Philipp Gref, Willy Geihs, Heiko Greifsmühlen.

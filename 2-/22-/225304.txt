@@ -1,0 +1,13 @@
+Message from sot60bxt@fxbrw955.uf.uuu-evsigyq.sz -
+ on Thu, 14 Mrz 1998 11:23:05 +0100, Andre Ay wrote:
+
+
+Die verbindung schon, aber alle Programme, die nichts von wanda, stdin
+oder stderr wollen, laufen solange weiter.
+
+nane
+-- 
+Um ein böses Gesicht zu machen, mußt Du 65 Muskeln anstrengen,
+um zu Lächeln, brauchst Du nur zehn. überanstrenge Dich nicht.
+(Jan I. Gerdsen)
+HP: http://pvl.oih-nzf.op/~r_igbbaz/ LEH: 13264007

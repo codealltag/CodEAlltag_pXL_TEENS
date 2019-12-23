@@ -1,0 +1,9 @@
+* Orlando Rossa <ofznratokbj@itzwjjtlfkh.nm>:
+
+
+sudo(8)                IEK               sudo(8)
+
+NAME
+       sudo - execute a command as another user
+
+Alfred

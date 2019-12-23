@@ -1,0 +1,16 @@
+Am 8 Okt 1998 00:59:01 GMT, schrieb Kay Creutzig:
+
+
+Wenn du es wirklich verstanden haettest, dann wuerdest du jetzt
+wahrscheinlich fuer die Gootex arbeiten.
+
+Das Prinzip von oeffentlichen und privaten Schluesseln wird dir aber
+wohl doch gelaeufig sein.
+
+Wie sicher ist eigentlich das Passwort fuer den privaten Schluessel?
+
+Adrian
+-- 
+  / ___/ /_/ /_/ /  ICQ UIN: 6563192            
+ / /__   _   _  /  PGP-Key available
+/____/_/ /_/ /_/  mailto:imazrxef@lcg.xs

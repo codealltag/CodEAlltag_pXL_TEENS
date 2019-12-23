@@ -1,0 +1,16 @@
+In <slrn7jj1ic.rv.tststs@starflower.tststs.ddns.org>, Ralf Ihle
+schrieb/wrote:
+
+[Men vs. Tastatenkombinationen / Kommandozeile]
+
+
+Dauert doch nur ein paar Sekunden ...
+Aber egal, ich grübele gerade wie ich mir .dvi oder .ps (das müsste
+Postscript sein, richtig ?) - Dateien ansehen kann. über die Hilfsfunktionen
+kommt man da nicht gerade weit ...
+
+ciao,
+Rémy
+-- 
+             Homepage @ bhpe://cbes.tb/qt - GCH @ 8995792
+Nichts geschieht ohne Risiko, aber ohne Risiko geschieht auch nichts.

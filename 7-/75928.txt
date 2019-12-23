@@ -1,0 +1,12 @@
+* Luis Oberrieder <byc-10-40@pmpd.mlcrhd.me>:
+
+
+Ein guter Editor für die Konsole. Kommt nicht an (X)Emacs heran, aber es
+kann nicht jeder alles haben.
+
+
+man cron
+
+Ivan
+-- 
+np: Offspring - Cool To Hate

@@ -1,0 +1,13 @@
+Ganz einfach: - Tickt Vittorio einen Artikel an (Artikel bekommt ein
+                schönes Ausrufezeichen), bekommt der Autor dieses
+                Postings im Scorefile ein Score von +4.
+              - macht Vittorio ein Catchup, bekommen alle upgecatchten
+                Subjects ein Score von -1.
+
+Falls es das ist, was du meintest, dann erachte dieses Posting als
+nicht-existent.
+
+FloKru, back2usenet
+
+-- 
+DAU - die Freiheit zu qouten!                    [aus http://eqw.ecxblhmvbv.qj]

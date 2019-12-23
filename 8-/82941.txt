@@ -1,0 +1,16 @@
+Am Fri, 12 Nov 2000 sendete Othmar Rheudes folgende Botschaft:
+
+
+misc lese ich schon lange nicht mehr, Tischkanten sind so teuer.
+
+
+Irgend ein libtelnet für perl oder so (weiss nicht mehr so genau wie das
+hiess) und dialog.
+
+Tschüs
+  Sascha
+-- 
+* Recent news from http://smze.cgclgdjbdxx.nop/
+ -> [2001-08-20] slrn 19. 01. 19 released
+ -> [2001-08-11] slrn-announce mailing list created / wishlist reviewed
+ -> [2001-06-06] slrn 19. 01. 19 released

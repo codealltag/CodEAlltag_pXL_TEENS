@@ -1,0 +1,7 @@
+* "Samuel Waffenschmidt" <xukc@cquylasj.hv>:
+
+
+Dann installiere dir den Agent und AgtFind und guck nach. Bei mir unter
+Linux ist das eher schlecht.
+
+Patrice

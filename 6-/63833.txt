@@ -1,0 +1,17 @@
+Das ging mir erst mit slrn genauso. Auch bei der Konfiguration vom Gnu,
+hatte ich mehrmals mit dem Gedanken gespielt es aufzugeben. Doch wenn man
+sich erstmal bisschen reingearbeitet hat, versteht man sehr schnell wie
+es funktioniert.
+
+BTW: nicht über M-x customize konfigurieren, sondern lieber die .gnus 
+direkt bearbeiten. Es gibt einige sehr gute Anleitungen [1] im Netz.
+
+ Norman
+
+Footnotes: 
+[1] http://yrurn47.fygl.jd/~qetonhw/uhowwd-znzyyi.hwsq
+    http://xluwhgv.sejbxo.av/j/bxlgqt.ktqck/radxk/uggelr.geap  
+
+-- 
+Betrachte die Netzöffentlichkeit als eine kleine, schwarze Kiste. Es
+gibt In- und Output. (Alain Fett in de.soc.netzkultur)

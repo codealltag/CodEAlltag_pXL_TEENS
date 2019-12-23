@@ -1,0 +1,8 @@
+Am Tue, 24. 10. 20 sendete Lars Elgen folgende Botschaft:
+
+
+[_] Reply-To und nntp-postinghost geben den absender(und damit
+cancelberechtigeten) eines postings an.
+
+Tschüs
+  Klaas

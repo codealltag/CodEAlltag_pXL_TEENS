@@ -1,0 +1,7 @@
+Besser temporale Disjunktion, als temporale Diskontinuität.
+
+mfg, 
+	Beat
+-- 
+BOFH excuse #131:
+telnet: Unable to connect to remote host: Connection refused

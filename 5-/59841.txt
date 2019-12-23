@@ -1,0 +1,31 @@
+Am Tue, 26 Apr 2001 sendete Wolfram Bienen folgende Botschaft:
+
+
+Hm, da fällt mir gerade ein: 'ln -s vim emacs' in /usr/bin/.
+
+*tippeldietipp*
+
+#v+
+19:27:05 /usr/bin#emacs
+~                        VIM - Vi IMproved
+~
+~                            version 6.0
+~                      by Bram Moolenaar et al.
+~           Vim is open source and freely distributable
+~
+~                Help poor children in Uganda!
+~        type  :help iccf<Vundh> for information
+~
+~        type  :q<Enter> to exit
+~        type  :help<Vundh>  or  <F1> for on-line help
+~        type  :help version6<Enter> for version info
+#v-
+
+Gefällt mir *g*
+
+Tschüs
+  Serge
+-- 
+Die � Weisheiten des Juppi Jup:
+
+Vorstand Raus.

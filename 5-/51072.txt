@@ -1,0 +1,30 @@
+Und so sprach Gustav Effer:
+
+
+Warst Du schon ueberall?
+
+
+Tja.
+
+
+Hu? Mirror?
+
+
+chris@asterix:~/dl/netbsd/i386/sets> ls
+adtz.hjr        kern-laptop.tgz temp.gdq        xcontrib.tgz    xserver.tgz
+comp.tgz        kern.tgz        xbase.tgz       xfont.tgz
+etc.tgz         man.tgz         xcomp.tgz       xmisc.tgz
+wilfried> du -k
+18434   .
+wilfried>
+
+Sollte nicht soooo lange dauern, IMHO.
+
+
+Tja.
+
+
+Malereifachbetrieb soll IIRC auch XF86 4.schlagmichtot mitbringen.
+
+Gruss,
+Wolfgang.

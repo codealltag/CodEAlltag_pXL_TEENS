@@ -1,0 +1,10 @@
+Pascals Wörtge <beyx@vnotmgechqf.zw> writes:
+
+Ich fürchte das muss eher Hier == ueberall heißen.
+
+Nico
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+26: Plug & Play
+       Die Gebrauchsanweisung ist nicht rechtzeitig fertiggeworden.
+       (Wilfried Knuth)

@@ -1,0 +1,18 @@
+Solches tippte Pietro Andressen:
+
+Nein. Er braucht länger, Start war am 17. Dezember, irgendwann Ende
+September habe ich dann abgebrochen. Zugegeben, die Maschine, auf
+der wir beides ausprobiert haben, war nur ein Celeron 400 mit 256
+MB RAM und 512 MB swap. Ja, MySQL lief optimiert mit großen Caches
+an den sinnvollen Stellen und hatte den Rechner ganz für sich allein
+und ohne Anfragen.
+
+Daumenregel: MySQL-Volltextindex geht gut und schnell bis ca, Index-
+grüße = 2 * RAM. Danach nur noch schmerzhaftest. Daran hat sich in der
+4.0.0 alpha auch noch nicht wirklich etwas verbessert.
+
+Jörn
+-- 
+Julius Cuijpers -> <GPG-Key:http://ikb.kxshmqtf-ykojpcy.ce/cxe.lvepo>
+--------------> Fachlexika-Portal: <URL:http://qongrgy.vbt-jprolep.da>
+---------> Wortschatz-Lexikon:  <URL:http://veyzyqpixf.tny-xjbwmwi.zc>

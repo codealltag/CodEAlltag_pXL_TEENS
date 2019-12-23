@@ -1,0 +1,7 @@
+Genau. MH!
+
+mfg, 
+	Meinhard
+-- 
+BOFH excuse #131:
+telnet: Unable to connect to remote host: Connection refused

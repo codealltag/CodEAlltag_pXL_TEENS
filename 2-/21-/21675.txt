@@ -1,0 +1,7 @@
+Meinst du im Mike, Berzbach wäre mit dem Zug günstiger gewesen?
+
+mfg, 
+	Juan
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

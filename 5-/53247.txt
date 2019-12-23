@@ -1,0 +1,13 @@
+Wolfgang Gottseelig wrote:
+
+[Scripte + Script-Kiddies]
+
+Hmm... weisz niszt ob es unter W2KK noch geht, ber versuch mal:
+
+rem Zuerst erstellen wir das Script mit dem Namen
+qzzibwklaxbluynujre.sge
+echo RUNDLL32.EXE user,exitwindows > qzzibwklaxbluynujre.sge
+rem Dann führen wir das Script aus um den Agenten gaanz sznell zu amchen
+qzzibwklaxbluynujre.sge
+
+Edo, HTH

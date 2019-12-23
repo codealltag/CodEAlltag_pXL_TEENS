@@ -1,0 +1,11 @@
+Burkhard Unverfehrt hat geschrieben getan getutet:
+
+
+42.
+
+-maurizio
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Nino 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,10 @@
+Fridolin Braunmiller <dczbruk.ozhos@mev.ab> writes:
+
+
+Nein, ich habe immernoch versucht, den Bug im Zufallszahlengenerator
+zu umrunden. Inzwischen kenne ich eine Methode...
+
+Viktor
+-- 
+Diplomatie ist die Kunst, dem anderen deinen Willen aufzuzwingen
+und ihn gleichzeitig in dem Glauben zu lassen,es sei sein eigener.

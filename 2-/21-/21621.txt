@@ -1,0 +1,7 @@
+Dann lieber G11.
+
+mfg, 
+	Kai
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

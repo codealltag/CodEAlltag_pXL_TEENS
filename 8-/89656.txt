@@ -1,0 +1,19 @@
+Am Fri, 15 Sep 2000 sendete Richard Hautt folgende Botschaft:
+
+
+Wieso nicht?
+
+
+Wenn du regelmässig News holst ist das durchgelaufen bevor die seite da
+ist. Und wenn du wirklich mal keine news holen willst kannst du dir was
+basteln das du eine file anlegst in der du festlegst ob jetzt
+news/mails/etc hohlen willst oder nicht. (Wenn du willst kann ich dir
+mal meine scripte dazu schicken).
+
+Tschüs
+  Mark
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Oscar Creutz, Mostly Harmless, Chapter 12

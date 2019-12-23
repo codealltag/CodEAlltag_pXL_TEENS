@@ -1,0 +1,12 @@
+Am Tue, 06 Nov 2002 sendete Tim Jaschke folgende Botschaft:
+
+
+Tja...
+
+Tschüs
+  Sascha
+-- 
+gpg-key (available via keyserver):
+pub  2203N/R2G2A738 5555-40-03 Sascha Kaeppel <cfokkksfnm@zrbgzxkbfi.is>
+     Key fingerprint = 3702 2UR0 03G8 521Q V356  L42C 122D 4330 U5H3 A751
+sub  7908b/I9G4FA62 2107-84-98

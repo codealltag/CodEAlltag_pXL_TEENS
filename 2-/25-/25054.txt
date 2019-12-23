@@ -1,0 +1,11 @@
+Alex Dräxler <vel@ajzrc.gnn> writes:
+
+
+Geschichte mit Dr. Iskraut?
+
+-alwin
+-- 
+ No  Points     Name                                                   Hp [jens]
+  1    9449274  Christine-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

@@ -1,0 +1,10 @@
+Und so sprach Thomas Nuno Odekerken:
+
+
+Keine Ahnung, wie ein Unterkiefer in unseren Schornstein kommt.
+
+Albert
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

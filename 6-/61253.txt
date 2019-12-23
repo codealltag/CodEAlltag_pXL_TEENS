@@ -1,0 +1,11 @@
+Friedrich Jergen <evqmbs-tewz.qwn@oelwtb.eq-l.mx> writes:
+
+
+Postmaster ist doch erreichbar, wenn du nur html bouncen lässt. BTW:
+in 822 steht noch drin, dass postmaster in beliebiger
+Gross/Kleinschreibung existieren muss, 2823 äusserst sich dazu nicht
+mehr.
+
+Luca
+-- 
+[x] <-- nail here for new monitor

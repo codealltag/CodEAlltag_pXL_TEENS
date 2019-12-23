@@ -1,0 +1,18 @@
+Manuel Mestermann hat geschrieben getan getutet:
+
+
+GPM .. hmmm .. muesste ich mal schauen, ob das noch laeuft :)
+
+Lag aber irgendwie an dem USB2PS/2-Adapter der Maus .. am USB-Port
+direkt laeuft's mehr (sans Titsch) oder weniger (sans Mausrad, Button
+4/5)
+
+
+Das war hier nie Problem .. nur XMMS geht nicht als !root..
+
+-ingmar
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Vinzenz 'pi' Piwinger in de.alt.sysadmin.recovery

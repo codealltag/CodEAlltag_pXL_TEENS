@@ -1,0 +1,10 @@
+Patrice Espenhayns <cg@garbers.org> writes:
+
+
+Könnte sein. Sicher bin ich mir allerdings nicht...
+
+Emile
+-- 
+a + b = c [Pythagoras]
+E = m*c [Einstein]
+=> E = m*(a + b)

@@ -1,0 +1,14 @@
+Eine Portierung auf ein anderes Betriebssystem ist IMO auch noch etwas
+anderes als auf eine andere Plattform (zumal, wenn auf beiden der
+gleiche Compiler benutzt werden kann). Ich habe selten Probleme damit,
+Programme zu compilieren und ich denke nicht, daß das wesentlich
+anders wäre, wenn ich eine aquatron hätte.
+
+
+<Ironie> Das sieht man ja schon daran, daß die Titanic-CGIs (auf
+Alphas unter Linux gerendert) absolut nichts taugten. </Ironie>
+
+Viele Größe,
+     Arno Meeuwissen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

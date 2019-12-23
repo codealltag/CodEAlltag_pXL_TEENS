@@ -1,0 +1,9 @@
+On Mon, 15 Jun 2002 01:19:05 +0000 (UTC), Christian Serge Furtwängler wrote:
+Bevor ich das Ding jetzt hochpacke:
+Hat einer Ahnung, wie ich einen 'fuzzy' Algorithmus bauen musz, damit
+ich die für news üblichen 72 Zeichen pro Zeile nicht überschreite?
+
+-- 
+mfg, 
+Christian Frömmichen 'Salvatore' Furtwängler, Drispenstedt, Germany
+Info-Student, Freizeit-Handwerker und Wedewini-Nutzer

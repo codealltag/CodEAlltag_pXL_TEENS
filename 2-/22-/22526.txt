@@ -1,0 +1,7 @@
+Wieviel THC braucht man denn?
+
+mfg, 
+	Karsten
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old EBR cpu - insufficient processing power

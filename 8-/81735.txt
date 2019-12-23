@@ -1,0 +1,7 @@
+(* Eduard Richter wrote: *)
+
+
+Vor allem frage ich mich gerade, wie sich sowas performance-mäßig 
+auswirkt. Von Code-Übersichtlichkeit noch gar nicht zu reden.
+
+Ihno

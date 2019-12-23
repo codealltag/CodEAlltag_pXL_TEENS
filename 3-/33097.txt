@@ -1,0 +1,6 @@
+Werner Inderheide wrote:
+
+
+Algorithmen=praktische Informatik?
+
+Praktische Informatik nimmt die Algos aus der stdlib *eg*

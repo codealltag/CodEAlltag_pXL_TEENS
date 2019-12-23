@@ -1,0 +1,11 @@
+Wolfgang Erlemann schrieb:
+
+
+Mir noch eins-zwei mehr geholt.
+
+Willibald
+
+-- 
+Drucker-Fehlermeldung:
+  "Beim Speichern der Änderungen ist der folgende Fehler aufgetreten:
+   Der Vorgang wurde ausgeführt."

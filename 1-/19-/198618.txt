@@ -1,0 +1,8 @@
+Am Sat, 10 Okt 1998 sendete Alfred Vries folgende Botschaft:
+
+
+vi unterscheidet zwichen dem "insert" und dem "command" modus. sonnst
+könntest du ja auch keinen ':' tippen.
+
+Tschüs
+  Oliver

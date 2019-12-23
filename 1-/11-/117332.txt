@@ -1,0 +1,17 @@
+* "Yang Lichter" <akis.jyzuk@vmw.rv.wp>:
+
+
+Ja eben. Darum bin ich auch nicht reingekommen. Und das ist auch gut so,
+schließlich bin ich kein Kunde. Du musst dich über die IP
+identifizieren, nehme ich an? d.h., du hast nur Zugriff auf den Server,
+wenn du auch über den Knöpje eingewühlt bist?
+
+
+Jepp.
+
+
+Bitte sie, ihrem Newsserver einen UDSF zu geben.
+
+Theo
+-- 
+cross veinless

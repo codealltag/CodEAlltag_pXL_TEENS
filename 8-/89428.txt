@@ -1,0 +1,10 @@
+Hallo !
+
+Ullrich =?iso-8859-1?q?Müller?= wrote :
+
+
+Ach übrigens: Man sollte niemals einen Mathematiker ein LISP-Programm 
+verändern lassen. "Oh, das ist aber schon, da können wir ja hier 
+erstmal ausklammern ..."
+
+Bernhard

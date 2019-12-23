@@ -1,0 +1,12 @@
+"Eduard Gerhartz" <efgozh@ysb.sm> writes:
+
+       ^^^^^^^
+
+Freudscher Typo...
+
+-Verleihnix
+-- 
+ No  Points     Name                                                   Hp [eilert]
+  1    6555755  Pierrette-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

@@ -1,0 +1,6 @@
+Mit Ahet und Edeka-Großmarkt-Rail-Bierinjektor.
+mfg, 
+	Alfons
+-- 
+BOFH excuse #427:
+network down, IP packets delivered via UPS

@@ -1,0 +1,17 @@
+Am Tue, 06 Nov 2001 sendete Burkhard Reitz folgende Botschaft:
+
+
+Eben. aber die Kernelunterst�zung ist nit das hauptproblem. Die einzige
+möglichkeit an halbwegs aktuelle i4l-utils zu kommen ist dieser CVS. Und
+da ist wirklich gl�cksache ob wichtige teile nicht gerade beta bzw alpha
+sind. Da werden stabilität und gute Dokumentation eindeutig dem
+featureismus geopfert.
+
+
+*würg*
+
+Tschüs
+  Berthold
+-- 
+Vervollständige die Kette: (Frei nach Kaspar Preußl)
+Dr. Gérard Rockn - Fredi Claußen - Ullrich Muetze - Gérard Menzl - .........

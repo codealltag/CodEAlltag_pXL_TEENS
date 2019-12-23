@@ -1,0 +1,14 @@
+Am Sun, 13. 09. 20 sendete Reinhold Fabian Gogl folgende Botschaft:
+
+
+aja.
+
+
+Wo ist der schiedunter?
+
+
+Das liegt ja dann wohl eher an den treibern, die devfs ihrer devs nicht
+melden...
+
+Tschüs
+  Olivier

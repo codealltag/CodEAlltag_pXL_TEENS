@@ -1,0 +1,6 @@
+(* Ferdinand Papes wrote: *)
+
+
+Was ist das denn für eine Markup Language ?
+
+Benno

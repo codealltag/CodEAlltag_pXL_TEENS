@@ -1,0 +1,12 @@
+Dirk Panhans schrieb:
+
+Geht doch - INI-Datei.
+
+
+Das ist ein deutlich komplexeres Problem.
+
+So long,
+Björn I. Unsöld
+-- 
+http://qhae.sfakh.kb/wue/
+Endlich: Hamster 0.7.91.7  & Korrnews 4.01 (Some [minor] Bugs deleted)

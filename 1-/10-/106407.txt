@@ -1,0 +1,74 @@
+STATISTIK MFOLG 8068
+-=-=-=-=-=-=-=-=-=-=
+
+DAU-Maurizio
+
+Pos.  DAUs  Msgs.  Ratio   Name
+---------------------------------------------------------------------------
+   1    92      1   92,00  "brent t müller-hipper" <k4r@clw.tak>
+   2    70      1   70,00  lrrqgp@ee.e-eliminator.org
+   3    60      1   60,00  qqskld@ib.neddkflk.no
+   4    73      2   36,50  "zag3ibcn.xt" <wtporzkva@qdk1kasm.st>
+   5    21      1   21,00  "Ivan Göltenbott" <s.uuthaw@cpx.uch>
+   6    40      2   20,00  Mathias Landthaler <aebpfujczalr@esyvpwh.sy>
+   7   445     29   15,34  "Mirco Both" <Sqnpm.R@khf.xi>
+   8    30      2   15,00  cecq@gia.lvc
+   9   186     13   14,31  "Pascale Luether" <VhvucqxYzwku@agk.ee>
+  10    13      1   13,00  Sparffe <mmhtlsysvx@idppjyl.mo>
+        13      1   13,00  "mylittlenet" <aiwzrknqw@vrvbeyyfhmp.upy>
+  12    11      1   11,00  <lkzucabc@kpa.tzzvm.auh>
+        11      1   11,00  "Fernand" <wzrwd@jwuvnhqvsww.ya>
+        11      1   11,00  <bdgpuzrgttvzmvnm@lqnczvyywa.iv>
+        11      1   11,00  "Stefan Nettelstroth" <xcuvtvl@gsqlbqhugbpzlv.jq>
+        11      1   11,00  lgbm.yhim@bmhrecekxkru.pnf
+        11      1   11,00  euhbln@nmx.ow (Regine Frieße)
+        11      1   11,00  "UCANTSTOPME" <csjxdz47@bhewbotswd.ww>
+  19    21      2   10,50  Menno <rcvplbi@kvl.tm>
+  20    10      1   10,00  hotline@asdf.ned
+        20      2   10,00  jrfrqjqdu.jlkatiqk@dbzbkosleve.fbucqyrjh.row.yg
+        10      1   10,00  FfizdAaaoem@alo.ft
+        10      1   10,00  Fiworjr<inebngy7@qjzbpu.lyr>
+        10      1   10,00  Yvi <myb@fgezwxlxjj.ry>
+        10      1   10,00  uyjfyu@xrexrbbo.gaz
+  26    20      3    6,67  "Hero Feilhaber" <vahizsekr@hgxzeehddyi.dus>
+  27    13      2    6,50  "Sylvie Funcke" <xvb.kohla@rol.nq>
+  28     5      1    5,00  "Meike W" <x.jrjqbbwxq@nir.oh>
+  29    61     14    4,36  "Marlène Frederiksen" <atotrbx@qeu.sc>
+  30    75     18    4,17  "Richard Lanio" <vr032@cdz.gp>
+  31     7      2    3,50  "Stephan C. Hochfellner" <hbx@toe.kl>
+  32  3315   1165    2,85  Pauline Müller-Engelhardt <njyk.x@aplib.dn>
+  33    55     25    2,20  Nicolas Friedlin <qtdm@bufqfspxje.kj>
+  34     2      1    2,00  "S. Steenweg" <weyj.hehq@hba.iv>
+  35  2048   1044    1,96  Emma Langhans <Sczug.Tjberk@u-ijfjak.ss>
+  36  1516    780    1,94  Willy Neukämper <fgeyudhtsfewwl@rbj.nuq>
+  37    71     47    1,51  Raimund Mestwarp <xosiei.vrymiwzwmvdi@edq.mi>
+  38     3      2    1,50  <wkusiexkx@wdimpywe-ngqpeqeq.sv>
+  39   266    224    1,19  byuzfo@ddohpjtjdjc.wuc (Romana Nageler)
+  40     1      1    1,00  "Philipp Bätzel" <mdzqde-btos@via.tp>
+  41    96    102    0,94  Jann Thieltges <nebscti@ugq.cj>
+  42   120    138    0,87  gmhbenybcs@cnwpsturpm.ya (David Faeth)
+  43    72     85    0,85  Anne Neukämper <fzlgvqqvjfeylq@scz.vr>
+  44    40     48    0,83  Bjoern Käkenmeister <jabcwk@nrgf.mu>
+  45   104    133    0,78  Berthold Abbühl <xysmch@xjffit-qgrclzv.ox>
+  46   132    175    0,75  Pauline Müller-Engelhardt <njyk.x@aplib.dn>
+  47     6     11    0,55  Raimund Miehle <adbnqjm@bob.cu>
+  48    11     21    0,52  Felix Neyenhaus <fnjxjq@zgl.awh>
+       337    648    0,52  Massimo Grassee <dzcs@uexugffg.tu>
+  50     4     12    0,33  "Yang Günzkofer" <wsvn.rjxpu@cdt.dt.jq>
+  51    66    238    0,28  Stephan Niederlechner <jjgrtnn670159@awbzad.sy-h.ry>
+  52     1      4    0,25  Raymond Zeugträger <irnake@grhibvo.ol>
+  53    24    214    0,11  Ilse Petterson <cnyyzdisztk@uec.mf>
+  54    69    680    0,10  Richard Feistle <s-gba@ixntfuqrzaz.jj>
+        33    342    0,10  w86k4v@riuvnzqra.sy (Hugo Hussing)
+        41    431    0,10  Richard Feistle <ptmccchnzzp@edzkusrkdpz.nz>
+  57    79   1095    0,07  Stephan Niederlechner <dskijnr802732@qevbmr.dm-q.pl>
+  58    53   1512    0,04  Hugo Pagl <on@xddnfsk.vma>
+  59     1     38    0,03  VcgnmeFbujffbtc@n-fifksb.db (Berthold Marchand)
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 18. 09. 20 von Mathias Neimann.
+(Darstellung angepasst von Jean-Pierre Dänzl)
+Basierend auf den Feeds von:
+wtdnrrjs.tgkkp.qc       gzqu.vja.pit.hf         vcrb.hbluinr.eq
+twqh.odzkm.wpn          keft.mrfdng.mg          dewd.s-uhrgyf.cd
+pqdf.hwo-qawgdsna.ms    vfwm.pqn-fdeujpoy.pb    nuhw.egb-hphethuqe.hb

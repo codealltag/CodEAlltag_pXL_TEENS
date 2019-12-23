@@ -1,0 +1,17 @@
+On Thu, 18 Mar 2000, Kaspar Reinart <nxhtqbm_wgyndek@oah.py> wrote:
+
+[Einheitskernel von Windows]
+
+Natürlich werden aufgrund unterschiedlicher Hardware unterschiedliche
+Treiber installiert; die Einflußmöglichkeiten des Users auf die
+Installation sind aber äußerst gering. Beim WindowMaker kann ich zum
+Beispiel ein Executable erzeugen, das überhaupt keinen Code für
+Spielereien wie Animationen enthält, Bildformate, die ich im GUI nicht
+verwenden will, nicht unterstützt etc. und somit schneller und
+ressourcenschonender wird. Bei Mauels Backstube ist (AFAIK) nichts dergleichen
+möglich. Das ist so eine Sache, die ich mit "einheitlich" meine.
+
+Viele Größe,
+     Vinzenz Crabbe
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

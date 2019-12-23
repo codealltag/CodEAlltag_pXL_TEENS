@@ -1,0 +1,12 @@
+Leonhard Mentz schrieb:
+
+
+Nein, overflowbla kommt nur bei Enak-Karten. Eine solche habe ich ja
+bekannterweise. Nach einem Patch läuft das aber. Unter Win98 habe ich
+überhaupt keine Probleme mit dem Spiel.
+
+Engelbert
+
+-- 
+Mac-OS:
+  "Unbekannter Fehler '-128' bei '57'."

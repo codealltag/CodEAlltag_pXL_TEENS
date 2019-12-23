@@ -1,0 +1,16 @@
+Also, in der Schule funktioniert das so (Netz aus Win 3.11 und
+Win95-Clients am IMT-Linux5-Server). In AmiPro (=OLE-fähiges Programm)
+"Bearbeiten", "Objekt Einfügen...", als Import/Objekt-Typ "Paket"
+eingeben. Der Paketmanager öffnet sich. "Bearbeiten",
+"Befehlszeile...", dann z.B. "winfile.exe" oder unter w95
+"explorer.exe" eingeben, und schon steht einem ein Datei-Manager zur
+Verfügung. :)
+
+cu
+Claudio
+
+-- 
+Viviane Chun, Fuchsloch, Germany
+http://Wkmk.bsmg.hnwvn.nt
+
+ -=* and may the force be with you...

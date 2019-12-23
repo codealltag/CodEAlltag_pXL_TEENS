@@ -1,0 +1,13 @@
+Margrith Geldsetzer hat geschrieben getan getutet:
+
+
+Agent sollte supersedes besser unterstützen.
+
+Hamster auch.
+
+-ivo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Tobias 'pi' Piwinger in de.alt.sysadmin.recovery

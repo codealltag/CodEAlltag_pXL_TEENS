@@ -1,0 +1,16 @@
+Timo Angermeyer <stoopid.one@gmx.li> writes:
+
+
+[schnipp]
+
+
+Das sind soegannte "reguläre Ausdrücke", und das _wirklich_ ekelhafte
+an den Dingern ist, dass es davon quasi beliebig viele Dialekte gibt,
+je nachdem, welches Programm man damit füttern will...
+
+Wenn ich meinen RegExp für Mailaddys in perl mal wiederfinde, kann ich
+den ja auch nochmal posten und zerlegen...
+
+Ingmar
+-- 
+Actually, Microsoft is sort of a mixture between the Borg and the Ferengi.

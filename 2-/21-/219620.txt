@@ -1,0 +1,14 @@
+Volkmar Kienlein schrieb zum Thema "Re: dtju-Probleme":
+
+
+Das Problem ist folgendes: Der eingebaute Editor in der Beta von OE5  
+funktionierte nicht richtig und mit einem anderne Mailreader wären alle E- 
+Mails futsch gewesen. Aber jetzt scheint der Editor wieder zur Vernunft  
+gekommen zu sein -> die nächsten gibt's wieder als normale HTML-Mail.
+
+Dietmar Dahlhammer
+
+-- 
+Nächster Termin für den Weltuntergang: irgendwann, irgendwo...
+(Angaben ohne Gewähr)                         E-Mail: yjnkmq.yped@nnb.mg
+---> Offizieller Kämpfer wider Ludger Erkamp des Ordens von dtj <---

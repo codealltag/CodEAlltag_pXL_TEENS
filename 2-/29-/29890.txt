@@ -1,0 +1,7 @@
+Zum Glück hab ich nen sehr alternativen Physiklehrer, der sich mal ne
+Stunde lang mit folgendem Problem beschäftigt hat:
+
+Warum kann man "die kleinste Zahl, die sich mit nicht weniger als 100
+Zeichen darstellen lässt" mit diesen 78 Zeichen eindeutig darstellen? 
+
+ *kontra geb*

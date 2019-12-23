@@ -1,0 +1,3 @@
+Berthold Kühnert wrote:
+
+Damit kann man vielleicht die Dateien /in/ einer ZIP Datei infizieren.

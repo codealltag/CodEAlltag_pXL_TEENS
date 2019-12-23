@@ -1,0 +1,12 @@
+Berend Plumhoff <veyrhdc.ilyfk@uif.ju> writes:
+
+
+Mach dir um mich mal weniger Sorgen. Zur Not wird Christoph
+kaputtgeknuddelt.
+
+Willy
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Garrelt Jesper in
+<rbya0b6rv0.5p5.jcsmmfo.fjjszt@tts.adm.sc-pjrdgwif.qi>]

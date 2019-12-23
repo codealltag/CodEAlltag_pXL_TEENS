@@ -1,0 +1,17 @@
+Antoinette Wernicke <zrem.givfvynh@rcm.rm> kuendete:
+
+
+Sicher doch. War ein Wortspiel. (Immerhin habe ich jetzt niemanden
+aufgeregt, weil sie/er es schon bemerkt haben koennte.)
+
+
+Merke: Das war LML (Volg Markup Language), und diese kann auch fuer
+andere Interpreter als Browser ausgelegt sein (denkbar waere zum
+Beispiel eine LML-DTD fuer einen automatisierten Blumenkohlreiniger),
+fuer welchen eine solche Wiederholung durchaus sinnbringend sein kann.
+
+Gruss,
+Leo.
+-- 
+Overworked and unpaid - 
+kleinere Postingfrequenz bis Ende Jahr

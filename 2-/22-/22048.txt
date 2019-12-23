@@ -1,0 +1,7 @@
+Was weiß denn ich?
+
+mfg, 
+	Edo
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

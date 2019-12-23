@@ -1,0 +1,6 @@
+Ludger Freier <buzykau@fyx.ox> writes:
+
+
+[ ] Du hast dir schon mal LISP dreidimensional vorgestellt.
+
+-heribert

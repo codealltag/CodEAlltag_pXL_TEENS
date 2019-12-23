@@ -1,0 +1,11 @@
+Gernot Coordt <prpby@swmvu.bhia.wx> writes:
+
+
+Dafür hat er doch gar keine Zeit.
+
+-volkert
+-- 
+ No  Points     Name                                                   Hp [kaspar]
+  1    4947006  Patricia-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

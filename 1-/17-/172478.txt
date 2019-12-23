@@ -1,0 +1,15 @@
+Das ist wie Tic Tac Toe, wenn beide Mitspieler Kringen nehmen:
+
+ O | O | O
+---+---+---
+---+---+---
+ O | O |
+
+Wer hat jetzt gewonnen?
+
+Ingmar Ingenlath
+
+-- 
+Niemand mag die Schlümpfe.
+                                             E-Mail: wcunzw@hzjqvnilje.gs
+---> Offizieller Kämpfer wider Mark Hasenjürgen des Ordens von dtju <---

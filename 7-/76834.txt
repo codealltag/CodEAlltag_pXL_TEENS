@@ -1,0 +1,15 @@
+Reiner Elsesser <fyvgeawntvi.33@zwcicrqarlo.wj> writes:
+
+
+*seufz* /me too, man siehts mir an...
+
+
+Kalte Pizza hat den immensen Vorteil, dass man sie auch am Rechner
+verzehren kann, ohne dass man die Familie per Mikrowelle aufweckt.
+
+Thomas
+-- 
+Wie jagt man einen Elefanten - Teil 2:
+C- Programmierer bestimmen zuerst mit sizeof() die nötige Speichermenge
+für einen Elefanten, versuchen diese zu allozieren, vergessen dabei das
+Ergebnis abzuprüfen und schießen dann mit wilden Pointern auf den Elefanten.

@@ -1,0 +1,10 @@
+Es war wohl der 26.12.2001 als Alfons Clot schrieb:
+
+
+Danke, das hab ich zwischenzeitlich auch rausgefunden. Bei sovielen
+Funktionen (über 1600 Empire24) verliert mal schnell mal den Überblick.
+
+ Timo
+-- 
+Verwende Perl. Shell will man koennen, dann aber nicht verwenden."
+ - Silvio Kreitmeier u. Wilhelm Ohlwerter, dcoum

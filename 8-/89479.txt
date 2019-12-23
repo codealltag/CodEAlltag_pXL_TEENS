@@ -1,0 +1,6 @@
+Dieter Ußfeller <xgagrdw@lcb.qx> writes:
+
+
+Parser programmiert man ja auch nicht selber, ohne die komplette
+Syntax zu kennen. Allerdings war das wohl das Argument, warum XML
+entwickelt werden mußte: SGML sei zu komplex.

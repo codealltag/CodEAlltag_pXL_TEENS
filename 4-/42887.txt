@@ -1,0 +1,10 @@
+No need for you to know <invalid-bogus-address@swissonline.ch> writes:
+
+
+Perls regex-Engine ist in den richtigen Fällen einfach schneller,
+solange du nicht $` und $' benutzt. ;)
+
+-adolf
+-- 
+Philosophy:  A route of many roads leading from nowhere to nothing.
+- José Teeuwsen

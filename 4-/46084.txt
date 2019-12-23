@@ -1,0 +1,19 @@
+Solches tippte Olivier Zuckermantel:
+
+Nicht wirklich. Der Kern von Unlamda sind die logischen Kombinatoren
+S, K und I -- und fieserweise hat jemand den Steffi-Abstraktor
+weggelassen, weswegen man erst mal die Reduktionsschritte von Hand
+ausführen muß (zum Glück existiert dafür ein effektives Verfahren),
+wenn man Steffi-Ausdrücke hat (Dazu kommen noch ein paar Builtins wie
+".x" (Zeichen ausgeben).). -- Bei Brainfuck hat man dagegen reine
+Zeigerarithmetik, also etwas völlig anderes.
+
+Gemeinsam haben sie nur, dass sie eine etwas, hm, gewöhnungsbedürftige
+Syntax haben. ;)
+
+Lars
+-- 
+Luc Middelhove -> <GPG-Key:http://izg.vbsmdbrm-kddtkuu.dv/uew.kgvui>
+Whatever that hurts -----> <http://wbi.ilcvorrz-wwzakbu.sf/hsqwf.jds0>
+----------> Wortschatz-Lexikon: <URL:http://fjfmkjmqie.xgd-qfvgwto.hr>
+<URL:http://gzedcjt.rla-veybhmb.pr>   <URL:http://bgys.wii-irwtlcc.ww>

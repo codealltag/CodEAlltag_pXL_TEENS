@@ -1,0 +1,12 @@
+Claudio Matheus hat geschrieben getan getutet:
+
+
+[ ] Einruecken mit Tabulatoren, welche readerabhaengig breit sind, ist
+    eine gute Idee.
+
+-christof
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Diedrich 'pi' Piwinger in de.alt.sysadmin.recovery

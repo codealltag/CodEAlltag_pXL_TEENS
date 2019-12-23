@@ -1,0 +1,22 @@
+Engelbert Erlhoff meinte kundzutun:
+
+Nur so.
+
+$ wc -l sc* score/*
+     34      61     575 slrnscore
+     34      46     570 score/age
+     12      18     227 score/length
+     17      31     374 eptfw/xhxfhxf.ky
+      6      14     160 score/persons.de.alt.sysadmin.recovery
+     11      29     298 aygfj/rukkmao.br.nlt.mzqc.otxnof
+      9      14     167 score/persons.de.talk.jugend
+      9      15     235 score/self
+    132     228    2606 insgesamt
+$
+
+Claus
+-- 
+Ich habe das Gefühl, wenn sie _das_ schaffen, [] daß die Welt in Trauer und 
+Entsetzen und Lähmung versinkt, wenn wir nicht mehr lachen können oder [] dr-
+fen, wenn wir nicht mehr kaspern können oder dürfen, dann haben diese Terror-
+risten es endgültig geschafft, die Welt zu zerstören. [Viola Inhester in dateka�]

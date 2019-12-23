@@ -1,0 +1,11 @@
+Udo Zinnhobels <gjxkqbm@jblaogkku.kt> writes:
+
+
+Eigentlich schon, allerdings scheint die Umlautkodierung derzeit noch
+kaputt zu sein. *bastel*
+
+Best regards, Wolfgang Armborst
+
+-- 
+"Sie wagen es, mir zu widersprechen?"
+                Dr. G. Hinterscheid

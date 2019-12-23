@@ -1,0 +1,12 @@
+Du kannst nicht einfach unschuldige verdächtigen.
+
+
+Nein, es war entweder ich oder Oszedo. Von towo war nie die Rede.
+
+Thorsten
+
+-- 
+Homer:~$ whoami
+root
+Homer:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Patrick Vaders]

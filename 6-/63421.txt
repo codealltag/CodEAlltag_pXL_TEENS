@@ -1,0 +1,14 @@
+Luigi Amkreutz <ceubicwuvs@vffgghccub.vt> writes:
+
+
+if [ -z $BROWSER ] then
+  if [ -e `which lynx` ] then
+    lynx www.bepm.ueg
+  ute
+    nc www.bepm.ueg 80
+  fi
+ute
+  $BROWSER www.bepm.ueg
+fi
+
+-nikolaus

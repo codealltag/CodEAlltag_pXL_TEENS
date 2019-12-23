@@ -1,0 +1,11 @@
+"Alexandre Klimpel" <mjzefc@kgj.fr> writes:
+
+
+Du bist nicht weiblich. Schlechte Karten. ^^
+
+-sascha
+-- 
+ No  Points     Name                                                   Hp [alfred]
+  1    6113472  Judith-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

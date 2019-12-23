@@ -1,0 +1,11 @@
+Fabrice Seelig hat geschrieben getan getutet:
+
+
+Hmm. Auf meiner funky Daddelkiste kompiliert's..
+
+-ivano
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Markus 'pi' Piwinger in de.alt.sysadmin.recovery

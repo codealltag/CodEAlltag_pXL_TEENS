@@ -1,0 +1,10 @@
+Ueli Wuerker <cpxtlnk145565@cynjtb.zw-k.oq> writes:
+
+
+Wieso? Einschüsse an den richtigen Stellen führen recht fix zu einem
+"shutdown -h now", und das darf normal nur der Admin.
+
+Engelbert, eben mal wieder im Edouard Ingendaa mehrfach, hm,
+"administiert" habend :-)
+-- 
+Gravity is a myth, the Earth sucks.

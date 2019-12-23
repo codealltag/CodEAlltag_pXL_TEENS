@@ -1,0 +1,9 @@
+Italos Taubenreuther <zwgq@iwwxcahogbt.bh> writes:
+
+Ich will aber nut "Go! Go! Go!" schreien.
+
+Dario
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+121: NOP
+       Seiteneffektfreies Takte verbraten. (Klaus Mügge)

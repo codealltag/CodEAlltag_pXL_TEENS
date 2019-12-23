@@ -1,0 +1,8 @@
+Volkmar Wiskirchen <uxlqpct918530@iazirb.ff-m.sd> writes:
+
+
+Ich hab jetzt aber nunmal 192.168.0.X/24 angefangen zu verteilen.
+
+Fabrice
+-- 
+                  Weird enough for government work.

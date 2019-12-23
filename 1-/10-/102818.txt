@@ -1,0 +1,16 @@
+* Vinzenz Rista <itxmvg@axxjdk-mxpqokv.lk>:
+
+
+Sorry.
+
+
+Ja. Habe ich was anderes behauptet?
+
+
+/boot/namevondaskernel
+
+Das bindest du in deinen Bootmanager ein und fertig ist.
+
+Fred
+-- 
+cross veinless

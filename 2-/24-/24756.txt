@@ -1,0 +1,11 @@
+Jens Rösicke <bklxqgikcnslkf@jiw.gcu> writes:
+
+
+Müh.
+
+-elmar
+-- 
+ No  Points     Name                                                   Hp [rupert]
+  1    1572057  Renée-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

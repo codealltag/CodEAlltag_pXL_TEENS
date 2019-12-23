@@ -1,0 +1,10 @@
+Eric Erlacher <kyqhtb@tpi.jw> schrieb in im Newsbeitrag:
+slrn8e11un.13v.tststs@starflower.tststs.ddns.org...
+
+Ok, überzeugt. Aber dann bitte alle Configfiles in EIN Verzeichnis. Nicht
+über's ganze System verstreut!
+
+
+Hmm. An sich wäre es ja möglich, einen Wrapper zu schreiben, der eine
+zentrale Datei anschliessend wieder aufsplittet, so wäre dann allen
+geholfen...

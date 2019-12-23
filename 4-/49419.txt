@@ -1,0 +1,7 @@
+Enrico Völlmar wrote:
+
+
+Nein, eindeutig, sobald auch nur ein Benutzer auf einem Dialogserver
+oder einem Terminalserver arbeitet, wird es zu einer Workstation.
+
+Valerian, weiß doch jeder

@@ -1,0 +1,16 @@
+In <d.t.j.99080344204707.767@ancalagon.rhein-neckar.de>, Kurt
+Hochstein wrote:
+
+
+Gibt es auch Router die einen Server ganz abklemmen ? Ich hatte mich
+mal gewundert, warum wlscktyvu.wln (ja nun auch nicht gänzlich
+unbekannt ...) tagelang nicht erreichbar war. Beim traceroute kam dann
+irgendwann eine Meldung von wegen siehe Seite xyz (könnte RBL gewesen
+sein). Auf deren Seite stand dann aber nur was von E-Mail ...
+
+Karsten
+-- 
+As of tomorrow, employees will only be able to access the building
+using individual security cards. Pictures will be taken next 
+Wednesday and employees will receive their cards in two weeks. 
+(Jean-Pierre Dales at Microsoft Corp in Redmond, WA.)

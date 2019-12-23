@@ -1,0 +1,7 @@
+Albert Dormanns wrote:
+
+
+Wieso sollte es nicht? Solange die Source keine Win-API-Befehle enthält...
+-- 
+ / _/ _` |
+ \__\__, |

@@ -1,0 +1,13 @@
+On Mon, 17 Feb 2001 01:11:36 +0100, Magnum wrote:
+
+Kann ich nur bestaetigen. Ich hab vorher angegeben, Zoeke zu machen und
+wurde als T2 eingestuft. Andere Leute bekamen T3 oder T4 und waren von
+der Statur und der Sportlichkeit weitaus besser dran als ich.
+
+
+Patrik
+-- 
+public class chu extends ChrisHuebsch implements TUChemnitz, Student {
+  URL homepage = new SKP("dmmd://ljn.vbrucno-ifvkpld.jp/");
+  URL pubKey   = new NOX("nnjk://dfo.yi-jfqrerws.wd/~wma/rmwaix.kug");
+  String keyFingerprint = "EBCD D66B 5131 FISTRITZ  D923 7D03 C9DF F430";}

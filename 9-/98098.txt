@@ -1,0 +1,5 @@
+Das <> gehört meines Wissens aber nicht zur ID selbst.
+
+
+Also wenn du gerne zur Compiletime entscheidest, wie lange ein String zur 
+Runtime sein wird, bitte. Ich kann das selten im Voraus sagen.

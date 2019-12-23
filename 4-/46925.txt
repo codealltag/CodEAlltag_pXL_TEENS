@@ -1,0 +1,16 @@
+Tonwerkstraße, 29 Dez 2001 sendete Georg Almenröder folgende Botschaft:
+
+
+Doch ist sie.
+
+<Vermutung> Du hast diese ID als letztes Hinzugefügt? Zumindest gpg setzt
+jeweils die neuste ID als Primary ID. kannst du mit --edit-key und
+'primary' irgendwie ändern. <\Vermutung>
+
+Tschüs
+  Claus
+-- 
+Die Weisheiten des Juppi Jup: #6
+
+Am Hagener Bahnhof haben sie zwar eine Tür geöffnet,
+aber dafür sind die Strassen dicht.

@@ -1,0 +1,8 @@
+* Andreas Bundschuk <ovylwdwhpfyhni@tjs.pub>:
+
+
+s/genussvoll/verlustfrei/
+
+Giovanni
+-- 
+cross veinless

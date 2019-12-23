@@ -1,0 +1,6 @@
+Rolf t32z1r@sjeydyobv.io (Georg Bögelein):
+
+Da soll es ja auch sehr mächtige Standardmodule geben ...
+-- 
+"Verbosity leads to unclear, inarticulate things."
+ - Governor Kai Albrecht-Jakobs-Thiemann, 21. 07. 19

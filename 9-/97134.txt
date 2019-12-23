@@ -1,0 +1,10 @@
+Philippe Steinbergers <cg@garbers.org> writes:
+
+
+hauke@obrien:~$ antonio
+bash: mc: command not found
+
+Remmer
+-- 
+Wenn der Schutzmann die Arme gespreizt hat, will er damit verkünden, dass
+er keinen fahren lässt, weder von vorne, noch von hinten.

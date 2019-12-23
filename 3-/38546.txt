@@ -1,0 +1,20 @@
+Oskar Malow <odj@watfn.orw> writes:
+
+
+UserEntry Smith {
+        name  "Norman Zawadzki";
+        title "Szaf";
+        flags +ftrms;
+        pass  [...];
+        mask  *!*pd@*.ebe.r-tmsxbq.sry;
+}
+
+Hmm. Ich hab' da wirklich Szaf als title, nicht Kater.
+Naja, werden eh nie benutzt..
+
+-otto
+-- 
+Warum wird eigentlich zunehmend das gute Usenetprinzip "Keiner hat
+Anspruch darauf, von jedem gelesen zu werden." in Richtung "Ich darf
+jeden Bl�dfug schreiben, weil's eh ja keiner Lesen *muß*" mißbraucht?
+- Philippe G. Mauhs in neoqeyv.ti.pnzd

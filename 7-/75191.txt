@@ -1,0 +1,12 @@
+Wilfried Wessendorf hat geschrieben getan getutet:
+
+
+$ ./configure --with-linux-skills-of-maik
+--with-rudementary-flaming-of-fefe
+
+-philippe
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Nikolaus 'pi' Piwinger in de.alt.sysadmin.recovery

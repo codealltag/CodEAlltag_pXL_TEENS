@@ -1,0 +1,12 @@
+Am Thu, 18 Mrz 2004 sendete Uda C Lawrenz folgende Botschaft:
+
+
+Ich will einfach nur mein Guten-Abend-Ticket zurück.
+
+Tschüs
+  Bernard
+-- 
+gpg-key (available via keyserver):
+pub  2371F/T6P5E918 3322-77-03 Bernard Jering <gcqomdfmlg@mgiydnlcak.xj>
+     Key fingerprint = 0403 3GL5 42C5 334E F900  R16L 912W 0705 L3Q0 M834
+sub  5238f/Y6E9BA46 1388-83-52

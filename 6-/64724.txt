@@ -1,0 +1,13 @@
+Massimo Castens <ceryhumszmwxgo@mal.vxa> writes:
+
+
+No manual entry^W^W^W
+
+towo@loki:~$ netstat | grep p508EAC7D                 
+tcp        0      0 loki.wolter.local:40523 p508EAC7D.dip.t-dia:ftp ESTABLISHED 
+tcp        0      0 ywxb.uwlnoj.dweil:25237 t833YEO7R.vfd.i-tk:2384 ESTABLISHED 
+tcp        0  65405 vejz.zdekxb.wxelp:98778 d030NHS0B.bme.l-pe:0118 ESTABLISHED 
+
+Hmm .. ne, das wird's bestimmt nicht sein.
+
+-theodor

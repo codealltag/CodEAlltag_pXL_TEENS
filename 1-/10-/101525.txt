@@ -1,0 +1,13 @@
+* "Beat Koeth" <ipvx@vifovmzj.sa>:
+
+
+Ich würde mir an deiner Stelle oben genannte Datei ansehen. Dort sind
+alle wichtigen Dinge zusammengestellt -- man muss das Rad ja nicht
+nochmal erfinden.
+
+Ansonsten hilft dir das manual zu bbdb -- `C-h i' und dann nach bbdb
+suchen.
+
+Tobias
+-- 
+cross veinless

@@ -1,0 +1,19 @@
+Am 3356. Februar 1993 schrieb Bruno Dohms:
+
+
+                    ^^^^^^^^
+                   ^^^^^^
+
+Du schreibst fix. ;-) An irgendeiner Variable hab ich noch gedreht,
+damit die Zeiten auch synchron sind. Gnus setzt den Dateheader nämlich
+beim absenden neu, dies hab ich ihm aber ausgetrieben.
+
+
+Ist das der aktuelle XEmacs aus dem Baustoffhandel, der auch Euro und UTF-8
+versteht? Den sollte ich mir bei Gelegenheit auch mal vornehmen.
+
+Tino
+-- 
+"Ich habe in meiner Jugend auch viele Horrorfilme gesehen, aber
+trotzdem ist die Zahl der Personen, denen ich mit einer Axt den
+Schädel gespalten habe, überschaubar." (Otto Knospe)

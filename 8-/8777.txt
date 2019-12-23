@@ -1,0 +1,10 @@
+Valerios Trenk <rhpm@icvlmdpfofm.ce> writes:
+
+Wenigstens kannst du's nachgucken. Brav.
+
+Jean-Pierre
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+87: CIDR
+       Die dezimale Quersumme der binären Repräsentation der
+       Netzmaske. (Heino)

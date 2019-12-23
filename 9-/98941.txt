@@ -1,0 +1,9 @@
+Kann ich noch nicht sagen, ich bin noch dabei, die Multitasking-Engine in  
+Basic nachzubilden.
+
+Christoph Cassen
+
+-- 
+"Paladsch! Paladsch!"
+(Bruno Felser, 1771-1844)             
+---> Offizieller Kämpfer wider Fridolin Schlemp des Ordens von dtju <---

@@ -1,0 +1,13 @@
+int * pkati; // pointer auf Irene
+pkati = (int *) malloc(sizeof(irene)); // Dem pointer zeigen, wo
+                                      // er Irene findet
+
+in zweifall steht jetzt eine Speicheradresse drin, also eine
+Referenz. Wenn du jetzt an Irene rankommen willst, mußt du die
+Referenz dereferenzieren.
+
+mfg, 
+	Benno
+-- 
+BOFH excuse #419:
+Repeated reboots of the system failed to solve problem

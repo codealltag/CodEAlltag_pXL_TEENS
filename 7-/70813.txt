@@ -1,0 +1,12 @@
+Und so sprach Orlando Maylandt:
+
+
+*g* Die ist echt toll.
+
+chris@asterix:~> opera http://xed.aamaagk.dxmdmlb.nm
+Segmentation fault (core dumped)
+
+Gruss,
+Arthur.
+-- 
+Remember the... the... uhh.....

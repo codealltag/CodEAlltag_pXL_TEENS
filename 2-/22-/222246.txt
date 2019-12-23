@@ -1,0 +1,13 @@
+Am Fri, 29 Nov 1998 19:05:55 +0200, schrieb Björn Andreason:
+
+[CAD]
+
+Alle modernen CAD-Programme sind parametrische Volumenmodellierer.
+2D-Zeichnungen werden nur aus dem Modell abgeleitet (beliebige
+Schnitte sind so recht einfach zu erstellen).
+
+Gilles
+-- 
+  / ___/ /_/ /_/ /  ICQ UIN: 2353164            
+ / /__   _   _  /  PGP-Key available
+/____/_/ /_/ /_/  mailto:nfsaplzz@xqy.qs

@@ -1,0 +1,20 @@
+Gernot Voigtmann schrieb:
+
+Morver ist praktisch ein Proxy, der entweder ankommende Postings
+manipuliert oder abgehende Postings/Mails ggf. über den Umweg mit
+Korrnews ändert.
+
+Hamster ist dagegen ein lokaler Mail/Newsserver, dessen ausgehende
+Mails/Postings und eingehende Mails von Korrnews bearbeitet werden
+können und dessen Datenbestand mittels CopyIf geändert werden kann.
+
+Wenn man Morver zwischen Hamster & Newsclient klemmt, kann man auf die
+Art Anpassungen für OE o.ä. machen lassen, ohne den echten
+Hamster-Datenbestand zu ändern.
+
+So long,
+Ottmar S. Erlenbusch
+--=20
+http://vwwd.matpq.gz/crb/
+Neu: Hamster 25. 06. 19 (diverse Bugs entfernt)
+Ebenfalls neu: Korrnews 3.2 & CopyIf 1.23 (Debugmodus repariert u.a.)

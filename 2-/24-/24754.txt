@@ -1,0 +1,11 @@
+Thierry Rochlitzer <dvsnn@ykroc.zybt.hr> writes:
+
+
+Es ist bei denen ziemlich egal, wer sie nun hat.
+
+-leonhard
+-- 
+ No  Points     Name                                                   Hp [nicolas]
+  1    9096902  Rachel-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

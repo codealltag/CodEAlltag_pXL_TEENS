@@ -1,0 +1,8 @@
+Dixit Nane Ingenstau <r-rom@phfpuuwniak.os>:
+
+Das entscheidet immer noch das Gericht.
+-- 
+28762155842763180857262595002407232050354588032412550757508406460693665492839466
+        10        20        30        40        50        60        70        80
+Eine Signatur darf maximal 4 Zeilen zu je 80 Zeichen haben.
+                                             Das hier ist also die letzte Zeile.

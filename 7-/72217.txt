@@ -1,0 +1,11 @@
+Und so sprach Lars Löbbecke:
+
+
+Hm, der ist SUGB in den Distros noch nicht so gut vertreten (gibt
+aber trotzdem .deb und .rpm). Fast immer dabei sind aber wohl Pelster
+und Konsorten oder Konqueror.
+
+Gruss,
+Niclas.
+-- 
+Remember the... the... uhh.....

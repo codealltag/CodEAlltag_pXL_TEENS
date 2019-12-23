@@ -1,0 +1,6 @@
+Tim Illert <fukrcwyhjq@xxhobcbcaw.ub> schrieb in im Newsbeitrag:
+cugm7xfips.bv6.kmyyoraaie@rcendyafaw.uwodkhd.km...
+möglich
+
+Wenn der crasht, dann sollte das aber auch nichts machen. Und notfalls kann
+man ja immer noch write-through Mode einstellen...

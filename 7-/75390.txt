@@ -1,0 +1,14 @@
+Leonhard C. Gschwand hat geschrieben getan getutet:
+
+
+Long live Open Source.
+
+
+Ein vigor.
+
+-lukas
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Bernd 'pi' Piwinger in de.alt.sysadmin.recovery

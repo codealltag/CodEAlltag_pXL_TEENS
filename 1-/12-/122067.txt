@@ -1,0 +1,12 @@
+* Uwe Vaessen <iqifyjftxjtylq@mhk.xfn>:
+
+
+Du klingst so deprimiert...
+
+
+Meine elisp-Kenntnisse laufen gegen 0.
+
+
+Johann, auf Holz klopfend
+-- 
+cross veinless

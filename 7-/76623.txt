@@ -1,0 +1,12 @@
+Josef Anschütz schrieb:
+
+
+Nun, ich glaube das geht hier nicht so. ;-) Aber faszinierend welche
+netten Funktionen gnus schon eingebaut hat.
+
+Waldemar
+
+-- 
+  "The MS Exchange Information Store service depends on the MS
+   Exchange Directory service which failed to start because of the
+   following error: The operation completed successfully."

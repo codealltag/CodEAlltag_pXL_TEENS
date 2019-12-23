@@ -1,0 +1,8 @@
+Am Tue, 9 Mrz 2000 sendete Thorsten Anderhofstadt folgende Botschaft:
+
+
+doch. Schon mit compress ist das ganze nurnoch halb so gross, und mit
+bzip2 würde es nochmal kleiner.
+
+Tschüs
+  Hanspeter

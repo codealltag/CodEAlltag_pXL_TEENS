@@ -1,0 +1,14 @@
+Benno Algayer hat geschrieben getan getutet:
+
+
+Kievelberger MiniJUP
+
+
+Du hast das jetzt nicht verstanden.
+
+-fabian
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Hendrik 'pi' Piwinger in de.alt.sysadmin.recovery

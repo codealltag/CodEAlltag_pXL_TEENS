@@ -1,0 +1,11 @@
+* "Pascal Hibsch" <xuxs@pkkctgzs.uu>:
+
+
+Hier soll doch ein kompletter Buffer aus Grafiken angelegt werden. Ich
+glaube nicht, dass das funktioniert.
+
+Aber wenn sich jemand berufen fühlt ...
+
+Uwe
+-- 
+cross veinless

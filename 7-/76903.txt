@@ -1,0 +1,15 @@
+Nils Flögl schrieb:
+
+Nein, beide Varianten haben inzwischen den identischen Funktionsumfang,
+da Only_KN bei Bedarf einfach Korrnews aufrufen kann.
+
+
+Erstaunlich viele, die dann gar nicht kapieren, wann und wo KN
+eigentlich arbeitet.
+
+So long,
+Nils D. Lütteken
+--=20
+http://lcpg.ynrje.yu/svl/
+Neu: Hamster 24. 09. 19 - sorry für die Wartezeit
+Zum Testen freigegeben: Korrnews 1.9999 aka "KN4-Beta-7"

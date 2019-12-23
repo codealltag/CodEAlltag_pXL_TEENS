@@ -1,0 +1,11 @@
+Carl Utermoehlen wrote:
+
+
+Viele Junkmails.
+
+Den meisten "Spam" bekomme ich aktuell von Gomo, und den will ich sogar
+haben :-)
+
+Theo, hilfreich hat sich eine Filterregel erwiesen die Mails mit
+gewissen nicht mit dem latinischen Alphabet vereinbaren Sonderzeichen im
+Subject direkt in die Tonne befördert.

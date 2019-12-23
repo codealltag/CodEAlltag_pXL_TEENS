@@ -1,0 +1,16 @@
+Klaus Grimsel schrieb am 4. Dezember 2000 um 00:01 Uhr folgendes:
+
+
+Ist inzwischen nicht mehr gar so dringend, denn ich habe den Patch
+vorhin fertig bekommen. Deine bisherigen UTF-8-Postings habe ich aber
+wirklich gut brauchen können; auf diese Weise konnte ich das Feature
+auch außerhalb der "Laborbedingungen" meiner privaten Testgruppe
+ausprobieren.
+
+Viele Größe,
+     Klaus Höltke
+-- 
+In einem Computerexpertenkreis die Worte: "ich bin Citywebler" so ganz
+nebenher gelassen aussprechen, lässt alle anderen Anwesenden sofort in
+unterwürfige Demutshaltung und staunende Bewunderung fallen.
+                                 -- "Norbert Horstmöller" <yupcc@hfngpob.lf>

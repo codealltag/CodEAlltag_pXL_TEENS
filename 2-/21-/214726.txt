@@ -1,0 +1,15 @@
+Am Sat, 12. 02. 20 15:16:03 GMT sendete Kurt Johansohn
+folgende Botschaft:
+
+
+Und wieso behaupten hier alle das Mtq ein echter Newsserver ist?
+
+
+Allso haben sie Doch ein Problem damit.
+
+
+Wieso erzeugt MRQ dann überhaupt eine Msg-ID? Und selbst wenn mtq eine
+Msg-Id braucht kann man diese ohne rewriting erzeugen.
+
+Tschüs
+  Christof

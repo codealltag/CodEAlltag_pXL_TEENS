@@ -1,0 +1,7 @@
+Juan Gebauer <hjrw-3761@bzfybsp244384.aj-d.tj> schrieb in im
+Newsbeitrag: afz.60378246310288.8235@kwrfay.aslsdabxdh.uq...
+
+Hmm.. Du weisst aber, dass qmail standardmässig nur bis 2MB akzeptiert (was
+nachher passiert weiss ich nicht so genau, zwischen Bounce und zustellen
+dürfte wohl einiges möglich sein)? Und vor allem: mit /dev/zero lässt sich
+wunderbar zur�ckschiessen...

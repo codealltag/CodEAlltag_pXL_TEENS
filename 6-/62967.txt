@@ -1,0 +1,11 @@
+Walter Schmitz <xcefew-coou.kax@dfthrw.zh-x.hi> writes:
+
+
+/var/spool/news/failed.postings
+
+
+das meiner Festplatte ...
+
+Patrik
+-- 
+            It is easier to fix Unix than to live with NT.

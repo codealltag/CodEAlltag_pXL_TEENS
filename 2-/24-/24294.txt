@@ -1,0 +1,9 @@
+Und so sprach Sascha Tanneberg:
+
+
+Euch fehlen double quotes oder escape characters fuer die spaces.
+
+Gruss,
+Wolfram, allen beiden.
+-- 
+Individualists unite!

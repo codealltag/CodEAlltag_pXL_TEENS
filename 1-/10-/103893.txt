@@ -1,0 +1,10 @@
+Am Sat, 01. 03. 20 sendete Wolfram Janesch folgende Botschaft:
+
+
+Man müsste doch auch per Macro die datei in /tmp speichern können und
+dann einen richtigen Editor(*duck*) drauflos lassen können?
+
+Tschüs
+  Jérôme
+-- 
+Notorisch Schreibfaul.

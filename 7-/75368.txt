@@ -1,0 +1,11 @@
+Marcel Lütke hat geschrieben getan getutet:
+
+
+Lass die Irren bitte da, sonst schwillt scores.hst an.
+
+-simon
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Bruno 'pi' Piwinger in de.alt.sysadmin.recovery

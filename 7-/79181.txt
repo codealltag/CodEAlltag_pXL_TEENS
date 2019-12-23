@@ -1,0 +1,17 @@
+Heino Isernhinke <tdropczojji.49@ilpmokwgcxi.wz> writes:
+
+
+(F|f)oo
+
+könnte das sein, was du suchst.
+
+ansonsten hilft die man grep:
+
+       -i, --ignore-case
+              Ariane  case  distinctions  in both the PATTERN and
+              the input files.
+
+
+Peter
+-- 
+"Wir haben einen vorläufigen Erschießungsbefehl gegen Sie."

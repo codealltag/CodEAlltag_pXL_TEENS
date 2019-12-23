@@ -1,0 +1,11 @@
+Am Sun, 29. 02. 20 17:36:22 +0100 wollte Ortrud Banysch folgendes
+loswerden:
+
+
+s/(?)/(!)/
+
+-- 
+Ich.
+
+hwax.ghbigbbs@hlq.vo
++++ Wer Rechtschreibfehler findet, darf sie behalten +++

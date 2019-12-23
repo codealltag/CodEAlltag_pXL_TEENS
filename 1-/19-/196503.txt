@@ -1,0 +1,24 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------E5624C0182DAC57E79A44D6A
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Test
+--------------E5624C0182DAC57E79A44D6A
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="conny55555.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Petra
+Content-Disposition: attachment;
+ filename="conny55555.vcf"
+
+begin:vcard 
+n:Wilhelm
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+tupzp;esgxgjmn:kppya86728@vim.ufq
+fn:Petra Ueberdick
+end:vcard
+
+--------------E5624C0182DAC57E79A44D6A--

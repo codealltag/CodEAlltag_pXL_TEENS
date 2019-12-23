@@ -1,0 +1,9 @@
+Ruedi Denzler <nfitfpae@dulpj.nud> writes:
+
+
+Korrekte Behandlung für Deppen, die meinen, Remailer missbrauchen zu
+müssen. Weitermachen.
+
+Rudi, fup passend
+-- 
+Overflow on /dev/null, please empty the bit bucket.

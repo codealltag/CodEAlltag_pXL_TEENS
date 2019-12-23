@@ -1,0 +1,13 @@
+Hansruedi Ohlrich hat geschrieben getan getutet:
+
+
+World Wide Web Consortium.
+
+http://c3.hah/
+
+-patrice
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Serge 'pi' Piwinger in de.alt.sysadmin.recovery

@@ -1,0 +1,13 @@
+Anton Heuseler hat geschrieben getan getutet:
+
+
+Früher waren sie ein zum größten Teil in sich abgeschlossener Verein ...
+dann kam ne Auszeit, und dann kam in .de der WHDK-Tarif; Amerika hat ZMZ
+noch als "normalen" ISP.
+
+-stephan
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Hugo 'pi' Piwinger in de.alt.sysadmin.recovery

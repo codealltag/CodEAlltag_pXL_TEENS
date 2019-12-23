@@ -1,0 +1,10 @@
+Ullrich Kule <hxcfoky@bqz.ec> writes:
+
+
+Wo warst du noch mal?
+
+-philippe
+-- 
+I'm reminded of the day my daughter came in, looked over my shoulder at
+some Perl 4 code and said, `What is that, swearing?'
+- Bruno Hamakers

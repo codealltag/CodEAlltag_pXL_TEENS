@@ -1,0 +1,12 @@
+Am 16. 10. 19 22:08:10 GMT, schrieb Florian Winde:
+
+[Voxel]
+
+AFAIK wird aber nur die Oberflaeche dargestellt. Was man nicht sehen
+kann wird weggelassen.
+
+Onno
+-- 
+  / ___/ /_/ /_/ /  ICQ UIN: 2458887            
+ / /__   _   _  /  PGP-Key available
+/____/_/ /_/ /_/  mailto:evfrejzu@qsd.st

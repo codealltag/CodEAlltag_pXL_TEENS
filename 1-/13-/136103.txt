@@ -1,0 +1,14 @@
+Am Thu, 1 Jan 2000 sendete Nane Waizmann folgende Botschaft:
+
+
+Bei jedem Fetchmaillauf.
+
+
+Doch. fetchmail alle 5-10 minuten ist in Ordnung, ein Dauerlauf ist
+unnütz und asozial. Besorg dir eine statische IP und setzt einen
+Mailserver auf.
+
+Tschüs
+  Lars
+-- 
+ZMUN-Light, Milch-Light, Light-Käse, Leitkultur.

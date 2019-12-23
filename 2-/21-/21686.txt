@@ -1,0 +1,14 @@
+Marko Krebsbach schrieb:
+
+
+Der steht dort drüben.
+
+
+Sieht sicher komisch aus.
+
+Nils
+
+-- 
+HoTMetal Light:
+"Konnte nicht Zelle nach unten erweitern, da Die Zelle in Zeile 2,
+ Spalte 2 hat darunter keine Zelle."

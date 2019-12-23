@@ -1,0 +1,14 @@
+* John Holtkamp <xtodil@nlrjdv-pzpsjhk.ii>:
+
+
+Achso. Eigentlich ist es ganz einfach. Ich tippe
+
+./configure  --with-xemacs --with-w3=/usr/local/lib/xemacs/xemacs-packages/lisp/w3 '--prefix=~/.xemacs/xemacs-packages/' '--datadir=~/.xemacs/xemacs-packages/' '--with-lispdir=~/.xemacs/xemacs-packages/lisp/gnus/' '--with-etcdir=~/.xemacs/xemacs-packages/etc'
+
+make install
+
+Danach ist Gnus fertig.
+
+Eduard
+-- 
+cross veinless

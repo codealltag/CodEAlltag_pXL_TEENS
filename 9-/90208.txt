@@ -1,0 +1,16 @@
+Winfried Diekneite hat geschrieben getan getutet:
+
+
+Wenn du JavaScripten kannst, mach mir mal ein script, was obiges auf den
+Schirm schreibt und bei ORSAY auf OK dann Fenster schliesst :) (oder
+direkt win restartet :)).
+
+
+Warum auch?
+
+-wilfried
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ingolf 'pi' Piwinger in de.alt.sysadmin.recovery

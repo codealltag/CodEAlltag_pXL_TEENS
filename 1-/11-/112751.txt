@@ -1,0 +1,9 @@
+* Gerd Nunheiser <zpdzqts@dsz.gm>:
+
+
+Man möchte aber schon von Anfang an ein Programm nutzen, bei man dafür
+nicht die Leertaste braucht.
+
+Niclas
+-- 
+cross veinless

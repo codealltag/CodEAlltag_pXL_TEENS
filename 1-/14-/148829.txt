@@ -1,0 +1,23 @@
+Undine Cronsfoth <btozrikyw@cvwbe-mmucyk.hs> kuendete:
+
+
+Ruecksichtslos.
+
+
+Feldbrunnen, 1km von der Brauerei.
+
+
+$ df -h
+Filesystem  size   Used  Avail Use% mounted on
+/dev/brain 100TB   20TB   80TB  20% /brain 
+
+
+Axo, ich _die_ weiss ich natuerlich auch. Ich dachte da an die
+Nullstellenformel eines Polynoms 3. Grades.
+
+Gruss,
+Philipp.
+-- 
+     Patrick G. Rempening + Student @ Kantonsschule
+   http://sfa.lxdbkioka.az/ + Schaffhausen, Switzerland
+              QXV# 57566550 + ohkr://por.svfrk.ql/

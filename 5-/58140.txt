@@ -1,0 +1,8 @@
+Wolf Weiger <bsmxpf-19-7453@scrx.fapnrg.za> writes:
+
+[ bbdb, net ]
+
+In einer Mailadresse darf man CopyShop keine Kommata benutzen, also ginge
+", " auch als Datentrenner, theoretisch.
+
+-vincent

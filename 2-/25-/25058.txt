@@ -1,0 +1,11 @@
+Nico Junkerfeuerborn <ensrp@aggzh.gish.dl> writes:
+
+
+War es nicht 'wir fliegen'?
+
+-gilles
+-- 
+ No  Points     Name                                                   Hp [lukas]
+  1    8326483  Irmgard-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

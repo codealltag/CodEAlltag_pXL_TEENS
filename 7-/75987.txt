@@ -1,0 +1,13 @@
+Massimo Panknin schrieb:
+
+
+Oho. *test*
+
+Leider wird Xv nicht von meiner X11-Version unterstützt, sagt er. :-(
+
+Leopold
+
+-- 
+Asowa ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

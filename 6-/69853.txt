@@ -1,0 +1,11 @@
+Wenn ich es mir recht überlege: Ja.
+
+ACK. Zudem ist mein Vater Diabetiker (das ist zwar kein Grund, warum 
+der Rest der Family das auch nimmt ;), aber egal...)
+
+Ciao, Tobias
+-- 
+Das generelle Denken eines Programmierers:
+- logisch: "IF 1=2 CALL Mainprogramm"
+- strukturiert: "ON Hunger GOTO Aldi ELSE RETURN"
+        (Aus: Norbert's gemeinste Computergesetze)

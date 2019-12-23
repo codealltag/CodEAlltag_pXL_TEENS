@@ -1,0 +1,12 @@
+Kay Merzkirch schrieb:
+
+
+Trotzdem vermute ich immer noch, dass Papa Serge den eingerichtet
+hat. Hamster, sowie FU-Account.
+
+Beat
+
+-- 
+DND ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

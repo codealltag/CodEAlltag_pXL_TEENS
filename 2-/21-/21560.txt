@@ -1,0 +1,13 @@
+Und so sprach Susanne Zieman:
+
+
+Als an denen hab ich das noch nie gesehen.
+
+
+Wahrscheinlich haben ihn die Vögel gefressen.
+
+Leopold
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

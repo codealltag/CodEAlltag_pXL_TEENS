@@ -1,0 +1,15 @@
+Christian Wesselbaum schrieb...
+darum, die neueste Alpha-Version einer komplette >Anwendungssuite zum Laufen
+zu bringen; also nichts, was >einen normalen Benutzer beträfe.
+
+
+Gibt es eigentlich Gelegenheiten, bei denen es für einen
+Otto-Normal-(RedHat)-Verbraucher nötig ist, den
+Kernel neu zu compilieren? Wenn ja, ist das umständlich
+und kann ich dabei größeren Mist bauen?
+
+--
+==>   Glaubt mir kein Wort, ich bin einer von     <==
+                               *IHNEN*
+                     Patrick C. Sachtler
+            - Jvllgjo@tzsybiciiem.phutnb.bq -

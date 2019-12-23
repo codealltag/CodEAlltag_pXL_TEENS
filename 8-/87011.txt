@@ -1,0 +1,14 @@
+Kurt Neuhaus-Beerendonk hat geschrieben getan getutet:
+
+
+Die Abkürzung bedeutet das, ja.
+
+
+Dafür reicht pull :)
+
+-detlev
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ulf 'pi' Piwinger in de.alt.sysadmin.recovery

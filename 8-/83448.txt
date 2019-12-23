@@ -1,0 +1,10 @@
+Am Mon, 22 Okt 2001 sendete Karl Camper folgende Botschaft:
+
+
+-vvv
+
+Tschüs
+  Sven
+-- 
+Hier sollte eigentlich ein netter Satz aus "Programming Perl" stehen,
+aber leider finde ich ihn nicht wieder.

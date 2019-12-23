@@ -1,0 +1,11 @@
+Knut Eijkman schrieb:
+
+
+*Angeblich* sind sie echt.
+
+Francisco
+
+-- 
+Finanz-Versicherungsmakler ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

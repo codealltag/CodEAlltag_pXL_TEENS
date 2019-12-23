@@ -1,0 +1,9 @@
+Sorry, mein Scorefile stürzte angesichts einer so hohen Score mit einem  
+buffer overflow ab.
+
+Gilles Pankoke
+
+-- 
+Gilles Pankokes praktische Lebensratschläge, Teil 2:
+de.admin.* kann Magengeschwüre verursachen.
+---> Offizieller Kämpfer wider Reto Seegert des Ordens von dtju <---

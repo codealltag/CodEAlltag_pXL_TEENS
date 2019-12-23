@@ -1,0 +1,14 @@
+Leopold Ehringhausen <nueuimenezpf@ecdizbcgy.wgr> writes:
+
+
+Wer hat behauptet, die Zeit sei linear?
+
+
+Hmm. Meiner erfahrung nach ist xntpd nur ein Daemon, der in
+regelmässigen Abständen einen SIO-Server abfragt und die Systemuhr
+danach einstellt.
+
+Lukas
+
+-- 
+                           Reboot America.

@@ -1,0 +1,37 @@
+STATISTIK 19. 11. 20
+-=-=-=-=-=-=-=-=-=-=-=-=
+
+DAU-Bernard
+
+Pos.  DAUs  Msgs.  Ratio   Name
+---------------------------------------------------------------------------
+   1    10      1   10,00  Blackspawn <sqwhd@jzcf.fwn>
+   2    10      1   10,00  ufufzv@bhbvzcni.vcm
+   3    56     10    5,60  "Joseph" <klqxodkd@vuv.eu>
+   4   340     68    5,00  Christof Tiegel <nezkl@shaab.oe>
+   5  3972   1034    3,84  Maurizio Rödelbronn <soh@ngayb.chg>
+   6     6      2    3,00  "Robert Winkelnkemper" <Z.Jwwxx@r-scwrgg.ej>
+   7  1189    421    2,82  Jens Wolf <fmunoz@kgspfvvepv.zj>
+   8   158    103    1,53  Marko Jaentzsch <ufrhvr@cqcjnqj-whloqf.hk>
+   9   233    183    1,27  No need for you to know
+  10   236    232    1,02  Gerhard Reißinger <zaabyxzbddcsxe@gar.rqt>
+  11     1      1    1,00  "Christof Waegner" <lufxpsrk.mnwoe@zjs.du>
+  12     2      2    1,00  "Alberto Clauhsen" <yiqrvci@ebuegxtsn.pj>
+  13   312    340    0,92  Christof Rödelbronn <znkbxqe@oxgzy.rmsm.ne>
+  14   155    199    0,78  Tim Beutelspacher <ntmxcfx@zdn.me>
+  15     5     10    0,50  Elfi I. Fritzenwallner <fpipzd@hduqsp.qe>
+  16    99    201    0,49  Willi Osterkemper <uaqovvmxtu@ztwctyyahi.pb>
+  17   274   1209    0,23  Manfred Truckenbrod <rswutwo_zz@gogx.fjz>
+  18    32    144    0,22  <hbljyg-9624@mcmbovwn-ntaumqt.ht>
+  19    33    460    0,07  Christof Oltenburger <lawchsjkqi@rvlugctuzhw.lp>
+  20    10    151    0,07  Theodor Tennort <esseqaugxwdp@jjxvmlupz.top>
+  21    10    154    0,06  Torsten Viehöfer <NfmhdtFheici@jdl.br>
+  22    11    173    0,06  Vincent Schaenker <nbdnrd-nuft-734301@vhis.sqyhqd.em>
+
+
+Statistik basierend auf den Ergebnissen von GoldFind 2.0.3.0
+(Darstellung angepasst von Torsten Tersteeg)
+Basierend auf den Feeds von:
+qztu.yew.xab.er         vosb.snxkwil.nk          fnqj.gtktx.fha
+ypug.mqalme.co          dkea.n-iluybz.mq         uapc.kbw-cqjsapgq.uh
+xpze.qar-zrmzffxvs.wd

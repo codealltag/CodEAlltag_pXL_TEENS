@@ -1,0 +1,14 @@
+Eckhard Füssle hat geschrieben getan getutet:
+
+
+Quotemarder.
+
+Naja, wollte ich urspruenglich schreiben, haette aber net so ganz
+gepasst..
+
+-sascha
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Wolfgang 'pi' Piwinger in de.alt.sysadmin.recovery

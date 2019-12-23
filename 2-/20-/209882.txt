@@ -1,0 +1,15 @@
+usmdkn@qwfdpeupju.lc (Joël Oellbrunner) schrub/wrote:
+
+
+Gar nicht. Ein gescheiter Server (Apache, ...) unterstützt aber
+pa�wortgesch�tzte Verzeichnisse: ".htacces" in das entsprechende
+Verzeichnis, dort Pa�wortdatei, Titel, erlaubte Benutzer und Restriktionen
+angeben, Pa�wortdatei mit Benutzernamen und passenden verschlüsselten
+Paßworten anlegen, fertisch. Sicher.
+
+Elfriede Ahnung, wer Deine Webpräsenz hostet; Strato unterstützt das bspw.
+mindestens ab PowerWeb S, IN-Domains teilw. auch so, wenn man mal fragt,
+ob's tut.
+
+Gruß,
+Marc

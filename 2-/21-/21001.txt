@@ -1,0 +1,13 @@
+Valentin Cronauge <ljq@gvwfe.imh> writes:
+
+
+Wenn du schon darüber grübelst, könntest du gleich auch mal
+probieren. Vielleicht schmecken sie dir ja.
+
+Raphaël
+
+-- 
+Homer:~$ whoami
+root
+Homer:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Udo Jönßon]

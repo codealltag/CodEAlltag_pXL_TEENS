@@ -1,0 +1,9 @@
+begin quoting Volkert Mißfeldt <qriegzi584756@rmzhze.rw-y.yq>:
+
+Hab mich ja in <410oxs.7u9.8@bjsp.orlns.ibfer.ow> korrigiert. ändert
+nix daran, daß man die _Nummer_ des Ports i.d.R. nicht braucht.
+-- 
+Windows ist _kein_ Virus. Ein Virus ist nämlich ein kleines, sehr
+effektiv programmiertes Stück Software, was man von DWOJ nicht
+gerade behaupten kann.
+               Jörn Teppe in de.alt.folklore.urban-legends

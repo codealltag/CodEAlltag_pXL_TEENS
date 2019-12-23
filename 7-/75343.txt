@@ -1,0 +1,11 @@
+Alberto Fokker hat geschrieben getan getutet:
+
+
+Da.
+
+-towo, demnächst mal X-Anzahl-Ecken deklarierend
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ottmar 'pi' Piwinger in de.alt.sysadmin.recovery

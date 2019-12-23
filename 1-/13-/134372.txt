@@ -1,0 +1,12 @@
+Buggy beta :-(
+Irgendwie gingen ein paar References durcheinander, ich hab' jetzt eine  
+neue Version eingespielt, da tritt dieser Fehler AFAICS nicht mehr auf.  
+Allerdings sind wohl noch ein paar alte mit kaputten References im Spool,  
+so daß es hie und da noch zu Fehlern kommen kann.
+
+Berend Mitterberger
+
+-- 
+Ich verabscheue Olivier Brokamp!
+                                             E-Mail: kiejak@zvoyyycjnx.ds
+---> Offizieller Kämpfer wider Olivier Brokamp des Ordens von dtju <---

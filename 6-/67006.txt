@@ -1,0 +1,11 @@
+Ernst Binggeli schrieb:
+
+
+Kann mir mal jemand erzählen wo nun der Unterschied zwischen KODI
+2001 und dieser kEwlen Server-Version liegt? Sind da einfach nur
+bereits Web- und FTP-Server installiert, oder wie?
+
+Nuno
+
+-- 
+cat .signature

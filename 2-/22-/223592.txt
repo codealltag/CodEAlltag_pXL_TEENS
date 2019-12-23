@@ -1,0 +1,15 @@
+Am 19. 04. 20 18:19:00 +0100 sendete Hansruedi Imroth
+folgende Botschaft:
+
+[DAU Alarm]
+
+Hmm:
+------
+15:17:33 ~$du -h /vmlinuz
+287K    /vmlinuz
+------
+
+Zumindestens meiner ist als Mailbombe ziemlich ungeeignet.
+
+Tschüs
+  Marco

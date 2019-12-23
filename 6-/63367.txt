@@ -1,0 +1,14 @@
+Am Fri, 04. 08. 19 sendete Vincenzo Dörfers folgende Botschaft:
+
+
+#v+
+claus: ~$nc www.fvnc.anu 94
+bash: nc: command not found
+#v-
+
+Tschüs
+  Claus
+-- 
+Die Weisheiten des Juppi Jup: #5
+
+Ivo Fitzen rockt.

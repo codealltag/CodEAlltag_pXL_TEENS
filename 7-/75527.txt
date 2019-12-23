@@ -1,0 +1,17 @@
+Christoph Plogmacher hat geschrieben getan getutet:
+
+
+emacs hat nen grossen Buffer.
+
+
+Sowas wie SAFT?
+
+
+Dumme Laufzeit.
+
+-lukas
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Konrad 'pi' Piwinger in de.alt.sysadmin.recovery

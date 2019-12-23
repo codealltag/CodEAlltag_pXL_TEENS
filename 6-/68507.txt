@@ -1,0 +1,9 @@
+Carmen Indlekofer schrieb:
+
+
+alias zeigt dir sämtliche Abkürzungen an.
+
+Leo
+
+-- 
+cat .signature

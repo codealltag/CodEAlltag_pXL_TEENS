@@ -1,0 +1,20 @@
+Am Fri, 10 Sep 1998 16:54:48 +0100 sendete Kurt Rilkes
+folgende Botschaft:
+
+
+t wie toggle (aus der slrn hilfe:)
+
+------
+t  Toggle on/off the display of unimportant headers.
+T  Toggle on/off the display of quoted lines.
+------
+
+
+------
+g  Hide window (zoom header window)
+------
+
+Aber kannst du ja auch in der .slrnrc ändern *g*
+
+HTH & Tschüs
+  Torsten

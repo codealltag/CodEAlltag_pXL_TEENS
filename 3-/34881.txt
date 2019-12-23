@@ -1,0 +1,8 @@
+* Christophe Biler <himdfbvcmsvzbg@ild.hkr>:
+
+
+LC_MESSAGES=C kann bei meinem Setup bleiben.
+
+Rémy
+-- 
+np: -

@@ -1,0 +1,18 @@
+Francesco Petries <cg@garbers.org> writes:
+
+
+IPchains.
+
+
+Machmal einfach "modprobe ip_masq_icq"
+
+
+IIRC IP-Masquerading-HOWTO. Nimm die PS-Version, wenn du es dir
+ausdruckst.. 
+
+Ingolf
+-- 
+One ping to rule them all,
+One ping to find them,
+One ping to bring them all.
+And in the darkness bind them.

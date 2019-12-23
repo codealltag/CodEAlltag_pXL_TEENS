@@ -1,0 +1,14 @@
+Jens Eikmanns schrieb:
+
+
+Wo wir grad dabei sind: Kann leafnode nicht auf mehrere Server
+gleichzeitig zugreifen? Bei mir tut er's auf jeden Fall nicht und ist
+auch sonst nicht der schnellste. :-(
+
+Benno
+
+-- 
+"Ich habe die Länge und Breite dieses Landes bereist und mit den besten
+Leuten geredet, und ich kann Ihnen versichern, dass Datenverarbeitung ein 
+Tick ist, welcher dieses Jahr nicht Überleben wird."
+[The editor in charge of business books for Prentice Hall, 1957]

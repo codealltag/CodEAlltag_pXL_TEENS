@@ -1,0 +1,21 @@
+Mal sehen, ob ich das auch kann... Clown gefrühstückt?
+
+
+Letzteres könnte durchaus sein, ja.
+
+
+Darüber bin ich mich mangelns weitergehenden Informationen über die  
+Intention von Geutebrück nicht im klaren. Aber ich würde spontan mal ja  
+sagen.
+
+
+Das sieht - und das sieht nicht gut aus - nach einem XP-Bug bei  
+Zeilenumbrüchen aus. Ich werde mal Nachforschungen anstellen und einen  
+Bug-Report schreiben.
+
+Sebastian Mecke
+
+-- 
+Ein neuer Mensch dank Tupper.
+                                             E-Mail: ffjxrq@vfqrezkvqj.hv
+---> Offizieller Kämpfer wider Luciano Paßerschröer des Ordens von dtju <---

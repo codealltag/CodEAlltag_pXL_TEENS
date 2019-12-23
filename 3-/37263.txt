@@ -1,0 +1,22 @@
+Insa Gottfreund <jvtwhqad@ptiyq.i-l-r.ie> writes:
+
+
+$ host -t MX bqlto.v-g-b.sh
+bqlto.v-g-b.sh          MX      10 aawp.bsymyxzols.cd
+$ telnet phuo.gonocokcjh.cy smtp
+Trying 02.55.128.38...
+Connected to phuo.gonocokcjh.cy.
+Escape character is '^]'.
+220 aawp.bsymyxzols.cd ESMTP
+MAIL FROM: <tfxl@hyun.imbndd.hqa>
+250 ok
+RCPT TO: <aggpeej.aojsrf.kqo@gqdlo.q-u-a.cn>
+250 ok
+
+Geht wohl.
+
+-towo, sich jetzt immer irgendwelche nonsense-localparts einfallen
+ lassend, wenn er mal corny anmailen sollte.
+-- 
+Light travels faster than sound, that's why
+people seem bright until you hear them.

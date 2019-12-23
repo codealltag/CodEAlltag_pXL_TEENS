@@ -1,0 +1,12 @@
+Vittorio Cathermann hat geschrieben getan getutet:
+
+
+Für dich: net stop
+
++++ATH0
+-veit
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Francesco 'pi' Piwinger in de.alt.sysadmin.recovery

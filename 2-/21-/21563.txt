@@ -1,0 +1,10 @@
+Und so sprach Oskar Strohschnieder:
+
+
+Na, wohl nicht so gut wie sein Hype, aber wohl immer noch gut genug. :)
+
+Sascha, <http://gdc.vvyca.wu/ypxefocuvm/qsmu/xr-84.97.10-962/>.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

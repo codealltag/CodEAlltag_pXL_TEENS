@@ -1,0 +1,13 @@
+Benno Nachtwei a crit dans le message:
+
+[ XEmacs 23.12 unter Win ]
+
+Und ich hoffe ja, dass es in absehbarer Zukunft fertige Binaries gibt.
+
+
+Warum das denn?
+
+Maurice
+-- 
+Züge fahren immer vorwärts. Auch wenn sie rückwärtsfahren.
+(Bernard Woestmaat)

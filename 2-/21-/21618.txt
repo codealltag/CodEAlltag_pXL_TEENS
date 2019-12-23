@@ -1,0 +1,10 @@
+Und so sprach Ursi Neunkirchen:
+
+
+Die gelbe Sau ...
+
+Richard, kann ich mich drüber aufregen.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

@@ -1,0 +1,6 @@
+Thomas Corts <kywv@bjbewrv.gd> schreibselte:
+
+[Knuth]
+Das hab ich in nem c't-Artikel stehen... Ich weiss net, ob er es net
+kapiert hat, zumiondest meint er, es sei sicherlich etwas sehr
+Fortschrittliches und so, nur tut oder kann er es net umsetzen...

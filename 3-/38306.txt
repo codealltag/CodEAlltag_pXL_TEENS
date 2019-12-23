@@ -1,0 +1,11 @@
+Nicolas Loevenich <flgg-ktsuoa@hsh.iod> writes:
+
+
+Leider macht der Kernel kein autosensing und wirft rm -rf an.
+
+-frank
+-- 
+Warum wird eigentlich zunehmend das gute Usenetprinzip "Keiner hat
+Anspruch darauf, von jedem gelesen zu werden." in Richtung "Ich darf
+jeden Bl�dfug schreiben, weil's eh ja keiner Lesen *muß*" mißbraucht?
+- Gerald I. Unterberger in eaisllf.bh.zewh

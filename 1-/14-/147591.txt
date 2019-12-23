@@ -1,0 +1,29 @@
+Tach Marc!
+
+Marc Weyandt wrote:
+
+
+Also, so wie es aussieht, benutzt Du eine englische Version von Netscape
+4.7
+
+Da klickst Du einfach auf View -> Headers -> All
+
+Ein bisschen im Header rumgucken und Du findest evtl den
+NNTP-Posting-Host (bei Deinem sieht man z.B. dass Du von der TU
+Breitingen postest).
+
+Weiterhin kannst Du auch mal bei
+http://wlw.naoaubhkaoffhppj.ija/trx-qzi/frzek/qlnlv nach dem Domainnamen
+suchen, fuer die die Werbung machen und dann bei dem Provider
+(Webhoster) nachschaun.
+Die haben auch meist ne email - Adresse in der Art von
+gsyzh@aypmwrah.pfn
+
+Hoffe, geholfen zu haben.
+
+Dominik
+
+-- 
+  NOTVERKAUF: Suzuki GSX-R 750 W, 45 Tkm, YW 58/38, TUEV 02/76
+          Streetfighterumbau, fuer nur 5500,- VHB
+     Info unter: http://pwn.pttbb.mkrbdetwh.kf oder pm

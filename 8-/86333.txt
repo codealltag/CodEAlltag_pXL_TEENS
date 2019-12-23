@@ -1,0 +1,10 @@
+* Gert Fingernagel <nhbrckd655306@fiylgz.db-s.cu>:
+
+
+Nein, aber Buchstabentasten, mit denen man die passende Funktion
+aufrufen kann.
+
+
+Schweig.
+
+Ruedi

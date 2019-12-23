@@ -1,0 +1,11 @@
+Oswald Nischwitz <yoqfbv@wkmgatbpcv.za> writes:
+
+
+Mehr oder weniger alternative Clients.
+Benutzt einfach den cvs-mldonkey. ;)
+
+-ferdinand
+-- 
+Ich moechte schwoeren, dass Karlheinz es im Kindergarten hatte.
+Natuerlich in der Leistungsstufe der KiTa "Maxim Kontsewitsch".
+- Luigi Donckel und Pascal Greiner-Adam in de.alt.sysadmin.recovery

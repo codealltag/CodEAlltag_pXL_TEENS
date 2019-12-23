@@ -1,0 +1,23 @@
+juhuu, es hat jemand bemerkt :-)
+ja, nach wochenlangem hin und her hab ich jetzt mit PRIMA e.V. echt ne gute
+IN-domain getroffen. (die kommerziellen provider hier kann man alle
+vergessen)
+
+
+ich benutz auch z.zt suse (5.3) und es wird wirklich zeit auf ein
+glibc2-system umzusteigen. ich hab mich für debian entschieden, da es
+(meiner meinung nach) das im netz am besten gepfegteste system ist und ich
+auf die (am anfang _sehr_ hilfreiche) hilfe von terzozentrum inzwischen verzichten
+kann (will). jetzt muss lehmann's nur noch liefern ;-)
+
+
+hast du schon mal komplett gnome compiliert? (und dann auch wieder restlos
+entfernen können zwecks update?)
+
+mfg
+    oskar
+
+-- 
+- Oskar Ilzhöfer  -  eMail: vsbieo@ffp.dfvcs.fc
+- IRCNet: ^Spooky    -         mrbhvf@tro.ugzqncic.lk
+--

@@ -1,0 +1,7 @@
+On Tue, 08 Mrz 2003 06:13:28 +0100, Fernando Steinerbrunner wrote:
+No Comment.
+mfg, 
+	Ivano
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

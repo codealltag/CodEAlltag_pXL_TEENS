@@ -1,0 +1,11 @@
+*grübel*
+Kann es sein, dass du damit schlechte Erfahrungen gemacht hast?
+
+Größe,
+Luis
+
+-- 
+Oder in der TeX-Variante, fuer Gummiliebhaber evtl. auch in LaTeX:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye
+[Niels Holzappel in d.a.s.r]

@@ -1,0 +1,29 @@
+Am Sun, 24. 03. 19 sendete Klaas Arentzen folgende Botschaft:
+
+
+Na in deinem $HOME kannst du doch fast alles. Ach ja, frag ihn mal
+von mir ob das Kleinkind geschmeckt hat.
+
+
+Huch. Da hat RH ja jetzt was ganz nettes als which. Bei mir war/ist das
+noch:
+
+#v+
+19:56:41 ~$alias which
+alias which='type -path'
+#v-
+
+Kannst du mal gucken ob bei dir /usr/bin/which eine script ist( z.b. per
+file)? 
+
+
+Tu das.
+
+
+Muss nee RH modifikation sein. öffne mal vimtutor und schau nach wie die
+vim aufrufen.
+
+Tschüs
+  Nils
+-- 
+Notorisch Schreibfaul.

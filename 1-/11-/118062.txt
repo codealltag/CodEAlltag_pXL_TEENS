@@ -1,0 +1,8 @@
+* Hilmar Vagdt <bybm@qppwosmy.pm>:
+
+
+Das ist Windows. Du musst garantiert dreimal neustarten.
+
+Bernd, hat einen ICQ-Clone für den XEmacs
+-- 
+cross veinless

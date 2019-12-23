@@ -1,0 +1,9 @@
+Fernando Schuncke <jqukxhi@bbz.so> writes:
+
+
+towo@loki:~$ locate bsh | wc -l
+     24
+
+Das endet unschoen.
+
+-kaspar

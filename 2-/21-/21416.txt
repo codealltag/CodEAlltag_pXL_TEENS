@@ -1,0 +1,10 @@
+Und so sprach Jürgen Osterheider:
+
+
+Lässt sich daraus bestimmt auch fabrizieren.
+
+Adrian
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

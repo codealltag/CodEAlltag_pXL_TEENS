@@ -1,0 +1,21 @@
+Ralf Andressen meinte kundzutun:
+[Code]
+
+Bei Lamprecht und meiner Schreibweise auch, außerdem siehst du auch sofort,
+was für eine Schleife o.�. geschlossen wird, ohne noch eine Zeile höher
+gucken zu müssen.
+
+[Code]
+
+Ach was...
+
+
+anzufangen oder abzufangen? *g*
+
+
+Ich weiß. Deswegen schreib ich meinen DB-Krempel auch nicht in java...
+
+Ludger
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Donnerstag, dem 14. Mai im Jahre des Herrn 2001 verfaßt.

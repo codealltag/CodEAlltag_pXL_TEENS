@@ -1,0 +1,8 @@
+* Pierre Bigelmayr <qhkyhye997464@snwqtj.nm-w.jl>:
+
+
+Das mag sein. Der Filter filtert ja auch nicht auf RfC-Konformität,
+sondern auf Realnames. Und nein, in deutschen Vornamen kommt kein "@"
+vor.
+
+Valerian

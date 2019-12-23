@@ -1,0 +1,9 @@
+* Norbert Braunschmid <ladfn@hgkfw-eaxwfh.ke>:
+
+
+IMO sollten die Gnus-Fragen nach dcsn und die XEmacs-Fragen nach
+dce. Aber mich fragt ja niemand.
+
+Thorsten
+-- 
+cross veinless

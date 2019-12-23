@@ -1,0 +1,10 @@
+"Kaspar C. Apetz" <pwl@lro.lb> writes:
+
+
+Pseudocode. Um Genauzusein, das ist die Exception, die geworfen wird,
+wenn der User in die Tischkante gebissen hat.
+
+Jean-Pierre
+-- 
+Ich leide nicht unter Wahnvorstellungen,
+ich geniesse sie!

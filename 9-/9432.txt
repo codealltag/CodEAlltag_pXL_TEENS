@@ -1,0 +1,9 @@
+Mauros Niederlag <twwi@mixqdceohfy.tz> writes:
+
+[dsf 4.3]
+
+Christoph
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+115: pure virtual member function
+       nicht kreatibel (Otto Zufelde)

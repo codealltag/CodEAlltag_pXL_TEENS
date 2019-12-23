@@ -1,0 +1,6 @@
+Ivan Haberlahs <cg@garbers.org> writes:
+
+
+N, habe keine Ahnung, wo man die Counter-Werte speichern könnte,
+außerdem kann ich kein LISP (obwohl es sicher eine schöne Sprache
+ist).

@@ -1,0 +1,26 @@
+STATISTIK 09. 04. 20
+-=-=-=-=-=-=-=-=-=-=-=-=
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   2015   34,74%  "Forte Agent"
+   2   1926   33,20%  "Gnus"
+   3    897   15,47%  "slrn"
+   4    404    6,97%  "Kleinknecht/NetScape"
+   5    201    3,47%  keiner angegeben
+   6    137    2,36%  OpenXP/32 v3.8.7pl6 (Win32) beta @ 5896-19-89-2665f
+   7    134    2,31%  "Xnews"
+   8     39    0,67%  "Gravity"
+   9     30    0,52%  OpenXP/32 v3.9.3 (Win32) alpha @ 7791-98-36-2180v
+  10     15    0,26%  "Microsoft Outlook"
+  11      2    0,03%  andere
+
+
+Statistik basierend auf den Ergebnissen von GoldFind 2.0.3.0
+(Darstellung angepasst von Tim Czerwenka)
+Basserend auf den Feeds von:
+wjlb.xek.usm.zg         seea.bsmxllq.kz          smhq.lgvpe.bp
+kckr.ferzea.kv          kvbw.d-kmlolj.eq         asnc.cyo-ixzsoenv.sm
+fttp.hyn-gadltwviu.rf

@@ -1,0 +1,12 @@
+Marcus Johannesmann hat geschrieben getan getutet:
+
+
+Man merkt mir wohl an, dass ich mit Programmieren nicht viel am Hut
+habe, oder?
+
+-renato
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Edmund 'pi' Piwinger in de.alt.sysadmin.recovery

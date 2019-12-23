@@ -1,0 +1,9 @@
+Vinzenz Overdyck <lwuaxstdfbu@iazyblsbmee.cu> writes:
+
+
+"rückstandsfrei" tuts unter Windows einfach nicht zuverlässig, wenn
+einmal was in der Registry drinsteht...
+
+Jürgen
+-- 
+Today is the tomorrow you worried about yesterday

@@ -1,0 +1,9 @@
+* Bodo Dykes <hljfay@wxuh.dpyoeqdk.tt>:
+
+
+Und da sag noch einer, die Tastenkombinationen in vim seien nicht
+intuitiv. *eg*
+
+Stefano
+-- 
+np: Green Day - Burnout

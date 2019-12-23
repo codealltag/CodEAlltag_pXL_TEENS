@@ -1,0 +1,12 @@
+* Benno Flechsig <qvyz@eyvndgol.cn>:
+
+
+,--------
+`--------
+
+Wenn du Gnus offline betreibst (agent-like), kannst du die Nachrichten
+sicher auch löschen.
+
+Markus
+-- 
+cross veinless

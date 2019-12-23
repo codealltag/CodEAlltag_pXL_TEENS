@@ -1,0 +1,13 @@
+Gerald Flötemann <jtlsgxvdek@mmalhdzvzi.gx> writes:
+
+
+"Hat der Selbstmordkandidat, der die Stippen gezogen hat, gelbgrün wie
+vorgesehen genutzt?"
+
+
+s/was/ob/
+s/sich//
+
+Ottmar
+-- 
+So auf Kommando geht DAS nicht! [Hendrik]

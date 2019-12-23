@@ -1,0 +1,12 @@
+Heinz Bischoff <agizgr@fpnwheok.erd-fjkofrq.ts> writes:
+
+
+hauke@obrien:~$ make JUP                   
+make: *** No rule to make target `JUP'.  Stop.
+
+Ernst
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Giorgio Oostinga in
+<cdak4b8sq2.5u4.fxdinaq.fmlpqx@yec.yom.jy-slzuyrsp.je>]

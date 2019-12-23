@@ -1,0 +1,9 @@
+Am Thu, 03. 03. 19 19:26:56 GMT sendete Max Jonasson
+folgende Botschaft:
+
+
+Das programm ist nur als root nutzbar? dann würd ich den am besten unter
+/usr/local/sbin/ ablegen.
+
+Tschüs
+  Kurt

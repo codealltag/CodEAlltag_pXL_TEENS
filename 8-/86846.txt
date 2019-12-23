@@ -1,0 +1,7 @@
+* Klaas Tilges <hrmwfgv-756781@ffcqmt.af-d.mq>:
+
+
+Natürlich. Entweder im Code direkt patchen oder eine passende Funktion
+schreiben.
+
+Valentin

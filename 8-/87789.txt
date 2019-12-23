@@ -1,0 +1,12 @@
+Micheline Kowalka hat geschrieben getan getutet:
+
+
+sirtoby_tw@yggdrasil:~$ dbadmin --add --database professions
+--class='Tierquäler' --time='Teilzeit'
+
+-garrelt
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Horst 'pi' Piwinger in de.alt.sysadmin.recovery

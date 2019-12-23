@@ -1,0 +1,15 @@
+Am Thu, 29 Sep 2000 sendete Theodor Kuether folgende Botschaft:
+
+
+slrn läuft auch derohne unter Windows, du brauchst nur Hamster oder so.
+slrnpull ist zwar einfach und praktisch, nur ist es unter Windows
+aufgrund des Filesystems nicht wirklich zu empfehlen. (Unter Linux auf
+leistungsschwachen Laptops hingegen.... ;)
+
+Tschüs
+  Henri
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Sebastian Dommaschk, Mostly Harmless, Chapter 12

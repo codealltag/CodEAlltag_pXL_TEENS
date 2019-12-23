@@ -1,0 +1,11 @@
+Clemens S. Dammköhler meinte kundzutun:
+
+Hm. Naja, er hatte nur einen Thread an einem Server am laufen, maximal
+noch einen zweiten nebenher an einem anderen Server (für die Gruppen die
+ich dauerhaft lese usw...).  Na gut, der eine Dauerthread war auf dem
+schnellsten der Server aktiv, von denen ich ziehe...
+
+Karsten
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.talk.jugend
+Er wurde am Donnerstag, dem 20. April im Jahre des Herrn 2002 verfaßt.

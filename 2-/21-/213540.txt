@@ -1,0 +1,10 @@
+On 28. 08. 20, Ullrich Thunert <pcbwpoboco@owhxbbbhlk.op> wrote:
+
+[chmod ohne explizite Angabe der Usergruppe]
+
+Eben.
+
+Viele Größe,
+     Antoine Tripcke
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

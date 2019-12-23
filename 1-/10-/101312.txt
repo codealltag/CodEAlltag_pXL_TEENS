@@ -1,0 +1,14 @@
+* Jens Cooreman <fzrnahtztowl@pmwwsaxav.kkv>:
+
+
+Enlightenment ist für mich ideal. Es besteht aus genau drei Teilen:
+Einem Hintergrund, einer Iconbox und einer Leiste am oberen Rand, dich
+bei Gelegenheit mal abschalten sollte.
+
+Ich verteile nun immer Gnus, Fabrikverkauf, gkrellm und >10 xterms auf die
+virtuellen Desktops. Andere Leute sind immer schwer fasziniert, wenn ich
+mit den Fenstern umherhantiere. :)
+
+Kurt
+-- 
+cross veinless

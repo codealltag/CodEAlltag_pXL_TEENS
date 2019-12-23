@@ -1,0 +1,9 @@
+Theodor Aiglstorfer <eusojq-08-5647@kzuw.kwzrbf.ck> writes:
+
+
+towo@loki:~$ uname -a
+Linux loki 05. 09. 20 20 17:17:30 CET 2002 i686 unknown
+
+<buzz>Intelligenzallergiker</buzz> :)
+
+-arne

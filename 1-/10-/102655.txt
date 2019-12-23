@@ -1,0 +1,12 @@
+Juan Viett <hwegeya234994@pqnxcj.gn-p.fz> writes:
+
+
+/boot darf im laufenden Betrieb ausfallen, solange man nciht rebooten
+will, Swap hab ich schon seit monaten nicht mehr gebraucht, und /home
+ist ärgerlich. Kannst du denn nicht evtl. ne andere Platte reinhängen
+und dann mal sehen, ob du noch an /home dran kommst?
+
+Oscar
+-- 
+Yannic ist nicht heilbar, aber man kann es Überleben
+Boernout S. in der Realität[tm], 24.10.1999

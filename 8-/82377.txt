@@ -1,0 +1,20 @@
+Tino Steinlein <gxyfjpdgq.jdxdcv@lmbjtkkr.pf> writes:
+
+
+*klackerdiklack*
+
+M-x bbdb-display RET tino steinlein RET
+
+Tino Steinlein
+[snip]
+     newsgroups: sx.tzz.igjq.byafsn
+                 lu.vrp.cldqaqzp.sqxfxpag
+                 ^^^^^^^^^^^^^^^^^^^^^^^^
+[snip]
+
+Dietrich
+-- 
+Wie jagt man einen Elefanten - Teil 2:
+C- Programmierer bestimmen zuerst mit sizeof() die nötige Speichermenge
+für einen Elefanten, versuchen diese zu allozieren, vergessen dabei das
+Ergebnis abzuprüfen und schießen dann mit wilden Pointern auf den Elefanten.

@@ -1,0 +1,10 @@
+Heimo Zinkler <cdgfdl-keyn.ihr@gketsl.un-n.ww> writes:
+
+
+Elendiger logfile-leser. ;)
+
+-heino
+-- 
+Biete: Gerold  9 07:08:48 Inet-Gw pppd[417]: Connect time 666.6 minutes.
+Und will sehen.
+- Viktor Weidenbörner, Fredy Artur in de.alt.sysadmin.recovery [leich abgeändert]

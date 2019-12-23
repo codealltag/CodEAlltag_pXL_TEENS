@@ -1,0 +1,10 @@
+Carlos Krauss <cunrlhl393121@ggkybf.mh-w.ct> writes:
+
+
+Selbst schuld.
+
+Francis
+-- 
+Wie jagt man einen Elefanten - Teil 3:
+LISP-Programmierer bauen einen Irrgarten aus Klammern und hoffen,
+dass sich der Elefant darin verirrt...

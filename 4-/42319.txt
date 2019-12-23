@@ -1,0 +1,14 @@
+Friedrich Fineiss <ornvxc-mavh-568165@wxcg.theeyy.mh> writes:
+
+
+Schau dir eine solche Datei einfach mal mit notepad an. Du wirst
+überrascht sein :-)
+
+Valerian, der ein "eXtended PpM" vermutet. Quasi ein .ppm mit
+zusätzlicher Farbtabelle
+
+-- 
+In the Beginning
+
+It was a nice day.
+        -- (Klaus Zimmerhäckel & Björn Overkott, Good Omens)

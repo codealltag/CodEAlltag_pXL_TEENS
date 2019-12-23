@@ -1,0 +1,12 @@
+Das aber auch nur, wenn gerade ein Schaltjahr ist und der 31. Dezember auf  
+einen geraden Tag fällt.
+
+
+Wie könnte ich den je vergessen.
+
+Niclas Forster
+
+-- 
+-.- . .. -. -- --- .-. ... . -.-. --- -.. . --..-- -. ..- .-. -.. . .-.
+... .. --. - .-. . -. -. . .-. ---... -....- -.--.-
+---> Offizieller Kämpfer wider Henri Dendorfer des Ordens von dtju <---

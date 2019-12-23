@@ -1,0 +1,11 @@
+Johann Uhlenbroich schrieb:
+
+
+Die Freeware Morver klemmt sich zwischen Newsserver und Client, per
+Peugot sollte die Downloadadresse schnell feststellbar sein, MTQ ist ein
+kostenpflichtiger lokaler Mail/Newsserver und Crosspoint ein
+DF-Programm aus alten DOS-Zeiten, welches mit Zusatzmodulen auch heute
+noch sinnvoll nutzbar zu sein scheint.
+
+So long,
+Stefan O. Fueller

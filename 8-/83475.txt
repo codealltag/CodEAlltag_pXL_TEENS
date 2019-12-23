@@ -1,0 +1,10 @@
+Niklaus Mahlau wrote:
+
+Kann mein sigfile besser als ich.
+
+Ignaz
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+okrl_igpimcq)->yxw(@ighxn_gbunnhg_sbjc[$xdbyb_qoyvafr_org_vcdclpc])->wb_qryikf()

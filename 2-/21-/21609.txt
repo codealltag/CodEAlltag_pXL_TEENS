@@ -1,0 +1,7 @@
+Wie, schon wieder?
+
+mfg, 
+	Noël
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

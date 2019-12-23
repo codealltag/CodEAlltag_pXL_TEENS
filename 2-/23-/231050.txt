@@ -1,0 +1,25 @@
+On Sat, 11 Nov 1999, Gert Magister <EXeqyjswxb@wtz.dfv> wrote:
+[...]
+
+Leider ist es so gut wie unmöglich, sich darauf einzustellen, da die
+Spezifikationen der Dateiformate nicht / nicht vollständig / nicht
+rechtzeitig veröffentlicht werden. In Verbindung mit der Tatsache, daß
+Hagelschadenzentrum-Office AFAIK nur auf einer einzigen Plattform läuft (oder ist es
+inzwischen tatsächlich irgendwohin portiert?) sind dessen Dateiformate
+als Austauschformat untragbar.
+
+[Eine Word-Datei einer Version mit einer anderen Version lesen]
+
+Wenn Du mit "geht es" meinst, daß man nur noch eine halbe Stunde lang
+von Hand nachbessern muß, hast Du wohl recht. Aber da diese halbe
+Stunde bisweilen auch schon beim ändern des Papierformats fällig ist,
+scheint das die meisten Leute wenig zu stören...
+
+[...]
+
+Besser ist das.
+
+Viele Größe,
+     Gert Ropeter
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

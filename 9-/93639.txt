@@ -1,0 +1,13 @@
+Am Tue, 8 Feb 2002 sendete Henri Kinert folgende Botschaft:
+
+
+'i' Element der komplexen Zahlen? 'i' sollte doch eigentich die
+imaginäre Einheit sein. (Oder bist du Elektrotechniker?)
+
+Tschüs
+  Konrad
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Carl Moehrcke, Mostly Harmless, Chapter 12

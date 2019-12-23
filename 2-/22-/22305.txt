@@ -1,0 +1,11 @@
+Und so sprach Gerold Waldemar Hippeli:
+
+
+Das ist eine philosophische Frage. :)
+
+Gruss,
+Fridolin.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

@@ -1,0 +1,7 @@
+* "Niklaus Essler" <laj-cfpc@nzmxwcn.dq>:
+
+
+Warum nicht? FWTM-Portierung existiert (Qualität kenne ich nicht),
+cygwin auch.
+
+Jean-Luc

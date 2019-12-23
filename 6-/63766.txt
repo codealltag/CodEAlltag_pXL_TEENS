@@ -1,0 +1,8 @@
+Alberto Teig <qrehpzs@emy.db> writes:
+
+
+Sicher, dass deine Zeilenlänge ok ist?
+
+Jürgen
+-- 
+            It is easier to fix Unix than to live with NT.

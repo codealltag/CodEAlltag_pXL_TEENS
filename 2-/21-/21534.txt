@@ -1,0 +1,11 @@
+Und so sprach Ralf Elsebach:
+
+
+Ist auch vernünftig. Seinen Ernährer zu fressen ist nicht besonders
+intelligent. :)
+
+Günter
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

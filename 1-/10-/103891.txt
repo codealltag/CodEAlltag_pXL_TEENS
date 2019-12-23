@@ -1,0 +1,13 @@
+Am Fri, 05. 05. 19 sendete Ullrich Peterhänsel folgende Botschaft:
+
+
+Beenden und bei bedarf speichern. Scheitert nur wenn noch kein Name für
+die Datei bekannt ist oder bei schreibgesch�tzen dateien etc.
+
+
+vimtutor hilft fs erste, die hilfe mag ich auch net.
+
+Tschüs
+  Mauro
+-- 
+Notorisch Schreibfaul.

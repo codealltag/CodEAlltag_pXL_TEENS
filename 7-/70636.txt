@@ -1,0 +1,11 @@
+Björns Eißfeldt <uxyslla_wf@gtky.vgi> writes:
+
+
+Gnus erzeugt beim Drücken von OPN soviele Leerzeichen, daß das
+entsprechend weit eingerückt ist.
+
+Kleiner Test:
+
+
+Noch ein Tab:
+        (Ende)

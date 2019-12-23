@@ -1,0 +1,11 @@
+Lorenz May <bqx-20-07@hukh.ekuftl.em> writes:
+
+
+War es nicht egal, ob man GMT oder Local Time angab? Ausserdem würde
+ich eher darauf tippen, dass deine Zeitzone auf dem ganzen System
+nicht stimmt...
+
+Vittorio
+-- 
+1789 wurden erstmals die Menschenrechte als Gesetz verabschiedet.
+Keiner weiß, wo sie sich heute aufhalten.[Stephanus Jörg]

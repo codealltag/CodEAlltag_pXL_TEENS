@@ -1,0 +1,8 @@
+Ich hatte die 0.9.4er unter Linux getestet und war damit zufrieden. Hab 
+jetzt die 0.9.5er unter Windows und die läuft sogar einen Tick 
+schneller.
+
+Volkert
+-- 
+Vorsicht mit Bandbreitenangebereien! Es gibt immer noch jemanden,
+der mehr Bandbreite als du hat. (Kay Verheyen in dnq)

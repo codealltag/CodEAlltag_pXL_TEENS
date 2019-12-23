@@ -1,0 +1,9 @@
+Ullrich Rüster <jospzge@dsj.hd> writes:
+
+
+Weil auch in Quotes eine Zeilenlänge >80 Zeichen recht unleserlich
+sein dürfte.
+
+Tino
+-- 
+Leghasteni sit vielferbreitet. Aber Onlinkultruen sidn nohc shclimr

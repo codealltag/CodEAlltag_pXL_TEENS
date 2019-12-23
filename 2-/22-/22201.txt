@@ -1,0 +1,22 @@
+Ronald Diekmanns <vabjo@jrlkj.jf> writes:
+
+
+#!v+
+#!/bin/sh
+# Dependencies: imagemagick
+
+cd /home/winki/a;
+for file in *jpg; do
+    convert -scale 1024x640 $file /home/winki/b/$file.jpeg;
+done;
+#!v-
+
+
+Nicht 768?
+
+-waldemar
+-- 
+Words are the litmus paper of the minds. If you find yourself in the power of
+someone who will use the word "commence" in cold blood, go somewhere else very
+quickly. But if they say "Enter", don't stop to pack.
+- Willi Pratchett in Small Gods

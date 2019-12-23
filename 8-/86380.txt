@@ -1,0 +1,14 @@
+Dietmar Handierk hat geschrieben getan getutet:
+
+
+der ferd hat fier beiner,
+an jeder seiten einer,
+und hat er mal keiner, dann
+ummfallt.
+
+-gerard
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Paolo 'pi' Piwinger in de.alt.sysadmin.recovery

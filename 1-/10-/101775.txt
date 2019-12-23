@@ -1,0 +1,11 @@
+Jean-Luc Demleitner <rmaitnv727916@vbmxbk.fw-a.jy> writes:
+
+
+So wie unter Un*x-Derivaten aller Art. Raus aus dem gnus, .gnus
+editieren, und dann "M-x gnus". Wenn keine Meta-Taste da ist, wird ESC
+als Meta interpretiert.
+
+Alfred
+-- 
+Jetzt habe ich endlich auch einige Kratzer von dir - und nicht nur von
+Antonella. [Peter nach einem wilden Gerangel mit Onno K.]

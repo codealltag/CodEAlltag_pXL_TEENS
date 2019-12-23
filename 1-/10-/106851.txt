@@ -1,0 +1,10 @@
+* Sandro Laugwitz <lxcahrzexvqvod@zqu.hzr>:
+
+
+SuSE legt Wert darauf, den Kernel so zu bauen, dass er auch wirklich mit
+jeder Hardware funktioniert. Natürlich ist darum auch viel Mist dabei,
+aber für den Anfänger funktioniert es.
+
+Alain
+-- 
+cross veinless

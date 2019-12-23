@@ -1,0 +1,20 @@
+Am Sat, 19 Okt 2000 sendete Ivan Jahreis folgende Botschaft:
+
+
+a) vernünftige maus kaufen
+oder
+b) man gpm
+
+[Prompte]
+
+Das ist ja auch nur die Variante wenn ich mich von ausserhalb einloge.
+Und dann arbeite ich erh selten mit der bash.
+
+
+Das ist ein Variable wie jede ander auch. Readonla Variabeln sind sehr
+selten.
+
+Tschüs
+  Mario
+-- 
+2471

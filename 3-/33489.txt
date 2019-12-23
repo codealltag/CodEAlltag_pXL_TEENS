@@ -1,0 +1,11 @@
+Alexander Gampenrieder <trcod@cicsr.yuhk.ws> writes:
+
+
+Hm?
+
+Hat hier halt anscheinend nicht so einen großen Stellenwert. Auf dem
+letzten Übungsblatt waren dazu ein paar Aufgaben, Umformungen und
+Skolemform, und jetzt geht es ums lambda-Kalkül.
+-- 
+"Modern Talking klingt auch nicht schön, hat allerdings genauso viel damit zu
+tun." Olaf Vleeschhouwers in <ly7b0g.t00.az@mmvuqklhdp.zjuukm.rs> js jg.mvy.htmgb.qaag

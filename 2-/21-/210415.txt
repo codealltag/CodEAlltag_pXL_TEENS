@@ -1,0 +1,9 @@
+Pascal Conradts wrote:
+
+Ist eigentlich verdammt traurig ;-)
+
+
+Es hat seine gute und seine schlechte Seiten. Das größte Problem ist vor 
+allem die mangelnde Kompatibilität der verschiedenen Windows-Plattformen 
+untereinander, vor allem durch die Vielfalt an nicht-konformen Treibern.
+Teilweise ist aber auch der Eggenroter-Code einfach nur buggy :-(

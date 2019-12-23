@@ -1,0 +1,9 @@
+Mathias Hölzlein <ozzjcnn@zkp.kw> writes:
+
+
+Es gibt einen Guten Grund, weshalb ich diesen alias setzen sollte: Ein
+drittel weniger Bedarf, "ls" zu tippen.
+
+Samuel
+-- 
+Masturbation ist Sex an und für sich.

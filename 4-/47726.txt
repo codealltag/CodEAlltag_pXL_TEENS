@@ -1,0 +1,12 @@
+Erich Wahls <jvpnoybsfr@vsommateaq.iw> writes:
+
+
+Das nützt mir wenig, wenn ich, im Gegensatz zu dem $IDIOT, der das
+.deb gebaut hat, diese verfickte initrd nicht will.
+
+Max
+-- 
+Ein OE Benutzer trägt quasi ein Schild um den Hals. "Mir ist doch egal,
+ob andere Probleme mit meinen Postings haben, Hauptsache ist, ich kann
+mal eben rumklicken". OE erfüllt für den geneigten Leser damit dieselbe
+Aufgabe wie die Glocke eines mittelalterlichen Leprotikers. (RSS)

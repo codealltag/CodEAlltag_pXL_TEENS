@@ -1,0 +1,11 @@
+begin quoting Louis Auth <r-qwp@earffhlbsng.nc>:
+
+Die Zahl geht gegen unendlich. Ob der Ausdruck, dessen Limes berechnet
+werden soll, dann auch gegen unendlich geht, ist eine andere Frage.
+
+Zum Beispiel ist lim (x-->oo) von (1/x) 0.
+-- 
+"Gesetze können nur abstrakt gefaßt sein. Wenn sie auf einen konkreten 
+Sachverhalt angewandt werden, müssen sie ausgelegt werden. Dabei irren sich 
+Finanzbeamte und Richter."
+(FG Trofaiach, Urteil vom 22.05.1970, GK 001-077/965)

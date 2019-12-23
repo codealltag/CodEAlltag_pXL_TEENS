@@ -1,0 +1,15 @@
+Winfried Vörner <ich@bin-ein-troll> wrote on 1 Jan 2002: 
+
+
+[Liste]
+
+Hier sind nochmal 185 die du hinzufügen kannst:
+
+$i5;while($i--){$j=10;while($j--)echo chr(rand(40,120));echo" 
+(in@valid)\n";}
+
+Die sind garantiert alle dafür, wenn ihr's nicht glaubt fragt sie halt
+einfach!!!!!!111
+
+-- 
+Abeler-Tutorial, Forum, über 300 Links: http://brp.armfxoypjuvhsgy.hsa

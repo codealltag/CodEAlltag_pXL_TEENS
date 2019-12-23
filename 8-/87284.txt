@@ -1,0 +1,15 @@
+Remo Eisfelder hat geschrieben getan getutet:
+
+
+Ich bin eigentlich permanent im IRC :)
+
+
+Naja ... dann müssten sie sich extra Software installieren -> mind. 50%
+weniger.
+
+-ubbo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Alex 'pi' Piwinger in de.alt.sysadmin.recovery

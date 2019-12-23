@@ -1,0 +1,9 @@
+Lars Buhs wrote:
+Mit "Software-Rendering" meinte ich, nur vom Hauptprozessor erzeugt...
+
+Gruß,
+
+Ewald
+-- 
+"There's a sucker born every minute."
+(Faka)

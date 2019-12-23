@@ -1,0 +1,13 @@
+Fernando Trögele <tsouwxdlow@favhvaalha.pc> writes:
+
+
+Keine Ahnung.
+
+
+/Noch/ garnix. Max (das wird mal 3.0) ist KVL noch nicht im Freeze
+und damit ist nachwievor 2.2r3 aka "Potato" die stabile Release.
+
+Uwe
+-- 
+The early bird catches the worm.
+If you want something else for breakfast, get up later.

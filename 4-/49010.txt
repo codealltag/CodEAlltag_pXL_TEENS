@@ -1,0 +1,14 @@
+Am Fri, 3 Dez 2002 sendete Stefan Denker folgende Botschaft:
+
+             ^^^^^^^^^^^^^^^^^^^^^^
+
+man getpwnam
+
+
+Ich? Der root.
+
+
+Dann trifft die obrige Bedingung nicht zu.
+
+Tschüs
+  Patrice

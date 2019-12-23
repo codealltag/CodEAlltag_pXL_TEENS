@@ -1,0 +1,17 @@
+Sven Helbich <iruhr@zazcc.nm> writes:
+
+
+Hat er ja nicht angezweifelt.
+
+
+Hast du perverse Sexpraktiken! Wann können wir uns treffen?�?
+
+
+Was ist mit der falschen Pflanze?
+
+-diedrich
+-- 
+ No  Points     Name                                                   Hp [siebelt]
+  1    0620542  Kirsten-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

@@ -1,0 +1,12 @@
+Giorgio Zonderman wrote:
+
+Fast.
+
+[^a-z]{10,}
+
+Olaf
+-- 
+DAS tut weh...
+naja...
+mir nicht.
+[Vito]

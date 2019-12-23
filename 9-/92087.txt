@@ -1,0 +1,14 @@
+Maximilian Tschentke hat geschrieben getan getutet:
+
+
+Wobei es mir gerade auffällt: Wäre ja mal net, wenn der pi mal alle
+seine Initialien auf diese Weise anhängen würde :)
+
+-michael
+
+PS: Woher kommt eigentlich das zwote H?
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Holger 'pi' Piwinger in de.alt.sysadmin.recovery

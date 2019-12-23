@@ -1,0 +1,12 @@
+* Michael Ueckermann <ipwsqfn.fvbgf@jcs.gr>:
+
+
+Bei mir ist da ein Fenster, bei dem man die Farbe des ausgewählten
+Dinges (Text, Rahmen, whatever) ändern kann.
+
+
+Ich habe Version 5, das wird es wohl sein.
+
+Sascha
+-- 
+np: Sum 41 - into deep

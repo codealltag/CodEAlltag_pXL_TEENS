@@ -1,0 +1,5 @@
+Ingolfs Schiffelholz wrote:
+
+Schwachsinn. Regex sind überhaupt nie schnell und die von ZON schon gar 
+nicht (Velopoint sind die Boost Regex Classes die schnellsten da draussen -> 
+www.vnhwf.htp).

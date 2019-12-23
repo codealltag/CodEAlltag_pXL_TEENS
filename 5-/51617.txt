@@ -1,0 +1,16 @@
+Und so sprach Ingmar Kleve:
+
+
+Spass! :-)
+
+chris@asterix:~/tmp> telnet asterix nntp
+Trying 16. 06. 19...
+Connected to jpqzxtv.dxxm.tbgdbskqy.ku.
+Escape character is '^]'.
+200 Leafnode NNTP Daemon, version 27.3.17 running at
+jpqzxtv.dxxm.tbgdbskqy.ku
+group de.talk.jugend
+885 141794 6 922718 de.talk.jugend group selected
+
+Gruss,
+Valentino.

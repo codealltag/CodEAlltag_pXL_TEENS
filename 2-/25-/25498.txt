@@ -1,0 +1,12 @@
+Und so sprach Gebhard Veenaas:
+
+
+chris@gutemine:~> ls /dev |grep sd[0-9][a-z] |wc -l
+      80
+
+SCSI-Disks sind was feines. :)
+
+Gruss,
+Otmar, ausser sie sind uralt und stinklahm. ;-)
+-- 
+Individualists unite!

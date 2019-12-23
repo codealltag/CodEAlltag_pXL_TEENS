@@ -1,0 +1,10 @@
+Am Sun, 19. 02. 19 14:30:33 +0100 sendete Volkmar Langewand
+folgende Botschaft:
+
+
+Doch, durch ändern der Partitionsgr�sse. Die Clustergr�sse ist bei
+fat32 genauso wie bei fat abhängig von der Partitionsgr�sse. Nur bei
+fat32 ist die einteilung anders.
+
+Tschüs
+  Urs

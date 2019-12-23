@@ -1,0 +1,8 @@
+Walter Meierhöfer <pruraz@ivsq.bmvqmlmr.qz> writes:
+
+
+Bisher ungeklärt kaputt.
+
+Thierry
+-- 
+Overflow on /dev/null, please empty the bit bucket.

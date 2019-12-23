@@ -1,0 +1,12 @@
+Urban Middelstädt <xyeglx_67-08@sddq.hlhmpn.zg> writes:
+
+
+Dazu musst du dir die RegExp raussuchen, die umgewandelt werden
+sollen, und dann die entsprechenden entsorgen.
+
+Roland
+-- 
+Ein OE Benutzer trägt quasi ein Schild um den Hals. "Mir ist doch egal,
+ob andere Probleme mit meinen Postings haben, Hauptsache ist, ich kann
+mal eben rumklicken". OE erfüllt für den geneigten Leser damit dieselbe
+Aufgabe wie die Glocke eines mittelalterlichen Leprotikers. (RSS)

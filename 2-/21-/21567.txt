@@ -1,0 +1,11 @@
+Und so sprach Julien Jähnke:
+
+
+[_] Du willst auf einem G5 Linux installieren.
+[X] Du willst auf alten Macs Egoh installieren.
+
+Ivan
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

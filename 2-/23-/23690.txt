@@ -1,0 +1,13 @@
+Und so sprach Ihno Zwingli:
+
+
+<http://top.fnrv.kv/alnw/mka/escp.qvf#ledoqri>
+
+Macht aber nix. ;)
+
+Gruss,
+Hugo.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

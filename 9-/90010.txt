@@ -1,0 +1,7 @@
+* "Wolfram Ruster" <sqzs@kxbfennc.sw>:
+
+
+Das ist ein (X)Emacs-Problem. Du brauchst
+... Unicode-Unterstützung. Oder sowas. Habe ich mich nie drum gekümmert.
+
+Frerich

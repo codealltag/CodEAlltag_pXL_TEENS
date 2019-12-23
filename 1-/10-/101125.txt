@@ -1,0 +1,13 @@
+* Nuno Jacobfeuerborn <ywysjcdnblttiz@dvq.uju>:
+
+[Quotingebenen]
+
+Ich habe einige Zeit vor dem Posting gesessen, den Quelltext angesehen
+und mich gefragt, warum Gnus mir eine Zeile vorenthält ...
+
+
+Soll ich mal meinen Kommentar dazu raussuchen?
+
+Andre
+-- 
+cross veinless

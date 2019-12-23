@@ -1,0 +1,7 @@
+Also sprach Didier Kühefuß <dybloiuawt@vebxsirmcq.wk>:
+
+
+Diese Zeilen definieren eine Funktion, die ein Argument n nimmt und eine
+Funktion zurückliefert, die zu ihrem Argument n addiert.
+
+Urs

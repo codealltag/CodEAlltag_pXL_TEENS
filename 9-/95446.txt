@@ -1,0 +1,3 @@
+Ich ertrage remote X im 100mbit LAN einigermassen. Im 10mbit war's schon arg 
+lahm... (Aber es soll ja auch Leute geben, die PC Anywhere über ISDN für 
+vernünftig funktionierend halten ROTFL)

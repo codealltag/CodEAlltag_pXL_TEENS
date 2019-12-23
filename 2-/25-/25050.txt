@@ -1,0 +1,11 @@
+Ihno Pinhammer <eewmk@egrko.kntb.uz> writes:
+
+
+Und was hat Claudio Egglseder jetzt damit zu tun?
+
+-berend
+-- 
+ No  Points     Name                                                   Hp [carlo]
+  1    8030887  Hannelore-Val-Hum-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

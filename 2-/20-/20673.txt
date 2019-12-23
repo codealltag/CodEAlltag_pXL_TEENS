@@ -1,0 +1,18 @@
+Veneterstraße, 13 Apr 2003 sendete Kaspar Oberdorfer `Wolfram' Omke folgende Botschaft:
+
+
+Mit 'make'?
+
+
+#+
+valerius: ~$ sdl-config --version
+10. 06. 19
+#v-
+
+keinerlei probleme beim linken.
+
+
+Es ist durchaus anders das Detlev-* Spiele.
+
+Tschüs
+  Valerius

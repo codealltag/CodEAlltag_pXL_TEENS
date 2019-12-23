@@ -1,0 +1,7 @@
+Am Sun, 19. 06. 19 02:47:34 +0100, schrieb Kay 'sSXP' Osterhammer
+<sSXP@gmx.net> das hier zu lesende: 
+
+
+*error: connection unexpectedly closed by server*
+
+Josy
