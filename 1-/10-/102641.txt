@@ -1,0 +1,10 @@
+Sagen wirs so: Nützt mir wenig, 80% der Zeit läuft hier Linux, und
+meine beiden Platten hängen als /dev/hda (die 30er) und /dev/hdb (die
+60er) am Controller... Bisher ist nur einmal das Backup kaputt
+gegangen, als ich ne ander Platte als /dev/hdc angeklemmt hab.
+
+Carlo
+-- 
+Während 74,569839% aller Statistiken eine nicht gerechtfertigte
+Genauigkeit vorgaukeln geben 128,5% aller Statistiken absolut
+unrealistische Werte an.

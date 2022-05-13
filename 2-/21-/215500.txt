@@ -1,0 +1,10 @@
+Am Sun, 21. 05. 22 11:08:32 +0200 sendete Ingmar Klingelbiel
+folgende Botschaft:
+
+
+Ich weis nicht wie Perl auf Arrays zugreift, aber wenn es so ähnlich ist
+wie bei C (name[n] für das n-te Element des Arrays) sollte es kein
+problem sein die entsprechende debuging ausgabe einzubauen.
+
+Tschüs
+  Volkert

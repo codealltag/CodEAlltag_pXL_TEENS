@@ -1,0 +1,6 @@
+wpdj@nyah:~$ gpg --version
+gpg (GnuPG) 1.0.7
+
+Die Windowsversion scheint ja viele Updates zu brauchen. :)
+
+-towo

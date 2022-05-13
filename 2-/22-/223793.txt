@@ -1,0 +1,47 @@
+frischBack steht auf meiner Liste auch relativ weit unten...
+
+
+Na gut, an den K6-III hatte ich nun auch nicht gedacht; eher an einen
+K6-2 mit EPOX-Board. Aber im Moment habe ich wie gesagt eher den
+Celeron im Auge.
+
+
+Soweit ich mitbekommen habe, ist der P-III bisher (aufgrund dieser
+Sache mit der ID-Nummer) noch nicht der große Verkaufsschlager; ob ich
+deshalb erwarten soll, daß weitere Preissenkungen folgen, um den
+Verkauf anzukurbeln oder die vorige Prozessorgeneration (an die ich
+bisher denke) relativ preisstabil bleibt, weiß ich nicht so recht.
+
+
+Laut der Hardwareliste von OAS werden die Dinger halt verdammt gut
+unterstützt.
+
+
+Es gab zwar bei bestimmten Konfigurationen einige Problemchen damit,
+aber alle bekannten Bugs sollten im aktuellen XFree86 behoben sein.
+
+
+Tja, aber wann brauche ich das schon mal ;-)
+
+
+Habe ich nur leider in keiner Preisliste mehr gesehen; auch der
+Händler von heute mittag meinte, er könne da nicht mehr so einfach
+rankommen.
+
+
+Dein Bruder ist nicht der einzige, von dem ich gehört habe, daß sie
+vernünftig läuft. Ich bin da also noch unentschlossen.
+
+
+Ich meine, mich so dunkel an eine Formel � la "gleiche
+durchschnittliche Zugriffszeit, größere Kapazität -> effektiv
+langsamer" zu erinnern (hatte irgendwas mit der Methode zu tun, mit
+der diese Messungen gemacht werden)? Ich weiß aber nicht mehr genau,
+woher ich das habe (IIRC irgendwann mal am Rande eines dieser Tests in
+einer Computerzeitschrift gelesen), kann also selbst schlecht
+einschätzen, wie glaubwürdig das ist.
+
+Viele Größe,
+     Dario Imholt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

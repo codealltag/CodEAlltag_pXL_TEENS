@@ -1,0 +1,7 @@
+Blöder Scanner...
+
+Edo
+
+-- 
+IORK:
+  "Unbekannter Fehler '-128' bei '57'."

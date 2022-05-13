@@ -1,0 +1,21 @@
+Ich meine inklusive X Server.
+
+
+"praktisch nie" != nie. Ich hatte ein, zwei ps Dateien, die ich halt kurz 
+konvertiert hab.
+
+
+Klicke auf pdf-Datei, speichere diese auf die Platte ab (grundsätzlich, 
+würde ich mit ps nicht anders machen). Dann ein Klick im Explorer und der 
+Reader führt hoch. Ctrl+P (übrigens der Windows-Standard-Key für sowas), 
+ENTER und der Drucker rattert. Wenn du willst, kannst du vorher schnell 
+noch die gerade, ungeraden Seiten einstellen.
+
+
+Wer benutzt das schon als Browser Plug-in?
+
+
+Ctrl+P
+
+
+Tja, sie stimmen aber einfach nicht.

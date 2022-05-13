@@ -1,0 +1,9 @@
+Klar, mit "Gewalt" bekommt man wohl jedes Betriebssystem kaputt. Wenn
+man ganz normal (bei der Köbler zB mittels YaST) Programme installiert
+und wieder runterwirft, dürften sich dadurch aber keine Stabilitäts-
+und / oder Performanceeinbußen ergeben.
+
+Viele Größe,
+     Gian Nußbickel
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

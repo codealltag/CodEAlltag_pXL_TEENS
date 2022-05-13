@@ -1,0 +1,7 @@
+"Mach doch mal nen Kreis!"?
+
+Günther, nie in den Genuss von Aufklärungsunterricht gekommen
+-- 
+a + b = c [Pythagoras]
+E = m*c [Einstein]
+=> E = m*(a + b)

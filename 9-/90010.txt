@@ -1,0 +1,7 @@
+* "Alain Overländer" <kcyy@udrswfqr.na>:
+
+
+Das ist ein (X)Emacs-Problem. Du brauchst
+... Unicode-Unterstützung. Oder sowas. Habe ich mich nie drum gekümmert.
+
+Wolfgang

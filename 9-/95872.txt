@@ -1,0 +1,8 @@
+Funktioniert mit der aktuellen Version aber AFAIK auch nicht mehr.
+Wäre ja sonst viel zu einfach.
+
+Florian
+
+-- 
+Wenn 5 Leute in einen Raum gehen und 6 herauskommen, dann muss einer
+wieder rein, damit der Raum wieder leer ist.

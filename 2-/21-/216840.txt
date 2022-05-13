@@ -1,0 +1,15 @@
+Wozu braucht man bei Text eine Maus ?
+
+
+Ich nicht.
+Schliesslich entscheidet die physikalische Reihenfolge ueber die Laufwerks-
+  buchstaben (falls man welche hat).
+  Ich finde es am Praktischten, wenn man die einzelnen Partitionen
+  einfach untereinander angezeigt kriegt, und dann im selben Bildschirm
+  alles veraendern kann. Die besten FDisk sind IMHO die von Minix
+  (Unix-maessig), und der von OS/2 (DOS-maessig).
+
+-- 
+Burkhard
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

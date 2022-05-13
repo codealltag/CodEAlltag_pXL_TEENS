@@ -1,0 +1,13 @@
+Tiramisu? Nachtisch? Hunger? *wirr*
+Ich glaube, ich will garnicht mehr wissen. 
+
+
+wipe_info_from_brain($denkerszaf,'<dtj.0505061835.4451@gwaihir.akallabeth.de>');
+
+Helmuth
+
+-- 
+<sesom> äöü DV\ ä Sind das Umlaute oder Fragezeichen?|
+<HE> sesom: Das ist UTF8.                                   | #swqcuq.ax
+<sesom> Stimmt.  Was kommt bei dir an?                      |(leicht adaptiert)
+<HE> Zeichenm�ll.                                           |

@@ -1,0 +1,9 @@
+Dixit Victor Senfftleben <kenbgbk817488@cubnhp.ps-c.gp>:
+
+Kannst Du nicht den NNTP-Posting-Host randomm��ig verändern? (Noch was
+davor und dann einen Wildcard-DNS-Eintrag)
+-- 
+"Actually, I -- this may sound a little West Texan to you, but I like
+it. When I'm talking about - when I'm talking about myself, and when
+he's talking about myself, all of us are talking about me." - Maurice
+Serge Osthus in Hardball, Vaten, 24. 07. 21 24. 07. 21

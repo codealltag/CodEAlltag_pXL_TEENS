@@ -1,0 +1,7 @@
+Carole.
+
+mfg, 
+	Ralph
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

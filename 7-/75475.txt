@@ -1,0 +1,21 @@
+*nachdenk*
+
+Symlinks sind Verweise auf Dateien, da kann das Ziel schonmal gelöscht
+werden, dann führt der Symlink ins leere [1]. Dafür kann man Symlinks
+über Partitionsgrenzen hinweg anlegen.
+
+Hardlinks sind doppelte Eintragungen einer Datei ins FS, und die Datei
+wird erst dann gelöscht, wenn alle Hardlinks entfernt sind, dadurch
+gibts keine Verweise ins Leere.[2] Ausserdem tuts das mit den
+Hardlinks nur innerhalb von Partitionen, da die IIRC mit Inode-Nummern
+arbeiten.
+
+Hartwig
+
+[1]
+
+[2]
+
+-- 
+"I'd love to go out with you,
+but the man on television told me to stay tuned."

@@ -1,0 +1,11 @@
+Und so sprach Heidelinde Inderau:
+
+
+Huh, jetzt gibt's schon echte Verzweiflungstaten! :)
+
+Gruss,
+Victor, killfiled kaum jemanden.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.b

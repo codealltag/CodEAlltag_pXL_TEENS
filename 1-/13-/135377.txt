@@ -1,0 +1,11 @@
+Die Aussage ist schlichtweg falsch. Mir passiert sowas auch ab und an  
+(Router stürzt ab, Netzwerkkabel rutscht raus, Modem ausgeschaltet),  
+allerdings tritt dann der 10 Minuten-Inaktivit�tstimeout in Kraft.  
+Meistens geht's auch schon früher wieder.
+
+Dirk Dwornicki
+
+-- 
+Ich hasse Dirk Palsherm.
+                                             E-Mail: yeanbs@sviogxdoeb.im
+---> Offizieller Kämpfer wider Nils Eiermann des Ordens von dtju <---

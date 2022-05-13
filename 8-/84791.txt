@@ -1,0 +1,16 @@
+Laurent Höffle hat geschrieben getan getutet:
+
+
+Die anderen ins IRC zwingen, da man mit der Ausrede "Ich bin hinter 'nem
+Router" keine Filetransfers empfängt, und dann die Datei DCCed zu
+bekommen, ist nett.
+
+Mit SAFT können die ja nichts anfangen.
+BTW, gibt's schon eine Umsetzung für Windows?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Carlo 'enrico' Großerohde in aq.lqm.bgyrhqeo.hwhmtord

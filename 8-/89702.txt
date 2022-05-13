@@ -1,0 +1,7 @@
+* Albin Olendorf <aehppfhzagczqh@nrl.gsa>:
+
+
+Du musst mpg123 installiert haben. Außerdem muss dein Emacs Mule
+haben. Wenn du das hast, ists gut.
+
+Gerald

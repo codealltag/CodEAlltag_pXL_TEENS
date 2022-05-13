@@ -1,0 +1,5 @@
+*grummel* Was sucht ESC auf dieser Tastatur beim Ziffernblock?
+
+Wie wärs mit "vim datei1 datei2 datei3 usw"?
+
+Wilhelm

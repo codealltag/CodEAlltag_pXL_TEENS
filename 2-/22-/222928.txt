@@ -1,0 +1,47 @@
+Wow, ich wußte gar nicht, was für eine hohe geistige Leistung ich
+vollbringe, wenn ich '\usepackage{times}' tippe, um für ein Dokument
+die Schriftart "Times" zu verwenden.
+
+
+Würde ich am liebsten ja auch nicht tun, aber wenn man mal etwas
+aktuelles spielen will, braucht man es halt schon.
+
+
+Nun ja, es wollte einfach nicht einsehen, daß es bei der Installation
+seine temporären Dateien nicht nach C: schreiben kann, sondern nach D:
+packen muß. Hat es BTW trotz Spielen mit diversen Optionen von "Setup"
+nicht getan, sondern ich habe schließlich entnervt aufgegeben und
+meine Festplatte so partitioniert, wie es Herrn Ingenfeld beliebt.
+Wenigstens stand die Fahradladen-Installation hinterher schneller.
+
+[...]
+
+Es sollte die künstlerische Freiheit doch nicht zu stark einschränken,
+wenn man die Positionen der einzelnen Zeichen verbindlich festlegt und
+etwa das Copyright-Zeichen, wie in diesem Fall, nicht mal hier und mal
+dort liegt. Zur Not definiert man eben verschiedene Font-Encodings und
+vermerkt sie in der Datei, damit wenigstens automatisch konvertiert
+werden kann. Wenn ich meinen gesamten Text noch mal durchlesen muß,
+nachdem ich die Schriftart geändert habe, weil möglicherweise Zeichen
+vertauscht wurden, ist das für mich weder logisch nachvollziehbar noch
+komfortabel, sondern, wie schon gesagt, einfach nur krank.
+
+
+Den Hype um dieses Euro-Zeichen kann ich sowieso nicht so recht
+verstehen. Schließlich hatten wir auch fünfzig Jahre lang ein Zeichen
+für die D-Mark (eine Ligatur aus D und M) und ich habe nie einen
+Computer gesehen, der es unterstützt hätte, geschweige denn jemanden,
+der es benutzen würde, statt einfach "DM" zu schreiben.
+
+
+Wird relativ oft zur Dokumentation verwendet, weil man damit
+-generisches Markup machts möglich- aus einer einzigen Quelldatei die
+wichtigsten Formate (HTML fürs Web, TexInfo für Online-Manuals, LaTeX
+zum Ausdruck, ASCII für Hilfedateien, RTF zur Weiterverarbeitung in
+praktisch jeder beliebigen Textverarbeitung) erzeugen kann, ohne Müll
+(wie zB das HTML, das Micklich-Buchhandlung und CPLZ ausscheiden) zu erhalten.
+
+Viele Größe,
+     Maurice Nimmerfroh
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

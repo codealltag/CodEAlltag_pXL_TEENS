@@ -1,0 +1,3 @@
+Es hat Variablen und wofür es ursprünglich gedacht war, taugt es auch 
+ganz gut. Aber umdefinieren von Variablen wäre trotzdem sehr oft sehr 
+nützlich. Nur schon um Flags setzen zu können...

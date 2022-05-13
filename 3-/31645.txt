@@ -1,0 +1,11 @@
+* Kurt wrote: *
+
+
+Naja in C geht das auch nicht automatisch. Da sollte man sich auch einen 
+vernünftigen Stil angewöhnen, denn gerade da kannst du noch mehr Mist 
+bauen und wenn du da den Code nicht übersichtlich hälst und genau 
+kommentierst, _was_ genau an _welcher_ Stelle jetzt passiert, du das 
+Programm ein paar Monate liegen lässt und dann nochmal draufguckst dann 
+kann ich nur sagen "Viel Spaß" :-)
+
+Karl

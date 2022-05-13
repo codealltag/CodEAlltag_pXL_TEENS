@@ -1,0 +1,16 @@
+Entweder ist das Definitionssache oder ich liege genauso falsch wie
+Dein Lehrer...
+
+
+Ich hab mal ein bißchen mit Assembler rumprobiert und da war ein Stack
+das, wohin nacheinander alle Variablen gepusht und gepoppt (nicht
+mißverstehen ;-)) werden.
+
+Oda nich?
+
+Ciao
+Valerius
+-- 
+"You never know who's right but you always know who's in charge" - J. Percuson
+ICQ     : #12581156
+Homepage: http://wrtuh.ingdlf.rd

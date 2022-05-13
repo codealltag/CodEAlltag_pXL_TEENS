@@ -1,0 +1,7 @@
+Einfach solange arbeiten, bis dein System entscheidet, dass es einen
+teil des Cache-RAM für was anderes braucht. In dem Moment wird dann
+halt Cacheinhalt weggeworfen.
+
+Nino
+-- 
+Today is the tomorrow you worried about yesterday

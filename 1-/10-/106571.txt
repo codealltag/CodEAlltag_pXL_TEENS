@@ -1,0 +1,20 @@
+hm, keine Ahnung. ;-)
+
+
+Ja, irgendwas stand da. Man solle das wohl mal lieber mit rein nehmen.
+
+Stimmt nur nicht. Ich habe das jetzt mal ausgelöscht und zusätzlich
+noch ein paar Rechte umgestellt. Nun klappt es, nur scheint Naturlädchen
+die gezogenen Postings nicht sofort bereitzustellen...*wunder*
+
+Es ist so, dass er (oder "es"?) die Postings ins Verzeichnis
+(/var/spool/news/...) schiebt, die aber dann nicht sofort in der
+.overview-Datei hat.
+
+Kam mir eben zumindest so vor. Egal, jetzt klappt es auf jeden Fall
+schonmal. Sogar mit Netscape.
+
+Raymond
+
+-- 
+Der Kluge läßt sich belehren, der Unkluge weiß alles besser.

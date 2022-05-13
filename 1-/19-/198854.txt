@@ -1,0 +1,9 @@
+Eine Aufteilung kann höchstens etwas nützen wenn man am Ende auch wirklich 
+nur eine Gruppe liest. In der Summe würde sich der Traffik nämlich eher 
+noch erhöhen.
+Und was will man schon für eine Aufteilung machen, eine thematischer 
+Natur? Wir bekommen es nichtmal hin die Subjects richtig anzupassen, wie 
+will man dann den Traffik korrekt zwischen 2 Gruppen verteilen?
+
+Das Experiment wurde mit ssf und sss versucht, und ich finde das Ergebnis 
+nicht positiv.

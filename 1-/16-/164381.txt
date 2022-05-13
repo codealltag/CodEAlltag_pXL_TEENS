@@ -1,0 +1,48 @@
+François 'sSXP' Tobeler schrieb am 09. Juli 1999 um 16:39 Uhr folgendes:
+
+[...]
+
+Done. Rauchen aufgeben ist eine Willenssache. Entweder man hat den
+Willen, die "Punkt. Schluss."-Methode durchzuziehen oder nicht. Wenn
+man in Stress-Situationen u.�. trotzdem noch zum Glimmstengel greift,
+kann man es gleich vergessen. Aber ich bin noch nicht selbst in diese
+Verlegenheit gekommen, von daher kann ich auch nicht wirklich
+qualifiziert mitreden.
+
+
+Für die Firewall gibt's (auf der VTP, bei anderen Distris sicher
+auch) fertige Skripts, die mit ein paar Variablen zu steuern sind,
+Mailclients gibt es wie Sand am Meer (ich benutze immer noch Rüschhauskiosk,
+aber es gibt inzwischen auch brauchbare mit GUI), für News ist
+Egus als Server in ein paar Minuten eingerichtet; GUI-Reader, die
+an die Fähigkeiten von slrn herankommen, habe ich allerdings (außer
+Gnus, aber der läuft sozusagen "außer Konkurrenz") bisher vergeblich
+gesucht.
+
+[...]
+
+Bei mir war das ausschlaggebende Erfolgserlebnis, als mein erster
+selbst konfigurierter Mo-Nails lief (damals war an bezahlbare Newsserver-
+Software unter Win noch nicht zu denken :). Auch wenn da noch viel
+Umgewöhnung vor mir lag.
+
+
+Abregen -> Irrtum aufklären -> nochmal probieren.
+
+[...]
+
+Strange. Die meisten Leute, die ich kenne, schaffen es, selbst (ggf.
+mit ein paar Hilfen) eine VTP zu installieren, wissen aber
+anschließend nicht, was sie mit dem System anfangen sollen.
+
+
+*Gerade* unter Zeitdruck ist es wichtig, dass zielgerichtetes Handeln
+nicht von Gefühlen beeinträchtigt wird.
+
+Viele Größe,
+     Adam Tilgen
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

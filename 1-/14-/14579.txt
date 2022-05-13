@@ -1,0 +1,8 @@
+*best�tigtschau*
+
+Kurt
+-- 
+Niels:~$ whoami
+root
+Niels:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Pierre Pagels]

@@ -1,0 +1,10 @@
+Irgendwie läuft da bei euch etwas falsch. Wenn mein OS 90MB schon im 
+Leerlauf fressen würde, würd ich's in die Tonne treten.
+
+
+OK, Netscape ist da ein wenig speziell. Hab eben probiert ein paar HTML-
+Files mit ihm gleichzeitig zu laden. Bei 100 oder so war schluß.
+
+
+So große Bilder hab ich nicht, ich benutz den PC hier schließlich nicht 
+als Druckvorstufe.

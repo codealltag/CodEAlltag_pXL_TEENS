@@ -1,0 +1,3 @@
+Mit dem X-Server auf dem Client. Auf dem Server laufen dann die
+X-Clients, zum Beispiel ein Gnus, der direkt auf den Newsspool
+zugreifen kann.

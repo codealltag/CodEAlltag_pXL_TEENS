@@ -1,0 +1,6 @@
+Die einzigen solchen die ich besser kenne schubsen nur ganzzahlige
+Vielfache von 3 bzw. 2,5 Byte.
+
+Theo
+-- 
+baboo

@@ -1,0 +1,10 @@
+Hin und wieder denke ich ja schon mal darüber nach, aber wenn ich mir
+vorstelle, dass ich nicht einmal den Emacs vernünftig bedienen kann
+und ich mir sämtliche Makros, die ich hier so habe, nochmal neu 
+zusammenklauen müsste, vergeht mir wieder das Interesse daran.
+
+Urban
+
+-- 
+"Die Menschen vergessen schneller den Tod des Vaters als den Verlust
+ des Erbes." (Lothar Gerwich)

@@ -1,0 +1,7 @@
+Soso.
+
+mfg, 
+	Christoph
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

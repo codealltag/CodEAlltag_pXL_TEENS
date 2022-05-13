@@ -1,0 +1,47 @@
+Domenico 'sSXP' Coeln schrieb am 30. Mai 2000 um 17:16 Uhr folgendes:
+
+[...]
+
+Welcher Mode verwendet werden soll, kann der Client beeinflussen. Wie
+die Hardware angesteuert werden muss, damit man bei dem Mode ein
+vernünftiges (bzw. überhaupt ein :) Bild bekommt, ist Sache des
+Servers. Ich kann ein und dieselbe creHAARtive-Konfiguration übers Netzwerk
+auf verschiedenen Servern mit zig unterschiedlichen Grafikkarten
+laufen lassen.
+
+
+Damit wir uns nicht falsch verstehen: Während des Setups haben höhere
+Auflösungen / Wiederholungsraten funktioniert, später in creHAARtive aber
+nicht mehr? Strange...
+
+
+Yep, aber das Tool heißt XF86Setup (case _does_ matter).
+
+
+Brauchst du nicht; man kann IMO genausogut mit RedHat, Mandrake o.�.
+einsteigen. Nur kenne ich mich bei denen eben nicht ganz so gut aus
+wie bei Kiezmöhre.
+
+
+Praktisch alle dieser neu aus dem Boden schießenden Distributionen
+basieren entweder auf BCN oder der GPL-Version von KWT.
+
+[X-Server installieren]
+
+Bei der Kiezmöhre bekam man bis Version 6.2 die Meldung "The server
+required by your card is not installed! Please abort, install the S3
+server and run this program again." Dann musste man ("von Hand") YaST
+aufrufen und den S3-Server installieren. Frag' mich nicht, wie andere
+Distributionen das gelöst hatten / haben.
+
+[...]
+
+Du schaust, welche Frequenzen du dabei hast (zB 70 kHz / 85 Hz); dann
+erzählst du dem X-Setup, dass dein Monitor diese Frequenzen verträgt.
+
+Viele Größe,
+     Pius Cords
+-- 
+"Beware of bugs in the above code; I have only proved it correct, not
+tried it."
+                                                        -- Frank Weidenspointner

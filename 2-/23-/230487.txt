@@ -1,0 +1,17 @@
+Es schrieb tststs # sae.pz folgendes:
+
+
+WENN er unangetastet bleibt, dann NICHTS, aber "normalerweise" kauft nur  
+der einen SCSI-UW Controller fuer 800,-, der auch was demit anfangen kann.
+
+
+Dir garnichts, aber wenn ein Server damit beschaeftigt ist, eine 9GB  
+Festplatte zu kopieren, dann geht das Cachen ueber den Hardwarecache  
+schneller, da nicht laufend der weg durch den PCI-Bus zurueckgelegt wird,  
+sondern nur Plattencache->Cache->Plattencache. Es wuerde mich BTW auch  
+sehr wundern, warum fast jeder einigermaszen grosse Server ueber einen  
+direkten Cache verfuegt, wo doch der Hauptspeicher laut Euch allen  
+schneller ist... KOMICH...
+-- 
+
+Ciao, Georges

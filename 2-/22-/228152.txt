@@ -1,0 +1,74 @@
+Das ist hier z.T. der Fall. Und aus Bequemlichkeit nehme ich normalerweise 
+die MD. Kein Gefummle mit der Hölle und der MD Player hat mehr 
+Optionen/Funktionen als die meisten CD-Player, vor allem eine besser 
+ausgestattete Fernbedienung (bei welchem CD-Player kann man schon die CD 
+per Fernbedienung auswerfen ;-))
+
+
+Ob Du's mir glaubst oder nicht, ich hab mich mit dem Thema recht intensiv 
+auseinandergesetzt.
+
+
+Jeder soll nach seiner Facon glücklich werden. Ich würde mein MD Deck auch 
+nicht verkaufen wenn ich einen CD-Brenner hätte.
+Wobei sich MD generell eben an die Benutzer von Musikkassetten richtet. 
+Einen CD-Brenner im Rechner zu haben ist eher die Ausnahme.
+
+
+Wenn Du von Autoradios sprichst: leider ja. :-(
+
+Die billigeren Decks sind nicht teurer als z.B. ein CD-RW Brenner oder 
+auch ein vergleichbarer HiFi-CD-Player. 
+In direkter Konkurrenz steht es ja auch eigentlich nur mit diesen Stand-
+alone CD-Brennern. Und die sind wirklich purer Luxus.
+Man darf einfach nicht Äpfel und Birnen vergleichen. Für einen normalen 
+CD-Brenner brauchst Du einen PC der den Anschaffungswert eines MD-Decks 
+wiederum um ein Vielfaches übersteigt. Da der PC dafür universeller ist 
+berührt diese Tatsache nicht.
+
+Die Portablen sind teurer als Discmans, aber ihre Elektronik und Mechanik 
+ist dafür auch viel komprimierter. Bei einem Discman haben die Designer 
+dank der elendigen Größe von CDs relativ viel Platz.
+
+Nun, MD verbreitet sich immer weiter, ich merk's ganz stark hier in meinem 
+Bekanntenkreis. Die Preise sind allein innerhalb des letzten Jahres um 50% 
+gefallen und der Trend hat allen Anschein nach nicht vor sich zu ändern.
+Ist auch logisch. Je billiger es wird desto mehr Leute kaufen es und 
+je mehr Leute es kaufen desto billiger wird es.
+
+IOW: der Preis ändert nichts an der Funktionalität und ich kann's mir 
+leisten. So what? ;-)
+
+
+Selbstverständlich habe ich Hörtests gemacht. Mir fällt da nichts auf.
+Abgesehen davon, was würden Dich Veränderungen stören die Dir nur in einem 
+direkten Vergleich auffallen würden?
+
+
+Natürlich. Deshalb haben MDs auch ähnlich den Disketten Schutzhüllen.
+
+
+Das bezweifle ich gar nicht. Aber es gibt einfach Fehler und die scheinen 
+Dich aber nicht zu stören.
+
+
+Wo hast Du denn das her?
+Die Fehlerkorrektur ist im sogenannten Red-Book spezifiziert und beruht 
+auf dem Reed-Solomon Code (er verbraucht immerhin 2*392 Bytes pro Sektor) 
+und wird Cross-Interleave-Reed-Solomon Code (CIRC) genannt. Er erkennt und 
+behebt wenn möglich Bit-Fehler, mit Rundungen hat das recht wenig zu tun.
+
+Für CD-Roms (Yellow-Book) ist die Fehlerrate von Audio-CDs z.B. noch viel 
+zu hoch, sie brauchen noch eine erweiterte Fehlerkorrektur die immerhin 
+nochmal 280 Bytes einnimmt.
+
+
+Natürlich, das ACIRC Verfahren ("A" steht IIRC für "advanced").
+Das Ding kann IIRC über 220 Fehler pro Sekunde ausmerzen. Typische Werte 
+sind aber 5-10 Fehler pro Sekunde.
+
+Fazit: beide haben natürlich verschwindend geringe Fehler. Ich wollte nur 
+sagen daß auch die CDs nicht vollkommen sind.
+
+
+Nein, wäre aber auch unsinnig.

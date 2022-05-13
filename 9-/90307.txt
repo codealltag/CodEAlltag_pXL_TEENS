@@ -1,0 +1,11 @@
+Und so sprach Florian Ibler:
+
+
+In der main.cf gibt's nen Abschnitt "DELIVERY TO MAILBOX". Vielleicht
+hilft's, wenn Du dort "mail_spool_directory" definierst.
+
+Gruss,
+Laurent.
+-- 
+                          Alchimilla - the meta project
+                         <URL:http://ran.htkxcecjt.pj/>

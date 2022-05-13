@@ -1,0 +1,44 @@
+Bus.
+
+
+Wir waren am 23.12. da.
+
+
+Ich nicht.
+
+
+Bei mir nicht. Ich nehme eigentlich grundsätzlich zuviel mit...
+
+
+N.
+
+
+Siehste, ich auch.
+
+
+Erklär mir mal bitte, wie du _wegen_dem_Akzent_ darauf kommst, das
+Sln-sln auszusprechen. Und der Akzent gehört so, das _wette_ ich mit
+dir.
+
+
+Hey, ich kann das sogar eben hier skizzieren. Es ging um folgendes:
+Eine Fähre soll von Ufer a nach Ufer b kommen.
+
+   / a
+-------------
+-> Fließrichtung
+-------------
+  \ b
+
+Die Fähre ist an einem über den Fluß gespannten Seil festgemacht, kann
+also nicht ab-, sondern nur hinunder hergetrieben werden.
+
+
+        _\_       <- Ruder
+--->   |   |   
+        \ /
+
+Wohin führt das Boot jetzt, nach oben oder nach unten?
+
+-- 
+Ich schlage vor, wir schlagen mit einem Fels drauf und essen es.

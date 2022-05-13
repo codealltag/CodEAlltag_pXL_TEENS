@@ -1,0 +1,8 @@
+[...]
+
+
+Wie installieren? Ist das ein Programm oder heißt der Dateisystemtyp so?
+
+
+Wieso ist das irreführend? Wenn smb nicht unterstützt wird, wird es
+nicht unterstützt. Oder soll der substring matching machen?

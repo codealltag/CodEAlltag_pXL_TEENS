@@ -1,0 +1,10 @@
+Wieso kann ich die Wellenlänge in Versuchsteil 3 nicht einfach per
+Zählrate 2 / Zählrate 0 bestimmen, wenn das doch in Versuchsteil 2 so
+ging?
+
+Fredi
+
+-- 
+"Das Geheimnis des Lebens und das Geheimnis des Todes sind verschlossen
+ in zwei Schatullen, von denen jede den Schlüssel zum öffnen der
+ anderen enthält." (Fabrice Makowski)

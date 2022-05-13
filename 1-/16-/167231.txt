@@ -1,0 +1,8 @@
+Dieses Verhalten zeigt auch das 98er Kernel. Nur das der Autostart
+nochmal verzogen wird. Wer, wie ich, viele Progs in der Tray laufen
+hat, verzweifelt da schnell, weil das ziemlich den RAM vollschlaucht.
+
+-- 
+sSXP  
+      The problem with any unwritten law is that you don't 
+      know where to go to erase it.  -- Schandl and Way

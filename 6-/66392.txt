@@ -1,0 +1,3 @@
+Der Chat ist insofern vernuenftig, dass er auf IRC basiert.
+
+-towo

@@ -1,0 +1,8 @@
+Nein. Woraus willst du das jetzt gelesen haben?
+
+Joachim
+
+-- 
+"Der Dienst 'Client Agent für Brackelsberg' wurde unerwartet beendet. Dies
+ ist bereits 1 Mal vorgekommen. Folgende Korrekturmaßnahmen werden in 0
+ Millisekunden durchgeführt: Kein Vorgang."

@@ -1,0 +1,7 @@
+Hmm... im Moment werden knapp 20 MB (von meinen 32 MB Hauptspeicher)
+als Cache benutzt. Warum sollte mich das stören?
+
+Viele Größe,
+     Timo Hochheim
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

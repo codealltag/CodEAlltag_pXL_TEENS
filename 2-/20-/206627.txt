@@ -1,0 +1,12 @@
+Ganz einfach: dein mailserver ist scheisse... der server über den du
+smtp machst hat ein altes sendmail installiert was auf der open relay
+liste steht... das lehnt mein mailserver hier ab...
+
+
+Ciao, 
+
+-- 
+eMail: ycendd@cslwg.xu     Homepage: http://oldxbsdyp.bkpt.chlvp.df/                       
+ IRC : Geu @ #hrzhnjed      Letztes Update : 29.04.1999
+  --- Schutzpatron aller Frauen von dtju --- :-) 
+   --- Der mit dem berühmten Augenstrahlfaktor ---

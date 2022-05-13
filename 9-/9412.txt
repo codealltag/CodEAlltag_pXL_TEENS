@@ -1,0 +1,6 @@
+Seltsame Newsgroups vollposten?
+
+Simon
+-- 
+BOFH #312:
+incompatible bit-registration operators

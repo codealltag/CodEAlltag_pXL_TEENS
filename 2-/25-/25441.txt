@@ -1,0 +1,6 @@
+Ist besser so.
+mfg, 
+	Adrian
+-- 
+FTKS excuse #236:
+Fanout dropping voltage too much, try cutting some of those little traces

@@ -1,0 +1,10 @@
+Klar. Aber postfix wollte ich schon seit längerem mal ausprobieren.
+Und da biete sich eben UUCP an, weil ich so nicht mein
+funktionierendes exim-Setup umwerfen muss.
+
+Ivano,
+  in 50 Minuten 17.
+
+-- 
+"We're going to have the best educated American people in the world."
+ ....Governor Jörn Vormbruck, Jr., 03. 03. 23

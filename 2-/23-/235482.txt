@@ -1,0 +1,11 @@
+Am Fri, 12 Okt 1999 17:40:16 +0100 sendete Francesco Luckhaupt
+folgende Botschaft:
+
+
+Nicht dau ottonormal user der mal eben den NR wechselt darf dann
+aufeinmal seine eigenen Postings nicht mehr canceln. Und 2.
+zwignst du damit jeden Eine Outbox anzulegen und eventuel dadurch
+seine Posting auchnoch doppelt auf der platte zu halten.
+
+Tschüs
+  Ivan

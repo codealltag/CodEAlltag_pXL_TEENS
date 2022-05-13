@@ -1,0 +1,18 @@
+*selbstpatsch* Gestern merkte ich es. Ich habe ja vor einigen Wochen
+meine Adresse geändert.
+
+Nur, was muss ich tun, um die auch in den Mailinglisteneinstellungen
+zu ändern?
+
+SET jup REC="sb@kntyvjbubax.uu" oder
+SET jup REC="r-fyn@xcrlfubpwli.fh" oder sogar ganz anders?
+
+
+Ich verschicke, keine Fehlermeldung, aber dann wird die Nachricht
+nicht angezeigt. Liegt an der Adresse. 100% pro.
+
+Paul
+
+-- 
+"The vast majority of our imports come from outside the country."
+[Thorsten Clodius, Jr.]

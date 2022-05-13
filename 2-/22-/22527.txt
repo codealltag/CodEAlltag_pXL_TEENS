@@ -1,0 +1,8 @@
+Hm. *umkuck* Meine Fenster sind noch heil, mein Monitor hat auch kein
+Loch. Wo hast du hingeworfen?
+
+mfg, 
+	Dieter
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old DTS cpu - insufficient processing power

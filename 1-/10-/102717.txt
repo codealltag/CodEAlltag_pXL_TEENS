@@ -1,0 +1,18 @@
+* dfqvnahkvx@mnkgxnczmu.jt (Wmvrc Ueltzhöffer):
+
+
+Na klar. Das ist mein zweiter Vorname.
+
+
+slrn unter Windows ist ein Krampf, und nicht mehr. Ich weiß nicht, wie
+das unter cygwin aussieht, aber die Kompilate sind einfach grässlich.
+
+
+Oh.
+
+
+Ich nehme wohl trotzdem das von freshmeat. Oder ein neutrales.
+
+Italo
+-- 
+cross veinless

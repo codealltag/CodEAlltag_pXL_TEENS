@@ -1,0 +1,7 @@
+Solches tippte Tobias Coman:
+
+man 1 ls ;-)
+
+-C sortiert gescheit und -F kennzeichnet Symlinks, Pipes etc.
+
+Kasimirs

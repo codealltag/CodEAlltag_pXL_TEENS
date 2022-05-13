@@ -1,0 +1,9 @@
+An der [1] mengelt es bei mir. Configure nimmt meine
+--with-open-ssl-Verzeichnisse nicht an.
+
+Gunter
+
+-- 
+MS Visual Basic:
+  "Für das Thema 'Hilfe' ist keine Hilfe verfügbar.
+   [    OK   ]  [   Hilfe  ]"

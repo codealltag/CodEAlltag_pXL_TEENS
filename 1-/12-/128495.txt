@@ -1,0 +1,20 @@
+Das Gericht zieht sich für eine Minute zurück.
+sleep (60000)
+Stattgegeben!
+.
+.
+Die Nachzählung hat ergeben:
+
+1 Stimme abgegeben
+1-mal "Dafür!" gewählt
+1-mal "Timo" gewählt
+
+Damit ist Samu Thörmer neuer Präsident der Vereinigten Staaten von Amerika
+und alle Mädchen im Kunstunterricht dürfen sich fortan nur noch nackt
+in den Unterricht begeben.
+
+Ben
+
+-- 
+"The vast majority of our imports come from outside the country."
+[Torsten Klinkauf, Jr.]

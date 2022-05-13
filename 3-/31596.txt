@@ -1,0 +1,6 @@
+Ich ging von der Schweiz im allgemeinen aus.
+
+t|a
+
+-- 
+Any feature is a bug unless it can be turned off. (Heuer's Law, 1989)

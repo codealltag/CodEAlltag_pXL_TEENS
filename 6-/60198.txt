@@ -1,0 +1,16 @@
+Bei mir war der 386SX20 mit wahnsinnigen 4MB RAM (wer braucht soviel?)
+der Einstieg, der ist dann (kurz vor Erscheinen der MMX-CPUs *grmbl*)
+durch einen P133 mit 32MB (wer braucht soviel?) abgelöst. Anfang 99
+bin ich dann zu meinem ersten eigenen PC gekommen, ein P100 mit erst
+16MB (bisschen knapp), dann 32MB (passt), 96MB (fett...), jetzt 64MB,
+weil die Kiste sonst anch den Umbauarbeiten am Board nicht mehr
+läuft. Der Umbau war nötig, um einen K6-II-350@300MHz einzubauen,
+damit ist die Kiste richtig nett zu nutzen geworden. Seit dem
+21.11.2000 steht hier dann ein K7-800 mit erstmal 128MB/30GB,
+inzwischen 512MB/90GB, der bekommt im Herbst vielleicht ein neues
+Board/neue CPU zur Hälfte der geplanten Nutzung durch mich als
+Arbeitsrechner, dann geht die Kiste vermutlich an meine Schwester.
+
+Hau "Ich muss irgendwie zuviel Geld gehabt zu haben..." ke
+-- 
+           Blütenspiele: where Quality is job number 0.9998782345!

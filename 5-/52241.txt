@@ -1,0 +1,43 @@
+In PHP kapier ichs auch nicht, ist da auch eigentlich nicht notwendig.
+Ich erklär's dir aber trotzdem, allerdings in Delphi:
+
+
+unit Auto;
+
+interface
+
+type TAuto = class(TObject)  // Klassendeklaration
+  // Felder
+  speed: Integer;		// aktuelle Geschwindigkeit
+  maxspeed: Integer;	// maximale Geschwindigkeit
+  farbe: TColor;		// Lackierung
+  // Methoden
+  procedure Gasgeben(addspeed: Integer); // erhöht speed um addspeed
+  procedure Bremsen(remspeed: Integer);  // verringert speed um remspeed
+end;
+
+impementation
+
+procedure Gasgeben(addspeed: Integer);
+begin
+  speed := speed+addspeed;
+  if speed > maxspeed then speed := maxspeed;
+end;
+
+procedure Bremsen(remspeed: Integer);
+begin
+  speed := speed-remspeed;
+  if speed < 0 then speed := 0;
+end;
+
+end.
+
+Wie das in PHP geht weiß ich aber nicht.
+Hilft dir das? Soll ich noch mehr posten?
+
+SCNR
+
+MfG Kai
+
+-- 
+Anständige Hunde bellen, bevor sie beißen.

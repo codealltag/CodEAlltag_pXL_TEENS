@@ -1,0 +1,8 @@
+Mmmh... Interface für mplayer et al zur ausgabe auf aalib...?
+
+Joachim
+-- 
+Nie wieder Fahrer auf anderer Leuts Party!
+-----------------------------------------------------------------------
+pub  5448E/MUJ20R47 0897-54-94 Joachim Cauffmann <qetqhso@xdn.yg>
+     Key fingerprint = 99 7B 88 67 54 DS 79 8V  89 CZ BG 06 7L 17 1T 98

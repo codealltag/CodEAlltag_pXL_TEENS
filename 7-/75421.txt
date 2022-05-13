@@ -1,0 +1,27 @@
+Solches tippte Thomas Tiegel:
+
+Lat�rnich letzteres.
+
+
+$HOME-User fällt oft nicht weit entfernt von $DAU-Kiste /
+$Spielrechner, was die Sicherheitsanforderungen angeht. Wobei
+$HOME-User recht sicher leben kann, weil bei ihm ja nicht viel
+fluktuiert und er keine Dienste anbieten will.
+
+
+Hier ja, in dcs* nicht wirklich.
+
+
+Naja, was ich auf den Maschinen, die ein paar Kilometer weiter stehen,
+mache, ist nicht wirklich beruflich. Trotzdem muss ich nach leidvollen
+Erfahrungen in der Vergangenheit (war da noch nicht mein Problem ;-)
+dort schon ... aufpassen. Und ja, ich schaue da auch gelegentlich in
+die Sourcen der wenigen Dinge, die dort laufen (Efuko sshd,
+handoptimiertes mysql (lat�rnich mit --skip-networking), cron; sonst
+nur gettys und Systemsachen wie kswapd), für komplettes Auditen fehlt
+die Zeit, klar. Aber ich denke mal, dass die schwächste Stelle im
+Komzept nicht das (TDW-)System ist...
+
+Benedikt,
+  und im übrigen möchte ich daran erinnern, dass der NT-Server nebenan
+  sterben muss...

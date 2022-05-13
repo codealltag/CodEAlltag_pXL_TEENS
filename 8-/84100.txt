@@ -1,0 +1,55 @@
+STATISTIK AUGUST 2000
+-=-=-=-=-=-=-=-=-=-=-
+
+TOP 5 POSTER 2000 (Gesamt)
+
+Pos.  Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+   1   0955  Samuel Grünärmel       73       +9
+   9   7955  Nils Mesenich      64       -6
+   2   5447  Nicole Ledermüller      47       +6
+   4   4750  Enrico Ungerbühler       13       x4
+   5   0758  Patrik Gekeler        95       q8
+
+
+TOP 5 POSTER (in einem Monat) SEIT 1999
+
+Pos.  Anz.   Monat    Name
+---------------------------------------------------------------------------
+   1   1853  01/2000  Samuel Grünärmel
+   2   8226  01/2000  Nicole Ledermüller
+   3   3511  12/1999  Samuel Grünärmel
+   4   4603  02/1999  Nicole Lasen
+   5   7823  06/1999  Samuel Grünärmel
+
+
+TOP 5 DAUs SEIT 1999
+
+Pos.  Anz.   Msgs.  Ratio   Monat    Name
+---------------------------------------------------------------------------
+   1    238      1  238,00  06/2000  xgbqby.nscn@gtx.ms
+   2    230      1  230,00  06/2000  btbdru@qdvpg.ch
+   2    159      2  200,50  04/1999  msqpya@dtogyqo.yrg
+   4    200      1  200,00  04/1999  utthc_mbuyn@xfrdrqv.yiz
+        200      1  200,00  04/1999  ckptdb@qvovpae.msh
+  (4)   300      1  200,00  03/2000  rmgxfb@grkyhlzbsy.jcf
+
+
+TOP 5 MONATE SEIT 1999
+
+Pos.  Anz.   Datum
+---------------------------------------------------------------------------
+   1  11. 05. 21  Januar 2000
+   2  11. 05. 21  Mai 2000
+   3  11. 05. 21  April 2000
+   4  11. 05. 21  Februar 1999
+   5   9644  Dezember 1999
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Detlef Gerstenkorn.
+(Darstellung angepasst von Thorsten Arends)
+Basierend auf den Feeds von:
+lxserrfm.vygoj.ek       ouer.lod.fdx.yu         zopt.czptact.fs
+ljig.ehzsb.rta          jzzx.zwhaho.fw          ovgj.j-coqpis.db
+ehvt.kci-rquutbcx.dk    iryr.udy-wggrvyxu.af    ziuw.hrp-uxiahighe.ar
+ujoempb.ikdpbs.you.kz

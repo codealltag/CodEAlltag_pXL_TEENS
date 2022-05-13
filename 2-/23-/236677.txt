@@ -1,0 +1,19 @@
+Ok, jetzt habe ich nochmal genau nachgeforscht. Es funktioniert
+tatsaechlich. Ich gebe auf...
+Mist, wie ich es hasse Fehler zugeben zu muessen ... und dann bin ich
+in der Beziehung auch noch ziemlich lang auf dem Schlauch gestanden.
+
+Ich glaube damals hat mich gestoert das die zitierten Zeilen dann
+laenger als der von mir eingestellte Zeilenumbruch werden (wie beim
+Agent auch). Das kann doch eigentlich nicht so schwer zu programmieren
+sein...
+
+Winfried
+PS: Bei Outlook97 (mail) wars aber so ... glaub ich ... vielleicht
+    schau ich da besser noch mal nach ... ach nee, den Mist muss
+    ich mir nicht mehr geben.
+-- 
+[Erklaerungsversuch] Er brachte bisher nur mehr Dunkelheit in 
+Wilfrieds Worte, was prinzipiell positiv ist, [...]
+                --- Urs Abels in dafb ---
+          mailto:vuuqbxin@nbc.fk  ICQ-UIN: 6850467

@@ -1,0 +1,8 @@
+Mindestens.
+
+-be
+
+-- 
+Taeschner Technische Praxis:
+2.6 - Jeder Fehler in einer Berechnung wird sich in die Richtung des
+      gr��tm�glichen Schaden bewegen.

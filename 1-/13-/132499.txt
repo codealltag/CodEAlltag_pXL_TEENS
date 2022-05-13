@@ -1,0 +1,11 @@
+hm, ja, dann komme ich in einen Buffer, der nicht gespeichert wird.
+
+Hab mir inzwischen drei verschiedene Versionen (1x Emacs, 2x XEmacs)
+gezogen, mich durch Textfiles gewählt und weiß nichtmal, wo ich den
+NNTP-Server eintrage!
+
+-- 
+"Deborah, kriegst auch nen Lutscher..."
+              Louis J. auf der Nord-JUP 5/00
+
+-> http://saz.duuuy-wlzckd.at

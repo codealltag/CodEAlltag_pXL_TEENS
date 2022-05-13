@@ -1,0 +1,22 @@
+Am Wed, 20. 01. 23 05:39:55 GMT sendete Knut Arfeller
+folgende Botschaft:
+
+
+Wenn Nuyken alle header filtern kann versucs mal mit:
+
+'Xref:' enthält mehr als eine ':' [1] oder
+'Newsgroups:' enthält ein ',' [2]
+und
+ 'Followup-To: ' enthält kein '.' oder 'poster' [3]
+
+
+[1] Funktioniert nur wenn der Server mindestens zwei der gruppen führt
+    in die geX-postet wurde
+
+[2] Ist afaik langsamer als ein filtern auf Xref.
+
+[3] Da es eigentlich keine gruppe gibt die keinen punkt im namen hat
+    kann man so X-post mit fup2 aus dem filter raus nehmen.
+
+Tschüs
+  Matthias

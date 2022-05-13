@@ -1,0 +1,18 @@
+sh ist kein Problem, die anderen Programme kenne ich nicht.
+
+
+Das Programm selbst ist mir beim portieren egal.
+Schwierig wird's nur, wenn eine Systemfunktion anders implementiert ist
+  oder das Makefile ploetzlich Compiler-Optionen verlangt, von denen
+  man selbst und der Compiler noch nie gehoert hat (gestern noch passiert).
+
+
+Also unnoetiger Aufwandt.
+
+
+Wohin denn ?
+
+-- 
+Fritz
+"Am I human ?    Or am I just programmed to believe I am human ?"
+                                                 - Noël Voth

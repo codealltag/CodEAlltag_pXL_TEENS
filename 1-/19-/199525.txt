@@ -1,0 +1,9 @@
+Es gibt natürlich auch quick-and-dirty Sachen, aber um die geht's mir 
+weniger, sondern um Sourcen die man oder Andere unter Umständen noch viel 
+Später nachbearbeiten müssen.
+
+
+Es ist sehr schön und erleichtert die Arbeit manchmal ungemein, wenn 
+welche anzutreffen sind. Aber wenn man verständliche Variablen- und 
+Prozedurnamen nimmt, den Code richtig formatiert etc., dann kommt man im 
+Notfall weitgehend auch ohne aus.

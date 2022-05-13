@@ -1,0 +1,12 @@
+Am Mon, 29. 07. 22 13:48:54 +0200 sendete Philippe Unterseher
+folgende Botschaft:
+
+
+Die newslaufzeiten _k�nnen_ mittlerweile im sekunden bereich liegen.
+(wenn ich meine postings über uucp rausjage kriege ich beim normalen
+posten auf dem newsserver meinse ISPs schon ein 'Duplicate - Unable
+to post'). Und auf einem lahm angebundenen system macht ein cancelbot
+keinen sinn.
+
+Tschüs
+  Thomas

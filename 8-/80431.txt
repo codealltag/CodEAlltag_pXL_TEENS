@@ -1,0 +1,13 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Nicht wenn es jemand ist, der nur hin und wieder reinschaut. Der merkt
+es mit hoher Wahrscheinlichkeit nicht, wenn niemand es ihm sagt. Der
+OE-User sieht ja nicht mal, dass er Kammquoting produziert und glaubt
+auch er habe einen korrekten Sigtrenner, denn er hat das Leerzeichen
+ja drangesetzt.
+
+Siegfried
+
+-- 
+  "Es wurden 1 Einträge gefunden!
+   Mächten Sie das Ergebnis sortieren?"

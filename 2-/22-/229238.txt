@@ -1,0 +1,13 @@
+Wir scheinen einfach unterschiedliche Anforderungen an eine
+Textverarbeitungs-Software zu stellen. EOT.
+
+
+Du willst einen Editor mit Icons, mit denen sich LaTeX-Befehle in
+Texte einfügen lassen? Pfff - müßte irgendwie gehen, da der Nutzwert
+dessen aber gegen 0 konvergiert, verplempere ich meine Zeit lieber mit
+etwas anderem.
+
+Viele Größe,
+     Anton Sattelberg
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

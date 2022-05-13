@@ -1,0 +1,16 @@
+Solches tippte Waldemar Czerwonka:
+
+Sind gar nicht allein...
+
+$ tar --version | head -1
+tar (GNU tar) 1.13.18
+$ cat /etc/Florissimo-release | head -1
+Florissimo Linux 7.1 (i386)
+
+Zugegeben, auf dem Fudon drüben ist's gnu-tar 1.12.
+
+
+hol^Wwoody. Aber das gibt's  ja noch nicht. Auch wenn $Zeitschrift das
+781mal als Vor^Hllversion vorlügt.
+
+Arian

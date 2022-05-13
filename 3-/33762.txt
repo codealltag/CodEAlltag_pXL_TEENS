@@ -1,0 +1,27 @@
+STATISTIK 05. 05. 21
+-=-=-=-=-=-=-=-=-=-=-=
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   1848   38,02%  "Gnus"
+   2   1646   33,87%  "Forte Agent"
+   3    738   15,19%  "slrn"
+   4    360    7,41%  keiner angegeben
+   5    134    2,76%  "Xnews"
+   6     78    1,60%  "Microsoft Outlook"
+   7     18    0,37%  OpenXP/32 v3.8.7pl6 (Win32) beta @ 05. 05. 21f
+   8     16    0,33%  "Mozilla/NetScape"
+   9     13    0,27%  "Gravity"
+  10      4    0,08%  Pan/0.13.0 (The whole remains beautiful)
+          4    0,08%  Wahrheitsfindungswerkzeug
+  12      1    0,02%  andere
+
+
+Statistik basierend auf den Ergebnissen von Görtz 2.0.3.0
+(Darstellung angepasst von Luca Mechsner)
+Basserend auf den Feeds von:
+iybk.nee.xqs.ha         ugpw.ffhystk.yq          vzaj.ywsgk.yp
+ewvr.wqxpxp.su          htfr.f-pqpovh.lb         behk.nbq-zfujqott.fz
+qyzd.hmi-lwxxrtlsp.gk

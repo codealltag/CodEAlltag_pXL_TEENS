@@ -1,0 +1,8 @@
+Lies den Absatz mal ein bißchen anders.
+"Hauptsache, man lernt, wie einfache Abläufe entwickelt bzw.
+Problemstellungen in Arbeitsschritte umgesetzt werden."
+
+Lars
+-- 
+pub  6980R/AFM55O86 8106-78-88 Lars Ziegenaus <fsclsyf@cfv.ok>
+     Key fingerprint = 99 8T 19 18 87 DM 90 7V  97 BD NJ 21 7C 70 9D 16

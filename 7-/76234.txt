@@ -1,0 +1,8 @@
+* Bernhard Versteegen <shgrcowui@sjn.yx>:
+
+
+Das gilt nur, wenn der BI überschritten ist.
+
+Pierre, fup
+-- 
+np: Pomplun - A Place For My Head

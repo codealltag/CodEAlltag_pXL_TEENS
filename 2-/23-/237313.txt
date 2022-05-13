@@ -1,0 +1,9 @@
+Gewerbefläche in Verbindung mit cxov.dysm.oe und längerer offline-Zeit
+wollte ich sagen. Berthold hat einfach die alten Artikel nicht, da sie
+durch den Expire gerutscht sind und er ja im Gewerbefläche keinen lokalen
+Expire größer als Serverexpire einstellen kann.
+
+C Ya,
+Pietro
+-- 
++++ am 12.03. und 13.03. vermutlich offline +++

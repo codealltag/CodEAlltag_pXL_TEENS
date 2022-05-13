@@ -1,0 +1,46 @@
+Was ich jetzt brauche, wären Inodes (das FAQ-Post-Script von 1997 (!)
+scheint überraschenderweise mit etwas Überredung zu tun - ich muß nur
+gelegentlich mal den inews-Mist rausschmeißen und stattdessen einen
+Zugriff über das Perl-NNTP-Modul einbauen). Und ein funktionierendes
+M2N-N2M-Gateway, damit ich endlich den letzten wesentlichen Teil von
+Mailtraq abbauen kann. :-) Und einen Ersatz für CopyIf (nicht für dessen
+Funktionen zum Verändern fremder Postings, das halte ich für ein absolutes
+No-No, aber für den CopyFups-Effekt und das Buzzword-Scanning *seufz*) -
+aber da werde ich wohl selbst was perlen müssen. Oder eben gnusen.
+
+
+Es gäbe noch genug zu tun ... Unter anderem will ich dann auch mal den
+über Jahre (seit 1997) gewachsenen Mailkram von Mailtraq komplett auf den
+Server umstellen. Da da neben den Gateways einige Autoresponder und vor
+allem drei "geroutete" Adressen (also mit Catchall und Verteilung durch
+den Server, teilweise Umleitung in Gateways etc. pp. - 2x UUCP und ein
+Multidrop) beteiligt sind, ist das allerdings eine größere Sache.
+
+
+Das kommt sehr viel häufiger vor, als man denkt. Gerade auch beim
+Importieren gegateter Mailinglisten (Lines:-Angabe vom Mailreader,
+ML-Provider hat Werbung angehängt, und so).
+
+
+Och, ich find's nett: Spam. HTML-Posts. Binaries. (...) gnuu ist ja ein
+ungefilteter Feed.
+
+
+Ich polle momentan tagsüber pro Stunden 2x gnuu und 1x inka. Wenn ich das
+zeitlich noch etwas verschiebe, müßten News alle 20, Mails alle 30 Minuten
+rausgehen. Das sollte eigentlich okay sein.
+
+[...]
+
+Ein gemütlicher Sztall? ;-)
+
+
+Yap, so wirds wohl auch sein müssen.
+
+
+*g* Ich werde mich bemühen.
+
+
+Szw^WFeedvergleich? *g*
+
+-thh

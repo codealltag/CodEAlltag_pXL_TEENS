@@ -1,0 +1,10 @@
+UTF-8:
+ISO-8859-15:
+
+Warum re-encoden? ;)
+
+Mensch, mein Gnus kann einfach nur kein UTF-8.
+
+-towo
+-- 
+circa mea pectora multa sund suspiria de tua pulchritudine que me ledunt misere

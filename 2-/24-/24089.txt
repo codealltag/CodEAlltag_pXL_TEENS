@@ -1,0 +1,11 @@
+Und so sprach Victoria:
+
+
+Irgendwie gemaessigt oder so. Altersbeschwerden eben. ;)
+
+Gruss,
+Francesco.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.m

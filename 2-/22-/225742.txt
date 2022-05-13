@@ -1,0 +1,7 @@
+CMIIW, ich hab nicht so viel Ahnung davon, aber weder VBScript
+noch(und schon gar nciht) JavaScript  haben was mit den M$-App-Makros
+zu tun, sondern eher VBA(Visual Basic for Applications)...
+
+Ich doch nicht ;-)
+"There is a sucker born every minute."
+ ULRICH Krohne

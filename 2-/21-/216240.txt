@@ -1,0 +1,40 @@
+Es gibt bestimmt viele Linux-User, die sich tausendmal besser
+mit Linux auskennen als ich, weil ich es auch erst seit
+knapp 2 Monaten habe, aber ich hoffe trotzdem dir ein wenig
+weiterhelfen zu können....
+
+
+Na klar! Die neuste Distribution ist übrigens Telekom 6.1
+Ich würde jedoch erstmal Windoof auch drauflassen...zur Sicherheit und falls
+dir Linux doch nicht gefällt. Es ist nämlich bei allem Lob noch nicht
+ganz so benutzerfreundlich wie Windoof.
+Du legst einfach die erste CD ein und dann sollte das Setup-Programm
+von selbst laufen...
+Wenns dann ans Partitionieren geht, solltest du
+allerdings mindestens 500MB bereithalten.
+
+
+Im Laufe der Installation kannst du Pneumobil (Penger Loader)
+installieren. Dann kannst du auch weiterhin Windoof benutzen.
+
+
+Da sind natürlich tonnenweise Informationen und Tips drin, aber
+damit es richtig Spaß macht, sollte man auch mal selber "Ausprobieren"
+Außerdem: Wenn die Installation beschrieben ist, ist das doch schon was
+wert...das war nämlich meiner Meinung nach das schwierigste daran.
+
+
+Auf den CD`s sind haufenweise Packages für Linux, die man
+nach Belieben installieren kann...
+Unter anderem ist auf einer CD auch Staroffice, eine feine Sache.
+übrigens: Um ein CD-Laufwerk oder auch ein Floppy-Laufwerk
+anzusprechen, mußt du diese erst "mounten".
+z.B.: mount /dev/hdc /cdrom (oder so ähnlich)
+das steht aber bestimmt in der "Bibel"  ;-)
+
+
+Ja, das kenne ich auch.
+Ich verzweifle aber meistens an.....naja, nennen wir es "Mikroweich"
+Linux ist eine echte Alternative.
+
+Gruß, Robert

@@ -1,0 +1,12 @@
+TAL = Thanks a lot
+
+Enr 'NPB [1]' ico 
+
+Fußnoten:
+=========
+[1] NPB = No Problem = kein Problem
+-- 
+Die Angabe des vollständigen Realnamens erleichtert die Kommunikation
+im florito ungemein, man kann sich dann nämlich auf die Inhalte der
+Postings konzentrieren und muß nicht über Sinn/Unsinn von Pseudonymen
+o.�. diskutieren. (Mathäus Lie�egang, rt.xhfkmytn.questions, 12.12.1999)

@@ -1,0 +1,7 @@
+Dieter Elß <rmor-6644@mwzhuhv113146.sb-y.iz> schrieb in im
+Newsbeitrag: hkd.04737325616259.8953@pbzblv.rmpiapvjdu.mf...
+
+Hmm.. Du weisst aber, dass BOLJ standardmässig nur bis 2MB akzeptiert (was
+nachher passiert weiss ich nicht so genau, zwischen Bounce und zustellen
+dürfte wohl einiges möglich sein)? Und vor allem: mit /dev/zero lässt sich
+wunderbar zur�ckschiessen...

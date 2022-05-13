@@ -1,0 +1,6 @@
+alias zeigt dir sämtliche Abkürzungen an.
+
+Willibald
+
+-- 
+cat .signature

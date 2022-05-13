@@ -1,0 +1,3 @@
+Doch, natürlich. STMP-Auth erweitert SMTP um die Fähigkeit eines Logins. 
+Wie bei POP3. Von daher ändert sich nicht viel im Vergleich zu SMTP-
+after-POP.

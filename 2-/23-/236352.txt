@@ -1,0 +1,8 @@
+Sonst braeuchte er doch nicht online zu sein.
+Bevor du irgendwelche Daten empfaegst, musst du dich beim
+  (NNTP-, HTTP- oder FTP-)Server anmelden.
+
+-- 
+MdP Siegfried
+If someone says "I want a programming language in which
+  I need only say what I wish done," give him a lollipop.

@@ -1,0 +1,8 @@
+Kill sie doch einfach alle ...
+
+Mal sehen:
+
+debian:/home/steffen# killall towo
+towo: no process killed
+
+Hmmmm ...

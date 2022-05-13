@@ -1,0 +1,11 @@
+Am Sun, 30. 06. 21 sendete Luciano Willibald Ellinghoven folgende Botschaft:
+
+
+Uni halt.
+
+
+Naja, der Papiercomputer ist wohl eine der wenigen Plattformen auf dem
+der gcc noch nicht portiert wurde. ;)
+
+Tschüs
+  Simon

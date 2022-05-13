@@ -1,0 +1,2 @@
+Overhead aufgrund der MIME Umsetzung bei Mails/News. Die Dateien werden 
+dadurch um einiges größer.

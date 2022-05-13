@@ -1,0 +1,11 @@
+Jepp.
+
+
+Ja, finde ich auch. Die aufrufbare Hilfe ist auch irgendwie etwas
+unübersichtlich. Für neue Funktionen suche ich schon länger als
+vielleicht nötig wäre.
+
+Vincent
+
+-- 
+cat .signature

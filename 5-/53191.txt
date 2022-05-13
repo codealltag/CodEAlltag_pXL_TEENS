@@ -1,0 +1,8 @@
+Viele Junkmails.
+
+Den meisten "Spam" bekomme ich aktuell von meseno-Trödelstube, und den will ich sogar
+haben :-)
+
+Ulrich, hilfreich hat sich eine Filterregel erwiesen die Mails mit
+gewissen nicht mit dem latinischen Alphabet vereinbaren Sonderzeichen im
+Subject direkt in die Tonne befördert.

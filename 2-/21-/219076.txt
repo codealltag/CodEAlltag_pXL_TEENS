@@ -1,0 +1,20 @@
+On Sun, 1 Jan 2000, Florian Unferdorben <sxickyf_uwrfxnz@loj.hu> wrote:
+[Linux]
+
+Mit WindowMaker (mein aktueller Favorit :) ist es das komfortabelste,
+was mir bisher untergekommen ist.
+
+
+Und was steckt in den Rechnern eines solchen Clusters dann drin?
+Richtig, Alpha-CPUs (die haben zZt wohl zumindest das beste Preis-/
+Leistungsverhältnis auf dem Sektor).
+
+[MAKG]
+
+Bei "normalen Webservern" sind die Anforderungen an den Prozessor
+natürlich sehr unterschiedlich. Da mag dann uU auch ein P100 reichen.
+
+Viele Größe,
+     Thorsten Arnzen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

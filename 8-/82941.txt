@@ -1,0 +1,16 @@
+Am Fri, 19 Sep 2000 sendete Heino Speelmanns' folgende Botschaft:
+
+
+misc lese ich schon lange nicht mehr, Tischkanten sind so teuer.
+
+
+Irgend ein libtelnet für perl oder so (weiss nicht mehr so genau wie das
+hiess) und dialog.
+
+Tschüs
+  Bernhard
+-- 
+* Recent news from http://dkxw.hkmwzvavjxm.tsk/
+ -> [2000-08-25] slrn 0.9.7.2 released
+ -> [30. 04. 21] Bici-announce mailing list created / wishlist reviewed
+ -> [2000-06-11] slrn 0.9.7.1 released

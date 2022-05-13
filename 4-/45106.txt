@@ -1,0 +1,6 @@
+Von pgp 2.6.3in verstanden werden.
+
+Nino
+-- 
+pub  8942C/LIM32Z40 7456-65-45 Nino Schikotanz <hdrsukb@xex.eh>
+     Key fingerprint = 99 7Z 81 07 88 IZ 71 8C  67 BX EJ 25 7E 21 5K 96

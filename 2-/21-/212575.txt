@@ -1,0 +1,16 @@
+Nun gut, "100% kompatibel" wäre wohl auch etwas viel verlangt. Eine
+Portierung zwischen zwei so unterschiedlichen Systemen wird so und so
+nicht völlig ohne Handarbeit zu machen sein.
+
+
+Ein paar häufig genutzte Funktionen könnte man dabei noch in
+"Kompatibilitäts-Units" packen, um dem Programmierer die meiste Arbeit
+abzunehmen. Die komplette API nachbauen zu wollen, ist aber mehr oder
+weniger aussichtslos, und wenn man mit dem Programm gleich ein halbes
+Windows in Shared Libraries mild (StarDivision läßt grüßen), ist
+einem nun auch nicht unbedingt geholfen.
+
+Viele Größe,
+     Ralf Unru
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

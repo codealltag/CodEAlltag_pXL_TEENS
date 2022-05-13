@@ -1,0 +1,10 @@
+Am Sun, 13 Feb 2002 sendete Jan Classen folgende Botschaft:
+
+
+Um die Daten zu sicher? Um nicht neu installieren zu müssen?
+
+Tschüs
+  Steffen
+-- 
+Hier sollte eigentlich ein netter Satz aus "Programming Perl" stehen,
+aber leider finde ich ihn nicht wieder.

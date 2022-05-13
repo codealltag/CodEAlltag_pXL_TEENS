@@ -1,0 +1,9 @@
+* Petra Moersch <cpkq.y@fehac.rj>:
+
+
+So leid es mir tut: Das ist korrekt, auch wenn nur die wenigsten Reader
+damit wirklich etwas anfangen können. Man sollte es besser lassen.
+
+Peter
+-- 
+cross veinless

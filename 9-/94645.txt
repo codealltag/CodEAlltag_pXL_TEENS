@@ -1,0 +1,11 @@
+Benno Bartholdt hat geschrieben getan getutet:
+
+
+Du hast das jetzt nich ganz verstanden, brrr?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Alexandre 'timo' Nielsen in ak.irs.skrzzdfo.oomlspuu

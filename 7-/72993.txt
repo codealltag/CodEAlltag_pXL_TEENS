@@ -1,0 +1,17 @@
+Lorenz Rubbert meinte kundzutun:
+
+:-(
+
+
+Dürfen.
+
+Aber den Scrollback-Puffer kriegst du auch größer. Auch die Linienzahl im
+"grafischen" Modus.
+
+
+Adam nicht.
+
+Karsten
+-- 
+Dieser Artikel ging an folgende Newsgroups: vr.ifck.jkboqt
+Er wurde am Mittwoch, dem 8. November im Jahre des Herrn 2000 verfaßt.

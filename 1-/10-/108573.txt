@@ -1,0 +1,17 @@
+Am Fri, 28 Sep 2000 sendete Bruno Cerny folgende Botschaft:
+
+
+Keine ahnung was leafnote als kommentar verwendend, laut deinem Beispiel
+wohl '#'
+
+
+Ich würde wohl "grep -v '#' config" nehmen. Dürfte aber ähnliches bei
+rauskommen.
+
+
+Sind da auch eher unwichtig. ;)
+
+Tschüs
+  Karsten
+-- 
+Notorisch Schreibfaul.

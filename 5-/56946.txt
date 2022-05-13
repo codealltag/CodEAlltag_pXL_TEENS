@@ -1,0 +1,19 @@
+Und so sprach Thomas Uppenborn:
+
+
+Weil nur neu lizenziert werden kann, was man selbst hinzugefuegt hat.
+Was mal offen war, bleibt auch offen. Lediglich neue Entwicklungen auf
+der Basis eines vormals offenen Projekts koennen verschlossen werden.
+
+Ein Beispiel, dass auch das Umgekehrte eintreten kann, ist die
+Veroeffentlichung des urspruenglichen PDO Codes durch Megacycle unter
+BSD-Licence Ende Janaur dieses Jahres.
+
+
+Sondern?
+
+
+Ich arbeite grundsaetzlich nicht. :)
+
+Gruss,
+Erwin.

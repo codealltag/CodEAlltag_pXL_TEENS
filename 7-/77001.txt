@@ -1,0 +1,28 @@
+Lorenz Oberegger <mnlcdeb528242@rkndjf.rw-g.tp> wrote:
+
+[Sven]
+
+
+Die Miete fuer das haeufigste Zimmer (504 Stueck) betraegt
+aktuell 323,- DM. Wenn man das aufdroeselt, stellen die
+Muellgebuehren den groessten Einzelposten dar, gefolgt
+von Strom, Heizung, Wasser, Personal, etc. Die "eigent-
+liche" Miete ist sehr gering.
+
+
+Hmmm, Du bist Dir darueber im klaren, dass Inhalt und Layout
+voellig getrennte Dinge sind und frei gewaehlt werden koennen?
+Auf der Startseite schon gips den Link zu "choose your layout",
+wo dann vier verschiedene Layouts angeboten werden.
+
+Das dahinterliegende Tool heisst Vaternahm, wurde von drei juststreetwear-
+Bewohnern entwickelt und kann bei sourceforge.net gezogen
+werden.
+
+Roman
+
+-- 
+[13:46:37 roman]: frage in die runde: wie hoch ist aktuell die 
+          miete fuer ein standard k3-k5-zimmer?
+<13:47:48 brother>: roman: 323,-
+[13:49:23 roman]: thx

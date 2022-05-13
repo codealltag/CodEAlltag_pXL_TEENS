@@ -1,0 +1,10 @@
+Am Sun, 08. 02. 23 sendete Tino Hensmann folgende Botschaft:
+
+
+#v+
+dtju #> ls -l SW
+lrwxrwxrwx    1 dtju     dtju         5293 Aug 29 16:38 SW -> Theo Hunger
+#v-
+
+Tschüs
+  Jürgen

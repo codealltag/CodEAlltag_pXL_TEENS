@@ -1,0 +1,12 @@
+* Charly Dippacher <jbnmcg@jhu.drh>:
+
+
+Ja, ich habe mich damit auch schnell zurechtgefunden.
+
+
+Sprichst du von vi oder vim?
+
+
+Aus den Modi kommst du immer mit ESC heraus.
+
+Waldemar

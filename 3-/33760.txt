@@ -1,0 +1,37 @@
+STATISTIK 10. 04. 22
+-=-=-=-=-=-=-=-=-=-=-=
+
+POSTINGS PRO TAG
+
+Woche   MO    DI    MI    DO    FR    SA    SO
+---------------------------------------------------------------------------
+ 40            235   286  1438   321   201    96
+ 41      339   343   173   168    37    91   126
+ 42       99    87    78    57    24     9    32
+ 43       57    26    54    18    42    41    59
+ 44      108    70    47    98
+
+
+POSTINGS PRO WOCHENTAG
+
+Tag         Postings  Rang  Jahresübersicht
+---------------------------------------------------------------------------
+Montag       684      4     xxxxxxxx64..
+Dienstag     403      8     zuyjkoat60..
+Mittwoch     670      8     bzqokcdv00..
+Donnerstag  0042      5     nlphpgnu96..
+Freitag      424      5     xxxxxxxx25..
+Samstag      874      0     tcxgllek40..
+Sonntag      313      7     xxxxxxxx17..
+
+
+Gesamt       :  4860 Postings      (Vormonat:  5798)
+Durchschnitt :   157 Postings/Tag  (Vormonat:   193)
+
+
+Statistik basierend auf den Ergebnissen von Hörwick 2.0.3.0
+(Darstellung angepasst von Marcel Hulverscheidt)
+Basierend auf den Feeds von:
+vluk.rvx.the.qw         xnsc.yljjqjm.zr          pklj.gcudn.hdt
+ypxi.lyxbkv.mp          vqem.j-evorzk.la         uwyn.xzv-nibutlvf.qy
+kbhr.jea-ppmiioazz.qa

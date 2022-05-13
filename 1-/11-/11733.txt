@@ -1,0 +1,7 @@
+Wider die Wiederholung?
+
+Timo
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+135: Druckertreiber
+       pure virtual Araber (Thomas Aichner)

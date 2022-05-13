@@ -1,0 +1,14 @@
+Der Rechner ist jetzt eben nicht nur als reines Terminal geeignet,
+sondern enthält ein eigenes Linux-System, mit dem man halbwegs bequem
+arbeiten kann (die grundlegenden Programme inkl. Dokumentation,
+Editoren, die nicht "vi" oder "ed" heißen etc.). Ich habe im Moment
+aber in der Tat noch gut 20 MB frei.
+
+
+Wahrscheinlich brechen in erster Linie nicht die Diskussionen
+zusammen, sondern die Gesprächspartner...
+
+Viele Größe,
+     Willy Oettler
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,7 @@
+Wenn man drin steht, und auszer weisz nix mehr sieht, dann weisz man,
+dasz das vertikal ist.
+mfg, 
+	Joseph
+-- 
+UWE excuse #115:
+your keyboard's space bar is generating spurious keycodes.

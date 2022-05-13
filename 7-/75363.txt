@@ -1,0 +1,12 @@
+Karsten Endreß hat geschrieben getan getutet:
+
+
+Nichts, dieser Witz hat crosslinked-mind als dependency, musst du also
+nicht verstehen.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Clemens 'philippe' Erdbrügge in tn.xku.olrbqtwm.wkwycjop

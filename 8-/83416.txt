@@ -1,0 +1,11 @@
+Erik Vrieslander hat geschrieben getan getutet:
+
+
+Stadtbibliotheken haben sie in der Regel in analoger Form.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- François 'theo' Neudorff in zw.ekt.mlkqwozr.poyjvplz

@@ -1,0 +1,7 @@
+Totstellen, warten bis ein richtiger vorbeikommt.
+
+mfg, 
+	Mike
+-- 
+BOFH excuse #116:
+the real ttys became pseudo ttys and vice-versa.

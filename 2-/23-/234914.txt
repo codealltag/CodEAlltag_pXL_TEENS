@@ -1,0 +1,10 @@
+Nein, weil ein Klötzchen eben keine Fläche bilden kann. Ich meinte mit
+"schattieren" nicht Schatten erzeugen, sondern Lichtreflexionen
+berechen.
+
+Gruß
+
+Luc
+-- 
+"There's a sucker born every minute."
+(BERTHOLD Oestringer)

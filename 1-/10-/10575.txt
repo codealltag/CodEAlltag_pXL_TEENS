@@ -1,0 +1,8 @@
+Da der Hamster offenbar eine POP3-Erweiterung zum IMAP-ähnlichen Anlegen
+von Ordnern auf dem Server besitzt, hat er vielleicht auch eine
+Subskriptionsdauerabfrage? *g*
+
+Nicolas
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

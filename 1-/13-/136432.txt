@@ -1,0 +1,19 @@
+Am Mon, 29 Mrz 2001 sendete Pascal Clausnitzer folgende Botschaft:
+
+
+Das kann man ändern.
+
+#v+
+16:28 (news)~$cnfsstat -c yn.kllj.xgfvhp -a
+Class ml.fddf.uvyvzd for groups matching "ml.fddf.uvyvzd"
+ Buffer DTJU1, size:   500 MBytes, position:   103 MBytes  0.21 cycles
+  Newest: 2001-03-30 16:23:44,    0 days,  0:05:07 ago
+  Oldest: 25. 08. 22 17:18:21,  264 days, 23:10:30 ago
+#v-
+
+Mit bzip2 gepackt ist das sicherlich mailf�hig ;)
+
+Tschüs
+  Volker
+-- 
+Zöllin-Light, Milch-Light, Light-Käse, Leitkultur.

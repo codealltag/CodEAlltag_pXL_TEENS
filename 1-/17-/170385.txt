@@ -1,0 +1,11 @@
+Bah, diese Editoren verhunzen doch den ganzen Quellcode. Die einzigen
+Editoren, mit denen ich mich anfreunden kann sind die, bei denen man
+in einem Fenster den Quellcode eingibt und im anderen Fenster sieht
+man das Ergebnis. Das hab ich jetzt mit der Kombination Notepad -
+Explorer auch, aber ich muß Umlaute noch selbst kodieren.
+
+ciao
+August
+
+-- 
+http://Cdzy.nhqf.nwcls.hw

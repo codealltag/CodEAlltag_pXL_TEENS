@@ -1,0 +1,9 @@
+Wenn's unter Win läuft, sollte es das unter Linux wenigstens genauso
+gut. Aber es lag wohl doch nur an diesem Film, dass Ton und Bild nicht
+zusammenpassen. Natürlich komisch, dass der dann unter Win einwandfrei
+lief.
+
+Hartmut
+
+-- 
+  "Reservierter Fehler (3034), es gibt keine Meldung für diesen Fehler."

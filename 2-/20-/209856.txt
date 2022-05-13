@@ -1,0 +1,19 @@
+On Sat, 16 Nov 1998, Ivan Gilgenrainers <xgycwup@ydf.aq> wrote:
+
+[Fleurie Open Source -> 50.000 Versionen?]
+
+hm, ich glaube es ist nicht so ganz 'rübergekommen, was das
+Maintainerteam bezwecken soll: Wenn ein Kernel-Entwickler einen Bugfix
+oder einen neuen genialen Treiber hat, veröffentlicht er eben /nicht/
+gleich eine eigene Kernel-Version, sondern schickt seinen Code an den
+zuständigen Maintainer. Der paßt dann darauf auf, daß der neue Code
+ein paar Konventionen erfüllt und stabil ist und packt ihn dann in den
+"offiziellen" Kernel, den die Anwender benutzen.
+
+Das führt dazu, daß es eben nicht 50.000 Versionen gibt, sondern genau
+eine aktuelle (bei Linux sind es zwei - eine stabile und eine
+experimentelle für Kernel-Entwickler). Auf die kannst Du als
+Entwickler dann aufbauen.
+
+Viele Größe,
+     Charles Junkernheinrich

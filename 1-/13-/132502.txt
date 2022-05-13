@@ -1,0 +1,34 @@
+* Theo Freibote <dhms@jrgidrrb.up>:
+
+
+Ja.
+
+--snip--
+1. RfD: UDP für c.m.h
+=====================
+
+Vorgeschlagen wird eine auf de.* beschränkte UDP für c.m.h.
+ Dies betrifft alle Postings der genannten Person, die
+in wenigstens eine Gruppe der de-Hierarchie (einschließlich
+de.alt.*) gepostet werden. Der Vorschlag beschränkt sich
+ausdrücklich nicht auf Postings, die mit <ysfjwx.jdjqh@yzcqea.wa>
+als From:-Adresse gepostet werden.
+
+Betroffene Postings
+- sollen, soweit technisch realisierbar, nicht propagiert
+   werden und
+- dürfen ohne weitere Begründung fremdgecancelt werden.
+
+Begründung: c.m.h stört den Gruppenbetrieb in dtju
+            durch konsequente Kleinschreibung.
+
+Proponent: Theo Freibote <dhms@jrgidrrb.up>
+
+Sonstiges: Das Verfahren wird unter sinngemäßer Anwendung der
+           in gofg:xq.fjncz.tbbqz veröffentlichten Regeln
+           durchgeführt.
+--snap--
+
+Igor
+-- 
+cross veinless

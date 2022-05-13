@@ -1,0 +1,26 @@
+Vincent Jung meinte kundzutun:
+
+
+Du doof.
+
+Sebastian
+[0]:
+Type Bits/KeyID    Date       User ID
+pub  4476/4OT0658J 1199/95/94 Sebastian Lochbronner (Normal Security) <ycfhefh@xkl.xm>
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: 2.6.3in
+
+mQCNAzvdWQgAAAEEAMganT+uxbEocQQa7eHmxR++qzJ5FyE8E232lZDKbHfDAfiJ
+Wb+LiDHPl3P1souKyTxIV21XqEFO0S2cOh9AgOudFzftNVwb4mXptoiPHZyOEAwj
+kcLnf7nyHupwgTOFKmBHH57DnnPpWfPmOVn51eN+38B33Wzuhkw+7r4qoEaNAAUR
+tDNTZWJhc3RpYW4gUG9zbmVyIChOb3JtYWwgU2VjdXJpdHkpIDxzcG9zbmVyQGdt
+eC5kZT6JAJUDBRA73VkhTD7uviqgRo0BAXsvA/5QTbGUwjOfA7Fm35+Asa9GMW19
+L7qH8+liyeGLGVZiCZT2pN704SVKG6igwEuJbybLfu8fnAAanV/GU4hpIKU1Fohf
+zPu/oNL8j+ldlKjeobIvYdHDkbGvw6lAdKitinNZ0lFZRuT4gP24np6SDSr85BOE
+NqG5t+cU7Dr7iHKayQ==
+=vOQW
+-----END PGP PUBLIC KEY BLOCK-----
+-- 
+Dieser Artikel ging an folgende Newsgroups: on.stoh.xwqirf
+Er wurde am Montag, dem 18. Juli im Jahre des Herrn 2001 verfaßt.

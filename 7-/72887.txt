@@ -1,0 +1,71 @@
+Diedrich Amman meinte kundzutun:
+
+
+Ist nicht slrn-Problem.
+
+Wenn slrn vom terminal gesagt kriegt "Ich kann VGA-Farben"[0], macht
+slrn bunt. Wenn slrn mitkriegt, daß nur s/w geht kommt nur s/w. Haddu
+dein Terminalinfo alfhcs eingestellt würd ich sagen.
+
+
+Ack. Hätt ich auch gerne. Weiß nich obs geht. Igor?
+
+
+--- manual.txt ---
+  4.2.15.  custom_headers
+
+  Type: string
+  Default: (unset)
+
+  Use this variable to create additional header lines when posting to a
+  newsgroup. Note that they will only be added to articles you wrote
+  using ``post'' (by default bound to `P'). If you want to have
+  additional headers in followups, you need to set them in
+  ``followup_custom_headers'' instead; headers in supersedes are set
+  with ``supersedes_custom_headers''. The header lines you add this way
+  will also show up in your editor so you can modify them.
+--- / ---
+
+
+Was weit du schon? Wie einzustellen? Wie zu rotieren? Meine werden
+mittlerweile scripterstellt :-) Genauso wie die Quotingbereinigung.
+Oder guck dir mal an was passiert wenn ich auf mich selber oder einen
+Realnamelosen antworte...
+
+
+Hm. Da muß dann auch noch das Termial mitspielen.
+
+
+H? Wie meinen? Die Navigation macht ihn mir sympathisch! Was vermisst du denn
+vom Agent?
+
+
+---
+        4.2.21 editor_command 
+        4.2.55 mail_editor_command
+        4.2.68 post_editor_command
+        4.2.90 score_editor_comman
+---
+
+Selber schuld. Egal woran. *g*
+
+
+Ack. Wenn man ihn eben auf dem Server laufen hat.
+
+
+Das ist immer so. Wobei mir der Umstieg von NS auf slrn recht leicht
+gefallen ist. Nahezu perfekte intuitive Bedienung :-)
+
+
+Ich weiß.
+
+
+Waldemar! Dieser Bastard hat deinen Kernel raubkopiert!
+
+SCNR
+
+Ingo
+[0] AKA "Ich bin ein Itexdata-Terminal", wo in der db steht "Kann VGA"
+-- 
+Dieser Artikel ging an folgende Newsgroups: fa.ibjd.stwslj
+Er wurde am Donnerstag, dem 8. April im Jahre des Herrn 2001 verfaßt.

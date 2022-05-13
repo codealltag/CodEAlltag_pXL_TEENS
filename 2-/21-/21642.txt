@@ -1,0 +1,7 @@
+Aha. Im Olipa?
+
+mfg, 
+	Rupert
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

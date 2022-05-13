@@ -1,0 +1,14 @@
+On Tue, 31. 01. 23, Erwin Steffentorweihen <KXPcbdruu@sic.uw> wrote:
+
+[Arbeiten mit Menüs]
+
+Kommt darauf an. Wenn ich einen Befehl ein oder zwei mal brauche
+vielleicht, wenn ich täglich damit arbeite, lohnt sich der Zeitaufwand
+für das Erlernen von einer Handvoll Tastenkombinationen sehr schnell.
+Außerdem kann ich die man-page im Gegensatz zu dem Men mal eben
+durch'grep'en.
+
+Viele Größe,
+     Edmund Freis
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

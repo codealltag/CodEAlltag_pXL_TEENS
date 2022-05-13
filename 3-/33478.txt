@@ -1,0 +1,10 @@
+[1]
+
+Stimmt. In Info benutzt man dann schöne strukturelle Induktion,
+z.B. bei Termalgebren.
+
+Footnotes: 
+[1]  Also so mit "Sei epsilon kleiner 0 ..."?
+
+-- 
+"Don't contradict a woman -- wait until she does herself"

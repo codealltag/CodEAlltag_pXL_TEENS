@@ -1,0 +1,4 @@
+Remuss hat nicht /ganz/ Unrecht wenn er sagt daß das Zeug im 
+Hauptspeicher u.U. besser aufgehoben sein könnte. Dort sind 132MB/s ein 
+Witz ;-)
+Praktisch dürfte es aber eher irrelevant sein, stimmt.

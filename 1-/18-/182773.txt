@@ -1,0 +1,15 @@
+Ewald 'sSXP' Möck schrieb am 06. Mai 1999 um 20:53 Uhr folgendes:
+
+
+"Eine Stelle gewinnen" und "Wertebereich um eine Zahl vergrößern"
+passt nur im unären (?) System zusammen. Bei dualen Zahlen wächst der
+Wertebereich bei einer neuen Stelle um 2/4/8/16... Zahlen, je nachdem,
+wie viele Stellen vorher schon da waren.
+
+Viele Größe,
+     Mathäus Mühleder
+-- 
+In einem Computerexpertenkreis die Worte: "ich bin Liliencenter" so ganz
+nebenher gelassen aussprechen, lässt alle anderen Anwesenden sofort in
+unterwürfige Demutshaltung und staunende Bewunderung fallen.
+                                 -- "Tom Möller-Titel" <auhmf@wysvnjz.io>

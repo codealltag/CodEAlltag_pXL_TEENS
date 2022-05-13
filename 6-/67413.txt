@@ -1,0 +1,9 @@
+Auch. Aber 
+
+einer(fuenfer(zehner(fuenfziger(hunderter(fuenfhunderter(tausender(eingabe)))))));
+
+ist kein LISP, sondern eine nette Art, Leute zu verwirren.
+
+Meinrad
+-- 
+Der Vorschlaghammer ist ein wichtiges Werkzeug beim Brainstorming.

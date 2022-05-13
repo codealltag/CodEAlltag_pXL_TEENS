@@ -1,0 +1,15 @@
+Das ist dann ein Just-In-Time Compiler und kein Interpreter.
+
+
+Nun, was ist denn Dein PC Prozessor? Nichts weiter als ein Interpreter für 
+x86 Code. Stößt er auf den Befehl $C3, dann weiß er was er machen muß 
+(in dem Fall "RET", also aus der aktuellen Sub-Routine zurückkehren). Ein 
+m68k Prozessor würde das Ding anders interpretieren (das wäre dann "ABCD.B 
+D0,D1", eine BCD Addition). Ein Z80...
+Und so kann man natürlich auch einen Prozessor bauen der direkt den 
+Bytecode von Java interpretiert. Ich kenne den Aufbau des Codes nicht, 
+vermute aber daß er etwas "höher" implementiert ist als gewöhnliche 
+Maschinensprache und es deshalb schwieriger sein dürfte einen 
+entsprechenden Interpreter in Silizium zu gießen. Aber wieso nicht, wenn's 
+Spaß macht. 
+Ich persönlich halte diesen Java Quatsch eh für viel zu überbewertet.

@@ -1,0 +1,14 @@
+Die weitverbreitete Ansicht, dass man für etwas immer alle Grundlagen 
+wissen muss, war vielleicht im 12Jh. noch zu vertreten, heute aber 
+absolut unmöglich zu realisieren.
+
+Ob ich jetzt die Differentialgleichungen für die Signalausbreitung 
+selber lösen kann oder nicht spielt keine Rolle, ich mache es sowieso nicht.
+
+
+Das gilt vielleicht für Algorithmen. Die meisten Produkte heute bestehen 
+aber zu einem sehr geringen Teil aus Algorithmen.
+
+
+Lernen kann man das noch schnell mal, der Sinn dahinter (sowas muss man 
+sowieos nie bauen) ist dann viel eher Ansichtssache.

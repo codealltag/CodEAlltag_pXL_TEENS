@@ -1,0 +1,9 @@
+Am schnellsten verstehste das mit den 2 Grundbegriffen der Logik
+(*kotz*), Disjunktion und Konjunktion. Ersteres ist der Begriff für a
+OR b, der zweite für a AND b. Also so ganz stimmt deine Definition
+nicht. :)
+
+-- 
+sSXP
+
+live broadcast from Ingeleben

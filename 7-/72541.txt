@@ -1,0 +1,2 @@
+Den Gecko höchstwahrscheinlich schon, bloß den Browser (und dessen
+Kennung) nicht.

@@ -1,0 +1,7 @@
+Da hab ich doch erst vor ein paar Tagen was drüber gelesen, mal sehen... 
+Warst Du schon unter "Systemsteuerung/Kennwörter/Benutzerprofile"? Da kann 
+man einstellen was getrennt verwaltet wird.
+
+
+PGPDisk. Da muß man sich auch nur einmal einloggen und hat dann eine 
+"normale" Platte vor sich.

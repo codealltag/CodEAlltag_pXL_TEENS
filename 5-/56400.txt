@@ -1,0 +1,9 @@
+Du hast noch nicht oft vernünftig an elektrischen Anlagen gebaut,
+oder?
+
+Edwin
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Dietmar Ordner in
+<hmmi6o2iy2.3j2.fwwnmhs.ozdpcn@chs.ijl.hp-timpexfm.kr>]

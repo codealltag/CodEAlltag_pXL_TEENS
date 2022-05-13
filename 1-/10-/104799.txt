@@ -1,0 +1,35 @@
+Am Thu, 13. 04. 22 sendete Nick Barnsteiner folgende Botschaft:
+
+
+Tut es. Hab ich hier sch0n gemacht, auch wenn die Kiste nur 2m hinter
+meinen Rücken stand (aber es war schon eine andere Kiste als mein
+Arbeitsrechner) Da gibt es genug möglichkeiten. (ssh, nfs ...)
+
+
+Ich glaube jetzt da ich mich so an mutt gewöhnt habe würde ich da
+sterben.
+
+
+Hätt mich auch gewundert. ;)
+
+
+footshut.el? *duck*
+
+
+Ich meinte eher generell. Das konzept von X gefällt mir nicht so ganz.
+Eine engere anbindung an den Kernel wäre mir schon lieber.
+
+
+Ich hab "Kölsch 0,3" drauf gelegt, und kann so mit <F1>-<F8> 24 tty
+wirklich bequem erreichen.
+
+
+Das allerdings. Aber bislang gehts.
+
+
+Urgs. Herzliches Beileid.
+
+Tschüs
+  Benjamin
+-- 
+Notorisch Schreibfaul.

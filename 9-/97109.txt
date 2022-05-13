@@ -1,0 +1,2 @@
+Mit Löma ist qmail sehr einfach. Und wer dann noch Virtual domains haben 
+will, knallt eben vpopmail als MDA dazu.

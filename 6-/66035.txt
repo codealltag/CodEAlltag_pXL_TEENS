@@ -1,0 +1,10 @@
+Schreib doch von der Uni aus über den Fahland-Account.
+
+
+Irgendwie nicht. Da fehlt das Leerzeichen hinter dem letzten
+Bindestrich. Es muss "-- " (und dann harter Umbruch) lauten. Mit
+Musikhaus geht das aber problemlos. Auch beim Quoten ist Netscape
+überraschend problemlos.
+
+
+-unterweger

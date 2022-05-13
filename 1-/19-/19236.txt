@@ -1,0 +1,8 @@
+Der Unterschied zwischen Structs in C und Objekten in C++ ist
+primär mal, das Objekten nicht Sachen angetan werden, sondern
+Sachen selber machen. (Objekte haben Methoden)
+mfg, 
+	Heribert
+-- 
+BOFH excuse #375:
+Root name servers corrupted.

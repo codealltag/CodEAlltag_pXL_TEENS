@@ -1,0 +1,20 @@
+Cédric Oberwinkler meinte kundzutun:
+
+
+Och wieso?
+
+zdtqth@emce:~/vxiaxyp/kdkqa > wc -l *pl
+    102 RGWXMessageGenerator.pl
+    165 RGWXMessageProcessor.pl
+     93 RGWXPacketAnalyzer.pl
+     94 RGWXPacketGenerator.pl
+    454 insgesamt
+zdtqth@emce:~/vhmclyh/lbwub >
+
+Prima das. Funktioniert echt klasse. Inklusive Datenbankanbindung. C
+ist pfui (*g*), und in Java macht DAtenbankanbindung keinen Spaß.
+
+Leopold
+-- 
+Dieser Artikel ging an folgende Newsgroups: mg.eiac.pezzid
+Er wurde am Freitag, dem 11. Februar im Jahre des Herrn 2000 verfaßt.

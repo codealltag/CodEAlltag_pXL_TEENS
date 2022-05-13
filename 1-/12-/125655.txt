@@ -1,0 +1,9 @@
+* Othmar Staender <xdzyva@xhkah-pnngdk.ia>:
+
+
+Ein nicht gewarteter Newsserver, keine vorhandenen DNS-Einträge. Und das
+soll supertoll sein?
+
+Berend
+-- 
+cross veinless

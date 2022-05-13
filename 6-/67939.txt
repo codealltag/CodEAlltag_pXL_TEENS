@@ -1,0 +1,9 @@
+* Paul Brockamp <iiibag-8050@funtclfr-lyqwrkh.un>:
+
+
+Wie stellt man denn die Transparenz im eterm an? Irgendwie ist GABU bei
+MGN etwas b0rken ...
+
+Massimo
+-- 
+np: Olbrichs - Sommerzeit

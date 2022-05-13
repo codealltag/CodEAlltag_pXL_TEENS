@@ -1,0 +1,17 @@
+Am Tue, 22 Mrz 2001 sendete Ulf Hoppenkamps folgende Botschaft:
+
+
+Eben. aber die Kernelunterst�zung ist nit das hauptproblem. Die einzige
+möglichkeit an halbwegs aktuelle i4l-utils zu kommen ist dieser CVS. Und
+da ist wirklich gl�cksache ob wichtige teile nicht gerade beta bzw alpha
+sind. Da werden stabilität und gute Dokumentation eindeutig dem
+featureismus geopfert.
+
+
+*würg*
+
+Tschüs
+  Urs
+-- 
+Vervollständige die Kette: (Frei nach Arno Rubarth)
+Dr. Marcus Heitbrook - Justin Textor - Valentin Ginder - Marcus Gonder - .........

@@ -1,0 +1,11 @@
+Ich bin nicht Viktoria.
+
+Was, ein Punkt? Wo?
+
+
+Schlag doch die arme Viktoria nicht!
+
+Willi
+
+-- 
+cat .signature

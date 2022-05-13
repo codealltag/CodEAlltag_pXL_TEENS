@@ -1,0 +1,8 @@
+Unser Teil ist ADR, wobei ich nicht den Unterschied zwischen diesen
+drei Systemen kenne.
+
+Ingmar
+
+-- 
+Bald beginnt der Winter.
+Es ist mit Kälte, längerer Dunkelheit und glatten Straßen zu rechnen.

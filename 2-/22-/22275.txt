@@ -1,0 +1,11 @@
+Und so sprach Cassia Uebelgünn:
+
+
+It's the Ace of Spades ...
+
+Gruss,
+Maximilian.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.h

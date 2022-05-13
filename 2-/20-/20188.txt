@@ -1,0 +1,7 @@
+Das ist doch doof. Das gibt dann nur wieder infinite loops.
+
+mfg, 
+	Urban
+-- 
+BOFH excuse #306:
+CPU-angle has to be adjusted because of vibrations coming from the nearby road

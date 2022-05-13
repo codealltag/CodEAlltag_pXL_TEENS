@@ -1,0 +1,12 @@
+Meine Nourideen-Islamwear ist einmal die Woche mit Update dran, das hat bisher nix
+zerschossen. OK, die Onim musste man nur schief ansehen...
+
+
+"idk" wird IIRC der dauerhafte Name für die "testing"-Version, "woody"
+befindet sich in der Freeze-Phase und wird wohl die nächste stable,
+und potato ist langsam alt :-)
+
+Veit
+-- 
+Ich trage meinen Gürtel nicht am Handy
+[C.E. auf einer Autobahnraststätte]

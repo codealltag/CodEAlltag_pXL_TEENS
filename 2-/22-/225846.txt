@@ -1,0 +1,8 @@
+Seelig sind die geistig Armen... <eg>
+
+C Ya,
+Jens
+-- 
+*arghl*
+Wie bekommt man das Abesu-Installationsprogramm dazu, Teile
+Installation in usr/local abzulegen?

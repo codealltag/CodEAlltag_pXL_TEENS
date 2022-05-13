@@ -1,0 +1,7 @@
+Nope. Mein Sigrotator sollte "^H" wie "^M" behandeln und
+durchreichen... Meine normalen Sigs sind ja auch alle einzeilig im
+Sigfile, und werden erst bei der Ausgabe mehrzeilig.
+
+Michael, den gew�nscten Effekt jetzt per Hand mal nachbauend
+--
+Diese Sig ist wegen Wartungsarbeiten derzeit ausser Betrieb

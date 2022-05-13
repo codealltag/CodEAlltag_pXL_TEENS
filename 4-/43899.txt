@@ -1,0 +1,6 @@
+Die Implikationen davon kehre ich am Besten unter den Tisch.
+
+-towo
+-- 
+Alle, die ein OS gebaut haben, das nicht Unix war, haben Unix ge-
+nommen, und alles weggeschmissen, was sie nicht verstanden haben.

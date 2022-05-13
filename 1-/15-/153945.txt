@@ -1,0 +1,11 @@
+:-)
+Ich hab mit Basic am C64 angefangen.
+Und als ich dann den Quellcode fuer ein Monopoly gesehen hab,
+  wurde mir klar, dass ich noch einen weiten Weg vor mir hatte
+  (100%iger Spaghetti-Code mit vielen GOTO's und so vielen
+  GOSUBs, dass es auf einem C16 erst garnicht startet :)
+
+-- 
+Alexandre
+  Dadurch, daß man einen anderen ins Irrenhaus sperrt,
+  beweist man noch nicht seinen eigenen Verstand.

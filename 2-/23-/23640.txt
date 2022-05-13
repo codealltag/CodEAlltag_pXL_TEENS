@@ -1,0 +1,12 @@
+Und so sprach Max Paul Ruhrs:
+
+[Vorzeitige Deflorierung]
+
+Damit hast Du ja auch schon ne Antwort.
+
+Gruss,
+François, wir lieben unsern Antonio, ob's elf is' oder zwoelf is'.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.g

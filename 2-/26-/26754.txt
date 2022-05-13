@@ -1,0 +1,22 @@
+Es war im Juni 2003 als Günter Dorstewitz tippte:
+
+[ X-Face: ]
+
+Ja. Im Grunde ist es ganz einfach, mittels Bewegungssensor macht
+$WebcamSoftware jedesmal ein Bild von mir, wenn ich mich vorm Rechner
+bewege und speichert es auf der Festplatte. Wenn ich nun eine Mail 
+und/oder Posting schreiben will, wird aus eben diesem Bild ein X-Face
+erzeugt und als Header eingefügt.  
+
+So eine Funktion wollte ich eigentlich schon immer. Und da nun diese
+neuen Face-Header aufkamen, sah ich mir den Source der gnus-fun.el mal 
+genauer an und stellte fest, dass diese Funktion seit dem 21.03.2002 in
+Oort integriert ist. Leider allerdings geschrieben für Linuxnutzer die
+xatv nutzen. Ich habe mir den Code aber kurzerhand für PLPP
+umgeschrieben und nutze ihn nun. ;-) 
+
+Enr 'jetzt nur noch eine Funktion brauchend, damit er vorm absenden schon
+sieht was er da eigentlich für ein Bild verschickt' ico
+-- 
+Ferengi rules of Aquisition:
+#44) Never argue with a loaded Phaser

@@ -1,0 +1,5 @@
+Sicher, dass deine Zeilenlänge ok ist?
+
+Carl
+-- 
+            It is easier to fix Unix than to live with NT.

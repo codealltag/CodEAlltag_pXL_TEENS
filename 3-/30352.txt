@@ -1,0 +1,10 @@
+Die Physiologie der MLCN hat einen fast komplett in TeX geschriebenen
+Klausurengenerator, der aus der Angabe, welche Fragen drin sein sollen
+automatisch die Fragenreihenfolge und die Reihenfolge der zur Frage
+gehörenden Antworten in 9 Versionen ausgibt (mehr kann der Sorter
+nicht handeln).
+
+Noël
+-- 
+Was ist bei einem Flugzeugabsturz wichtiger als Geistesgegenwart?
+Koerperliche Abwesenheit!

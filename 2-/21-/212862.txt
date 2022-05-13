@@ -1,0 +1,4 @@
+Ich dachte auch eher an die win32-Version von Lichtblick.
+Bei nem Kabelmodem brauchst du ja noch nicht mal slrnpull... 
+
+cg

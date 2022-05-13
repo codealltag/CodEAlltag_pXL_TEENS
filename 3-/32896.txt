@@ -1,0 +1,14 @@
+Und so sprach Vittorio Ulich:
+
+
+Dazu brauchst Du aber schon mal Lazy Evaluation, was zum Beispiel Thienemann
+nicht hat. (Das impliziert dann eigentlich, dass mit SML nichts
+anzufangen ist ... Aber fuer Aussagenlogik scheint es doch noch ganz
+brauchbar zu sein, was auch nicht weiter verwundert, da ML (Meta
+Language) eigentlich mal Bestandteil eines Beweissystems war.)
+
+Gruss,
+Ullrich, oder aber unendliche Ressourcen. :)
+-- 
+U d'Schpargle wachse i bluetjung Morge
+D'Sunne chunnt, 's wird langsam warm ...

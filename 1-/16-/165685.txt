@@ -1,0 +1,12 @@
+Nein.
+
+
+Das Problem ist, unter 640x480 läuft ja alles, nur mehr nicht. Er
+erkennt ne S3-Graka (ist ne miro 20SV) und einen Standartmonitor, nur
+läßt sich der Standardmonitor laut Konfigtool bis 1024 hochtunen, aber
+praktisch klappt das nciht. Du verstehst teilweise meine Probleme? :)
+
+-- 
+sSXP  
+      Math is like love -- a simple idea but it can get complicated.
+		-- M. Pfankuche

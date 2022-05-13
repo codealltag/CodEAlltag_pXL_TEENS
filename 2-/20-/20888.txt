@@ -1,0 +1,12 @@
+Wah! Muss ich jetzt ein feindliches OS booten? Mal schauen, ob
+das Ding im Wine tut...
+
+Ich kenne die Demo von Gardinenstudio aus `Die PC-Games kommt mit einer
+Diskette'-Zeiten noch. Wir haben uns damals tierisch geärgert,
+das bei uns keiner BASS hatte.
+
+mfg, 
+	Niko
+-- 
+BOFH excuse #219:
+Recursivity.  Call back if it happens again.

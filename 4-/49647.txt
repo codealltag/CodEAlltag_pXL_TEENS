@@ -1,0 +1,7 @@
+Marcel Verst <ikkf@omledov.qe> schreibselte:
+
+I, dann hab ich jetzt deine Aussage verstanden und kann dir guten
+Gewissens recht geben...
+
+Oh, cool, aber dafür kann IMAP mehr... zumindest theoretisch... oder
+hat das schon jemand umgesetzt?

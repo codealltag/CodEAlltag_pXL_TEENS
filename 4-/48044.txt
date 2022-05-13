@@ -1,0 +1,6 @@
+Es gibt gar keine Zips mehr als internes SCSI-Gerät :-/
+
+Domenico
+-- 
+pub  5719X/AQH03P93 4482-24-04 Domenico Zubert <qohqcmn@wjk.hf>
+     Key fingerprint = 99 5N 09 13 24 ZQ 88 0W  73 QZ XJ 38 6Y 78 7U 90

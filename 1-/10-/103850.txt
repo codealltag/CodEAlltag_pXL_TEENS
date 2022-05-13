@@ -1,0 +1,16 @@
+Am Sat, 08. 08. 22 sendete Reinhold Naesemann folgende Botschaft:
+
+
+Sorry, my fault. Das ding nennt sich "LANG". Wenn die im output von
+export vorhanden kannst du sie mit "export -n LANG" löschen.
+
+
+Sollte es eigentlich bei RH als rpm geben.
+
+
+Was machst du auch?
+
+Tschüs
+  Adrian
+-- 
+Notorisch Schreibfaul.

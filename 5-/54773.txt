@@ -1,0 +1,13 @@
+Ich dachte, es wäre von vernünftiger Software die Rede? Agent war in
+den 10 Minuten, die ich mal drangesessen habe noch unbenutzbarer als
+der erste Versuch mit Gnus. Wenn hier nochmal was anderes als Gnus
+hinkommt, dann sicherlich wieder was, was auch ohne Grafik läuft. tin
+zum Beispiel.
+
+
+Der Kern wird auf Unicode umgestellt, das spart im Endeffekt Arbeit.
+
+Klaus
+-- 
+There's no real need to do housework --
+ after four years it doesn't get any worse.

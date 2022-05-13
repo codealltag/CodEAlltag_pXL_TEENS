@@ -1,0 +1,11 @@
+Am Wed, 7 Jul 2002 sendete Leonhard Wulffen folgende Botschaft:
+
+
+Ich will hier aber nich esc-1-p oder so drücken, das dauert in dtju viel
+zu lange.
+
+Tschüs
+  Onno
+-- 
+Hier sollte eigentlich ein netter Satz aus "Programming Perl" stehen,
+aber leider finde ich ihn nicht wieder.

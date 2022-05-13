@@ -1,0 +1,5 @@
+Sag mir wie ich slrn dazu bringe ein Programm aufzurufen[1] bevor slrn
+die Sig einliest.
+
+Dieter
+[1] Am besten mit NG, Datum, ... als Übergabeparameter

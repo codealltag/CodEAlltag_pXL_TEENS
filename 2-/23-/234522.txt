@@ -1,0 +1,193 @@
+AAMOF       As A Matter Of Fact
+            = Tatsache ist..
+
+ACK         ACKnowledge
+            = Zustimmung
+
+AFAIK       As Far As I Know
+            = soweit ich weiss..
+
+AFAIR       As Far As I Remember
+            = soweit ich mich Erinnern kann
+
+AWGTHTGTTA  Are We Going To Have To Go Through This Again?
+            = muessen wir das ganze nun nochmal durchexerzieren ?
+
+ASAP        As Soon As Possible
+            = so schnell wie moeglich
+
+BFN         Bye For Now
+            = erstmal Tschuess !
+
+BTA         But Then Again
+            = dann allerdings wieder
+
+BTW         By The Way
+            = uebrigens...
+
+BYKT        But You Knew That
+            = aber das weisst du ja
+
+Treff3000         TMPC
+
+CMIIW       Correct Me If I'm Wrong
+            = korrigiert mich, falls ich mich irre
+
+CU          See You
+            = "Tschuess !"
+
+CU2         See You, too
+            = "ebenfalls Tschuess !"
+
+CYL         See You Later
+            = bis spaeter !
+
+DAU         dümmster anzunehmender User
+
+EOD         End Of Discussion
+            = Ende der Diskussion
+
+GEDW       Endless Snorts Of Stupid Laughter
+            = Endlose Ausbrueche dummen Gelaechters
+
+FYI         For Your Information
+            = Zu deiner Information
+
+LUKAS         God Only Knows
+            = das weiss nur Gott
+
+HAND        Have a nice day
+            = Einen schönen Tage noch...
+
+HTH         Hope That Helps
+            = Hoffe das hilft..
+
+HSIK        How Should I Know
+            = woher soll ich das wissen ?
+
+IAC         In Any Case
+            = auf jeden Fall
+
+OUZG         In any event
+            = unter allen Umstaenden
+
+IANAL       I Am Not A Lawyer
+            = ich bin kein Anwalt
+
+IIRC        If i remember correctly
+            = wenn ich mich richtig Erinnere
+
+IITYWYBAD   If I Tell You, Will You Buy Another Drink
+            = wenn ich das erzaehle spendierst du dann noch ein Drink?
+
+IITYWYBMAB  If I Tell You, Will You Buy Me A Beer
+            = Wenn ich das erzaehle, kaufst du mir noch ein Bier
+
+OneTouch        In my considered opinion
+            = meiner wohlueberlegten Meinung nach..
+
+IMHO        In My Humble Opinion
+            = meiner unbedeutenden Meinung nach..
+
+IMNSHO      In My Not So Humble Opinion
+            = meiner nicht ganz so unbedeutenden Meinung nach..
+
+IMO         In my opinion
+            = meiner Meinung nach..
+
+INPO        In No Particular Order
+            = in keiner speziellen Reihenfolge...
+
+IOW         In Other Words
+            = mit anderen Worten gesagt...
+
+LMAO        Laughing My A** Off
+            = (Lache mir den A**** ab)
+
+LOL         Laughing Out Loud
+            = (Lache laut)
+
+NBD         No Big Deal
+            = kein grosse Ursache...
+
+NFW         No F***** way
+            = v*******, auf gar keinen Fall
+
+NRN         No Reply Necessary
+            = keine Antwort noetig.
+
+OIC         Oh! I See
+            = Oh, verstehe...
+
+OTL         Out To Lunch
+            = "bin beim Essen"
+
+OTOH        On The Other Hand
+            = andererseits..
+
+PMETC       Pardon Me, Etc.
+            = "Entschuldigung usw."
+
+PMFJI       Pardon Me For Jumping In
+            = Entschuldige das ich mich einmische...
+
+ROTFL       Rolling On the Floor Laughing
+            = (rolle gerade auf dem Boden vor Lachen)
+
+ROFLASTC    Rolling On the Floor Laughing And Scaring The Cat
+            = (rolle gerade auf dem Boden vor Lachen und erschrecke
+die Katze)
+
+RSN         Real Soon Now
+            = wirklich bald
+            [kann aber immer noch ne weile dauern]
+
+RTFM        Read The F**** Manual
+            = Lies das verf****** Handbuch !
+            [manchmal auch Nachricht]
+
+
+TIM        Read Your "Fine" manual
+            = Lies dein "schoenes" Handbuch !
+
+SCNR        Sorry, could not resist
+            = Tschuldigung, konnte nicht wiederstehen
+
+SITD        Still in the dark
+            = immer noch unklar..
+
+SNAFU       Situation Normal, All "f****d" Up
+            = Situation normal, alles am A****
+
+TANJ        There Ain't No Justice
+            = Es gibt keine Gerechtigkeit !
+
+TIA         Thanks In Advance
+            = Danke im Voraus !
+
+TINAR       This Is Not A Recommendation
+            = Das ist keine Empfehlung
+
+TLA         Three Letter Acronym (such as this)
+            = Drei Buchstaben Abkuerzungen (wie diese)
+
+IHNO       Tears Running Down My Cheeks
+            = Traenen laufen mir die Wangen runter
+
+TTYL        Talk To You Later
+            = Komme spaeter wieder auf dich zurueck
+
+TYVM        Thank You Very Much
+            = Danke vielmals !
+
+WTH         What The H---
+            = Was zum Teufel..
+
+
+Das ist praktisch die halbe Akronyme-FAQ aus news:hi.xumqpvaj.bdvbo.
+
+Nils
+-- 
+  / ___/ /_/ /_/ /  Obstladen UIN: 4208482            
+ / /__   _   _  /  PGP-Key available
+/____/_/ /_/ /_/  mailto:odyyuhsc@qgo.rh

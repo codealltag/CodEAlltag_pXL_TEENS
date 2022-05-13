@@ -1,0 +1,12 @@
+Bisher kam ich mit dem unheimlich komplizierten Ausdruck
+Subject: {dies|unddasnoch|undjenes} immer ziemlich gut über die
+Runden.
+
+Wenn du natürlich eigene Realnamefilter oder so bauen willst, ist es
+nicht mehr so einfach. Agent-Hilfe gucken. Da steht das alles drin.
+
+Theo
+
+-- 
+Die letzten Worte des Kapitäns eines Walfängers:
+"So, den hätten wir am Haken."

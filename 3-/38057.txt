@@ -1,0 +1,10 @@
+Ach ja. Dann habe ich immer mit F8 gestartet und dann bei den
+entsprechenden Einträgen N gedrückt. Hm, aber geht das eigentlich ohne
+installiertes CopyShop?
+
+Detlef
+
+-- 
+"INSUFFICIENT EXTENDED MEMORY FOUND
+ Extended Memory Required: 0 KBytes
+ Extended Memory Found on this computer: -16384 KBytes"

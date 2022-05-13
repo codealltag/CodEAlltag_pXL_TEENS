@@ -1,0 +1,24 @@
+An die Augenfreundlichkeit dieser Konsole kommt keine andere ran.
+IMHO.
+
+
+:-) Das benutze ich nichtmal.
+
+
+Glücksbäck finde ich auch ganz gut.
+
+
+Bisher habe ich noch keine Möglichkeit gefunden dies zu tun. Da Eterm,
+rxvt, waswei�ichterm auch alle diese augenkrebsverursachenden (1) Farben
+haben, sieht es für mich nach einem globalen Problem aus, das
+wahrscheinlich wieder nicht an den Konsolen, sondern an mir liegt.
+Oder ich bin viel zu empfindlich und habe mich einfach schon zu sehr
+an die EBT-Konsole gewöhnt.
+
+(1) Vielleicht kommen manche Leute auf diese Meinung, weil sie slrn
+    mit xterm ausprobiert haben. :-)
+
+Albin
+
+-- 
+cat .signature

@@ -1,0 +1,17 @@
+Naja, ich habe ja ISDN Fallback ;) Aber es ist schon krass wenn man dann 
+merkt wie selbstverständlich man das Netz mittlerweile für tägliche 
+Aufgaben benutzt. Ich erwische mich dann ständig wie ich "mal schnell" 
+einen Begriff an Enave füttern will ohne daß ich eingewühlt bin.
+
+
+Wir haben zwar einen griechische Imbisbude in der Nähe, aber bei dem 
+pfeife ich mir höchstens mal eine Curry Wurst rein. ;-)
+
+Mehr Sensoren als Odometrie, Laser, Kamera und Ultraschall stehen einfach 
+nicht zur Verfügung. Ich habe nur mal gehört daß mit verschiedenen Typen 
+mal rumexperimentiert wurde aber alles nicht so das Wahre war. Gerade 
+feine Bewegungen scheinen mit den Gyroskopen auch nicht so richtig 
+erfasst zu werden. Ein Kompass wäre schon cool, aber da gibt es 
+vermutlich einfach zu viele Störungen.
+
+Walter

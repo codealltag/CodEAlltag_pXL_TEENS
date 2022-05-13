@@ -1,0 +1,9 @@
+Jepp.
+
+mkfs.ext3 /dev/discs/windowspartition
+
+mfg, 
+	Didier
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

@@ -1,0 +1,6 @@
+Nicht wenn der Gruppenname geändert wird.
+
+Alexandre
+
+-- 
+Löscht alt.binaries.*!

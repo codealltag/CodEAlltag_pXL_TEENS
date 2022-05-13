@@ -1,0 +1,7 @@
+Sollte ich koennen. So bis ~3h ohne Netz muesste Problemlos
+brueckbar sein - Der sekundaerakku haelt unter Compile-Volllast
+ungefaehr 2h, der Primaere sollte zum suspenden noch nicht ganz
+am Ende sein...
+
+Ich haette es auch nicht gedacht - Eher weniger erfreulich war da
+eher, dass ich es in der sendmail.cf direkt umstellen durfte.

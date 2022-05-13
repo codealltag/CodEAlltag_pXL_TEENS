@@ -1,0 +1,12 @@
+Okay, klar, hat TWINCORE einen Spool. Den könnte man wohl auch direkt
+nutzen. Nur ist damit ja nicht die Nummerierungssache beseitigt.
+
+
+Aber ich würde doch nur News damit holen und versenden... :-)
+
+Bruno
+
+-- 
+Meliri ImageReady:
+"Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+ should not have been."

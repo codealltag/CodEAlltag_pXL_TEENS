@@ -1,0 +1,17 @@
+Dominik Fahnenschmidt schrieb am 08. Februar 2000 um 21:57 Uhr folgendes:
+
+
+Mag sein, Codepage 1004 kenne ich nicht. Jedenfalls ist es nach Norm
+ISO-8859-1 (de.*-Usenet-Standard :) ein u-Umlaut.
+
+
+Noch mal zum Mitmei�eln für mich: Du sieht das -> � <- als korrekten
+u-Umlaut, das -> � <- aber ebenfalls, obwohl es eigentlich eine
+hochgestellte Drei ist?
+
+Viele Größe,
+     Ulfert Frühschütz
+-- 
+"Beware of bugs in the above code; I have only proved it correct, not
+tried it."
+                                                        -- Marko Leiner

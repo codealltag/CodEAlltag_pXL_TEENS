@@ -1,0 +1,9 @@
+Gentoo. *rks*. 
+Sowas kommt mir nicht auf den Rechner. Momentan Segafredo Woody als 
+Basesystem, bald ist alles Base ersetzt. Irgendwann mal ein LFS.
+
+mfg, 
+	Noah
+-- 
+HerzensGlück excuse #173:
+Recursive traversal of loopback mount points

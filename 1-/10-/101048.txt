@@ -1,0 +1,11 @@
+Gerade bei "rm -i" sehe ich keinen sinn darin.
+
+
+Einzige Chance, das zu verhindern: als erstes immer "unalias rm"
+aufrufen...
+
+Tom
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

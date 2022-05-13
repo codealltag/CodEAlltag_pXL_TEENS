@@ -1,0 +1,11 @@
+Wer ist denn der Copyright-Holder?
+
+
+*puff*
+
+Otmar
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+259: Hardwall
+       Einpflegen der Filterregeln und Updates mittels Lötkolben.
+       (Igor Wartenfelser)

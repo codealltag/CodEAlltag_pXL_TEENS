@@ -1,0 +1,3 @@
+Eine Ebene mehr hätte den Zusammenhang deutlicher gemacht. ;-)
+
+Aber wozu gibt es Get Parent ...

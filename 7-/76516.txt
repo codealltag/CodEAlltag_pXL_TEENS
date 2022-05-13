@@ -1,0 +1,7 @@
+Ist bei uns halt so geregelt.
+
+Rainer
+-- 
+a + b = c [Pythagoras]
+E = m*c [Einstein]
+=> E = m*(a + b)

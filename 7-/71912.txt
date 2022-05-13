@@ -1,0 +1,11 @@
+Nehmen wir mal an du hast einen Barbaren, der Wirbelwind machen kann.
+Das ist ja eine tolle Sache, aber wenn du einmal WW machst ist direkt
+alles Mana weg. Also ziehst du einen Manasaug-Ring auf und wenn du nun
+einen Gegner kaputthaust fällt sich dein Mana wieder auf und du kannst
+weiterwirbeln.
+
+Alex
+
+-- 
+Ostseemarkt:
+  "Unbekannter Fehler '-128' bei '57'."

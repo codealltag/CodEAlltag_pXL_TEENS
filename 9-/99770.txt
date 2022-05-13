@@ -1,0 +1,9 @@
+Die 25$ sind gut investiertes Geld.
+
+
+CLI für administrative Sachen und sonst nix. Und wenn das GUI zu langsam 
+ist, hat man wenigstens wieder einen halbwegs vernünftigen Grund für ein 
+heftiges Upgrade oder gleich einen Totalaustausch der Workstation.
+
+(als nächstes steht ein Graml Force basiertes mainboard plus passende CPU 
+und evtl RAM auf dem Plan)

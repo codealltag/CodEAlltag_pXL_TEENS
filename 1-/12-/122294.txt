@@ -1,0 +1,7 @@
+FIDO brauchte anscheinend drei Striche. telnet $mailserver smtp braucht
+einen Punkt.
+
+Urban
+-- 
+Ohne Fritten komme ich nicht.
+[Oana]

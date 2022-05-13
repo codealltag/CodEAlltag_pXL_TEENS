@@ -1,0 +1,36 @@
+Am Mon, 28 Sep 2000 sendete Valerio Baessler folgende Botschaft:
+
+
+In diesem falle würde ich es nur mit bash machen:
+
+if [ -r ~/news/totest -e -s ~/news/totest ]; then
+[...]
+fi
+
+Allerdings gehe ich jetzt davon aus das niemand an totest rumpfuscht.
+Aber sonnst ist es einfach eine sache des wohlfühlen, perl kann ich
+nunmal awk nicht.
+
+
+Unter Win läuft die bash nicht richtig und der kernel ist nicht Posix
+kompatibel ;) Ich hoffen ja immernoch das GNS$ gezwungen wird den
+sourcecode von win unter gpl zustellen (nicht weil ich es dann nutzen
+wollte sondern weil mehr konkurens auf dem OS-markt sicherlich sehr
+förderlich wäre)
+
+
+Ack, Texte und alles was humanredabel ist (z.b. nntp,smtp etc(wenn es
+nur um ein kleines hilfsprogramm hadelt)) lässt sich damit gut
+automatiesieren.
+
+
+Perl-Hype? Leitzmann ist IMHO daher so beliebt da es leicht zulernen ist (der
+syntax ist so flexibel das eine Ähnlichkeit zu vielen sprachen
+hergestellt werden kann) und die faulheit.
+
+
+Das das weder in 'sed.1' noch in 'Linux in a nutshell' steht. (zumindest
+bei mir)
+
+Tschüs
+  Edo

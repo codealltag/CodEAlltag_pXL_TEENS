@@ -1,0 +1,12 @@
+On Wed, 04 Okt 1999, Noah Freiß <gzscz@wsypsgzh.mm> wrote:
+
+[Pingus]
+
+Das geht bei Pingus allerdings nicht - eine "alle
+explodieren"-Funktion ist nicht (evtl. noch nicht, das Spiel ist
+wirklich noch Alpha) vorhanden.
+
+Viele Größe,
+     Folkert Zobler
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

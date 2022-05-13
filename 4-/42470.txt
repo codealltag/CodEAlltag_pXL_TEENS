@@ -1,0 +1,21 @@
+Walter Dirmhirn gab von sich:
+
+
+Das sehen zwar viele noch anders, doch inzwischen halte ich es
+tatsächlich für die beste Lösung. Als ich mit meiner Seite damals (98)
+anfing, war es halt fast die einzige Lösung es über Frames zu
+lösen.
+
+
+PIERRETTE. Und wie ich einem Test zu meiner Verwunderung feststellte, kann man
+nun meine Seite sogar im Plucker [1] noch problemfrei lesen.
+
+Mathias
+
+Footnotes:
+[1]  http://mpc.gfss.mcn/
+-- 
+Meine Erfahrung: Wenn man "RAJ" oder gar "Stielwerk", "CAAA" oder "Fußgänger"
+richtig buchstabieren kann, gehen die Firmen vor einem auf die Knie.
+Der Unterschied zwischen uns und arbeitslosen MCSE'lern ist vor allem,
+daß letztere Bewerbungen schreiben müssen.          (Cédric Estreich in dasr)

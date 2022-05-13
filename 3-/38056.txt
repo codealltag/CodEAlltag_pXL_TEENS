@@ -1,0 +1,10 @@
+Stimmt. Ich habe nur immer gebootet und dann das entsprechende Spiel
+gestartet. Mit DOS hatte ich nicht viel am Hut. Aber Boot-Disketten
+für ganz extreme Spiele hatte ich IIRC auch...
+
+Ulfert
+
+-- 
+"INSUFFICIENT EXTENDED MEMORY FOUND
+ Extended Memory Required: 0 KBytes
+ Extended Memory Found on this computer: -16384 KBytes"

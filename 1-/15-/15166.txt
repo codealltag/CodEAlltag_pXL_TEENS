@@ -1,0 +1,17 @@
+Es war im September 2004 als Norman Jänigen tippte:
+
+
+Stimmt ja garnicht! ;-/
+
+
+Sag mal habe ich da ein komplettes Release verpennt oder hat man da nur
+eine Versionsnummer übersprungen?
+Ich wollte mir doch gestern Abend noch ein neues Gnus installieren, aber
+die Version aus dem CVS scheint wohl kaputt zu sein. *seufz*
+
+Oskar
+-- 
+Sehr geehrte Herren, 
+ich teile Ihnen hierdurch mit, daß ich mich nach reiflicher Überlegung
+entschlossen habe, der Einkommensteuer nicht beizutreten. 
+                             - Oskar B. Moshack im August 1981 an sein Finanzamt

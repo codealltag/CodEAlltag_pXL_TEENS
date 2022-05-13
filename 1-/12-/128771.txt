@@ -1,0 +1,16 @@
+* Leon Prunes <thhmmtj627273@vyiwqm.hv-b.mv>:
+
+
+Nur als Beispiel:
+
+
+Jeder Artikel, der im From:
+"Patricia Lehnhoff" <Dkwci.Yalyzx@n-rxquwg.us>
+enthält, bekommt 48 Punkte. Je mehr Punkte ein Artikel hat, desto höher
+wird der Thread, in dem er vorkommt, nach oben in meiner Ansicht
+einsortiert. Punkte werden abhängig davon vergeben, ob ich Artikel eines
+Autors oder Subjects lese oder nicht.
+
+Gianni
+-- 
+cross veinless

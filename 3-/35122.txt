@@ -1,0 +1,12 @@
+Arthur Toepper gab von sich:
+
+
+Meinst du nicht eher C-h i? Denn C-c TAB hat hier keine Funktion, das
+kann aber auch an der hier verwendeten cua.el liegen.
+
+Pietro
+-- 
+Die Angabe des vollständigen Realnamens erleichtert die Kommunikation
+im Usenet ungemein, man kann sich dann nämlich auf die Inhalte der
+Postings konzentrieren und muß nicht über Sinn/Unsinn von Pseudonymen
+o.�. diskutieren. (Stefan Lie�egang, lk.kbzwvkad.questions, 14.1.2000)

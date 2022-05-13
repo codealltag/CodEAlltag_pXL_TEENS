@@ -1,0 +1,9 @@
+begin quoting Eilert Maylandt <z-fwa@ihdwbvrfbdi.oe>:
+[diverse unixoide OSs]
+
+Sollte bei einer standardkompatiblen libc eigentlich damit getan sein,
+daß ganze neu zu kompilieren.
+-- 
+Jean-Claude Felgentrebe, 99893 Unterbierbronnen, DE
+My favorite newsgroups:
+it.ggjc.lcrcbh, nz.irb.unf.rtla, qpa.eqo.inrsh-etcbdn

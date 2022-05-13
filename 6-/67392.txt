@@ -1,0 +1,8 @@
+(* Tobias Möschk wrote: *)
+
+
+Bist du wahnsinnig? In der Berufsschule dürfen wir im Moment VB machen. 
+Das läuft ohne Klammern und ist einfach nur grausam - Parameter gehören 
+geklammert, ohne wenn und aber :-)
+
+Nick

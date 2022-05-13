@@ -1,0 +1,11 @@
+Ullrich 'sSXP' Kapuste schrieb am 8. Juli 2001 um 16:16 Uhr folgendes:
+[Guter Stil in C]
+
+Okay; nur können Struktogramme C / <insert your language of choice
+here> eben nicht ersetzen.
+
+Viele Größe,
+     Charles Kugele
+-- 
+Does the name Craß ring a bell?
+                                               -- random fortune cookie

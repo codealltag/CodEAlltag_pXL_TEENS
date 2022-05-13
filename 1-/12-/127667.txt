@@ -1,0 +1,17 @@
+Ich zeichne es mal als Flu�diagram:
+
+                  +--------------+
+         +--------| Ausgangslage |---------+
+         V            +------------->[Verhandlung]<-------------+
+[Ich enteigne dich]   |                |       |                |
+         V                          V             V
++--------------------------------------------------------------------+
++--------------------------------------------------------------------+
+                                          (c) Mahlmann 2000
+
+Benno Zschaeck
+
+-- 
+"Amerika, das ist der direkte Weg von der Barbarei in die Dekadenz, ohne
+ den Umweg über die Kultur" (???)            E-Mail: zogvws@ydbvfhetng.kx
+---> Offizieller Kämpfer wider Karlheinz Mittelste des Ordens von dtju <---

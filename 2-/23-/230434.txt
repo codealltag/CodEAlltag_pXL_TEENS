@@ -1,0 +1,22 @@
+Eben, er braucht die FPU eigentlich nicht.
+
+
+OK, das ist eine FPU-Anwendung, ja. Aber eher ein Ausnahmefall.
+
+
+Und was hat das mit der FPU zu tun?
+
+
+Selbst bei einer 2GB großen Datenbank geht mir nicht in den Kopf wieso man 
+dafür eine FPU brauchen sollte.
+(Ich programmiere Datenbanken. Also hoffentlich hab ich diese Sache nicht 
+die ganzen Jahre falsch gemacht ;-)
+
+
+3D Grafikanwendungen dürfte einen relativ kleinen Prozentsatz sein, aber 
+ok, bei vielen Grafik-Zeug kann eine FPU u.U. nützlich sein.
+Wobei viele Dinge wohl trotzdem über Fixed Point Arithmetik bearbeitet 
+werden.
+
+
+Hab ich das bestritten?

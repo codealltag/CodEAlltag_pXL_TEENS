@@ -1,0 +1,10 @@
+Und so sprach Ulfert Trommeschläger:
+
+
+Henna soll man doch nicht übertünchen. ;)
+
+Thierry
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.l

@@ -1,0 +1,7 @@
+N. dB ist keine Eiheit im Eigentlichen Sinne, nur eine pseudoeinheit,
+eigentlich nur ein logarithmischer Faktor oder so.
+
+Nur die Akustiker vergessen immer, das zu markieren. In der E-Technik
+gibbet dBa, db uvm.
+
+Waldemar

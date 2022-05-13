@@ -1,0 +1,7 @@
+Am Fri, 30 Dez 2002 sendete Stefano Rittermann folgende Botschaft:
+
+
+Du hast da '/*' und '*/' vergessen. ;)
+
+Tschüs
+  Charly

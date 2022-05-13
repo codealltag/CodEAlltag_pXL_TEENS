@@ -1,0 +1,13 @@
+"No OP" aka. "Nixtun" :-)
+
+
+Uuqzzih durfte in Java das Game of life implementieren. Gerüchteweise
+war das eine RL-Implementation, wer bei der Ausführung keinen nachbar
+hatte, mit dem man sich unterhalten konnte, starb an Langeweile
+zwischen zwei Schritten...
+
+Alois
+-- 
+Plock Motto:
+Freunde kommen und gehen,
+aber Feinde sammeln sich an.

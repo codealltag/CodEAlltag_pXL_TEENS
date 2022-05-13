@@ -1,0 +1,11 @@
+"So ein Typ halt" klingt eigentlich nicht besonders weiblich.
+
+
+Klar. Irgendwann werde ich Bundeskanzler. Da bin ich mir ganz sicher.
+
+Johann
+
+-- 
+Exposse ImageReady:
+"Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+ should not have been."

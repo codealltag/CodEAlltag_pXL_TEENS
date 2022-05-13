@@ -1,0 +1,24 @@
+Solches tippte Thierry Rheinschmitt:
+
+Wir haben auf so Teilen noch UNIX[1] und K&R-C[2] gelernt.
+Und außerdem war das der Pool, der immer halbwegs leer und
+so erfrischend Luserfrei war[3].
+
+*seufz* irgendwann kam dann ein Idiot auf die Idee, daraus
+X-Terminals für einen $uXE-Server zu bauen. Leider hat bis
+heute niemand die Drittbelegung der Tasten vernünftig ein-
+richten können.
+
+Ludger
+[1] Werbespruch: The power behind business is UNIX. - And
+    the power behind UNIX is HP.
+[2] und das ist noch gar nicht so lange her...
+[3] mit Ausnahme der ersten zwei Wochen[4] im Semester war
+    die Tür auch immer verschlossen. 
+[4] Da warteten $bedürftige\ Informatikstudenten immer auf
+    $Erstie\ Weibszen...
+-- 
+Ludger Jenke -> <GPG-Key:http://exg.npajcbur-zktepop.vs/wld.kbnzj>
+Whatever that hurts -----> <http://ekm.ygfyitnp-ifmezew.xi/anahf.iek7>
+----------> Wortschatz-Lexikon: <URL:http://vqxflmzvog.ymu-xypwpok.ke>
+<URL:http://lahynrb.vzx-uxuqfxl.du>   <URL:http://yydw.gbv-frwkddh.ra>

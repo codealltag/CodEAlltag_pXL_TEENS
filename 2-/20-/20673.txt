@@ -1,0 +1,18 @@
+Am Wed, 18 Nov 2002 sendete Pierre Beat `Benedikt' Züll folgende Botschaft:
+
+
+Mit 'make'?
+
+
+#+
+felix: ~$ sdl-config --version
+1.2.4
+#v-
+
+keinerlei probleme beim linken.
+
+
+Es ist durchaus anders das Udo-* Spiele.
+
+Tschüs
+  Knut

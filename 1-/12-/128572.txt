@@ -1,0 +1,10 @@
+Und? Agent speichert seine Nachrichten intern AFAIK in einem proprietären  
+Format, das muß auch erst konvertiert werden. Außerdem: Nicht Filter,  
+Konverter. Ein Filter filtert.
+
+Hubert Bigler
+
+-- 
+Zum beliebigen Einsetzen: :-) :-) :-) :-) :-) :-) :-) :-) :-) :-)
+                                             E-Mail: tfbpph@ynkvzbogjj.xk
+---> Offizieller Kämpfer wider Otto Ohrt des Ordens von dtju <---

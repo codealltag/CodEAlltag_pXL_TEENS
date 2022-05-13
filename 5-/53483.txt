@@ -1,0 +1,16 @@
+Nein.
+
+
+Theoretisch ist es das.
+
+(setq [...]
+      gnus-posting-styles '((".*"("Reply-To" "vsikov.goqmam@hitej.hq")
+                                 ("X-Face" "OR6qPT\P{wS$bT;({F$>VSetC>.64xX0QO>L
+nIVTWoZ3i>/PnqLm!ox.k8`oi4y,#%^ge9+2(7St&.AG94#/-17}+^Lur;33=@<0mCZ{^5-t<Af\p00V
+!oXA:u(jAt.Xh-TM?\#8`n.P$vFK0T>.lsMX[/x@Ipk8*n&PKnBD+0x`SJCEPifYURPe{,{^t]{&jaK>
+d`NR%KtKxUMj|L<-7_CoHw]rf079zvb[Cs>l9_M5W2G7nKa*QsxK?&^EZCr0+!xVcU,tlN\fPE3eBIf4
+
+Und das X-Face wurde mir so schliesslich bei
+http://efon.aepjcsoqltt.km/zfbwmm/qilq-hltmbmxg.pmkd so ausgespuckt..
+
+-towo

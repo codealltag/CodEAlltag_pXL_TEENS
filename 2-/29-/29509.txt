@@ -1,0 +1,8 @@
+Aha. Also, ich bräuchte dann einmal /dev/spaten, einmal /dev/schaufel,
+und einmal /dev/pickel. (wie in groszes Werkzeug.) Lässt sich das
+einrichten?
+mfg, 
+	Friedhelm
+-- 
+BOFH excuse #133:
+It's not plugged in.

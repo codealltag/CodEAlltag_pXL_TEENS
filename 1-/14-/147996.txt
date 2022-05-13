@@ -1,0 +1,7 @@
+OS/2 hat auch INIs. Die wirklich wichtigen Sachen (u.a. auch Swap)
+  stehen aber in der Config.sys.
+
+-- 
+Oswald
+  Dadurch, daß man einen anderen ins Irrenhaus sperrt,
+  beweist man noch nicht seinen eigenen Verstand.

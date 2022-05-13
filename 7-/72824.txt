@@ -1,0 +1,19 @@
+Am Thu, 29. 08. 22 sendete Vito Lägler folgende Botschaft:
+
+
+Und wie haben die Kinder zum Mittag geschmeckt?
+
+
+Letzteres finde ich eher unnötig.
+
+
+Also wenn man platzsparend baut (nls und anderen bload raus) braucht man
+für ein luxeriös ausgestattes Gateway 100-150MB Wenn noch server drauf
+sollen max 50 MB mehr(für !var).
+
+Tschüs
+  Elmar
+-- 
+Die Weisheiten des Ferdinand Jup: #3
+
+Gl�sserregale sind zu diesem Zeitpunkt auch nicht sicherer.

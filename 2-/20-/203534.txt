@@ -1,0 +1,9 @@
+Am Wed, 10 Mai 2000 sendete Klaas Coonen folgende Botschaft:
+
+
+Das nicht, der domainpart ist wie jede domainangabe case-insensitiv,
+allerdings sollte man dadrauf achten das der Localpart durchaus
+case-sensitive sein kann.
+
+Tschüs
+  Frerich

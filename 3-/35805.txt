@@ -1,0 +1,18 @@
+ROSA. Bei jeder Software muss man erstmal in die Menüs (oder
+Konfigurationsdateien) gucken um die richtigen Funktionen und deren
+Shortcuts zu finden.
+
+Klar, 'f' für Followup ist sinnvoll, aber wenn es dann zu den
+Funktionen, wie Collapse (all) Thread(s) oder sowas kommt, ist da
+nichts mehr intuitiv zu machen.
+
+Und beim Agent sind solche Funktionen IMO recht leicht über die Menüs
+zu finden.
+
+Gregor
+
+-- 
+Microsoft Visual Basic:
+"Dieses Dokument wurde geöffnet, während die Option Makros aktivieren deakti-
+ viert war. Wenn Sie die Makros aktivieren möchten, müssen Sie das Dokument
+ schließen und erneut öffnen und dabei die Option Makros aktivieren aktivieren."

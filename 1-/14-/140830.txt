@@ -1,0 +1,20 @@
+Kaspar Walner schrieb am 02. Februar 2000 um 00:50 Uhr folgendes:
+[vi]
+
+Was verlangst du von einem "gescheiten" Editor? Soll er klein und
+schnell sein? Unterstützung für alle gängigen Programmiersprachen
+(plus HTML, LaTeX etc.) bieten? Pull-down-Menüs haben? Bzgl. der
+Tastenbelegung frei konfigurierbar sein? Per Makro-Sprache erweitert
+werden können? Dann magst du dir vielleicht jed[1] anschauen.
+
+[...]
+
+Auf einem unvernetzten Einzelplatzrechner hat es das IMO auch nicht.
+
+Viele Größe,
+     Kaspar Seule
+
+[1] brought to you by FERNANDO, aka the author of slrn
+    <URL:http://cogwt.ksc.gzx/~eyqzu/>
+-- 
+A tautology is a thing which is tautological.

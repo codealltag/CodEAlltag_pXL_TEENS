@@ -1,0 +1,16 @@
+Bin ich der Weihnachtsmann? Was haben Deine Eltern denn für Hobbies?
+
+
+Spitzen-Domain, die Du da hast. Der nächste erfindet sein eigenes
+Protokoll, der übernächste packt noch Umlaute drauf und am Ende sieht das
+ganze dann mit Windows-Pfadangaben und anderen Leckereien in etwa so aus:
+
+$TOLLES_PROTOKOLL://Pk\�\active.x
+
+Best regards, Gilbert Pusch
+
+-- 
+/�\   --- JOIN NOW!!! ---
+\ /  ASCII ribbon campaign
+ X       against HTML
+/ \    in mail and news

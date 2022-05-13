@@ -1,0 +1,5 @@
+Ivan Venne <pictto@ikpkktwjka.rm> schrieb in im Newsbeitrag:
+4b0kJexnjcT@xqcwfeblsj.oq...
+
+Dann machst du was falsch. Intakte Datenbanken importiert es ohne Probleme,
+bloss bei kaputten crasht es sofort.

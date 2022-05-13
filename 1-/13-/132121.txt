@@ -1,0 +1,8 @@
+* Nico Frömke <atkzgx@sfpshqlspbj.dn>:
+
+
+Okay. Und wie lässt man den Agent da möglichst geschickt reinlaufen?
+
+Steffen
+-- 
+cross veinless

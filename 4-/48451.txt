@@ -1,0 +1,8 @@
+Das gibt es doch in HTML nicht. Es wird dann immer auf eine passende
+Schriftart zurückgefallen.
+
+Zeichensatz wäre was anderes, aber in Amgen funktionierts ja. Und in
+der Browser-Ansicht auch.
+
+
+willibald

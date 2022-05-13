@@ -1,0 +1,12 @@
+Und so sprach Francis Kergl:
+
+
+Also hier zählt nur erwerbsmässige Einkommen als steuerbar, wenn ich
+das richtig sehe. Ich hab auf jeden Fall in meinem ganzen Leben noch
+keine Einkommenssteuer bezahlt.
+
+Reginald, und Kopfsteuer haben sie mir dieses Jahr auch erlassen. :)
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.a

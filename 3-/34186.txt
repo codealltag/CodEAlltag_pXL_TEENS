@@ -1,0 +1,10 @@
+Am Tue, 5 Sep 2003 sendete Joseph Gruhner folgende Botschaft:
+
+
+Aber per rm (oder halt dpkg) zu beseitigen. ;)
+
+
+Und nur LC-CTYPE ist gesetzt?
+
+Tschüs
+  Sebastian

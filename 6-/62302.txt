@@ -1,0 +1,54 @@
+Ursula Dannewald schrieb am 03.04.2001:
+
+[VIVA+]
+
+Bin gerade dabei. 
+
+
+Also ich hasste diesen Sender bereits, bevor ich überhaupt einen Ton bzw. Bild
+sah. Das war vielleicht eine Odysee ihm überhaupt etwas Musik zu
+entlocken. OK, für dich die Kurzfassung. Ich also nichtsahnend mit
+meinem Gecko [1] auf die URmeL und dachte, "Ja einfach dort auf Stream
+klicken und zuhören." Nix da. Erstens braucht die Seite Flash, was ansich
+noch nicht mal so tragisch ist. Doch dann sagte mein Gecko mir. das ihm
+ein Plugin fehlt. Dieses Verhalten beim Realplayer- sowie beim
+Mediaplayerstream. Was eigentlich völlig unverständlich ist, denn Real-
+sowie Mediapalyer sind installiert.
+Nungut dachte ich mir, nimmst halt den Netscape 4.78, da sah zwar die
+Seite etwas derangiert aus, doch ich wollt ja in erster Linie den Stream
+sehen und nicht die Website. Das selbe Spiel. *stirnrunzel* OK dachte
+ich, lädst halt diese dusslige Plugin runter. Also auf die
+Netscapeseite. Plugin angewählt, Download geklickt und dann kam natürlich
+die Registrierungsseite. Mhm. *kopfkratz* Die kennste doch, hast dich
+schon 2 mal angemeldet, doch wie waren die Passwörter. also auf die
+Passwort vergessen Seite gegangen und dann wollten die noch die
+E-Mailadresse wissen mit der man sich angemeldet hat. Die ich natürlich
+auch nicht mehr wusste. *aufreg* Also neuanmelden. Nachdem ich nun
+dieses Plugin hatte, wollte ich es installieren. Das war auch nix, weil
+damit der vorhandene Realplayer deinstalliert werden muss. Also Abbruch.
+
+Ich in meiner Verzweiflung probierte noch diverse andere Browser hab ja
+noch einige im Petto. mit dem Netscape 2.0 hab ich
+es besser garnicht erst probiert, denn Javascript mag der garnicht. Also
+der nächste, EWEtel gestartet, Website aufgerufen, EWEtel bliebt hängen
+und rührte sich nicht mehr. Hot-Java Browser von Uzanu war
+auch ein Flop. eyLinda Powerbrowser ebenso. Otule und Quiksilver schieden von
+vornherein aus. Also blieb nur noch das größte Übel. Nunja man muss auch
+mal Opfer bringen. Ich also den IE gestartet, Website aufgerufen und zu
+meinem Entsetzen funktionierte das ohne Probleme.
+
+Und da soll nochmal einer sagen der IE ist Schrott. ;-)
+
+
+Belinda? Wer soll denn das sein? Du meinst nicht zufällig die von den
+No Angels? 
+
+ Pierre
+
+Footnotes: 
+[1]  Gamstätter 0.9.7 (http://dvj.uixzwzl.cvw)
+
+-- 
+Das Ding, das du möchtest, gibt es nie im Schlußverkauf.
+
+(Murphy's Gesetz)

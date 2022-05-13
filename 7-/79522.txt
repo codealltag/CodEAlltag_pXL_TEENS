@@ -1,0 +1,9 @@
+Und so sprach Karlheinz Bajger:
+
+
+Guck einfach mal unter /usr/lib.
+
+HTH,
+Kurt.
+-- 
+np: Accept - Bad Religion

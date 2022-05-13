@@ -1,0 +1,8 @@
+Ja, absolut. :-) Hast du denn auch lebens- und manaabsaugende Ringe?
+
+Jean-Luc
+
+-- 
+Aramark ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

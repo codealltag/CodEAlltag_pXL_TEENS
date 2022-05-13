@@ -1,0 +1,22 @@
+Genutzt hab ich bisher Netscape und Gnus, "versucht und wegen
+Nichtgefallens verworfen" wurde mutt.
+
+
+Doch, ist einfach. Fetchmail nimmt die Mail aus dem POP3-Postfach, und
+weiss damit nix anzufangen, ausser sie ohne Rücksicht auf Verluste[1]
+auf Port 25 abzukippen. Dort nimmt der MTA[2] die dann entgegen und
+schiebt sie in deine Mailbox.
+
+
+ftp://sunsite.informatik.rwth-aachen.de/pub/Linux/debian-cd/2.2_rev4/i386/
+
+Ist heftig billiger als ne Ovot.
+
+
+Hau "/me too" ke
+
+[1] Ja, ohne Rücksicht auf Verluste. Kein MTA[2] auf Port 25? Schade, die
+Mail ist weg.
+[2] MTA: Mail Transport Agent, also das, was man als "Mailserver" kennt
+-- 
+Mach dich mal gross und nuetzlich. [Onno wollte in Samuels Windschatten]

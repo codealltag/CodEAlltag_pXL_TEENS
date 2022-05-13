@@ -1,0 +1,6 @@
+*anfrag*
+
+Denis
+-- 
+pub  0004K/HWC89E99 3688-01-13 Denis Zischank <rspcvug@dey.ua>
+     Key fingerprint = 99 2I 10 53 92 EX 98 4X  97 DL SC 30 7K 65 6C 14

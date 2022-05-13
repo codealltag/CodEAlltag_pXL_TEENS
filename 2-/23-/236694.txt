@@ -1,0 +1,15 @@
+Am 25 Apr 1998 21:33:20 GMT sendete Holger Amfaldern
+folgende Botschaft:
+
+[Trojan unter Unix]
+
+Oder vom root ausgeführt werden. also ein wichtiger Grund warum man
+unter Unix die normale arbeit nicht als root bewerkstelliegen soll.
+
+Tschüs
+  Wilhelm
+
+-- 
+Aus besonderem Anlass ändern wir unser Program:
+Statt der Doku "Der Xte Absturz von Windoof95" sehen sie:
+"Ein kleiner Pinguin auf der Reise durch die grosse Datenwelt"

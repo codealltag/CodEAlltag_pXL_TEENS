@@ -1,0 +1,14 @@
+Theoretisch ja. Allerdings sollte ich für tar dann einen Treiber für
+mein Floppy-Tape-Laufwerk haben, und der hei"st, wer hätte das gedacht,
+ftape. Auszer du hast noch irgendwo einen ide-Tape-Drive, der TR-1 oder
+TR-3-Bänder friszt über...
+
+*seufz* ist gut. Das Ding war schweineteuer (vor 7 Jahren), ist fast
+unbenutzt, und dazu noch ein HP. Ist also wahrscheinlich Edelschrott.
+Ich musz wohl mal ein Posting in ka.markt.computer raushauen...
+
+mfg, 
+	Paolo
+-- 
+BOFH excuse #261:
+The Usenet news is out of date

@@ -1,0 +1,6 @@
+Blau!
+mfg, 
+	Eric
+-- 
+IDC excuse #312:
+incompatible bit-registration operators

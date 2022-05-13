@@ -1,0 +1,2 @@
+N, die Kugeloberfläche ist der Rand der Kugel. Die Kugelober/fläche/
+selbst hat keinen Rand.

@@ -1,0 +1,11 @@
+HTML ne schlechte HP und das braucht man für Perl und PHP ja, PHP net
+viel, um zu sagen, ich hab es net geschafft, Formulardaten auszulesen
+:) und Perl 'n paar kleine Spielereien, z.t. zum verarbeiten von
+Textdateien (z.d. die .dat-Dateien von Zitatdatenbanken) und ein Spiel
+und ich mach gerade ein Gästebuch...
+
+-- 
+
+Der Mond ist kleiner als die Erde.
+Das liegt aber auch daran,
+dass er so weit weg ist.

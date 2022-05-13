@@ -1,0 +1,13 @@
+Und so sprach Thorsten Westerhausen:
+
+
+Wah, das erinnert mich an die Prolog-Prüfungsaufgabe mit dem
+Familienstammbaum; mir schmerzen die Handgelenke, wenn ich nur daran
+denke ...
+
+Nick, female(X). male(Y). ancestor(X,Z). ancestor(Y,Z). ...
+-- 
+us  dere  bouschteu  wird  es  fr�idehuus   |  us  em  schnee  vo  geschter  e
+fluss  | & glychschtrom  wird  w�chsuschtrom  |  die wyti wut wartet voruss |
+d gruebe  wird  e  garte  |  us  dere  knacknuss  wachst  e  boum | & d  boum
+treit  honigs�essi  frücht  |  -  dert  isch  scho  wieder  dr  wurm  drin ...

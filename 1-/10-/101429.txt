@@ -1,0 +1,10 @@
+* "Winfried Pfandler" <vgna@orqsbexi.ap>:
+
+
+(setq gnus-cite-minimum-match-count 1)
+
+hast du schon gesetzt?
+
+Karlheinz
+-- 
+cross veinless

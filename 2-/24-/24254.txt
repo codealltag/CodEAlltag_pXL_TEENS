@@ -1,0 +1,7 @@
+Das will ich auf verdammt noch mal hoffen!
+
+mfg, 
+	Otto
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

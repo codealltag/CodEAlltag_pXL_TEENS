@@ -1,0 +1,12 @@
+Ist ja schoen und gut.
+Aber nur weil sie es aus irgendwelchen Gruenden nicht schafft zu aendern
+  (zu faul, zu dumm, zu unerfahren...), braucht sie nicht Jeschkenblick die Schuld
+  geben.
+
+
+Wenn sie es mit Telnet nicht schafft, wird sie es auch vor Ort nicht
+  schaffen (es sei denn, es liegt ein How-To oder FAQ neben dem Server :-)
+
+-- 
+Johannes
+"It is better to die on your feet than to live on your knees."

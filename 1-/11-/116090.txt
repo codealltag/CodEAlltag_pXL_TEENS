@@ -1,0 +1,5 @@
+Na, nich ganz! Du musstest, um die Zentralkraft berechnen zu koennen,
+noch die Winkelgeschwindigkeit berechnen, aber eben die war nicht
+gegeben. Aber das war's auch schon...
+
+Jan

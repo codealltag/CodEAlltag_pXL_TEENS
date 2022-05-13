@@ -1,0 +1,14 @@
+Benjamin Kirchgasser hat geschrieben getan getutet:
+
+
+man Szafspfoten
+
+
+Lokale Variable, das.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Knut 'sergio' Hilgens in sk.wtl.gxxjuzen.ikmrxkdh

@@ -1,0 +1,7 @@
+Tut das denn vernünftig?
+
+mfg, 
+	Serge
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

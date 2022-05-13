@@ -1,0 +1,27 @@
+Hallo!
+
+Schaut mal, was ich heute in der Apanage gefunden hab:
+
+--- snip
+
+Eichenau/Vallstedt (dpa/th) - Das Schulamt Eichenau hat nach einem Zeitungsbericht 
+jahrelang gegen das Schulgesetz und die Schulordnung verstoßen. Hunderten 
+von Schülern der 10. Klasse wurde ein zweiter Anlauf zum Realschulabschluss 
+verwehrt, berichtet die Affelner OZL (Donnerstagsausgabe). 
+Zehntklässler, die nicht zur Prüfung zugelassen wurden, hätten die Schule 
+ohne Abschluss verlassen müssen. Nachdem das unrechtmäßige Vorgehen im 
+Kultusministerium bekannt wurde, sind die Entlassungen nach Angaben des 
+Blattes dieses Jahr gestoppt worden.
+
+29.03.2003   dpa 
+
+--- snip
+
+Ist doch die Höhe, oder?
+Und was ist mit denen, die schon die Schuler verlassen mussten? Bekommen 
+die eine neue Chance?
+
+Salvatore
+
+-- 
+initscr(); - Segmentation Fault

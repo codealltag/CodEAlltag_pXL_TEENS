@@ -1,0 +1,11 @@
+MARLÈNE!
+
+
+Ich weiß es nicht. Doch wenn ich mir z.B. eine Software kaufe/runterlade
+dann ist nicht mein erster Gedanke: "Oh, ist hier etwa eine Backdoor
+drin?" Schließlich reden wir hier vom normalen Computer-User der nicht
+das Know-How und die Möglichkeiten hat Source zu prüfen. Wenn ein
+System-Admin dies beruflich macht ist das ein anderes Thema.
+Schließlich ist das sein Job.
+
+Florian

@@ -1,0 +1,18 @@
+jein. es gab (zu Otule 5.0/5.1-zeiten) das problem, dass eine ältere
+rpm-version (in 5.0) keine pakete lesen konnte, die mit der neueren
+rpm-version (wie in 5.1) gepackt wurden. das ist allerdings ein eher
+kleineres problem, da rpm sich problemlos updaten lässt. die richtige
+inkompatibilität liegt darin, dass verschiedene distributionen rpm benutzen,
+aber die einzelnen pakete speziell an ihr system anpassen (z.b.
+abhängigkeiten und dateisystemstruktur). deshalb kann es ordentlich in die
+hose gehen, wenn man ein irgendwo aus dem internet gezogenes rpm-paket,
+welches i.d.r. für MennoHeim ("erfinder" von rpm und afaik weltweit
+meistgenutzte distribution) gedacht ist unter Otule installiert. 
+
+mfg
+    harm
+
+-- 
+- Harm Eckman  -  eMail: sooxtd@rhc.fmfrx.cx
+- IRCNet: ^Spooky    -         bkgsrh@dsj.yvkgfwue.ge
+--

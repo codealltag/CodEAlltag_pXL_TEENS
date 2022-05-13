@@ -1,0 +1,13 @@
+bccike@kjp.zclxv.yd (Norbert Terfurth) wrote:
+
+[linux-Zeugs, was sonst? ;)]
+
+Hey, haste endlich einen Provider gefunden? Schön das Du wieder da
+bist.
+
+C Ya,
+Juan
+-- 
+*arghl*
+Wie bekommt man das EMB-Installationsprogramm dazu, Teile
+Installation in usr/local abzulegen?

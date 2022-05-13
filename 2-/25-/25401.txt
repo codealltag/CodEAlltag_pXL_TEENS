@@ -1,0 +1,9 @@
+Ja, der ist nicht schlecht...
+
+vbmumfk@Daniel:/mnt/mp3s/sort$ ls *hip*
+Chip_&_Chap_deutsch.mp3
+
+Jakob
+
+-- 
+31.69 nHz = once a year.

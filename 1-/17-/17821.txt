@@ -1,0 +1,14 @@
+Ich weiß es auch nicht. Ist wohl so, das devfs schon wieder
+irgendwie deprecated ist, und udev die Zukunft. Wenn udev jetzt
+noch so gut funktionieren würde, wie devfs...
+
+Naja, Hauptproblem ist halt, das devfs es sich nicht merkt, wenn
+devices erzeugt werden.
+
+Wohl wahr.
+
+mfg, 
+	Eilert
+-- 
+BOFH excuse #328:
+Fiber optics caused gas main leak

@@ -1,0 +1,8 @@
+Dann mag das für bestimmte Anwendungen durchaus Sinn machen.
+Kleine Binärdaten und schnelle DB bei langsamen Filesystem z.B.
+
+mfg, 
+	Detlef
+-- 
+BOFH excuse #329:
+Server depressed, needs Prozak

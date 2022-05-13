@@ -1,0 +1,4 @@
+set(KMMJ.Termin,Kasimir.Date.Acquiry('bedrucktes T-Shirt')+1);
+Kasimir.Behavior.Set(Clothing,KMMJ,'bedrucktes T-Shirt');
+
+-towo

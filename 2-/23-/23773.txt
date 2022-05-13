@@ -1,0 +1,29 @@
+Allerdings. Wie sollte ich auch sonst Postings tippen?
+
+Sonst würde das mit dem Laufen ja auch nicht mehr so gut klappen.
+
+Nein. Ich war gerade damit beschäftigt, Lageenergie in kinetische
+Energie umzuwandeln, als ich feststellte, das mein Vektor, und der eines
+größeren schwedischen w�rmekraftmaschinengetriebenen Gefährtes nicht
+ganz linear unabhängig voneinander waren. In folge dieser Feststellung
+begann ich dann, die kinetische Energie schleunigst in thermische
+Energie umzuwandeln, und gleichzeitig meinen Vektor durch Vektoraddition
+eines orthogonalen Vektors linear unabhängig zu bekommen. Leider war der
+Vektor der Wärmekraftmaschine zu groß, als das ich in der kurzen Zeit
+eine brauchbare Vektoraddition hinbekommen hätte, so daß die
+Wärmekraftmaschine die restliche kinetische Energie meines Gefährtes
+durch elastische und plastische Verformung in thermische Energie
+umsetzte, wohingegen ich meine restliche kinetische Energie mittels
+Reibungsverlusten auf der zugrundegelegten Ebene abbaute.
+
+
+Ich weiß. Hab ich auch schon gemacht.
+Nur andersrum geht das nicht ganz so gut.
+
+Hab hier keine Wiese.
+
+mfg, 
+	Jens
+-- 
+BOFH excuse #202:
+kernel panic: write-only-memory (/dev/wom0) capacity exceeded.

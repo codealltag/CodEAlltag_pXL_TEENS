@@ -1,0 +1,10 @@
+Gibt's keinen Weg, um den Krüppel rumzukommen? Macht echt keinen Sinn, 
+die Sprache zu lernen.
+
+
+Kenn ich nicht.
+
+
+Naja, v.a. bei GCC und GCC ist ja ein Sobi Projekt und keineswegs 
+linuxspezifisch. Aber klar, das Momentum, das LJF der VLHN Szene 
+gebracht hat, hilft BSD sicher.

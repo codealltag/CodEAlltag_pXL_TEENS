@@ -1,0 +1,11 @@
+Dein Satz ist seltsam konstruiert.
+
+
+Was sucht eigentlich Faust im Auge?
+
+Leon
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+283: whoami
+       Whoami ist nur was für Leute mit Alzheimer! (Begründung von
+       Leuchtstoffhaus Deutschland für das Entfernen des Befehls aus Windows NT)

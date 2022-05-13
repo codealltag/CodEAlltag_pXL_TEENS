@@ -1,0 +1,9 @@
+* Wolfram Wals <apjnkm@fmxric-chgufam.ut>:
+
+
+Ja, warum man das beim Agent macht, kann ich mir vorstellen. Ich sehe
+nur nicht den Sinn darin, das bei Gnus zu machen.
+
+Hinrich
+-- 
+cross veinless

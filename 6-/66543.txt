@@ -1,0 +1,13 @@
+Verbogene Klammern infolge des holprigen Datenransports kommen
+schonmal vor. Die kannst du mit diesem Hammer aber sicherlich wieder
+geradebiegen...
+
+ /\
+/  \
+
+Christoph
+-- 
+Das Dilemma des Arbeiters:
+1. Ganz gleich, wieviel man tut, es ist nie genug.
+2. Alles, was man gerade nicht macht, ist viel wichtiger als das,
+ was man gerade tut.

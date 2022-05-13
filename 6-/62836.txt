@@ -1,0 +1,24 @@
+Das wird bei mir per 
+
+;html nicht automatisch anzeigen
+(add-to-list 'mm-inline-override-types "text/html")
+
+erschlagen. Dann "leere" Mails werden ungelesen als Spam entsorgt.
+
+
+Jein. Es gibt irgendwo eine Variable *kram*
+
+
+mit der das abgeklemmt wird, aber wegen der oktal angegeben Rechte ist
+von einem echten UUencoded-Teil auszugehen.
+
+Urs
+
+Footnotes: 
+[1] Der eigentliche begin-end-Bug ist das Erkennen eines Anhangs ohne
+die Rechteangabe, das kann kein uuencoded-Teil sein.
+
+-- 
+Gepriesen sei der Wurm und sein Wasser,
+gepriesen sein Kommen und Gehen,
+möge sein Vorbeiziehen die Welt ordnen.

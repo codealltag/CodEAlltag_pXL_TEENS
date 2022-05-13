@@ -1,0 +1,10 @@
+Uwe 'sSXP' Zschaschel <sJWE@ber.wgp> schrieb in im Newsbeitrag:
+09. 01. 22...
+
+Eben, was hindert dich dann
+# whereis xf86setup
+auszuführen, um es zu finden? (höchstwahrscheinlich ist es aber sowieso im
+Path)
+
+
+Ohja, das Problem kenn ich mit meinen Peripheriegeräten..

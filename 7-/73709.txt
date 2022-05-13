@@ -1,0 +1,12 @@
+Zwei Computer. :-) - Jetzt dürfte das aber nicht mehr drin stehen. Ich
+mache hier eine auf den ersten Blick recht schwachsinnige
+Zwei-Lokale-Server-Lösung und habe nach dem Hamster woanders hin
+kopieren vergessen auszuschalten, dass er X-Posting-Agent nicht setzen
+soll.
+
+Nico
+
+-- 
+UTKJ ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

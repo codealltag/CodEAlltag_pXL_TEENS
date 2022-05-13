@@ -1,0 +1,14 @@
+Am Sat, 13 Mai 2002 sendete Ulrich Ußler folgende Botschaft:
+
+
+Aus /usr/shar/vim/vimrc:
+
+#v+
+iab YDATE <C-R>=strftime("%a %b %d %T %Z %Y")<CR>
+iab DTJU ba.fegk.bihhfq
+#v-
+
+usw.
+
+Tschüs
+  Renato

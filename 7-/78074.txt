@@ -1,0 +1,3 @@
+Wenn er jetzt mit "slrn" startet hast du nicht $nntpserver gesetzt.
+
+Udo, ich tippe auf $NNTPSERVER.

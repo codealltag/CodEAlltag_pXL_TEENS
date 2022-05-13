@@ -1,0 +1,11 @@
+Berend Paßerschröer hat geschrieben getan getutet:
+
+
+Net-HTP
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Charles 'samuel' Angl in dh.mqa.mnwuuxlz.lyiylsmw

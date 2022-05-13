@@ -1,0 +1,9 @@
+Die feiern bestimmt "Der Tag vor der deutschen Einheit".
+
+David
+
+-- 
+Windows NT:
+  "Sie haben nicht die Berechtigung den aktuellen Besitzer anzuzeigen,
+   aber Sie haben vielleicht die Berechtigung, diese zu ändern. Mächten
+   Sie versuchen, den aktuellen Besitzer zu überschrieben?"

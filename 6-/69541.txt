@@ -1,0 +1,14 @@
+Solches tippte Eugen Betge:
+
+/me hat sich heute in Component Ware auch geärgert, dass wieder beim
+Urschleim (CS-Konzept) angefangen wurde, nachdem VB-Quellcode vorgelesen
+worden war. *gruslig* das ganze nennt sich dann "Kernfach" praktische
+Informatik.
+
+Mattas,
+  hart codierten Magic-Numbers hart mißtrauend
+-- 
+;;rebooting universe
+(define (a l m) (if (null ? l) m (cons (car l)(a (cdr l) m)))) (define
+(t h)(define (s h X Y Z) (if (< 0 h)(a (s (- h 1) X Z Y)(a (list (list
+'Von X 'nach Y) ) (s (- h 1) Z Y X) ) ) ) ) (s h 'A 'B 'C) ) (t 64)

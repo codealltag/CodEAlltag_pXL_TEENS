@@ -1,0 +1,10 @@
+* Noah Völlmer <ebze@mmkzmbmh.um>:
+
+
+RAMs sind doch nun wirklich idiotensicher. Da kann man nicht
+falschmachen. Sieht man von den von dir aufgezeigten Varianten einmal
+ab.
+
+Jörg
+-- 
+cross veinless

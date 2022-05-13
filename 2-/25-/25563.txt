@@ -1,0 +1,11 @@
+OK, ich nutze eigentlich nur. Angepackt ist schon Monate her.
+
+
+Saubere Umounts ohne Gegenseite gehen halt nicht so wirklich.
+
+
+Ich weiss nicht.
+
+Thomas
+-- 
+Overflow on /dev/null, please empty the bit bucket.

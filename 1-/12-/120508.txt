@@ -1,0 +1,19 @@
+* Franca Nerrlich <Amqqb.Wbypei@h-sgbzko.hu>:
+
+
+Nehmen wir das einfachste Beispiel, nämlich 1/x. Für x setzen wir n>0
+ein (n Element aus spare ich mir). Der erste Wert, den du erhälst, ist
+1/1, also 1. Der nächste 1/2, also 0,5. Der nächste 1/3 (0,33), 1/4
+(0,25) usw.
+
+Wie du siehst, wird der Zahlenwert immer kleiner. Er nähert sich also
+immermehr 0 an. 0 kann nicht erreicht werden, da es keine Zahl gibt, die
+groß genug ist, um, wenn 1 durch sie geteilt wird, 0 zu ergeben.
+
+
+Macht ja nichts. Lass' es dir aber lieber von den LK'lern hier erklären,
+ich habe nur GK und keine Ahnung. *g*
+
+Willi
+-- 
+cross veinless

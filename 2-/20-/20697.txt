@@ -1,0 +1,28 @@
+Und so sprach Hanno Hillebrands:
+
+
+Bei der Z1 ist 2s für Einschalten und 0.06s Auslöseverzögerung.
+Bildfolgezeit wird mit ca. 1.2s angegeben.
+
+
+1-2s haben wohl auch die schnellsten.
+
+
+Die Postfiliale hat ein Ringbuffer, der es ermöglicht, dass Du einfach aufm
+Auslöser bleiben kannst, wobei immer die letzten 10 Bilder gespeichert
+bleiben, bis Du den Auslöser loslässt.
+
+
+EUR 480.- empfohlen, also 50 mehr als die A70. (In der Schweiz gibt's
+die Z1 aber schon ab umgerechnet EUR 350.-.)
+
+
+Naja, die rechte Seite ist ja wohl ähnlich wie bei der Powershot. Und
+irgendwo muss halt das 10x optisch Zoom rein.
+
+John
+-- 
+                             "I got my radio on
+                    It's playing that same old stupid song
+                       Over and over for much to long"
+                    The Hellacopters - Down On Freestreet

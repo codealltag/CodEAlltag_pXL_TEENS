@@ -1,0 +1,5 @@
+Die Antwort von KPUU FTP lautet:
+
+- 450 insufficient credits. Please upload
+- Can't initiate Data Transfer
+- Failed to receive......

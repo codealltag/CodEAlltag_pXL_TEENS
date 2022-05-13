@@ -1,0 +1,53 @@
+Am Mon, 2 Feb 2003 sendete Fabio Pfaffenschlager folgende Botschaft:
+
+
+*prust* Made my Day. Soll ich das in dan einreichen?
+
+[...]
+
+Dann würde ich doch eher in der vimrc suchen.
+
+
+steht ja hoffentlich drinne, sonnst versucht vim möglichst vi-like zu
+sein.
+
+
+Bei mir so: (IIRC aus dem Zimmers übernommen)
+
+#v+
+# Tastatur in der bash
+
+#set editing-mode vi
+#set keymap vi
+set convert-meta off
+set meta-flag on
+set output-meta on
+
+"\e[1~": beginning-of-line
+"\e[3~": delete-char
+"\e[4~": end-of-line
+"\e[A": previous-history
+"\e[B": next-history
+"\e[D": backward-char
+"\e[C": forward-char
+"\"": self-insert
+
+#######################
+# Codes der Cursor-   #
+# und Funktionstasten #
+#                     #
+#\e[2~  \e[1~  \e[5~  #
+#\e[3~  \e[4~  \e[6~  #
+#                     #
+#                     #
+#       \e[A          #
+#\e[D   \e[B   \e[C   #
+#######################
+#v-
+
+
+Zur Not kannst du mittels 'showkey' herausfinden was das keyboard
+schickt. Ob das auch über ssh funktioniert weiss ich allerdings nicht.
+
+Tschüs
+  Herwig

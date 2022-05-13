@@ -1,0 +1,9 @@
+* Detlef Gutzschebauch <whqvbaf808408@dfindy.ge-l.kb>:
+
+[shutdown]
+
+Linux will eben laufen ... keine aussagekräftigen Sachen im log?
+
+Elmar
+-- 
+cross veinless

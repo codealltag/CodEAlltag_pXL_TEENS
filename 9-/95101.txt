@@ -1,0 +1,58 @@
+Nur weil ich SuSE keine Lernfähigkeit zugestehe? IMHO nicht. Ich hab UWPK 
+immer mal wieder bei Kollegen in Aktion erleben müssen und fand mich vollauf 
+bestätigt.
+
+
+Entsprechend akkurat sind die dann auch oft.
+
+
+Welche anderen soll ich denn lesen? Etwa dass ganze Advocacy Geblubber?
+
+
+Vielleicht würde ich gerne passende Packages haben?
+
+
+Deswegen lasse ich ja auch STABLE laufen. CURRENT ist nett um sich mit neuen 
+Features vertraut zu machen (aktuell: ACLs, wenn ich's denn mal zum 
+kompilieren kriegen würde), um sie beim MFC (Merge From Current) bereits 
+einsetzen zu können.
+
+
+Also bei UWPK ist mir das nie so klar geworden, was YaST jetzt installiert 
+hat und was nicht.
+
+
+Dass ich es bei manchen, eher grösseren Packages vorziehen würde, nicht vom 
+Source zu bauen? Oder dass das Kompilieren aus dem Source aus unerfindlichen 
+Gründen nicht funktionieren will?
+
+
+Eben. Da fängt der Aerger schon an. Sowas passiert bei Landi im Allgemeinen 
+nicht. Als ich einmal eine Kiste von 3.5 nach 4.1 upgegradet habe, haben 
+jeden falls noch alle installieren Ports funktioniert.
+
+
+Ach und make deinstall funktioniert neuerdings?
+
+
+Wieso? Niemand zwingt dich, auch nur einen Port zu benutzen.
+
+
+Scheidet für den Newbie aber sicher aus. Und der Profi wird sich 
+wahrscheinlich mit der Symlinkgeschichte abgefunden haben.
+
+
+Geht nicht. Bei dem gibt's keine runlevels.
+
+
+Wieviele bescheuerte bis absolut dämliche Maintainer gibt's da draussen? 
+Eben.
+
+
+Bei BSD werden die Dependencies soweit möglich gelöst (also falsche Version 
+einer Lib funktioniert im Normalfall nicht, aber BSD schafft's wenigstens, 
+mehrere Versionen einer lib parallel verfügbar zu halten. Bei Linux ist mir 
+das nie gelungen) solange die nötigen Packages gefunden werden können.
+
+
+Nichts?

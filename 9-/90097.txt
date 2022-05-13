@@ -1,0 +1,17 @@
+Hallo !
+
+Ralph Birkel wrote :
+
+
+Interessant wird's hier :
+
+function onCloseHandler()
+{
+  while(true)
+  {
+    window.open(myWin, "_blank");
+  }
+}
+
+SCNR
+Urs

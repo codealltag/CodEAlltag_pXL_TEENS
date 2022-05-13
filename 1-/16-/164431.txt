@@ -1,0 +1,30 @@
+Naja... Dann ist es wohl klar. Vielleicht sollten wir die ganzen Tests
+mal mit umgewandelten ps-Dateien wiederholen. Wird wohl genau
+umgekehrt aussehen. Und dann vielleicht ein Test mit gleichgroßen,
+ungefähr ähnlichen ps und pdf-Dateien. Einen genauen Vergleich
+verhindern wohl die beschissenen Konverter.
+
+
+D.h. er wandelt ein zu fettes "a" in ein "A" um?
+
+
+Siehe oben. Es schwant mir, die Konverter benötigen noch ein wenig...
+hmmm... Entwicklung. Hast du Dir BTW mal den Distiller (ps->pdf) von
+Sparparadies angesehen? Bisher hatte ich vom dem eigentlich einen guten
+Eindruck. Auch seine Funktion, beliebige Druckaufträge direkt in pdfs
+zu wndeln kam ganz gut. Bei mir war der beim Acrobat dabei, so das ich
+nicht weiß, ob der auf Freeware ist...
+
+
+Naja... hem ... SEND BOOK! :)
+
+
+Und bist vor einem Jahr fertig geworden? :)
+
+
+Ich hoffe mal stark, nur der Directors Cut. :)
+
+-- 
+sSXP 
+       "Eine Spezies, die das 20. Jahrhundert überlebt hat,
+       die geht nicht unter." -- Historiker Oetgens, 82

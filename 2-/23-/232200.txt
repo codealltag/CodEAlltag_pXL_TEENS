@@ -1,0 +1,1 @@
+Der Sinn eines Lese-Caches ist es, schneller als ein Device zu sein.

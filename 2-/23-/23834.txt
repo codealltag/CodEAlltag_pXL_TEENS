@@ -1,0 +1,7 @@
+XML sieht aus wie HTML (also <tag> </tag>) und zwischendrin die Info.
+
+mfg, 
+	Hendrik
+-- 
+BOFH excuse #270:
+Someone has messed up the kernel pointers

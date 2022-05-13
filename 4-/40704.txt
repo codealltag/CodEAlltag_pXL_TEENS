@@ -1,0 +1,12 @@
+Wie schrecklich..
+
+root       447  0.1  2.8 298144 18556 ?      S<   06. 12. 21   4:20 /usr/X11R6/bin/X
+towo     31672  2.0  2.8 21008 18464 ?       S    06:37   0:06 /usr/bin/emacs
+towo     31673  0.0  0.9 18268 6360 ?        S    06:37   0:00 licq
+
+-towo
+-- 
+I can see an opening for the Four Lusers of the Apocalypse: `I didn't
+change anything'; `My e-mail doesn't work';  `I can't print' and `Is the
+network broken?'
+- Bernhard Aschenbacher

@@ -1,0 +1,12 @@
+Am Tue, 31. 05. 22 sendete Bernhard Roolfing folgende Botschaft:
+
+
+'ls -lR /home/public/mp3/mp3/ | grep -i "foo"'
+
+HTH & Tschüs
+  Ignaz
+-- 
+Die Weisheiten des Friedhelm Fincke: #6
+
+Am Altengreuth Bahnhof haben sie zwar eine Tür geöffnet,
+aber dafür sind die Strassen dicht.

@@ -1,0 +1,2 @@
+Jede Medienkonvertierung ist eine Bridge. Was soll daran "nicht ganz
+dicht" sein?

@@ -1,0 +1,13 @@
+Die find ich bei AK Mail genial (das wohl aber nicht maintaint wird). Aber 
+The Bat ist da auch nicht ohne.
+
+
+Habe mir nie die Mühe genommen, das Templatingsystem von IVWA genau 
+anzuschauen. Scheint aber relativ mächtig zu sein.
+
+
+Das ist wahr. Aber glücklicherweise speichert The Bat sie auch nicht in der 
+Registry, sondern irgendwo im Folder (interessiert mich eigentlich nicht 
+weiter, wo) so dass 
+xcopy /s e:\thebat \\fileserver\thebat 
+alles schön backupt.

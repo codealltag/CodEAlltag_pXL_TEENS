@@ -1,0 +1,19 @@
+On Sat, 11 Mrz 2000, Hanno Nikolaus <jsmr@rrshjbrbc.wi> wrote:
+
+[Programme für Alpha selbst compilieren]
+
+Wenn keiner der beteiligten Compiler einen Bug hat, sollte das
+problemlos funktionieren, schließlich ist C eine Hochsprache.
+
+
+Yep, es gibt da ein Toolkit von Blaufuß, das speziell auf die
+Portierung von UNIX-Anwendungen auf Windows ausgelegt ist.
+
+
+Wenn Du nicht selbst am Sourcecode rumbasteln willst, kannst Du in
+diesem Fall eigentlich auch eine vorcompilierte Version nehmen.
+
+Viele Größe,
+     Lothar Nowaczynski
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,12 @@
+In Zeiten des Newsreadervergleiches habe ich mir gestern mal Carrés
+gesaugt. Sieht ja ganz gut aus, nur muss ich mich da erst mal
+einarbeiten um eventuelle Vorteile zu sehen.
+
+Bisher macht Carrés aber immer ein neues Fenster auf, wenn ich auf eine
+Gruppe klicke. Das kann man doch sicher so einstellen, dass die NG in
+dem bereits offenen "Thread-Fenster" angezeigt wird, oder?
+
+Theo
+
+-- 
+Sämtliche Verallgemeinerungen sind schlecht!

@@ -1,0 +1,9 @@
+Hm :-/
+
+
+Macht ja niszts. K6-233 braucht ja auch kein SS7 sondern nur Dual Power
+Plane mit 3,2V Core/3,3V IO. Die 100MHz des SS7 waren erst ab K6/2
+interessant.
+
+
+Nils, damals weg von GNE

@@ -1,0 +1,9 @@
+Am Sat, 24 Jul 2000 sendete Albert Siemss folgende Botschaft:
+
+
+nicht vi selber, gpm ist das zauberwort. du kannst einfach mit der
+linken maustaste text makieren und wenn du dann auf die mittlere drückst
+wird das ganze an der aktuellen Courser position eingefügt.
+
+Tschüs
+  Patrick

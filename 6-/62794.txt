@@ -1,0 +1,14 @@
+Am Tue, 10 Mai 2001 sendete Manuel Bleichers folgende Botschaft:
+
+                                    ^^^^^
+            ^^^^^^^
+
+undefined reference
+
+Tschüs
+  Carl, i8255 mit gcc unter wixdos geschädigt. Morgen muss ich das
+         ganze erstmal unter Linux testen.
+-- 
+Die Weisheiten des Jean-Claude Knubben: #4
+
+Send Pixs !!!!!!1

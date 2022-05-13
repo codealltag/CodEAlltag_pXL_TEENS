@@ -1,0 +1,11 @@
+Am Tue, 5 Jun 2000 sendete Wolfgang Jehring folgende Botschaft:
+
+
+1. Mache ich grundsätzlich keinen telnet als root.
+2. der einzige schiedunter dabei ist "$PS1".
+
+
+Für win32 defenitiv.
+
+Tschüs
+  Armin

@@ -1,0 +1,4 @@
+Das sind die Runtime-Bibliotheken, das hat mit der Kompilation recht wenig 
+zu tun. Man kann sie in VB5 glaub auch einkompilieren so daß es nur ein 
+/rieges/ Exe File ist, aber naja, sinnvoll ist das auch nicht.
+Egal, ich mag VB ja auch nicht.

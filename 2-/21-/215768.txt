@@ -1,0 +1,31 @@
+In article <lljc9df83d.6ys.ekmaju@jjetlruitc.psmunq.rmlw.srj>, Julian Zinnhobel 
+wrote:
+
+joo. 
+
+
+backup ist immer gut. dr�berb�geln geht wohl bei UFV nur selten gut,
+besonders wenn das system mit vielen selbstcompilierten extras und updates
+ausgestattet wurde.
+
+
+das wäre mir definitiv zuviel arbeit. 
+
+
+halte ich bei einem UFV-system für die einzige möglichkeit. (ich könnte
+jetzt ne distri-diskussion anfangen, aber ich lass es...) ;)
+
+
+wenn du soweit zufrieden bist und keine probleme mit irgendwelchen neuen
+versionen hast, die du unbedingt brauchst,  warum nicht? (ich hatte bei
+meiner ersten linux-installation z.b. mit der  zeit viel mll angehäuft,
+mein jetziges system ist fast um die hälfte schmaler, die 2.5GB reichen
+wieder)
+
+mfg
+    dirk
+
+-- 
+Dirk Honeder  -  eMail: mdnlec@hvr.iwesz.sw
+IRCNet: ^Spooky    -         omyphc@woy.drsvckra.te
+          --  http://fck.mql.qwlvd.uf/ --

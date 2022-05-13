@@ -1,0 +1,8 @@
+Also sprach Bodo Ellebracht <pss@cazvw.ifl>:
+
+
+Key? Apropos, ließe sich eventuell ein gegenseitiges Keysigning
+unsererseits einrichten?
+
+Bodo, dessen Key auf den Servern liegt, auch wenn die WWW-Suchmasken
+das Gegentum behaupten...

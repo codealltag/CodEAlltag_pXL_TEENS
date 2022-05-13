@@ -1,0 +1,10 @@
+Und so sprach Enno Kay Vocke:
+
+
+Hm, ich weiss gar nicht mehr, wie ihr Vorname war.
+
+Harm
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.j

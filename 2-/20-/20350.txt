@@ -1,0 +1,14 @@
+Nein. Ich hab mal nach dem Fehlerbild gegooglet, anscheinend ist
+das mal wieder Toto-Lotto. Zum Kotzen das Zeugs. Vor allem wenn man
+xmms compilen will, und der *fest* die Zeile 'Config_ALSA=yes'
+drin hat.
+
+
+Das wäre auch fällig, ja. Wobei ich eher noch meine, das es an
+der Zeit wäre, das mal wieder jemand so gute Spiele baut.
+
+mfg, 
+	Engelbert
+-- 
+BOFH excuse #412:
+Radial Telemetry Infiltration

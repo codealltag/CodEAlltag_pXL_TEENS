@@ -1,0 +1,23 @@
+Hilde sprach durch Clemens Johanning:
+
+
+Hmm... *ausprobier*
+
+linux:/home/public/mp3/mp3 # grep 'Foo'
+
+Naja. H. Nichts wirklich. Wie lange darf das dauern? Egal. Nicht, dass
+ich mich auskennen würde... :-/ 
+Da liegen jedenfalls irgendwo zwei Alben rum. *kram* Ohja, fein, mit
+Tipfehler.
+
+linux:/home/public/mp3/mp3/foo fighters # ls
+.                                    1997 The Colour & The Shape
+..                                   1999 There is nothing left to loose
+
+Peinlich, das.
+
+
+Wunderte mich einfach. Schlimm?
+
+-- 
+np: Guano Apes - Lords Of The Boards

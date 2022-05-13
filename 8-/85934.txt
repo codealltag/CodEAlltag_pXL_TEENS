@@ -1,0 +1,6 @@
+(* Gabriele Averes wrote: *)
+
+
+Das Problem heisst "Löschzug".
+
+Roberto

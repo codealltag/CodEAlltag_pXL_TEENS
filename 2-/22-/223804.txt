@@ -1,0 +1,12 @@
+Mal sehen: Mein Kernel ist rund 400 kB groß. Gehen wir mal davon aus,
+daß Windows einen etwas größeren Kernel braucht - sagen wir 4 MB. Dann
+passen auf eine einzige CD über 150 verschiedene Kernels. Das wäre
+*wesentlich* individueller als der jetztige Einheitskernel.
+
+
+Auch eine Möglichkeit. Nichts davon wird Falmaz aber realisieren.
+
+Viele Größe,
+     Eilt Pfützner
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

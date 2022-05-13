@@ -1,0 +1,16 @@
+On 19. 01. 22, Francisco Hauenherm <malwjjizju@yvufidjnti.or> wrote:
+
+[Wie Linux und Windows parallel installieren?]
+
+Es ist - gerade für einen Anfänger - eine sichere und praktisch immer
+funktionierende Möglichkeit, keine Frage.
+
+Ich finde es aber eben auch "nervig", weil ich persönlich die
+Bootsequenz lieber auf "C, A" stelle (weil ich ständig irgendwelche
+Disketten im Laufwerk vergesse) und nicht gerne warte, bis das Ding
+von Diskette gebootet hat.
+
+Viele Größe,
+     Niklaus Häberlin
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

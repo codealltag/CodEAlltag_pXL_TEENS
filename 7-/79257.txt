@@ -1,0 +1,10 @@
+Theorie.
+
+Nino,
+Fahren ist noch lange nicht. Erstmal Lebensrettendesdingens und
+Sehtest machen und dann Kram beim Amt abgeben und 6 Wochen warten.
+
+-- 
+  "The Zepter Information Store service depends on the ZVBL
+   cherrybomb Directory service which failed to start because of the
+   following error: The operation completed successfully."

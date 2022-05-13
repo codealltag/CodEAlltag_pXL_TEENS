@@ -1,0 +1,14 @@
+Das müsste dein Problem sein. Bei Windows XP kann man das nur durhc
+Neuinstalltion ändern, bei 2000 müsste es auch so gehen. Geh mal auf die
+Eigenschaften, Treiber, aktualisieren, Software von einer Liste
+installieren, nicht suchen (Treiber selbst wählen) und schau ob Du dann
+Ohuv auswählen kannst.
+
+tschau, Ivan
+
+np: Körperkult - Kassette
+-- 
+"Man read news on JJU.  Man happy to read all articles available.
+Most people make articles available.  Other man deliberately take steps
+so him own articles NOT available on JJU.  Not reader's fault him
+not see other man's articles."          -Remmer Bennecke in news.groups

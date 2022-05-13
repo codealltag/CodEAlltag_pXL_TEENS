@@ -1,0 +1,11 @@
+Aha. Obwohl ich es nicht wirklich verstehe.
+
+
+vim? hab ich schonmal gehört. Muss ich mir bei Gelegenheit mal genauer
+anschauen.
+
+
+Hab CTI heut installiert und er läuft. Irgendwie muss ich das aber
+mit dem fetchnews noch automatisieren.
+
+Enr 'nur wie stell ich das an?' ico

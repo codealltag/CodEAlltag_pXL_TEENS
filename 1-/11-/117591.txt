@@ -1,0 +1,7 @@
+Dixit Kay Meintzers <sg@jtiozpn.ify>:
+
+Emacs-mule müßte es aber auch können. Ja, hier ist dieses seltsame MS
+MIME OLE ganz i.O.
+-- 
+"The future will be better tomorrow."
+ - Governor Leon Thurow

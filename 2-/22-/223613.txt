@@ -1,0 +1,14 @@
+On 25. 10. 22, Didier Vees <qonnbersom@xdojpudogw.rr> wrote:
+
+[Kernel zu "Analysezwecken" zuschicken]
+
+Für eine umfassende Analyse sind die Sourcen (+ object files)
+natürlich unentbehrlich:
+
+[tststs] /home/tststs > du -Dhs /usr/src/linux
+32M     /usr/src/linux
+
+Viele Größe,
+     Otmar Valck
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

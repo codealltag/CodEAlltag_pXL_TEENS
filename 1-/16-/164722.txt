@@ -1,0 +1,17 @@
+Franco 'sSXP' Nickolei schrieb am 23. Dezember 2000 um 00:49 Uhr folgendes:
+
+
+Wann hast du zum letzten Mal ein größeres Programm compiliert oder
+MP3s gebaut? :)
+
+
+128 MB sind heutzutage in jedem Gunreben-PC drin und die reichen i.d.R.
+auch. Das letzte Mal hat mein Rechner spürbar geswapped, als ich vor
+ein paar Wochen ein Programm ausprobiert habe, das ein riesiges Memory
+Leak hatte (innerhalb von Sekunden ~180 MB Speicher alloziert).
+
+Viele Größe,
+     Jean-Pierre Nothdorf
+-- 
+The fact that no one understands you doesn't mean you're an artist.
+                                            -- "Smart Comments", part 2

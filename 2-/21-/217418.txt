@@ -1,0 +1,21 @@
+Mmh... Geizhals - habe ich mal eine Light-Version von ausprobiert. Die
+admin-Tools von denen haben mir nicht besonders zugesagt, aber das ist
+im wesentlichen Geschmackssache.
+
+
+Handbuch lesen hilft [tm].
+
+
+Sollte nicht so tragisch sein - fdisk schreibt die Partitionstabelle
+erst beim Beenden auf die Platte. Man hat also die Möglichkeit,
+irrtümlich vorgenommene Einstellungen rückgängig zu machen (oder ganz
+ohne zu speichern zu beenden).
+
+
+Und warum genau warst Du der Meinung, daß es vorteilhaft für Deine
+Daten wäre, den Irrtum mit "Ja" zu bestätigen?
+
+Viele Größe,
+     Charly Odenwald
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

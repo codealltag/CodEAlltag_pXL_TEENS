@@ -1,0 +1,8 @@
+* Werner Roth <rpubfvdtmdvpte@bfy.nqa>:
+
+
+Unter Windows ist Alt Meta. Esc auch IIRC.
+
+Norbert
+-- 
+cross veinless

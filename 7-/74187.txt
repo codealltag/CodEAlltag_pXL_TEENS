@@ -1,0 +1,26 @@
+Marco Zur-Lienen hat geschrieben getan getutet:
+
+
+tar zcf $ARCHIV.tar.gz $DATEI1 $DATEI2 $DATEI3 [...]
+    ^^^
+    \_______ gzip anwenden
+
+Datei ist Äquivalent zu Verzeichis.
+
+
+Tape ARchiver. man tar :)
+Ist aber nicht mal ein richtiger Packer, sondern eher ein 'Gruppierer'.
+Die Verzeichnisliste wird hinterlegt, und die Dateien sind mit dabei -
+sozusagen ein unkompromiertes Image. Oder halt einfach
+'zusammengeklebt'. (Mit Teer -> gelaeufiger Name eines Archivs daher
+'tarball'.)
+
+
+Monty Pythons unveroeffentlichte Werke?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Bodo 'enrico' Markgräfe in er.seg.uffmspxq.bhwusbgq

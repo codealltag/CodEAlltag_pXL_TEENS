@@ -1,0 +1,9 @@
+Ja, es geht um ROT42. Hast du nciht Lust, das in LISP zu bauen, damit
+die Funktion gleich im Gnus läuft? 
+
+
+Posten!
+
+Simon
+-- 
+DAS kostet im Bahnhof zwei Mark. [Ottilia]

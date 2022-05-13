@@ -1,0 +1,9 @@
+So mini-Hacks halt.
+
+Ich nicht. Soll aber Leute geben, die ohne `make install' nicht
+weiterkommen.
+mfg, 
+	Timo
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

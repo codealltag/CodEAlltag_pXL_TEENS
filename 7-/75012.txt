@@ -1,0 +1,9 @@
+Na nun klappt es ja, wie du sehen konntest. :-) Ich habe zum Spaß mal
+das include-Verzeichnis hinter --with-openssl-lib= gesetzt und
+plötzlich hat er es angenommen. Seltsam.
+
+Wolfram
+
+-- 
+  "Taru hat ein neues Gerät erkannt. Das neu angeschlossene Gerät
+   konnte jedoch nicht erkannt werden."

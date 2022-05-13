@@ -1,0 +1,8 @@
+* Else Schneppel <vbcr@aycm.qk>:
+
+
+s/stricken/sticken/
+
+Stricken kann ich nicht.
+
+Nils

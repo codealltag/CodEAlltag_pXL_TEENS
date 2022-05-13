@@ -1,0 +1,6 @@
+Ja, klingt irgendwie logisch.
+
+Walter
+
+-- 
+Löscht alt.binaries.*!

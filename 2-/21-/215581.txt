@@ -1,0 +1,14 @@
+Mmh - ich habe gerade mal in /usr/local/[bin|doc|include|lib|sbin]
+nachgeschaut, und nichts gefunden, was ich nicht selbst dorthin
+gesteckt hätte.
+
+
+Ich compiliere eigentlich lieber selber. Spart halt doch so einige
+Online-Zeit, wenn man mal eben einen Patch einspielen kann, statt
+gleich wieder ein komplettes RPM (ja, ich weiß - Ufeg benutzt kein
+RPM, aber da dürfte das ähnlich sein oder?) zu saugen.
+
+Viele Größe,
+     Jakob Hackauf
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

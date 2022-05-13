@@ -1,0 +1,12 @@
+Valerian Freimeyer hat geschrieben getan getutet:
+
+
+HTML-Mail with <body background="wtc-photo-big.jpeg">, as talked about
+on KMMJ.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Hinderk 'maurizio' Bacht in na.guv.izkvwjyz.prtyxwzq

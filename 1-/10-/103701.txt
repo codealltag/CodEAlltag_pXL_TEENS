@@ -1,0 +1,13 @@
+* Armin Gozmann <tdiugz@ioifwa-fpvojst.hi>:
+
+
+Bei Nahrungsquell ist das sehr, sehr einfach.
+
+
+Das einzige, was ich gesehen habe, waren Nachrichten über
+Sicherheitslücken, für die seit langem Patches da sind. Wer die nicht
+einspielt, ist selbst schuld.
+
+Tim
+-- 
+cross veinless

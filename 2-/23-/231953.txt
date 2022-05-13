@@ -1,0 +1,2 @@
+Jo, viele Demos kommen ohne Direct3D etc. terstützung daher, das muß 
+nichts heißen.

@@ -1,0 +1,7 @@
+Also sprach Eugen Zelles <wg@zjeegez.jrz>:
+
+
+Ich plädiere für Emacs. In Verbindung mit Gnus und Hamster wird Usenet
+damit erträglich...
+
+Stephan

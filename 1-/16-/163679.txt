@@ -1,0 +1,24 @@
+Ich würde schauen ob eins Deiner Speichermodule ein Loch hat. Ist mir 
+beim Basteln an unserer Modelleisenbahn auch mal passiert, daß ich ein 
+Loch in ein Chip gebohrt hab ("Wo kommt das schwarze Plastik her?"). War 
+aber kein Speicherchip und der magische Rauch war auch noch drin, er 
+hat's also überlebt.
+Außerdem hab ich von einem Bahamas-Dreieck zwischen North-Bridge, South-
+Bridge und Prozessorsockel gehört. Wenn ein Eck Deiner Speicherchips da 
+hineinragt, dann wundert mich nichts mehr. Noch schlimmer sind nur noch 
+die Bermuda-Dreiecke zwischen Tastatur-Port, Spannungsregler und AGP-
+Einschub, da verschwinden die Speicher-Riegel immer komplett. Ich schätze 
+die materialisieren irgendwo in Taiwan und werden wieder verkauft.
+
+Au man, hab ich das eben geschrieben? Ich glaub ich hab' meine Tage.
+
+
+So war mein "first encounter" auch verlaufen. Vor allem das MC-Interface 
+fand ich echt schlimm, über deja dürften noch meine Parolen a la "jeder 
+Seite verdient eine eigene Browser-Instanz" hier zu finden sein. 
+Mittlerweile finde ich das eine der besten Einfälle seit der Erfindung 
+des ausfahrbaren Becherhalters. Außerdem startet und rendert er so schön 
+schnell, zumindest wenn's keine großen Hintergrundbilder gibt.
+
+
+Nun, ich höre eh SEHR laute Musik :-)

@@ -1,0 +1,8 @@
+Am Wed, 26 Sep 2001 sendete Torsten Britsch folgende Botschaft:
+
+
+Kein Emulator. (Dann hiesse es ja auch Scummemu ;)) Das ist ein
+interpreter. (Oder halt eine VM. ;))
+
+Tschüs
+  Etienne

@@ -1,0 +1,15 @@
+Und die soll ich jetzt alle erzählen? Ne, ne, das wäre etwas arg viel  
+Aufwand. Aber bei Bedarf komme ich gerne darauf zurück.
+
+
+Nein, das ist der Hash aus Titel, Interpret und Länge.
+
+
+Grundsätzlich werden alle Informationen in genormte Dateien gespeichert,  
+zwecks besserer und schnellerer Such- und Sortiermöglichkeiten landen  
+Titel, Interpret, Länge sowie Jahr noch in einer KWUU-Datenbank.
+
+Detlef Kale
+
+-- 
+np: Adele Bohrmann

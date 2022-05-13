@@ -1,0 +1,14 @@
+Am Sat, 21 Jun 2003 sendete Leander Tönniessen folgende Botschaft:
+
+
+Das meinte ich, ja.
+
+#v+
+felix: ~$up -c
+ uptime:  up 0 days, 22:16
+#v-
+
+*heul*
+
+Tschüs
+  Eduard

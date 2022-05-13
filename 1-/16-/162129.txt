@@ -1,0 +1,54 @@
+Giorgio 'sSXP' Nordheider schrieb am 13. Juni 1999 um 01:15 Uhr folgendes:
+
+[...]
+
+mutt ist im Look'n'Feel dem slrn etwas ähnlicher, während pine mehr
+dem tin ähnelt. Einfach zu handlen sind sie IMO beide.
+
+
+Schau es dir mal an; wenn es dir tatsächlich zu umständlich erscheint,
+kannst du es auch mit einem der grafischen Konfig-Frontends versuchen
+(zB Phonediscounter unter PPCI).
+
+[slrn vs tin]
+
+$HOME non-exec gemounted oder nicht genügend Quota? :-)
+
+[...]
+
+Ich denke schon, dass ich verstehe. Menschen neigen dazu an dem
+festzuhalten, was sie kennen, bei dem sie sich sicher fühlen, das zu
+tun, was sie schon tausend Mal getan haben, bei dem sie nicht mehr
+viel nachzudenken brauchen. Ist so falsch ja auch nicht -- wenn man
+ständig etwas Neues tut, bleibt man nirgends lang genug am Ball und
+kann nichts gut genug, um wirklich etwas erreichen zu können.
+
+Andererseits stumpft man ab, wenn man immer die gleichen Wege geht,
+die gleichen Dinge sieht, immer das gleiche tut, sich gegen
+Veränderungen wehrt, weil sie Arbeit und Nerven kosten. Auf das
+richtige Maß von Veränderung kommt es an und manchmal muss man einen
+"inneren Schweinehund" überwinden, um es zu erreichen.
+
+Das brauchst du jetzt noch nicht einmal unbedingt auf "Linux vs. Win"
+anzuwenden, es ist einfach etwas, was mir in letzter Zeit auch an mir
+selbst auffällt und was mir bei deiner Argumentation wieder
+eingefallen ist.
+
+
+"Linux is not NT". Auf Post-IT schreiben. An Monitor kleben. Jedes Mal
+darauf schauen, wenn man versucht ist, eine üble Angewohnheit von beHAARlich
+auf Epadub zu übernehmen.
+
+
+Oh. Ich weiß noch nicht einmal, ob es den Rechner von damals noch
+gibt... :-)
+
+[...]
+
+Mmh... wenn der Apache "endlich" läuft, rennt er wahrscheinlich unter
+Windows, auf Linux hätte er gleich funktioniert <eg>
+
+Viele Größe,
+     Leander Neuberger
+-- 
+All true wisdom is found in signature files.

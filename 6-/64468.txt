@@ -1,0 +1,32 @@
+Na gut. xmms.
+
+
+xview, oder FARMHAUS. :-)
+
+
+Nicht auf diesem PC und mit einem anderen Betriebssystem.
+
+
+Jo, eigentlich schon.
+
+
+Ich glaube Azih hat die Win-Taste per Default ausgeschalten.
+Leider. Ich habe mich dann irgendwie mit /etc/X11/Xmodmap
+durchgeschummelt:
+
+,---[/etc/X11/Xmodmap]--
+`-----------------------
+
+Danach muss man X auch noch erzählen, dass es doch dann bitte auch die
+Xmodmap immer ld, wenn man X startet:
+
+,---[/etc/X11/xinit.d/keyb]--
+`----------------------------
+
+So ungefähr sollte es funktionieren. Danach ist die Win-Taste dann
+Mod4.
+
+Italo
+
+-- 
+cat .signature

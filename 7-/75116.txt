@@ -1,0 +1,12 @@
+Diedrich Uln hat geschrieben getan getutet:
+
+
+Evtl will das Spiel noch ein paar eigene Ports (sehr sinniges System,
+ja).
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ulf 'victor' Mittelste-Werbeck in en.out.cbukxfyi.fgtcxigp

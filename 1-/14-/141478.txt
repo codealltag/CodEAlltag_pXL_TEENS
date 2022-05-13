@@ -1,0 +1,12 @@
+Und so sprach Alfons Weisschuh:
+
+Wozu Tabellen? margin-left/right/... reicht.
+
+
+Auf Win-Maschinen mache ich das auch, weil alles andere nie die
+Performance kriegt (von Mövennest und Computing mal abgesehen).
+
+Gruss,
+Didier.
+-- 
+I-C-H-H-A-S-S-E-S-U-S-E.

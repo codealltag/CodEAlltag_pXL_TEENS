@@ -1,0 +1,10 @@
+KSB. Nebenjob als Wartungspersonal in einer Fräserei.
+Aber ich muß ehrlich sagen, die CNC-Fräsen sind cool. Ungefähr so groß
+wie ein Lieferwagen, arbeiten auf 1/100 mm genau, und auf dem
+Steuerrechner läuft irgendein System V.
+
+mfg, 
+	Renato
+-- 
+BOFH excuse #340:
+Well fix that in the next (upgrade, update, patch release, service pack).

@@ -1,0 +1,17 @@
+Am Sat, 16 Sep 2001 sendete Lothar Kuning folgende Botschaft:
+
+
+Naja, dafür gibt es NiehavesQuerfood. Was wenn man per ftp auf eine Maschine soll die
+www.irgendwas heist?
+
+
+Same bei slrn, Punkte werden abgeschnitten, Fragezeichen nicht.
+Allerdings gibt es noch die Möglichkeit die URL zu editieren bevor sie
+dem "Browser" übergeben wird.
+
+Tschüs
+  Pius
+-- 
+Die Weisheiten des Roland René: #9
+
+Auf das Jup Hoch folgt das RL Tief.

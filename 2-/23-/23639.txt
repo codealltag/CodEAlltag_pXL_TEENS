@@ -1,0 +1,11 @@
+Und so sprach Pius Clüver:
+
+
+Es koennte ja auch Gruende dafuer geben.
+
+Gruss,
+Hubert, suggestiv.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.b

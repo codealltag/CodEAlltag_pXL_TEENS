@@ -1,0 +1,6 @@
+#127 STPO...
+mfg, 
+	Bernd
+-- 
+BOFH excuse #42:
+spaghetti cable cause packet failure

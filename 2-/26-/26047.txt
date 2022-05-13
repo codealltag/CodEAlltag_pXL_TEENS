@@ -1,0 +1,5 @@
+emacs21*font: -xos4-terminus-medium-*-*-*-14-*-*-*-c-*-*-15
+
+-towo
+-- 
+The most common form of marriage proposal: "YOU'RE WHAT!?"

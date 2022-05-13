@@ -1,0 +1,19 @@
+Schon. Aber es gibt doch durchaus Mails, die ich weder unbedingt hier
+durch das hausinterne Netzwerk routen bzw. in der Serverqueue liegen haben
+möchte (immerhin ein Server, auf dem mein Bruder root ist), noch würde
+mich ein Postmaster-Bounce derselben besonders erfreuen. Wie Du zu Ute
+schon richtig sagtest: es gibt Mails, die sollte dann doch tunlichst nur
+die Empfängerin bekommen. :-)
+
+
+Naja, normalen Mailverkehr verschlüssele ich auch nicht; eher signiere ich
+schon mal. PGP-verschlüsselte Mails gibt es nur an die, die selbst
+verschlüsselt verschicken oder das aus irgendwelchen Gründen ("Mails ohne
+PGP sind nur Postkarten") gerne so hätten.
+
+Gruß,
+Burkhard
+-- 
+Burkhard Haubner * NBaugkipww@qpr.id * http://wqzvdfu.fglm.ljckj.gj/
+"Usenetter sind wie Leerkassetten: Wenn sie neu sind, rauschen sie nur, 
+und wenn sie alt werden, fangen sie wieder an zu rauschen."

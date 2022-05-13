@@ -1,0 +1,11 @@
+Urban Rammensee <bjhs@jgfyhulzsdn.re> teilte folgendes mit:
+
+
+Das nimmt ja kein Ende mehr. Jetzt wieder 600.
+
+-be
+
+-- 
+Kaufhold Technische Praxis:
+2.11 - Ein Fehler tritt erst dann auf, nachdem die letzte
+       Kontrolle durchlaufen worden war.

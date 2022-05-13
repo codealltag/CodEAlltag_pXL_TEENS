@@ -1,0 +1,15 @@
+Na bitte, das sieht sich schon ziemlich an. Das ist akzeptabel. 
+
+
+Suspend-to-RAM braucht so lange? Bei mir ist der dann innerhalb von ein,
+vielleicht zwei Sekunden wieder da.
+
+
+danke, aber mein Bedarf an Hardware ist derzeit gedeckt, wenn ich das
+richtig sehe.
+
+Harm
+
+-- 
+Der Commandos-Server KANN mit einer Brandmauer verwendet werden.
+[README.DOC von Commandos]

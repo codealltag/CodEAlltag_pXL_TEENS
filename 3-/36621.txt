@@ -1,0 +1,7 @@
+Samuel Ehrat <gnswy@tfufj.egdb.fv> schreibselte:
+
+
+Ok, Denkfehler, man kann das LZB-eigene DOS auf FAT32 installieren,
+aber gibt es ein reines DOS, das auf FAT32 läuft? Eins ohne Windows?
+-- 
+np: the police - walking on the moon

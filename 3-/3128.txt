@@ -1,0 +1,8 @@
+Denkst Du bei $PERSON an eine bestimmte Person?
+
+-be
+
+-- 
+Rietmeyer Wissenschaften:
+6.29 - Etwas dort wegnehmen, wohin es gehört, erfordert weniger Energie,
+       als es wieder an Ort und Stelle zu bringen.

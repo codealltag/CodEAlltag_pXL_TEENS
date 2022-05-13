@@ -1,0 +1,16 @@
+Darios 'Domenico' Rawe meinte kundzutun:
+
+
+Das hatten wir heute Mittag schon.
+
+Jetzt habe ich gerade andere Probleme:
+
+Wieso hängt sich der mkfs bei den großen Partitionen (50+190G) auf?
+Oder scheint mir das nur so?
+
+Rupert
+-- 
+[17:26] <pathfinder> Muss mich jetzt dann mal Richtung warmes Nass aufmachen,
+                     da ich gegen 18 Uhr aus dem Haus muss um nach KILLWANGEN zu
+                     fahren und LotR-3 ansehen werde.
+[17:27] <Yetiszaf> pathfinder: Spoiler: Er ist Pierres Vater.

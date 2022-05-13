@@ -1,0 +1,8 @@
+Sag das mal nicht so laut. Nacher ist die Bahn bereit, das zu
+zahlen.
+
+mfg, 
+	Jonas
+-- 
+BOFH excuse #373:
+Suspicious pointer corrupted virtual machine

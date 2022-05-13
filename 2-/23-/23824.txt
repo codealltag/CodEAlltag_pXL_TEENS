@@ -1,0 +1,7 @@
+Es ist genau so viel Mathe nötig, wie ich in der Praxis brauche.
+
+mfg, 
+	Hubert
+-- 
+BOFH excuse #270:
+Someone has messed up the kernel pointers

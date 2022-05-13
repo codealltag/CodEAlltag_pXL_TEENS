@@ -1,0 +1,13 @@
+Selbst wenn ich meinem Gecko die Kennung von einem IE 5,5 aufdrücke, 
+[1] kommt die Seite das mein Browser nicht unterstützt wird.
+
+Jochen 
+
+Fußnoten:
+=========
+[1] Man möge mir dies verzeihen, es ist halt nur zu Testzwecken und
+    wurde sofort wieder geändert.
+-- 
+Echt frustrierend, wenn man so vor seiner Hardware
+sitzt und den minütlichen Preisverfall verfolgt...
+(Ivano Hirschbeck in de.comp misc)

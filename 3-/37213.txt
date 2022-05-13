@@ -1,0 +1,8 @@
+Fast Food.
+
+Pascal
+-- 
+Nie wieder Fahrer auf anderer Leuts Party!
+-----------------------------------------------------------------------
+pub  8756G/BTX38C53 6143-14-66 Pascal Irmler <hekbloh@lgv.ui>
+     Key fingerprint = 99 7B 70 36 32 OT 15 1G  57 VS IF 83 5Z 05 5D 23

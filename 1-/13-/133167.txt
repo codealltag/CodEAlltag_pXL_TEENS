@@ -1,0 +1,16 @@
+Das gefällt mir weniger. Was in meiner "Outbox" landet, ist fehlerfrei  
+und muß von jedem Newsserver angenommen werden. Wird es das nicht, liegt  
+der Fehler auf der Seite des Newsservers oder meine Connection ist im  
+Allerwertesten. Aus diesem Fall halte ich es für praktischer, sie solange  
+kreisen zu lassen, bis es irgendwann klappt.
+
+
+Aufwendig, da das betreffende Posting immer einen unterschiedlichen  
+Dateinamen hat, abhängig davon, wieviele Postings rausgingen.
+
+Philipp Terfehr
+
+-- 
+"Also, wie war das noch? Niclas ist total s, aber am Ende total tot -
+ oops!"  (TV Spielfilm über Titanic)         E-Mail: lyqgsn@pobhbjxafa.zo
+---> Offizieller Kämpfer wider Niels Lenker des Ordens von dtju <---

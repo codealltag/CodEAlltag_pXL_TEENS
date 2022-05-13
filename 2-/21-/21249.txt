@@ -1,0 +1,19 @@
+Verschiedene expires oder andere Gründe?
+
+Und ich rede vom Server-Einsatz wie in 'dedicated System, most groups,
+has feeds'.
+
+Schaumermal, ob ich die Buffer irgendwann mal expire.
+
+Warum?
+
+N. Der Rechner an sich schon. Server ist bei mir das Ding was im Keller
+steht, eine USV hat, und nicht allen zugänglich ist. Das Du (und ich
+natürlich auch) Serversoftware auf einem Client betreiben ist was
+anderes.
+
+mfg, 
+	Christian
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

@@ -1,0 +1,8 @@
+dvmk@ocosy-vgxiyo.sni (Luis Judenhahn) wrote in news:6e36jg$pbi$4
+@pneujo.ujy.ml:
+
+
+Wobei man hier aber anmerken muss, das man das auch ohne ASP mit Tevi oder 
+Winterminal Edition haben könnte  (in Firmenlans lässt man die PC 
+vernünftigerweise sowieso von Bootservern booten und benutzt die lokale HD 
+allenfalls zu swappen).

@@ -1,0 +1,12 @@
+begin quoting Leander Wernle <aexugrigntwxbc@xex.ufd>:
+
+Dann braucht man nur noch einen MPEG-4-Hardwareencoder sowie einen
+Software-Codec, der diesen HW-Encoder unterstützt.
+
+Oder man zeichnet schwach komprimiert auf und läßt danach neu
+komprimieren.
+-- 
+"Gesetze können nur abstrakt gefaßt sein. Wenn sie auf einen konkreten 
+Sachverhalt angewandt werden, müssen sie ausgelegt werden. Dabei irren sich 
+Finanzbeamte und Richter."
+(FG Asterlagen, Urteil vom 27.12.1969, CT 116-981/759)

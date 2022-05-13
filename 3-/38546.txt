@@ -1,0 +1,17 @@
+UserEntry Gurk {
+        name  "Hannes Gärthöffner";
+        title "Alessandro";
+        flags +ftrms;
+        pass  [...];
+        mask  *!*pw@*.cgv.d-nahqfm.ydx;
+}
+
+Hmm. Ich hab' da wirklich Szaf als title, nicht Kater.
+Naja, werden eh nie benutzt..
+
+-towo
+-- 
+Warum wird eigentlich zunehmend das gute Usenetprinzip "Keiner hat
+Anspruch darauf, von jedem gelesen zu werden." in Richtung "Ich darf
+jeden Bl�dfug schreiben, weil's eh ja keiner Lesen *muß*" mißbraucht?
+- Juan K. Liborius in ifdestb.sv.knqp

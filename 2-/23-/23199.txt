@@ -1,0 +1,10 @@
+Am Tue, 29 Sep 2003 sendete Emanuel 'Eduard Zurgeißel folgende Botschaft:
+
+
+Obwohl ich (aus aktuellem Anlass ;)) eher \enlargethispage*{\baselineskip}
+oder \enlargethispage*{1cm}, empfehlen würde, da werden dann auch
+unnötige Zwischenräume eingedampft, was doch etwas besser aussieht als
+eine überlange Seite.
+
+Tschüs
+  Orlando

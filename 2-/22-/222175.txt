@@ -1,0 +1,38 @@
+Am 18 Aug 1999 23:02:48 GMT sendete Otto Weißschuh
+folgende Botschaft:
+
+[Umbau des alten rechners]
+
+Upps shit happends. Aber irgendwie kommt mir das bekannt vor, seit in
+dem 386 meiner schwester ein cdrom drin ist tut es das 5,25" floppy nicht
+mehr.
+
+
+Ist ja eigentlich auch egal, sollange ssh und dein rechner laufen.
+
+
+<rekursion>
+Ich meinte ja auch nur den Ramspar effekt ;)
+</rekursion>
+
+
+Kann man per ssh dateien(ausser scripts) transportieren(ich habe mich
+damit nicht auseinadner gesetzt)? War halt die erste möglichkeit die mir
+einfiel um eine datei von dir auf den 386er zu bekommen.
+
+
+Upps doch so lang? Was hast du denn im kernel drin bzw, was werden für
+damons gestartet?
+
+
+Dann ists IMHO ja eigentlich noch zu verschmerzen. Wenn man weis das der
+rechenr so lange zum hochfahren braucht, kann man den PC ja
+dementsprechend früher anmachen (mach ich hier auch so damit mich der
+cron.daily nicht so nervt ;)
+
+
+Frag halt jemanden der sich mit Hardware auskennt, als 386 aktuell waren
+hatte ich meinen Amiga da gabs sollche probs nicht ;)
+
+Tschüs
+  Sergio

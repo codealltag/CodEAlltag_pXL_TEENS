@@ -1,0 +1,10 @@
+Und so sprach Ulfert Montenbruck:
+
+
+Ich find Grapefruits lecker. :)
+
+Ivan
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.k

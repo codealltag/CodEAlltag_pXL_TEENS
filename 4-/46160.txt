@@ -1,0 +1,7 @@
+*g* Könnte mir nie passieren.
+
+Thomas, mußte eben erstmal dem Kontextfilter beibringen, im größeren
+Suchbereich zu suchen
+-- 
+pub  4096R/CFA17C31 2001-10-25 Thomas Nattermann <sdbeyro@twf.hj>
+     Key fingerprint = 99 7B 35 80 55 YI 12 9M  66 SE ZI 19 9W 04 2J 86

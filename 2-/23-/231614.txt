@@ -1,0 +1,10 @@
+Es schrieb HaFu # a-zthcbe.vp folgendes:
+
+
+Naja, wo brauchst Du eine FPU? Bei Sound, Datenbanken und -natuerlich-  
+Grafikanwendungen. Aber in diesem Ziff-Benchmark, der Office etc.  
+nachstellte kam der K6-II auf 94% der P-II Power. Der Vorteil ist  
+natuerlich der Preis...
+-- 
+
+Ciao, Olaf

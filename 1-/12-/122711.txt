@@ -1,0 +1,8 @@
+* Klaus Fuhse <kgchnbmzmqcttm@ify.gkg>:
+
+
+Warum? 5.8.7 ist stable und funktioniert einwandfrei.
+
+Enrico
+-- 
+cross veinless

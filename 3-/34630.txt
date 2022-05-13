@@ -1,0 +1,17 @@
+Ja, man braucht natürlich noch z.B. Federspeicherbremsen, die den Zug zum
+Stillstand bringen, und dann gleichzeitig auch als Feststellbremse dienen
+können.
+
+Mir ist aber noch ein anderer Hinderungsgrund nach Absenden meines
+Postings eingefallen: Man kann natürlich nur angetriebene Achsen auch
+generatorisch ausbremsen, so dass ein lokbespannter Zug wohl erst nach 10
+Kilometern stehen würde, wenn die Waggons keine herkömmlichen Bremsen mehr
+hätten... :-)) Bei Elektrotriebz�gen sollte es aber gehen, und wird wohl
+auch so gemacht. Allein wegen der tollen Stromr�ckspeisung beim Bremsen...
+
+
+Ich weiß nicht. Müsste aber doch theoretisch gehen, die beim Bremsen
+entstehende Energie über irgendwelche Widerstände abzubrutzeln?
+
+
+theodor

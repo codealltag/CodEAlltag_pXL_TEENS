@@ -1,0 +1,7 @@
+[ ] Ich habe einen Zierhopfen.
+[ ] Ich braue mir Bier aus/esse mir unbekannte Pflanzen.
+
+Kay
+
+-- 
+kernel panic: unable to mount brain fs

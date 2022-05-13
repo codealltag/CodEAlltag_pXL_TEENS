@@ -1,0 +1,20 @@
+Ja? Binary-only ist heftig schwerer zu testen.
+
+
+Wenn der Patch von jemandem kommt, der einen Ruf zu verlieren hat,
+dann spiele ich den ein. So vertraue ich z.B. darauf, dass die
+AC-Patches zum Kernel zum einen eine gewisse Qualität haben und zum
+anderen "sauber" sind.
+
+
+Ich traue dem Laden eher weniger als Wolfgang Corvers.
+
+
+Jemand, der ein vitales System betreibt, sollte zumindest ein gewisses
+Maß an Ahnung haben in Sachen Programmierung, damit man mal einen
+Blick drauf werfen kann
+
+Martin
+-- 
+"Your american beer is like making love in a canoe -
+ fucking close to water" [Monty Python]

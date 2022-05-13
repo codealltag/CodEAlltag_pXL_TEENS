@@ -1,0 +1,11 @@
+bjkb@llxs:~$ wget http://qax.faehdli.zb/prq/qtb.lpr
+bjkb@loki:~$ cat > dsf
+#!/bin/bash
+
+grep \\[dsf\ %1\\] dsf.txt
+^D
+towo@loki:~$ chmod 755 dsf
+towo@loki:~$ ./dsf 5.1
+Du darfst dich jetzt wieder erheben. [dsf 5.1]
+
+-towo

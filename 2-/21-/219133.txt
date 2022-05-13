@@ -1,0 +1,22 @@
+In article <qnuv8ccx5t.03.ubemth@sbbtptrati.hfffqy.fztb.ylb>, Wolfgang Zimmann 
+wrote:
+
+...selbst das ist meist "nur" eine sache des puffers, 2MB im vorraus
+dekodiert spart wieder 75% der ruckeler (die ich auf meinem p166 nur mit
+falsch konfiguriertem dosemu hinkriege)
+
+
+da wirst du afaik nichts finden. nichts, was akzeptabel html 4.0, css und
+javascript verarbeitet. und ohne diese features ist das ding (für mich
+jedenfalls) wertlos. deshalb bin ich sehr gespannt auf mozilla 5.0. (der
+aktuelle status von mozilla zeigt eigentlich nur, wie leistungsfähig das
+teil einmal werden wird, geschwindigkeit und stabilität bleiben dabei ganz
+aussenvor). 
+
+mfg
+    leon
+
+-- 
+Leon Kuhny  -  eMail: bvrlcl@zqz.hdumz.np
+IRCNet: ^Spooky    -         zryiaj@szv.yoobbuqu.fl
+          --  http://mqb.qaw.jubes.qv/ --

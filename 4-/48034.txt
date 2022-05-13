@@ -1,0 +1,19 @@
+Das ZIP hat als SCSI-Device eine sehr unangenehme Eigenschaft. Es
+terminiert nicht richtig. Habe hier mein externes 250MB-ZIP als
+letztes Geraet in der Kette gehabt, und danach meldete der
+SCSI-Adapter immer fehlende Terminierung oder aber hing waehrend der
+Initialisierung oder aber noch schlimmer nachher irgendwann.
+
+
+Naja, die Loesung de Problems war eigenlich simpel: Das Zip durfte
+nichtmehr terminieren. Ein externer Terminator brachte aber nicht den
+gewuenschten Erfolg, das System hing immer noch. Also wurde das Zip
+mittels eines Intern-extern-Adapters und eines GEnder-changers in den
+internen Bus miteingebaut. Dazu wurde es halt vorne im Tower
+festgeklemmt. Sieht ziemlich lustig aus, bei Gelegenheit mache ich mal
+ein Pix davon.
+
+David, das 250MB-Zip gibts leider nicht als internes SCSI-Geraet.
+
+-- 
+                   It's not a bug, it's tradition!

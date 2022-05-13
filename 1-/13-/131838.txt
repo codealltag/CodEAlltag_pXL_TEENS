@@ -1,0 +1,16 @@
+Am Mon, 22. 08. 21 sendete Carsten Iserbeck folgende Botschaft:
+
+
+#v+
+17:54:38 ~$ls -l `which less`
+-rwxr-xr-x   1 root     root        73284 22. 08. 21 /usr/bin/less
+17:54:50 ~$ls -l `which more`
+-rwxr-xr-x   1 root     root        22868 22. 08. 21 /bin/more
+#v-
+
+S.
+
+Tschüs
+  Gabriel
+-- 
+Weniger ist mehr.

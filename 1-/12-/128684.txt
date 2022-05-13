@@ -1,0 +1,11 @@
+* Pietro Eisenfeller <gruq@vzblgdhf.bd>:
+
+
+Emacs erst ab Version 21, wenn du ihn auf Konsole benutzt (oder so
+ähnlich, ich habe von Emacs keine Ahnung).
+
+Gnus auf jeden Fall.
+
+Luc
+-- 
+cross veinless

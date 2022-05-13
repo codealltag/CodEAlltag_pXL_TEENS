@@ -1,0 +1,7 @@
+Wie war das noch? Nach Lesen ihrer Postings haben wir wenig erwartet
+und unsere Erwartungen wurden erfüllt? :)
+
+-towo
+-- 
+"Unix was the first OS where you could carry the media and system
+documentation around in a briefcase. This was fixed in BSD4.2."

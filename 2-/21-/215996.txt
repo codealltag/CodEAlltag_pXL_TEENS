@@ -1,0 +1,24 @@
+In <Qpz-Jhmfoa-rit-45577609-zwu-8781@imacl.vc>, Valerius Grond
+schrieb/wrote:
+
+
+Ist einfacher als du denkst. Wenn du auf deiner FP noch unpartitionierten
+Platz hast, kannst du den automatisch einrichten lassen, ansonsten musst du
+neben der normalen Linux-Partition auch noch eine für Swap einrichten. Der
+Rest ist eigentlich selbsterklärend ... IMHO.
+
+
+Jo, Bea. Kannst du gleich bei der Install. konfigurieren.
+
+
+Ich hab mit einer Evaluation Version von der "Linux intern" angefangen (jetzt
+habe ich Ducati 6.1), da war die Installation auf 10 Seiten beschrieben ... 
+
+
+CD 1 einlegen, Bios auf "von CD booten" stellen, fertig.
+
+cu,
+Hilmar
+-- 
+             Homepage @ http://vcpk.bt/ms - OUS @ 5433124
+Nichts geschieht ohne Risiko, aber ohne Risiko geschieht auch nichts.

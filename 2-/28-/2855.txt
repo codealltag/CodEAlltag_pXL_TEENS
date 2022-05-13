@@ -1,0 +1,3 @@
+Ich fürchte, diese Newsgroup hat tail call elimination...
+
+Jens

@@ -1,0 +1,13 @@
+Am Mon, 24. 02. 23 sendete Ralf Beichl folgende Botschaft:
+
+
+Sicherheitsrelevante Software kompiliert man immer selbst. Es ist schon
+schlimm genug das man selten die Zeit und können hat die sourcen zu
+Kontrolieren.
+
+Tschüs
+  Engelbert
+-- 
+Die Weisheiten des Kaspar Jup: #2
+
+Man sollte am frühen Morgen nicht seinen Laptop auseinander nehmen.

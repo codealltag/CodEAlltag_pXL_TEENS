@@ -1,0 +1,8 @@
+Bei traditional spool sind solche Zahlen keine Seltenheit. Wenn man
+auf die wahnsinnige Idee kommt, so etwas auf FAT zu machen, hilft ein
+schneller Prozessor auch nichts mehr.
+
+Viele Größe,
+     Othmar Ulmer
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

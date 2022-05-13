@@ -1,0 +1,14 @@
+Und so sprach Gerald Eßwein:
+
+
+s/^E/Me
+s/jeder/Hut
+s/hat/der hat
+s/eine/drei
+s/Faust/Ecken
+
+Gruss,
+Jacques.
+-- 
+Wer rechtwinklige Wolken schneidet,
+sollte verdunkelt werden.

@@ -1,0 +1,13 @@
+Am Mon, 12 Mrz 2002 sendete Benedikt Deichmeyers folgende Botschaft:
+
+
+Naja, bei eingleisigen Halten (bzw wenn die RB immer[-1] am gleichen Gleis
+Abfährt) kann man schon die Richtung verwuxeln.
+
+
+Kommt darauf an. Bei </= 5 Minuten nur sporadisch.
+
+Tschüs
+  André
+
+-1) Für DB-typische Werte von immer.

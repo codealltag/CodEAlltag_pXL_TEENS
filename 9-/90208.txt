@@ -1,0 +1,16 @@
+Achim Klockner hat geschrieben getan getutet:
+
+
+Wenn du JavaScripten kannst, mach mir mal ein script, was obiges auf den
+Schirm schreibt und bei Klick auf OK dann Fenster schliesst :) (oder
+direkt win restartet :)).
+
+
+Warum auch?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Viktor 'jean' Schwarzbeck in uf.pjs.djlcebqj.nuwtfrtc

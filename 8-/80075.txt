@@ -1,0 +1,9 @@
+export VARIABLE = Value
+
+
+Wäre auch unsinnig, da ich je nach Anforderung ständig umdefinieren
+müsste...
+
+Hermann
+-- 
+All power corrupts, but we need electricity.

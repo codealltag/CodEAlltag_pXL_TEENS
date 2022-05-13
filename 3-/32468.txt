@@ -1,0 +1,10 @@
+Das wird am 18. 05. 21 mal ein wichtiges Kriterium. Bis dahin reicht es,
+wenn man mit kurzem nachdenken und aus dem Kommentar weiss, was die
+Funktionen tun. Ja, ich habe mich irgendwann geweigert, trotz der
+Anweisung "Alles kommentieren" irgendwelchen Trivialscheiss
+kommentieren. 
+
+Hau "Variable x wird mit 7 belegt" ke
+-- 
+"Die Nummer, die Sie gewählt haben, ist imaginär.
+Bitte drehen Sie Ihr Telefon um 90 Grad und probieren Sie es erneut!"

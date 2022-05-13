@@ -1,0 +1,11 @@
+Und so sprach Ralf Zwirner:
+
+
+sendmail, sendmail ... Ahja, das ist ja das Teil, dass da irgendwo
+unter /usr/libexec vor sich hin fault.
+
+Gruss,
+Claudio.
+-- 
+                          ZOUN - the meta project
+                         <URL:http://gtp.hhevchjlk.hq/>

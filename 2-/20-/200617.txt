@@ -1,0 +1,9 @@
+Jau, der Server prüft die Beschwerde auf Keywords, und wenn
+entweder das zuschlägt, oder der Absender auf ner Whitelist
+steht, löscht er automatisch das 'Opfer', bei Providern
+benarichtigt er gleichzeitig den Dial-In Server.
+Wer schreibt sowas? ;-)
+
+cg
+-- 
++++ Ist deine URL zu kurz? +++ http://lcg.jsfxvti.bk/zyx/vqieywus/tzk/lvus +++

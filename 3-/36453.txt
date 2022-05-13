@@ -1,0 +1,9 @@
+In Reihenfolge der Einlieferung. Abhängig von der Reihenfolge des
+Originalservers und ob man von mehreren zieht.
+
+
+Noe - mit Löschungen, CopyIf & Co können schon mal Lücken auftreten, die
+beim nächsten Hamster für eine kleinere H�chstnummer sorgen.
+
+So long,
+Urs H. Faes

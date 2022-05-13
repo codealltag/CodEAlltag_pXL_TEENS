@@ -1,0 +1,5 @@
+Ich glaube, ich habe es gefixt... (nun müsste ich eigentlich nur noch 
+rauskriegen, wie man bei Uhen ein Posting per Tastatur versendet, 
+Ctrl-Enter, wie sonst in jedem vernünftige Proggi, geht irgendwie 
+nicht und unter Keymappings kann ich auch nichts finden, um es 
+einzustellen)...

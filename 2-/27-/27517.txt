@@ -1,0 +1,36 @@
+Volker Dran meinte kundzutun:
+
+
+Wurde mir in der Schule abgewöhnt[0].
+
+
+Man muß (weit) weniger tippen. Und am besten lernt man nebenbei beim immer
+wieder einfach machen.
+
+Ingolf
+[0] $HASSLEHRER[1] versucht, uns ++B/C++ beizubringen während er es
+gerade selber lernt. Ergo macht er haufenweise Fehler beim Programme
+anschreiben. Wenn er dan fragt was das Programm macht und man sagt
+"abschmieren/segfaulten/whatever, weil $FEHLER" zieht er ne Schnute,
+sagt "Aja, das hab ich ja sooo *verbesser* gemeint", und will wissen,
+was er meinte beim  Anschreiben. Naja, man gewöhnt sich dran
+("Kohlenstoff-basierte autokorrektur") und fliegt dann tierisch auf die
+Schnauze, wenn man eben in einer Klassenarbeit einen Zeichenfehler in
+einem Beispielprogramm geflissentlich ignoriert[3] und beschreibt, was
+das Programm eigentlich/vermutlich tun würde. Nein, er ließ nicht mit
+sich reden, denen, die seinen Fehler autokorrogiert hatten (wie so
+üblich) die Punkte trotzdem zu geben. Ja, diese fehlenden Punkte hätten
+mich eine Note höher gebracht. Ja, das hätte Auswirkungen auf die Endnote
+gehabt. Ja, ab da wurde er *vermehrt* *immer wieder* mit der Nase in
+seine eigenen Schei�eh�uf^WFehler gestupst.
+[1] Wir haben zwar gelegentlich in seiner Stunde auf einem unbesetzten
+Rechner einen Abschu�sklaven[2] mit seinem Namen laufen lassen, aber
+wirkich umbringen würde ich ihn nicht wollen. Dafür war er einfach nur
+zu softie/doof.
+[2] QII
+[3] Es war nicht der erste Fehler, den er in einem Beispielprogramm für
+eine Aufgabe machte.
+-- 
+Leo findet meine Signtur doof, deswegen hat er mich beim
+buran01 verpetzt, und der hat jetzt meine .signature zensiert,
+dieser .-%$�$%CARRIER LOST

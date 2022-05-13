@@ -1,0 +1,10 @@
+Mir gehen die Sommerferien regelmaessig dermassen auf die Nerven, dass
+ich mich auf die Schule freue. Mir bekommt es bedeutend besser, 3-5
+Wochen zu arbeiten und dann noch eine Woche auszuspannen.
+
+Dein Quoting ist etwas suboptimal.
+
+Claudio
+
+-- 
+kernel panic: unable to mount brain fs

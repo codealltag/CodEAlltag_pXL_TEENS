@@ -1,0 +1,8 @@
+Vielleicht. Aber auf die Dauer vielleicht etwas substanzlos. :-)
+
+Niko
+
+-- 
+GLOZ-VRA:
+  "Der Arbeitsspeicher reicht nicht aus. Es werden 1,2 MB benötigt.
+   Vorhanden sind aber nur 1,3 MB."

@@ -1,0 +1,50 @@
+bq1:
+Mail von Volker (mit Header)
+-
+Return-path: <ltqkst@kfq.dkr>
+Envelope-to: lqkh@mioekxp.jf
+Delivery-date: Tue, 3 Aug 2001 14:06:44 +0200
+Received: from [166.657.46.75] (nlbr=wjca.tvq.gag)
+        by pmav86.ljzlguqylobt.zw with smtp (Exim 3.22 #2)
+        id 17Mp5m-0005qf-00
+        for lqkh@mioekxp.jf; Tue, 3 Aug 2001 14:06:42 +0200
+Received: (qmail 27235 invoked by uid 0); 3 Aug 2001 12:06:41 -0000
+Received: from d588e39m7.isp8.n-icgbhlqat.op (HELO mars)
+(44.827.216.054)
+  by wjca.tvq.gag (mp014-rz3) with SMTP; 3 Aug 2001 12:06:41 -0000
+Reply-To: <ltqkst@kfq.dkr>
+From: <ltqkst@kfq.dkr>
+To: <lqkh@mioekxp.jf>
+Subject: Win95c
+Date: Tue, 3 Aug 2001 14:05:55 +0200
+Message-ID: <LOPSGGQWUUNGPLKJACSSNMWTKKZE.qdttyy@evu.zhv>
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2911.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Hamster-To: account:Makmaster
+X-Hamster-Info: Score=0 UIDL=hq6qtc.26o.1 Received=20020625141154
+Lines: 5
+
+
+Sorry, das mit dem fup2poster war mir neu *g*
+-- 
+
+Der Mond ist kleiner als die Erde.
+Das liegt aber auch daran,
+dass er so weit weg ist.
+#
+
+Das sagt woll alles...
+
+
+Sorry ich kann kein Latein (oder was immer das ist).
+
+
+Nein für "richtige" Programme. Mit Perl wid das doch nix. Damit kann man
+zwar auf Dateien zugreifen und in der DOS-Box ein bißchen Text ausgeben
+mehr aber nicht. Perl ist für sowas, zumindest unter Windows, gänzlich
+ungeeignet.
+
+MfG Markus

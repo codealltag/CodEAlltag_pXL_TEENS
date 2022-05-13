@@ -1,0 +1,18 @@
+Und so sprach Wilhelm Sabottka:
+
+
+Rettet den Regenwald?
+
+
+Du redest jetzt von CAH?
+
+
+Du darfst Dich ruhig aussprechen, ich glaube, ich kann es ertragen. ;)
+
+Die NetBSD Patches richten AFAIS nur Pfadangaben in configure und
+Makefile.in.
+
+Gruss,
+Sven.
+-- 
+Summer is a moving creature and likes to go south for the winter.

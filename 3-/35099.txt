@@ -1,0 +1,8 @@
+* Achim Wehebrink <OplpkjLevrol@olu.ph>:
+
+
+Das ist kein Gnus-Problem, das ist ein Problem deines XEmacs.
+
+Oort empfielt sich aber trotzdem.
+
+Kasimir

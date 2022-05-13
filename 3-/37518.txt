@@ -1,0 +1,23 @@
+Ja, das schätze ich. Sowas kommt öfter vor. Deswegen muss nicht gleich das
+ganze Stellwerk ausgefallen sein. Ein Signal, das - warum auch immer -
+sich nicht auf grün bewegen lässt, ist fast schon alltäglich.
+
+
+Hmm, bin kein Signaltechniker. :-) Das Zs1/7 scheint aber unabhängig vom
+Signal einfach im Stellwerk "an- und ausgeknipst" zu werden. Es lässt sich
+also auch noch schalten, wenn die komplexe Signalsteuerung nicht mehr
+reagiert.
+
+Ausserdem impliziert zumindest Zs7 auch "Fahren auf Sicht" (z.B. können
+Bahnübergänge noch offen sein). Bei Grünsignal dürfte man losheizen, ohne
+ein Hindernis erwarten zu müssen.
+
+
+Ja, bis auf vielleicht irgendwelche Rangierloks oder so. Ohne diese sog.
+"Indusi" bekommt man keine Zulassung zur Personenbeförderung. Es gibt aber
+wohl noch ein paar ganz wenige gammelige, nur langsam (<100 km/h)
+befahrene Nebenstrecken, wo die Technik *streckenseitig* noch nicht
+eingebaut ist.
+
+
+diedrich

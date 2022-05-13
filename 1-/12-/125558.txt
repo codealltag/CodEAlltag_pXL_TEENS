@@ -1,0 +1,5 @@
+Ach, es gibt Leute die sowas nicht haben? ;-)
+
+Nein, eine Grundvorrausetzung sollte der Editor haben, mehr braucht man 
+nicht: er sollte nach Enter in einer neuen Zeile auf die Anfangsspalte 
+der letzten Zeile springen. Der Rest ist Schnickschnack.

@@ -1,0 +1,13 @@
+Clemens Vervoorts <ersgyqq.egwpi@tnt.pf> schrieb in im Newsbeitrag:
+5716csq7oypdw1br2atcvp2li12szrf119@0hg.yeo...
+
+Die MTBF hängt sehr damit zusammen, das IDE Platten viel mehr arbeit
+verrichten müssen, da brauchbare SCSI Controller Zugriffe so organisieren,
+dass der Lesekopf nicht dauernd am rumsuchen ist...
+
+
+Wenn man das kann. Aber wer sowas kann, weiss auch, dass man Backups
+braucht...
+
+
+Du verkaufst Hardware?

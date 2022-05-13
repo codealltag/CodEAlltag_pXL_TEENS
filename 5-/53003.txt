@@ -1,0 +1,8 @@
+Am Sun, 10 Sep 2002 sendete Jean-Luc Salvenmoser folgende Botschaft:
+
+
+Wenn ich YDATE eingebe wird das automagisch zu "Mon Sep 12 15:07:52 CEST
+2002" DTJU wird zu "de.talk.jugend" usw.
+
+Tschüs
+  Igor

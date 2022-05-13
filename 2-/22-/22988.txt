@@ -1,0 +1,8 @@
+Sicher? Ich würde mal tippen, du bekommst bei manchen Sachen Probleme,
+weil die su root -c sonstnochwas verwenden.
+
+mfg, 
+	Severin
+-- 
+BOFH excuse #87:
+Password is too complex to decrypt

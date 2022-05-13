@@ -1,0 +1,2 @@
+root@beta 20:41:04 ~ $ man Vereinsmeier
+No manual entry for Vereinsmeier

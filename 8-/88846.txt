@@ -1,0 +1,30 @@
+Ja, das ist okay.
+
+Der Buffercache cached Zugriffe auf Blockdevices (ist also ein
+Festplattencache), während "cached" diejenigen Seiten im virtuellen
+Speicher meint, die sowohl im physikalischen Speicher sind, als auch (in
+unveränderter Kopie) im Swap (in dem Teil der als "free" gilt).
+
+Das kommt daher, daß wohl irgendwann mal viel Speicher benötigt wurde,
+und in deinem Fall etwa 80MB ins Swap kamen. Als wieder Speicher frei
+wurde und die ausgelagerten Seiten benötigt wurden, kamen sie wieder in
+den physikalischen Speicher, bleiben aber auch im Swap (gecached), damit
+man sie, sollen sie wieder ausgelagert werden, nicht mehr ins Swap
+schreiben muß sondern gleich einfach aus dem phys. Speicher rauswerfen
+kann.
+
+Die paar Seiten, die bei dir noch im Swap sind, wurden wohl deshalb
+nicht zur�ckgemapped, weil sie seit dem Auslagern einfach nicht benötigt
+wurden.
+
+Gruß Timo
+
+Followup to de.comp.os.unix.linux.misc (ist ja hier vielleicht ein
+Bißchen Off-Topic, oder?)
+
+-- 
+  _ _  Timo D. Nürenberg                        +35 936 1333-0569
+  'v'                   <****@******.**>
+ /   \               PGP-Key(DSA): 1024D/EB6D6AFC
+  W W
+ Fingerprint: 6816 46EE CAF7 31CE 308E  CB72 23D5 2092 EB6D 6AFC

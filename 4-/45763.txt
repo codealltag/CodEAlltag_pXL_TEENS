@@ -1,0 +1,37 @@
+Am Mon, 09 Feb 2003 sendete Franco Jocob folgende Botschaft:
+
+
+Freiheit schliesst die Freiheit sich selber Freiheiten zu verbauen
+durchaus mit ein. (In einem gewissen maße).
+
+
+FELICITAS. Aber das ist ja ein generelles Problem des Datenschutzes. Wenn z.B.
+die Photos aus einer Verd�chtigensammlung auf einer Müllkippe auftauchen
+(so letztens geschehen) ist das genauso ein Problem wie z.B.
+Ermittlungsakten (und seien es nur irgendwelche .docs des
+Schriftverkehrs) auf einen per smb freigegebenen Rechner.
+
+Das Problem ist eigentlich kein neues, aber dank der Softwareindustrie
+"Programme haben nunmal Fehler" ist das Sicherheits und
+Qualitätsbewusstsein doch um einiges unterentwickelter. Dazu kommt noch
+blindes Vertrauen in die Technik.
+
+
+Was IMHO vorallem daran liegt das eins noch kein freies "Enduser" OS
+gibt. Für Unixes braucht man entweder eine gute Portion Wissen oder
+jemanden der selbiges hat und root spielt. Da helfen auch keine
+zuckerbunten Installer/Wizards/GUIs.
+
+[...]
+
+Da würde ich mich weigern Windos zu installieren (mal davon abgesehen das
+ich das eh nicht könnte bzw noch nie versucht habe) oder irgendwie anders
+Support zu leisten. Nicht als Druckmittel, sondern einfach um meine
+Nerven zu schonen.
+
+Tschüs
+  Volker
+-- 
+Die Weisheiten des Guy Jup: #5
+
+Winkis Chilli rockt.

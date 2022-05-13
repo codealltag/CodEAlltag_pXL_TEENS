@@ -1,0 +1,7 @@
+Story dazu vorhanden?
+
+mfg, 
+	Wolfram
+-- 
+BOFH excuse #113:
+Root nameservers are out of sync

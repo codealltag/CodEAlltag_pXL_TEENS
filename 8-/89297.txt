@@ -1,0 +1,5 @@
+Denis Eykers <xxbv@lufdcvcz.dp>:
+
+
+Interessant. Mit welchen Funktionen bekommst du Inhalte aus dem Body in
+die Message-ID?

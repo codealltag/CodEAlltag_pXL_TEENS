@@ -1,0 +1,18 @@
+Wahrscheinlich lag es an irgendetwas der folgenden Dinge, die dein
+System nicht unterstützte:
+
+1280 x 1024
+True Color (24 Bit)
+Soundcard
+With 26 Fonts
+Milleder Front
+Page Express
+NO Frames!
+Javascript
+Java
+
+Valerio
+
+-- 
+Hast du dich auf den Unterricht vorbereitet, kommst du nicht dran. 
+Es sei denn in dem Teilgebiet, der dir am wenigsten liegt.

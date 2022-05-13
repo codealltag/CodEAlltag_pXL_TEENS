@@ -1,0 +1,16 @@
+Solches tippte Noël Forstreiter:
+
+Also als auf den Teilen im JPD-Pool (auf denen vorher /immer/ DeadRat
+gelaufen war) auf einmal auf einer Maschine ein richtiges IRIX lief,
+das aber genauso scheisze aussah wie das zerkonfigurierte DeadRat, hat
+es schon ne Weile gedauert, bis mir das aufgefallen ist, namentlich
+weil sich der gcc beschwerte, dass die OpenGL-Bibliothek doch wohl
+nicht für MIPS geeignet sei ;-)
+
+Leander
+� 30 Sekunden? Es war ja noch N8.
+-- 
+Lars Grohskopf -> <GPG-Key:http://udy.mgrzjnbj-lmmoorl.xh/jrg.xgxou>
+Whatever that hurts -----> <http://iho.eoljgxyk-zfckwjp.li/wzqwq.abz4>
+----------> Wortschatz-Lexikon: <URL:http://bwusbzrqvm.str-wotgyig.zx>
+<URL:http://gxsrntr.rlj-urftavd.wq>   <URL:http://bhsh.psc-fhpbudi.tw>

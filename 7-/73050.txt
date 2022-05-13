@@ -1,0 +1,9 @@
+F: Wie kannst du dir da so sicher sein?
+
+Beat
+
+-- 
+StarOffice 4.0:
+ "Das Dokument wurde für den Drucker BILT Bubble-Jet BJ-200
+  formatiert. Der Drucker ist nicht vorhanden.
+  Soll der Standarddrucker BILT Bubble-Jet BJ-200 verwendet werden?"

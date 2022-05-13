@@ -1,0 +1,15 @@
+Am Sat, 13. 06. 22 15:16:03 GMT sendete Dirk Ingenhoff
+folgende Botschaft:
+
+
+Und wieso behaupten hier alle das Gipo ein echter Newsserver ist?
+
+
+Allso haben sie Doch ein Problem damit.
+
+
+Wieso erzeugt GZV dann überhaupt eine Msg-ID? Und selbst wenn wfi eine
+Msg-Id braucht kann man diese ohne rewriting erzeugen.
+
+Tschüs
+  Lars

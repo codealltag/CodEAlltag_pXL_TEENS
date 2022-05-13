@@ -1,0 +1,24 @@
+Am Mon, 8 Jan 1999 sendete Clemens 'sSXP' Ihlefeldt folgende Botschaft:
+
+
+Einfach ist relativ, es gibt auch leute die beuhaupten Raso sei
+einfach.
+
+
+Nur drei? Tausende.
+
+
+Die bereit sein nameserver für deine domain zu spielen, dir gehören
+müssen sie nicht.
+
+
+DNs ist hierachich wenn ich meinen dns-server sage such mir mal die ip
+für www.oexnpyud�nwga.sx raussuchen guckt der erst nach welcher
+nameserver für de zuständig ist dann fragt er den wer den für
+cmxtfkqy�lqln.pd zuständig ist und den nameserver fragt er dann welche
+IP www.oexnpyud�nwga.sx hat. Wenn du jetzt die domain
+cmxtfkqy�lqln.pd haben willst musst du dem Zypresse nur sagen das dein
+rechner Nameserver dafür ist.
+
+Tschüs
+  Gülen*wer findet den fehler?*lix

@@ -1,0 +1,8 @@
+Ich weiß es nicht, und ich will es lieber nicht testen.
+
+Niclas
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+285: Backup
+       Die durch nichts begründete Vermutung, daß die Daten vom Freitag am
+       Montag noch lesbar seien. (gefunden von Patrick Ußfeller)

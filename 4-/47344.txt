@@ -1,0 +1,11 @@
+Wieso? Funktioniert :-)
+
+
+Besser, das. Und schreib die Key-ID dazu :-) Und achte drauf, daß die
+Primary User ID deinen Realname enthält, damit man ihn besser findet
+*szomasszafanszau*
+
+Christoph
+-- 
+pub  4159H/KJJ95B84 0507-77-94 Christoph Niederwieser <vhlmkis@lnl.pz>
+     Key fingerprint = 99 7K 83 91 01 MT 43 5S  79 VV VJ 06 1Q 61 1W 94

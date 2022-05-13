@@ -1,0 +1,11 @@
+Und dir ist so fad, dass du dort immer hinschaust?
+
+
+Wie soll ich bitte den Webserver aufsetzen, wenn meine IP nach außen
+nicht sichtbar ist. Was bekommst du denn, wenn du 989.689.899.2
+ansprechen willst?
+
+Torsten
+
+-- 
+Hier kommt nichts mehr.

@@ -1,0 +1,17 @@
+Ernest Zukrigl schrieb am 26. März 2001 um 18:56 Uhr folgendes:
+
+
+Aha. Was für eine Einheit ergibt RAM/CPU? Megabyte pro MIPS? :-)
+
+
+Unter Win (zumindest unter 9x) hätte ich wohl keine Möglichkeit mehr
+gehabt festzustellen, welches Programm da wie viel Speicher belegt und
+es gezielt abzuschießen, ohne dass dem Rest des Systems etwas
+passiert.
+
+Viele Größe,
+     Remo Ziehm
+-- 
+"I loathe people who keep dogs. They are cowards who haven't got the
+guts to bite people themselves."
+                                                   -- Tim Zurmühl

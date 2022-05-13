@@ -1,0 +1,16 @@
+qivju@rhdqzp:~$ free
+             total       used       free     shared    buffers     cached
+Mem:        257944      87760     170184      40772       6720      41992
+-/+ buffers/cache:      39048     218896
+Swap:       248968          0     248968
+
+RAM hab ich, CPU-Zeit?
+
+  7:49am  up 48 min,  4 users,  load average: 0.08, 0.02, 0.01
+
+Auch. Nerven hab ich schon genug verloren, die sollten _�berall_ zu
+finden sein.
+
+Uwe
+-- 
+f u cn rd ths, u mst hv bn sng nx

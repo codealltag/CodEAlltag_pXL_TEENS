@@ -1,0 +1,17 @@
+Ich kann mir anzeigen lassen, für welche Keys eine Nachricht
+verschlüsselt wurde und so ggf. feststellen, daß ein weiterer
+(potentieller) Mitleser existiert. Mit einem "Nachschlüssel" könnte
+man zB e-Mail-Verkehr abhören, ohne daß die Betroffenen das
+mitbekommen. Also wird es den Bedarf danach geben.
+
+
+Letzteres würde ich bereits als Argument akzeptieren, PGP 5.0 nicht zu
+benutzen. Die Gefahr durch evtl. später hinzukommende "Nachschlüssel"
+ist (in meinen Augen) nur ein weiteres, eher sekundäres Argument (Ja,
+ich weiß - der Autor der genannten Seite argumentiert hauptsächlich
+auf dieser Schiene).
+
+Viele Größe,
+     Eduard Fischbacher
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

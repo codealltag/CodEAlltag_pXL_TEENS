@@ -1,0 +1,30 @@
+Ja, das dachte ich auch. :-)
+
+
+Naja, es ist schon länger her, dass ich ein bisschen HTML-Zeug gebaut
+habe, aber eigentlich müsste die Navigation ja wohl auch ohne CSS
+zumindest irgendwie links und der restliche Text irgendwie rechts
+daneben sein.
+
+IIRC hatte ich das nicht wirklich ohne <table> hinbekommen. Okay,
+vielleicht ist es auch nicht wirklich nötig, dass Navigation und Text
+tatsächlich nebeneinander sind. Toll finde ich es aber nicht. Also ich
+persönlich denke, *das* gehört auch schon zur groben Struktur dazu.
+
+
+I know, das Prinzip ist mir ja klar.
+
+
+Getan und ich fühle mich bestätigt. :-) Natürlich kann man die Seiten
+ohne CSS einwandfrei nutzen. Aber wie gesagt, ist die Navigation nicht
+an der Stelle, wo sie sein soll. Das halte ich nicht für eine
+pixelgenaue Forderung...
+
+
+Iiih, beruflich was mit Computern machen...Wer tut denn *sowas*?! :-)
+
+Cornelius
+
+-- 
+"Wir sollten niemals aus den Augen verlieren, dass der Weg zur Tyrannei
+ mit der Zerstörung der Wahrheit beginnt." (Mehmet Zendel)

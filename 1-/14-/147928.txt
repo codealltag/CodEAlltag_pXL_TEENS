@@ -1,0 +1,39 @@
+Am Mon, 15 Nov 1999 sendete Meinhard Parkner folgende Botschaft:
+
+
+Mit was für einem Vanessa?
+
+
+Aus meiner .bash_profile:
+
+#v+
+# .bash_profile
+
+# Get the aliases and functions
+if [ -f ~/.bashrc ]; then
+        . ~/.bashrc
+fi
+
+# User specific environment and startup programs
+
+PATH=$PATH:$HOME/bin
+ENV=$HOME/.bashrc
+
+export ENV PATH
+#v-
+
+Damit solltes du dir was brauchbares basteln können.
+
+
+Und?
+
+
+BSD ist BSD
+
+
+In sollche niedrigen schichten begebe ich mich garnicht ;)
+
+Tschüs
+  Gerard
+-- 
+03091

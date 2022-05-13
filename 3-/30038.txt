@@ -1,0 +1,10 @@
+Ich verbitte mir diese Unterstellungen. Ich habe gerade im 5. Anlauf
+gelernt, dasz beim Kompilen auch auf meinem Rechner merkwürdige Fehler
+auftreten. (Ich hab's ja nciht geglaubt, weil der Fehler eigentlich
+SuSe-Typisch ist... liegt aber wohl am Kernel.)
+
+mfg, 
+	Erich
+-- 
+BOFH excuse #124:
+user to computer ration too low.

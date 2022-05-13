@@ -1,0 +1,16 @@
+Wie Nico schon meinte - der Agent kann einen Subjectwechsel
+sozusagen einfach ignorieren, so dass das Threading starr
+weitergeführt wird nach References - das sollte dir doch eigentlich
+helfen, oder?
+
+
+Du schaffst das.
+
+
+:) Schön, mal was andres zu hören ;) Hast dich aber eigentlich zu brav
+benommen um einfach so abhauen zu können :)
+
+-- 
+So I held my head up high
+Hiding hate that burns inside
+Which only fuels their selfish pride

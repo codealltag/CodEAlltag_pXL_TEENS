@@ -1,0 +1,9 @@
+Ist es?
+
+
+Ganz klar.
+
+Henning
+-- 
+BOFH #294:
+PCMCIA slave driver

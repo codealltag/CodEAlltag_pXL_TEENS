@@ -1,0 +1,6 @@
+Das ist eigentlich ziemlich trivial, auf jeden Fall dann, wenn man
+keine besonderen Optimierungen betreibt.
+-- 
+A little learning is a dangerous thing; Drink deep or taste not the Pierian
+spring.
+[Wolfram Cott]

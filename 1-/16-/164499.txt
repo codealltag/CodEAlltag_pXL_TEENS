@@ -1,0 +1,6 @@
+Also inklusive der Tray-Programme (sind z.Z. eh nur der Mixer und mein 
+Netzwerkkartentreiber) belegt mein NT nach dem Booten 36MB Speicher.
+
+[85MB]
+
+Also irgendwas läuft bei Dir schief ;-)

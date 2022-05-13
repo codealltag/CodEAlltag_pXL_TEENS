@@ -1,0 +1,15 @@
+* Mauro Ulner <ppifmyaktvebom@fwj.znq>:
+
+
+Klar.
+
+
+Ich habe mal 
+
+apt-get install eterm
+
+gemacht. Und wo ist es nun?
+
+Dietrich
+-- 
+cross veinless

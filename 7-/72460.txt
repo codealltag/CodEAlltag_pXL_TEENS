@@ -1,0 +1,21 @@
+Am Fri, 04. 02. 22 sendete Stephan Ukert folgende Botschaft:
+
+
+Normalerweise kürzt slrn die References auf die geforderten < 998 zeichen.
+Zumindest Versionen > 0.9.4.x oder so auch recht zuverlässig.
+
+
+Upps. Nur was sind "Speicherzugriffsfehler"?
+
+
+Passt, der string hat nur für 1024 Zeichen Platz ;)
+
+
+Dürfte eigentlich nicht sein. Hast du mal nee ID zum testen?
+
+Tschüs
+  Benedikt
+-- 
+Die Weisheiten des Maximilian Jup: #4
+
+Send Pixs !!!!!!1

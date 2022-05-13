@@ -1,0 +1,12 @@
+(...)
+
+
+Ist Landstrich so anders als Stadtstrich? Da ich beides nicht
+persönlich kenne...
+
+Georges
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Ivano Folkman in
+<hbgr7f4ty9.9t2.ytucyzw.exjuub@yhq.clo.rm-ayomxpod.zy>]

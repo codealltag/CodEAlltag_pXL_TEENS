@@ -1,0 +1,15 @@
+Es war im August 2001 als Carlo Hamers tippte:
+
+
+Dann hat aber der "Webmaster" kläglich versagt. Eine Seite, sollte ja
+auch mit komplett ausgeschaltetem Javascript noch problemlos navigierbar
+sein.
+Ok, das ist keine Lösung für das Problem, doch hab ich bis dato damit
+noch keine Probleme gehabt. Und sollte mir die Seite so wichtig sein,
+kann man ja kurz auf einen anderen Browser umsteigen. aber zum
+tagtäglichen surfen ist dieser Pop-Up Blocker sehr angenehm.
+
+Henry
+-- 
+Fuer die Welt bist Du irgendjemand, aber
+fuer Irgendjemand bist Du die Welt.

@@ -1,0 +1,15 @@
+Oswald Dennis Pasman meinte kundzutun:
+
+
+Und wohin? In eine FIFO? Na prima.
+
+
+Super. Dann wird entweder der STDERR-Output des Programs, in das
+hineingepipet wurde, auf STDOUT umgelenkt, oder STDERR in dieselbe Kiste
+gesteckt in die man vorher STDOUT gesteckt hat.
+
+Bodo
+-- 
+Dominik findet meine Signtur doof, deswegen hat er mich beim
+orsay verpetzt, und der hat jetzt meine .signature zensiert,
+dieser .-%$�$%CARRIER LOST

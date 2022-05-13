@@ -1,0 +1,6 @@
+*vbeg*
+
+Jean-Luc
+-- 
+safer Gnus - never without matching parenthesis
+Simone Drehsen in <x2w36j$semax$0@CN-62690.cpyr.fludte.nt>

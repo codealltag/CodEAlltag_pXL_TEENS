@@ -1,0 +1,10 @@
+Und so sprach Stefan Noël Clements:
+
+
+Du vergisst die Hibernation-Partition und den MBR.
+
+Johannes
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.k

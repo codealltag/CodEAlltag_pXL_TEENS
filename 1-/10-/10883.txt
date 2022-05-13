@@ -1,0 +1,8 @@
+Dein Klon hört dazu Stimmen.
+
+Mann kann wohl auch zu breit sein.
+
+Ulrich
+-- 
+BOFH #311:
+transient bus protocol violation

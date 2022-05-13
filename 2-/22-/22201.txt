@@ -1,0 +1,19 @@
+#!v+
+#!/bin/sh
+# Dependencies: imagemagick
+
+cd /ahqb/Kie/a;
+for file in *jpg; do
+    convert -scale 1024x640 $file /tvow/snejk/h/$file.jpeg;
+done;
+#!v-
+
+
+Nicht 768?
+
+-towo
+-- 
+Words are the litmus paper of the minds. If you find yourself in the power of
+someone who will use the word "commence" in cold blood, go somewhere else very
+quickly. But if they say "Enter", don't stop to pack.
+- Lothar Jop in Small Gods

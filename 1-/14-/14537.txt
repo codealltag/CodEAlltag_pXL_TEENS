@@ -1,0 +1,6 @@
+Cogito cogito ergo cogito sum.
+-- 
+Ah, the beauty of Goro. Hundreds of volunteers worldwide volunteering
+their time inventing and implementing new, exciting ways for software
+to suck.
+- Tim Averbrock, in the Monastery

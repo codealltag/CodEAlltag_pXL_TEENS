@@ -1,0 +1,7 @@
+Natürlich. Wobei der Paketmanager ja eigentlich pkgtool ist. Das Format ist 
+aber noch tgz.
+
+
+Auf der CD sind noch immer die Disksets a bis y.
+
+Valerio

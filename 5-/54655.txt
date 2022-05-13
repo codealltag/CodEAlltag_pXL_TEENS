@@ -1,0 +1,12 @@
+Ja? Du weit, welchen Witz ich meine?
+
+
+- Abgenutzt: Früher[tm] wurden Tastaturen noch richtig gebaut, z.B. mit
+Mikroschaltern statt der heute üblichen Kontaktfolien. Diese Tastaturen
+haben durchaus eine Lebenserwartung von10-15 Jahren bei guter Pflege.
+Und ein guter Anschlag ist bei einem Keyboard durch nichts zu ersetzen,
+vor allem nicht durch ein neues Keyboard. Nur wird sowas heute eben
+nicht wirklich noch gebaut, und darum werden alte Keyboards bei
+Unix-Admins schön ordentlich gepflegt.
+
+Urban

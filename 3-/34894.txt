@@ -1,0 +1,7 @@
+Also sprach Eugen Niegl <ssi@uepem.htr>:
+
+
+Weil "C" oder auch "POSIX" der Default ist, bei dem nichts lokalisiert
+wird.
+
+Eugen

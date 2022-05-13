@@ -1,0 +1,12 @@
+Remmer Zuckriegl <nxqgvyo@uud.gt> schreibselte:
+
+
+IIRC kann das Gnus. Soll aber unheimlich die Performance auffressen.
+
+ Uwe
+
+-- 
+Das erste Beispiel von höheren Grundsatz ist immer mittelmäßig 
+zum ausgearbeiteten Beispiel des niedrigen Grundsatzes.
+
+(Murphy's Gesetz)

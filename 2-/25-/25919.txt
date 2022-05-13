@@ -1,0 +1,11 @@
+Ja. Ich habe zwei bis drei Ewigkeiten gebraucht, um das Posting
+damals[tm] zu verschicken. Sogar der hier vorliegende Gnus/Emacs hat
+ein besser erkennbares Icon dafür (zwar auch an einer suboptimalen
+Stelle, aber das lässt sich sicherlich customizen). Auch wenn ich das
+noch nie gebraucht habe. Und die Einweisung war eigentlich auch
+weniger "dann klickst du oben auf Absenden", sondern eher "Contol-C
+Control-C zum Abschicken", wenn mal jemand hier dran wollte :)
+
+Italo
+-- 
+Yes, but every time I try to see things your way, I get a headache.

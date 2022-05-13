@@ -1,0 +1,18 @@
+Rudolf Tiekenheinrich schrieb am 9. Januar 2001 um 21:32 Uhr folgendes:
+
+[� statt �?]
+
+Wenn ich in meiner .slrnrc "set charset iso850" eintrage, bekomme ich
+anstelle der hochgestellten Drei einen u-Umlaut zu sehen, d.h. der
+slrn wandelt das Zeichen absolut korrekt um (er stellt Zeichen #252
+dar, was bei dir eine hochgestellte Drei sein müsste). Mein erster
+Gedanke wäre, dass der in der .slrnrc eingestellte Zeichensatz und die
+tatsächliche Schriftart des Terminals nicht übereinstimmen, aber dann
+dürftest du eigentlich auch keine Umlaute zu sehen bekommen...
+
+Viele Größe,
+     Nino Tholema
+-- 
+It might look like I'm doing nothing, but at the cellular level I'm
+really quite busy.
+                                           -- "Smart Comments", part 22

@@ -1,0 +1,8 @@
+Wenigstens kannst du's nachgucken. Brav.
+
+Justin
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+87: CIDR
+       Die dezimale Quersumme der binären Repräsentation der
+       Netzmaske. (Anton)

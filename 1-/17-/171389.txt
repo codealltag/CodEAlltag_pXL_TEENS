@@ -1,0 +1,10 @@
+Am Fri, 10 Apr 1999 sendete Benedikt Näf folgende Botschaft:
+
+
+Bei timehash braucht man nur ein kleines script das das ganze in den
+richtigen verzeichnissen ausführ, dafür füllte das erste grep weg.
+
+Bei timecaf und cnfs geht es so nicht. (aber mit perl wohl ;)
+
+Tschüs
+  Guido

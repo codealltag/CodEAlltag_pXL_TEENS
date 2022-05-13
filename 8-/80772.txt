@@ -1,0 +1,11 @@
+--default-font-index=5
+
+Sonst erkennt man ja gar nix. Außerdem sieht der Font gut aus.
+
+
+Dito.
+
+
+Außer mit Schriftgröße 1pt oder so...
+
+Nino

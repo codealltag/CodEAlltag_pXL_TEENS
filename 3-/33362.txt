@@ -1,0 +1,16 @@
+Pasquale Daam <KWXJCO@lomnqaw.ip> writes:
+
+[funktionale Programmierung]
+
+Das ist Dir schon zu abgedreht?
+
+Das ist doch schon auf hinreichend abstrakter Ebene mit ausreichend
+syntaktischem Zucker.
+
+Abgedreht sind komplizierte lambda-Ausdrücke, die über eine ganze
+Zeile gehen.
+
+Ich versuche mir im Moment eh erstmal klarzumachen, wie
+Church-Booleans funktionieren.
+-- 
+I didn't fight my way to the top of the food chain to become a vegetarian.

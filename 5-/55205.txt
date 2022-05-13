@@ -1,0 +1,13 @@
+Und so sprach Luis Mayfarth:
+
+
+*g* Ich hab drumherum gemogelt, aber rannte am Ende dann doch noch
+einen Nachmittag auf der Suche nach einem BNC-Terminator durch die
+Stadt. :) (Die Kumpels haben die Redaktion aufm Mac gemacht, die
+Inserate auf ner Win-Kiste und das Layout wieder auf dem Mac. Gerettet
+hat sie mein Laptop mit smbclient. :))
+
+Gruss,
+Jakob.
+-- 
+np: NIL

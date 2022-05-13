@@ -1,0 +1,9 @@
+Am Sun, 22 Mrz 2001 sendete Mirko Haakmann folgende Botschaft:
+
+
+AFAIk sind alles files ausser httpd.conf "altlasten" die sowieso nicht
+mehrgebraucht wertden, und /etc/httpd/ mit nur einer file ist
+nunwircklich sinnfrei /etc/httpd.conf ist da wircklich sinnvoller.
+
+Tschüs
+  Timo

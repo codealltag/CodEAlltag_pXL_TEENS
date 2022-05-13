@@ -1,0 +1,34 @@
+[W2K]
+
+Das erinnert mich an die "Do what i mean"-Funktion. Das funktioniert
+nicht. Ich brauche immer noch eine weitere Taste, um den Computer nach
+dem Absturz wieder anzukkriegen. 
+Jetzt erzähle mir bitte keiner, das gehöre nicht zum normalen
+Betrieb. Ich habe lange mit Win gearbeitet!
+
+
+"Applications" wäre besser gewesen. Wenn man dann auch hingeht und aus
+shutdown eine solche macht. Und aus diversen anderen Sachen. Aber
+nein, man mußte ja wieder Sachen zusammenfassen, die nicht zusammen
+gehören. Und dann andere wiederrum trennen. Oder warum finde ich
+meinen Scanners Einstellungen in der Systemsteuerung, die des Druckers
+aber in "Drucker"? Oder warum gibts einen Ordner "Eigene Dateien" und
+einen "eigene Bilder"? Sind Bilder keine Dateien?
+
+
+Es schreckt leute noch schneller ab?
+
+
+vielleicht eher sowas durch was brauchbares ersetzen.
+
+
+Eibauer will W2K ja auch nicht nutzen, sondern nur ACPI. Wenn du dies
+nicht bei der Installation deaktiviert hast, dann viel Spass bei der
+Neuinstallation. IIRC
+
+Victor
+
+-- 
+Die 10 Gebote sind deshalb so kurz und verständlich, weil sie ohne
+Mitwirkung einer Expertenkommission entstanden sind.
+[josenhans Pötgen, Leo]

@@ -1,0 +1,18 @@
+Und so sprach Karl Jahrstorfer:
+
+
+Also, obwohl der LAMY schon wirklich cool ist, wuerd ich die Weische-Cam
+nehmen, aber nur ab optisch Zoom 4fach aufwaerts. :-)
+
+
+Was braucht man im Leben anderes als Kurzweil? :)
+
+
+Ein Zeugnis.
+
+Gruss,
+Ivano.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.e

@@ -1,0 +1,13 @@
+^^^^^^^
+		 Du brauchst Urlaub?
+Nicht unbedingt. Aus Abwasserrohren läuft nix raus, solange nix drin
+ist. Wenn du jetzt ein Abwasserrohr beim Großkorbetha lochst, und dann
+irgendwann mal das Rohr unterhalb des Loches verstopft ist, kann da
+schonmal strahlartig das Wasser aus der Wand fließen.
+
+
+mfg, 
+	Gert
+-- 
+BOFH excuse #340:
+Well fix that in the next (upgrade, update, patch release, service pack).

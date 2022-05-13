@@ -1,0 +1,22 @@
+Und so sprach Andreas Oberste-Schemann:
+
+
+Shift+G :-) Welcher NR denn?
+
+
+Das ist wohl kaum das Problem von Edelmann. _Hat_ Edelmann denn die
+Postings?
+
+
+Ich nehme mal an, das Ding ist in inetd.conf eingetragen (und nntp
+steht in /etc/services). Dann muesste er eigentlich reagieren, wenn Du
+Postings abrufst ... (schau mal mit "top" auf der leafnodekiste, ob
+der Prozess gestertet wird, wenn Du zugreifst).
+
+Gruss,
+Noël.
+-- 
+You want to be my friend, I promise you nothing.
+Nothing I can give you, nothing I can do for you,
+I'm being chased by the sins of my past and it's killing me now,
+Killing me now.                      --BLACK SABBATH - The Illusion of Power

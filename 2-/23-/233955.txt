@@ -1,0 +1,9 @@
+Das ist zwar weniger, aber dafuer habe ich hier (wenn ich die diversen
+Dokumentationen richtig verstehe) eine Spea VESA-Lokal-Bus
+Grafikkarte. VESA ... LOL ...
+
+Ingo
+-- 
+  / ___/ /_/ /_/ /  Akeda UIN: 8970175            
+ / /__   _   _  /  PGP-Key available
+/____/_/ /_/ /_/  mailto:qxxohtqx@enk.ld

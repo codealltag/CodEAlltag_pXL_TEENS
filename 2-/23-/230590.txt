@@ -1,0 +1,9 @@
+Graphikanwendungen? Ich meine, bei 3D-Spielen werden doch ziemlich viele
+FP-Operationen von der Graka übernommen, CMIIW.
+
+Gruß,
+
+Gottfried
+-- 
+"There's a sucker born every minute."
+(WILLIBALD Wollenweber)

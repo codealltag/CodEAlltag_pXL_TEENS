@@ -1,0 +1,10 @@
+Der Schnitt (in diesem Fall 29) wird durch den Quotienten aus bisherigen  
+Postings durch verstrichene Tage des Jahres ermittelt. Das heißt in diesem  
+Fall 2607 Postings durch 90 Tage (31 Januar + 28 Februar + 31 März) ergibt  
+28,9666..., also 29.
+Die Tendenz bedeutet die Veränderung zum Schnitt im Vormonat. Christof hatte  
+bis zum 16. Dezember 865 Postings, geteilt durch 59 ergibt gerundet 15  
+Postings pro Tag. Durch seinen tollen März konnte er aber den Schnitt um just  
+jene +14 auf nunmehr 29 Postings/Tag steigern.
+
+Siegfried Keil

@@ -1,0 +1,17 @@
+Und so sprach Thomas das Szlauszaf im Jahre 2001:
+
+
+Das ist aber sicher recht mühsam einzelne Threads auf "read" zu
+setzen. Zumindest wäre es das für mich, aber jeder wie er mag.
+
+
+Dafür "ticked" man das Posting. ;-)
+
+
+Es hat sich auch in der Praxis bewährt.
+
+Eduard
+-- 
+Fachbegriffe der Informatik:
+   119: Dateimanager
+          cd, ls, cp, mv (Odette Niendicker)

@@ -1,0 +1,17 @@
+On Sun, 22 Apr 1998, Ivan Pascher <enzatug_twaseng@dku.be> wrote:
+
+[Bücher setzen]
+
+"Eigentlich nicht geeignet" ist gut. Schon mal ein einziges Buch
+gesehen, das in Word gesetzt wurde? (Nein, ich will dafür ganz
+bestimmt nicht HTML vorschlagen.)
+
+
+Wie meinen? Es gibt meines Wissens weder Drucker, die HTML verstehen,
+noch welche, die direkt .doc drucken können. Für beides braucht man
+also einen passenden Interpreter.
+
+Viele Größe,
+     Pius Zuckschwerdt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

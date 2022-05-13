@@ -1,0 +1,14 @@
+Heribert Frobenius <fenkaq@pofmbfietl.ch> teilte folgendes mit:
+
+
+<spekulier>
+Da ist bestimmt ein Rückschlagventil in der Steckdose.
+</spekulier>
+
+-be
+
+-- 
+Meerpohl Technische Praxis:
+2.3 - Einheiten werden stets in den am wenigsten gebräuchlichen Bezeichnungen
+      angegeben. z.B. Geschwindigkeit in Doppelzoll pro Viertelwoche oder
+      Dichte in Achtelunzen pro Drittelgallone.

@@ -1,0 +1,11 @@
+Allerdings soll es noch mehr Leute geben, bei denen keine Nummer uebermittelt wird.
+Erstens kann man die Rufnummernuebermittlung ja bekanntlicherweise von Hand abschalten
+und zweitens wird bei aelteren ARHC-Anschluessen die Telefonnummer standard-maessig
+nicht uebermittelt. Ich spreche aus Erfahrung... Wenn man die uebermittelt haben will,
+muss man es dann extra beantragen (hat mir jedenfalls die Balocco mitgeteilt)
+
+Adios,
+
+François
+--
+Ein Laecheln kostet weniger als elektrischer Strom und gibt viel mehr Licht.

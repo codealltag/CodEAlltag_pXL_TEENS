@@ -1,0 +1,11 @@
+Und so sprach Geneviève Tenhaef:
+
+
+Nein? :)
+
+Gruss,
+Gerold
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.o

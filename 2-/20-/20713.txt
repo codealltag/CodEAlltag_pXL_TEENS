@@ -1,0 +1,10 @@
+Wieviele Nutzer? Wieviel Ahnung haben die?
+
+
+Nur useradmin oder auch root? Auch auf Fileservern?
+
+mfg, 
+	Daniel
+-- 
+BOFH excuse #148:
+Insert coin for new game

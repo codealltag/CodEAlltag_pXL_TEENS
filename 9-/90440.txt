@@ -1,0 +1,8 @@
+su -c führt Befehle als root aus. Musst halt das Passwort eingeben,
+dafuer läuft fethcnews dann.
+
+Urban
+-- 
+Im Ungesagten
+das Unsagbare
+sagen.

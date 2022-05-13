@@ -1,0 +1,8 @@
+* cwkv@sdwinoogbuj.jo (Yopujottx Iscyau):
+
+
+Ich habe noch einen Newsserver bei meinem lokalen Provider stehen, aber
+da scheint mal wieder der ssh-Server gestorben zu sein, jedenfalls kann
+ich mich von hier nicht einloggen.
+
+Samu

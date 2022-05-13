@@ -1,0 +1,7 @@
+Man braucht idR nur den passenden Compiler auf den Sourcecode
+anzusetzen, um eine Version für den Alpha zu bekommen.
+
+Viele Größe,
+     Felix Rumstig
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

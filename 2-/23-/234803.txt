@@ -1,0 +1,11 @@
+Das ist Mathe. Aufgrund des Einfallswinkels des Lichts und der
+Fl�chnneigung kann die Software einen Ausfallswinkel berechnen, welcher
+dann die Helligkeit der betreffenden Stelle bestimmt. Mit Voxeln ist das
+IMO nicht möglich.
+
+Gruß,
+
+Holger
+-- 
+"There's a sucker born every minute."
+(JEAN Redder)

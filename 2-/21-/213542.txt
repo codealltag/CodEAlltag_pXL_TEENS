@@ -1,0 +1,9 @@
+Das Makro sagt dem PC zB "Wenn eine geschweifte Klammer in einer
+Formel vorkommt, dann setze sie so, wenn sie in einem String vorkommt,
+setze sie anders und setze sie in allen anderen Fällen wieder anders".
+IMO ist das eine Anweisung, was das Programm zu tun hat.
+
+Viele Größe,
+     Lorenz Zoerner
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,16 @@
+Am Sat, 16. 01. 23 sendete Wilhelm Dickhans folgende Botschaft:
+
+
+Eben und bei letzerem kann regedit helfen.
+
+
+Ich hab hier noch 2 rumstehen ;)
+
+
+systemsteuerung->Hardware und dann durchwurschteln.
+
+
+Flachser fehler.
+
+Tschüs
+  Herbert

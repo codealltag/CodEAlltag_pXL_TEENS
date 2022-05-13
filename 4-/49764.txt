@@ -1,0 +1,4 @@
+Wenn man in Postscript einen Webserver (das war es doch, nicht?)
+schreiben kann, dann sicher auch einen Editor in Perl.
+
+-thh

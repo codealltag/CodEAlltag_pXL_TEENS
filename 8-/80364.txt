@@ -1,0 +1,6 @@
+Beat Overmans meinte kundzutun:
+
+
+while ( not verstanden ) ; do read $CITESOURCE ; done
+
+Knut

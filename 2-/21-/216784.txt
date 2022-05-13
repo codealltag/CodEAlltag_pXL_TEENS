@@ -1,0 +1,24 @@
+Am Wed, 04. 01. 22 11:28:56 +0200 sendete Nick Hüggelmeyer
+folgende Botschaft:
+
+
+Klar notebook4all gibt es schon seit langen.
+
+
+Seit wann ist DOS ein editor?
+
+
+Nope, da hab ich letztens anderes festgestellt. ( auf einer erweiterten
+partitoen waren 2 ext2 und 2 fat partitionen fdisk zeigt zwei logische
+laufwrke an (soweit korrekt) nur als ich ein logisches fat laufwerk
+gekillt habe waren immer noch zwei laufwerke vorhanden.)
+
+Das das zip-laufwerk aufeinmal G: und nicht mehr E: heist nennst du
+intuitiv? Also ich nenns er krank.
+
+
+Musst du ja auch nicht, die nummerierung hält sich niocht umbedingt an
+die pysikalische reihenfolge.
+
+Tschüs
+  Harry

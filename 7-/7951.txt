@@ -1,0 +1,6 @@
+[dsf 6.1]
+
+Florian
+-- 
+BOFH #69:
+knot in cables caused data stream to become twisted and kinked

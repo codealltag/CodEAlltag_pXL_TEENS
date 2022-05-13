@@ -1,0 +1,6 @@
+Das tat wirklich weh.
+
+Diedrich
+-- 
+BOFH #371:
+Incorrectly configured static routes on the corerouters.

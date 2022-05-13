@@ -1,0 +1,11 @@
+.. weil eine "IF-Schleife" für mich sowas ist:
+[..]
+$label
+[..]
+IF $be THEN GOTO $label
+[..]
+
+Und wer sowas macht, der verwendet GOTOs auch für schöne weite GOTO-
+Sprünge ins Nirwana.
+
+Gruß Edgar

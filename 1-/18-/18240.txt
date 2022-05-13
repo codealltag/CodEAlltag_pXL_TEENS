@@ -1,0 +1,8 @@
+Ja, das geht. Es gibt aber auch noch die Leute die chmod a+x
+INSTALL; ./INSTALL `H?' `Ah!' bash INSTALL  probieren.
+
+mfg, 
+	David
+-- 
+Avanti excuse #220:
+Someone thought The Big Red Button was a light switch.

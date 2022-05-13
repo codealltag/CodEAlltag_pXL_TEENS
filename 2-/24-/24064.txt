@@ -1,0 +1,12 @@
+Und so sprach Bruno Thenner:
+
+
+Da gibt's viele Moeglichkeiten: Die 1-Norm, die 2-Norm oder auch die
+oo-Norm.
+
+Gruss,
+Cornelius.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.c

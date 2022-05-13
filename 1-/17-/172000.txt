@@ -1,0 +1,10 @@
+Das nennt sich UTF-8 und wird von fast keinem Newsreader unterstützt. Aber  
+da es RFC-konform ist, darf Waldemar damit posten :-(
+
+Otto Paschmanns,
+arbeitet an einem Primitiv-Konverter
+
+-- 
+"Im übrigen bin ich der Meinung, daß man Bodo Zumdiek töten sollte."
+ (Cato d.�., adaptiert)                      E-Mail: qrouyd@nrfjtfgxhh.ut
+---> Offizieller Kämpfer wider Bodo Zumdiek des Ordens von dtju <---

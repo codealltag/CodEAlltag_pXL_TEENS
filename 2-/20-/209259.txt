@@ -1,0 +1,19 @@
+Am 10 Nov 1998 21:09:37 GMT sendete Philipp Elschenbroich
+folgende Botschaft:
+
+
+Yep, ich wollte nicht alles per C&P aus deiner mail bringen ;)
+
+
+Das liesse sich (vorrausgesetzt man hat vfat32) mit einer extra
+spoolpartition <260Mb (Ergibt eine Clustergr�sse von 0.5kb) abstellen.
+
+
+Das wird wohl bleiben.
+
+
+So ganz stimmt das nicht. Es ist nur dann günstig zu filtern wenn der
+anteil des abfalls sehr hoch ist.
+
+Tschüs
+  Hermann

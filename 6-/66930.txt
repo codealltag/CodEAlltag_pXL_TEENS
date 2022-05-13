@@ -1,0 +1,9 @@
+Nein. Besser als mit nur 1. Vor allem bei längerem Code, wo eine
+mehrfach geschatelte Schleife über > 1 Bildschirm reicht.
+
+
+Genau. Und darum ist das das Problem. Weil die DOS-Box eben nicht mehr
+als 80 Zeichen Breite schafft.
+
+Heimo
+P.S.: Henrik sich aufregen warum du nicht zurückschreiben

@@ -1,0 +1,8 @@
+Mein erstes Posting datiert IIRC auf den 18.01., und keine zwei Wochen
+später 2000 innerhalb von 24 Stunden...
+
+Olaf
+-- 
+Wie jagt man einen Elefanten - Teil 3:
+LISP-Programmierer bauen einen Irrgarten aus Klammern und hoffen,
+dass sich der Elefant darin verirrt...

@@ -1,0 +1,22 @@
+Naja, ist Definitionssache. Ich würde sagen, es ist eine Konvertierung
+(obwohl auch ich 2 Klicks machen muss). Gegeben ist ein bestimmtes Bild,
+in unserem Fall ein sagen wir ein 24Bit-JPEG, und es soll in ein
+GIF-Bild umgewandelt werden. Das ist _eine_ Konvertierung, obwohl dazu
+mehere Schritte nötig sein können (z.B. muss ein JPEG IMHO erst
+decodiert werden, d.h. als Bitmap in den Speicher geladen werden, um
+dann in ein GIF umgewandelt zu werden. Trotzdem sprichst du von einer
+Konvertierung).
+
+
+Sag' ich ja.
+Weiß nicht, aber ist TIF nicht schon etwas älter?
+
+BTW, hab' neulich was über 'ne neue Kompressionsmethode mit Wavelets
+gelesen, scheint sehr gute Bilder zu produzieren (nicht verlustfrei).
+
+Gruß,
+
+Ralf
+-- 
+"There's a sucker born every minute."
+(ULRICH Ishag)

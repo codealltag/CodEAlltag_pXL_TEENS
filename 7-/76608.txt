@@ -1,0 +1,34 @@
+323,- ist inkl. allem, was es halt so gibt...
+
+
+Grundflaeche sind 13.5qm, wovon etwas fuer die, aeh, 
+Nasszelle (Waschbecken) und etwas fuer den begehbaren
+Schrank draufgeht. Das "eigentliche" Zimmer hat dann so
+um die 10qm.
+
+Man kann da deutlich mehr als Schlafen und Studieren.
+Bei der mengenmaessig groessten Zimmer-Geburtstagsfeier, 
+die ich miterlebt habe, waren 13 Leute in einem Zimmer
+anwesend...
+
+Zum "Wohnbereich" gehoert dann noch die knapp ueber
+30qm grosse Gemeinschaftskueche, ein Kofferraum, der
+jedoch meist zum Fernsehzimmer umfunktioniert wurde,
+das Bad mit 3 Toiletten und 2 Duschen sowie ein ca.
+85qm grosser Flur (auf dem je nach Stimmung auch viel
+geschehen kann).
+
+Und dann gibbet da halt noch die Schmankerl, wie unser 
+Netzwerk (der neue Gigabit-Backbone-Switch wurde letzte 
+Woche geliefert), unser Problemkind NEUI (ATM-
+Telefonanlage), z.B. das FNH, und noch eine Menge 
+mehr, was wir alles der Tatsache zu verdanken haben, 
+dass wir richtig selbstverwaltet sind.
+
+Urban
+
+-- 
+<10:08:52 toby>: scheisse, verschlafen :o(  
+<10:10:06 toby>: moin
+[10:11:06 urban]: kauf dir nen wecker
+<10:12:18 toby>: danke, hab schon einen

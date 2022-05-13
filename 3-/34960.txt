@@ -1,0 +1,9 @@
+Negative on that, Vernatzgersdorf.
+
+Hier tuts das nciht. Auch wenn -15 deklariert ist, bekomme ich als
+Anzeige- und Versand-Zeichensatz -1.
+
+Karlheinz
+-- 
+Was ist ein Polarbär?
+Ein rechteckiger Br nach einer Koordinatentransformation.

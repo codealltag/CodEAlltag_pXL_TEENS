@@ -1,0 +1,23 @@
+Günther 'sSXP' Hombrink schrieb am 3. Juli 1999 um 02:43 Uhr folgendes:
+
+[Vorzüge von Postscript vs. PDF]
+
+#v+
+mumyng@rtlxprfjsw:~/TeX/Hausaufgaben/sowi > pdflatex vgr.tex
+This is pdfTeX, Version 3.14159-13d (Web2C 7.3.1)
+[...]
+Output written on vgr.pdf (2 pages, 50231 bytes).
+Transcript written on vgr.log.
+#v-
+
+Zur Vorschau erzeuge ich aus meinen LaTeX-Files .dvi (ist einfach
+konkurrenzlos schnell und klein, bei der Beispieldatei 6 kB), zum
+Drucken .ps (ergibt bei mir die beste Qualität, Größe der
+Beispieldatei: 41 kB), zum Weitergeben an Windows-User .pdf (Acroread
+ist praktisch überall verfügbar, Dateigröße wie gesehen 49 kB).
+
+Viele Größe,
+     Udo Hintersdorf
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

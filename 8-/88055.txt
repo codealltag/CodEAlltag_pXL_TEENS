@@ -1,0 +1,8 @@
+Am Mon, 23 Aug 2000 sendete Fridolin Peickert folgende Botschaft:
+
+
+*rhl* Schreib mal nen bugreport an denn Maintainer, der hat sich wohl
+irgendwo verhauen.
+
+Tschüs
+  Bernhard

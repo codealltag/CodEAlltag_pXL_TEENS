@@ -1,0 +1,12 @@
+Ja. Aber eigentlich sollte Windoof sie nach einem Absturz selbstständig
+reinitialisieren. Und falls es das nicht tut : rundll32 ist meines Wissens
+nach vor allem für Dinge wie Runterfahren und StandbyModus u.�. zuständig.
+Und ich vermute mal das ein Windoof das anscheinend schon dermaßen
+angeschlagen ist so oder so nicht mehr korekt runterfährt.
+
+Ich würde mal verschiedene Installs einrichten. Eine zum Spielen, eine für
+WWW und eine fürs Arbeiten. Macht entschieden weniger Aufwand und Arbeit
+wenn mal eine drauf geht. Vor allem weil man wenns dringend ist eine der
+anderen Installs mißbrauchen kann.
+
+MFG Niko

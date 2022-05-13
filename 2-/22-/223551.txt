@@ -1,0 +1,9 @@
+Mmh... aus welchen Gründen? Man könnte solche erweiterten
+Einstellungen IMO durchaus unter "für fortgeschrittene Benutzer"
+fassen und den (ohnehin kaum vorhandenen) Support auf die
+Standardinstallation beschränken, so daß *das* kein Problem sein sollte.
+
+Viele Größe,
+     Dominik Kormann
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

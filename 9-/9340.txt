@@ -1,0 +1,6 @@
+[dsf 4.8]
+
+Egon
+-- 
+BOFH #188:
+..disk or the processor is on fire.

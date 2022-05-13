@@ -1,0 +1,10 @@
+Wieso? Was spricht dagegen, das es dich Kurzzeitig doppelt gibt?
+
+
+Programme fork()en auch nicht. Das machen nur Prozesse.
+
+mfg, 
+	Vincenzo
+-- 
+BOFH excuse #270:
+Someone has messed up the kernel pointers

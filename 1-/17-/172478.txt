@@ -1,0 +1,15 @@
+Das ist wie Tic Tac Toe, wenn beide Mitspieler Kringen nehmen:
+
+ O | O | O
+---+---+---
+---+---+---
+ O | O |
+
+Wer hat jetzt gewonnen?
+
+Urs Eisenberger
+
+-- 
+Niemand mag die Schlümpfe.
+                                             E-Mail: asycjd@clsjmvlnpm.sa
+---> Offizieller Kämpfer wider Thomas Dietzen des Ordens von dtju <---

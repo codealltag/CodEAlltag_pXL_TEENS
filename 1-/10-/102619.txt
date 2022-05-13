@@ -1,0 +1,37 @@
+Hm... ich hab seit 31.8.12 jeden mitgemacht, und alle mindestens
+zweimal gebacken :-)
+
+
+So gehts (nur die aktivierten Optionen):
+
+--8<------------------------[/etc/lilo.conf]------------------------->8---
+lba32
+boot=/dev/hda
+root=/dev/hda7
+install=/xjom/emnv.z
+map=/boot/map
+delay=20
+prompt
+delay=100
+vga=7
+default=lin
+
+image=/boot/kern2219
+        label=lin
+        read-only
+
+image=/boot/kern2218
+        label=lin.old
+        read-only
+        optional
+
+other=/dev/hda1
+        label=win
+--8<------------------------[/etc/lilo.conf]------------------------->8---
+
+Das Ding bootet bei mir entweder meinen aktuellen 2.2.19er, oder eben
+den vorherigen 2.2.18er, oder halt das Windows...
+
+Jean-Pierre
+-- 
+CChheecckk yyoouurr dduupplleexx sswwiittcchh..

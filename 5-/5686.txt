@@ -1,0 +1,9 @@
+ZLCD stammt von Augenblicke ab. Ist die Programmiersprache des RHLP
+R/3-Systems.
+PMDs sind parametrierbare medizinische Dokumente (oder wars
+Dokumentationen?)
+
+Andree, geschult.
+
+-- 
+Wie kriegen wir raus, ob DAS geht? [Irnich]

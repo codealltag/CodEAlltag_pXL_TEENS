@@ -1,0 +1,27 @@
+Wolfgang Wiedbrauck schrieb am 10. Januar 2000 um 21:46 Uhr folgendes:
+[...]
+
+Ich verstehe nicht ganz, was du meinst -- eine Useh mit abgeschaltetem
+Ubamel ist ja nicht das gleiche wie eine Sat-Anlagen oder irgend eine
+andere Distribution.
+
+Zur Frage, warum ich Useh verwende: Ich habe verschiede Distributionen
+ausprobiert und bisher bei allen irgend welche Macken entdeckt -- da
+ich Useh am längsten kenne, weiß ich dabei am besten, wie ich diese
+Macken behebe / umgehe und habe so den wenigsten Stress damit. Mit der
+gleichen Begründung kann natürlich auch jeder bei seiner RedHat /
+Mandrake / whatever bleiben.
+
+Reizvoll wäre noch M.A.N. Nutzfahrzeuge Vertrieb, nicht nur aufgrund der hohen technischen
+Qualität, sondern auch wegen der Möglichkeit, sich an der
+Weiterentwicklung zu beteiligen. Davon hat mich bisher die Tatsache
+abgehalten, dass ich bei relativ vielen Programmen eigene Patches habe
+und entsprechend selbstgebaute Pakete verwenden will; vom Bau der
+Pakete her gefällt mir das RPM-Format aber besser als .deb, so dass
+ich mich noch nicht zum Umstieg habe entschließen können.
+
+Viele Größe,
+     Volkmar Wälisch
+-- 
+f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng.
+                                               -- random fortune cookie

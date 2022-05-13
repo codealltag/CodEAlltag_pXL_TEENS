@@ -1,0 +1,24 @@
+Weil man die Postings nicht gerne im Hamster liegen lässt.
+
+
+Ich schon, denn ich muss sie sehen können. Außerdem mag ich einen
+vollgestopften Hamster nicht so. Der könnte platzen.
+
+Und nochwas: Ich könnte das Archiv ja gar nicht durchsuchen, wenn der
+Kram nur im Server liegt.
+
+
+Das würde mir nicht gefallen.
+
+
+Keine mehr. Lag am Verzeichnis in dem ich XEmacs abgespeichert habe.
+
+Jetzt will er aber nicht mehr meine Einstellungen in der .emacs und
+.gnus laden. Wo muss ich die denn hinlegen? Doch wohl dahin, wo mein
+Set Home=c:\verzeichnis in der autoexec.bat ist, oder nicht?
+
+Karlheinz
+
+-- 
+Die letzten Worte des Computers:
+"Sind Sie sicher? (J/N)"

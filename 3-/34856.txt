@@ -1,0 +1,6 @@
+Weil es sich normalerweise um Fehlermeldungen aus den C-Libs handelt?
+
+Theo
+-- 
+Larkinson's Law:
+        All laws are basically false.

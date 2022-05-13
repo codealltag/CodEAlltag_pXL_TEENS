@@ -1,0 +1,20 @@
+On 13. 06. 21, Mike Imschloß <GDhjns@ost.kay> wrote:
+
+[Voraussetzungen für Linux-Installation]
+
+Ich würde empfehlen, nach ein paar Grundüberlegungen (wo hätte ich
+Linux gerne hin, wie partitioniere ich meine Platte, wie will ich
+Linux in Zukunft starten...) die Installation zu starten und dabei die
+schrittweise Anleitung im Handbuch zu verfolgen - hilft, wenn man sich
+nicht sicher ist, was YaST jetzt eigentlich von einem will und das
+Gefahrenzeichen warnt vor möglichen Problemen.
+
+
+Handbuch lesen ohne am Computer zu sitzen ist oft tödlich für die
+Motivation und bringt IMO auch nicht so viel, wie wenn man das
+erworbene Wissen gleich anwendet.
+
+Viele Größe,
+     Ludwig Sauberlich
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

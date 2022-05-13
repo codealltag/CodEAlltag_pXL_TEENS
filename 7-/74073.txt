@@ -1,0 +1,15 @@
+Solches tippte Franco Trommeschläger:
+
+... naja, als Notbuch (486sx25, 4MB RAM...)�, Freundin von mir hat
+Hausarbeiten auf einem 286er "Notbuch" (eher: Schreibmaschinenkasten,
+auch was die Größe angeht) getippt.
+
+Vito
+
+� auf dem Teil musste irgendwann im Grundstudium ein
+Scheme-Programm geschrieben werden, das laut Aufgabenstellung
+ziemlich üble Rekursion betrieb.  Bei Eingabewerten größer 20 war
+der Stack zu klein. -- Der Korrektor war nicht so leicht davon zu
+überzeugen, dass eine wesentliche Vergrößerung des Stacks an der
+Größe und Geschwindigkeit der eingebauten Festplatte scheiterte
+(30 MB swap hatte ich spendieren können, IIRC).

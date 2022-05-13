@@ -1,0 +1,3 @@
+Ist mir zu abgedreht. Wieso ich das so zwingend lernen sollte, ist auch 
+fraglich (einsetzen in der Realworld tut es fast niemand, mal vielleicht 
+von OCAML für Emule abgesehen).

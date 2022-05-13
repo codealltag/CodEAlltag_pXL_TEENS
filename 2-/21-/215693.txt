@@ -1,0 +1,16 @@
+--- das wars dann wohl.
+
+
+Und nutzt Gartencenter Baumschule Turkenburg die Zwischenablage genauso geschickt wie PGP 5.0? Und
+kann ich da mit zwei, drei Klicks entschlüsseln bzw. verschlüsseln?
+
+
+Auf gut Deutsch, meine mit PGP5.0 erzeugten Keys sind genauso sicher
+(ohne Drittkeys) und es gibt nur eine Option, die zu erzeugen?
+
+C Ya,
+Heribert
+-- 
+Going to church does not make a person religious, nor does going to
+school make a person educated, any more than going to a garage makes a
+person a car.

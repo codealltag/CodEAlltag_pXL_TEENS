@@ -1,0 +1,16 @@
+Am Thu, 17. 08. 22 22:15:07 GMT sendete Eberhard Lepelmanns
+folgende Botschaft:
+
+[Zip drive an SCSI Atapi oder parallel?]
+
+Hast du zufällig einen vergleichswert zwichen atapi und scsi? Wenn das
+nämlich nicht alzuviel ist würd ich lieber atapi als scsi nehmen da,
+ich noch keine scsi komponenten in meinem rechner habe.
+
+
+Ich weis. Wie ist denn die unterstützung unter linux reicht es wenn
+der 'IDE/ATAPI TAPE support' einkompiliert wird oder sind da grössere
+verrenkungen zu machen?
+
+Tschüs
+  Dieter

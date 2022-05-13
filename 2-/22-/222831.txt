@@ -1,0 +1,13 @@
+Jepp, seit mir eines Tages aus heiterm Himmel die AWE64 verreckt ist (also 
+wenn schon der P&P Init String beim Booten kaputt ist, dann ist es was 
+Ernsteres... ist meinem Kumpel mit dem selben Kartentyp auch schon 
+passiert) hab ich auch die billige 64PCI. Bin eigentlich recht zufrieden. 
+Sehr gute Wave und Midi Wiedergabe. Und jede Menge unabhängige Line-Ins (4 
+glaub ich). Dafür daß auf der Karte nur ein einziger Chip drauf ist nicht 
+schlecht ;-)
+Die Einstreuungen vom PC (Klickern beim Bewegen der Maus etc) gehören auch 
+endlich der Vergangenheit an.
+Unterm NT von meinem Bruder hatte sie ein paar Zicken in Sachen Midi, aber 
+hier läuft sie optimal.
+Unter 95 kann man ziemlich viele WAV Files gleichzeitig ausgeben lassen. 
+Bei mehr als 5 wird's aber ein breiiges Gemisch ;-)

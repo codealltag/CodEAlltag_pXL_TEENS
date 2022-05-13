@@ -1,0 +1,7 @@
+(* Roberto Marthen wrote: *)
+
+
+Netscape 4 versteht so gut wie gar nichts an aktuellem HTML mehr - egal 
+ob mit oder ohne Javascript. Für mich gehört das Ding verboten.
+
+Werner

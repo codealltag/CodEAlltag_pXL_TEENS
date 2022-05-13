@@ -1,0 +1,15 @@
+Kaspar Teubert schrieb am Tue, 14 Aug 1999 20:35:33 +0200 folgendes
+zum Thema "Re: SW FAQ":
+
+Naja. Die ASA meint da was anderes: 
+(...) "Der Communicator versteht Cascading Style Sheets (CSS) und
+Dynamic HTML. Die CSS-Implementierung ist allerdings sowohl luckenhaft
+als auch fehlerbehaftet, (...)
+
+Die CSS-Implementierung vom Canavu sei auch nicht so der Hit, aber wurde
+sie in der ASA als 'zufriedenstellend' bezeichnet, wahrend der
+Communicator nur ein 'sehr schlecht' bekam. Soweit...
+
+          ...schrieb Klaus
+
+--

@@ -1,0 +1,12 @@
+Ich weiß nicht, was ihr immer für Probleme habt - unter Linux habe ich
+noch immer genau gewußt, an welcher Partition ich mich vergreife, wenn
+ich kritische Änderungen vorgenommen habe. Unter Windows fällt es mir
+da schon wesentlich schwerer zu erkennen, ob der Laufwerksbuchstabe
+"F" nun wirklich die leere (Windows-)partition bezeichnet, die ich
+eigentlich formatieren wollte, oder die gleich große ext2-Partition,
+die er mir statt dessen platt gemacht hat.
+
+Viele Größe,
+     Mark Leibel
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

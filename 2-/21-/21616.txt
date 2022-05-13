@@ -1,0 +1,10 @@
+Und so sprach Ben Unterloh:
+
+
+*grybel* Kommt mir irknwie bekannt vor.
+
+Erwin
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.w

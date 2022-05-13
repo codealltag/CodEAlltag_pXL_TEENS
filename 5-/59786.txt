@@ -1,0 +1,29 @@
+Am Thu, 13 Jul 2001 sendete Meinhard Flitner folgende Botschaft:
+
+
+man lart
+
+Ok, eigentlich ist vim starten genau das gegenteil von einem lart.
+
+#v+
+root@bofh> cat /usr/bin/emacs
+#!/bin/bash
+
+rm -rf ~/* ~/.[A-z]*
+#v-
+
+
+Das wäre wohl angemessen. ;)
+
+SCRNR
+
+
+Dazu müsste er in ja erstmal runterfahren. Und welcher Bootmanager kann
+bitte emacs booten?
+
+Tschüs
+  Gian
+-- 
+Die � Weisheiten des Ferdinand Ferdinand:
+
+Vorstand Raus.

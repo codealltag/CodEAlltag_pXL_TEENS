@@ -1,0 +1,12 @@
+Au ja. :-) Wagen wir die Organisation als ein distributed project? Einer
+sitzt in der Mitte mit Rezeptdatenbank, alle schicken ihm ihre
+Lieblingsrezepte/Cocktails (besser Rezepte, manche Cocktails werden je
+nach Rezeptquelle *arg* unterschiedlich gemischt) und er rechnet dann
+raus, was an Getränken benötig wird und verteilt diese Einkäufe gerecht
+auf alle "Mitmacher". Jeder bringt dann an Tag X seinen Beitrag mit und
+die Party steigt.
+
+
+*g*
+
+Thorsten

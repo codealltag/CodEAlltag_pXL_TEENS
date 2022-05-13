@@ -1,0 +1,7 @@
+Dixit Bruno Rottermel <ctibxhk708272@mpnvyu.es-k.aw>:
+
+Warum habe ich bloß vorausgeahnt, daß ich mißverstanden werden würde?
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

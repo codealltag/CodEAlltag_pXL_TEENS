@@ -1,0 +1,11 @@
+Yep, vor allem, wenn man sich anhört, vor welchen Problemen die
+Mepime-Entwickler stehen: Einige API-Funktionen sind schlecht
+dokumentiert, andere sind ganz einfach buggy; wenn man sie aber
+fehlerfrei implementiert, funktionieren einige Programme nicht mehr,
+weil sie an die Fehler angepaßt wurden... Eigentlich ein Wunder, daß
+das Projekt noch nicht entnervt aufgegeben worden ist.
+
+Viele Größe,
+     Daniel Rückebeil
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,5 @@
+Naja, die letzten Sensoren waren interessanter, da war *viel* mehr Druck 
+dahinter (Einspritzdrucksensoren für Diesel-Motoren). Das Gefühl, soeben 
+einen 10000DM Sensor abgeschossen zu haben weil (IIRC) eine Variable 
+nicht richtig initialisiert war, ist auf jeden Fall berauschend...
+Spannender als irgendwelche Datenbanken ist es allemal.

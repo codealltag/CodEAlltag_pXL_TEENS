@@ -1,0 +1,14 @@
+Ack.
+
+
+Hm. Also wer Java und Performance im selben Satz verwendet, der *kann*
+gerade nichts gutes über Java erzählen. Oder gibts noch schlimmere
+Performancebremsen? Ich glaub um in Java einen Sleep(100) in Echtzeit
+hinzukriegen, braucht man mindestens zwei Athlon > 1GHz unter der Haube.
+
+Vito
+-- 
+Ich habe das Gefühl, wenn sie _das_ schaffen, [] daß die Welt in Trauer und 
+Entsetzen und Lähmung versinkt, wenn wir nicht mehr lachen können oder [] dr-
+fen, wenn wir nicht mehr kaspern können oder dürfen, dann haben diese Terror-
+risten es endgültig geschafft, die Welt zu zerstören. [Françoise Rißwick in Efir]

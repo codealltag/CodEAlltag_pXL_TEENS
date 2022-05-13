@@ -1,0 +1,9 @@
+Peter Zawadzky <acabok@apwmish-jlmwae.ke> schreibselte:
+
+
+Ok, ich verwende das Wort mit zu vielen Bedeutungen...
+
+s/cool/interessant/g;
+-- 
+"If today was perfect, there would be no need for tomorrow..."
+(kennt jemand den Autor?)

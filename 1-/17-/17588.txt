@@ -1,0 +1,14 @@
+Es ergeben sich nicht zwangsläufig Schwierigkeiten. Wenn du z.B.
+die Aufgabe hast, ein Programm zu schreiben, das Textdateien
+parst, die Strings in Worte zerlegt, und selbige samt der
+Häufigkeit in eine DB schreibt, und dir die Wahl der
+Programmiersprache freigestellt ist, dann hat man mit Perl nicht
+wirklich Schwierigkeiten. Wenn die DB ein einfacher Dump auf
+Platte ist, dann ist das in wenigen Minuten erledigt. Wenn man
+das mit C baut, dann hat man da halt schon eher Probleme.
+
+mfg, 
+	Ignaz
+-- 
+BOFH excuse #359:
+YOU HAVE AN I/O ERROR -> Incompetent Operator error

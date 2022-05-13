@@ -1,0 +1,10 @@
+d.h. was?
+Es gibt die Option nicht mehr, es wird nun automatisch erzeugt.
+oder
+Es gibt die Option nicht mehr, es wird auf jeden Fall kein Drittkey
+erzeugt.
+
+C Ya,
+Onno, der PGP v5.5 hat
+-- 
+Keep grandma off the streets -- legalize bingo.

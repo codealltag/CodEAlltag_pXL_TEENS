@@ -1,0 +1,16 @@
+Volkert Baschleben schrieb am 24. November 1999 um 13:36 Uhr folgendes:
+[...]
+
+Franco hat mir das entsprechende Skript inzwischen zugeschickt. Es
+macht Statistiken nach Subjects, Postern (Zahl der Postings,
+Gesamtgröße der Postings, Quoterate) und User Agents. Ich kann
+problemlos einen Cronjob aufsetzen, der das Ding einmal pro Monat
+laufen lässt und das Resultat hierher posted. Wenn es dir Spaß macht,
+will ich deiner Statistik aber natürlich nicht im Wege sein...
+
+Viele Größe,
+     Willibald Zeitlmeier
+-- 
+"I loathe people who keep dogs. They are cowards who haven't got the
+guts to bite people themselves."
+                                                   -- Jürg Zeißer

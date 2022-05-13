@@ -1,0 +1,15 @@
+Am Sun, 31 Jan 2002 sendete Manuel Gadow folgende Botschaft:
+
+
+Naja, bei solchen annäherungen ist das eigentlich auch egal. Ueff
+berechnet man einfach per \int_0^T (U(t))^2 dt *duck*
+
+
+Wenn ich mir letzteres mal merken könnte...
+
+Tschüs
+  Fritz
+-- 
+Die Weisheiten des Paolo Jup: #2
+
+Man sollte am frühen Morgen nicht seinen Laptop auseinander nehmen.

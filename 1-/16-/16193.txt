@@ -1,0 +1,8 @@
+Keine der *term/rxvt-Konsolen hat wirklich angenehme Farben.
+
+Kaspar
+
+-- 
+Drucker:
+"Beim Speichern der Änderungen ist der folgende Fehler aufgetreten:
+ Der Vorgang wurde ausgeführt."

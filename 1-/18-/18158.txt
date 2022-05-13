@@ -1,0 +1,19 @@
+Ich hab das schon raus. Der Fehler liegt mal wieder im Detail -
+und ich hab es nur gemerkt, weil ich den selben gemacht habe, wie
+du. Postings, die zwischen start = 03-03-2003 und stop =
+01-04-2003 liegen, liegen eben exakt dazwischen - will meinen
+zwischen 03.03, 00:00 und 01.04, 00:00. Wenn man stop auf
+02-04-2003 stellt, haben wir auch 
+
+
+Ich denke, das kann man gelten lassen (Oszedo! wo kommen die 21
+Postings her?).
+
+Ach ja, soll ich das Ding mal *nix tauglich machen, und
+zur�ckmailen? Sollten wir evtl. ein CVS aufsetzen?
+
+mfg, 
+	Roland
+-- 
+MLJ excuse #220:
+Someone thought The Big Red Button was a light switch.

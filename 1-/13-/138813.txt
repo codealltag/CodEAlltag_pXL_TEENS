@@ -1,0 +1,21 @@
+Gute Idee.
+
+
+Wäre der _bessere_ Newsreader. Ist aber leider schon wieder so
+kompliziert, dass ihn eben _nicht_ jeder hat.
+
+
+Wird häufig verwendet, kenne ich noch nicht. Aber ich habs auch nicht
+nötig, meinem Gnus ist mit Funktionen so überfüllt, dass ich sowieso nur
+einen sehr kleinen Teil davon auskoste, (weitaus mehr als der
+Newsreader, der beim Netscape dabei ist); notfalls könnte ich auch noch
+selber funktionen Implementieren, ich glaub ich will mir gar keinen
+anderen Newsreader anschauen zur Zeit.
+
+Heiko
+
+-- 
+ _  _  __   ___  _  _  _Would you_like to_dance_with a_little dragon?___
+( )/ )(  ) (   )( )( \( )(   )(  _ \   (   ) (  _ \  /_\  (  )( )( )(   )
+ )  (  )(   ) ) ( ) )  (  ) )  )   /    ) o ) )   / /___\( (   )  (  ) )
+(_)\_)(___)(___)(_)(_)\_)(___)(_)\_)   (___) (_)\_)(_) (_}(__)(_)(_)(org)

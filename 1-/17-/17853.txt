@@ -1,0 +1,9 @@
+Momentan nicht. Liegt aber wohl daran, das die recht hohe
+Abluftrohre haben.
+
+mfg, 
+	Klaas
+-- 
+BOFH excuse #80:
+That's a great computer you have there; have you considered how it would work
+as a BSD machine?

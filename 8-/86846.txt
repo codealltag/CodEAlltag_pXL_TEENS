@@ -1,0 +1,7 @@
+* Olaf Cichosz <expires-010831@usenet.th-h.de>:
+
+
+Natürlich. Entweder im Code direkt patchen oder eine passende Funktion
+schreiben.
+
+Veit

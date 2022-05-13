@@ -1,0 +1,22 @@
+On 20 Jun 1998, Pierre Haubter <cvlzwdeyal@yzxravjsvo.et> wrote:
+
+['References:' zu lang]
+
+Ich nehme mal an, daß das ganz einfach daran liegt, daß sowohl slrn
+wie auch Gravity sehr lange Message-IDs erzeugen.
+
+
+*shrug* AFAIK sind die 998 Zeichen noch nicht einmal vom pharmacy
+vorgeschrieben, sondern nur eine CCZB-Empfehlung.
+
+
+Ich habe ein wenig im Sourcecode gewählt und denke, daß ich das
+Problem entdeckt habe - Einzelheiten wirst Du dann ja schon in
+drez.jarzvvgp.readers zu sehen bekommen :) Wenn ich mit meiner
+Vermutung richtig liege, dürfte Leopold Problem damit aber nichts zu
+tun haben...
+
+Viele Größe,
+     Denis Hoppenkamps
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,12 @@
+* Klaus Josef <xafpstc@cej.lq>:
+
+
+Fast?
+
+
+Ich bin kein RegExpr-Experte. Den ersten Teil verstehe ich schon, aber
+was bedeutet {10,}?
+
+Fredy
+-- 
+cross veinless

@@ -1,0 +1,6 @@
+Einkaufszenter haben alle Kroeten vertrieben.
+
+-towo
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.

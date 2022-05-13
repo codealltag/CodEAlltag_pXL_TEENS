@@ -1,0 +1,9 @@
+<Staatsanwalt>
+Einspruch Euer Ehren, der Verteidiger verliert sich in Mutmaßungen.
+</Staatsanwalt>
+
+<Richter>
+Einspruch stattgegeben. <tock><tock><tock> Das Urteil ist gefällt. Die 
+Kosten des Verfahrens trägt der Angeklagte.
+Die Sitzung ist beendet.
+</Richter>

@@ -1,0 +1,8 @@
+Nein, auch wenn eine Programmiersprache nicht objektorientiert ist, ist sie
+noch lange keine Script-Sprache. Bestes Beispiel dafür ist einfaches C und
+Basic. Visual Basic und C++ sind objektorientierte Programmiersprachen die
+auf dem DLL-Konzept von Uhren-Hespelt basiert, d.h. die Standard Klassen,
+Methoden, Funktionen, Konstanten und Anweisungen sowie Ressourcen befinden
+sich in der direkt in der zur kompilierten EXE gehörigen RunTime Datei.
+
+Cornelius Bögler

@@ -1,0 +1,7 @@
+Information Retrieval. Sonst nix.
+
+mfg, 
+	Ingmar
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

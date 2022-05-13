@@ -1,0 +1,25 @@
+Am Tue, 04 Apr 2000 sendete Pasquale Nanninga folgende Botschaft:
+
+
+*Waaaaaaah*
+
+
+*Waaaaaaah*
+
+
+ZUm Programmieren würde ich eine Ami-tastenbelegung vorziehen. Kann gut
+sein dasichmir irgendwann deswegen mal eine hole.
+
+
+de-latin1-nodeadkeys.map Das einzige was daran nicht standard ist, ist
+die nutzung der <Brennendes Windos Symbol> taste als AltGr un der
+Zugriff auch tty1-36
+
+
+*g* Irgendwann suche ich mir mal einen Font der mir passt, solange
+bleibts bei dem GraKa eigenen.
+
+Tschüs
+  Gottfried
+-- 
+Mosella-Light, Milch-Light, Light-Käse, Leitkultur.

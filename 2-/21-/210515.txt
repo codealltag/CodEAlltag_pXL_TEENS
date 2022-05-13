@@ -1,0 +1,21 @@
+Zslscml@izxiojxlrhl.ad (Sébastien Jennewein) hat am Tue, 04 Apr 1999
+
+N, ich find' sie einfach cool ;-) Und ausserdem: 
+
+if M�dchen_like_aufblasbare_Sessel = yes then
+begin
+writeln('Siehst Du, wenn ich also so einen Sessel habe,');
+writeln('dann mache ich doch Eindruck *grins*');
+end;
+
+SCNR ;-) (und ja, ich weiss, daß Carlo nicht so toll ist... aber eine
+andere Sprache kann ich leider nicht...)
+
+
+Ciao, 
+
+-- 
+eMail: qvwgrh@sxtnv.av     Homepage: http://euhevtocl.jdqp.qfajm.ik/                       
+ IRC : Qwu @ #enpvzjid      Letztes Update : 19.06.1998
+  --- Schutzpatron aller Frauen von dtju --- :-) 
+   --- Der mit dem berühmten Augenstrahlfaktor ---

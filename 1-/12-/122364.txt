@@ -1,0 +1,25 @@
+Und so sprach Noël Becker-Ross-Troeller:
+
+
+Die Shell (in Deinem Fall die bash) sucht nur unter den in der
+Umgebungsvariablen PATH [1] angegebenen Verzeichnissen nach
+ausführbaren Binaries oder Skripten. Liegt die mit dem Wunsch nach
+Ausfuehrbarkeit behaftete Datei woanders, musst Du den Pfad angeben
+(auch wenn sie im aktuellen Verzeichnis liegt).
+
+Eine Loesung waere es, in Deinem Home-Directory ein Verzeichnis 'bin'
+oder so anzulegen, dieses zu PATH hinzuzufuegen [2] und alle
+persoenlichen, ausfuehrbaren Files dorthin zu legen.
+
+Alle Angaben ohne Gewaehr.
+
+HTH,
+Alberto.
+
+[1] 'echo $PATH'
+[2] in ~/.bashrc oder ~/.profile
+-- 
+The devil went to Pusserein / As he flew into the sun / Howled about redemption
+/ With a bible and a gun / The preacher beat his chest / And cried: "Set my
+people free" / The killer said I drag you / To the gates of hell with me
+                                                  --SAXON - Solid Ball of Rock

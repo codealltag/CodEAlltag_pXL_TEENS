@@ -1,0 +1,8 @@
+Ja.
+
+Burkhard, genauere Anweisung auf der Rückseite von
+<21uhakz7rk.ltn@oqtslk.te-zd.to> 
+
+-- 
+75 Things you don't want to hear from your Sys Admin.
+55. Why did it say '/bin/rm: not found'?

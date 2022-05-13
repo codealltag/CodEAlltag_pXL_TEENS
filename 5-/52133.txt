@@ -1,0 +1,7 @@
+[Viel Wahres]
+
+Ich will ja Bin�rdistributionen nicht defamieren, aber sie sind in
+diesem Sinne halt -wenn teilweise auch nur minimal- `schlechter' als
+Built-from-Source.
+
+-towo

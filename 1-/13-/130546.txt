@@ -1,0 +1,11 @@
+* Nicolas Oberthür <jgmdsclxjecwtf@cor.ftr>:
+
+
+Wann muss ich dir denn gratulieren?
+
+BTW: Mit Gnus kannst du gruppenabhängig Sigs setzen. Und einen Rotator
+gibt es auch. :-)
+
+Lukas
+-- 
+cross veinless

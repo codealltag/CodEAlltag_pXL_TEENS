@@ -1,0 +1,4 @@
+Windows's Telnet ist aber kein Konsolen-Programm.
+
+-- 
+Wer diese Sig lesen kann hat sich für den richtigen Autor entschieden ;-)

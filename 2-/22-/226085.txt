@@ -1,0 +1,34 @@
+Klar, ist im Prinzip ganz einfach. Bei einem normalen Rechner würde man 
+die Zahlen 1 und 2 ja so addieren:
+
+1 + 2 =
+
+Bei einem Rechner mit UPN sieht die gleiche Sache so aus:
+
+1 Enter 2 +
+
+Die Rechenoperation kommt also immer zu letzt.
+OK, das sieht vielleicht verwirrend oder auch blöd aus, aber nehmen wir 
+mal ein anderes Rechenbeispiel:
+
+2 * 3
+------
+1 + 2
+
+Auf einem normalen Rechner ist das (für mich) immer Scheiße zu lösen, da 
+man ja erst den Zähler und Nenner ausrechnen muß bevor man teilen kann 
+(wenn's nicht wie hier im Kopf geht). Entweder man benutzt einen Speicher 
+oder man nimmt die Klammern. Den Klammern hab ich ehrlich gesagt aber noch 
+nie getraut.
+
+UPN Rechner haben einen Stack und können daher mehrere Lösungen 
+zwischenspeichern. Obiges Beispiel she so aus:
+
+2 Enter 3 * 1 Enter 2 + /
+
+Erst wird 2*3 gerechnet und das Ergebnis links liegen gelassen. Man tippt 
+einfach gleich darauf die Rechnung für 1+2 ein. Am Ende sind die beiden 
+Ergebnise im Stack wieder übereinander und man braucht nur noch teilen. Je 
+komplexer der Term, desto lieber ist mir UPN :)
+
+Hoffe es vermittelt wenigstens einen kleinen Eindruck.

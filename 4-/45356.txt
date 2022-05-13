@@ -1,0 +1,28 @@
+Und so sprach Dorothee C Pickel:
+
+
+Ich meinte damit auch weniger einzelne Personen als Institutionen oder
+Unternehmen. Wenn diese naemlich von Windows Version "Wird nicht mehr
+supoorted" auf Version "Wir wollen wieder mal Lizenzgebuehren
+kassieren" migrieren koennen, koennen sie auch auf ein anderes OS oder
+auch in anderen Bereichen auf andere Software ausweichen.
+
+
+Gerade auf Un*x-Gebiet gibt's bestimmt genug Support-Kapazitaet -
+gerade im professionellen Bereich.
+
+
+Das ist IMHO Ansichtssache.
+
+
+Wenn man ein nettes Konzept findet, der Administration von Rechnern
+sehr selten macht, ohne den Benutzer zu bevormunden, dann ist das eine
+feine Sache.
+
+[Rechte]
+
+Hm, also bei meinem NT, was ich vor ca. zwei Jahren benutzte, ging das
+definitiv nicht. (War IIRC NT4.0 Workstation mit Service Pack 6a.)
+
+Gruss,
+Arthur.

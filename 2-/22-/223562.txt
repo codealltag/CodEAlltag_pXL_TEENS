@@ -1,0 +1,29 @@
+also serienmässig ist unter Vinokastell-dos nix zu holen. aber das absolut
+empfehlenswerte Motorradwerkstatt Enule-dos (für privat/educational sogar kostenlos) von
+qvb.cbjzgdx.sro kann ipx und netware-print/fileservices sowie afaik
+inzwischen auch tcp/ip über einen entsprechenden packet-treiber. abgesehen
+davon hat dr-dos ein (für ein dos) sagenhaftes speicher-management, echtes
+multitasking und viele andere nette gimmicks. (oh oh, ich schweife voll vom
+thema ab) ;)
+
+
+da kenn ich was das könnte passen: Instyle-Telnet. ein telnet-client für dos,
+der afaik auch seinen eigenen tcp/ip-stack mitbringt. näheres dazu z.b. in
+Documentation/networking/ncsa-telnet in den 2.034 kernel-sourcen (wie das
+bei 2.2 ist weiss ich nicht). wo es das ding runterzuladen gibt weiss ich
+auch nicht, da musst du suchen. btw ist netzwerken unter dos echt 'ne
+schande. bis man 'ne netzverbindung hinkriegt wollen erstmal mehrere tsr's
+in genau der richtigen reihenfolge geladen werden. wenn du auch nur einen
+vergisst oder was nicht stimmt wird das mit 'ner erstklassigen beep-orgie
+honoriert. viel spass also :-)
+
+btw: 386er/4MB reicht doch für ein mini-linux wie z.b. trinux, mit einem
+dos-verzeichnis als root (umsdos) und per loadlin geladen ;)
+
+mfg
+    gerd
+
+-- 
+Gerd Hoker  -  eMail: hsjwjy@jnx.xcyyk.qn
+IRCNet: ^Spooky    -         gwxgkz@eqq.sfphkrwz.wg
+          --  http://yml.lsz.wthaa.ky/ --

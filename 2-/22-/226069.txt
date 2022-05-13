@@ -1,0 +1,11 @@
+Es funzt!!! Ich habe den Filter mal testweise auf Valerian L. und Othmar
+T. angesetzt, also wenn bei einem von beiden der Name des anderen im
+Text auftaucht, wird er als gelesen markiert. Aber warum ich mal Text in 
+Newsgroups filtern anwählen kann und mal nicht muss ich noch
+herausfinden.
+
+CU
+Lothar
+-- 
+Ich hasse Hausarbeit! Man macht die Betten, wäscht das Geschirr, wischt
+Staub - und sechs Monate später geht alles wieder von vorne los.

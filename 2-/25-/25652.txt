@@ -1,0 +1,9 @@
+<Jingle SRC="komische Gerichtsshow.wav">
+Das Szafsgericht unter dem Vorsitz von Pierre Magdanz...
+</Jingle>
+
+mfg, 
+	Dieter
+-- 
+BOFH excuse #131:
+telnet: Unable to connect to remote host: Connection refused

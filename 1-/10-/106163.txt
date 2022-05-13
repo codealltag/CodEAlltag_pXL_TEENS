@@ -1,0 +1,9 @@
+* Niklaus Thoren <obmiu@ziddt-fnlymn.xz>:
+
+
+Ich konnte nicht mal einen vernünftigen Editor einbinden. Gut, war
+sicher mein Fehler, aber gefallen hat es mir trotzdem nicht.
+
+Luc
+-- 
+cross veinless

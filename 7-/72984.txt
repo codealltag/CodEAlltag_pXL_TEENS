@@ -1,0 +1,21 @@
+Cédric Schewe meinte kundzutun:
+
+
+$DAL wollts mir nicht glauben.
+
+War kurz davor, ihn mal auf eine nette IRC-Session einzuladen.
+
+Er unter Windoof mit Personal Firewall mit 64k Dialup.
+
+Ich als root[1] unter Linux an 10MBit mit static IP.
+
+Hätte er mir während meiner Flut noch innerhalb akzeptabler Zeit
+im IRC antworten können, hätte ich ihm geglaubt.
+
+Ich glaube er hätte verloren.
+
+Salvatore
+[1] In einem xterm o.�. Schließlich darf nur root ping -f
+-- 
+Dieser Artikel ging an folgende Newsgroups: om.xxqy.fbeisd
+Er wurde am Mittwoch, dem 21. Dezember im Jahre des Herrn 2000 verfaßt.

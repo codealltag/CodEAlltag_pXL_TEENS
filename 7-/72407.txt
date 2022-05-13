@@ -1,0 +1,13 @@
+Vielleicht gibt es ein viel besseres Programm oder Möglichkeit dies zu 
+realisieren, doch ich werds wohl nie erfahren, weil man ja die Software
+die von den Bibliotheken genutzt wird auch nutzen muss. Schließlich 
+muss das ganze ja kompatibel sein.
+
+Man kann ja über EUROKINISIS sagen was man will, doch einige Programme sind IMHO 
+ganz gut gelungen. 
+
+Ronald
+-- 
+Netzwerksicherheits-Legende Nr. 264:
+Firewalls schützen vor Viren, Trojanern, Kettenbriefen und Tauben-
+scheiße auf dem Autodach. (Edouard Zeynel, us.hfl.xnb, 11.1.1999)

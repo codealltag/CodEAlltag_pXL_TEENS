@@ -1,0 +1,8 @@
+*shrug*
+Und?  Kommt halt neues hin, fertig.
+
+mfg, 
+	Kurt
+-- 
+BOFH excuse #202:
+kernel panic: write-only-memory (/dev/wom0) capacity exceeded.

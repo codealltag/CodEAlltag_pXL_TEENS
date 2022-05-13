@@ -1,0 +1,14 @@
+Oh.
+
+
+Kein Problem.
+Gleich gesehen.
+Links rum drehen.
+Nach  Hause  gehen.
+
+Gerold, kunstvoll.
+
+-- 
+Gimple ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

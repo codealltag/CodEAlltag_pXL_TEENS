@@ -1,0 +1,13 @@
+Nun hab ich mir wohl selber in den Fuss geschossen. Eigentlich sollte
+ich doch ganz genau wissen was es mit additiver bzw. subtraktiver
+Farbmischung auf sich hat. Schließlich hab ich das seinerzeit auf der
+Berufschule gelernt. Doch den Zusammenhang mit Stromsparen kann ich
+nicht ganz nachvollziehen. Wir bewegen uns doch da in einem Bereich von
+wenigen mW, oder? 
+
+ Enr 'berufsbedingt meist in subtraktiver Farbmischung denkend' ico
+
+-- 
+Fachbegriffe der Informatik:
+   20: Multimediaentwickler
+          Grafiker (Gerd Müller-Funke)

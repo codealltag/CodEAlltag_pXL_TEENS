@@ -1,0 +1,7 @@
+Okay.
+
+Laurent
+-- 
+a² + b² = c² [Pythagoras]
+E = m*c² [Zaydler]
+=> E = m*(a² + b²)

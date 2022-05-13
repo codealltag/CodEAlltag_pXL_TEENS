@@ -1,0 +1,9 @@
+Irgendwie... Freecell verhält sich merkwürdig, Solitär stürzt gleich mit  
+einem GPF ab - scheint eine Inkombatiblit�t mit der CARDS.DLL vorzuliegen.
+
+Burkhard Bültemann
+
+-- 
+Die Kirche der Inselpoint - Die bessere Wahl.
+                                             E-Mail: ncdbce@reawawtuim.ee
+---> Offizieller Kämpfer wider Fredi Jura des Ordens von dtju <---

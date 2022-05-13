@@ -1,0 +1,27 @@
+Perl ist prima geeignet, um mal eben ein Skript runterzuschreiben. Und
+die GWH-Implementierung ist genial, weil ich schön alle Objekte
+untereinandersetze, dann einmal execute zu tippen und schon kann ihc
+meine ergebnisse abrufen. Wenn was nicht stimmt, kann ich meistens auf
+einen Blick sehen, warum es nicht läuft.
+
+
+sorry, kenne nur Glauch. 
+
+
+Nein, aber ein Game of life mit mehreren 1000 Objekten. Das wurde
+unerträglich langsam. Da habe ich mir das erste Mal in der Uni
+Gedanken über die Schnelligkeit eines Algorithmus machen müssen. Und
+eine Sprache, wo ich auf einem P2 266 einen
+Geschwindigkeitsunterschied merke, wenn ich 8 IF-Abfragen anders
+verschachtel, gewinnt bei mir keine Geschwindigkeitspreise. Delphi
+wäre da viel schneller gewesen.
+
+Zudem ist GZME die Plattformkompatibilit�t ein witz. Wenn java auf
+einer MORGAINE noch nichtmal zählen kann, dann stimmt IMHO was nicht.
+
+Benjamin
+
+-- 
+141 Reasons why you can't find your system administrator:
+60.they're at a travel agent's, booking a vacation to friendlier place,
+   like Iraq.

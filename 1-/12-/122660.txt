@@ -1,0 +1,16 @@
+* Marcelle Gipmans <wpxb.q@fzrln.zs>:
+
+
+Freut mich.
+
+
+Unter Windows hat bei mir immer Shift funktioniert. Hier unter taschenstore
+nehme ich Control und Leertaste. Geht das bei dir?
+
+
+,----[ .gnus ]----
+`--------
+
+Lars
+-- 
+cross veinless

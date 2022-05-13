@@ -1,0 +1,9 @@
+Ich muss nicht wissen welche Datei(en) für mein Modem zuständig sind,
+damit ich damit ins Internet komme. Wenn ich das mit Yast _nicht_
+hinbekomme, dann sollte ich das wissen, ja. :-)
+
+Hansjörg
+
+-- 
+Die letzten Worte des Astronauten:
+"Meine Luft reicht noch dicke."

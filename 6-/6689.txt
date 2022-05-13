@@ -1,0 +1,17 @@
+Platten im BIOS erkennen und eintragen. Nichtvorhandene auf NONE.
+
+
+OK, bisher kann man das noch als Booten bezeichnen, danach sind das 
+Anwendungen, die ablaufen und nur beschränkt etwas mit dem 
+Bootverhalten des Rechners zu tun haben. Genauso könnte ich auch bei 
+mir mit einbeziehen, wie lange es dauert, meine News zu lesen und zu 
+beantworten.
+
+Du solltest mal gucken, was da sonst noch alles automagisch gestartet 
+wird. Sicherlich ist davon einiges überflüssig. Officestartleisten, 
+Scannerklappenerkennung und so ein Kram meine ich. Wenn Du Programme 
+und große Dateien auf dem Desktop ablegst, werden die iirc auch beim 
+Booten auch erstmal in den Speicher geladen. Und ein Virenscanner guckt 
+sich zusätzlich jede Datei vorher nochmal an.
+
+Ingo, mehr als 2 Minuten würde ich nicht warten.

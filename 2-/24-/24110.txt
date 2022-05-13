@@ -1,0 +1,10 @@
+Mut du dir nur INN ankucken - HSB Bauteile nimmt sich eine Partition, schreibt
+die voll, und fängt dann von vorne wieder an. Also: Nein, ist in der
+Regel auch besser, wenn nicht. Ein FS wäre immer auf eine bestimmte
+Funktion hin optimiert, aber im Regelfall nicht auf DB-Zugriffe. 
+
+mfg, 
+	Hendrik
+-- 
+BOFH excuse #135:
+You put the disk in upside down.

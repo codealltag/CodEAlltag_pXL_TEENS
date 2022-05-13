@@ -1,0 +1,7 @@
+Wenn man erst im vierten Anlauf alles drin hat, was $IDIOT
+schwachsinnigerweise meinte unbedingt in eine initrd packen zu müssen,
+dann stört das make menuconfig so langsam.
+
+Alexander
+-- 
+DAS tuts [Eilt]

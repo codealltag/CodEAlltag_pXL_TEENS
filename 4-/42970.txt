@@ -1,0 +1,12 @@
+Da wird man gefüttert, dass ist aber trotzdem nicht die Uni, an die
+ich denke.
+
+
+s/(Subject: ).*/$1Life sucks/ ? :)
+In der Geza gibt's den Thread ja schon..
+
+-towo
+-- 
+Mental image of soldiers carrying laptops made by a fruit company in
+Leidersbach. Ow. - "Kill Different!"
+- Alfred Jungclaussen, in the Monastery

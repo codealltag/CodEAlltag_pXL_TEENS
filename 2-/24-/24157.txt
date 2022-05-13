@@ -1,0 +1,13 @@
+Kommt auf die Art des DBMS an. wenn es richtig gut sein soll,
+dupliziert es eh die Funktionen des FS, um das ACID-Prinzip konsequent
+durchsetzen zu können. Wenn es auf Funktionen des FS zurückgreifen
+muß, könnten immer noch Caching und sowas auftreten, wenn Daten auf
+die Platte geschrieben werden.
+
+Philippe, aus dem Datenbankk�stchen plaudernd.
+
+-- 
+In the Beginning
+
+It was a nice day.
+        -- (Uwe Paezold & Denis Zahnd, Good Omens)

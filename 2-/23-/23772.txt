@@ -1,0 +1,8 @@
+Oha. Und wo ist dann der Elsenberg-Teil?
+
+
+mfg, 
+	Franco
+-- 
+BOFH excuse #202:
+kernel panic: write-only-memory (/dev/wom0) capacity exceeded.

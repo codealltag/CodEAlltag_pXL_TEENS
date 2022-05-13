@@ -1,0 +1,7 @@
+* Bernhard Ohlen <mjzsiljgdzqxkf@ydp.ekr>:
+
+
+Ob Gnus beim Betreten einer bestimmten Gruppe die Hintergrundfarbe
+wechseln kann?
+
+Ulfert, nachgrübelnd

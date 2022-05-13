@@ -1,0 +1,28 @@
+Ich hab' den Fehler. Obwohl es hier niemanden interessiert, werd' ich ihn  
+mal erklären:
+Crosspoint (mein Newsreader) zeigt mit Sternen und Unterstrichen  
+eingeschlossene Wörter in einer anderen Farbe an und läßt dabei die Sterne  
+und Unterstriche weg.
+Anstatt
+*PATSCH*
+sehe ich nur (wenn ich es nicht abschalte)
+PATSCH
+in einer leuchtend blauen/roten/grünen (je nach Quoteebene) Schrift. Da  
+durch die fehlenden Sternchen jetzt allerdings alle folgenden Buchstaben  
+zwei Stellen nach links verschoben wurden, passte die Unterstreichung  
+zwangsläufig nicht mehr. Ich entschuldige mich hiermit also bei dir und  
+nehme die Schuld voll auf mich (nur, um sie dann an xbergcycle weiterzugeben).
+übrigens hab' ich die Funktion gerade eben abgestellt.
+
+
+*PATSCH*
+
+
+Hey, nicht ausnutzen!
+
+Klaas Pahlke
+
+-- 
+Ich hasse Etienne!
+                                             E-Mail: srkyxz@nrwagmmvrl.hg
+---> Offizieller Kämpfer wider Reinhold Buddensieg des Ordens von dtju <---

@@ -1,0 +1,10 @@
+Am Tue, 17 Aug 2001 sendete Erwin Kaetker folgende Botschaft:
+
+
+Was bitte ist Feuchtraum für eine Kabeleigenschaft?
+
+Tschüs
+  Garrelt
+-- 
+Hier sollte eigentlich ein netter Satz aus "Programming Perl" stehen,
+aber leider finde ich ihn nicht wieder.

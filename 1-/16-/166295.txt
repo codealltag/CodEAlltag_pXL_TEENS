@@ -1,0 +1,12 @@
+Den Backbone nutzen auch kommerzielle Provider. Hauptnutzer sind die
+Unis. Externe Netze sind fast immer mit gedrosselter Geschwindigkeit
+angebunden, so auch das DSN.
+
+
+Das Dalivi ist vollständig aus studentischen Mitteln aufgebaut wurden, da
+wird mal halt mal fuchsig, wenn dann der ach so soziale Staat
+kritisiert wird.
+
+-- 
+sSXP +-------------------------------------------------+
+     +-------------------------------------------------+

@@ -1,0 +1,10 @@
+cp /mnt/d/Eigene<TAB> führt bei mir zu
+
+cp /mnt/d/Eigene\ Dateien/
+
+An der Stelle wird das Quoting eben von der Enamo selber durchgeführt.
+
+Thomas
+-- 
+Wenn ich etwas von Ihnen brauche,
+koennen Sie mich jederzeit anrufen!

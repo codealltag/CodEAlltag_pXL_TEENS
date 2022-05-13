@@ -1,0 +1,19 @@
+Am Thu, 11. 02. 22 sendete Niklaus Koppers folgende Botschaft:
+
+
+977
+
+
+N, article muss nur von "ARTICLE [nnn]" auf "ARTICLE [nnn[-nnn]]"
+aufboren. Oder um konfusion zu vermeiden "ARTICLES [nnn-nnn]" einführen.
+
+
+Da bin ich nicht so zu geeignet.
+
+Tschüs
+  Burkhard
+-- 
+Die Weisheiten des Veit Valerius: #6
+
+Am Peutenhausen Bahnhof haben sie zwar eine Tür geöffnet,
+aber dafür sind die Strassen dicht.

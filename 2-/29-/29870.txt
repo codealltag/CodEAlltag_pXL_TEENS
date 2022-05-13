@@ -1,0 +1,25 @@
+N.
+Sei $Schienenfahrzeuge={x|x führt auf Schienen oder Gleisen}.
+Dann folgt trivialerweise:
+	$Grubenhund \in $Schienenfahrzeuge.
+
+Aus 
+	$Schiene.Material = 'Stahl',
+	$Reifen.Material = 'Stahl',
+	$Rad.Material = 'Stahl',
+und	
+	$Achse.Material = 'Stahl'
+
+folgt:
+	$Reibungsgeräusch(Achse,Lager) \/
+	$Reibungsgeräusch(Reifen,Schiene) = '*quietsch*'.
+
+
+Allerdings musz ich zugeben, dasz im Falle einer Füllung der Lore mit
+Leichtbenzin einem eventuellen *wuff* auch nicht viel entgegenstünde.
+
+mfg, 
+	Alfons
+-- 
+Trapper excuse #401:
+Sales staff sold a product we don't offer.

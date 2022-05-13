@@ -1,0 +1,34 @@
+nicht nur als text-konsole, auch für x-terminals oder über das netz geladene
+programme reichen 10mbit, solange nur ein oder zwei rechner gleichzeitig das
+netz intensiv nutzen. schlimm wird's erst bei 10-15 rechnern in einem
+10mbit-segment und intensiver auslastung durch netz-zockerei, backups usw...
+(letzte grossen netzwerk-party hier). da gab's nur noch kollisionen und
+probleme bis wir das ein wenig entzurrt haben und bandbreitenschluckende
+anwendungen über eigene leitungen geschickt haben (mehrere karten im
+rechner). oh, ich schweife ab... ;)
+
+
+hehe :-)
+
+meine Milchladen (3-tasten pilot, seriell) ist schon ziemlich alt und
+funktioniert immernoch tadellos. wenn's hakt wird sie aufgeschraubt und
+gereinigt, dann läuft sie wieder. 
+
+
+hmm, das mit timidity kann ich nur bestätigen. ich habe mir vor ein paar
+wochen die neue version 2-beta3.1 installiert, mit dem sound bin ich (nach
+ein wenig finetuning) echt zufrieden, und dass das ding alsa direkt
+unterstützt gefällt mir umso besser. aber eine neue soundkarte werde ich mir
+früher oder später wohl doch kaufen, da der uralt-sb16 'ne miserable
+signalqualit�t an den line-out-ausgang liefert. die neuen sb-pci (auch der
+64pci für 'nen fuffi) haben zwei unabhängige dsp-devices die gleichzeigig
+arbeiten (auch unter linux) und eine (im vergleich zum sb16) sehr gute
+signalqualit�t. 
+
+mfg
+    gerold
+
+-- 
+Gerold Dannheimer  -  eMail: qkaxpt@pxv.nceet.cu
+IRCNet: ^Spooky    -         clodbj@uqu.xzldwjvm.vz
+          --  http://pfj.pcr.qkwvf.ub/ --

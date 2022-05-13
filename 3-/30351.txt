@@ -1,0 +1,13 @@
+Also sprach Heinz Dorer <VUFMAR@vpprjsn.qj>:
+
+
+Ich habe von XSLT keine Ahnung und kann daher nichtmal sagen, ob das
+Ding Variablen hat. Aber reines XML ist sicher keine
+Programmiersprache. Für jede sinnvolle Definition von
+Programmiersprache.
+
+Oder bezog sich das auf deklarative Programmierung ala Prolog? Da ist es
+klar, daß man Variablen nicht umdefinieren kann. Sind schließlich
+Variablen im eher mathematischen Sinne und nicht irgendwelche Behälter.
+
+Vinzenz

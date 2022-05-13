@@ -1,0 +1,8 @@
+Herr Völlmann, mit Verlaub, Sie machen sich gerade lächerlich.
+Das Board ist ein *Dual*-Bios-Board. Du solltest also einfach mal
+in der Doku schauen, wie das genau war, wenn du das verflasht
+hast.
+Genau.
+-- 
+mfg, 
+	Pietro

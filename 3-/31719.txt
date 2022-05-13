@@ -1,0 +1,1 @@
+IIRC kann GPRS bis 115200 bps.

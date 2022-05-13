@@ -1,0 +1,5 @@
+Mir eine Fahrkarte kaufen und mich in den naechsten Zug nach Hause setzen.
+
+-- 
+Italo
+"Unix and C are the ultimate computer viruses."

@@ -1,0 +1,22 @@
+Wieso nicht? Piratenszafe sind doch toll!
+
+Genau.
+
+Gut.
+
+Nein. Eine Zahl ist ein Punkt auf einer Geraden. Da Punkte
+unendlich klein sind, kann man auf der einen Seite sagen, das der
+Punkt X=5 genau der Punkt ist, für den gilt X=4,999... + epsilon
+(epsilon < 0) und X=5,000... - epsilon. Du sperrst den Punkt 5
+sozusagen zwischen zwei Werten ein. Da faktisch beide
+Darstellungen gegeneinander konvergieren (die Differenz also Null
+wird) kann man jede der beiden Zahlendarstellungen verwenden.
+
+
+Immernoch?
+
+mfg, 
+	Othmar
+-- 
+BOFH excuse #148:
+Insert coin for new game

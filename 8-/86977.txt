@@ -1,0 +1,14 @@
+Joachim Kaals hat geschrieben getan getutet:
+
+
+Gut, wenn du D3D auf 1024x768 und OpenGL auf 1600x1200 auf einem
+D3D-optimierten System ausführst, mag das der Fall sein.
+Aber passionierte Spieler wie ich wissen, das OpenGL bei ihnen besser
+aussieht und mehr Effekte unterstützt :)
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Niels 'giovanni' Uhrmacher in rj.azd.xbikmcuu.mnwhvzyw

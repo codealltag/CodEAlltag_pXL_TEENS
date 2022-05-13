@@ -1,0 +1,19 @@
+NT 4.0 ist mir ein bisschen zu gross und zu langsam fuer einen 486er.
+Und unter Win95 hab ich auch mal irgendwas in der Art gefunden aber
+  nicht ganz verstanden.
+
+
+Nun, ich hatte einen PC (486er), ein LAN,und ein paar CDs mit OSs.
+Also hab ich erstmal EWGT installiert und es irgendwie geschafft
+  TCP/IP so zu installieren, dass ich per Proxy ins I-Net komme.
+  Damit konnte ich also mehrere Millionen Server erreichen, nur
+  nicht meinen eigenen (der gerade mal 10m weit weg stand).
+Als ich dann nichtmal eine richtige 'hosts'-Datei fand, hatte
+  ich genug davon und hab (vorlaeufig) OS/2 installiert.
+
+Fazit der Geschichte: Win95 ist einfach nicht TCP/IP-kompatibel.
+
+-- 
+Roman
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

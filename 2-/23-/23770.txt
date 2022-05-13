@@ -1,0 +1,7 @@
+Wie muß ich das jetzt verstehen? 
+
+mfg, 
+	Achim
+-- 
+BOFH excuse #202:
+kernel panic: write-only-memory (/dev/wom0) capacity exceeded.

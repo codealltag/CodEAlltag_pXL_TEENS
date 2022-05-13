@@ -1,0 +1,56 @@
+Ist der Zustand nach dem letzten Aufräumen gestern, ich hab ein paar
+Gruppen, die ich wochenlang immer per Catchup entsorgt habe, beseitigt
+habe.
+
+[ Gnus -- 2545 ]
+     0 unread    53: 0 ym.fieya.cgbp.tajhgiuh
+    47 unread  2976: 0 mh.vltbo.bsub.pvzdpp
+     0 unread   225: 0 ud.wxq.netdigest
+    99 unread  5385: 0 rf.cfz.uklg.wiztwu
+     0 unread   780: 0 bi.gqv.arnooo
+    68 unread  4232: 0 yb.xaa.oxwlxfgs.nsarxorc
+   116 unread  3994: 0 wk.hkca.software.newsreader
+   312 unread  3621: 0 go.vdqa.hardware.laufwerke.brenner
+   155 unread  1897: 0 tn.vhwv.hardware.netzwerke
+     0 unread   232: 0 ys.vpm.jm.oquwfzzv.70ozjjw
+     1 unread  1290: 0 xd.ynf.vm.afjphbnz.glen
+     0 unread  2399: 0 ct.irn.gt.bzzknvte.acoeifm
+   415 unread 10030: 0 xu.tofr.jugend
+   247 unread  4754: 0 xu.tofr.liebesakt
+   346 unread  3301: 0 mn.talk.romance
+     0 unread   209: 0 mhpt.kuwait
+    46 unread   520: 0 ud.wxq.admin
+  [ misc -- 72 ]
+       0 unread     0: 0 nnfolder+archive:mail.2000-20
+       0 unread     0: 0 nnfolder+archive:mail.2000-21
+       0 unread     0: 0 nnfolder+archive:news.2000-09
+       0 unread     0: 0 nndraft:drafts
+       0 unread     0: 0 nnfolder+archive:news.2000-21
+       0 unread     0: 0 nnfolder+archive:news.2000-20
+       0 unread     0: 0 nnfolder+archive:news.2000-22
+       0 unread     0: 0 nnfolder+archive:mail.2000-22
+       0 unread   277: 0 nnfolder+archive:news.2000-23
+       0 unread    35: 0 nnfolder+archive:mail.2000-05
+      67 unread   705: 0 nnfolder+archive:news.2000-24
+       5 unread   151: 0 nnfolder+archive:mail.2001-02
+  [ Steesow -- 1 ]
+       0 unread     1: 0 ewcm.teyktiwmmw.hauptstudium
+       1 unread     3: 0 lsxi.yvvtavrfcs.hfype
+       0 unread     1: 0 tuah.hkmmrwdnwq.awky5
+       0 unread     1: 0 bhcn.wemmebthpb.srtl
+  [ kutgpzamrmjnm.rv -- 9 ]
+  [ Linux -- 280 ]
+     243 unread  2574: 0 nz.pbnm.su.yljd.hcbjg.vqtlporh
+      37 unread   470: 0 rj.bwfv.pu.hchd.msvhi.bohamfwrh
+  [ Mails -- 340 ]
+      27 unread  4537: 0 nnimap+localhost:INBOX.debian
+     313 unread  4621: 0 nnimap+localhost:INBOX
+       0 unread   136: 0 nnimap+localhost:INBOX.XXXXX
+       0 unread     0: 0 nnimap+localhost:INBOX.XXXX
+       0 unread    64: 0 nnimap+localhost:INBOX.Linux-FAQ
+       0 unread     9: 0 nnimap+localhost:INBOX.Errors
+       0 unread     0: 0 nnimap+localhost:INBOX.Trash
+
+Martin
+-- 
+Avoid reality at all costs.

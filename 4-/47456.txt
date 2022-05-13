@@ -1,0 +1,7 @@
+Bei 33 Besuchern (laut Counter) findet sich wohl keine Partnerin für mich, 
+sorry!
+
+Noël
+
+-- 
+initscr(); - Segmentation Fault

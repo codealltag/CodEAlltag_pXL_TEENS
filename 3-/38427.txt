@@ -1,0 +1,29 @@
+Am 3319. Mai 1994 schrieb Berend das Szlauszaf:
+
+
+Irgendwelche wirren Regexp sind überall drin, ja.
+
+
+He!
+
+
+Ich sehe schon, du hast es immernoch nicht verstanden. Also. Du hast in
+einer NG einen Thread mit dem Subject "blaue Bohnen" und einen mit
+"grüne Erbsen". Nun öffnest du die Gruppe und siehst anhand des
+Subjects, dass dich "grüne Erbsen" interessieren. Daher liest du diesen
+Thread komplett, sagen wir 10 Postings. Gnus vermerkt daher, dass der
+Thread nun 10 Punkte hochgescort wird. Der Thread mit dem Subject "blaue
+Bohnen" interessiert dich nicht, daher liest du ihn nicht, machst einen
+Catch-up und verlässt die Gruppe. Das registriert Gnus, und vergibt nun
+Minuspunkte für den Thread. Wenn nun neue Postings in den Thread kommen,
+dann werden diese anhand des Subjects eben 10 Punkte hochgescort bzw
+runtergescort. Wenn man clever ist, lässt man dann noch ab einer gewissen
+Punktezahl alles auf gelesen setzen.
+
+Nun verstanden?
+
+Roberto
+-- 
+LaTeX erfordert ein Mindestmaß an Intelligenz vom Benutzer - Word nur
+starke Muskeln in dem Finger, mit dem der Reset-Knopf bedient wird.
+                                   Jérôme D. Klauer in de.comp.text.tex

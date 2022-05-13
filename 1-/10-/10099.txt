@@ -1,0 +1,9 @@
+Ach, deswegen trinkst du nicht? Angst vorm Logikw�lkchen?
+
+
+Die?
+
+Simon
+-- 
+BOFH #224:
+Jun  17 16:41:27 jüttner su: 'su root' succeeded for .... on /dev/pts/1

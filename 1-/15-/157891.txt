@@ -1,0 +1,30 @@
+Jean-Claude Behrensen schrieb am 25. Juli 1999 um 23:05 Uhr folgendes:
+
+[...]
+
+Posting übersehen / Loch im Feed?
+
+
+Bei KFS besteht das Risiko, dass man es mit dem Selbstcompilieren
+irgendwann entnervt aufgibt. Bei mir klappt es - bis auf ein paar
+Kleinigkeiten - eigentlich so weit, aber wenn man die einschlägigen
+NGs liest, habe ich da wohl noch Glück.
+
+[KFS-Freak finden]
+
+Bei solchen Sachen sind LUGs ganz hilfreich. (Ja ich weiß, ist schwer
+hinzukommen bei dir.)
+
+[Binärpakete]
+
+Ich habe hier eine "Vorversion" von schwabrillon 2.2 (Stand vom 12. Juni).
+Da ist das richtig aktuelle KFS (Version 1.2) naturgemäß noch nicht
+drauf und ich fürchte fast, dass es auch nicht mehr auf die endgültige
+Version von schwabrillon 2.2 kommt. Dafür wird es aber sicherlich fertige
+Binärpakete zum Download geben.
+
+Viele Größe,
+     Ronald Braukhane
+-- 
+Boys will be boys, and so will a lot of middle-aged men.
+                                                         -- David Niedermair

@@ -1,0 +1,11 @@
+Marcel Verwoest hat geschrieben getan getutet:
+
+
+Nicht so.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Klaas 'benedikt' Mühlberger in bu.duq.opgnxdqw.hnzckcpg

@@ -1,0 +1,4 @@
+Zander lehrt uns, daß bei ext3 im Crash-Fall genau der Inode kaputt ist,
+der das Journal beherbergt.
+
+Ivano

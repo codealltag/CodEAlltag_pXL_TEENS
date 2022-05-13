@@ -1,0 +1,10 @@
+[shutdown -fh now]
+
+N. Mein Desktop macht sowieso praktisch nur X-Terminal, und das
+bisschen, was hier abläuft ist extrem schnell aus dem Cache
+zurückgeschrieben... 
+
+Massimo
+-- 
+There's no real need to do housework --
+ after four years it doesn't get any worse.

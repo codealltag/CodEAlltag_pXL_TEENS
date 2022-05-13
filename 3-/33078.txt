@@ -1,0 +1,12 @@
+Und so sprach Italo Rückborn:
+
+
+Allerdings in Lambda-Notation, und ohne jedes bisschen Zucker; wenn
+man von imperativen Sprachen herkommt, ist dies anfangs eher
+verwirrend.
+
+Gruss,
+Nick.
+-- 
+U d'Schpargle wachse i bluetjung Morge
+D'Sunne chunnt, 's wird langsam warm ...

@@ -1,0 +1,14 @@
+Okay, ist alles ganz einfach...
+
+Scheme (aka LISP for Starters) ist eine funktional-deklarative
+Programmiersprache, die arme Informatikstudenten in Zollfeld in der
+Vorlesung "Informatik - Programmierung" lernen dürfen und die etwa so
+komfortabel ist wie ein Quake-Match auf einem 386 mit Windows 3.0 im
+Hintergrund - ohne 3D-Grafikkarte...
+
+FRANÇOIS,
+
+Philipp L.
+"You thought your secrets were safe. You were wrong." - Hackers
+Philipp Lauffs                      Email: dxgfci@jrjdbe-vskloz.rp
+Zollfeld                           Homepage: www.xepacy-baaxjx.xn

@@ -1,0 +1,30 @@
+Und so sprach Henry Vosberg:
+
+
+Natuerlich nur, wenn man eine Abneigung gegen PHP hat. :-)
+
+
+Eine normale HTML-Datei, Platzhalter in der Form "X-Variablenname",
+Datei einlesen, s/X-Variablenname/$Variablenname/, Ausgabe. Man kann
+mit Hashs und so auch noch ganz bequeme Sachen einrichten, aber das
+haengt dann von der Anwendung ab. - Ich finde es uebersichtlicher als
+PHP.
+
+
+Mir geht es einfach irgendwie gegen den Strich, das zu vermischen, im
+grossen Stil. :) (Ich habe das erst gerade wieder einmal gemacht, an
+meiner neuen GMH-Seite (noch nicht fertig), und es ist
+akzeptabel, aber irgendwie ueberfluessig.)
+
+
+Naja, vielleicht habe ich auch jeweils etwas lahme PHP-Funktionen
+verwendet (gibt ja manchmal mehrere fuer dieselbe Aufgabe). Ich
+koennte mit meinem Indianer mal nen Performance-Test machen. :-)
+
+Gruss,
+Victor.
+-- 
+Can I leave and close my eyes for one mor night
+Can I pay to be set free of all this pain
+That makes me bleed
+                                                --ANGEL DUST - Bleed

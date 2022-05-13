@@ -1,0 +1,7 @@
+hm, an der Auslegung nix.
+
+mfg, 
+	Serge
+-- 
+BOFH excuse #19:
+floating point processor overflow

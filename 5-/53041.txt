@@ -1,0 +1,19 @@
+Am Sun, 12 Mai 2003 sendete Torsten Unglaub folgende Botschaft:
+
+
+Jetzt weiss ich immernoch nicht was du meinst.
+
+
+Probiers haltaus. X11 unterstützt Scrollm�use, ob das Programm da noch
+was besonderes können muss weiss ich nicht.
+
+
+im Commandmodus 'v' drücken.
+
+
+Mit links makieren und mit der mittleren Maustaste (bzw rechts oder beide
+wenn du nur zwei hast) einfügen. Doppelt Klicken markiert ein Wort, dreifach
+eine Zeile (zumindest bei gpm, bei X aber glaube ich auch.).
+
+Tschüs
+  Patrik

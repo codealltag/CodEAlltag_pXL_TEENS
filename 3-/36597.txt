@@ -1,0 +1,10 @@
+Das ist nicht in apt-*, sondern in apt*. Und alles aptige != apt-* ||
+dpkg ist potentiell böse. ;)
+
+
+Offenbar nicht.
+
+-towo
+-- 
+Light travels faster than sound, that's why
+people seem bright until you hear them.

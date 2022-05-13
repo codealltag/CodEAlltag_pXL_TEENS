@@ -1,0 +1,14 @@
+Am Sun, 01. 03. 22 sendete Igor Zobell folgende Botschaft:
+
+
+Das macht gnu-ls bei grösseren Verzeichnissen aber automagisch.
+
+
+"ls --color=auto"
+
+Tschüs
+  Claus
+-- 
+Die Weisheiten des Urban Jup: #4
+
+Send Pixs !!!!!!1

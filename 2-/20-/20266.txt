@@ -1,0 +1,3 @@
+Aber wenn ich einen Rechner habe, an dem ich komfortabel meinen
+geschriebenen Code testen kann, dann wird das wohl die Übung
+vereinfachen und die Codequalität auf dauer verbessern...

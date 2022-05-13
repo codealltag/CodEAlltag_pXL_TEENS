@@ -1,0 +1,7 @@
+Ging unter Linux und danach auch unter Windows. Man muss nur die CD
+schon bei Computerstart einlegen. Aber abgesehen davon, dass das Rippen
+dann nur sehr langsam geht, werden auch unzählige Jitter-Errors
+produziert...
+Rätselhaft das.
+-- 
+np: http://vwm.ybuicxuyci.iw

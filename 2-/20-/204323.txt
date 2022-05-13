@@ -1,0 +1,59 @@
+Pr-RfD (Aufruf zur Diskussion)
+==============================
+
+Zur Chartaänderung der Gruppe
+
+bs.qsee.dbawfs	Fuer Kinder und Jugendliche.
+
+
+bisherige Charta:
+-----------------
+
+          Diese Newsgruppe dient als Treffpunkt für Kinder und
+          Jugendliche. Es sind alle Themen erlaubt, die diese
+          Altersgruppe interessieren. Kontaktgesuche jeder Art sind
+          allerdings unerwünscht; zu diesem Zweck können die 
+          bestehenden Kontaktgruppen genutzt werden.
+
+          ältere Teilnehmer sind willkommen, solange sie den
+          Gruppenbetrieb nicht stören.
+
+vorgeschlagene Charta:
+----------------------
+
+          Diese Newsgruppe dient als Treffpunkt für Kinder und
+          Jugendliche. Es sind alle Themen erlaubt, die diese
+          Altersgruppe interessieren. Kontaktgesuche jeder Art sind
+          allerdings unerwünscht; zu diesem Zweck können die 
+          bestehenden Kontaktgruppen genutzt werden.
+
+          ältere Teilnehmer sind willkommen, solange sie den
+          Gruppenbetrieb nicht stören.
+
+          Verboten sind hingegen Postings, die über Remailer (wie
+          formuliert man Remailer exakt?) abgesetzt werden, sie
+          sind frei cancelbar.
+
+
+Motivierung:
+------------
+
+Die Erfahrung hat gezeigt, das Benutzer von Remailern in dtju dieser
+nur zur Provokation und darüber hinaus zu strafrechtlichen Verstößen
+benutzen. Einen Sinn, in einer Gruppe, die hauptsächlich auf den engen
+persönlichen Kontakten der Regulars untereinander beruht, ist nicht
+auszumachen. Hier einige Beispiele für den Einsatz von Remailern in
+dtju: (hier könnten dann einige Msg.-IDs von Berend&Reiner, Fabian Fabrice und
+dem anderen Gesockse stehen)
+Die Cancel könnte ein noch zu benennender Bot ausführen.
+
+
+IMHO kann man das noch besser formulieren, also, die Rohfassung ist
+da, versucht Euch mal.
+
+C Ya,
+Folkert
+-- 
+Die saftlose und hirntote Scheisse, die in den Medien rauf und 
+runter gespielt wird. Die chartkompatible Volksverdummung. Die 
+geplante Abzocke. +++ Olaf Campmann über Mainstream in dcpmn +++

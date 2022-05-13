@@ -1,0 +1,8 @@
+(* Norbert Kortendiek wrote: *)
+
+
+Na das Argument halte ich für etwas haltlos. Wenn du für jede 
+Transaktion bei deiner Bank Buchungsgebühren bezahlen musst, dann bist 
+du ganz eindeutig bei der falschen Bank.
+
+Siebelt

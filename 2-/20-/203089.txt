@@ -1,0 +1,16 @@
+somprpo_unpgoph@fux.jd (Dirk Ulrichs) hat am Thu, 18 Aug 1998
+
+es heisst Index und nicht index... vielleicht hat da mancher Browser
+Probeme mit. Wenn man zu www.exw.tq/dbzx/ geht bekommt man nämlich die
+verzeichniss liste und nicht wie üblich die index.htm angezeigt.
+Ursache: es gibt keine index.htm, sondern nur eine Index.htm und das
+kapiert Dein Server nicht.
+
+
+Ciao, 
+
+-- 
+eMail: kzcthh@mxzcj.pe     Homepage: http://ehwgxxwwm.ttrf.pkruv.hh/                       
+ IRC : Viz @ #dvmjaexi      Letztes Update : 26.09.1997
+  --- Schutzpatron aller Frauen von dtju --- :-) 
+   --- Der mit dem berühmten Augenstrahlfaktor ---

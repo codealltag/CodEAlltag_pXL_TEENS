@@ -1,0 +1,10 @@
+Nein. Es macht mehr Schwierigkeiten.
+
+
+Naja, ich bevorzuge immer noch das Command-Line-Tool.
+
+Hinrich
+
+-- 
+75 Things you don't want to hear from your Sys Admin.
+55. Why did it say '/bin/rm: not found'?

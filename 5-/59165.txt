@@ -1,0 +1,4 @@
+Vor allem, da Gnus jetzt Cancel-Locks benutzt. Tun andere NUAs das auch?
+-- 
+You have not had thirty years' experience ... You have had one year's experience
+thirty times. [Carl Domass]

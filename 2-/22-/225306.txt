@@ -1,0 +1,10 @@
+Ist bei uns alles etwas anderes, wir haben diese Kabelmodems 10MBit,
+an denen hängen dann 1-5 Rechner und ne Aussenanbindung direkt zum HRZ
+(Funkbridge mit 2MBit). Unser interne Wohnheimnewsserver hängt halt
+auch hier im Netz, allerdings haben wir keinen Platz für die normalen
+Gruppen, so das die zum Uniserver durchgeleitet werden.
+-- 
+erlauchter Mitarbeiter(!) von Wochenmarkt
+ _  _ . _ _ |.   Guy Weizsaecker		>`)
+(_|| ||| | |||   ICQ	UIN: 0206332	( \
+ _|           				 ^

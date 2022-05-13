@@ -1,0 +1,11 @@
+Sag mal, wie hast du den scummvm unter Linux zum compilen bewegt?
+Ich bekomme trotz SDL-1.2.6 immer fehler beim linken.
+
+Das gehört dazu.
+
+mfg, 
+	Torsten
+-- 
+BOFH excuse #259:
+Someone's tie is caught in the printer, and if anything else gets printed,
+he'll be in it too.

@@ -1,0 +1,18 @@
+Valentino Imberg tippselte am Dienstag, 16. August 2003 08:54:
+
+Bei mir im täglichen Gebrauch ;)
+
+Ich habe keine Lust jedesmal ein passendes Kabel zu suchen um irgendwie 
+meinen Laptop an fremde Netze ranzubekommen (was zwar bis heute immer 
+von Erfolg krönt war aber spätestens bei Token Ring hörts dann doch 
+auf) wenn ich mal kurz kleinste Dateimengen kopiere.
+
+USB-Sticks sind eine ganz gute Alternative, setzt aber entsprechende 
+Technik und/oder Treiber auf der Gegenseite voraus.
+
+Ps.: Ich verfluche jeden Laptop ohne Diskettenlaufwerk ;)
+-- 
+David "dfsyhuyw" Hoesle, Weidenszreck
+Am Anfang war das Wort und das Wort war
+Content-type=text/plain; charset=iso-8859-1.
+Heute haben wir die Second Edition welche auf 15 endet.

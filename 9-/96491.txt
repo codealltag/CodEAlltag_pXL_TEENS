@@ -1,0 +1,9 @@
+Evelin lohnt sich nicht, postet zuwenig, Lenia ist mir aus irgendeinem
+Grund am aus dem Filter gefallen, Tobias und Bodo hab ich manuell
+wieder rausgefischt, momentan greifenn IIRC nur zwei Scoreing-Regeln:
+aus de.all.SCORE die Regel, die meine Postings auf read setzt und eine
+andere für einen Gelegenheitsposter (plus die Spam-Regeln...)
+
+Simon
+-- 
+DAS verrät doch alles. [N.J.]

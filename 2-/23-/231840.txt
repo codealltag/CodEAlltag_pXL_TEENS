@@ -1,0 +1,14 @@
+Du willst einen Newsreader-War? Du, mit diesem seltsamen
+monolithischen Block aus Newsreader, kastriertem Newsserver und
+primitivem Editor? Mit einem Gebilde, das nicht einmal 40.000 Header
+problemlos verarbeiten kann? (Zitat aus nsr: "After xfering the
+headers, Gravity sits there and grinds away forever and ever. I let it
+run for about 45 minutes before killing the task. This is on an NT
+machine with 128 megs of RAM.")
+
+ ;-)
+
+Viele Größe,
+     Johannes Gstrein
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

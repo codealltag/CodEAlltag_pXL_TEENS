@@ -1,0 +1,9 @@
+Am Fri, 21. 02. 23 21:02:32 +0200 sendete Otmar Eeckhoff
+folgende Botschaft:
+
+
+Klar, aber wenn du eine Partition löscht und dann wieder anlegst kann
+sich die bezeichnung nunmal ändern.
+
+Tschüs
+  Luis

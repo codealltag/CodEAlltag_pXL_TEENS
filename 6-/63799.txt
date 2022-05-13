@@ -1,0 +1,12 @@
+Am Sun, 04. 03. 22 sendete Victor Effer folgende Botschaft:
+
+
+Jein. xterm ruft die shell nicht als login-shell auf. Und dann verhält
+sich die bash etwas ungewohnt.
+
+Tschüs
+  Guy
+-- 
+Die Weisheiten des Pascal Jup: #5
+
+Winkis Chilli rockt.

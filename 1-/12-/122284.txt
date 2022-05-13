@@ -1,0 +1,7 @@
+Das ist mir ja durchaus bekannt (von daher ist dann auch /*g*/ fett
+und kursiv etc.pp.), aber genau _das_ hatte mich ja verblüfft, denn da
+gibt es keinerlei Unterschied (zumindest in den
+Ausgangseinstellungen...)
+
+-- 
+Sigs sind aus. Is nur da, was Sie sehen.

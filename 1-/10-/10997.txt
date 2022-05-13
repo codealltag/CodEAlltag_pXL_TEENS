@@ -1,0 +1,4 @@
+*g*, damit haben wir uns vor kurzem einen 4-dimensionalen Raum 
+veranschaulicht, in dem wir 2 Ebenen schneiden sollten, oder auch nicht. 
+"Aber wenn die eine ebene jetzt so von da nach da geht, und die andere 
+von da nach morgen, dann schneiden sie sich in einem Punkt!"

@@ -1,0 +1,11 @@
+Am Tue, 08. 03. 23 sendete Oscar Henrik Greibke folgende Botschaft:
+
+
+Also bislang nur irgendwelche Miniprogramme zum auslesen irgendwelcher
+Eth-kartenregister.
+
+
+*gna* Wer braucht da ein Makefile?
+
+Tschüs
+  Philippe

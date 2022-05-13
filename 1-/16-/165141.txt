@@ -1,0 +1,15 @@
+Roman Frotscher <zemfdl@qkj.zs> schrieb in im Newsbeitrag:
+rbrb2wpfef.mq.mkilao@vmdisryjjd.nupkjv.znue.ewh...
+
+Dummerweise liess mich (ich war so frei, einfach anzunehmen auf der ersten
+CD sei schon ein brauchbares Setup drauf) YaST 2 nichtmal wählen, welche
+Pakete ich will, IMHO taugt das überhaupt nicht.
+
+
+Ja. Wäre bloss nett wenn es eine zentrale Konfigurationsdatei gäbe anstadt
+hunderten die über's ganze System verstreut sind. Das man den einzelnen
+Daemons welche spendiert, geht ja noch, aber das sonst auch alles verteilt
+ist, ist teilweise äusserst nervig.
+
+CU
+Lennart

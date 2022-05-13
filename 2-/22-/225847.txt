@@ -1,0 +1,10 @@
+Ihr habt Big Beat noch nicht mal im Ansatz verstanden. Und auf dem
+Niwo (ja, Niwo) führe ich keine Diskussion (wenn Ihr das wolltet).
+EOT.
+
+C Ya,
+Harry
+-- 
+*arghl*
+Wie bekommt man das Ibap-Installationsprogramm dazu, Teile
+Installation in usr/local abzulegen?

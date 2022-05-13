@@ -1,0 +1,9 @@
+Naja, diese Action-Karten, bei denen gedreht wird und so. Könnte man
+natürlich auch recht leicht ins normale Maumau einbauen.
+
+Rüdiger
+
+-- 
+INSTALL:
+"Die Anwendung wurde unerwartet beenden.
+ Starten Sie die Anwendung erneut."

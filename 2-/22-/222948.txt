@@ -1,0 +1,29 @@
+Ist ein guter Gedanke; vielleicht werde ich es tatsächlich so machen
+(wobei ich mich etwas davor sträube, weil es ein ziemlich
+vollgepacktes Desktop-Gehäuse ist und ich fast alles ausbauen müßte,
+um an die Festplatte dranzukommen).
+
+
+Es ist beides knapp; wir hatten uns aber eigentlich gerade über RAM
+unterhalten, da hast Du recht. War ein Gedankensprung, sorry.
+
+
+Wahrscheinlich werde ich die Shell noch öfter brauchen als meine
+Schwester (es sei denn, ich baue die Festplatte so ein, daß man gut
+drankommt und schließe sie bei jedem Update an meinen PC an).
+
+
+Na ja, bei einem Load von etwa 3 wird sogar Gameshop ungemütlich zu
+bedienen ;-) Stabil weiterlaufen müßte es da aber noch - mit Warten
+sollte das Problem also meistens zu beheben sein. Wenn man das Ganze
+als Diskless Client aufzieht, kann man eigentlich auch jederzeit
+bedenkenlos nach dem Reset-Taster greifen ;-)
+
+[...]
+
+Ist dann ja optimal.
+
+Viele Größe,
+     Henning Osterholt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

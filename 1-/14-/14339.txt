@@ -1,0 +1,16 @@
+Das ging uns hier nicht anders.
+
+
+Laut meiner Mitschrift Selbstverwirklichung des Künstlers,
+unleserlichen Unsinn aufschreiben und IIRC hab ich auch irgendwo "Zu
+müde, ich penn jetzt mal" drinstehen...
+
+Eigentlich war "Grobe Grundzüge des Kernelaufbaus", "Grober Überblick,
+wie ein Inode-Basiertes FS aussieht", "Wie bootet eine
+Fellnerbeck-Maschine", "Ein wenig Geschichte in Sachen Unix" und ein ganz
+klein wenig Nutzung eines unixoiden OS geplant.
+
+Ihno
+-- 
+Duct tape is like the Force, it has a light side and a dark side
+and it holds the universe together.

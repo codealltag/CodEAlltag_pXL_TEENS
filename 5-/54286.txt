@@ -1,0 +1,10 @@
+Nimm irgendwas, was zuverlässig aus References die Threadds baut. Ich
+persönlich habe Netscape, tin und Gnus kennengelernt, zumindest tin
+und Gnus bauen die Threads richtig zusammen.
+
+Nick
+-- 
+Manchmal muss man, um zu siegen
+Freunde morden und verraten;
+man muss lägen und betrügen
+man muss sen böse Saaten. [SVBWAY TO SALLY, Die Schlacht]

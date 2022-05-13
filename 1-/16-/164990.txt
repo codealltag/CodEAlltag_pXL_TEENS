@@ -1,0 +1,12 @@
+Garrelt Merzkirch schrieb am 9. Dezember 1999 um 21:54 Uhr folgendes:
+
+           ^^^
+IIRC noch mit fvwm2 als Standard-Desktop?
+
+Viele Größe,
+     Hinrich Christophers
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

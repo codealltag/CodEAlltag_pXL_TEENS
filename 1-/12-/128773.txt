@@ -1,0 +1,8 @@
+* Charles Siebmanns <widp@zazqtand.uj>:
+
+
+Wenn er kompiliert wird, ist er schneller.
+
+Wolfram
+-- 
+cross veinless

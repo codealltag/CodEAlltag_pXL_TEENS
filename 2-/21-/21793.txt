@@ -1,0 +1,27 @@
+Und so sprach Erich Imbeck:
+
+
+Damit man fiese Integrale numerisch approximieren kann. Mittlerweile
+hab ich sogar verstanden, wie das geht. :)
+
+1) Man transformiert das Integral erstmal nach [-1,1].
+2) Dann sagt man ganz cool: Int(f(x),-1,1) = sum(k=1..n,w_k*f(eps_k)),
+   wobei w_k die Gewichte und eps_k die Stützstellen sind.
+
+   Die Gewichte w_i kriegt man ganz einfach indem man die Lagrange-
+   Polynome l_i intergriert und die eps_k sind trivialerweise einfach
+   die Nullstellen des orthogonalen Polynoms P_n.
+
+Und das war's auch schon. Das witzige scheint daran zu sein, dass man
+nicht einfach ne Rainhardt-Summe kriegt, sondern dass die Stuetzstellen
+da dichter angesiedelt werden, wo f(x) zu wilden Taten schreitet.
+
+
+Ich auch nicht, aber ich muss. :)
+
+Gruss,
+Adolf
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.i

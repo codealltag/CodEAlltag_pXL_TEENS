@@ -1,0 +1,7 @@
+[dsf 4.3]
+
+Darius
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+115: pure virtual member function
+       nicht kreatibel (Vittorio Uffenorde)

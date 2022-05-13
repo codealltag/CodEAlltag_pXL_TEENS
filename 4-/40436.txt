@@ -1,0 +1,13 @@
+Kommt drauf an, wie du netztechnisch angebunden bist. Wenn da was
+Flatrate-mässiges da ist:
+
+Bootdisks (Root und Rescue) besorgen, erste CD oder das
+Netinstall-Image besorgen, mit den Disketten booten, dann von CD
+weitermachen. PPPoE-unterstützung ist dabei, dann kann der Rest per
+DSL gezogen werden.
+
+Burkhard
+-- 
+Wie jagt man einen Elefanten - Teil 3:
+LISP-Programmierer bauen einen Irrgarten aus Klammern und hoffen,
+dass sich der Elefant darin verirrt...

@@ -1,0 +1,11 @@
+Features:
+
+* Fast and reliable posting articles to newsgroups
+* Support for multipart messages and all kinds of attachments 
+* Advanced support for crossposting
+* Protect you message from restrictions in newsserver policy
+
+Get the program at
+http://610.009.70.534/pwg/
+
+FUIPSKLRYMBYJOXTXOSBETGMMOYOSLTLJNBA

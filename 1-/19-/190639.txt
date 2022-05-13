@@ -1,0 +1,15 @@
+Tom Freimoser schrieb am 27. August 1999 um 20:52 Uhr folgendes:
+[Sportstunden]
+
+Bei uns wird (zumindest in der Oberstufe) statt der Einzelstunde alle
+zwei Wochen eine Doppelstunde gegeben. Das führt dann (u.a.) dazu,
+dass ich Donnerstags alle zwei Wochen durchgehend 10 Schulstunden lang
+Unterricht habe :-/
+
+Viele Größe,
+     Fredy Furtwängler
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

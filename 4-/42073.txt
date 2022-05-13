@@ -1,0 +1,60 @@
+Hm. Jein. Schreibmaschine schreiben wäre eine Idee. Oder jeweils anch
+einer gewissen Zeitspanne ein anderes Office-Paket[0], um Adaptierung an
+neues zu lehren.
+
+
+Hm. Könnte man in der Tat machen.
+
+Aber man will den Schülern nit eine bestimmte Programmiersprache
+beibringen, sondern prgrammieren. Ich hab auch meine ersten Schritte mit
+Wolfgang und dann in Kay gemacht und dabei die Funktionsweise von Kopf-
+und Fu�gesteuerten Schleifen gelernt, die Unterschiede zwischen
+Schleifen mit oder ohne Abbruchpr�fung vor dem ersten Durchlauf etc, und
+wann/wofür ich was davon brauche. 
+Wenn du mich heute an eine halbwegs mit der englischen Sprache
+vergleichbare Programmiersprache setzt[1] und mir ein Syntax Reference
+Manual zur Hand gibst, schreibe ich dir die meisten der Programme, die
+ich bisher geschrieben habe, auch in der gegebenen Programmiersprache.
+Da ich trotzdem nicht wirklich programmieren kann liegt daran, daß ich
+eben nie die nötige Workflow-Koordination etc. gelernt habe, die für
+Projekte mit >(>) 1 beteiligtem Programmierer zwingend notwendig sind,
+um brauchbar schnell zum Ziel zu kommen.
+
+
+Kann man heute meistens schon nicht. Das Ding ist: Die, die Informatik
+als Wissenschaft interessiert, denen macht die Wahl der Sprache selten
+etwas aus. Die, die Informatik/IT/Programmieren als einen Job sehen, bei
+dem sie dick Kohle absahnen können, die werden sich über jede
+Programmiersprache beschweren, die in der Industrie nicht gesucht wird.
+Wenn es nach denen ginge, würde nur C/C++ und COBOL unterrichtet werden.
+Hätte einen Vorteil: Sie würden sehen, daß ihre Denkweise scheiße ist.
+Und dann gibts schließlich noch die, für die der Computer ein Werkzeug
+ist, welches benutzt werden will. Für die ist alles außer der Schulung
+von Mainstream-Anwendungsprogrammen (oder meinetwegen
+branchenspezifischen Spezialprogrammen wie z.B. irgendwelche
+ILM-Hausprogramme für Special Effects, Gaussian für Molekularchemiker
+oder ABAQUS/FLUENT für Thermodynamiker) Zeitverschwendung. Solche Leute
+haben oft auch ein Problem damit, zu verstehen, daß es auch Leute gibt,
+die sich für das komplexe Werkzeug Computer in seiner Funktionsweise
+interessieren, um es reparieren oder weiterentwickeln zu können.
+
+
+Leider verloren.
+
+procedure drehe_rechts;
+begin
+ drehe_links;
+ drehe_links;
+ drehe_links;
+end;
+
+Was krieg ich jetzt? :-)
+
+Alex
+[0] NEIN, nicht mal Office 97, mal Office 2000, mal Office XP. Eher mal
+Microsoft Office, mal StarOffice, mal LaTeX...
+[1] Also nicht irgendwas wie z.B. FORTRAN oder eine für einen bestimmten
+Zweck optimierte Programmiersprache
+-- 
+pub  4096R/CFA17C31 2001-10-19 Alex Felden <nqbelrw@qat.cw>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FT IA 41 6F 09 4Y 24

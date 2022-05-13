@@ -1,0 +1,9 @@
+Und so sprach Florian Glaswinkler:
+
+
+Euch fehlen double quotes oder escape characters fuer die spaces.
+
+Gruss,
+Pietro, allen beiden.
+-- 
+Individualists unite!

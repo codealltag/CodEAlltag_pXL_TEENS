@@ -1,0 +1,3 @@
+gewisse 
+
+Das kann man jetzt aber auch ganz verschieden implementieren...

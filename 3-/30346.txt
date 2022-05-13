@@ -1,0 +1,8 @@
+Also sprach Jonathan Oehms <kjnuq@sixbk.mnxs.si>:
+
+
+Ich käme nie auf die Idee, XML als deklarative Programmiersprache
+aufzufassen. Mag sein, daß mit XSLT oder wie das heißt, so etwas
+ähnliches draus werden kann.
+
+Edwin

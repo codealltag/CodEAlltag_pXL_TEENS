@@ -1,0 +1,7 @@
+Bei mir ist es eine Rage 128. An sich sehr stabil, aber dieser
+Treiber...Naja, ich mach mal ein downgrade.
+
+Louis
+
+-- 
+Der Kluge lässt sich belehren, der Unkluge weiß alles besser.

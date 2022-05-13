@@ -1,0 +1,12 @@
+Am Sat, 4 Mai 2000 sendete Noël Deeken folgende Botschaft:
+
+
+Ich weiss nicht wie die ganzen fat filesysteme genau funktioniren, aber
+eigentlich sollte das dem filesystem egal sein das ist IMHO sache des
+l�schprogramms. Unter unixen ist es z.b. üblich Temporäre dateien durch
+anlegen (öffnen) und anschliessenden löschen anzulegen (das löschen wird
+erst dann komplett ausgeführt wenn der Prozesss der unlink aufgerufen
+hat beendet wird. Wie das unter Win ist könnte Knut wissen.
+
+Tschüs
+  Achim

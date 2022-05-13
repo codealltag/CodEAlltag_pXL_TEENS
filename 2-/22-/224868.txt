@@ -1,0 +1,46 @@
+unterstützt, könnte diese Nachricht ganz oder teilweise unlesbar sein.
+
+--MS_Mac_OE_3003056745_774866_MIME_Part
+Content-type: text/plain; charset="ISO-8859-1"
+Content-transfer-encoding: quoted-printable
+
+An alle Jugendlichen die gerne Texte schreiben !
+
+Ihr könnt Eure Texte bei Deborah, eine Seite für Jugendliche und Schüler
+veröffentlichen. Wir freuen uns über jeden Text von Euch ! Ihr könnt jedes
+Thema behandeln das ihr wollt. Ich hoffe auf eine große Resonanz.
+
+Wenn Ihr Euch die Seite mal ansehen wollt: http://gpg.hstljhsj.hy
+
+Bitte richtet Euch ein Mitgliederprofil ein oder abonniert den Newsletter !
+
+Danke !
+
+--MS_Mac_OE_3003056745_774866_MIME_Part
+Content-type: text/html; charset="ISO-8859-1"
+Content-transfer-encoding: quoted-printable
+
+<HTML>
+<HEAD>
+<TITLE>Texte, Gedichte, alles !</TITLE>
+</HEAD>
+<BODY BGCOLOR=3D"#FFFF00">
+<FONT COLOR=3D"#FF0000">An alle Jugendlichen die gerne Texte schreiben !<BR>
+<BR>
+Ihr könnt Eure Texte bei Deborah, eine Seite für Jugendliche und Schüler<B=
+R>
+veröffentlichen. Wir freuen uns über jeden Text von Euch ! Ihr könnt jedes<=
+BR>
+Thema behandeln das ihr wollt. Ich hoffe auf eine große Resonanz.<BR>
+<BR>
+Wenn Ihr Euch die Seite mal ansehen wollt: <FONT SIZE=3D"5">http://erd.alsgzt=
+rx.pb<BR>
+</FONT><BR>
+Bitte richtet Euch ein Mitgliederprofil ein oder abonniert den Newsletter !=
+<BR>
+<BR>
+Danke !
+</BODY>
+</HTML>
+
+--MS_Mac_OE_3003056745_774866_MIME_Part--

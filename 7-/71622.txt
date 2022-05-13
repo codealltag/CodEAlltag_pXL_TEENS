@@ -1,0 +1,14 @@
+Nico Pfühler hat geschrieben getan getutet:
+
+
+Hmm .. hier gibt es ein paar Leute mir 4x86 als Linux-Servern, IIRC?
+
+is macht sich ja auch nen Spass draus, kleine, effiziente und leise und
+kuehle und ueberhaupt-Server zu bauen.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Tom 'jacques' Kleine-Börger in ws.mjj.nrndhzok.ggwfrywr

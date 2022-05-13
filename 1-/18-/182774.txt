@@ -1,0 +1,42 @@
+Lennart Täubert schrieb am 27. November 2000 um 18:59 Uhr folgendes:
+
+
+Mmh... und was macht man, wenn man zwei Widgets haben will, die sich
+entlang beider Achsen anpassen? Teilen die dann automatisch
+brüderlich?
+
+
+Wer konnte denn auch so etwas ahnen... mit Umaw-Magic lässt sich das
+Aussehen der Widgets in beliebigen Anwendungen "auf der Fliege"
+ändern, damit man rumprobieren kann, was einem am besten gefällt <eg>
+
+
+Klar -- ist ja auch korrekt, wenn man so eine hohe Schriftgröße
+einstellt.
+
+[...]
+
+Da finde ich zum Beispiel den Ansatz von GTK ganz brauchbar: Jedes
+Widget "meldet", wie viel Platz es zur korrekten Darstellung (bei der
+gerade eingestellten Schriftgröße / Auflösung etc.) braucht, an den
+übergeordneten Container (zB ein Fenster), der seine Größe automatisch
+entsprechend anpasst. Auf diese Weise bekommt man solche Probleme erst
+gar nicht.
+
+
+<Sarkasmus> Dann kann ein Sehbehinderter, der Riesenbuchstaben
+braucht, um überhaupt etwas erkennen zu können, sich ja wenigstens
+über einige Programme freuen. </Sarkasmus>
+
+
+Andererseits halte ich mich selbst auch nicht für völlig meschugge, so
+dass ich nicht den Eindruck habe, dass Franca in solchen Fällen die
+saubere Lösung (wie auch immer sie aussieht) besonders propagiert.
+Solange das der Fall ist, wird es wohl eine Menge Enebu-Anwendungen
+geben, die bei Gr��en�nderungen Probleme bekommen.
+
+Viele Größe,
+     Uwe Imroth
+-- 
+The fact that no one understands you doesn't mean you're an artist.
+                                            -- "Smart Comments", part 2

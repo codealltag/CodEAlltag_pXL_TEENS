@@ -1,0 +1,13 @@
+On Mon, 18 Jun 1998, Jens Odenkirchen <njtnijs_tpbpjvg@qyx.av> wrote:
+
+[YaST shreddert unschuldige NT-Partition?]
+
+Ein solches Verhalten von YaST wäre ein gefundenes Fressen für die
+NTLS-Kritiker unter den Linuxern. Da ich von dieser Seite noch nie
+etwas davon gehört habe, gehe ich mal davon aus, daß der Fehler andere
+Gründe hatte.
+
+Viele Größe,
+     Harm Torley
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

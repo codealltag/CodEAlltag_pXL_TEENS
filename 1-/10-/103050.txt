@@ -1,0 +1,12 @@
+Unter Win98 kann man auch Strg+Alt+Entf --> Herunterfahren machen und
+sich dann eine andere Beschäftigung suchen. Das löst zwar nicht unser
+Prozessorauslastungsproblem, schont aber die Nerven. :-)
+
+
+*räusper* Bekanntlich wollen wir hier XEmacs unter _Windows_ laufen
+lassen...
+
+Benedikt
+
+-- 
+Nirgendwo fallen so viele Schulstunden aus, wie in der Schule.

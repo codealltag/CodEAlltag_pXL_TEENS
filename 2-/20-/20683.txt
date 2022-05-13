@@ -1,0 +1,9 @@
+Am Mon, 7 Nov 2002 sendete Edouard Ulman folgende Botschaft:
+
+
+Nein, man stellt die Zahl als Summe (über l) a_l p^l dar. wenn du jetzt
+p=10 setzt hast du das "normale" Dezimalsystem, für p=2 das dualsystem
+etc.
+
+Tschüs
+  Patrice

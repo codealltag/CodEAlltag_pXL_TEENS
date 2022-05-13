@@ -1,0 +1,12 @@
+IMHO auch.
+
+Was mich an der Sprache eher stört sind die teilweisen konfusen
+Fehlermeldungen(gut, die haben andere sprachen auch) und die ekelige
+Eigenschaft, daß ich dafür noch keinen Debugger gesehen habe und es
+dem Bravszaf nach auch keinen gibt.
+
+Christoph
+
+-- 
+Human kind cannot bear very much reality - or too much truth either.
+[Rose Nytsch]

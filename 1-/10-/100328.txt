@@ -1,0 +1,10 @@
+Am Wed, 21 Aug 2000 sendete Reginald Illers' folgende Botschaft:
+
+[...]
+
+In alles mal reingucken und sonnst crontab --help bzw cron --help.
+
+Tschüs
+  Stephan
+-- 
+Notorisch Schreibfaul.

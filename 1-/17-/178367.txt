@@ -1,0 +1,13 @@
+XP kann's :-) - mit etwas Handarbeit. Es gibt einen Filter, der den  
+Supersedes-Header auswertet und entsprechend einen lokalen Cancel  
+generiert. Nachdem nun die Sourcen freigegeben wurden, zeigt sich die  
+Entwicklergemeinde zuversichtlich, daß eine entsprechende Option in eine  
+der nächsten Programmversionen integriert werden kann.
+Soviel zur Werbung, nun zurück ins Programm.
+
+Georges Seyer
+
+-- 
+Georges Seyers praktische Lebensratschläge, Teil 9:
+Um 26 Uhr tanzt das Nilpferd Dudelsack.
+---> Offizieller Kämpfer wider Adolf Haubrichs des Ordens von dtju <---

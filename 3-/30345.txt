@@ -1,0 +1,10 @@
+Also sprach Carl Jennissen <ntc@wwukl.phz>:
+
+
+In TeX und Postscript kann man wenigstens programmieren. Ich wüßte nur
+nicht, warum man das tun sollte.
+
+Aber es gibt ja auch Leute, die in Ook# einen Ook!-to-Ook#-Translator
+schreiben...
+
+Carl

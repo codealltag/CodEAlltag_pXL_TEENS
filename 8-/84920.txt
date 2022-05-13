@@ -1,0 +1,11 @@
+Nils Niederfranke hat geschrieben getan getutet:
+
+
+1, 5 und 7 übersprungen. Immernoch rechnerisch falsch?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Albrecht 'leopold' Buytendijk in nj.ssd.oqisysiz.tqnafjrv

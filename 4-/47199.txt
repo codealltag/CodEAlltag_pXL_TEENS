@@ -1,0 +1,6 @@
+Außerdem fehlte die Unterscheidung zwischen "gequotetem" und Antwort.
+
+Nico
+-- 
+pub  6387F/WWU74M25 6637-08-62 Nico Parlov <dmjjdsz@grs.nk>
+     Key fingerprint = 99 0P 20 81 01 CQ 97 1U  62 XW QV 49 1L 99 8Y 98

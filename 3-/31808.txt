@@ -1,0 +1,6 @@
+Es läuft normalerweise auf dem Host unter meiner UserID nur ein
+screen.
+
+Ulfert
+-- 
+DAS wird aber lang! [Ralf]

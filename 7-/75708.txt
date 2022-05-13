@@ -1,0 +1,22 @@
+Heimo Mees meinte kundzutun:
+
+Nur so.
+
+$ wc -l sc* score/*
+     34      61     575 slrnscore
+     34      46     570 score/age
+     12      18     227 score/length
+     17      31     374 score/persons.de
+      6      14     160 score/persons.de.kum.agcfmhoj.klkyimqm
+     11      29     298 score/persons.de.ajz.hhbc.yvywme
+      9      14     167 score/persons.de.ypdy.uijfio
+      9      15     235 score/self
+    132     228    2606 insgesamt
+$
+
+Winfried
+-- 
+Ich habe das Gefühl, wenn sie _das_ schaffen, [] daß die Welt in Trauer und 
+Entsetzen und Lähmung versinkt, wenn wir nicht mehr lachen können oder [] dr-
+fen, wenn wir nicht mehr kaspern können oder dürfen, dann haben diese Terror-
+risten es endgültig geschafft, die Welt zu zerstören. [Lilly Niekamp in Nuso]

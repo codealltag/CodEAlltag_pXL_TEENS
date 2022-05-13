@@ -1,0 +1,18 @@
+On Thu, 29 Apr 1998, Noah Lietzke <YGkskispqf@jcl.gm> wrote:
+
+[Einbindung von PGP]
+
+Okay, ist nicht schlecht. Wäre aber nichts für mich - ich würde
+wahrscheinlich recht oft vergessen, daß ich die Mail ja auch noch
+verschlüssel wollte... Bei mutt bestimme ich eben ein einziges Mal,
+daß Mail an einen bestimmten Adressaten verschlüsselt werden soll und
+kümmere mich anschließend um überhaupt nichts mehr.
+
+
+Ich wage nicht zu behaupten, daß ich wirklich verstanden hätte, wie
+PGP (technisch) funktioniert.
+
+Viele Größe,
+     Noah Knupfer
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

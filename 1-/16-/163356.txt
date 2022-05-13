@@ -1,0 +1,9 @@
+On Thu, 7 Apr 2000 21:30:57 +0200, Ullrich Kaethner
+
+Also ich find' die jetzige gut :-)
+
+-- 
+abnormal program termination: "liebe"
+Trying to restart... ... can't connect to server...
+Trying to find equivalent... found "Freundschaft"
+Connecting to server... successful... connected...

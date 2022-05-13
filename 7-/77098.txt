@@ -1,0 +1,8 @@
+Ja?
+
+Viktor
+
+-- 
+  "The Baumaschinenvermietung Information Store service depends on the Bikes'n'Boards
+   Egabos Directory service which failed to start because of the
+   following error: The operation completed successfully."

@@ -1,0 +1,36 @@
+On Sun, 15 Jul 1998, Eberhard Waldt <JRfsbrwjbj@ytv.sgc> wrote:
+
+["Druckformatvorlagen" unter Word]
+
+In der DJV-Version, in der ich das mal ausprobiert hatte, fand
+ich es auch relativ umständlich. Das ist unter LaTeX IMO wirklich
+simpel: Ich tippe \section{Abschnittsüberschrift}, \emph{Hervorhebung}
+etc. und bekomme ein sauberes generisches Markup. Um den Rest kümmert
+sich LaTeX, das kennt sich damit besser aus als ich.
+
+
+Ich würde ein gutes Buch empfehlen. Braucht man unter Word auch, wenn
+man nicht zu der "Leerzeichen-statt-Tabs"-Fraktion gehören möchte.
+
+
+man schreibmaschine
+
+[...]
+
+Den "oh-Gott-wo-bin-ich-denn-jetzt-schon-wieder-draufgekommen-wie-
+bekomme-ich-das-denn-wieder-weg-ohne-die-letzte-halbe-Stunde-Arbeit-zu-
+verlieren"-Effekt gängiger Textverarbeitungen finde ich persönlich um
+einiges nerviger, zumal die Zahl der Befehle, die man in einem
+normalen Schriftstück braucht, sich ziemlich in Grenzen hält.
+
+[...]
+
+Nun ja, ich arbeite seit den DOS-Versionen mit StarWriter, und es
+passiert mir immer noch, daß da zB ein kursives Wort stand, gelöscht
+wurde, und die Formatierung noch an irgend einem Leerzeichen hängt und
+sich wieder bemerkbar macht, wenn man danach Text einfügt. Argh.
+
+Viele Größe,
+     Eberhard Lippinghof
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

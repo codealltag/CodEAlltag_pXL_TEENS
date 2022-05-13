@@ -1,0 +1,30 @@
+* decy@wrzea-iidxxy.vuw (Serge Nachrichter):
+
+
+Richtig.
+
+
+überhaupt nicht.
+
+
+Du kannst E-Mails in beliebiger Größenordnung abkippen. Beispiel: Du
+willst ein Produkt bewerben. Du suchst dir aus den Newsgroups mit einem
+passenden Script 10.000 E-Mail-Adressen heraus, lässt mit passender
+Software 10.000 E-Mails generieren und verschickst sie über ein offenes
+Relay. Wenn du das bei einem Server machst, bei dem du dich
+autentifizieren musst, weiß er, wer du bist und du bist dran. Bei einem
+offenen Relay (das im Idealfall noch nicht mal mitlogt, welche IP da
+einliefert), hast du das Problem nicht.
+
+Nein, das ist extrem böse[tm] und das soll man nicht machen. Wenn dich
+das Thema interessiert, empfehle ich dir zs.sgrty.lik-ctjqe.fagz
+
+Die haben auch eine hübsche FAQ, die dir zeigt, was man machen kann,
+damit man von so einem Zeug verschont wird bzw. wie man den Spammer
+ermittelt, der einem die Werbemails geschickt hat.
+
+Ich bin da aber kein Experte auf dem Gebiet.
+
+Gunter
+-- 
+cross veinless

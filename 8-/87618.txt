@@ -1,0 +1,11 @@
+Konrad Obertanner hat geschrieben getan getutet:
+
+
+Es gibt nicht *alles* bei MLW.
+
+-towo, apt-get install psybnc klappt ja auch nicht.
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Theo 'wolfram' Leng in ve.wqo.gckugoib.jnlfhlqy

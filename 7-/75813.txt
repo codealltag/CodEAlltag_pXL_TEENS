@@ -1,0 +1,11 @@
+Solches tippte Olivier Reisenweber:
+
+Klar (Auch im Logfile von X steht das natürlich):
+Bei Dir sollte hier mindestens 4.0.2 stehen, vorher hat es kein
+XVideo: Das Programm Ufeme gibt genaere Auskunft (output nach $PAGER
+pipen wie auch bei xdpyinfo). Eventuell willst Du auch DGA aktivieren.
+
+Genaueres findest Du unter Punkt 2.2.1.2 in der mplayer Doku:
+<URL:http://ptt.khyhvmqun.wz/EPJP/focwt.aetd>
+
+Ottmar

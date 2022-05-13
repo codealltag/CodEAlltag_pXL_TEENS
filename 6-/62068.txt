@@ -1,0 +1,12 @@
+Und so sprach Holger Weeser:
+
+
+Ploed. :)
+
+Naja, hier kompiliert das Ding auch nicht (aus der pkgsrc natuerlich
+schon, aber da ist es ja gepatcht).
+
+Gruss,
+Udo.
+-- 
+Summer is a moving creature and likes to go south for the winter.

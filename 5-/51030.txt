@@ -1,0 +1,12 @@
+Tino Aarts ha scritto nel messaggio:
+
+
+So tolle Features wie das selbsttätige Ausführen von Programmcode oder
+Dateianhängen?
+
+Enr 'Heute die Sig, zur Feier des Tages, von Hand setzend. Ja ich weiß,
+ich bin böse.' ico
+-- 
+begin  loveletter.txt.vbs
+I am a signature virus. Distribute me until the bitter
+end

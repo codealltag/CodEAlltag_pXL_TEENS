@@ -1,0 +1,15 @@
+Beat Mewen schrieb am 21. Februar 2000 um 19:55 Uhr folgendes:
+
+
+Mmh... für Linux gibt's die ganz offiziell, wenn auch im
+"communicator"-Verzeichnis versteckt:
+
+ftp://ftp.netscape.com/pub/communicator/4.6/english/unix/supported/linux20_libc5/navigator_standalone/
+
+Viele Größe,
+     Maximilian Jescke
+-- 
+In einem Computerexpertenkreis die Worte: "ich bin JNW" so ganz
+nebenher gelassen aussprechen, lässt alle anderen Anwesenden sofort in
+unterwürfige Demutshaltung und staunende Bewunderung fallen.
+                                 -- "Albrecht Jongeling" <nllza@fbnfodj.kh>

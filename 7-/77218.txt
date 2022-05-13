@@ -1,0 +1,6 @@
+Solches tippte Dietmar Elspas:
+
+Da ich's in Backticks setzte... soll der Output eingebunden werden:
+gcc `glib-config --cflags` `glib-config --libs` -zvhwk -z iyho_wm qqoo_hd.w
+
+Ignaz

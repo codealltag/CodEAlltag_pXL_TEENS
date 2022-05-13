@@ -1,0 +1,10 @@
+Solches tippte Kay Prühse:
+
+(dispatch JUP setAnzahl (suc (dispatch JUP getAnzahl))))
+
+Günter
+-- 
+Günter Cuntz -> <GPG-Key:http://rsi.ktjqjhhe-kcvortg.jr/szu.fhbim>
+Whatever that hurts -----> <http://ztl.tqaqydis-ruqmvcb.za/bnbbi.vdr6>
+----------> Wortschatz-Lexikon: <URL:http://xmhrzvjunv.jte-lbkgwwg.kh>
+<URL:http://gvzucfi.rte-jbxvams.pi>   <URL:http://xvry.zsy-cbitqzk.xq>

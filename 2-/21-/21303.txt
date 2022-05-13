@@ -1,0 +1,8 @@
+Wie das denn? Gehst du einkaufen und sagst `Ich hab einen IQ von XY,
+haben sie da was passendes?'?
+
+mfg, 
+	Benno
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

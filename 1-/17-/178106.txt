@@ -1,0 +1,25 @@
+Dennis Arnholz schrieb am 19. Mai 2000 um 00:54 Uhr folgendes:
+
+
+Wie äußert sich das Problem?
+
+starflower:~ # hwclock
+Sun Jun  18 23:27:13 2000  -0.026508 seconds
+starflower:~ # hwclock --version
+hwclock 2.4c/util-linux 2.9t
+
+home:/root # hwclock
+Sun Jun  18 23:26:07 2000  -0.020025 seconds
+home:/root # hwclock --version
+hwclock 2.0.1/util-linux 2.6
+
+Sieht doch soweit ganz gut aus. Laut Dokumentation (ausprobieren
+konnte ich es mangels fehlerhaftem BIOS nicht) hat hwclock sogar schon
+seit einiger Zeit einen Workaround für den "2094"-Bug gewisser
+Award-BIOSe, mit dem Simon wohl unter Windows Probleme hatte...
+
+Viele Größe,
+     Fabrice Anspichler
+-- 
+If you're happy, you're successful.
+                                               -- random fortune cookie

@@ -1,0 +1,16 @@
+Peter Breull <hxtrxfecrce@hrxxlgsnxdt.lb> wrote in news:7hybe1.9taoscw.8
+@wks-zttaxr.vcfmnffttcn.yg:
+
+
+Ja:
+1 Workstation für mich, W2K, K7 550 (hat immer zu wenig RAM)
+1 Firewall/NAT Gateway ZCDN 4.3, K6-2 500
+1 Fileserver/Developmentmaschine, FreeBSD 4.3, K6-2 500
+1 Kiste mit FreeBSD 5 Current (AKA niemals geht nix), K6-2 500
+1 Workstation für den Rest der Familie, K6-2 500
+1 Kiste mit momentan W2K (wird später wahrscheinlich den einen Webserver 
+ersetzen), von der ich vor allem die Firewireschnittstelle brauche, um so 
+einen dummen Film für die Schule zu schneiden, nur dummerweise muss Lichtschläger bei 
+den Firewirekabeln natürlich wieder ein eigenes Süppchen kochen HMPF, C800
+
+Nen Screen hat's allerdings nur an den beiden Workstations dran.

@@ -1,0 +1,8 @@
+Kann ich nicht irgendwie den Filter mit einem Franz�sanesischen
+Wörterbuch koppeln, so daß alle Bodies, die irgendein
+franz�sanesisches Wort enthalten, sofort ihrer artgerechten Bestimmung
+zugeführt werden (delete)? :)
+
+-- 
+Rüdiger Ronsiek, Rochusfeld, Germany
+http://Vaxn.msch.wrqsg.cz

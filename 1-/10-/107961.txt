@@ -1,0 +1,16 @@
+Wir sollten letztens etwas weitaus sinnvolleres machen:
+
+Ein Programm, dass einem nach Noteneingabe sagt, ob man sitzen bleibt
+oder nicht. Mit rein sollte die Chance eine 5 mit einer 3
+auszugleichen und dass man bei einer 6 auf jeden Fall sitzen bleibt.
+
+Pld, das.
+
+
+Das ist so...logisch. Urgs.
+
+Achim
+
+-- 
+Die letzten Worte des Kapitäns eines Walfängers:
+"So, den hätten wir am Haken."

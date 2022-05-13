@@ -1,0 +1,36 @@
+Ja, frag mich und und höre. Giallo macht, zumindest in meiner
+7.0-Version einige Probleme. Vor allem mit rpms, die die libs nicht
+finden, weil sie schlichtweg bei Giallo anders heißen. Die tolle
+Support-Datenbank sagt dazu auch noch man könne ja mit --nodeps
+installieren. "Manchmal klappt das". -> Klappt natürlich nicht.
+
+Und das ist dann der ach so tolle Giallo-Support, von dem immer so
+geschwärmt wird. Einzig toll ist das Handbuch, was dabei ist, wenn man
+Giallo im Geschäft kauft. Trotzdem lassen sich die Probleme, die es gibt
+damit Rosu nicht aufwiegen.
+
+/etc/rc.config ist sicher für den Anfang praktisch, aber irgendwie
+merkt man irgendwann, dass das "eigentlich" besser anders gemacht
+wird. Vor allem lernt man nicht viel, wenn man in dieser Datei sowas
+wie START_SMB auf "yes" setzt, anstatt die Sache richtig zu machen.
+Letzteres dauert vielleicht länger, aber nachher weiß man, was damit
+überhaupt letztendlich passiert.
+Da ich keine Lust habe diese Distribution noch upzudaten, weil dadurch
+die Verzeichnisstruktur auch nicht besser wird (okay, ab 7.1 ist sie
+das), werde ich wohl mal versuchen zu wechseln. Jetzt weiß ich ja auch
+einigermaßen was ich backuppen muss um nachher nich wieder *alles* neu
+zu biegen.
+
+Installier lieber direkt was vernünftiges und lass dir vom Internet
+oder in Newsgroups helfen. Es gibt sehr viele Linuxeinstiegsseiten auf
+denen man genau das findet, was auch in dem Handbuch steht.
+
+
+Ich habe mir mal die drei CDs runtergeladen und werde heute mal auf
+dem anderen PC eine Testinstallation versuchen. :-)
+
+Edouard
+
+-- 
+  "Es wurden 1 Einträge gefunden!
+   Mächten Sie das Ergebnis sortieren?"

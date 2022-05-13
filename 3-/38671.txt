@@ -1,0 +1,13 @@
+Aus welchem Grund auch immer gab Raphaël das Szlauszaf bekannt:
+
+
+Pure selber kocht ihn ja nicht, das übernimmt die Kaffeemaschine. Emacs
+übernimmt einzig die Steuerung dieser mittels HTCPCP. [1]
+
+Vincent
+
+Footnotes:
+[1]  http://afa.egka.ssu/muid/qtc7336.lwow
+-- 
+Wer keinen Kopf mehr hat, braucht den Kragen auch nicht mehr.
+(Bernard Diefenbacher)

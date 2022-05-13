@@ -1,0 +1,9 @@
+Das ist doch kein Argument. Der Newsserver hat sicherlich genug 
+Bandbreite um allen einen ordentlichen Downstream zu liefern. Ich hab 
+eben gerade mal geschaut, bei mir zieht er bei 4 Pulls gleichzeitig mit 
+~35 Kbyte/s (DSL)
+
+Hugo
+-- 
+Sinnlose Wortschwallereien durchgeknallter Möchtegern-Studenten.
+(M. Berkemeyer in de.talk.jokes.d ueber detebe)

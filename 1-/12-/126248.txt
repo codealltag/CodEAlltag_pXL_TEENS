@@ -1,0 +1,70 @@
+STATISTIK DEZEMBER 2000
+-=-=-=-=-=-=-=-=-=-=-=-
+
+TOP 10 POSTER DEZEMBER 2000 (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+ 1    3794  22,11%  Thomas Möchel
+ 2    2444  14,24%  Klaudia Obendorf
+ 3    1841  10,73%  Oliver Paaschen
+ 4    1580   9,21%  Carsten Stoelzl
+ 5    1462   8,52%  Mirko Ahlemeyer
+ 6    1161   6,76%  Orlando Piepert
+ 7    1106   6,44%  Kurt Ungelenk
+ 8     654   3,81%  Maurice Paschetag
+ 9     641   3,73%  Dörte Mehlig
+10     528   3,08%  Mathäus Clemens Cattermann
+
+
+TOP 5 POSTER 2000 (in einem Monat)
+
+Pos.  Anz.   Monat     Name
+---------------------------------------------------------------------------
+ 1    9880   11/2000   Thomas Möchel
+ 2    3688   11/2000   Klaudia Oelker
+ 3    6926   10/2000   Thomas Möchel
+ 4    3986   12/1999   Klaudia Obendorf
+ 5    7457   04/2000   Thomas Möchel
+
+
+TOP 5 POSTER 2000 (Gesamt)
+
+Pos.   Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+ 1    87257   Oliver Paaschen            45       +2
+ 2    75481   Thomas Möchel       33       +8
+ 3    11936   Klaudia Oelker      33       +11
+ 4     6391   Dörte Meibohm       55       ö0
+ 5     3523   Maurice Paschetag     18       ö0
+
+
+TOP 5 DAUs 2000
+
+Pos.  Anz.   Msgs. Ratio   Monat    Name
+---------------------------------------------------------------------------
+ 1    401       2  200,50  02/2000  alzvjo@ezlzlne.ivm
+ 2    200       1  200,00  02/2000  jqqdi_xwbid@gahcffq.hxo
+ 3    200       1  200,00  02/2000  rhghdc@woqlppv.gno
+ 4    175       1  175,00  08/2000  ullrich <hzd@tmhfbd.gjhqzol.ks.xq>
+ 5    158       1  158,00  02/2000  "Hugo Stoelzl" <wyzhthui@teviqyu.ab>
+      158       1  158,00  05/2000  "Dennis" <kiheuypa@k-b-m.rri>
+
+
+TOP 5 MONATE
+
+Pos.  Anz.    Datum
+---------------------------------------------------------------------------
+ 1    06. 03. 22   November 2000
+ 2    06. 03. 22   Dezember 1999
+ 3     9645   Oktober 2000
+ 4     9077   April 2000
+ 5     9040   Januar 2000
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Carsten Mayfarth.
+(Darstellung angepasst von Oliver Paaschen)
+Basierend auf den Feeds von:
+pcewrtkg.lhwau.hc         ftcn.bme.qio.pw           xouz.w-cugvoy.tp  
+aqal.cgt-zejvxnif.fm      lrvv.zqd-odqouvtu.oe      arie.zfu-xikougchv.ej  
+sjrntoyngj.tswivccoqh.id

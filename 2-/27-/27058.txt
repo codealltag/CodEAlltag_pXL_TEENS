@@ -1,0 +1,8 @@
+Also sprach Eugen Benicke <vzs@uafxs.myx>:
+
+
+Was geht denn leichter? Eigentlich doch die Hierarchie... ein ctlinnd
+newgroup dgk.hpkh.pg ist schnell gemacht. Du mußt ja die
+~/etc/newsgroups nicht anfassen; Taglines machen nur Arbeit. *g*
+
+Eugen

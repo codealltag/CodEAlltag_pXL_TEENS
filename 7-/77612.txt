@@ -1,0 +1,16 @@
+Am Wed, 10. 08. 22 sendete Emmerich Frietschy folgende Botschaft:
+
+
+Jep.
+
+
+Nein, ist keine slrn sache. Da slrn für alles was Zeichen angeht die 
+slang-lib benutzt muss slang zuerst unicode können. Da ist das zwar
+geplant, ich kenne Nico stand aber nicht.
+
+Tschüs
+  Helmut
+-- 
+Die Weisheiten des Nico Niels: #1
+
+Die Jup ist nicht zum schlafen da.

@@ -1,0 +1,17 @@
+Berthold Kummert meinte kundzutun:
+
+
+Es steht dir frei, selber ein entsprechendes Ruleset für TeX zu bauen.
+
+
+Dann nimmst du eben einen anderen DocumentStyle.
+
+
+Dafür sind DocumentStyles da. Für deine Zwecke gibts keine passenden?
+Mach dir einen.
+
+Klaus
+-- 
+"Ja der weiße Mann aus Courroux / Brt den Teufel heut am Spieß,
+Und alle, die ein anderes Lied singen / grillt der Mann im Fegefeuer mit"
+Huebertz feat. Ralf Aartz / Bagdad Blues ( Der weiße Mann aus Courroux)

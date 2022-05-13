@@ -1,0 +1,7 @@
+6. e7-e6      pg1-e2
+
+Marco
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

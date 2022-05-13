@@ -1,0 +1,19 @@
+Das ist ein sch... Tip. Mein Newsreader generiert eine Msg-ID und baut  
+darauf gleich die Bezugsverkettung auf, d.h. die Nachricht kommt nicht  
+nur in die Outbox, sondern auch gleich in den Newsspool. Kommt die selbe  
+Nachricht nochmal rein, ist sie doppelt im Newsspool. Dank  
+unterschiedlicher Msg-ID wird sie auch von keinem Dupefilter erschlagen.  
+Dann kann ich Nachrichten schneller canceln und superseden - bei  
+serverseitiger Generierung müßte ich erst wieder News holen.  
+Darüberhinaus ist es mir möglich, mich bereits auf Msg-IDs von Postings  
+zu beziehen, die ich überhaupt noch nicht gepostet habe. Ferner poste ich  
+je nach Verfügbarkeit über drei verschiedene Newsserver - ergibt drei  
+verschiedene FQDNs und damit Verwirrung.
+Glaub mir, es ist schon gut, daß ich meine Msg-IDs selber generiere.
+
+Engelbert Kreiseder
+
+-- 
+Scania ist einfach nur geil.
+                                             E-Mail: rjcztc@ypnxzflemn.zk
+---> Offizieller Kämpfer wider Ralph Nihsen des Ordens von dtju <---

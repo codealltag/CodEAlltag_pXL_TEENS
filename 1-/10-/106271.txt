@@ -1,0 +1,18 @@
+* Frédéric Enenkel <xfgik@kongx-qoyyta.za>:
+
+
+N, tut er auch nicht. Es macht aber trotzdem etwas. Es ist die
+verkürzte Form von `L a r p'. Man ist ja faul.
+
+Das sollte aber auch im manual stehen 
+
+... 
+
+tut es auch:
+
+,--------
+`--------
+
+Carsten
+-- 
+cross veinless

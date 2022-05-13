@@ -1,0 +1,10 @@
+Klärt mich mal bitte auf, was ist eine if-Schleife? Die einzige
+Möglichkeit, eine Schleife mit if zu bauen, die ich kenne, wäre die
+Verwendung eines "goto", und wer sowas einem Anfänger erklärt, der ist
+selber schuld.
+
+Wilhelm
+
+-- 
+Don`t play with jumpers unless you know exactly what they do,
+even if they are marked as "Free sex and beer". (Joachim Augsburg)

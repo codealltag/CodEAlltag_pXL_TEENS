@@ -1,0 +1,11 @@
+Uwe Tensfeldt <oliaaqq_qwgjrge@zix.jt> wrote in <Kann-mir-mal-jemand-die-
+Frauen-erklaeren-d.t.j.-13.14.52-20.08.99-1@news.buz.ch>:
+
+Asymetrische Verfahren sind verfahren, die mit verschiedenen Schlüsseln für 
+Ver- und Entschlüsselung arbeiten. Crypt ist ein one way Verfahren und 
+nicht umkehrbar.
+
+Cu, Volkert
+-- 
++++ 10 MB, 1 GB Traffic und Domain 19,99 pro Monat +++
++++        http://igs.g9vuvy.xza/zuaxwd.sawp       +++

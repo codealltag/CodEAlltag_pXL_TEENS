@@ -1,0 +1,10 @@
+Geht es hier immernoch um ROT42? Mein Amas hat dank ein paar
+System-Lockups, die jetzt hiffentlich der Vergangenheit angehören
+sollten, ein paar Artikel durcheinandergewürfelt...
+
+Wenn ja, hätte ich nen elegamnten Perl-Einzeiler anzubieten...
+
+Hugo
+
+-- 
+Geht nicht!? Geht doch: DAU.                     [aus http://rgq.oxzxbiwxqb.pl]

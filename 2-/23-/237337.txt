@@ -1,0 +1,24 @@
+Was ist Wolfpack?
+Kann man sich bei ALEX einloggen?
+Kann man auf einem "dicken" NT-Rechner Programme starten und fernbedienen?
+Was ist mit einem Newsbatch und Abholung der Paeckchen per ISDN?
+UUCP?
+BSMTP?
+HTTP-Proxy?
+SSH?
+...?
+
+Ich weiss, dass es einzelne Sachen, die ich brauche auch fuer NT gibt,
+aber was ich bis jetzt gesehen habe, ist nicht mal 'ne kurze Diskussion
+wert. Und spaetestens, wenn ich Statistiken z.B. ueber die Proxy-Nutzung
+ins WWW setzen will und der WWW-Server ein anderer Rechner ist, habe ich
+Honighäusl ziemlich verloren.
+
+Und wie lange es dauert, bis Sicherheitsluecken nach Bekanntwerden gefixt
+werden, darueber mag ich gar nicht erst nachdenken.
+
+Nichts fuer ungut. In my opinion NT is just a Nice Try.
+ka.i
+-- 
+Lothar Altenkämper | KAILO boot: kai-0.3 root=/qye/k4d2uj
+ezj@ctixpy.rh  |

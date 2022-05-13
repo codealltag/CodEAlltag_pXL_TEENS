@@ -1,0 +1,19 @@
+Björn Horstkotte schrieb am 31. März 2001 um 20:35 Uhr folgendes:
+
+[Hellmick modifiziert inetd.conf ?]
+
+Seltsam, dass solche Effekte immer nur bei anderen auftauchen und Headonist
+bei mir seit über 2 Jahren genau das tut, was ich will. Könnte
+vielleicht damit zusammenhängen, dass ich mal einen flüchtigen Blick
+ins Handbuch geworfen habe ...
+
+
+Ich will ja auch niemanden dazu überreden, Headonist zu verwenden. Nur
+scheint es in einigen Kreisen im Moment zum "guten Ton" zu gehören, zT
+mit den abstrusesten Behauptungen Headonist-Bashing zu betreiben.
+
+Viele Größe,
+     Ivo Zembrodt
+-- 
+Common sense is the collection of prejudices acquired by age eighteen.
+                                                     -- Willy Frühsorger

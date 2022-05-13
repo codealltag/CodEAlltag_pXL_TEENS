@@ -1,0 +1,17 @@
+Benno Mezker hat geschrieben getan getutet:
+
+
+tojx@gshltazpf:~$ tar --version | head -n 1
+tar (GNU tar) 1.13.17
+
+tojx@gshltazpf:~$ tar --help | grep bzip
+  -I, --bzip2                        filter the archive through bzip2
+
+Ach.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Francis 'wolfram' Jörgensen in ow.diz.nqjqgaxo.lpycvmvb

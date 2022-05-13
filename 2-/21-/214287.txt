@@ -1,0 +1,12 @@
+Am 30. 08. 22 20:13:11 GMT sendete Maik Schukart
+folgende Botschaft:
+
+
+Darüber ob das in diesem fall aber sinnvoll ist kann man sich streiten.
+
+
+Das sollte bei einer rpm-installation aber normalerweise nicht
+passieren.
+
+Tschüs
+  Carl

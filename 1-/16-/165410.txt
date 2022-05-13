@@ -1,0 +1,7 @@
+Otto 'sSXP' Jung-König <vHTA@aee.sfm> schrieb in im Newsbeitrag:
+95-29-80.08-06-19.zwt.8194@vsng.vo...
+
+Bei uns glücklicherweise nicht (unser Informatiklehrer war früher mal
+Entwickler bei einer Bank, mal schauen, ob's was bringt). Macht IMHO auch
+keinen Sinn, da die allermeisten, ernsthaften Projekte schliesslich nach wie
+vor mit C(++) realisiert werden...

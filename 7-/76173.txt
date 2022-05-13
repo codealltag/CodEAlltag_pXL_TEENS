@@ -1,0 +1,30 @@
+STATISTIK SEPTEMBER 2000
+-=-=-=-=-=-=-=-=-=-=-=-=
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   2067   39,43%  "Forte Agent"
+   2   1184   22,59%  "Gnus"
+   3    758   14,46%  "slrn"
+   4    430    8,20%  "Gravity"
+   5    314    5,99%  "Mozilla/NetScape"
+   6    207    3,95%  Fort Agent 1.8/32.548 (WIN32) (Windows/5.01.2600 (i6
+   7     90    1,72%  "TIN"
+   8     65    1,24%  keiner angegeben
+   9     40    0,76%  "Xnews"
+  10     35    0,67%  "CrossPoint"
+  11     28    0,53%  "Microsoft Outlook"
+  12     13    0,25%  Lenia News Service
+  13      6    0,11%  Ambassador 0.9.13.18
+  14      5    0,10%  Fort Agent 1.8/32.548 (WIN32) (Windows/5.00.2195 (i6
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Valerian Verstege.
+(Darstellung angepasst von Reinhold Piskator)
+Basierend auf den Feeds von:
+ncifojby.ztfum.ft       qgcy.juz.iax.xf         kqax.wrqvdzq.fs
+scas.ytyso.cti          oxed.dumpcu.wb          basj.r-zclzhc.fi
+lgtw.ygp-oknpruki.dd    xxup.lwn-iwualpjo.xn    pygj.dpt-ootsupjtm.em
+ckoynmu.owbxhv.qxb.wd

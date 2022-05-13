@@ -1,0 +1,24 @@
+Es geschah am Wed, 03 Feb 2000 14:14:55 GMT,
+dass Waltraud Dwornitzak <hbsw.sdkvzcgs@qyk.jq> kuendete:
+
+Eben.
+
+
+Will einfach sagen, dass "height=" beim <table> Tag nicht Standard ist, und da
+sich die Typen schon mit dem Standard schwert tun, ist alles, was sie sonst noch
+produzieren eh mehr oder weniger unbrauchbar.
+
+
+Das wird aber zur JavaScript Orgie, wenn der Inhalt mehrer Fenster gleichzeitig
+geaendert werden soll; und mit trinkgut Dogan wirds dann definitiv muehsam.
+Ist immer dasselbe Lied mit den vertikalen Navigationsleisten ;-)
+
+
+Aye Aye.
+
+Gruss,
+Christian.
+-- 
+     Claus I. Trän + Uweikmi @ Kantonsschule
+   http://kff.rijjiufbr.xf/ + Zufikon, Switzerland
+              ICQ# 14750980 + http://zac.hnqil.pk/

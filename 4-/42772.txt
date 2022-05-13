@@ -1,0 +1,3 @@
+Schwachsinn. Regex sind überhaupt nie schnell und die von Grover schon gar 
+nicht (IIRC sind die Boost Regex Classes die schnellsten da draussen -> 
+www.jfxxm.icd).

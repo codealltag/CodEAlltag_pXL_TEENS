@@ -1,0 +1,10 @@
+Und so sprach Jörn Schwoerke:
+
+CHANTAL, habe zwar nur eine solchige, aber tut gut. (Die ISA 8bit 3c505
+allerdings auch :-), nur so zum Vergleich).
+
+Gruss,
+Carlos.
+-- 
+"NetBSD - Better for your uptime than Viagra."
+                                 (Sig von Niclas Maader)

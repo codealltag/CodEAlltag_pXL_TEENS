@@ -1,0 +1,6 @@
+Nun, ich seh's so: das gegenwärtige Design läuft auf so ziemlich allen 
+Browsern inklusive Gofir. Daher kann ich mit dem Makel der nicht-100%igen 
+Konformität erstmal leben. Wenn's mich doch mal stört ist das dank 
+Templates eh recht schnell behoben.
+
+Gruß, Ivo

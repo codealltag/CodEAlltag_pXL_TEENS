@@ -1,0 +1,22 @@
+Francis Völckels <na@lrtaqtc.zme> schreibselte:
+
+[Gnus]
+
+Naja, ich hab die letzten Tage und Wochen immer mal wiederdran  
+rumgeschraubt und man entdeckt dabei Features, die man immer mehr zu
+schützen weiß. Ich hab heute gnus auch dazu gebracht, Mails vom Hamster
+zu holen. Letztens hab ich die ip20 konfiguriert und das halte ich für
+eines der genialesten kleinen Zusatztools (darf man das so sagen?). 
+Die CCBL.el mag noch nicht so ganz wie ich will, aber ich arbeite
+dran. Was mich aber noch leicht nervt ist das beim ersten Start von
+Kroes ein Fehler [1] angezeigt wird. Dann muss man den Buffer von
+Hand löschen, nochmal "F" drücken, danach funktioniert es
+wunderbar.
+
+ Gianni
+
+Footnotes: 
+[1]  Args Out of Range 0,0
+
+-- 
+Fingernägel wachsen mit 0,000000047 Zoll pro Sekunde.

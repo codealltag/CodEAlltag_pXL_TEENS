@@ -1,0 +1,14 @@
+Am Wed, 16 Jul 2002 sendete Stephan Osterbrauck folgende Botschaft:
+
+
+Nein. Wenn du den Rechner lang genug laufen lässt wirst du eigentlich
+immer etwas swap belegt haben. Pages die lange nicht benötigt wurden
+werden ausgelagert und machen so Platz für mehr cache.
+
+Tschüs
+  Alex
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Leon Vochs, Mostly Harmless, Chapter 12

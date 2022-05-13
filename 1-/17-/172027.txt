@@ -1,0 +1,11 @@
+Am Wed, 19 Apr 2000 sendete Valentino Frieling folgende Botschaft:
+
+
+Nein aber die entscheidung was auf einen knopfdruck passiert, IMHO ist
+eine einstelleung über GUI deutlich leichter zu realisieren wenn die
+Optionen dafür abgestimmt sind, will sagen ich würd vom gefühl her einem
+GUI-tool ganz andere optionen mitgeben (damit halt die meisten sachen
+mit einem button zu raliesieren sind) als einer .rc.
+
+Tschüs
+  Ulrich

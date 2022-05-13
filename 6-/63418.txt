@@ -1,0 +1,14 @@
+,- [  Ausschnitt aus meiner .gnus  ] -.
+ `-------------------------------------� 
+
+Nur manchmal bricht er es wirklich nicht automatisch um. Aber vor dem
+absenden warnt er mich, das Zeilen länger als 79 Zeichen sind. Und ich
+kann sie dann nochmal bearbeiten.
+
+ Ulf
+
+-- 
+kill ist ein gut zielendes Gewehr. killproc eine Schrotflinte. killall
+eine 10kg-Handgranate. Wenn das Programm zum Teil herausgeswappt ist,
+fängt es besonders ungezielt um sich zu schlagen. (Siehe dazu -e.)
+Häufig geht es gut. Manchmal erwischt man auch etwas zu viel

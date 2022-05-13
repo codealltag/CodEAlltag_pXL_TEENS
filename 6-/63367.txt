@@ -1,0 +1,14 @@
+Am Fri, 24. 08. 22 sendete Wilhelm Blaske folgende Botschaft:
+
+
+#v+
+felix: ~$nc www.gweg.mhy 80
+bash: nc: command not found
+#v-
+
+Tschüs
+  Nico
+-- 
+Die Weisheiten des Konrad Jup: #5
+
+Winkis Chilli rockt.

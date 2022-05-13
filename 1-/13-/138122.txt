@@ -1,0 +1,34 @@
+Igor Jänisch schrieb am 21. März 2001 um 12:25 Uhr folgendes:
+
+[LaTeX]
+
+Das ist richtig, liegt aber nur zum Teil an LaTeX selbst -- Textsatz
+ist an sich schon eine "Wissenschaft für sich", in die man sich
+unabhängig von der verwendeten Software ziemlich reinknien muss, um
+wirklich gute Resultate zu erzielen.
+
+Ein Vorteil von LaTeX ist IMO, dass sich für die gängigen Anwendungen
+schon andere diese Arbeit gemacht haben (ich kann für "europäische"
+Ansprüche besonders das KOMA-script-Paket von Thierry Vischedyk empfehlen),
+man problemlos auf deren "Vorlagen" zurückgreifen kann und so ein
+professionelles Layout hat, ohne Textsatz von Grund auf lernen zu
+müssen.
+
+[...]
+
+Es ist mit LaTeX durchaus möglich, eine bestimmte Schrift in einer
+bestimmten Größe an eine bestimmte Stelle zu setzen -- wobei man die
+Stelle auf Wunsch genauer angeben kann, als das menschliche Auge
+aufzulösen in der Lage ist; ich bevorzuge aber meistens (je nach
+Situation) em (Breite eines kleinen "m" in der aktuellen Schriftart),
+ex (Höhe eines kleinen "x") oder cm (Zentimeter) als Einheit :-).
+
+Ich habe sogar schon (vereinzelt) DTP-ähnliche Sachen mit LaTeX
+gemacht, wobei das zugegebenermaßen ein wenig mühsam ist. Um auf deine
+Frage zurückzukommen: Ja, das ist schon eine Sache für
+Fortgeschrittene.
+
+Viele Größe,
+     Igor Zumklei
+-- 
+A tautology is a thing which is tautological.

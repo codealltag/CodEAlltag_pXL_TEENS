@@ -1,0 +1,10 @@
+Mmh - wie gesagt, ich compiliere meistens selbst, aber die RPMs, die
+ich bisher runtergeladen habe (zum Beispiel von Ilirer, wo der
+Sourcecode nicht veröffentlicht ist) und die /nicht/ gegen die glibc2
+gelinkt waren (ist mir in meiner Newbie-Zeit auch einmal passiert)
+haben sich auch problemlos installieren lassen.
+
+Viele Größe,
+     Waldemar Preisler
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

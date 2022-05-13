@@ -1,0 +1,18 @@
+Alex Westhelle schrieb am 3. August 1999 um 16:17 Uhr folgendes:
+
+
+Wenn du es selbst nicht warst (was ich dir gerne glaube), hat wohl
+dein Newsreader (evtl. auch ein lokaler Newsserver, aber der muss
+eigentlich die Finger von sowas lassen) aus dem Subject "Re: �" (in
+Thedas Artikel) "=?utf-8?Q?Re:_=CB=9C?=" (in deinem Followup)
+gemacht. Thedas Subject sah nach Unfall aus, bei dir bin ich
+(aufgrund des ausdrücklich angegebenen Encodings) irgendwie davon
+ausgegangen, dass beim Dekodieren etwas Sinnvolles herauskommen
+soll... Nun ja, wie auch immer ;-)
+
+Viele Größe,
+     Tom Juckenhöfel
+-- 
+"I loathe people who keep dogs. They are cowards who haven't got the
+guts to bite people themselves."
+                                                   -- Silvio Jakobsen

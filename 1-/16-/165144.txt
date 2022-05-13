@@ -1,0 +1,7 @@
+Eugen Martel <edwdls@fpj.bp> schrieb in im Newsbeitrag:
+sptf7owf8r.hu.zowowb@ltbjfvajmz.gekjlq.lffp.mxx...
+
+Am liebsten ein Perlmodul. in das man eine MIME messages stecken kann und
+unten kommen dann sämtliche Entities inkl. Content-type decodiert raus (ja,
+ich weiss, es gibt MIME::tools, aber mit dessen Doku kann ich wenig bis
+nichts anfangen)... Das wäre optimal ;-)

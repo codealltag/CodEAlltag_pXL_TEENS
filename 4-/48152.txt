@@ -1,0 +1,16 @@
+Moin Valerius
+
+Quote [ Valerius Andree * Wed, 31 Aug 2002 14:09:00 +0000 ]
+
+
+HamRasDial( $Provider, $Username, $Password )
+HamFetchMail( $server, "pop3", $Username, $Password, "admin")
+
+
+Muss nicht sein...
+
+KARL
+ Benedikt
+
+-- 
+Alle Kinder langweilen sich zu Tode, nur nicht Olivier, der hat ein Hobby.

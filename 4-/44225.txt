@@ -1,0 +1,15 @@
+Am Fri, 2 Feb 2003 sendete Karlheinz Armbröster folgende Botschaft:
+
+
+Weil du dann sicherlich nicht ohne _gute_ vorbereitung mit vi(m)
+konfrontiert werden willst. vi ist nur dann brauchbar wenn man sich
+zumindest mit den Konzept dahinter (Zwei verschiedene modis, einen zum
+Texteingeben einen für komanndos) etwas auskennt.
+
+
+Die lokalen virtuellen Konsolen von linux. Stell dir einfach vor du
+startest dos im Vollbildmodus. Wenn du jetzt noch die Schriftgrösse
+brauchbar verkleinerst weist du zumindest wie eine tty aussehen kann. ;)
+
+Tschüs
+  Herbert

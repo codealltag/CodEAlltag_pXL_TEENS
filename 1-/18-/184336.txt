@@ -1,0 +1,17 @@
+Roberto Nowaczynski schrieb am 30. März 1999 um 20:36 Uhr folgendes:
+
+
+Ist irgendeine Telekom-Karte, PCI/pnp -- die Steigleiter-Hardware-Database
+meint, dass die Dinger baugleich zu den Fritz!-Cards seien.
+
+
+Steigleiter hat wohl eigene und recht komfortable Tools für ISDN; falls es
+damit nicht klappt, werde ich meine Bemühungen mit I4L forsetzen und
+dich ggf. ein wenig nerven :-)
+
+Viele Größe,
+     Edgar Nyhsen
+-- 
+"Beware of bugs in the above code; I have only proved it correct, not
+tried it."
+                                                        -- Alberto Maiworm

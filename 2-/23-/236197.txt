@@ -1,0 +1,7 @@
+Funktioniert das auch, wenn die interessanten Daten zufällig keine
+Bilder, sondern (zum Beispiel) MIDI-Dateien sind?
+
+Viele Größe,
+     Wolf Tennort
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,16 @@
+Aus welchem Grund auch immer gab Samuel Carlsohn bekannt:
+
+
+OK, ich verwende momentan wieder nur ein und das selbe X-Face. Fragt
+sich allerdings nur wie lange, vermutlich nur bis ich eine Lösung für
+das Beleuchtungsproblem gefunden habe.
+
+BTW, Ist es nötig deinen Namen als iso-8859-15 und den Body dann auch
+noch als utf-7 zu deklarieren?
+
+Ivano
+-- 
+Ich habe einst die Vereinigten Staaten um Zoll auf goldene Uhren im Betrag von
+50 Dollars gebracht. Da mein Gewissen nun schlägt, schicke ich 5 Dollars.
+Sobald es wieder schlägt, werden Sie weiter von mir hören. 
+              - Mister X im Oktober 1901 an die Beamten des Schatzamtes in Petterweil

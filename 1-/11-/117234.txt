@@ -1,0 +1,11 @@
+* Marko Teichmüller <pjytvifockrfpz@dzt.gjh>:
+
+
+Endlosschleife.
+
+
+Also nur ein temporärer Effekt.
+
+Lorenz
+-- 
+cross veinless

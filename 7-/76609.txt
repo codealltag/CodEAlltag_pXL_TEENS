@@ -1,0 +1,17 @@
+Tse, wirklich unglaublich....
+
+[crontab-syntax]
+
+
+Vorsicht. Es gibt da crond-Derivate, die als sechsten Parameter
+einen Usernamen erwarten, unter dessen UID der als siebter Parameter
+aufgefuehrte Befehl ausgefuehrt wird...
+
+[...]
+
+
+Vorsicht, klappt nur dann, wenn in /etc/crontab entsprechende
+Eintraege vorhanden sind. Fehlen diese, sind allerdings i.d.R.
+auch die angefuehrten Verzeichnisse inexistent...
+
+Niko

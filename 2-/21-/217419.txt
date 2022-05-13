@@ -1,0 +1,18 @@
+Im Moment ist's bei mir mit der Freizeit auch nicht so weit her.
+Während der Woche mußte ich schon auf Usenet verzichten und habe
+trotzdem nicht genug Schlaf bekommen. Sigh.
+
+
+Tjo - wenn man genug Platz hat, ist so ein doppelter Boden eine feine
+Sache. Mein alter Rechner könnte vielleicht mal ein paar Updates von
+grundlegenden Sachen brauchen (Kernel, gcc, glibc2 und so weiter),
+aber ich habe mich da bisher noch nicht so recht rangetraut.
+
+
+Habe ich selbst noch nicht unter den Fingern gehabt - kann ich also
+nichts groß zu sagen.
+
+Viele Größe,
+     Orlando Ulsamer
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

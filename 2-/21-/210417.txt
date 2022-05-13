@@ -1,0 +1,8 @@
+Müssen sie sogar.
+
+
+So ein ähnliches Projekt ist in der letzten Mafa beschrieben und ich 
+arbeite gerade unabhängig an einer weiteren Version. Der erste Schritt ist 
+allerdings eine Fernbedienung mit dem PC zu simulieren. Gerade heute hab 
+ich die Empfänger-Schaltung zusammengelötet. Sobald die IR Sachen 
+funktionieren kommt das Erkennen des Logos mit der TV-Karte etc. dran.

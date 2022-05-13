@@ -1,0 +1,12 @@
+* Edwin Zigler <pyetdfduranqqb@ffs.aqk>:
+
+
+Nein.
+
+
+Rechne aus, was der höchste negative Wert ist, der möglich ist, und
+setze dann diesen plus eins als Wert ein.
+
+Frank
+-- 
+cross veinless

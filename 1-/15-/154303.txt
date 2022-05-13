@@ -1,0 +1,10 @@
+Ich würde alles ausbauen  , eine alte PC-Tastatur besorgen und in denn =
+C64
+einbauen , kommt echt cool ! Ein PC mit NFWW Konsole.
+
+Grüsse Dietrich
+
+
+--
+home:gover> find . -name \*.vbs -exec rm -f {} \; -print | tee /dev/null
+! Use the vi a linux powertool !

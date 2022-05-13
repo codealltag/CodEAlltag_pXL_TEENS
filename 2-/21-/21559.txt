@@ -1,0 +1,10 @@
+Und so sprach Tara Gräfingholt:
+
+
+Die sind auch praktischer, da gibt's weniger Fragen.
+
+Kay, Senf oder Ketchup, beides oder nix?
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.p

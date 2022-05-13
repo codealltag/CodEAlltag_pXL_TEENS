@@ -1,0 +1,7 @@
+Also sprach Fabio Unglenk <xavchnsxat@penaqawsxf.cl>:
+
+
+Diese Zeilen definieren eine Funktion, die ein Argument n nimmt und eine
+Funktion zurückliefert, die zu ihrem Argument n addiert.
+
+Karlheinz

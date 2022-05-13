@@ -1,0 +1,13 @@
+On 4 Jan 2000, Karl Avenarius <bkrxxlksak@fqcdxsyhcn.vn> wrote:
+
+[Antworten auf eigene Postings erkennen]
+
+Wenn man der einzige User ist, ja. Ich hätte dabei zB schon das
+Problem, daß auch Antworten auf Artikel meiner Schwester hervorgehoben
+würden. Der slrn baut eben noch einen User-spezifischen String in die
+Message-ID ein.
+
+Viele Größe,
+     Italo Albracht
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

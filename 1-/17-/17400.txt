@@ -1,0 +1,6 @@
+ftp-Client starten, mit lcd in das verzeichnis wechseln und dann mput?
+
+Benjamin, leichte Verbesserung. Ansonstan ncftpget nutzen.
+
+-- 
+	     God is real... unless declared an integer.

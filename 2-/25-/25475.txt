@@ -1,0 +1,24 @@
+Jean Jarck postete dies:
+
+
+Amip und WinAmp2.91 werden zwar keine Ressourcenfresser, aber
+dummerweise wird (mit exakt gleichen Einstellungen wie bei WA3) auch
+nichts in die Datei geschrieben. Sie ist einfach nur leer (auch wenn
+ich vor dem Starten von Musicus was reinschreib und dann, wenn Musicus läuft
+reinschau).
+
+
+Ich bin nicht mico.
+
+
+Was meinst du denn? ;)
+
+
+So what?
+
+roberto
+-- 
+��  Oberster Verteidiger des Ordens der Dunklen Rufod von de.ALL [tm] ��
+#                 "Wer gesiggt werden will ist doof."                  #
+#                      Leo O. Eigner in datd                       #
+#        http://kcmk.zwnrc.adrb - http://larftp.qgonx.ibhgk.lxtt       #

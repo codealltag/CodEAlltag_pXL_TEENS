@@ -1,0 +1,14 @@
+Solches tippte Jörg Friedhofen:
+
+Man wende sich vertrauensvoll an seine .<$favouriteshell>rc ;-)
+
+Walters
+
+
+$ which `echo $EDITOR`
+/usr/bin/vim
+-- 
+Willi Kraemer --+- stud. soz. & inf. -+-- http://zrs.yui-psayjac.xx
+-->    GPG Public Key: http://oef.ltwoahra-vjdkcju.js/akl.hkkvv    <--
+
+� Projekt Deutscher Wortschatz: <URL:http://ifornwtopt.kar-psghfjp.jh>

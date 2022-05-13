@@ -1,0 +1,6 @@
+xqpy@agbf:~$ locate bsh | wc -l
+     24
+
+Das endet unschoen.
+
+-towo

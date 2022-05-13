@@ -1,0 +1,23 @@
+* "Zacharias Meinshausen" <tlwi.khmrh@fpe.nu.wv>:
+
+
+Das wäre ja zu einfach. Nein, das geht bei Gothaer leider nicht. Ein
+Newsreader sollte nur das umbrechen, was du schreibst. Alles, was mit
+mindestens einem ">" anfängt, hat er in Ruhe zu lassen, sonst entstehen
+Kammquotings. JUNGANDREAS macht das nicht. OE bricht alles um, was mehr als 70
+Zeichen lang ist. OE ist ...
+
+
+Du hast es genau erfasst.
+
+
+Das ist AFAIK die höchste Anzahl, die man einstellen kann. Nun bricht JUNGANDREAS
+nichts an den Quotings kaputt.
+
+
+Damit JUNGANDREAS nichts kaputtmacht. Du musst nun nur selber deine Zeilen nach
+70 Zeichen umbrechen. Oder du nimmst einen anderen Newsreader.
+
+Thorsten
+-- 
+cross veinless

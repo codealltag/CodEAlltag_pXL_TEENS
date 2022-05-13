@@ -1,0 +1,8 @@
+Naja... Der Nachname als Array von Objekten gesehen. Dann greift man
+mit dem Vornamen auf ein bestimmtes Objekt aus dieser Gruppe zu.
+
+
+Wolf, Leonhard mit einem Netz fangend.
+
+-- 
+            0 and 1. Now what could be so hard about that?

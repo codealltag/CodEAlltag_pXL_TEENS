@@ -1,0 +1,20 @@
+Am Tue, 05. 04. 23 sendete Hartwig Irnich folgende Botschaft:
+
+
+Chef von $KUNDEN bei euren Aussenstellen? Dann braucht der wohl eher
+keine e-mails an euch schicken.
+
+
+#v+
+felix: ~$grep -a 'From: Hartwig Irnich <raitlg@zlnxcsbg.pv>' /kel/news/spool/cnfs/dtju* | wc -l
+    651
+#v-
+
+OTTO
+
+Tschüs
+  Jakob
+-- 
+Die Weisheiten des Charly Jup: #5
+
+Winkis Chilli rockt.

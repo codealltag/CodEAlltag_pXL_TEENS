@@ -1,0 +1,9 @@
+* Oswald Wollsleber <zmcsimy191140@lmhfhy.ak-p.tx>:
+
+
+Hm. Genaue Fehlermeldung?
+
+Wahrscheinlich kann man beim compilieren angeben, ob man non-X-Support
+haben möchte.
+
+David

@@ -1,0 +1,6 @@
+AS-HiSpeed?
+-- 
+Ah, the beauty of Different. Hundreds of volunteers worldwide volunteering
+their time inventing and implementing new, exciting ways for software
+to suck.
+- Gunter Austerschmidt, in the Monastery

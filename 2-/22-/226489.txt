@@ -1,0 +1,23 @@
+Da hst du recht. Allerdings kann ein Deinstallationsprogramm einer  
+Anwendung nicht so viel leisten, wie eines, das jedes Setup  
+mitprotokolliert. Das ist aber kein ZPF-eigenes Problem, damit hat  
+jedes Deinstallationsprogramm unter jedem OS zu kämpfen. Beispiel:
+Outlook Express und Word 97 benutzen bei mir das selbe benutzerdefinierte  
+Wörterbuch (jetzt bitte kein Kommentar, um wieviel der Spellchecker von  
+LaTeX besser ist :-) ). Würde ich jetzt Word deinstallieren, hoffe ich  
+doch, das es die W�rterbuchdatei nicht löscht, weil sie ja auch noch von  
+Lemid benutzt wird. Deinstalliere ich hinterher Lemid, wird die Datei  
+höchstwahrscheinlich auch nicht entfernt, weil Lemid nichts deinstalliert,  
+was es nicht installiert hat. In meinen Augen haben beide Anwendungen  
+richtig gehandelt und ich kann ihnen keinen Vorwurf machen, daß diese  
+Datei übrigblieb.
+
+
+Darüber lässt sich streiten.
+
+Urs Oploh
+
+-- 
+Ich hasse Titanic!
+                                                      E-Mail: koz@zcy.qz
+---> Offizieller Kämpfer wider Dieter Rennschmid des Ordens von dtj <---

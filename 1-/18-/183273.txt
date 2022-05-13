@@ -1,0 +1,37 @@
+Aber es ist doch eine Informatikaufgabe, Informatik ist eine
+Ingenieurwissenschaft, hat immer Praxisbezug, also: ;)
+
+
+Oh doch, beweisen uns diverse Softwarepakete immer wieder.
+
+
+Bei Rechnen mit Dual-/Hexzahlen ist das bei uns halt so üblich, das
+man sich erstmal erkundigt, wofür, um dann die Implementierung (also
+die Problemlösung) ordnungsgemäß angehen zu können.
+
+
+Es ist nicht angegeben, also vermutet der geschulte Informatiker eine
+Falle und fragt nach. :)
+
+
+Nirgendwo, ich meinte den Umgang mit den Zahlensystemen, mit dem einen
+macht man es sich verständlich, die anderen nutzt man größtenteils zu
+Implementierung.
+
+
+Ich würde nachfragen. Eben genau das hat Niels nicht gemacht, ich
+wollte ihm doch nur zeigen, das man sich das ganze auch noch ein wenig
+komplizierter machen kann.
+
+
+Yep.
+
+Wo wir gerade dabei sind, kennt jemand ne gute URL oder ein feines
+Buch zum Turing-Automaten, die Vorlesung darüber kann ich nämlich ohne
+Nachdenken unter vergessen abhaken...
+
+-- 
+sSXP
+
+"Adopted kids are such a pain -- you have to teach them how to look
+like you ..."  -- Tabea Ernst

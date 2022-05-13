@@ -1,0 +1,9 @@
+Dixit Claus Danneil <o-mdq@rbfygvqwpmy.zi>:
+[Müschede]
+
+Vielleicht war das ja Oana Tante ... ;-)
+-- 
+Wie jagt man einen Elefanten - Teil 2:
+C- Programmierer bestimmen zuerst mit sizeof() die nötige Speichermenge
+für einen Elefanten, versuchen diese zu allozieren, vergessen dabei das
+Ergebnis abzuprüfen und schießen dann mit wilden Pointern auf den Elefanten.

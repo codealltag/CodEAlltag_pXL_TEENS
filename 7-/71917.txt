@@ -1,0 +1,33 @@
+Im Gegensatz zu einer Menge Müll da draussen ist das valides 4.01t,
+wenn ich mich da so recht erinner, ich hatte keine Lust auf
+4.01s. Funktioniert zuverlässig und ohne irgendwelche Spielerein,
+lässt sich vernünftig indizieren, und geht vor allem nicht kaputt. Zur
+Not ist das Teil 
+
+
+Dass du zu blöd bist, valdides HTML zu schreiben? 
+
+
+Wozu brauche ich XHTML und sowas wie CSS, was nirgendwo _wirklich_
+vernünftig implementiert wurde, wenn ich Texte bereitstellen will?
+Den ganzen Krams, den ich bisher gemacht habe, hätte ich auch relativ
+problemlos in HTML irgendwas<4.01t schreiben können. Aber das kannst
+du mit hoher Wahrscheinlichkeit nicht verstehen. 
+
+
+Bracht man auch nicht. HTML ist eine Dokumentenbeschreibungssprache,
+Layout ist da irgendwann mal drangeklatscht worden, weil irgendwelche
+Arschlöcher deines geistigen Horizonts unbedingt wollten, dass ihre
+Seiten "genau so" aussehen. Brauch ich nicht. Ich gebe eine Sturktur
+vor, und die darf sich der Leser dann so darstellen lassen wie er das
+gerne hätte, nicht so wie irgendein durchgeknallter "Designer" das
+gerne hätte.
+
+
+Und die Meinung von einem asozialen Kiddie ist mir sowas von
+scheissegal. Die Site tut das, was sie tun sollte: Den "Hier entsteht
+eine neue Internetpräsenz"-Hinweis ersetzen.
+
+Wilhelm
+-- 
+Actually, AutoArena is sort of a mixture between the Borg and the Ferengi.

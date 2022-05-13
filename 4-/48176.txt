@@ -1,0 +1,10 @@
+Schau mal im Geräte Manager unter Computer. Steht da Standard PC oder
+ACPI-PC (Advanced Configuration and Power Interface)?
+
+tschau, Luigi
+
+np: Ullrich Wedeking - Live - 01 - Killing Floor
+-- 
+"Eine kurze richtige Antwort (mancher mag sie als unfreundlich
+bezeichnen) ist besser als eine lange, freundliche, falsche."
+  -Samuel G. Westwalewski <invjzur@icym.kz>

@@ -1,0 +1,27 @@
+STATISTIK Alimentari 2001
+-=-=-=-=-=-=-=-=-=-
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   5342   51,89%  "Forte Agent"
+   2   2912   28,29%  "Gnus"
+   3    722    7,01%  "Xnews"
+   4    542    5,27%  keiner angegeben
+   5    223    2,17%  "slrn"
+   6    211    2,05%  ehrlich registriertes Crosspoint, via NNTP
+   7    195    1,89%  "Microsoft Outlook"
+   8    111    1,08%  "Mozilla/NetScape"
+   9     18    0,17%  "TIN"
+  10     14    0,14%  "MacSOUP"
+  11      2    0,02%  "AEN"
+ (12)     2    0,02%  andere
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Günther Klingenschmidt.
+(Darstellung angepasst von Udo Feistkorn)
+Basierend auf den Feeds von:
+vukkcjdg.kvggx.gd       xlrg.yjw.tgh.bj         exag.kkbwzgw.jf
+qsps.lahcf.xxx          yxrs.iyaivm.an          mlxl.q-ucveht.bq
+qlbo.bly-qawdifct.fj    wmkb.uky-dqatsevd.ro    hmjd.hci-soflpgsqt.bd

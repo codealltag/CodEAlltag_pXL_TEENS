@@ -1,0 +1,13 @@
+Claudio Hasenteufel schrieb am 1. April 1999 um 20:03 Uhr folgendes:
+
+
+Wobei man die beiden IMO manchmal gar nicht mehr so eindeutig
+auseinanderhalten kann.
+
+Viele Größe,
+     Didier Imbeck
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

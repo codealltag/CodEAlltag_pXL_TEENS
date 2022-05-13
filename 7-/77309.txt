@@ -1,0 +1,9 @@
+Begründung? Ich meine, es muss ja nicht zwingend eine
+Windows-Fehlermeldung sein...
+
+Oskar
+
+-- 
+Zeißstraße ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

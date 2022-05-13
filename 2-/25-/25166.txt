@@ -1,0 +1,18 @@
+Ja, das ist etwas umständlich. Aber wenn du mal wieder im Channel
+vorbeischaust, lass dir mein np-Skript vorführen, das fragt nämlich
+ab, was er gerade spielt.
+
+
+Das hat doch schonmal was... Kann der auch mpg123, wäre nett, mpg321
+überlastet den Rechner etwas.
+
+
+Bisher bastele ich genau an dem Teil, eine vern�nftge Anzeige für
+einen entfernten irmp3d hinzukriegen. Da gehe ich derzeit über
+mod_netctl und frage mir die Infos ab. Da gehe ich derzeit über PHP
+ran, damit kriege ich den nahtlos integriert in mein mp3-Archiv.
+
+Philippe
+
+-- 
+31.69 nHz = once a year.

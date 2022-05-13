@@ -1,0 +1,10 @@
+Fast.
+
+[^a-z]{10,}
+
+Willi
+-- 
+DAS tut weh...
+naja...
+mir nicht.
+[Ivan]

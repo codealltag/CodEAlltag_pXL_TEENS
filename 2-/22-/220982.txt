@@ -1,0 +1,8 @@
+Bei meiner PGP-Version gibt's eine Konfigurationsdatei. Wenn darin
+"Language = de" festgelegt wird, ist die Ausgabe in Deutsch. Bisher
+hat sich das Programm zuverlässig daran gehalten.
+
+Viele Größe,
+     Ulfert Uihlein
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

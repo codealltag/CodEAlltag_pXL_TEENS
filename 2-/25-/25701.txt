@@ -1,0 +1,9 @@
+Ersetze das Wort (\w+), das am Zeilenanfang steht (^) durch 1/ das Wort,
+also 1/(Extrapolation).
+
+
+mfg, 
+	Gilbert
+-- 
+BOFH excuse #153:
+Big to little endian conversion error

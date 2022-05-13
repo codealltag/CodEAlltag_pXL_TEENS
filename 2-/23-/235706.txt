@@ -1,0 +1,14 @@
+John Zieglgruber wrote:
+[Sicherheitslücke in API]
+
+Natürlich, das ist das Prinzip solcher Programme. 
+
+Oder meinst Du das wäre die Sicherheitslücke?
+lol, der User kann Systemdateien nicht ändern, außer er weiß vielleich mit 
+einem Magneten an der richtigen Stelle der Festplatte rumzumachen (nicht 
+zu empfehlen). Parameter werden immer mit einem Programm geändert. Woher 
+soll die API also wissen ob sie von einem "guten" Programm oder von einem 
+bösen Trojaner aufgerufen wurde?
+
+-- 
+Wer diese Sig lesen kann hat sich für den richtigen Autor entschieden ;-)

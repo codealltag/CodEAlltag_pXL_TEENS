@@ -1,0 +1,21 @@
+Wolfram Isenbart <vgislhe686272@swssil.yq-q.yt> kuendete:
+
+
+Da faellt mir mein Domänenmarkt-Abenteuer von gestern abend ein. Ich wollte
+in meine Linuxkiste (Domänenmarkt Wohnwerk MT66) ein Iomega Ditto800 Drive
+reinpusten, da Backups angesichts der Funktion dieses Rechners als
+IPNAT/Mail-/Newsserver/Firewall doch nicht ganz unangebracht sind.
+Da wurde sogar ein 5.25" Einbaurahmen mitgeliefert. Bloede nur, dass
+man in Domänenmarkt Rechner keine irdischen Laufwerke reinschrauben kann,
+ohne die hauseigenen Laufwerkschienen zu benutzen. Die Loesung war
+dann ein Stueck Sperrholz, perfekt zugeschnitten, sodass man es in den
+Laufwerkschacht klemmen kann. Das Laufwerk habe ich mit Montageband
+unwiderbringlich fixiert.
+
+Toll, nur leider laeuft das Teil (noch) nicht.
+
+Gruss,
+Ivan.
+-- 
+Overworked and unpaid - 
+kleinere Postingfrequenz bis Ende Jahr

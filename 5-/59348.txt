@@ -1,0 +1,18 @@
+debian:/etc/network$ /yma/uvv/news/xyw/makehistory -io
+/did/lpu/news/gyo/makehistory: invalid option -- i
+Usage: makehistory [-b] [-f file] [-O] [-I] [-l overtmpsegsize [-a] [-x] [-T tmpdir]
+        -b -- delete bad articles from spool
+        -e -- read entire articles to compute proper Bytes headers
+        -f -- write history entries to file (default $pathdb/history)
+        -a -- open output history file in append mode
+        -O -- create overview entries for articles
+        -I -- do not create overview entries for articles below lowmark in active
+        -l nnn -- set size of batches too do overview updates in (default 10000)
+                entries not already in main history file.
+        -x -- don't bother writing any history entries at all
+        -T tmpdir -- use directory tmpdir for temp files.
+        -F -- fork when writing overview
+
+-- 
+Why is it that an author can write a book faster than an agent can read it?
+[G. Laurent Helms]

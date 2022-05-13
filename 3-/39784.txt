@@ -1,0 +1,7 @@
+Soviel Scheisse, wie ich mit RPM unter VS-Bike erlebt habe kann ich
+nichtmal mit reinen Sourcen bauen...
+
+Noël
+-- 
+Nicht das Auto tötet die überfahrene Katze,
+sondern die Frau am Steuer.

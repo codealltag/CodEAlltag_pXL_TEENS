@@ -1,0 +1,11 @@
+Und so sprach Ernst Oehmig:
+
+
+OK, ich geb Dir nen SSH Account mit einem Shell-Skript, mit dem Du Dir
+die Mail zuschicken lassen kannst.
+
+Gruss,
+Ullrich.
+-- 
+                          Kinderreich - the meta project
+                         <URL:http://aoe.rctqcsrbj.vc/>

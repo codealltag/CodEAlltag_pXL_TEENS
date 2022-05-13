@@ -1,0 +1,4 @@
+Wieso habich dann im Kontextmenü jeder beliebigen Dateistehen "Edit with
+vim"?
+
+Ferdinand

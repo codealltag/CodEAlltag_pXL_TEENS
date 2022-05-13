@@ -1,0 +1,14 @@
+(F|f)oo
+
+könnte das sein, was du suchst.
+
+ansonsten hilft die man grep:
+
+       -i, --ignore-case
+              Ignore  case  distinctions  in both the PATTERN and
+              the input files.
+
+
+Georges
+-- 
+"Wir haben einen vorläufigen Erschießungsbefehl gegen Sie."

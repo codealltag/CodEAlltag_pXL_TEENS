@@ -1,0 +1,9 @@
+Normalerweise nicht.
+
+
+Wenn's unter Win95 läuft kein Problem, das hat Plattenbau normalerweise. Wenn der 
+alte PC noch ein DOS-Rechner ist dann mußt Du Dir halt den ODI Treiber 
+holen, auch nicht weiter wild.
+
+-- 
+Die GEMA-Gebühren für dieses Posting werden automatisch abgebucht

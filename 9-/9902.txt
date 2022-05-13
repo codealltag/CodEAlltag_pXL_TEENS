@@ -1,0 +1,7 @@
+Dein Klon tut sowas.
+
+Ivan
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+115: pure virtual member function
+       nicht kreatibel (Horst Jess)

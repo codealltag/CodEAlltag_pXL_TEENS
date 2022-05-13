@@ -1,0 +1,12 @@
+Hallo Marga Plettner
+
+
+ispell....
+
+MfG Frank
+
+-- 
+Fachbegriffe der Informatik einfach erklärt
+309: NIH (Not invented here) Syndrom 
+     Man versuche stets alles neu und damit wieder mal naiv und fehlerhaft
+     zu programmieren. (Salvatore Knörchen)

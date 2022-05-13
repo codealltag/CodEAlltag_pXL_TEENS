@@ -1,0 +1,7 @@
+Dann seid ihr beide nicht normal.
+
+René
+
+-- 
+Baeckerei:
+  "Unbekannter Fehler '-128' bei '57'."

@@ -1,0 +1,10 @@
+Am Thu, 25 Dez 1999 sendete Burkhard Utermühl folgende Botschaft:
+
+
+#v+
+15:20:34 ~$man leafnode
+No manual entry for leafnode
+#v-
+
+Tschüs
+  Wolfram

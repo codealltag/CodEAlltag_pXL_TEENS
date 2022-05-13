@@ -1,0 +1,34 @@
+Ach ja: Könntest Du Deinem Newsreader diese Quotezershredderung bitte
+abgewöhnen? Fällt mir bei Dir öfter auf und führt meist dazu, daß ich
+mir die Zeit nicht nehme, um den betroffenen Artikel zu entwirren.
+
+
+Bei mir war es zB notwendig, um die Soundkarte ans Laufen zu bekommen.
+Aber auch wenn es bei jemandem nicht unbedingt nötig ist, würde ich
+einen selbstkompilierten Kernel empfehlen - dadurch wird er schlanker
+(hat bei mir mehr als 20% ausgemacht - der vom Kernel belegte Speicher
+wird übrigens nicht geswapt, so daß ein schmaler Kernel doppelt
+wichtig ist), in vielen Fällen auch schneller und uU stabiler (obwohl
+auch 'dicke' Kernel der stable-Serien sehr zuverlässig sind).
+
+
+Ich habe das schon ziemlich am Anfang meiner 'Linux-Laufbahn' gemacht
+und nicht als besonders umständlich empfunden: Man kann die
+Konfiguration in einem Menüsystem festlegen - gewünschte Features kann
+man (meist wahlweise fest oder als Modul) anwählen, unnötige Features
+schaltet man ab. Bei der Auswahl, was man braucht und was nicht, hilft
+(zumindest unter Fortschritt) ein eigenes Kapitel im Handbuch; zu einigen
+Optionen gibt es auch per F1 Online-Hilfe (auf Englisch). Wenn man
+sich einmal nicht sicher ist, läßt man eben die Einstellung des
+Standardkernel.
+
+Wenn man den Anweisungen im Handbuch folgt, sollte nicht allzu viel
+schief gehen können: Sowohl, wenn man LILO benutzt, als auch bei
+LOADLIN ist es möglich, den alten Kernel als Sicherungskopie zu
+behalten und damit zu booten, falls das System (wider erwarten) mit
+dem frischen Kernel nicht laufen will.
+
+Viele Größe,
+     Felix Caster
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

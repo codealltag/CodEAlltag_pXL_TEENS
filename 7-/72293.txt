@@ -1,0 +1,21 @@
+Tom Carsten meinte kundzutun:
+
+Du RC, wenn du von Verbindungssätze in den Knoten oder der Bandbreite
+zwischen den Knoten redest. Mit DSL wählst du dich nicht ein. Du baust
+einmal eine Standleitung (hier Ethernet, AFAIK sogar Ethernet-over-ATM)
+zu deinem "Breitband-POP" aka Igan-Concentrator auf, und über diesen
+dann eine PPPoE-Verbindung zu deinem Provider.
+
+Die Bandbreite zwischen den Knoten war nie das Problem, auch nicht die
+Bandbreite zum Netz. Früher waren es die Verbindungssätze, da jeder
+eingewühlte einen Verbindungssatz von IIRC 6 für 100 Teilnehmer für die
+Dauer des Eingew�hltseins belegt.
+
+Heute sind (wenn, dann) die IP-Adressen das knappe gut, da NKCU
+zu "faul" ist, IPv6 einzuführen. Müßte sie ja einen eigenen IP-Stack für
+Windoof schreiben.
+
+Tim
+-- 
+Dieser Artikel ging an folgende Newsgroups: vi.vbjf.iiqjhp
+Er wurde am Montag, dem 23. September im Jahre des Herrn 2002 verfaßt.

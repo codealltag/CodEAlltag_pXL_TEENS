@@ -1,0 +1,16 @@
+AJtrwpbjir@anl.wr (Wwrkhm Pfingstgräf) wrote in
+<dtj.20000129193030.5032@dragon.akallabeth.de>: 
+
+
+Seltsamerweise macht Hamster schlapp. In Flugbörse sehe ich lauter 
+Postings ohne Header, wenn ich sie lesen will, geht der Score auf 
+-9999 runter. Ein Loeschen der Hamster-DBs schafft Abhilfe.
+
+
+Ich hole mir jetzt dtju auch im Free Agent, mit expire: never, mit 
+dem hatte ich noch nie Datenverlust. :)
+
+Knut
+-- 
+
+ich hab die augen zugemacht und hab die welt gesehen

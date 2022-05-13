@@ -1,0 +1,11 @@
+Denis Haußer hat geschrieben getan getutet:
+
+
+Hubert.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Nico 'georg' Volkens in js.eyk.drrulasm.mxxezyjg

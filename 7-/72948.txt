@@ -1,0 +1,11 @@
+Denis Thalmaier hat geschrieben getan getutet:
+
+
+*sznief* Mein Monitor schafft bei 1024x768 nur 85 Hz..
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Noah 'rolf' Bente in zy.ozo.msparqhg.qimwopdz

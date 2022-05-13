@@ -1,0 +1,15 @@
+Und so sprach Gottfried Theodor Cölln:
+
+
+Och, ich hatte bisher kaum Probleme ... Indy 3 & 4 hab ich jedenfalls
+schonmal damit komplett durchgespielt.
+
+
+Hey, meine Worstation ist ein PII 266!
+
+Gruss,
+Oliver, ich benutz ihn aber seit April auch nicht mehr richtig haeufig.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.p

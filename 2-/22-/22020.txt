@@ -1,0 +1,14 @@
+Und so sprach Jeans 'Joseph Freemann:
+
+
+Sehr höchstens, ja. :-)
+
+
+*iTunesanwerf* :-)
+
+Gruss,
+Eckhard
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.l

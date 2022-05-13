@@ -1,0 +1,7 @@
+Wie gehst du denn jetzt ab, bitte?
+
+t|a
+
+-- 
+Falscher oder fehlender Kaffee - Anwender angehalten.
+(W)iederholen  (I)gnorieren  (K)affee kochen ?

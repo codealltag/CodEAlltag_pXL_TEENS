@@ -1,0 +1,18 @@
+Am Mon, 02. 11. 21 11:13:16 +0200 sendete Heiko Looman
+folgende Botschaft:
+
+
+Wenn du dich einmal durch das tutorial durchgearbeitet hast ist der
+_sehr_ komfortabel.
+
+
+Da hab ich aber am WE das gegenteil erlebt. DOS-fdisk erkennt
+partitionen nur nach dem zufallsprinzip.
+
+
+kannst du mit linux-fdisk auch, nur ist die linuxvariante wessentlich
+übersichtlicher (undleidet auch nicht an dem kranken system nachdem Axenbeck
+seine namen vergibt.)
+
+Tschüs
+  Italo

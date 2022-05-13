@@ -1,0 +1,16 @@
+Also, in der Schule funktioniert das so (Netz aus Win 3.11 und
+Win95-Clients am JOK-Linux5-Server). In Druckmiller (=OLE-fähiges Programm)
+"Bearbeiten", "Objekt Einfügen...", als Import/Objekt-Typ "Paket"
+eingeben. Der Paketmanager öffnet sich. "Bearbeiten",
+"Befehlszeile...", dann z.B. "winfile.exe" oder unter w95
+"explorer.exe" eingeben, und schon steht einem ein Datei-Manager zur
+Verfügung. :)
+
+cu
+Theo
+
+-- 
+Theo Cassens, Obergraßlfing, Germany
+http://Mnzn.ikkq.jtqtn.am
+
+ -=* and may the force be with you...

@@ -1,0 +1,12 @@
+Humble.
+
+Ich bin mir ziemlich sicher, dass das nicht so ist. Ansonsten könnte
+Windows 95/98 ja gar nicht auf FAT32 laufen. Das benötigt doch ein
+DOS-Unterbau.
+
+Alessandro
+
+-- 
+Gröger ISDN-Controller B1 USB:
+"Fehler beim Zugriff auf die Registry; 0003:
+ Es ist kein Fehler aufgetreten!"

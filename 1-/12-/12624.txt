@@ -1,0 +1,11 @@
+Davon mal abgesehen sehe ich nicht so recht, was da so schrecklich
+kostspielig sein soll (gut, bei Pfriemelsprachen wie PHP, die man für
+nichts Ernsthaftes einsetzt, mag das anders sein).
+
+Man berechnet einen Offset, addiert den zur base address und fertig ist
+die Laube.
+
+Benno
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

@@ -1,0 +1,4 @@
+Rate mal woher solche Zahlen unter anderem kommen ;->
+
+-- 
+	1298	12,58%	Gerd Repschlaeger <nrwru@giukd.nm>

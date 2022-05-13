@@ -1,0 +1,16 @@
+Nein, das ist Programmiersprache, das hat mit der internen Darstellung
+und erst recht mit dem Zweierkomplement nix zu tun.
+
+
+Zweierkomplement ist eine Darstellungsform für vorzeichenbehafte
+Zahlen, wo durch die erste Stelle das Vorzeichen ersichtlich ist, ohne
+das eine Stelle für das Vorzeichen verbraucht wird. Hergestellt wird
+es (natürlich nur für negative Zahlen, positive beläßt man in ihrer
+From) durch die bitweise Negation einer Binärzahl, womit man das
+Einerkomplement erhält und dann die Addition mit 1.
+
+-- 
+sSXP, der diese Scheiße z.B. heute wieder bei der RSO-Übung hatte...
+
+All men are mortal.  Socrates was mortal.  Therefore, all men are
+Socrates. -- Arnold Altenidiker

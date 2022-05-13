@@ -1,0 +1,6 @@
+<iirc>
+PGP basiert darauf daß man Zahlen leicht multiplizieren aber nur schwer 
+faktorisieren kann (also aus z.B. 399 wieder 3*7*19 zurückzugewinnen).
+Wenn man das schnell könnte dann wäre PGP bereits gebrochen, eben weil der 
+Rest verfügbar ist.
+</iirc>

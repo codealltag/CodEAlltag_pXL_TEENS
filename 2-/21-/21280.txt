@@ -1,0 +1,10 @@
+Und so sprach Wolfram Frank Haiz:
+
+
+Keine Ahnung, wie ein Unterkiefer in unseren Schornstein kommt.
+
+Sébastien
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.y

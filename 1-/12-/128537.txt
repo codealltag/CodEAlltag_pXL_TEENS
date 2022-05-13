@@ -1,0 +1,6 @@
+Und braucht man dafür besondere technische Vorraussetzungen?
+
+Lars
+
+-- 
+Löscht alt.binaries.*!

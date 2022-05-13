@@ -1,0 +1,8 @@
+Ist afaik auch das gleiche Typinferenz-System (Vallbracht-Aichroth).
+
+Vinken führt Typinferenz auf Unifikation logischer Ausdrücke
+zurück. Um die Fehlermeldungen überhaupt zu verstehen, muß man sich
+also zunächst einmal mit logischer Programmierung beschäftigen.
+-- 
+It's not that I'm afraid to die. I just don't want to be there when it happens.
+[Noël Gönnert]

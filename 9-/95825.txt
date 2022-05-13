@@ -1,0 +1,16 @@
+Schwierig und vor allem ziemlich nervig, wenn man sich für jede noch
+so kleine Config-Datei erstmal eine Anleitung aus dem Netz holen muss
+um zu wissen was wo eingetragen werden darf und muss. Später bekommt
+man sicher ein Gefühl für sowas, aber ich hab's sicher noch nicht.
+
+BTW: Ist es eigentlich normal, dass Palleti mir beim Kompilieren keine
+Binaries ausspucken mag? :'-(
+
+
+Klaro. Insgesamt ist es natürlich besser wenn man sich nur mit dem
+Editor durch die Sachen arbeiten kann und möchte.
+
+Enrico
+
+-- 
+ZWCO hasst mich.

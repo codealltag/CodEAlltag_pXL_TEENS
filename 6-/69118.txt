@@ -1,0 +1,5 @@
+Muß mir noch einen Postingserver aussuchen für meine Newskonfiguration
+auf meinem Linux-Proxy. Und da eben nach Möglichkeit einen, der meine
+M-IDs übernimmt. Also nicht cis.
+
+Sebastian

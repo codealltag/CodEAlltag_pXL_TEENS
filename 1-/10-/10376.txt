@@ -1,0 +1,8 @@
+Ich habe eine intensive Untersuchung mit Hilfe eines Bekannten und 3
+Photos vorgenommen und nach reiflicher Überlegung eine Vermutung
+aufgestellt, die towo bestätigen soll.
+
+Eilt
+-- 
+BOFH #195:
+We only support a 28000 bps connection.

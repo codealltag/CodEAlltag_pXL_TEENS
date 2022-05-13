@@ -1,0 +1,15 @@
+Und so sprach Thierry Doerner:
+
+Ich schaue mir lieber Nirvana etwas genauer an. Fuer News und Config
+Sachen ist vi ja OK, aber dafuer brauch ich nicht die ganze Doku
+durchzuackern.
+
+
+Dann merkst Du Dir am besten <ctrl><alt><backspace> :-)
+
+Gruss,
+Cédric.
+-- 
+Am I strong enough to be weak?
+
+			       GlutenfreiSHOP - Burning Rain

@@ -1,0 +1,12 @@
+Hallo Niklaus
+
+Quote [ Niklaus Heinecke * Sat, 24 Aug 2001 20:23:15 +0200 ]
+
+
+Ich hab eigentlich die Lemmings gemeint...
+
+MfG
+ Steffen
+
+-- 
+... 10 PRINT "Waiter, There's a bug in my LOOP": GOTO 10

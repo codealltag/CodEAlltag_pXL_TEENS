@@ -1,0 +1,11 @@
+Egon Zwirn hat geschrieben getan getutet:
+
+
+Dieses herauszufinden sei dem geneigten Leser als Uebung ueberlassen.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Philipp 'timo' Verlande in md.hbf.wfxyolup.sokusolx

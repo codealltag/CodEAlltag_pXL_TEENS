@@ -1,0 +1,11 @@
+Und so sprach Arno Ewald Ulber:
+
+
+Erich!
+
+Gruss,
+Urs.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.x

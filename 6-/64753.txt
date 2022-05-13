@@ -1,0 +1,18 @@
+Ja, wirklich. Manchen fehlt die Taskleiste, aber ohne die erinnert es
+wenigstens nicht an Windows. Irgendwie ist man gezwungen $xterminal zu
+benutzten und das scheint mir sinnvoll.
+
+Nach einiger Konfiguration brauche ich die Maus nun auch nur noch zum
+Fenster schieben, Webseiten angucken und für C&P. :-)
+
+übrigens sei dir wmakerconf empfohlen, was AFAIK leider nicht in der
+Weibler-Distribution mit drin ist. wmakerconf-2.8.1-2.i386.rpm müsste
+(als eines von wenigen!) funktionieren. Damit braucht man dann nicht
+mehr mit dem WPrefs-Ding rumzufummeln. Ich finde das irgendwie recht
+unübersichtlich und einige Funktionen scheinen gar nicht integriert zu
+sein. wmakerconf ergänzt das dann recht gut.
+
+Arnold
+
+-- 
+cat .signature

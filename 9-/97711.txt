@@ -1,0 +1,13 @@
+Gesetzt den Fall, dass wir zwei Elemente X und Y aus der Menge der
+Menschen, die im Netz aktiv sind oder waren, betrachten, so ist für
+X!=Y mit einer Wahrscheinlichkeit P nahe 1 die Existenz mindestens
+eines Paares (X,Y) welches die genannte Bedingung erfüllt, anzunehmen.
+
+Igor: Kann klappen. 
+
+Ach ja: Nein, ich bin nicht total Mathegesch�digt.
+
+Domenico
+-- 
+You are wise, witty, and wonderful, but you spend too much time reading
+this sort of trash.

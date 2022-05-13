@@ -1,0 +1,18 @@
+Eben drum und am besten auch noch als root einlogen, das ist dan so als
+wenn man den schlüssel auf dem z�ndschloss stecken lässt und die
+Bremsschläuche durchschneidet.
+
+
+Das lat�rnich auch. Aber ich denke halt in meinen Kategorien (1man
+desktopPC) und da ist meistens user=root(OK auch da wird dann oft 
+irgend ein erfahrenerer mensch aushelfen dürfen).
+
+
+Da bin ich da falsch informiert. Ich beschäftige mich halt (noch) nicht
+so intensiv mit dem einlogen über Netzwerk und habe daher auch noch
+nicht ganz den Überblick.
+
+BTW: Subject angepasst.
+
+Tschüs
+  Oliver

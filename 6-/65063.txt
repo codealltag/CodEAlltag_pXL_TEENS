@@ -1,0 +1,7 @@
+Die Windowstaste benutzt man für alles was $WINDOWMANAGER so machen
+kann.
+
+Arnold
+
+-- 
+cat .signature

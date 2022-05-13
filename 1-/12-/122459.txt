@@ -1,0 +1,8 @@
+* Frédéric Plochg <ljuspamtfwccaz@szv.tdp>:
+
+
+Nimm Emacs 21. Der kann zumindest auf der Konsole bunt.
+
+Emmerich
+-- 
+cross veinless

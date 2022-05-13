@@ -1,0 +1,6 @@
+Ja, aber dann müßte man es mit der Demo-CD nach jedem booten neu 
+installieren, das läuft davon nämlich CD-only... ist im grunde ja
+auch egal, unterstützt 'eh nicht meine hardware...
+-- 
+ / _/ _` |
+ \__\__, |

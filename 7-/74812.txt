@@ -1,0 +1,13 @@
+Du solltest mal über den Tellerrand hinausblicken dann würdest du 
+merken das es sehr, sehr viele Leute gibt die keinerlei Ambitionen 
+haben mit Technik so umzugehen wie du oder ich. Es ist für sie eher ein 
+notwendiges Übel. Und solchen Leute muss man den Umgang eben auf eine 
+Art und Weise beibringen die sie verstehen. Im Bezug auf PGP/GPG fängt 
+das ja schon mit der Erstellung/Weitergabe der public-Keys an. Die 
+Lösung ist nicht einfach nur der Button Encrypt/Decrypt im Mailprogramm 
+da hängt noch viel mehr dran.
+
+Uwe
+-- 
+Die voluminöse Expansion subterraner Agrarprodukte steht in reziproker Relation zur geistigen 
+Kapazität des Erzeugers. (Die dümmsten Bauern ernten die dicksten Kartoffeln)

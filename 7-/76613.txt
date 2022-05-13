@@ -1,0 +1,9 @@
+Jetzt sind es wohl nur noch Kleinigkeiten. Ist bestimmt hinzukriegen.
+Eigentlich fehlt ja nur anständig Fullscreen.
+
+Fred
+
+-- 
+MS Visual Basic:
+  "Für das Thema 'Hilfe' ist keine Hilfe verfügbar.
+   [    OK   ]  [   Hilfe  ]"

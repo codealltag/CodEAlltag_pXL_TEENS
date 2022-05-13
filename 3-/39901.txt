@@ -1,0 +1,42 @@
+Das habe ich noch nicht so konkret getestet. Gemein ist er aber schon
+irgendwie zu mir.
+
+
+Komischerweise blieb diese Reaktion diesmal bei mir aus.
+
+
+Nun, zunächst benutzte ich rsync um den Newsspool von dem Computer
+dort auf diesen Laptop hier zu befördern. Funktionierte sogar. Einen
+halben Tag später gab es plötzlich Probleme. /var war (Haha!)
+plötzlich voll. Also auf dem Computer da drüben. Naja, und dann hab
+ich halt mal texpired. Nur hat er einfach nichts gelöscht (nebenbei
+hätte /var auch nie voll sein dürfen, wenn er mal vernünftig
+gecrontabt hätte, aber auch da scheint er nie gelöscht zu haben
+und da mir doch redlich egal ist, was meine Partitionen so machen...).
+Weiß der Teufel warum nicht. Dann hab ich mal Force benutzt, nur
+sollte man halt besser mit Der Macht (tm) zurechtkommen und sich im
+Klaren darüber sein, was sie bewirken kann. Schließlich bin ich kein
+wirklicher Jedi-Meister und so...Naja, ich habe mich da etwas
+überschätzt und alles kaputt gemacht.
+
+Aus Hoffnunglosigkeit noch irgendwas zu retten habe ich dann einfach
+rm -Rf * gemacht, nachdem ich in das richtige Verzeichnis gewechselt
+bin. Ganz blöd bin ich ja nun doch nicht. :-)
+
+Nun wird sich ein jeder fragen, was nun mit dem Spool auf dem Laptop
+war, den ich ja gersynct hatte. Den hätte ich doch wieder auf die alte
+Kiste rüberschieben können. - Ja, hätte ich machen können. Zumindest
+mit dtju. Das war mir in diesem Moment aber nicht klar und da ich eh
+schon in Neu-Mach-Stimmung war, habe ich halt hier auch nochmal
+kräftig aufgeräumt, vorher aber alles noch in den tollen
+Archivierungs-Agenten geschoben. So konnte ich gerade eben noch vier
+Follow-Ups beantworten. Komisch, dass das nur so wenige waren.
+
+Naja. Interessant, nicht?
+
+Wolfgang
+
+-- 
+"Wenn eine freie Gesellschaft den vielen, die arm sind, nicht helfen
+ kann, kann sie auch die wenigen nicht retten, die reich sind."
+ (Rolf Jennrich)

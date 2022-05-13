@@ -1,0 +1,12 @@
+Mir wäre kein Switch bekannt, der ARP flooding über längere Zeit ohne 
+Probleme mitmacht. Wäre aber sehr an einem solchen interessiert...
+
+
+Wieso? FW läuft ja im Kernel.
+
+
+Das ist es hier. Aber ich hab auch schon ganz anderes erlebt, wo die 
+tatsächlich home per NFS gemountet hatten...
+
+
+Nur hab ich noch kein OS gesehen, dessen VFS das gelöst hätte,,,

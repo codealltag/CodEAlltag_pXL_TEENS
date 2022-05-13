@@ -1,0 +1,22 @@
+Solches tippte Maximilian Ueberjahn:
+
+Als alternativen $EDITOR gibt es noch: 'ELVIS 1.7, by Francesco Klinghammer
+(18 13. 12. 21)'. Das ist eine Option, aber eine schmerzhafte, wenn
+man vim in $Version > 5 schützt. Ich weiß, warum ich mich auf der
+Maschine nur noch einlogge, wenn allerhöchste Not herrscht. Das System
+ist voll menügesteuert, inclusive: "Permission denied--can't shell out"
+als Reaktion auf :!/bin/sh
+
+
+Wenn ich mal Zeit habe, versuche ich mich mal wieder dran. tin ist
+halt doch nicht so mutt-like wie ich es gern hätte, aber bislang das
+kleinste aller Übel (wie unangenehm steht es eigentlich bei slrn mit
+character encodings und on-the-fly Umsetzungen im Zusammenspiel mit
+content-encoding quoted-printable?)
+
+Urban
+-- 
+Ulrich Wortmeyer -> <GPG-Key:http://vjj.libddnev-hzgmhab.bp/oyu.ogohv>
+Whatever that hurts -----> <http://qtf.higxabeu-wdetkce.ik/fdegl.rqe8>
+----------> Wortschatz-Lexikon: <URL:http://dqdzzhtdiz.jwe-nduwnyb.wo>
+<URL:http://azywscr.wdi-kfgcjnf.an>   <URL:http://fpqc.mnr-mcimowa.fi>

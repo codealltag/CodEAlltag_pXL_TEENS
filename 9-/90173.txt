@@ -1,0 +1,18 @@
+* Sandro Geselbracht schrieb: *
+
+
+Leider kenne ich keine "offizielle" und keine für den deutschen Raum. 
+Browserwatch ist wohl nur bedingt repräsentativ, da es nur von den 
+Zugriffen auf Internet.Com ausgeht:
+
+-------------------------------------------
+1. MS Internet Explorer 5.x          77.63%
+2. MS Internet Explorer 4.x           9.53%
+3. Netscape 4.x                       8.33%
+[...]
+-------------------------------------------
+
+Von http://ypjyfckiuceo.ryaggdni.ooo/plgdu/wwndamk.ttzj
+
+-- 
+   :: bf ::

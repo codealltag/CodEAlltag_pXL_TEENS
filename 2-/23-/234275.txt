@@ -1,0 +1,9 @@
+Nope. Es gibt unter Win95-A keine Möglichkeit eine FAT32 Partition zu
+lesen. Da spielt das Filesystem einfach nicht mit.
+
+Christoph
+
+-- 
+WARNHINWEIS: Ihr Computer zieht die gesamte Materie des Universums 
+mit einer Kraft an, die dem Produkt der Massen proportional ist 
+und mit dem Quadrat der Entfernung abnimmt!

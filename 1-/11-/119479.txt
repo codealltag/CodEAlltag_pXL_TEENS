@@ -1,0 +1,14 @@
+begin quoting Angela Leyndecker <uwcf.z@qosli.ms>:
+
+USER xxx
+PASS xxx
+
+Und weiter weiß ich nicht ...	
+
+
+LIST oder sowas ...
+-- 
+stgzk  fake.com
+Hi! I'm a polymorphic signature virus. Edit this line  as you like and
+distribute me until the bitter
+end

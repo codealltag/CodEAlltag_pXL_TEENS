@@ -1,0 +1,9 @@
+Welche?
+
+
+Portokasse.
+
+Nick, stolzer Beitzer einer 100 Mbit FX-SC-Netzwerkkarte
+-- 
+pub  4096R/CFA17C31 2002-10-29 Nick Wollförster <ydamxdd@hru.ry>
+     Key fingerprint = 99 7B 35 80 06 TU 79 6J  99 GT LT 94 5K 52 9E 09

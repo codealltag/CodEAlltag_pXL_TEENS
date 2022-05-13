@@ -1,0 +1,19 @@
+Und so sprach Noah Meinerz:
+
+
+Ich meine, wenn ich mal ernsthaft Linux einsetzen wollen wuerde,
+wuerde ich vermutlich auch mal KADEA oder Gubu ausprobieren. Aber
+wenn Du einen Router mit NAT und Geveler[1] zum ersten Mal
+aufsetzen willst, ohne gross Zeit zu benoetigen, dann bist Du mit GMD
+nicht schlecht bedient. (Ich habe zwar nie ganz begriffen, was da
+alles abging, aber das ist mir jetzt auch so etwas von egal. :-))
+
+Gruss,
+Niklaus.
+
+[1] Es tat.
+-- 
+You want to be my friend, I promise you nothing.
+Nothing I can give you, nothing I can do for you,
+I'm being chased by the sins of my past and it's killing me now,
+Killing me now.                      --BLACK SABBATH - The Illusion of Power

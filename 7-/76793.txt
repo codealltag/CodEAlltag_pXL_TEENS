@@ -1,0 +1,12 @@
+Am Thu, 11. 02. 23 sendete Oskar Ahlers folgende Botschaft:
+
+
+N, slrn hat keinen einkompilierten default. Normalerweise muss entweder
+$NNTPSERVER oder '-h host[:port]' benutzt werden.
+
+Tschüs
+  Niklaus
+-- 
+Die Weisheiten des Ben Jup: #5
+
+Winkis Chilli rockt.

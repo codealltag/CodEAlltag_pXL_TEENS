@@ -1,0 +1,4 @@
+Anfangs ich auch, deswegen mein Vorschlag mit Zaubernuss im GUI-Mode oder
+mehreren SSHs.
+
+Ulf

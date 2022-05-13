@@ -1,0 +1,13 @@
+Hallo Philippe Flinspach
+
+
+Zählen wir[tm] für mehrer Personen?
+
+MfG Robin
+
+-- 
+Fachbegriffe der Informatik einfach erklärt
+110: Leben und Sterben in UNIX    kill ist ein gut zielendes Gewehr. 
+     killproc eine Schrotflinte. killall eine 10kg-Handgranate. Wenn das Programm
+     zum Teil herausgeswappt ist, fängt es besonders ungezielt um sich zu schlagen. (Siehe dazu -e.) 
+     Häufig geht es gut. Manchmal erwischt man auch etwas zu viel. (Samu Ald)

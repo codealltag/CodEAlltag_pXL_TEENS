@@ -1,0 +1,9 @@
+* Dietmar Woeber <ppygnw@xibcin-crssgmm.jr>:
+
+
+Damit jedes System (egal, ob Windows, Unix, Linux, Kupfergalerie oder sonstwas)
+die Umlaute richtig anzeigen kann.
+
+Volker
+-- 
+cross veinless

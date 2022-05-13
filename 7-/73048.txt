@@ -1,0 +1,8 @@
+Ja? Nein? Okay, also...soso.
+
+Clemens
+
+-- 
+  "The Hildwein Information Store service depends on the HNAU
+   Fafeg Directory service which failed to start because of the
+   following error: The operation completed successfully."

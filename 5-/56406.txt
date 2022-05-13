@@ -1,0 +1,22 @@
+Am Sun, 5 Nov 2001 sendete Kurt Knutzen folgende Botschaft:
+
+
+Weil du nur testen kannst ob irgendwo ein Potentialunterschied (von
+~230V) zu deinen aktuellen Standort besteht. Wenn du aber z.B. auf Holz
+oder Gummi stehst wirst dir der L�genstift nichts Anzeigen, selbst wenn
+an L1 noch "Spannung anliegt". Und wenn du dann L1 und Rück-/Schutzleiter
+geleichzeitig berührst du das zumindest ordentlich weh, Von denn
+sonstigen möglichen folgen brauch ich dir bestimmt nichts zu erzählen.
+
+Und desweiteren ist es bei allen an drehstrom Betriebenen Geräten (E-Herd,
+Industriemotoren) so das du Drei leiter hast (L1, L2, L3) wobei zwischen
+L[123] und Rück-/Schutzleiter eine Spannung von 230V und zwischen den
+einzelnen Leitern von 400V anliegen. Und du willst nicht wirklich z.B. L1
+an die linke und L2 an die Rechte Hand bekommen.
+
+Deswegen wird der Schritt "Feststellen der Spannungsfreiheit" immer nur
+mit einem zweipoligen Spannungsmesser ("Duspol") durchgeführt welcher
+vorher auf ordnungsgemässe Funktion überprüft wurde.
+
+Tschüs
+  Denis

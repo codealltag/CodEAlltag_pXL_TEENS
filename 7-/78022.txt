@@ -1,0 +1,3 @@
+hm, ist das nicht das selbe? zumindest hab ich in der etc/nntpserver
+den Namen des newsservers eingetragen. Und seitdem funktioniert es
+tadelos.

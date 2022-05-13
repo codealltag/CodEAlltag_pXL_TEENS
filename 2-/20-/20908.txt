@@ -1,0 +1,15 @@
+Sagen wir es mal so - es gibt symbadische und unsymbadische
+p-adische Systeme. Symbadische sind 2,8,10,16, unsymbadische sind
+3,7,13 und andere solche Sauereien.
+
+[Zur Erfüllung des Bildungsauftrages: p-adische Systeme sind im
+Prinzip die Darstellungen von Zahlen zu verschiedenen Potenzen,
+also 2-adisch (Binär), 10-adisch (Dezimal), 16-adisch(Hex),...
+Was da noch ganz witzig ist, ist untere und obere
+Zahlendarstellung - 4,999... ist dann exakt gleich 5,000... ]
+
+mfg, 
+	Philipp
+-- 
+BOFH excuse #42:
+spaghetti cable cause packet failure

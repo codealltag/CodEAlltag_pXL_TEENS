@@ -1,0 +1,17 @@
+Nicht in dieser Öffentlichkeit.
+
+
+*HTML-Source rauskram*
+
+<FRAMESET ROWS="60,*">
+ <FRAME SRC="bcua/fch.ilsb" NAME="Top" SCROLLING="no" FRAMEBORDER="0" NORESIZE>
+</FRAMESET>
+
+führt bei FahrWerk dazu, dass trotz FRAMEBORDER=0 ein Rand angezeigt
+wird, IE 5, NN4.78 und Oerlicke 0.9.7 zeigen dagegen (wie vorgesehen)
+keinen Rand an.
+
+Luca
+-- 
+You are wise, witty, and wonderful, but you spend too much time reading
+this sort of trash.

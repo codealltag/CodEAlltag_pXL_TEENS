@@ -1,0 +1,1 @@
+Und sudo selber ist dann suid root?

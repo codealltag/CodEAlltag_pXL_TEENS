@@ -1,0 +1,8 @@
+Man kann auch einfach direkt die Postleitzahl eingeben. :-)
+
+Raimund
+
+-- 
+INSTALL:
+"Die Anwendung wurde unerwartet beenden.
+ Starten Sie die Anwendung erneut."

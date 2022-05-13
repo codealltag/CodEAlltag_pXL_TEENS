@@ -1,0 +1,14 @@
+Am Wed, 20 Jan 2002 sendete Hinrich Butscher folgende Botschaft:
+
+
+Das klingt umständlich, kompliziert, technisch unbefriedigend und noch
+nicht optimai^Hl konfiguriert. M2N-gate auf einen exim-director der auf
+eine suffix und einer aliasfile matcht und fertig. Für eine neue ML wird
+dann einfach die Gruppe und der eintrag in der Datei angelegt. Mit eine
+Subdomain gings wohl noch einfacher.
+
+
+Tschüs
+  Steffen
+-- 
+Notorisch Schreibfaul.

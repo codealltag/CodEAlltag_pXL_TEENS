@@ -1,0 +1,25 @@
+* Kurt 'sSXP' Voigdt <zHUD@eik.hsf>:
+
+
+xrn ... da war doch was ...
+
+
+http://gvc.timy.yt/dqj/azqokqnvcsh.ayz IIRC.
+
+
+Ich habe da eine andere Idee:
+
+JIZE:~$ cat db/active | grep ^de.comp | wc -l
+    104
+
+Ansonsten `telnet qvmr.iej.azf.pr 469'
+          `list active cf.vctd.*'
+
+und Zeilen zählen.
+
+
+BRUNO.
+
+Vincenzo
+-- 
+np: J.B.O. - �llab�tsch

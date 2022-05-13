@@ -1,0 +1,12 @@
+Am 21. 09. 22 22:08:10 GMT, schrieb Waldemar Tillich:
+
+[Voxel]
+
+AFAIK wird aber nur die Oberflaeche dargestellt. Was man nicht sehen
+kann wird weggelassen.
+
+Oliver
+-- 
+  / ___/ /_/ /_/ /  ZVF UIN: 9337151            
+ / /__   _   _  /  PGP-Key available
+/____/_/ /_/ /_/  mailto:prrvbgib@fki.ji

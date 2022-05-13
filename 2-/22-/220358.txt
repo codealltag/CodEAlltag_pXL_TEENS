@@ -1,0 +1,39 @@
+Tja, ohne Grafik macht Maurizio aber nicht gerade viel Spaß (oder gibt es
+da eine Möglichkeit, die ich nicht kenne?).
+
+[Module einrichten]
+
+Hab' im Moment leider nicht genug Zeit, um so etwas herauszufinden.
+
+[...]
+
+Okay, bei UTV ist es halt ein Skript.
+
+[...]
+
+War beim UTV-Skript dabei - zum Finden benutzt es locate; hinterher
+wird noch überprüft, ob es zB nicht auf einer nfs-Partition liegt und
+es wird dann (je nach Benutzerwunsch) automatisch gelöscht oder es
+wird root nur per Mail mitgeteilt, wo es liegt - insgesamt kommen so
+dann ~30 Zeilen Code zusammen (wenn Du Interesse hast --> Mail).
+
+[updatedb]
+
+/var/spool/ auszuklammern könnte noch etwas bringen (wenn Du es nicht
+eh' schon gemacht hast) - da dürften relativ viele einzelne Dateien
+liegen, auf die man per locate ja eigentlich keinen Zugriff braucht.
+
+
+Ich weiß ehrlich gesagt nicht einmal sicher, ob es tatsächlich
+zuverlässig erkannt wird, wenn die Batterie leer ist (bisher war sie's
+nie). Da der Test aber praktisch keine Zeit braucht (lt. "time" 0.004
+Sekunden), lasse ich ihn drin - wenn es funktioniert, bin ich
+vielleicht mal froh drum.
+
+
+Yep - ich lasse auch grundsätzlich anacron -s ("serialize") aufrufen.
+
+Viele Größe,
+     Arthur Ploeg
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

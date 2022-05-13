@@ -1,0 +1,23 @@
+Dazu habe ich noch eine interessante Frage:
+Eine bemannte Raumstation dreht sich konstant um eine ihrer drei
+Achsen. Irgendwann wird sie verlassen, der Computer ausgeschaltet. Sie
+geraet ins taumeln...
+Was passiert? Taumelt sie sich um alle drei Achsen drehend durchs
+Weltall? Oder stabilisiert sie sich in einer Drehebene?
+
+Angeblich hat es ein russischer Kosmonaut geschafft an einer sich um
+alle drei Achsen drehenden, verlassenen Raumstation (Saljut 7 AFAIK)
+anzudocken.
+
+Im zweiten 'Odysee im Weltraum'-Film ist aber die andere Variante
+dargestellt. Das verlassene Raumschiff der Amerikaner dreht sich in
+einer Ebene.
+
+Mein Buch (technische Mechanik III), mit dem Kapitel Momentenfreier
+Kreisel verstehe ich hier noch nicht ganz...
+
+Bernhard
+-- 
+  / ___/ /_/ /_/ /  UUP UIN: 7300766            
+ / /__   _   _  /  PGP-Key available
+/____/_/ /_/ /_/  mailto:grkahguk@uka.lo

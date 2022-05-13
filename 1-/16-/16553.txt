@@ -1,0 +1,9 @@
+^^^
+		Juristen-Perl ;-)
+aber sonst: HERIBERT
+
+-- 
+Achtung: die folgende Zeile verletzt ein Patent (Nicht ausfuehren!):
+while ping -c1 $IP > /dev/null; do sleep 1; done; echo Connection lost
+ --> http://miqreqr.deho.xid/
+May the tux be with you.  :wq 73

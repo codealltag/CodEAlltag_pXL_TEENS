@@ -1,0 +1,15 @@
+Am Mon, 30 Mai 2001 sendete Angelo Echterhoffs folgende Botschaft:
+
+
+Thats Life.
+
+
+Wohin?
+
+Tschüs
+  Torsten
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 05. 01. 22 Torsten Uphues <sdatplzced@tckqvamaby.vw>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/B3F9CD02 05. 01. 22

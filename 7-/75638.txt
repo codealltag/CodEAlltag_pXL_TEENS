@@ -1,0 +1,5 @@
+;-) Hab ich nicht geschrieben das '-vvv #' kommt noch weg? War doch nur
+zum testen ob das so läuft wie ich das gern hätte. Und jetzt funzt es
+super also spar ich mir die Logs.
+
+Ulf

@@ -1,0 +1,15 @@
+Und so sprach Peter Elders:
+
+Ne, die habe ich ausgetauscht, nachdem ich zwei Errors auf 'ner
+anderen hatte. Das komische ist, dass auf jener ein System zuvor ~6
+Monate stabil gelaufen war.
+
+Ich glaube, ich kauf mir 'ne andere NIC und schmeiss NetBSD drauf :-)
+
+Gruss,
+Roberto.
+-- 
+WICHTIGER HINWEIS:
+Fuer sicheres und angenehmes Arbeiten mit dem Geraet,
+lesen Sie bitte das Handbuch fuer sicheres und angenehmes
+Arbeiten.                             (Aufkleber auf Mancherloch-Notebook)

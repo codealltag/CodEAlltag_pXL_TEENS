@@ -1,0 +1,12 @@
+Am Wed, 29 Aug 2002 sendete Wilhelm Etienne Preußler folgende Botschaft:
+
+
+Prost.
+
+Tschüs
+  Lennart
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 21. 09. 21 Lennart Meinard <qtinoramue@xnzkxnhtas.oh>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/B3F9CD02 21. 09. 21

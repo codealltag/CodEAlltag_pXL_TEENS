@@ -1,0 +1,16 @@
+Verlangt ja auch niemand. Ich hab hier nen WM, der auf dem P1/133
+genauso seine Performance bringt wie jetzt hier auf dem K7/800.
+
+
+Also, meine Lösung sieht so aus:
+
+Bei der Einwahl lege ich über die ip-up ein File an, das in der
+ip-down wieder gelöscht wird. Wenn dieses File also vorhanden ist, bin
+ich online. Und in der crontab wird zuerst auf die Existenx des
+Lockfiles geprüft und bei Erfolg wird dann das Skript aufgerufen, was
+News und Mails rausschickt/holt.
+
+Ingolf
+-- 
+Weiner's Gesetz der Bibliotheken:
+Es gibt keine Antworten, nur Querverweise.

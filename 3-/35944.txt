@@ -1,0 +1,9 @@
+Am Tue, 22. 12. 22 sendete Juan Gänsshirt folgende Botschaft:
+
+
+Damit habe ich extrem Schlechte erfahrungen gemacht. Die Überprüfung des
+locks ist leider nicht blockierend, so das wenn das signal "Nein, tuhs
+nicht" kommt eh schon alles zuspät ist.
+
+Tschüs
+  Sven

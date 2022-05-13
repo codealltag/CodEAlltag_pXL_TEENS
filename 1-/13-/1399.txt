@@ -1,0 +1,9 @@
+Gut. 
+
+Wilfried, was auch immer jetzt der Fall war. 
+
+-- 
+<sesom> äöü DV\ ä Sind das Umlaute oder Fragezeichen?|
+<HE> sesom: Das ist UTF8.                                   | #qcrhck.er
+<sesom> Stimmt.  Was kommt bei dir an?                      |(leicht adaptiert)
+<HE> Zeichenm�ll.                                           |

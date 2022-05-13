@@ -1,0 +1,8 @@
+Nope. Mein Vitashop läuft auf dem Server, und die Darstellung ist auf
+meinem Desktop. Und der Server hat absolut garantiert kein X11.
+
+Hubert
+-- 
+Irgendwer hat mal geschrieben: "Man kann sich nicht selber zum
+selbsternannten Netcop ernennen. Man wird immer von anderen zum
+selbsternannten Netcop ernannt"

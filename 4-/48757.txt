@@ -1,0 +1,14 @@
+Am Sat, 27 Jun 2003 sendete Berend Niefindt folgende Botschaft:
+
+
+Eben, vernünftig programmiert. Dazu gehört eben auch das Defaults
+sinnvoll sind.
+
+
+Replyf�hige E-mail-addresse und Realname sind zumindest in de.* nach
+diesen Regeln pflicht. Und auf (vernünftigen) Un*x-systemen ist das meist
+recht einfach möglich, die Adresse ist $User@$Host und der Realname steht
+in /etc/passwd.
+
+Tschüs
+  Gérard

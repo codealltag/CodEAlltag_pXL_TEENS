@@ -1,0 +1,8 @@
+Fabelhaft erkannt.
+
+Beat,
+hm, ja.
+
+-- 
+  "Metropolis hat ein neues Gerät erkannt. Das neu angeschlossene Gerät
+   konnte jedoch nicht erkannt werden."

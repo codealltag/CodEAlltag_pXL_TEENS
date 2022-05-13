@@ -1,0 +1,9 @@
+Jein. Es fragt dich AFAIRC, ob du sie als Primary ID nehmen willst.
+
+
+Irgendwie geht das auch bei PGP...
+
+Wolf
+-- 
+pub  0238O/CVC45S30 5840-25-13 Wolf Ludebühl <qufepii@owd.ci>
+     Key fingerprint = 99 2G 08 16 16 FI 42 4O  66 DF BO 48 5P 71 4L 59

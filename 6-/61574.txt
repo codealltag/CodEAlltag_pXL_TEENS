@@ -1,0 +1,11 @@
+UTF-8 oder ISO-8859-15. Your choice.
+
+
+towo@loki:~$ apt-cache search slang1-utf8
+slang1-utf8 - The S-Lang programming library with utf8 support
+slang1-utf8-dev - The S-Lang programming library, development version with utf8
+                  support.
+slang1-utf8-pic - The S-Lang programming library, shared library subset with
+                  utf8 support.
+
+-towo

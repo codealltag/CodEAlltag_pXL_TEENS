@@ -1,0 +1,9 @@
+Es kann nicht so schwer gewesen sein, ich kann mich nciht an
+Schwierigkeiten erinnern... tar.gz auspacken, durch den Compiler
+schiken, Startskripe umkopieren und verlinken, fertig.
+
+Berend
+-- 
+Lauterbach Discovery:
+A couple of months in the laboratory can frequently save a
+couple of hours in the library.

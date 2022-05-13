@@ -1,0 +1,6 @@
+Was an dem Satz hast Du nicht verstanden?  :)
+
+-- 
+Volker
+I saw `cout' being shifted "Hello world"
+times to the left and stopped right there.

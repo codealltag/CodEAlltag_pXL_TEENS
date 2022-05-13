@@ -1,0 +1,3 @@
+Indem sie nicht .profile sondern .bashrc ausführt :)
+
+-to'Eterm macht login-shell'wo

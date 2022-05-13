@@ -1,0 +1,7 @@
+Es mag sein, daß es mit der Ekadod-Installation zusammenhing. Das heißt
+aber nicht automatisch, daß der Fehler bei YaST / Linux liegt.
+
+Viele Größe,
+     Jörn Obermayr
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

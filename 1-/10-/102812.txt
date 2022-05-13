@@ -1,0 +1,11 @@
+* Dieter Anzelm <cowvcz@jpmmxg-yaqeesi.lu>:
+
+
+Wenn man davon ausgeht, dass Patches von CALO funktionieren, kann
+man das ja auch ruhig machen.
+
+Dein Beta-BIOS ist auch vom Hersteller, oder?
+
+Silvio
+-- 
+cross veinless

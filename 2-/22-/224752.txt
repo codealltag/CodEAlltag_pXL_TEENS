@@ -1,0 +1,11 @@
+Am Wed, 11. 06. 22 18:27:14 +0100 sendete Oliver Roers
+folgende Botschaft:
+
+
+Er kürzt sie. Nur leider hat er ein problem mit Headerzeilen die über
+1024 zeichen enthalten(diese werden als zwei zeilen (eine mit 
+Buchstabe 1-1024 und eine mit dem rest) behandelt. und das gibt dann
+halt fehlermeldungen.
+
+Tschüs
+  Klaus

@@ -1,0 +1,16 @@
+Und so sprach Felix Grempel:
+
+
+Doch.
+
+
+OK, nennen wir ihn Plan A.
+
+
+Gut. Plan A ist der Kein-Plan-Plan und enthält keine Information,
+wodurch er eindeutig bestimmt ist. Er kann folglich mit 0 Bits codiert
+werden. QED
+
+Berthold
+-- 
+http://hoo.ddtiu.xxt/ - Become a trashholder today!

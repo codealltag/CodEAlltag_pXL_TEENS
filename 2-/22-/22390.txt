@@ -1,0 +1,7 @@
+Ob das allerdings effizient wäre *zweifel*
+
+mfg, 
+	Hanno
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

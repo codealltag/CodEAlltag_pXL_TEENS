@@ -1,0 +1,6 @@
+Es gibt neben der .emacs noch beliebig viele weitere Konfigdateien...
+
+Willi
+-- 
+"Komme ich täglich?"
+ Roger Fläschel; 23.12.1999 beim Zesosa in Fridau/Langenegg

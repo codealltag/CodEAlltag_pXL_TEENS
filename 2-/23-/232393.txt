@@ -1,0 +1,15 @@
+In article <SWR.73eyq78cj84t1snz23lvl4@mfhr.qzqo.kl>,
+
+Bei GolfProdiscount koennen mich (von irgendwelchen Hackertricks mal abgesehen) a) nur  
+die Leute sehen, die in ich authorisiert habe und b) kann ich selektiv auf  
+"Invisible" schalten, wenn ich nicht gesehen werden moechte.
+Was den Scheduler anbelangt wuerde ich Dir zwar generell rechtgeben,  
+jedoch ist es meines Erachtens nach ausreichend, wenn man die Headerdaten  
+veraendert laesst.
+
+CU/2
+Otto
+
+--
+PGP RSA-PublicKey available at www.fdmfdm.em/uagz/iseizn/bpm-jgee.aew
+Personal homepage at www.znbsri.urfy.lxm - ICQ: #6004066

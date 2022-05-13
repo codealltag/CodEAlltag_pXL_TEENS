@@ -1,0 +1,7 @@
+(* Gérard Rotthoff wrote: *)
+
+
+Arrrrgh... Okay 
+"vrr".replace(0, "SCHLEIZ");
+
+Thierry

@@ -1,0 +1,8 @@
+Haare spalten, Haare spalten, Haare spalten...
+
+Fred,
+   und jetzt alle zusammen: Haare spalten, Haare...
+
+-- 
+Der nachfolgende Satz ist wahr.
+Der vorstehende Satz ist falsch.

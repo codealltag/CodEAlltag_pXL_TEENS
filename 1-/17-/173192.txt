@@ -1,0 +1,12 @@
+Uwe Gaugele schrieb am 9. Juli 2000 um 00:16 Uhr folgendes:
+
+
+Weiß ich auch nicht. Bei .doc steht zuweilen "Microsoft Word Document"
+in der Datei selbst drin, vielleicht findet sich ja etwas
+vergleichbares? Was sagt file(1) zu der Datei? :-)
+
+Viele Größe,
+     Gernot Feuereisen
+-- 
+If you're happy, you're successful.
+                                               -- random fortune cookie

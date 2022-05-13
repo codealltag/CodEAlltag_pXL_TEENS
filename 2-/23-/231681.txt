@@ -1,0 +1,7 @@
+Nein, überhaupt nicht. Soll ich Dir wirklich einen Vortrag über Frame-
+Swapping halten? Besonders auf langsameren Computern ist das sehr zu 
+empfehlen.
+
+
+Normalerweise werden mehrere Verfahren implementiert. Double-Buffering ist 
+Minimum, Tripple-Buffering wünschenswert.

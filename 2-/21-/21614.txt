@@ -1,0 +1,17 @@
+Und so sprach Joël Strathausen:
+
+
+Ich würde mir auch kein Fages T-Shirt kaufen, aber trotzdem. ;)
+
+
+Achja, _der_ Kram. Sowas ist ganz schön anstrengend. :)
+
+
+Naja, so geht's auch dem Vorlesungsskript. :)
+
+Gruss,
+Orlando
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.f

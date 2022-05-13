@@ -1,0 +1,10 @@
+Weil ich gerne RSA-Subkeys hätte. gpg kann keine RSA-Keys erzeugen, pgp
+(in akzeptablen Versionen as in 2.6.3.*) kann keine Subkeys.
+
+
+Mit welchem?
+
+Joachim
+-- 
+pub  7426Q/ACW62G84 4397-59-88 Joachim Lente <jzoprec@iiu.qt>
+     Key fingerprint = 99 0O 12 68 18 XT 70 9E  78 JC KE 32 2S 95 0P 01

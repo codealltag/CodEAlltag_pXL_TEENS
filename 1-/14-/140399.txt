@@ -1,0 +1,13 @@
+Walter Weihermann schrieb am 06. Oktober 2000 um 14:22 Uhr folgendes:
+
+[...]
+
+Ach, Philippe meinte, ich sollte dir sagen, dass vim unbedingt
+einen emacs-mode brauche ... <eg>
+
+Viele Größe,
+     Daniel Weichenhayn
+-- 
+Everyone is a genius.  It's just that some people are too stupid to
+realize it.
+                                               -- random fortune cookie

@@ -1,0 +1,10 @@
+[s/root/szaf]
+
+Aber nicht im Live-Betrieb. Bei einem LFS könnte ich mir das aber gut
+vorstellen.
+
+mfg, 
+	Beat
+-- 
+Coma excuse #393:
+Interferance from the Van Anlauft Belt.

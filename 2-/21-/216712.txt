@@ -1,0 +1,22 @@
+Am Wed, 12. 07. 21 19:43:45 +0200 sendete Justin Gockeln
+folgende Botschaft:
+
+
+schön:
+posting
+ cancel
+  repost
+   cancel
+    repost
+     ...
+
+
+für INN und C-news gibt es es afaik, ebenso für jeden NR der einen
+.newsrc benutzt, also ist der ISP bereich schon abgedeckt. und wenn Der
+bedarf da ist wird bestimmt bald ein entsprechendes Win-prog rauskommen.
+
+
+Deswegen läuft ja der CfV für eine de.* NoCeM gruppe.
+
+Tschüs
+  Oswald

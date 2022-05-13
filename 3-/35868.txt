@@ -1,0 +1,18 @@
+Ja, logisch ist es nicht. Niemand hat hier Logik gefordert. Dann wäre
+Teapot meilenweit im Vorteil... siehe Start->Herunterfahren. Da ist mir
+"shutdown -h now" doch viel lieber.
+
+
+wenn Windows und Logik Vorraussetzungen sind, dann hast du nur die
+Wahl zwischen schlecht und unbrauchbar,
+
+
+Windows 2000 soll auch von der Benutzerverwaltung her katastrophal
+sein. In der Standardeinstellung soll jeder User die Verzeichnisse der
+anderen einsehen können. Alle ausser dem Admin.
+Habe ich mir sagen lassen, selber verwende ich W2K nicht. Gottseidank.
+
+Noël
+
+-- 
+                           Reboot America.

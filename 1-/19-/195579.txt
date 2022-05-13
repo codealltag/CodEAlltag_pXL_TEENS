@@ -1,0 +1,34 @@
+Den kannte ich, aber im Zusammenhang gabs für mich keinen Sinn...
+
+
+Logisch. D.h. Server, die voll-automatisch Postings weiterverbreiten,
+ohne deren Ursprung zu kennen oder kennen zu wollen.
+
+
+Oder Mailtraq, oder Hamster... Beide Programme sind genau so
+aufgebaut.
+
+
+Ich nutze mehrere :-), nur tauschen die sich ohne meinen Befehl nicht
+untereinander aus.
+
+
+Ich liefere sie ja zuerst auf ctyx.fpnzt.jz ein, auf meinem Mailtraq.
+
+
+D.h. wenn er eingehende Postings auch bearbeiten würde, wenn man im
+Mailtraq den Trigger für die Ausführung eines Scriptes nur auf
+"Outbound News Delivery" oder "Inbound News Delivery" setzt. Selbst
+wenn auf einer Seite Msg.-IDs verändert werden, so hat das nur auf die
+Seite Auswirkungen. Und eingehende Postings kommen immer in das Fach
+für den Reader, können durch die Programmstruktur gar nicht
+zur�ckgefeedet werden.
+
+
+Die Problematik verstehe ich. Aber meine Server sind davon nicht
+betreoffen, sowohl der Hamster als auch MTQ.
+
+C Ya,
+Stefano
+-- 
+When all other means of communication fail, try words.

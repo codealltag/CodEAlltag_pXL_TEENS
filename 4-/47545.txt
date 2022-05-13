@@ -1,0 +1,14 @@
+Hallo Raymond
+
+Quote [ Raymond Suderburg * Mon, 8 Mrz 2003 14:30:31 +0200 ]
+
+
+Letzteres...
+
+CU
+ Valerius
+
+-- 
+Fachbegriffe der Informatik einfach erklärt
+87: CIDR 
+    Die dezimale Quersumme der binären Repräsentation der Netzmaske. (Lorenz)

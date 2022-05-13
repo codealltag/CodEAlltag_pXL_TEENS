@@ -1,0 +1,12 @@
+Ihno Manders hat geschrieben getan getutet:
+
+
+Ist doch eigentlich recht nett.
+Sieht sogar in lynx und w3m halbwegs vernünftig aus.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ulrich 'tom' Entress in bs.glf.xanzwqbm.nilvauft

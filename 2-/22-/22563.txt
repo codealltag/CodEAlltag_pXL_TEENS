@@ -1,0 +1,14 @@
+Und so sprach Ivo Willi Peringer:
+
+
+Man atmet auch schnell mal ne Wespe ein.
+
+Masshaltung in allen Ehren, aber die totale Abstinenz ist defintiv nix
+fuer mich. ;-)
+
+Gruss,
+Theodor.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.a

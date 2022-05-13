@@ -1,0 +1,24 @@
+Dirk Dierksmeyer schrieb am 7. Februar 1999 um 22:20 Uhr folgendes:
+
+
+Wie bitte drückt man 'if ($1>0) print "You have "$1" things to test"'
+in Perl so unglaublich leichter / schneller / einfacher verständlich
+aus, dass es den Einsatz einer eierlegenden Wollmilchsau rechtfertigt,
+wo es ein simples, kleines, spezialisiertes Programm tut?
+
+
+Es gibt auch Perl für Windows, wenn es dir nur darauf ankommt <eg>.
+Perl ist für bestimmte Aufgaben (IMO besonders, wenn es um die
+Verarbeitung von Texten geht) ganz gut geeignet. Den Perl-Hype, der
+gerade um sich greift, kann ich aber nicht so ganz verstehen.
+
+
+sed 's#^#/usr/news/spool/articles/#'
+
+Wo ist das Problem?
+
+Viele Größe,
+     Karl Döpcke
+-- 
+The fact that no one understands you doesn't mean you're an artist.
+                                            -- "Smart Comments", part 2

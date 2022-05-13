@@ -1,0 +1,8 @@
+über UUCP, d.h. alle Postings werden auf dem Server in eine Datei
+gepackt, die wird dann übertragen, und im Gegenzug schickst du auch
+wieder eine Datei zum Server, da sind dann deine Postings drin.
+
+Hau "Jemand hier, der UUCP macht? Wenn ja, ggf. verbessern ;-)" ke
+
+-- 
+If you wish to live wisely, ignore sayings -- including this one.

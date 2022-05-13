@@ -1,0 +1,13 @@
+Am Fri, 26 Mai 2001 sendete Mathias Prüseners folgende Botschaft:
+
+
+Das ist aber das was du nur beim compilieren einschalten kannst. Der
+rest geht bequem per rc.
+
+
+*bibber* ;)
+
+Tschüs
+  Hinderk
+-- 
+Notorisch Schreibfaul.

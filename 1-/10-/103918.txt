@@ -1,0 +1,8 @@
+* Uwe Gutschmidt <smdrsq@oeqtin-jqdsrwt.yt>:
+
+
+Das ist kein wirklicher Newsserver. Er kann nur POST.
+
+Nino
+-- 
+cross veinless

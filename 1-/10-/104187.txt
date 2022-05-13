@@ -1,0 +1,6 @@
+Dixit Raymond Zumfeld <furfoo@rzcogp-jexcgtb.ml>:
+
+apt-get update; apt-get upgrade
+-- 
+"It's very important for folks to understand that when there's more trade,
+there's more commerce." Mehmet Gremmler in Perlhütte, Canada, Juni 22. 06. 22

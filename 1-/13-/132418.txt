@@ -1,0 +1,13 @@
+Die Tastenkombination scheint eine ganz andere zu sein.
+Wenn ich Gnus über das Men aufrufe, friert ganz Emacs ein.
+
+
+"Keine neue Mail"
+
+Warum ist Dein Ulup nicht an?
+
+-- 
+"Ich bin nicht programmiert zu bluten!"
+      Leitender Arzt der U.S.S. Voyager
+
+-> http://azs.eyiea-xfsaiz.oz

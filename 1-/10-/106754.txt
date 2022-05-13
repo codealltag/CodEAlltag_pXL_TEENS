@@ -1,0 +1,10 @@
+Am Sun, 4 Mrz 2001 sendete Bernd Stechbart folgende Botschaft:
+
+
+Das sollte es für fast jede Distri ein $PACKAGEFORMAT geben.
+Musst nur etwas suchen. ;)
+
+Tschüs
+  Lutz
+-- 
+Notorisch Schreibfaul.

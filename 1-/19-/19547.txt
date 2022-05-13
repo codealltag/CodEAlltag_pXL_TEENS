@@ -1,0 +1,32 @@
+Und so sprach Burkhard Leidmann:
+
+                                ^^^^^^
+
+*g* -- Aber trotzdem:
+
+$ ls /sw/fink/10.2/stable/main/finkinfo/editors/ | grep emacs
+emacs20-20.7-6.info
+emacs20-20.7-6.patch
+emacs21-21.2-12.info
+emacs21-21.2-12.patch
+emacs21-21.2-13.patch
+emacs21-21.2-15.info
+emacs21-21.2-15.patch
+emacs21-21.3-1.patch
+emacs21-nox-21.2-12.info
+emacs21-nox-21.3-1.info
+emacs21-xaw3d-21.2-12.info
+emacs21-xaw3d-21.2-13.info
+emacs21-xaw3d-21.3-1.info
+emacsen-common-1.4.13-2.info
+emacsen-common-1.4.13-2.patch
+xemacs-21.4.9-1.info
+xemacs-21.4.9-2.info
+xemacs-21.4.9-3.info
+xemacs-base-pkg-1.71-1.info
+xemacs-efs-pkg-1.29-1.info
+xemacs-sumo-pkg-20020919-1.info
+
+Didier
+-- 
+http://cea.jqfsl.ygd/ - Become a trashholder today!

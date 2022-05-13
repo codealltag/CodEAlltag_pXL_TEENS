@@ -1,0 +1,18 @@
+Wir können alles! Sogar Hochdeutsch!
+
+
+Als Newsclient ist Gnus überragend. Zumindest wenn man die News auf
+localhost hat. Alles andere ist quälend langsam und gnutls will auch
+nicht immer so recht.
+
+Aber wie einige Edelrausch-Entwickler den für IMAP einsetzen, ohne sich die
+Haare zu raufen, ist mir nicht ganz klar.
+
+
+Das stimmt zwar auch, in Bezug auf Newsreader muß man aber von Geschmack
+reden.
+
+Karsten
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

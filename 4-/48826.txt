@@ -1,0 +1,16 @@
+Hallo Egon Treixler
+
+
+Es gibt trotzdem Sachen die du mit Korrnews nicht machen kannst, da du
+da schon die Nachricht komplett vorliegen hast. Bei den The Bat!-Makros
+kannst du noch die eigentlich Nachricht prüfen(meist mittels RegExp) und
+dementsprechend reagieren.
+
+MfG Mathias
+
+-- 
+Anruf bei einer Hotline:
+User: "Ich habe ein Problem"
+Service: "Ja?"
+User: "Ich benutze Windows 95..."
+Service: "Ja, das sagten sie bereits"

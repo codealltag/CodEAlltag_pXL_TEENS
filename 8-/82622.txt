@@ -1,0 +1,19 @@
+/Alles/. Inclusive Pakete aus unstable auf potato zum Laufen kriegen
+und Hardware neuester Machart in ihrer Funktion erraten (OK, "Human
+Interface Devices" sind ja nett, wenn sie in der Hand leuchten. Aber 6
+Maustasten? Und "Force-Feedback"? Muss das sein?). -- Erstaunlich, bis
+auf die saubere Konversion der Daten von Marktdreieck� hat fast alles an
+einem Nachmittag geklappt. -- Jetzt muss Verheugen nur noch das
+Doku-Lesen lernen ;-)
+
+Oscar -- endlich ist mein Tee gekommen *freu*
+
+� Aufgebohrt um Kernel 2.4.9, EPV 2.1.1 und XFree 4.1
+� Kennt zufällig wer ein Skript in der Art von "licq.winconvert-icq2000"?
+� Mit strings, grep und perl war wenigstens schnell mal die
+Kontaktliste zu retten.
+-- 
+Otto Steiwer --+- stud. soz. & inf. -+-- http://byh.dyi-lpazguk.ox
+-->    GPG Public Key: http://ley.zihyewtg-yzjdeju.bm/dqu.wqtwz    <--
+
+� Projekt Deutscher Wortschatz: <URL:http://dcuvdxglvs.vsb-bbfzrfk.qs>

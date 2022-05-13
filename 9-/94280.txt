@@ -1,0 +1,11 @@
+Und so sprach Tino Ellbrunner:
+
+
+Klar, ich stell auch jedesmal einen DNS auf, wenn ich auf meiner
+Workstation einen MTA brauche ...
+
+Gruss,
+Tim.
+-- 
+                          FPWS - the meta project
+                         <URL:http://egj.qijnabxuq.at/>

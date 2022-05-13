@@ -1,0 +1,12 @@
+* Kay Rolf <iqhnnmksaejosw@ots.guf>:
+
+
+Du klingst so deprimiert...
+
+
+Meine elisp-Kenntnisse laufen gegen 0.
+
+
+Othmar, auf Holz klopfend
+-- 
+cross veinless

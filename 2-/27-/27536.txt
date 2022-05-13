@@ -1,0 +1,15 @@
+Alles eine Frage des Blickwinkels... 
+
+
+Praktisch meist ohne Belang, da ich mich praktischerweise auf
+theroretisches beschränkt habe. 
+
+Bernhard, theoretisch mit den Händen arbeitend, praktisch aber ncihts,
+wo der Unterschied zwischen einer rechten und einer linken Hand
+auffallen würde.
+
+-- 
+Marcus:~$ whoami
+root
+Marcus:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Günther Janhsen]

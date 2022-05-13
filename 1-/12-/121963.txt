@@ -1,0 +1,7 @@
+Wieso? Einschüsse an den richtigen Stellen führen recht fix zu einem
+"shutdown -h now", und das darf normal nur der Admin.
+
+Christoph, eben mal wieder im Holomatch Jungmichel mehrfach, hm,
+"administiert" habend :-)
+-- 
+Gravity is a myth, the Earth sucks.

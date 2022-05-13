@@ -1,0 +1,6 @@
+Samuel,
+   weiß nicht, wie er seinen einzigen Rechner verlieren sollte.
+
+-- 
+Falscher oder fehlender Kaffee - Anwender angehalten.
+(W)iederholen  (I)gnorieren  (K)affee kochen ?

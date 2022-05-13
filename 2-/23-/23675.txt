@@ -1,0 +1,14 @@
+Und so sprach Waldemar Nieuwenkamp:
+
+
+1. Nicht in mein Ohr schreien.
+2. Hier gibt's keinen dirk.
+3. Schuhe von meinen Armen.
+4. Jetzt _richtig_ Angst haben.
+
+Gruss,
+Dirk, welk t hll.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.f

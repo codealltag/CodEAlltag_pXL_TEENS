@@ -1,0 +1,6 @@
+Sonnenschein total. Nur noch wenig Schnee. Temperatur unbekannt.
+
+Werner
+
+-- 
+cat .signature

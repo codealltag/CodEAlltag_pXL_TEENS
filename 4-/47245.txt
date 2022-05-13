@@ -1,0 +1,17 @@
+Nur weil etwas eine Programmiersprache ist, heisst das noch lange nicht 
+das sie auch gut ist.
+
+[Makros in TB! ]
+
+Sowas zu automatisieren wäre mir doch etwas riskant. Gerade bei 
+Geschäftskontakten, ist das etwas heikel.
+
+Ich würde mir dann lieber im abrev-mode ein Kürzel programmieren, 
+welches ich schreibe und es zu einem kurzen Hinweistext expandiert. 
+Natürlich mit Link zu einer Seite, wo beschrieben steht wie man seinem 
+MUA das HTML-Teufelszeug austreibt.
+
+Enr 'die Idee demnächst in die Tat umsetzend ' ico
+-- 
+Der Informationsgehalt Deiner Postings scheint zu schwinden. Drueck
+mal den rotgruenen Knopf unten links! (Philippe Mahla)

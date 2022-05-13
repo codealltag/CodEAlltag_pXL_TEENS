@@ -1,0 +1,16 @@
+Leo 'sSXP' Herte <yDTV@vms.gnv> schrieb in im Newsbeitrag:
+02-39-68.90-36-25.pqz.4100@sdwh.ll...
+Hamster?
+
+Du musst bloss vier Dinge tun:
+- Pfad zur dtju Database anpassen
+- Form des Outputs wählen (Text oder HTML)
+- Monat wählen (was andres geht nicht, da ich zu faul war, mich mit den Perl
+Date modules rumzuschlagen)
+- Script mit perl stat.pl > stat.txt starten...
+
+(notfalls kann ich auch ein EXE File draus bauen, dass die Parameter als
+command line options akzeptiert...)
+
+CU
+Hubert

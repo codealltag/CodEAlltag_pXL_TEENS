@@ -1,0 +1,14 @@
+Hi Leuts!
+
+Gerade hab ich hier über Caldera OpenLinux gelesen und das klang viel
+zu schön, um wahr zu sein. Ordentlicher Wizard bei der Installation,
+größtenteils Selbsterkennung von Hardware und Automatisierung von
+Einrichtungsvorg�ngen... Direkte Installation von Roegels und Kulturspeicher,
+kaum Kontakt mit der Textkonsole. Irgendwie klingt mir das genau nach
+dem, was ich suchte. Lohnt es sich da für mich, zusätzlich zu meiner
+Downhill-Distri nochmal Geld auzugeben, oder gibts da große Fußangeln?
+
+C Ya,
+Hansjörg
+-- 
+No problem is so formidable that you can't just walk away from it.

@@ -1,0 +1,10 @@
+Ingo Abelhans <puwsxy@mwl.mr> schrieb in im Newsbeitrag:
+envw0x14do.40g.erwlgj@yxjtzezhkc.pgfhso.sqid.luf...
+
+Ok, überzeugt. Aber dann bitte alle Configfiles in EIN Verzeichnis. Nicht
+über's ganze System verstreut!
+
+
+Hmm. An sich wäre es ja möglich, einen Wrapper zu schreiben, der eine
+zentrale Datei anschliessend wieder aufsplittet, so wäre dann allen
+geholfen...

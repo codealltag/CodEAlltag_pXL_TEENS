@@ -1,0 +1,9 @@
+Sorry, mein Scorefile stürzte angesichts einer so hohen Score mit einem  
+buffer overflow ab.
+
+Edouard Johann-Vor-Der-Brüggen
+
+-- 
+Edouard Jänker praktische Lebensratschläge, Teil 2:
+de.admin.* kann Magengeschwüre verursachen.
+---> Offizieller Kämpfer wider Dario Titsch des Ordens von dtju <---

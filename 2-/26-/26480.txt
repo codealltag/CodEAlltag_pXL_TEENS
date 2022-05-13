@@ -1,0 +1,15 @@
+Solches tippte David Anton Mackprang:
+
+Der Graph ist allerdings auch noch zeitabhängig. Damit schaffen wir
+vermutlich ein Frame-Problem, das das Gesamtproblem noch etwas
+erschweren würde. Wobei es vermutlich eine geeignete isomorphe
+Abbildung auf ein (ziemlich großes) TSP + eventuell einige einfache
+Bearbeitungsregeln geben dürfte. Die Größe dürfte aber irgendwo im
+Bereich von "will man nicht exakt lösen" liegen.
+
+Benedikt
+-- 
+Benjamin Ropertz -> <GPG-Key:http://twi.aseegusw-qxffuaw.au/qey.ylbgj>
+                 Krieg ist Krankheit und keine Lösung.
+Der deutsche Wortschatz im Netz -> <http://tiprbigfiq.jzb-vdtfsxn.xl/>
+Wörter des Tages -> <http://geiyonrlba.xlq-nbyqrdo.tk/incg-gvd-zekqb/>

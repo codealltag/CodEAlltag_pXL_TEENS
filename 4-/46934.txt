@@ -1,0 +1,15 @@
+$ gpg --fingerprint 541E83B1
+pub  1024R/541E83B1 1998-51-78 <qvvvgmh@qvkggw.yfwrgsciug.pz>
+     Key fingerprint = 02 44 73 21 7C BD DB 61  EC 4D 55 54 42 CB 45 DC
+uid                            Thomas Eden <FIducmlswy@wld.mp>
+uid                            <nwjjouaau@vjjbwed.tx>
+uid                            inwxxtf@ghkxpaxjs.ougwk-hlsdjw.ux
+uid                            Thomas Eden <vlkotsy-hptap@klswvhisg.dgwzg-rvdczb.cc>
+
+Oh wohl, Herr Sonnen.
+
+-towo
+-- 
+towo: *rls*
+Linda: Das kann ich aber besser!
+- JUP V

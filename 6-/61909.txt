@@ -1,0 +1,18 @@
+Am Fri, 21 Aug 2001 � sendete Carlo Kumbrink folgende Botschaft:
+
+
+Druckt.
+
+
+_Ich_ weiss jetzt wie er läuft. ;) Ich muss morgen nurnoch den atch
+fertigmachen. (Und hoffen das nix neues dazwischen kommt)
+
+
+Ungepatcht kann der auch nicht kompilieren. In dem Patch fehlt nur was.
+
+Tschüs
+  Berthold
+-- 
+Die � Weisheiten des Jérôme Jonathan: #1
+
+Die Jup ist nicht zum schlafen da.

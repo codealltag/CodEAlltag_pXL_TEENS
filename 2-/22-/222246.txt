@@ -1,0 +1,13 @@
+Am Fri, 3 Mrz 1999 19:05:55 +0200, schrieb Claus Fronhöfer:
+
+[CAD]
+
+Alle modernen CAD-Programme sind parametrische Volumenmodellierer.
+2D-Zeichnungen werden nur aus dem Modell abgeleitet (beliebige
+Schnitte sind so recht einfach zu erstellen).
+
+Valerian
+-- 
+  / ___/ /_/ /_/ /  UDRE UIN: 4908624            
+ / /__   _   _  /  PGP-Key available
+/____/_/ /_/ /_/  mailto:wbzzbxie@xnm.jz

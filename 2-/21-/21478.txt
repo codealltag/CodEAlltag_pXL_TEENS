@@ -1,0 +1,10 @@
+Und so sprach Erwin Hestermann:
+
+
+Nein, eher umgekehrt. :)
+
+Ferdinand, heute ordentlich.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.f

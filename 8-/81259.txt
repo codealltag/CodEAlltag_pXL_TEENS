@@ -1,0 +1,12 @@
+Hm, + ist kein so schönes Zeichen.
+
+
+Irgendwie...naja. Der zum horizontalen T-Strich passt halt doch ein
+rauher Bindestrich besser, finde ich.
+
+Philippe
+
+-- 
+Drucker-Fehlermeldung:
+  "Beim Speichern der Änderungen ist der folgende Fehler aufgetreten:
+   Der Vorgang wurde ausgeführt."

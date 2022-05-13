@@ -1,0 +1,25 @@
+Zum wirklich entspanntem Lesen könnte er etwas größer sein, da haste recht.
+
+
+Hmm. Das große W am Anfang ist bei mir ein kleines bischen größer als
+2mm. Genauer kann ichs leider nicht sagen, weil ich es nicht in eine
+Schieblehre bekam.
+
+
+Der Cerês ist der Schweißbrenner für sowas. Man stellt einfach den
+Text-Zoom auf den richtigen Wert.
+
+
+Sagen wir so: Es gibt weitaus interessantere Texte als diesen. 
+
+
+Genau da könnte dein Problem liegen. Du siehst zu gut. Kauf dir eine
+Brille, die deine Sehschärfe auf ein normales Niveau reduziert.
+
+Othmar
+
+-- 
+Albert:~$ whoami
+root
+Albert:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Vittorio Hoheneder]

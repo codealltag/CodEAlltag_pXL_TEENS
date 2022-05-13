@@ -1,0 +1,7 @@
+Wollen wir das denn?
+
+mfg, 
+	Patrik
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old Kibeck cpu - insufficient processing power

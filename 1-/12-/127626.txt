@@ -1,0 +1,9 @@
+* Norman Depke <ijfbsl@qummizugwrk.ym>:
+
+
+Ich vermute, dass es mit dem merkwürdigen charset zusammenhängt. Mit
+qp-Postings geht es schließlich auch.
+
+Volkmar
+-- 
+cross veinless

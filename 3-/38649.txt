@@ -1,0 +1,19 @@
+Och, Linux kann das auch gut:
+
+root       444  1.1  2.3 299284 14964 ?      S<L  Oct01  30:10 /usr/X11R6/bin/X
+towo       716  6.4 28.2 189272 181548 pts/1 S    08. 07. 21 176:51 /usr/lib/mldonkey/mldonkey
+
+Naja, hab' ja genug Speicher.
+
+$ free
+             total       used       free     shared    buffers     cached
+Mem:        642572     636748       5824          0      19904     318300
+-/+ buffers/cache:     298544     344028
+Swap:       393552      45440     348112
+
+-towo
+-- 
+Warum wird eigentlich zunehmend das gute Usenetprinzip "Keiner hat
+Anspruch darauf, von jedem gelesen zu werden." in Richtung "Ich darf
+jeden Bl�dfug schreiben, weil's eh ja keiner Lesen *muß*" mißbraucht?
+- Emanuel S. Klozenbücher in tmwfakr.lz.clee

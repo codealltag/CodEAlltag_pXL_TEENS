@@ -1,0 +1,30 @@
+Aber steht dieses grafische Men mit Arcosys, X oder was extrenen in
+Verbindung, das ist meine Frage. :)
+
+
+Nein. Aber das Setup hat Graka uusw. konfiguriert, starte dann mit den
+erwähnte 640x480x60Hz.
+
+
+Klugscheißer-OS. :)
+
+
+Logisch. :) Naja, vielleicht probiere ich als nächstes Mal RedHat. :)
+
+
+Naja, alle, außer Ibus, basieren auf RedHat. :) Zumindest AFAIK.
+
+
+Bei Spielemax gibts auch so einen FWT-Verschnitt... Ich erinnere mich
+dunkel. :)
+
+
+Alles bis 85Hz.
+
+
+Hab ich ja. Und prompt ging beim nächsten Start nix mehr. :)
+
+-- 
+sSXP  
+      Math is like love -- a simple idea but it can get complicated.
+		-- M. Zürner

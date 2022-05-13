@@ -1,0 +1,17 @@
+Lutz Thorsten Isleb meinte kundzutun:
+
+[Halemba]
+
+Jep, Halemba ist schon prima. Das Problem ist, daß es außerdem auch noch
+teuer ist wie pures Gold. Und da mittlerweile schon Open-Source-Linux-Clients
+für RDP im Arbeit sind, wieso *noch* mehr Geld ausgeben?
+
+
+Hm. Ist der damit ausgelastet? Nach Faustformel rechnet man pro
+Stnadarduser 32 MB Memory, pro "Poweruser" 64 MB und pro User 100 MHz
+Prozessor.
+
+Paul
+-- 
+Dieser Artikel ging an folgende Newsgroups: wh.tosg.usekts
+Er wurde am Donnerstag, dem 02. Mai im Jahre des Herrn 2001 verfaßt.

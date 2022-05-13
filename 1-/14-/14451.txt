@@ -1,0 +1,8 @@
+Ja, irgendwie findet jeder seinen Grund, Geld auszugeben...
+
+Helmuth, immer noch auf Monitor und Drucker wartend.
+-- 
+Wolf:~$ whoami
+root
+Wolf:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Nick Esterle]

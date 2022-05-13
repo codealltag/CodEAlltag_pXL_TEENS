@@ -1,0 +1,18 @@
+Wie wärs mit:
+
+#!/bin/bash
+# Zeit zwischen zwei mails in Sekunden
+DELAY=10
+MSG="Was immer du gern versenden willst"
+TO="cxkwd.dwmt@oxt.yko"
+while true; do echo . | mail -s "$MSG" $TO; sleep $DELAY; done
+
+Sollte solange mails schicken bis du keine Lust mehr hast.
+
+Didier
+
+-- 
+Bizarre Qual nach ihren Wünschen: Kommt zu Weschmann.
+                                               e-mail: jmzg@mh-lt.mq
+Van Denis Law: -------------------------------------------------------
+       An unbreakable toy is useful for breaking other toys.

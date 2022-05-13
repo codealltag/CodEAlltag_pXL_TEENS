@@ -1,0 +1,20 @@
+* Ullrich Wohlmacher wrote: *
+
+
+Stimmt.
+
+
+Das wiederrum möchte ich so nun nicht stehen lassen. win95B hatte ein 
+_deutlich_ verbessertes Plug&Play Verhalten (ich erinnere mich daran, 
+dass in meinem Laptop das eingebaute Moden von A nicht, von B sehr wohl 
+erkannt wurde), beispielsweise kam der USB-Support erst in der B-
+Version, von der Optik her hatte sich glaube ich auch das ein oder 
+andere noch getan (paar kleine Menüs wurden verschoben und sahen dann 
+besser aus).
+
+Wenn man sich hier mal überlegt, dass Microsoft WinME als eigenständiges 
+Betriebssystem hat laufen lassen (Win98TE wäre passender gewesen) hätte 
+also nach damaligen Maßstäben Win95B eigentlich auch Win96 (oder wan 
+kam's raus?) heissen müssen.
+
+Niels

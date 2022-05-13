@@ -1,0 +1,14 @@
+Peters 'Philipp' Meuwsen meinte kundzutun:
+
+
+Wie, im Kernel ist noch keine Unterstützung für das einzig sonnvolle
+neue Feature am PIV[0] drin?
+
+Johannes
+[0] Eingebauter Sensor, der zwecks random-Erzeugung das thermische
+    Rauschen am Prozessor mit. Unberechenbarer und unerschöpflicher
+    gehts nicht :-)
+-- 
+"Ja der weiße Mann aus Hanau / Brt den Teufel heut am Spieß,
+Und alle, die ein anderes Lied singen / grillt der Mann im Fegefeuer mit"
+Hazenbiller feat. Niels Lüttecke / Bagdad Blues ( Der weiße Mann aus Hanau)

@@ -1,0 +1,3 @@
+Das kann jeder brauchbare Editor mit einem brauchbaren Perl Style-File.
+
+Luciano, vim z.B.

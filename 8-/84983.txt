@@ -1,0 +1,13 @@
+Wenn ($Punkte % 3 == 0) bedeutet Note ist "+"
+Wenn ($Punkte % 3 == 1) bedeutet Note ist "-"
+Wenn ($Punkte % 3 == 2) bedeutet Note ist "glatt"
+1 + floor((15 - $Punkte) / 3) = $Notenwert
+
+9%3=0, 9/3=3 ~~> Note ist 3+
+
+Dieter
+-- 
+Daniel Hungriger --+- stud. soz. & inf. -+-- http://qot.jmy-bhjoaer.fz
+-->    GPG Public Key: http://iwo.mfhiqypu-gmhtjvg.ez/ofi.vezcg    <--
+
+� Projekt Deutscher Wortschatz: <URL:http://kjqeuvdbaf.rsz-conlvcy.nd>

@@ -1,0 +1,11 @@
+Ja.
+
+
+6 Monate, wie immer.
+
+
+s/ftp/scp/
+
+Leonhard
+-- 
+            It is easier to fix Unix than to live with NT.

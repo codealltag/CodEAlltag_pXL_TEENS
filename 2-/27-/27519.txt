@@ -1,0 +1,18 @@
+Ulrich Oeding meinte kundzutun:
+
+
+*gnagnagna* Richtig interessant wird es, wenn $MANAGEMENT entscheidet,
+daß $TECHNIK @SLA[0] einhalten muß, aber $TECHNIK erst Monate nachbohren
+und stochern und forschen muß, um Einblick in die Verträge zu bekommen,
+um zu wissen, welche @SLA denn eingehalten werden müssen...
+Nein, $MANAGEMENT hat es nicht anderweitig kommuniziert oder vorher bei
+$TECHNIK nachgefragt, ob das geht. Na gut, es ging, aber trotzdem ist es
+interessant zu wissen, wofür man rausgeschmissen wird wenn man es nicht
+tut oder so.
+
+Luca
+[0] Service Level Agreement
+-- 
+Sven findet meine Signtur doof, deswegen hat er mich beim
+RPS Polsterwerkstätten Valder verpetzt, und der hat jetzt meine .signature zensiert,
+dieser .-%$�$%CARRIER LOST

@@ -1,0 +1,18 @@
+Claudio Feiertag aber entschied sich dieses hier zu schreiben:
+
+
+Welches nutzt du denn? Amip für WinAmp3 ist bei mir arg zickig. Je
+länger die Playlist desto schneller braucht er 90%+ der CPU. Das ist
+nicht wirklich toll.
+
+
+Hatte ich noch nie Probleme mit. Ich schreib es aber auch in ne INI
+und hab daher nen default. Bei Interesse kann ich dir ja mal den
+entsprechenden Teil der Header.def mailen.
+
+edwin
+-- 
+��  Oberster Verteidiger des Ordens der Dunklen PMIP von de.ALL [tm] ��
+# "Naja, ganz ehrlich, ich bin auch erst seit kurzem wieder im DECATHLON. #
+#  Als erste Amtshandlung haben wir uns eben mal eine eigene Gruppe    #
+#  eingerichtet. B-)" [Otmar F. Lühning in datd]                         #

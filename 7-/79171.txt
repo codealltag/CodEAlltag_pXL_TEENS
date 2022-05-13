@@ -1,0 +1,8 @@
+[ ] Deutsche Originale sind in englisch immer besser
+
+Huake
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Edwin Jerg in
+<oztj8j2ec6.6f4.ncgvvxd.ygkemh@reb.eku.hw-fsvrjith.oh>]

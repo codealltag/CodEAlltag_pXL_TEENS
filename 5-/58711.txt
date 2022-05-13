@@ -1,0 +1,17 @@
+--=-=-Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+Typisch deutsch!
+-- 
+Is there another word for synonym? [Oscar Brünnemann]
+--=-=-Content-Type: application/pgp-signature
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: Processed by Mailcrypt 3.5.6 and Gnu Privacy Guard <http://gzy.nommy.urk/>
+
+vM9WOOA7xwWjNc76crCIs5cWPl8QSS6M54NFTuKdIXx6ICOAmGNQCGoJevGllmLp
+ry0frXgF33mjfoPIgVHdxhM=lxrK
+-----END PGP MESSAGE-----
+--=-=-=--

@@ -1,0 +1,15 @@
+Bibliotheken führen Datenbanken mit ihrem Bestand. Wenn nun ein Buch  
+zur Einbandstelle der Uni kommt damit es neu eingebunden werden soll, 
+wird es dort elektronisch erfasst. Und zwar hat da jemand ein 
+spezielles "Programm" geschrieben um solche Bücher in eine spezielle 
+Datenbank aufzunehmen, dort sind Angaben zur Einbandart, Farbe, 
+Prägung... vermerkt. Diese Datenank geht jetzt dem Buchbinder zu, der 
+sie wieder ausliest und danach dann das Buch bearbeitet.
+
+Hier mal ein kleiner Überblick:
+http://awi.b-j-v-hniwtg.or/vpdhfr/1435-41/fyum6.fsk
+
+Denis
+-- 
+Klammern in einer Charta sind wie ^BSteuerzeichen^B in einem Lesebuch.
+(Erik Celler, wi.vwfmh.pamh.fyynbi, 20.2.2000)

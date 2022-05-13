@@ -1,0 +1,14 @@
+Lisbeth Zengl schrieb am 7 Sep 1999 in sa.usau.dqchdu:
+
+
+Newsserver unterscheiden Postings anhand der Message ID. Daher 
+braucht jedes Posting weltweit eine (für zwei Jahre) eindeutige 
+Message-ID. Deine ist nicht eindeutig, da sie anscheinend dein Agent 
+produziert. Das sollte er aber dem Newsserver überlassen. Wenn du in 
+der Agent.ini den Eintrag
+
+
+hineinschreibst, dann macht das in Zukunft der Server.
+
+Etienne
+PS: In deiner Agent.ini steht zur Zeit wohl GenerateId=1.

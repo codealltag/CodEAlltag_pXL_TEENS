@@ -1,0 +1,31 @@
+Das lag möglicherweise daran, dass meine Mailbox sozusagen zerstört
+war. Ich habe sie jetzt neu erstellt, aber es klappt wohl trotzdem
+nicht so wie es soll...
+
+Meine .fetchmailrc sieht so aus:
+
+
+Okay, telnet habe ich nun ausprobiert. Folgendes ist dabei
+rausgekommen:
+
+
+Sieht ja nett aus, *alle* Mailboxen sind allerdings auch weiterhin
+leer. Nur ein neuer Eintrag in /var/postfix/active/9/ (ein elend
+großes Verzeichnis) ist dazugekommen. *seufz*
+
+Bei /var/spool/mail/$user muss $user doch eine Datei sein, richtig?
+(Mutt kann sie übrigens auch lesen, weil ich damit mal
+/var/spool/mail/root abgefrufen habe und einige, wahrscheinlich lokal
+verschickte Meldungen, drin waren.)
+
+Ich vermute einfach mal, dass meine /etc/postfix/main.cf falsch
+konfiguiert ist und postfix irgendwie nicht weiß, dass oder wohin die
+Mails sollen und er sie deshalb in der Queue speichert.
+
+
+Das glaube ich nicht. :-)
+
+Hartmut
+
+-- 
+Esst Fastfood!

@@ -1,0 +1,8 @@
+XFree86 4.0* ist ja nun fertich
+
+
+	-/RJ/-
+-- 
+#include <stdio.h>
+main(){int i;while((i=fgetc(stdin))!=EOF){if(i>96&&i<123)i=((i-84)%26)+97;
+if(i>64&&i<91)i=((i-52)%26)+65;putchar(i);}}

@@ -1,0 +1,8 @@
+Aja, stimmt, hab mir grade das File mal genauer angesehen. Dort werden
+Lisp - Befehle abgespeichert, die die Variablen setzen für gelesene und
+nicht gelesene und anders markierte Nummern.
+
+Darius
+
+-- 
+Hier kommt nichts mehr.

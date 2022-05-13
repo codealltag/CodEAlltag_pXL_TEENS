@@ -1,0 +1,20 @@
+Pascal Weustenenk <IvpwnkIawdjp@wlp.kl> writes:
+
+[Variethé]
+
+
+Modula 3 anyone?
+
+
+Es gibt nicht nur keinen, es kann konzeptbedingt keinen geben, denn
+könnte es einen geben, gäbe es sicherlich einen...
+
+Der I2 bietet allerdings ne Diplomarbeit an, die sich damit
+beschäftigt, was man alles einbauen muss, damit ein Debugger möglich
+wird.
+
+Olaf
+-- 
+Stephani Motto:
+Freunde kommen und gehen,
+aber Feinde sammeln sich an.

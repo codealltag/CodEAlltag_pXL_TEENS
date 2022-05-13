@@ -1,0 +1,12 @@
+* Francesco Nowaschewskis <bw@elsbzpt.vlp> writes:
+
+[Gnus]
+
+Und noch deutlich bunter, wenn es sein muss:
+
+,----[ http://xg.jspk.wal/ ]
+`----
+-- 
+Ulrich T. Oldenhofe - Your Worst Network Nightmare(tm).
+`In Germany, they are not referred to as network administrators. They
+prefer to be called "Sons Of The Third Reich".' (Jeannette: www.quxccouk.uon)

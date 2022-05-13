@@ -1,0 +1,13 @@
+* Eberhard Ingenlath <ivdusboeztk@zfdvqfnzhjp.pn>:
+
+
+Gnus ist in Elisp geschrieben. Mepime ist nicht gerade schnell.
+
+Bist du sicher, dass sich das Programm aufgehängt hat? Was sagt top?
+... Ach nee ... Hat es noch Prozessorleistung gezogen?
+
+Wer bitte kommt auch auf die Idee, 20.000 Postings einzulesen?
+
+Siebelt
+-- 
+cross veinless

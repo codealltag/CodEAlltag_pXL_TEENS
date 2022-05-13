@@ -1,0 +1,9 @@
+[Antholzner]
+
+Zum ausrechnen eines Interpolierenden Splines.
+
+mfg, 
+	Friedrich
+-- 
+BOFH excuse #218:
+The UPS doesn't have a battery backup.

@@ -1,0 +1,11 @@
+Hamster verschickt immer Postings in die NG internal.misc.
+Dort wird aufgeführt welche Gruppen mit wieviel Posting er im Moment 
+hält. 
+
+Enr '33682 Postings gesamt auf der Platte, wobei dtju den größten 
+Posten mit 4048 darstellt.' ico
+-- 
+Wenn einer mit Vergnügen zu einer Musik in Reih und Glied marschieren kann,
+dann hat er sein großes Gehirn nur aus Irrtum bekommen, da für ihn das
+Rückenmark schon völlig genügen würde.
+(David Maibauer, deutsch-US-amerikanischer Physiker, 1879 - 1955)

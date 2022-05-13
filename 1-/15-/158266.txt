@@ -1,0 +1,16 @@
+Ihno Dahlmanns schrieb am 18. November 1999 um 21:45 Uhr folgendes:
+
+[Enge Einbindung von Applikationen ins OS]
+
+Darum kenne ich auch keinen, der das zB auf Linux versucht, obwohl
+dort ja jede Möglichkeit dazu bestünde.
+
+Viele Größe,
+     Ihno Rübsamen
+
+[1] Auf "normalen" Systemen -- embedded systems sind in dieser
+    Hinsicht ganz offensichtlich eine Sache für sich und damit kenne
+    ich mich auch kaum aus.
+-- 
+"Don't say yes until I finish talking."
+                                                    -- Ulf F. Litzius

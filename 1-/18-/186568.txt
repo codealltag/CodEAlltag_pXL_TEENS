@@ -1,0 +1,13 @@
+Cédric Cristiansen schrieb am 19. November 2000 um 23:51 Uhr folgendes:
+
+
+Ich score zwar auch auf fehlende Leerzeichen im "From:", allerdings
+nicht bis auf Kill runter. Der Realname kann ja auch mal aus
+Unwissenheit / technischen Problemen / whatever fehlen.
+
+Viele Größe,
+     Jan Gließener
+-- 
+UNIX was not designed to stop you from doing stupid things, because that
+would also stop you from doing clever things.
+                                                           -- Ingmar Udo

@@ -1,0 +1,14 @@
+Nimm einfach an, dass die debian-Patches erst dann rauskommen, wenn
+sie wenigstens einigermassen getestet sind.
+
+
+[ ] Du hast an die richtige Betonung gedacht
+[ ] Ich werde demnächst exzessiv Anmerkungen machen
+
+
+Jepp. Aber "Alle drei Monate" wird es hoffentlich nicht werden
+
+Noël
+-- 
+This sentence contradicts itself -- no actually it doesn't.
+ -- Teloo

@@ -1,0 +1,10 @@
+Mmh. Zu klein. :p 
+
+
+6,3G currently...
+TGL sollte mal drüber nachdenken evtl. für die Spoolfiles optionale
+bzip2-Komprimierung einzubauen.. :D
+
+Ignaz
+-- 
+baboo

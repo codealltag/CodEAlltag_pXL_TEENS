@@ -1,0 +1,10 @@
+Das wäre ja fast langweilig.
+
+
+Artikelnummer :)
+
+Friedhelm
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

@@ -1,0 +1,17 @@
+Onno 'sSXP' Vorenkamp schrieb am 9. Dezember 1999 um 17:56 Uhr folgendes:
+
+
+Solche schweren Begriffe kommen wahrscheinlich erst in höheren
+Semestern zur Sprache :-)
+
+[...]
+
+Meine auch nicht und mir reichen 128 MB völlig.
+
+Viele Größe,
+     Meinhard Vaterrodt
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

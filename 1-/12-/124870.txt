@@ -1,0 +1,16 @@
+* Joël Fischges <v-yjv@triqyscprmq.hi>:
+
+
+Solange >500 Postings pro Tag hier hereingekommen sind, nein. Wenn <500,
+dann lese ich eigentlich alles.
+
+
+Punkte für "Antwort auf mich" gibt es. Die werden aber nicht im adaptive
+scoring mit aufgeführt, sondern werden nur für den einzelnen Artikel
+verteilt. "Habe ich beantwortet" gibt keine Punkte, was zwei Gründe hat:
+1. Ich sehe darin keinen Sinn.
+2. Mir ist die RegExpr zu mühsam.
+
+Berend
+-- 
+cross veinless

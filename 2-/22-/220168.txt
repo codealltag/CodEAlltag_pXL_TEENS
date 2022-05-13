@@ -1,0 +1,8 @@
+Es ist mir ein zu grosser Aufwand, erst Osserladl mit TCP/IP einzurichten,
+  nur um die Portierung eines E-Mail Programmes zu benutzen, mit dessen
+  Original ich schon seit einem halben Jahr arbeite.
+
+-- 
+Eilt
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

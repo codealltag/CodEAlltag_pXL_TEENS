@@ -1,0 +1,22 @@
+Volker Wachenbrunner meinte kundzutun:
+
+
+- Auf der Seite gibt es Videosequenzen zum herunterladen.
+- In verschiedenen Qualitäten <-> Bitraten.
+- Hohe Bitrate -> Große Videodatei -> Viel Downloadtraffic.
+- Traffic teuer -> die großen Versionen bei zlsj.do im Downloadbereich
+  "untergestellt".
+- zlsj.do kein Bock mehr auf den hohen Traffic -> die Dateien gelöscht.
+- Da auf der Seite für die großen Versionen *nur* der Link zu zlsj.do
+  existierte -> Große Videos nicht mehr anschaubar weil incht mehr
+  online.
+- -> Große Versionen wieder auf der Seite zum Download bereitgestellt.
+  Zwar mehr Traffic, aber man kann auch die großen Videos wieder
+  anschauen.
+
+Patrick
+-- 
+[17:26] <pathfinder> Muss mich jetzt dann mal Richtung warmes Nass aufmachen,
+                     da ich gegen 18 Uhr aus dem Haus muss um nach BOTTERENS zu
+                     fahren und LotR-3 ansehen werde.
+[17:27] <Yetiszaf> pathfinder: Spoiler: Er ist Luis' Vater.

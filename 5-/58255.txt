@@ -1,0 +1,5 @@
+Langweilisz.
+Tip: Als editor_command ein Script eintragen, welches dann immer den
+Bedürfnissen angepaßt wird. Blüht die slrnrc nicht so auf.
+
+Valerius

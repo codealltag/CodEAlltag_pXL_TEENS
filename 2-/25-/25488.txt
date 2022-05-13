@@ -1,0 +1,15 @@
+Na ja, eigentlich sollte das Programm wohl besser 'advise' heissen...
+
+Dann muß der Sighandler mal nachgekuckt werden.
+
+*unszuldigundzufriedenzur�ckkuck*
+
+
+Nein. Inwiefern?
+
+
+mfg, 
+	Ignaz
+-- 
+BOFH excuse #268:
+Neutrino overload on the nameserver

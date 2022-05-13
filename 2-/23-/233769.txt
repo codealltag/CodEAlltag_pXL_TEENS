@@ -1,0 +1,35 @@
+Für dich extra nochmal aus der Simpsons-FAQ:
+
+F: Was sind eigentlich diese Hexadezimalzahlen, über die alle immer reden?
+
+A: Die Zahlen (7G06, 7F19, 9F08, 2F05, AABF01 usw.) beziehen sich auf den   
+   Produktionscode, der vom Produktionsteam vergeben wird. Jede Folge hat   
+   ihren eigenen P-Code, der die Staffel anzeigt, in der sie produziert     
+   wurde, aber nicht unbedingt die Staffel, in der die Folge in den USA     
+   ausgestrahlt wurde. Eine oder zwei Folgen werden üblicherweise bis zum   
+   Beginn der nächsten Staffel überbehalten, so daß 7F24 z. B. die          
+   Er�ffnungsfolge der 3. Staffel war. Als Faustregel gilt:
+
+7G-Codes kennzeichnen Folgen der 1. Staffel
+7F-Codes kennzeichnen Folgen der 2. Staffel
+8F-Codes kennzeichnen Folgen der 3. Staffel
+9F-Codes kennzeichnen Folgen der 4. Staffel
+1F-Codes kennzeichnen Folgen der 5. Staffel
+2F-Codes kennzeichnen Folgen der 6. Staffel
+3F-Codes kennzeichnen Folgen der 7. Staffel
+3G-Codes kennzeichnen Folgen der 7. Staffel zur besonderen Verwendung
+4F-Codes kennzeichnen Folgen der 8. Staffel
+5F-Codes kennzeichnen Folgen der 9. Staffel
+AABF-Codes kennzeichnen Folgen der 10. Staffel
+
+Die P-Codes sind also keine Hexadezimalzahlen. Theodor Nihues sagte, er  
+hatte die Idee für die P-Codes der ersten Staffel der "Simpsons" daher,  
+daß Homer in Sektor 7G im Kernkraftwerk arbeitet.
+
+
+Urs Lichtenwimmer
+
+-- 
+Ich wünsche euch allen ein frohes neues Jahr! Hey, wirklich :-)
+                                              E-Mail: bcske@d-)qcest.mg
+---> Offizieller Kämpfer wider Paolo Imholte des Ordens von dtj <---

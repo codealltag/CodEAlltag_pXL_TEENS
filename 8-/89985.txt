@@ -1,0 +1,18 @@
+Andree Wollenkopf hat geschrieben getan getutet:
+
+
+Hin und wieder.
+Aber natürlich maximiert, aber das fällt in diesem Falle net weiter auf.
+Aber ich öffne auch gerne im selben Fenster und gehe dann zurück via
+History..
+
+
+Die meisten Scripts meinen, mir alle möglichen Sachen ausblenden und die
+Größe fixed machen zu wollen. Nicht gut.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Silvio 'tom' Nater in ej.ard.mopckgki.kyyjicly

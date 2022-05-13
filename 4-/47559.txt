@@ -1,0 +1,5 @@
+On Mon, 17 Feb 2002 13:12:00 +0200, Massimo Kesseboom
+
+Du nutzt also den Agent... Bei mir markiert er alles ehemals
+ungelesene nach dem Abholen neuer Header als gelesen... Kann man das
+abstellen?

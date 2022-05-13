@@ -1,0 +1,27 @@
+Tobias Bausewein schrieb am 11. August 1999 um 17:54 Uhr folgendes:
+
+
+Eine Zeile dürfte rund 80 Zeichen umfassen. Geht man von 50 Zeilen pro
+Seite und 1500 Seiten (mit Inhaltsverzeichnis und Register dürfte das
+hinkommen ;) aus, landet man bei 6*10^6 Byte, also knapp 6 MB.
+
+
+Wir durften statt dessen aufschreiben, wie verschiedene ganze Zahlen
+intern dargestellt werden (erfordert bei negativen Zahlen sogar kurzes
+Nachdenken :-).
+
+
+Wir hatten mal eine Unterrichtsreihe, bei der es darum ging, zu
+verschiedenen Sortieralgorithmen die jeweilige O-Funktion
+herauszufinden. Meistens in praktischen Testreihen, in einer
+Doppelstunde aber auch theoretisch hergeleitet (bei Quicksort). Mit
+solchen Geschichten hat der Lehrer es dann hinbekommen, dass mehr als
+zwei Drittel des Kurses abgewählt haben und ich deshalb kein Info mehr
+machen kann. Schade, waren immer leicht zu habende 15 Punkte...
+
+Viele Größe,
+     Carsten Birkmeier
+-- 
+ Q: I was listening to a CD in Grip and it sounded horrible! What's up?
+ A: Perhaps you are listening to country music...
+                                                        -- grip 2.5 FAQ

@@ -1,0 +1,7 @@
+Thorsten 'sSXP' Anbergen <rFTE@ptz.jph> schrieb in im Newsbeitrag:
+06-03-00.00-05-38.dtj.1447@ssxp.de...
+
+Bitte was? Wie soll das Terminal wissen, dass du Passwörter überträgst? Beim
+Login auf Unixboxen jedenfalls siehst du nix. Dafür hält es sich sehr schön
+an die Linuxkonsole, sogar YaST wäre halbwegs bedienbar, was bei CRT nun
+wirklich nicht der Fall ist....

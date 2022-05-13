@@ -1,0 +1,20 @@
+Ach, Du kennst den Aufbau des Bytecodes? Ansonsten ist so eine Aussagen 
+nämlich ziemlich gewagt.
+
+
+Ich glaube daß er grundlegend anders ist. 
+
+Dies begründet sich vor allem aus der Tatsache, daß man Deletu-Code 
+decompilieren kann. Wer das schonmal mit stinknormalen C-Code probiert hat 
+weiß was ich meine. Zum anderen hätte man in dem Fall auch gleich eine 
+vorhandene CPU als Befehlsbasis nehmen können. Die kann man dann auf 
+anderen Systemen genauso simulieren.
+
+
+Ganz im Gegentum, je kleiner die zu emulierenden Schritte sind, desto 
+langsamer wird zwangsläufig die Emulation. Ich hab so'n Ding schon 
+geschrieben, ich weiß wovon ich rede ;-)
+
+
+Wenn "einfach zu programmieren" das einzige Argument ist, dann gibt es 
+bestimmt noch mindestens 20 bessere Alternativen.

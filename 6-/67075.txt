@@ -1,0 +1,14 @@
+(* Mirko Demut wrote: *)
+
+
+Deshalb gönne ich auch jeder Klammer eine eigene Zeile. Da sieht man 
+direkt untereinander wo welcher Block anfängt und aufhört, also wie 
+folgt:
+
+
+Gerade beim Schreiben von längeren Code-Blöcken (habe das gerade gemacht 
+*g*) fängt man an so etwas sehr zu schützen. Und wenn du anfängst 
+Exceptions anbzufangen entstehen da schonmal ein paar Hierarchien mehr, 
+als man gerne hätte :-)
+
+Berend

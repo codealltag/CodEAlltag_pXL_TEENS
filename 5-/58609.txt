@@ -1,0 +1,6 @@
+Kannst den ganzen anderen Kram von --eval status natuerlich gerne
+stilhaft aufbereiten ;).
+
+Humm, dass mit dem default-charset klappt immer noch nicht ganz.
+
+-to'Und Farbauswahl an der console ist was klein ;)'wo

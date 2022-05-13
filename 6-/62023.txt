@@ -1,0 +1,14 @@
+Glaub es oder lass es sein. Fast alle Banken bieten schon länger ein
+solches an und bisher sind keine Sicherheitslücken bekannt geworden. Die
+Keiner arbeitet dabei inzwischen nur noch mit der browserintegrierten
+Verschlüsselung/HTTPS, andere haben irgendein Security-Applet, bei dem
+man den Mauszeiger 10 Sekunden lang bewegen muss und aus den Koordinaten
+wird dann der Verschl�sslungsalgorithmus jedesmal neu generiert. Oder so
+ähnlich.
+
+Da ich es nicht besser weiß, vertraue ich dem Ganzen. Und selbst wer
+sich wirklich ins System reinhackt, kann ja außer Kontostandsabfrage
+auch nicht viel machen, solange er keine TANs hat.
+
+
+-rickerts

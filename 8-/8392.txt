@@ -1,0 +1,7 @@
+Was ist denn ein Newton?
+
+Enr 'heute seinen PDA vergessen habend... *seufz*' ico
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - NaturTalent, 31. 07. 22

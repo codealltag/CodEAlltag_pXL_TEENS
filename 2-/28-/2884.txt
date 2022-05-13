@@ -1,0 +1,8 @@
+Zumindest eine _Amip_-Zeile. Und die ist im Header. :)
+
+-be
+
+-- 
+Eickers Schule:
+08.06 - Die meisten Lehrer finden ihre Stunden ebenso langweilig wie
+        die Schüler.

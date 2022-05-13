@@ -1,0 +1,6 @@
+Wie viel Prozent des Bildschirms werden normalerweise von Einheiten 
+eingenommen? 20?
+
+
+Ich bezweifle daß man so kleine Dinge wie die Einheiten gut beschleunigen 
+kann. Der Overhead dürfte überwiegen.

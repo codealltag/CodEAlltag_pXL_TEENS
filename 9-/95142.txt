@@ -1,0 +1,15 @@
+Weil z.B.
+
+cp bloedes Verzeichnis Zielverzeichnis
+
+versuchen wird, die verzeichnisse "bloedes" und "Verzeichnis" nach
+"Zielverzeichnis" zu kopieren, 
+
+cp bloedes\ Verzeichnis Zielverzeichnis
+
+dagegen kopiert "bloedes Verzeichnis" nach "Zielverzeichnis"
+
+Nino
+-- 
+Was ist braun und fliegt durch die Luft?
+!!!!!!! leztinhcS setreuetsegnref niE (rückwärts versteht sich)

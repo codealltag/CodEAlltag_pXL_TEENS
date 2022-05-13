@@ -1,0 +1,8 @@
+.. spart Tapete.
+
+Gestern redet man noch davon, was fuer Ungluecke mit rm einem
+passieren koennen - heute loesche ich mir alle meine dotfiles.
+
+Grmpf.
+
+-towo

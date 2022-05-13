@@ -1,0 +1,24 @@
+Bei jedem Pseudonym.
+
+
+Das meinte ich.
+
+
+Das kann man doch relativ einfach unterbinden.
+Der Bot muesste 'nur' jedes From mit dem Posting-Host und den User-Agent
+  in Verbindung bringen. Die Daten bleiben bei den meissten ja gleich,
+  sind fuer einen dritten aber nicht gaz so leicht nachzuahmen.
+
+[...]
+
+In den entsprechenden Gruppen gibt's doch auch FAQs.
+Und ansonsten kann ein Verweis auf rf.envbjadb.sldzd auch nicht schaden.
+
+
+Da kann ich nichts zu sagen, weil ich kein OE hab, und bei Netscape keine
+  Hilfe brauche.
+
+-- 
+Michael
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

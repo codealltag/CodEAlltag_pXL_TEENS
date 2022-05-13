@@ -1,0 +1,12 @@
+Code Pflege ist normalerweise ein großer Teil der Arbeit.
+
+
+Kann nicht schaden. Aber wenn eine Routine wie z.B. in meinem neuesten 
+Projekt "SetTemperature", "ReadTemperature", "ShowProgramInListbox" oder 
+auch "CheckForMeasureTokens" heißt, dann weiß ich eigentlich was die 
+Routine macht.
+
+
+Da ich von diesem Projekt weiß, daß es von einem angelernten Arbeiter 
+gewartet wird, ist der Kommentaranteil auch sehr hoch. Aber normalerweise 
+erklärt sich das Meiste von selbst.

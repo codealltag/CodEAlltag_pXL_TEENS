@@ -1,0 +1,14 @@
+Sebastian Chrysostomus schrieb am 29.01.01:
+
+
+Apropos: Ich hab' heute ein Programm kompiliert (mit make und so) -  
+UseVote um genau zu sein, es weigert sich aber beharrlich zu laufen. Es  
+kommt immer eine Fehlermeldung, IIRC bash: Command not found oder so -  
+Rechte sind alle 777. Any Ideen?
+
+Dario Nietsch
+
+-- 
+In Geestenseth ist es illegal, mit herunterhängenden Schnürsenkeln öffentliche
+Straßen zu betreten. Was soll man davon halten?
+---> Offizieller Kämpfer wider Pius Gasteiger des Ordens von dtju <---

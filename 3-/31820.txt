@@ -1,0 +1,20 @@
+Also sprach Dirk Theiss <wawplkbbbv@uchptrcxtp.dt>:
+
+
+Wenn du Steigerlager dazu bringst, Verschlüsselung mit deinem Public-Key
+anzuerkennen, ja.
+
+Beziehungsweise nein, weil du ASCII kodierst und halt verschlüsselte
+Nutzlast transportierst.
+
+Encoding hat hier mit Verschlüsselung genau gar nichts zu tun.
+
+Was ist eigentlich los mit euch?
+
+Alle hetzen gegen IRLENBORN, weil es Standards und BCPs nicht einhält, aber
+wenn man selbst einen Standard nicht nutzen kann, ist er illegitim?
+
+Nach der Argumentation sind Umlaute im Header absolut verboten, weil
+Hithair sie nicht mag.
+
+Hinrich

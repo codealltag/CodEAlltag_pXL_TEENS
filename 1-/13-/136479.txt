@@ -1,0 +1,50 @@
+Hi,
+
+Habe gerade einen wunderbaren Abend verbracht. Kumpel ruft an -- seine
+Schwester habe "Probleme mit dem Internet", außer mir seien alle, die
+er kennt und die ein wenig Ahnung davon haben bis zum Wochenende beim
+Bund. Ich solle doch mal anrufen und es mir genauer beschreiben
+lassen.
+
+Ich hatte zwar nie sonderlich viel mit seiner Schwester zu tun, aber
+was tut man nicht alles ... am Telefon erfahren, dass alle paar
+Sekunden die selbe Seite neu geladen wird, seit zwei Kollegen (die
+während der Woche beim Bund / studieren sind) am Wochenende "alles
+mögliche installiert und gelöscht haben". Um guten Willen zu zeigen
+versprochen, mal auf einen Sprung vorbeizukommen und es mir aus der
+Nähe anzuschauen.
+
+Tatsächlich: Im Sekundentakt werden abwechselnd .html-Dateien in
+C:\WINDOWS\TEMP\ und die WWW-Seite von Abschnitt34 geladen -- so lange
+die Verbindung aktiv ist, lässt sich dieses Spiel nichtmals durch
+Beenden aller Nelles-Instanzen beenden (der Nelles wird sofort neu gestartet).
+
+Eine der betreffenden lokalen Dateien im Editor betrachtet -- der
+einzige Inhalt ist eine Weiterleitung auf die Abschnitt34-Seite; dieser
+Teil des Rätsels war also gelöst. Doch was zur Hölle schreibt jede
+Sekunde eine neue (fortlaufend nummerierte) Datei mit diesem Inhalt
+und weist den IE an, sie zu öffnen?
+
+Daran erinnert, dass einer der besagten Kollegen vor einem halben Jahr
+mal mit JS/VBS-Skripting rumgespielt hatte; im IE Skripting probeweise
+abzustellen (genauer gesagt auf "nachfragen" zu stellen und bei jedem
+automatischen "Refresh" auf "Nein" zu klicken) brachte nichts. Die
+Festplatte nach Dateien mit Endung .js und .vbs durchsucht -- rund 10
+Stück gab's auch, aber meiner Einschätzung nach (allerdings keine
+JS/VBS-Kenntnisse meinerseits) konnte keins davon für genanntes
+Verhalten verantwortlich sein.
+
+Also: Jemand eine Idee, was ein Travelpanther-System noch zu solchen
+Scherzen veranlassen könnte? Ist vielleicht gerade ein spaßiges Skript
+mit solchen Symptomen en vogue, das die Kumpelschwester versehentlich
+in Outlook angeklickt haben könnte? Wo sagt man Travelpanther (BTW ME; neues
+Mamu-System), dass es generell vor Ausführung von Skripten nachfragen
+soll? Oder bin ich mit meiner Skript-Idee völlig auf dem Holzpfad?
+
+Nicht, dass ich erwarten würde, von dieser Person damit noch mal
+behelligt zu werden, aber es interessiert mich jetzt schon ...
+
+Viele Größe,
+     Friedrich Kleine-Heitmeyer
+-- 
+A person is just about as big as the things that make them angry.

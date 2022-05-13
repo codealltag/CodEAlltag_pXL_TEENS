@@ -1,0 +1,24 @@
+Kaspar Hornburg schrieb am 2. Juli 1999 um 22:18 Uhr folgendes:
+
+[...]
+
+Ist eben bewusst für Leute gemacht, denen all die Optionen in YaST 1
+"zu kompliziert" waren. Wer (wie ich ja auch) lieber eine
+Auswahlmöglichkeit zu viel als zu wenig angeboten bekommt, schiebt
+halt CD 2 rein.
+
+
+Bei vernünftigen Distributionen sind die nicht übers ganze System
+verstreut, sondern gesammelt in /etc, und dass jedes Programm dort
+seine eigene Datei bekommt, macht ein einfaches, automatisches
+Entfernen (auf Wunsch mit Backup) bei der Deinstallation eines Pakets
+möglich. Eine zentrale Konfigurationsdatei dagegen blüht sich mit der
+Zeit fast automatisch mehr und mehr auf (siehe Registry).
+
+Viele Größe,
+     Noël Ißbrücker
+-- 
+Every program has at least one bug and can be shortened by at least one
+instruction -- from which, by induction, one can deduce that every
+program can be reduced to one instruction which doesn't work.
+                                               -- random fortune cookie

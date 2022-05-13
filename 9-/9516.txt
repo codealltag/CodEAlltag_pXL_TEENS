@@ -1,0 +1,8 @@
+[dsf 1.3]
+
+Charly
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+136: Deadline
+       Programmtod durch überhastete Weiterentwicklung eines falsch
+       konstruierten Entwurfsmusters. (Ullrich Jergen)

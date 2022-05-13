@@ -1,0 +1,22 @@
+Am Tue, 25 Mrz 2000 20:43:10 +0200 sendete Hella Rothhermel
+folgende Botschaft:
+
+
+Das ist schwasinn jaund? Aber das hat doch nichts mit FC zutun.
+
+
+Irgendwer ist zu faul die Hausaufgaben selber zumachen?
+
+btw:
+------
+21:02:33 /usr/news/spool/articles/control$ls | xargs grep -10
+'^Control:.*dtag' | grep 'al\.mzou\.qhqsmo' | wc -l
+       0
+------
+
+In dtju werden in den letzten 30 tagen keine Postings gecancelt deren
+Message-id vom Gunreben newsserver erstellt wurden (was bei dir der fall
+ist.)
+
+Tschüs
+  Niels

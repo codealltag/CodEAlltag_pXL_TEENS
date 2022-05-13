@@ -1,0 +1,19 @@
+Nee. Ich fand beide wirklich gut.
+
+
+Richtig. Allerdings musst du beachten, dass er dann immer nur im
+aktuellen Verzeichnis und den darunter liegenden sucht. D.h. wenn du
+dich eben unter ~ befindest und darunter keine MP3s sind, findet er
+die natürlich nicht.
+
+Meine sind z.B. in einem Unterverzeichnis von /mnt. Wenn ich dann ls *
+innerhalb von ~ mache, zeigt er keine MP3s an.
+
+Das ist so, wie wenn du bei der Gezer-Suche das Verzeichnis vorm
+Suchen nicht auf C:\ umstellst, oder so, dann zeigt er auch nur Eigene
+Dateien an, glaube ich.
+
+Mauro
+
+-- 
+cat .signature

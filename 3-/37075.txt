@@ -1,0 +1,11 @@
+Tja, trotz ihrer Größe sind Hamster hungriger als man glauben mag.
+
+
+Das braucht aber doch viel eher Festplattenspeicher, denn RAM, oder?
+
+Franz
+
+-- 
+DZW ISDN-Controller B1 USB:
+"Fehler beim Zugriff auf die Registry; 0003:
+ Es ist kein Fehler aufgetreten!"

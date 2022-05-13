@@ -1,0 +1,13 @@
+Ulfert Muck <innbehlzsy@uqfipmadus.oy> schrieb in im Newsbeitrag:
+dowt3mk171.xyk.cvvzrnvnra@dopreiypbg.tbtteut.ho...
+Nicht wirklich:
+
+MTA Maturity Security Features Performance Sendmailish Modular
+qmail medium high high high  addons  yes
+Sendmail  high  low  high  low  x  no
+Postfix  low  high  medium  high  yes  yes
+exim  medium  low  high  medium  yes  no
+
+Ich bleibe bei meinem Schönes, das tut wenigstens, was es soll (mal von SMTP
+after POP abgesehen, aber das liegt nicht an Schönes) und das auch noch
+schnell...

@@ -1,0 +1,17 @@
+On Sat, 11. 05. 22, Berthold Glöggner <uhpvqir_xjesfxo@mwz.zt> wrote:
+[...]
+
+[tststs] /home/tststs > locate 3Dfx
+/usr/doc/howto/3Dfx-HOWTO.gz
+
+Du täuscht Dich nicht. Auf der Verpackung steht aber halt "NICHT
+unterstützte Grafikkarten / -Chips: alle 3Dfx..." Frag' mich nicht wieso.
+
+[...]
+
+Meine bisherige 4,3 GB-Platte reicht jedenfalls noch...
+
+Viele Größe,
+     Reinhard Dijckmanns
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

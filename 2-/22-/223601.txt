@@ -1,0 +1,11 @@
+Ungerouted heisst in diesem Falle, dass Anfragen an diese Adressen
+  (im Internet) nicht weitergeleitet werden.
+  Dadurch sind die Rechner nur vom LAN aus erreichbar und vom Internet
+  'abgeschirmt'.
+Wenn es diese Adressbereiche nicht gaebe, braeuchte jeder Rechner in
+  einem TCP/IP-Netz eine weltweit einmalige IP-Adresse.
+
+-- 
+Udo
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

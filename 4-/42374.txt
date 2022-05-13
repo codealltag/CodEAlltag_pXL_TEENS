@@ -1,0 +1,10 @@
+Gerd Jödike skrev i meldingen:
+
+
+Momentan liegen hier in ~/etc/smilies jede Menge *.xpm. Weiss der Teufel
+was das für ein Format ist, aber es funktioniert. ;-)
+
+Enr 'Das mit den gifs bei Gelegenheit mal testend' ico
+-- 
+Ein Virus fuer Windows/ActiveX waere dasselbe, wie wenn man eine
+Sabotage sabotieren wuerde. (Nicolas Fleischle in so.ztei.irhctfix.kdbw)

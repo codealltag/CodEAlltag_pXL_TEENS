@@ -1,0 +1,20 @@
+es geht hier ja nicht um kleine Anwendungen wie Word oder sowas. Es 
+geht um Spezialanwendeungen, die z.T. sogar direkt von den IT Comps 
+entwickelt werden. Stell dir mal folgende Situation vor: Eine 
+mittelständische Firma (oder auch global Players, bei uns u.a. Vopagu 
+(das darf ich schreiben, steht ja auch auf der HP)) brauchen eine neue 
+Anwendung. Wenn das ganze per ASP lösen sieht das folgendermassen aus: 
+Die IT Comp entwickelt die Anwendung und stellt die Standleitung und 
+die (Hochleistungs-)Server zur Verfügung. Du hast dadurch eine 
+schnelle Anbindung und Plattformunabh�nigkeit. Du sparst dir die 
+Aministrationskosten und Unterhaltungskosten usw. Wenn du die Sofware 
+erweitern willst gibst du den Auftrag der IT Comp und hast keine 
+Probleme mehr damit. Du musst nicht auf jedem Rechner Updates fahren 
+sodern alles bleibt beim alten obwohl sich die Anwendung geändert hat. 
+
+Schau dir mal den link an:
+http://stj.nyi.wf/nklfoldgj/akgthdokx_tovu7-7.zslc
+
+
+bye
+Cornelius

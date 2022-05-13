@@ -1,0 +1,9 @@
+Im GIF-Format kann ein Pixel höchstens einen Wert von 8 Bit annehmen,
+was umgerechnet Werte von 0 bis 255, also 256 mögliche, sind. So meinen.
+
+Gruß,
+
+Kaspar
+-- 
+"There's a sucker born every minute."
+(INGO Lillge)

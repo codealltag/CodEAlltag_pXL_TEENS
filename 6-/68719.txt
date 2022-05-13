@@ -1,0 +1,15 @@
+Gut erkannt.
+
+fk@mlxdrp:/dla/fxyrncr.w$ hyi alias.qc | g grep
+alias g="grep"
+alias gi="grep -i"
+
+;-)
+
+
+Oh doch.
+
+Johannes
+
+-- 
+cat .signature

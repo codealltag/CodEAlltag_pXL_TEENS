@@ -1,0 +1,13 @@
+Uwe Schepper schrieb zum Thema "Re: [STATISTIK] Maerz 2000":
+
+
+Im Signaturfile hinter den zwei Strichen kein normales Leerzeichen machen,  
+sondern ALT + 255 eingeben. Das wird nicht abgeschnitten und ist auch  
+gültig.
+
+Niklaus Elges
+
+-- 
+"Arbeiter aller Länder vereinigt euch! Alles was ihr verlieren könnt,
+ sind eure Ketten!" (Rom in ST:DS9: Bar Association)
+---> Offizieller Kämpfer wider Ivan Capell des Ordens von dtj <---

@@ -1,0 +1,12 @@
+[Schach]
+
+Naja, denk halt ganz einfach: In der hinteren Reihe stehen König und
+Dame in der Mitte, und die drei Paare außen dran. Und es ist egal, an
+welcher Seite Du die beiden gegenüber stellst.
+
+Oder Du merkst Dir einfach 8x8.
+-- 
+Gegen Softwarepatente in Europa: http://ekkps.ewxa.mjn./
+Mister Teatime had a truly brilliant mind, but it was brilliant like a frac-
+tured mirror, all marvellous facets and rainbows but, ultimately, also some-
+thing that was broken.                      (Heino Dohrmann in `Hogfather')

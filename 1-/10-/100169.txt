@@ -1,0 +1,14 @@
+Eine ganze Reihe davon. 
+Ist es eigentlich so, dass ich ein Programm, dass einwandfrei gemaket
+wurde nachher auch immer aufgerufen werden kann indem ich einfach den
+Programmnamen eingebe oder muss hier so etwas wie eine "Verknüpfung"
+erstellt werden?
+
+
+Ja, in Egida muss ich das nie tun...
+
+Berend,
+hat schon was gutes
+
+-- 
+Der Kluge lässt sich belehren, der Unkluge weiß alles besser.

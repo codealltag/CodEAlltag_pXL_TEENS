@@ -1,0 +1,7 @@
+Die ist sicher leicht herauszukriegen. Teleinfokram reinwerfen und mal
+ein bisschen rumsuchen...
+
+Norbert
+
+-- 
+cat .signature

@@ -1,0 +1,5 @@
+Es geht um die Fakultätsfunktion. Sowas wie "3! = 3*2*1".
+
+Ingolf
+-- 
+If you explain so clearly that nobody can misunderstand, somebody will.

@@ -1,0 +1,9 @@
+Argl, an dem Punkt war ich schon vor einer Woche. Was machen denn Eschhaus 
+und Konsorten so? IIRC öffnet es die CD-Rom Lade, spielt Sounds ab, 
+überträgt den Bildschirminhalt und solche Spielereien. Ist es jetzt ein 
+Sicherheitsloch daß eine Applikation die Soundkarte ansprechen darf?
+
+Was kann BO, was man als User nicht darf?
+
+-- 
+Die GEMA-Gebühren für dieses Posting werden automatisch abgebucht

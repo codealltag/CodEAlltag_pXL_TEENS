@@ -1,0 +1,15 @@
+Findest nicht nur du. Zitat aus dem aktuellen VDAP-Magazin: 
+
+"Noch komfortabler geht es kurioserweise von der Kommandozeile. Der
+Befehl >>apt-get remove Paket<< löscht nicht nur das angegebene Paket,
+sondern gleichzeitig auch alle anderen Pakete, die darauf aufbauen."
+
+Das Magazin scheint von Ebare sehr überzeugt zu sein, denn es
+schreibt: "Track+Busservice-Linux: Ein Siegertyp" aufs Cover.
+Und fordert Neuwahlen in Sachen Betriebssystem.
+
+David, sieht schon jede Menge köpa-DAUs #xxxzky.ok stürmen.
+
+-- 
+Wenn ich den neusten Virentreiber runtergeladen hab...
+[Igor]

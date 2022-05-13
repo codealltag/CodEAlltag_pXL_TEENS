@@ -1,0 +1,6 @@
+Was soll mir der fat wimp schon tun?
+
+Lutz
+-- 
+BOFH #444:
+overflow error in /dev/null

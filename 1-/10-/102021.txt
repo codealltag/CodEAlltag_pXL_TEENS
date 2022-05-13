@@ -1,0 +1,8 @@
+N. Ganz bestimmt nicht. Wenn ich was löschen will, dann will ich das
+löschen. Diese blöden Alias-Aktionen sind das erste, was ich an
+anderen Maschinen erstmal abstelle; In der Uni stehts das inzischen in
+der .bashrc...
+
+Waldemar
+-- 
+Overflow on /dev/null, please empty the bit bucket.

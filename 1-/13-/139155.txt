@@ -1,0 +1,16 @@
+Wilhelm Trändlin schrieb am 30. Dezember 2000 um 19:20 Uhr folgendes:
+
+
+Normalerweise bin ich bei solchen Dingen ja gerne behilflich, aber ...
+
+1. Kenne ich mich mit Gnus so gut wie gar nicht aus.
+2. Hatte ich Raphaël eher so verstanden, dass er mit den DAU Widbiller-
+   "Scores" etwas anstellen wollte (vielleicht automatisch
+   Scorefile-Einträge generieren). Ist das korrekt?
+3. Fehlt da ein "t".
+
+Viele Größe,
+     Wilhelm Brautigam
+-- 
+f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng.
+                                               -- random fortune cookie

@@ -1,0 +1,11 @@
+Am Sat, 17. 01. 22 sendete Antoine Stollhans folgende Botschaft:
+
+
+Dein quoting ist für'n Eimer.
+
+
+sync();, fsync(fd); nah dem schreiben oder O_SYNC beim öffnen setzen
+dürfte idealer sein.
+
+Tschüs
+  Wolfgang

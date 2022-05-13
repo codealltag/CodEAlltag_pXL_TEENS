@@ -1,0 +1,27 @@
+Es schrieb rrppfkg_gobgdqu # vmc.wv folgendes:
+
+
+Da halte ich wenig von, da es eben auf Software basiert, Kommt ein neues  
+BS ist der RAID weg, weil wieder irgendwas anders gemacht werden muss- das  
+haette ich beim Hardwaremirror nicht...
+...wenn ich eine zweite SCSI-HD haette...
+
+
+Ist aber egal: Die Platte kommt ja eh nicht hinterher und auf die Device  
+schreiben kannst Du auch mit "nur" 132MB/s. Und diesen weg gehst Du beim  
+Kopieren gleich 2x...
+
+
+MAN schon, wer wirklich den Cache BRAUCHT, der nicht- darum gibt es jqa  
+SCSI-Controller mit bis zu 64MB Cache...
+
+
+:-) Benutze pfiffikus. :-)))
+
+
+4 wuerden mir reiche, aber "ueber" habe ich die 150,- nicht. Und sogar  
+einen 8x UW Tower bekaeme ich fuer 329DEM- das brauche ich aber nicht, da  
+ich mit 1,5m Kabel nicht weit komme.
+-- 
+
+Ciao, Justin

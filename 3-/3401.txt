@@ -1,0 +1,6 @@
+Viel Putzbedarf.
+
+Karsten
+-- 
+Was ist ein Polarbär?
+Ein rechteckiger Bär nach einer Koordinatentransformation.

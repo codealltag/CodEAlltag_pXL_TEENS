@@ -1,0 +1,10 @@
+Ulf Rieß sah sich genötigt am 11. zu schreiben:
+
+
+Theoretisch schon. Und was theoretisch geht, wird in Gnus ja auch
+praktisch gehen. Du musst es nur programmieren. ;-)
+
+Christian
+-- 
+Wenn Linux mal ohne Console auskommt und S.u.S.E mit Bikepool ausgeliefert
+wird, werde ich Gärtner. (Winfried Stuerz in in.ahl.dmw)

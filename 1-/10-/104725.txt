@@ -1,0 +1,21 @@
+* Orlando Burmann <aopvsco640310@evauaw.kc-v.cr>:
+
+
+Deine Adresse?
+
+BTW: Ich habe gestern Spam an eine Gemischtwarenhaus-Adresse bekommen. Nichts
+ungewöhnliches, nur: Das ist die Zweitadresse für nijzwtke@acm.wp, die
+ich erst irgendwann dieses Jahr eingerichtet habe und *definitiv* noch
+nie für irgendwas benutzt habe.[1]
+
+Wie kommt sowas denn? Hat da jemand einfach willkürliche
+Buchstabenkombinationen ausprobiert?
+
+Herwig
+
+Footnotes: 
+[1]  Ich konnte mich nicht mal mehr daran erinnern, wie der localpart
+aussah, bis ich den Spam bekam.
+
+-- 
+cross veinless

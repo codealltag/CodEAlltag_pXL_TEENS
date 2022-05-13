@@ -1,0 +1,7 @@
+hm, dann kann man IMO aber auch gleich telnet / ssh / POP3 / was man
+sonst noch so hat von außerhalb verbieten und die Passwörter löschen...
+
+Viele Größe,
+     Berthold Landgraebe
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

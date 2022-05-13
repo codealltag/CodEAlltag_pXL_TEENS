@@ -1,0 +1,25 @@
+*bibber* Brr. Shockwave... Es wird ja immer schlimmer... (Ja, ich hab
+Shockwave, trotzdem!)
+
+
+Du darfst alles, nur ich werd das nie machen, und weiterhin jeden
+verfluchen, der das macht.
+
+
+OK.
+
+
+OK, das klingt schon viel vernüftiger. Trotzdem, ich erinnere mich mit
+Schrecken an den Composer, der grundsätzlich nicht so wollte, wie ich
+wollte. Mal macht der ne Leerzeile rein, wenn ich sie gar nicht will,
+mal bringt er es nicht fertig, einen Zeilenumbruch auszuführen. Wenn
+Du das im Quelltext machst, dann geht das viel besser. BTW
+programmierst Du auch nach dem WYSIWYG-Prinzip? <bg>
+
+
+Das Ergebnis ist immer wichtiger als die Zeit, die man dafür braucht.
+
+C Ya,
+Elmar
+-- 
++++ am 29.12. und 30.12. vermutlich offline +++

@@ -1,0 +1,2 @@
+Stimmt ja gar nicht. Wenn dann TNT und ALI-Chipsatz, aber auch nur mit
+den alten AGP-Treibern (vor Ver. 1.5).

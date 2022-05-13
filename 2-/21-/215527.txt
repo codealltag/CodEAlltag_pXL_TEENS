@@ -1,0 +1,20 @@
+In article <gmib4xedua.5nk.rxtigp@wjvubxtart.xerfze.cebc.jiq>, Viktor Altbrandt 
+wrote:
+
+mein NLZO hat da z.b. web/ftp-serverroot hingesteckt, was strenggenommen
+auch nicht sein sollte. aber andere beispiele gibt's auch: z.b.
+uucp-konfiguration in /var anstatt in /etc (hat sich inzwischen geändert)
+sowie die ganz neue angewohnheit, einiges nach /opt zu packen, anderes aber
+nicht. 
+
+
+naja, ich bin halt ein bequemer mensch. lieber 5min länger online und es
+läuft ohne irgendwas lesen zu müssen... 
+
+mfg
+    elias
+
+-- 
+Elias Härder  -  eMail: qzandx@jub.qkaca.dc
+IRCNet: ^Spooky    -         occagp@vwo.fsammwuc.fz
+          --  http://rjo.ipe.ftfew.jx/ --

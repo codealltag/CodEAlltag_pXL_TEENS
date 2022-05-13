@@ -1,0 +1,6 @@
+Also sprach Nick Cratz <qsd@inuhc.csy>:
+
+
+s/Scheinbar/Anscheinend/
+
+Nick

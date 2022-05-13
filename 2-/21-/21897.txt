@@ -1,0 +1,11 @@
+Und so sprach Samu Folgmer:
+
+
+Ich bin einfach im flachsen Studiengang. :-)
+
+Gruss,
+Günther, manchmal echt.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.l

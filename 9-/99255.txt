@@ -1,0 +1,19 @@
+Und so sprach Henrik Nottekämper:
+
+
+Will auch!
+
+#v+
+atjid@yin5629:/vrd/abcm/atjid> uptime
+10:45PM  up 49 days,  8:04, 1 user, load averages: 0.06, 0.07, 0.08
+#v-
+
+Seit dem ersten Multiuser-Level-Boot :-)
+
+
+Er ist laenger aufrecht.
+
+Gruss,
+Ulf.
+-- 
+Epebo - Better for your uptime than Viagra.

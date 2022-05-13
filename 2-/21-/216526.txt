@@ -1,0 +1,30 @@
+Ja. Schlägst Du vor...
+
+[ ] Die zu sichernde Platte über Netzwerk auf dem neuen Rechner zu
+    spiegeln?
+[ ] Die Festplatte des einen Rechners mal eben in den anderen zu
+    stecken?
+[ ] Den CD-Writer in den neuen PC einzubauen?
+[ ] Sonstiges?
+
+[s-lang]
+
+*rks*
+
+
+Ist das nicht schon länger so?
+
+
+Mmh... bisher habe ich bei der Knisterkiste noch keine Probleme mit der s-lang
+gehabt. Allerdings mögen die Knisterkiste-RPMs mein selbstcompiliertes gtk
+nicht.
+
+
+Ich habe IIRC mal davon gelesen, daß es irgend welche Vorteile bringen
+sollte, es damit zu compilieren... nun ja, ich habe es bisher trotzdem
+als RPM und das ist bei Knisterkiste wohl ncurses-basiert.
+
+Viele Größe,
+     Ivo Hanell
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

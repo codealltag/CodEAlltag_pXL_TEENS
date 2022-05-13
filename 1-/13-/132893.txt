@@ -1,0 +1,6 @@
+Ein gutes Beispiel dafür, warum Signaturen a) richtig abgetrennt und
+b) (genauso wie die Einleitungszeile) nicht zu lang sein sollten. :)
+
+-- 
+Should have been dead | On a Sunday morning
+Banging my head | No time for mourning

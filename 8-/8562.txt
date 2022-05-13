@@ -1,0 +1,7 @@
+Ist es?
+
+Leonhard
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+276: SMP
+       Fehlfunktion bei mehr als einer CPU. (nach Johannes Pfluger)

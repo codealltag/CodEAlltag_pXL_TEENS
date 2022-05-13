@@ -1,0 +1,15 @@
+Am Thu, 12 Jul 1999 sendete Edo Kaempfer folgende Botschaft:
+
+
+Hab noch keine gesehen.
+
+
+:q	= quit
+:q!	= quit auch wenn was verloren geht
+:wq	= write file & quit
+:r	= read file
+
+Was ist dadran unlogisch?
+
+Tschüs
+  Roberto

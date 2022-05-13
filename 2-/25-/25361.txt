@@ -1,0 +1,16 @@
+rks. Genau den ersetze ich damit. irmp3 ist zwar ganz nett, allerdings
+ist es ein Kreuz, den dazuzukriegen, auf einem Rechner anzuzeigen, was
+er gerade spielt.
+
+Der Player ist hier (eigentlich) zweiteilig: 
+Zum einen die Playlist / Sammlungsverwaltung, zum anderen das
+Client/Server-System, das den mpg321 per Remote bedient, und sich auch
+per Command-line bedienen lässt...
+
+Was genau brauchst du denn für das Frontend für ein Backend?
+
+mfg, 
+	Waldemar
+-- 
+FSO excuse #58:
+high pressure system failure

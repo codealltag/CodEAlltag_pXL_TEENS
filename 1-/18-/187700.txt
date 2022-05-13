@@ -1,0 +1,2 @@
+Ich bin schon eine Weile aus der Schule raus, aber es war doch eher 
+n * x^(n-1)

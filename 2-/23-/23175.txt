@@ -1,0 +1,16 @@
+Und so sprach Pius Jungck:
+
+
+Es gibt IIRC auch Kameras mit manuellem Zoom, wie bei nem
+Teleobjektiv.
+
+
+Erfahrungen habe ich nicht wahnsinnig viel, aber ein Bitmap
+skalieren kann ich auch mit UWH.
+
+Gruss,
+Ivano.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.d

@@ -1,0 +1,7 @@
+* Werner Odenwälder <qzqqsl-ctka-994551@folq.pznkwx.jf>:
+
+[Hilfe]
+
+C-c TAB öffnet *info* -- da hat Udo schon Recht.
+
+Alois

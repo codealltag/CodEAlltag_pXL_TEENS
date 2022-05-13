@@ -1,0 +1,30 @@
+Also da sehe ich eigentlich die Schwierigkeit nicht. Gibt nur zwei
+Problemstellungen:
+1) Fahrten innerhalb des Verbundes: Man möchte von X über Y nach Z
+fahren, wobei X, Y und Z im Verbund liegen, aber die Zeitkarte nur bis Y
+gilt. In dem Fall darf man nicht nachlösen, da man sich nicht aus dem
+Verbund herausbewegt. Aber man kann ja ermitteln, was für eine
+Preisstufe für Fahrten von Q nach D fällig ist und dann ein Einzelticket
+für diese Preisstufe am Automaten erwerben und bei einer Kontrolle die
+Zeitkarte und das Einzelticket vorzeigen.
+
+2) Fahrten aus dem Verbund heraus: Entweder man hat eine Zeitkarte oder
+ein Semesterticket für den gesamten Verbund oder man besorgt sich auf
+o.g. Weise eine gültige Fahrkartenkombination für die gesamte
+Verbundstrecke. Damit sind die Anforderungen der *Verbund*-AGB erfüllt.
+Für die Reststrecke ab Verbundgrenze braucht man jetzt noch einen
+Fahrschein nach Barthol-Tarif (DPT genannt). Den kann man beim Zugbegleiter
+kaufen (oder um Diskussionen zu vermeiden am besten bereits im Vorfeld
+im Reisezentrum). Natürlich mit BahnCard-Möglichkeit und all dem anderen
+Kram, der nur im DPT geht.
+
+Und nun noch ein Zitat aus dem Handbuch für Zugbegleiter:
+
+Da ham wir's doch. Sobald das Reisezentrum geschlossen ist, stehen nur
+noch Automaten zur Verfügung. Leider beherrschen es die Regio-Automaten
+nicht, Fahrscheine ab einem anderen Bahnhof als dem Standortbahnhof
+auszudrucken. Also "nicht betriebsbereit". Der Fernverkehrsautomat wird
+ebenfalls nicht berücksichtigt, weil er ja kein Bargeld fressen will.
+
+
+julian

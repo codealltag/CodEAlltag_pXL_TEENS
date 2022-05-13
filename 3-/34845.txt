@@ -1,0 +1,10 @@
+Am Sun, 29 Jan 2002 sendete Gerhard Danneboom folgende Botschaft:
+
+
+LC_CTYPE=en_US.ISO_8859-1
+
+funktioniert hier problemlos, davon ist nur das Charset, nicht aber der
+inhalt der Meldungen betroffen.
+
+Tschüs
+  Tom

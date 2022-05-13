@@ -1,0 +1,9 @@
+Na sowas! Böse, das!
+
+Bodo
+
+-- 
+"Dieses Programm stellt SCSI-Kennung fest, und empfiehlt einen
+ erhältlichen Kennung, anschließen ein NEUES Laufwerk. Keine
+ Notwendigkeit starten dieses Programm, falls Sie neues Laufwerk nicht
+ an schließen."

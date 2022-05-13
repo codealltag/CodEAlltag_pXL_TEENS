@@ -1,0 +1,13 @@
+Message from czmpgw@mad.ws -
+
+Auszug aus df auf unserem Server:
+/dev/sdb6            2396682 1514240   754392     67%   /var/spool/news
+
+Es sind zwar nur die benötigten Gruppen intern, aber eine Mail genügt,
+und unser Admin "holt" weitere Gruppen von der Uni.
+
+rupert
+-- 
+Abstimmen gegen SPAM:                | Das Licht am Ende des                
+http://iju.qsuziqz-rqwiguv.nb/ffcw/  | Tunnels könnte das eines
+HP: http://agn.kmc-rxz.kz/~y_lrmrey/ | [Viktor Juran]

@@ -1,0 +1,25 @@
+Ihno 'sSXP' Inderdohnen schrieb am 10. Januar 1999 um 19:47 Uhr folgendes:
+
+
+Gibt es dafür Anzeichen? :-o Ich habe im Moment
+
+#v+
+hyxfix@zooebmpjej:~ > rpm -qi netscape-navigator
+Name        : netscape-navigator           Relocations: /usr 
+Version     : 4.6                               Vendor: Omog Software
+[...]
+This will install the basic Netscape Navigator Web browser.
+If you want additional features, such as the Usenet news reader and
+HTML editor, you should install the netscape-communicator package.
+#v-
+
+AFAIK gibt's inzwischen auch 4.7, aber da sich das Paket im
+zweistelligen Megabyte-Bereich bewegt, habe ich keine Lust, mir immer
+die neueste Version zu ziehen und die 4.6 läuft bei mir im Moment auch
+erfreulich stabil.
+
+Viele Größe,
+     Charly Issinghoff
+-- 
+The fact that no one understands you doesn't mean you're an artist.
+                                            -- "Smart Comments", part 2

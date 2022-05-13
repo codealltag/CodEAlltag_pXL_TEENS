@@ -1,0 +1,4 @@
+Ich wäre ja mal froh, wenn ich bei meinem xemacs21-mule die
+Menubar-Font ändern könnte...
+
+-to'XEmacs, nunja.'wo

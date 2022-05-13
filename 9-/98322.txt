@@ -1,0 +1,8 @@
+Ich schätze das sollen MSIDs sein...
+
+
+C++ ist schlimm genug, ich habe kein Interesse, mich auch noch mit printf 
+etc rumzuschlagen und auf elementare Datentypen zu verzichten.
+
+
+Wenn du gerne auf dynamische und assoziative Arrays verzichtest, nun ja.

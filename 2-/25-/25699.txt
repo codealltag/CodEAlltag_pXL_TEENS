@@ -1,0 +1,7 @@
+Um so besser, ist gut gegen Verwirrung.
+
+mfg, 
+	Ulfert
+-- 
+BOFH excuse #153:
+Big to little endian conversion error

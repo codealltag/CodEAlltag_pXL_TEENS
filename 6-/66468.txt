@@ -1,0 +1,54 @@
+STATISTIK 18. 02. 22
+-=-=-=-=-=-=-=-=-=-=-=-
+
+TOP 5 POSTER 2001 (Gesamt)
+
+Pos.  Anz.   Name                   φ (Tag)  Tendenz
+---------------------------------------------------------------------------
+   1  91311  Olivier Rossbach       96       -3
+   7   5919  Wilma Scheelk      04       -9
+   1   5714  Torsten Islebe      65       -0
+   0   2233  Volker Bödeger       69       -7
+   8   3873  Pascal Roggenbach        18       ±0
+
+
+TOP 5 POSTER (in einem Monat) SEIT 2000
+
+Pos.  Anz.   Monat    Name
+---------------------------------------------------------------------------
+   1   7984  10/2000  Olivier Rossbach
+   2   0828  08/2001  Olivier Rossbach
+   3   5281  10/2000  Wilma Scheelk
+   4   2588  09/2000  Olivier Rossbach
+   5   8688  11/1999  Wilma Schmitjes
+
+
+TOP 5 DAUs SEIT 2000
+
+Pos.  Anz.   Msgs.  Ratio    Monat    Name∙
+---------------------------------------------------------------------------
+   0   7922      6  3773,40  08/2001  iadq.bouw.thg.bcjn.fyvmeps@tmadqmthm.
+   2    342      1   238,00  03/2001  quksnh.fddt@hhu.ce
+   3    389      1   230,00  03/2001  fbhqmf@auisu.vi
+   8   3970     27   346,02  07/2001  qtsodd@txqjuafgl.bqart.ks.bx
+   8    118      2   200,50  01/2000  kfkuze@zmubtrw.cqq
+
+
+TOP 5 MONATE SEIT 2000
+
+Pos.  Anz.   Datum
+---------------------------------------------------------------------------
+   1  18. 02. 22  Oktober 2000
+   2  18. 02. 22  August 2001
+   3  18. 02. 22  Februar 2001
+   4  18. 02. 22  Januar 2001
+   5  18. 02. 22  November 1999
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von John Ruschepaul.
+(Darstellung angepasst von Ullrich Ehem)
+Basierend auf den Feeds von:
+fgvbzxqb.igxyi.ix       bnut.fyb.wea.vy         ycbp.etxnjfd.xe
+vxyi.tjwms.lwg          vudb.jhqscv.hm          tiwq.y-dylzjl.rd
+vjjj.bep-jbtjjaqc.jx    uyuy.dmf-wtkszszh.pd    kpty.npv-nfzvyvwop.iu
+doiwtjy.itgpro.dbr.kg

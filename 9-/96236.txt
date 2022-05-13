@@ -1,0 +1,8 @@
+Die Schweizer Modelle kann man mit einem Code (der in den meisten Fällen 
+wohl nur der Anbieter hat, ich nehme mal an, der wird irgendwie aus der IMSI 
+generiert, wenn man also den Algo wüsste, könnte man wahrscheinlich jedes 
+unlocken) unlocken, den einem die Anbieter nach 12 Monaten geben, wenn man 
+sie fragt.
+
+Interessiert mich persönlich nicht sonderlich, weil ich mit meinem Anbieter 
+sehr zufrieden bin.

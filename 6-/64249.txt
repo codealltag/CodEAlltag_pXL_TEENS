@@ -1,0 +1,14 @@
+Ja, im analogen Festnetz zumindest. Bei Telefonanlagen und/oder ISDN
+wird die Rufnummernunterdrückung oft in der TK-Anlage geschaltet und
+läßt sich da nur mehr oder weniger umständlich abschalten. Z.B. hier bei
+mir:
+
+1. Code für Konfigurationsmodus + PIN-Code wählen, auflegen.
+2. Code für Rufnummernunterdrückung wählen, auflegen.
+3. Code für Konfigurationsmodus beenden wählen, auflegen.
+
+and vice versa. Insgesamt ca. 15 Tasten, die gedrückt werden müssen.
+Auflegen und wieder abheben nicht mitgezählt.
+
+
+-commer

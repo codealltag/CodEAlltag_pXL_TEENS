@@ -1,0 +1,4 @@
+Mach du nur. Aber denk dran, der eine Server braucht zum Transfer eines
+Home-Verzeichnisses 10 Minuten, wenn das Profil neu und leer ist.
+
+*patsz*

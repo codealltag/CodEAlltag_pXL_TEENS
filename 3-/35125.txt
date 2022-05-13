@@ -1,0 +1,23 @@
+Es war im Dezember 2002 als Henry Nieclaus tippte:
+
+
+Gnus-intern, aber die Idee hab ich mir aus einem Korrnewsscript
+geklaut, welches ich früher mal nutze. Inzwischen hat Korrnews hier
+eigentlich keine Funktion mehr, da Gnus die Funktionen alle schon selbst
+kann.
+
+,---------[ Kürzel aus dem Newsgroupnamen erstellen ]
+`---------
+
+,---------[ Message-ID erzeugen ]
+`---------
+
+,---------[ Message-ID per Postingstyles einfügen ]
+`---------
+
+Ist vielleicht eine zugegeben etwas kranke Lösung, aber sie tut.
+
+Nino
+-- 
+Frueher nannte man sie Groupies, heute sind es Praktikantinnen.
+(Nelly R. Nikl)

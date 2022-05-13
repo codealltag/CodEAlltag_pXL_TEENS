@@ -1,0 +1,12 @@
+Doch schon, aber es ist eben kein IN, sondern ein kommerzieller
+Billigprovider mit all den damit verbundenen Nachteilen (kein UUCP,
+unfähiger Support, Proxy-Zwang (wenigstens nur bei HTTP),
+Besetztzeichen in Stoßzeiten etc.). Hätte ich hier eine etwas größere
+Auswahl an Providern und wäre UFTF nicht so saug�nstig (10 DM inkl.
+12 Freistunden + grundsätzlich freies Surfen zwischen 0-8 Uhr), hätte
+ich mich schon längst nach etwas anderem umgesehen.
+
+Viele Größe,
+     Jürgen Karnführ
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

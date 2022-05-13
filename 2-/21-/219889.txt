@@ -1,0 +1,8 @@
+Vor allem hätten sie dann auch auf vielen unnötigen Schnickschnack 
+verzichtet (eine schwule Büroklammer in Assembler zu programmieren ist 
+nicht trivial ;-). Auf der anderen Seite hätte es dann ungefähr 5 mal so 
+viele Bugs wie es jetzt ohnehin schon hat.
+
+
+Jepp. ähnliche Probleme hat man sogar mit sauberer Software, das könnt ihr 
+mir glauben...

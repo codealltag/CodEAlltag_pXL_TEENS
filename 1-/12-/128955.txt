@@ -1,0 +1,11 @@
+Alternativ schlage ich noch vor, detebe zu löschen, de.alt.dateien.*  
+abzuschaffen - oder am besten gleich de.alt.*. Natürlich könnte man auch  
+mal wieder versuchen, Geles einzuführen und de.comm.software muß immer  
+noch reorganisiert werden. Als Proponent schlage ich Claus Irlbeck vor.
+
+Karsten Conzen
+
+-- 
+Karsten Cerny praktische Lebensratschläge, Teil 4:
+Heizkissen sind gesundheitlich nicht unbedenklich.
+---> Offizieller Kämpfer wider Alexandre Behrenspöhler des Ordens von dtju <---

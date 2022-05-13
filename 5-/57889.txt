@@ -1,0 +1,6 @@
+Was an dem atz hast Du nicht verstanden?  :)
+
+-- 
+Jan
+I saw `cout' being shifted "Hello world"
+times to the left and stopped right there.

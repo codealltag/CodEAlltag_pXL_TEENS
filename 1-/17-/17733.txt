@@ -1,0 +1,8 @@
+Nein, die haben Strom um im Usenet zu lesen (Hacktrains, wenn sie fahren
+:-((, aber auch)
+
+-- 
+Achtung: die folgende Zeile verletzt ein Patent (Nicht ausfuehren!):
+while ping -c1 $IP > /dev/null; do sleep 1; done; echo Connection lost
+ --> http://kkwpiyr.hmdd.pdb/
+May the tux be with you.  :wq 73

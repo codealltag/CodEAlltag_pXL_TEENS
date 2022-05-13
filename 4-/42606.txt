@@ -1,0 +1,15 @@
+Morver ist ein Zusatzprogramm, das sich zwischen Newsreader und -server
+klemmt und typische Fehler von so einigen Newsreadern ausbügelt, dabei hält
+er zwischenzeitlich die Postings als Textdatei auf der Festplatte, dann wird
+Korrnews aufgerufen, welches diese als Textdatei vorhandenen Postings dann
+modifiezieren kann.
+Was call_shop ist weiss ich nicht, miniladen ist auch (nicht nur) ein Newsreader,
+der Postings, bevor sie an den Server gesendet werden, auch als Textdatei
+auf der Platte hat, die man dann mit Korrnews verändern kann.
+
+tschau, Guy
+-- 
+"Ein Vorschlag zur Fortsetzung einer Diskussion in da0 ist also der ironische
+Hinweis des Posters darauf, dass er der Diskussion außer der durch die dadurch
+am Prozessor entstehende Verlustleistung freiwerdenden Wärme nichts mehr
+abgewinnen kann. ;-)"	                -Klaus Cammerzell in dnq

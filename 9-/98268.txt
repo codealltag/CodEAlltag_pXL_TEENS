@@ -1,0 +1,16 @@
+* Heimo Rowedder <tejjumt786009@tvlgxc.fk-y.fh>:
+
+
+Hier läuft das so:
+
+- schriftliche Prüfungen
+- mündliche Prüfung
+- Ergebnis mündliche Prüfung
+- Ergebnis schriftliche Prüfung
+-> Entscheidung, ob Nachprüfung aka zusätzliche mündliche Prüfung
+
+-> Abitur
+
+Reiner
+-- 
+cross veinless

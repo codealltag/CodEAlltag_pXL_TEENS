@@ -1,0 +1,12 @@
+On 22 Dez 1999, Lutz Zirners <zuevzjh@rcg.nk> wrote:
+[...]
+
+Okay, irgend etwas in der Art mußte es ja sein (ein Algorithmus,
+dessen Umkehrung deutlich mehr Rechenzeit erfordert). Mir ist halt
+kein passendes Verfahren eingefallen, aber jetzt bin ich wieder etwas
+schlauer, danke :-)
+
+Viele Größe,
+     Valerian Aufmhof
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

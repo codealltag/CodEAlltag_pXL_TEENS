@@ -1,0 +1,16 @@
+Nikolaus Neuling hat geschrieben getan getutet:
+
+
+Im Prinzip schon.
+Nur wenn irgendson Idiot (Wilfried, Werner, Stefan, etc.) mal wieder die
+ganzen Konstruktionen hinten und vorne verschiebt, sucht man den
+Zusammenhang manchmal wie die Nadel im Heuhaufen.
+
+Aber hat man dann erstmal den Ansatz, gehts fix :)
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Thomas 'burkhard' Eckels in nn.pnx.dalhxkss.zylxzsda

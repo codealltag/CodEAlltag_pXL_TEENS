@@ -1,0 +1,20 @@
+Bauer von D7 auf D5 (bau dein Spiel so auf, dass das passt ;-)
+
+
+Skizze (so liegt es vor mir):
+
+1
+2
+3
+4
+5        b
+6        ^
+7b b b b   b b b
+8t p l k d l p t 
+ H G F E D C B A
+
+Niko
+
+-- 
+Die letzten Worte des Studenten:
+"Ich gehe in die Mensa, kommt ihr mit?"

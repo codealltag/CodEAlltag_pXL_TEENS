@@ -1,0 +1,2 @@
+Die Karten selbst haben kein BIOS und das Motherboard BIOS hat damit 
+nichts zu tun.

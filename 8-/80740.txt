@@ -1,0 +1,14 @@
+Am Sun, 6 Sep 2001 sendete Torsten Buuk folgende Botschaft:
+
+
+Du liest dcsnr oder nsr? Das ist da ein FAQ. 
+
+
+Da wirst du dann wohl einen followup_hook in slang definieren müssen.
+
+Tschüs
+  Jean-Claude
+-- 
+Die Weisheiten des Wolfram Jup: #5
+
+Winkis Chilli rockt.

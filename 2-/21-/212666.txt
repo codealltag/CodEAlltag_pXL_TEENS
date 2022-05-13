@@ -1,0 +1,28 @@
+Seit ich einen Computer mit Tonnen von RAM und Prozessorleistung habe,
+bin ich auch nur noch unter WindowMaker mit lustigen DockApps und
+Desktop-Themes :-) Trotzdem ist ständig mindestens ein rxvt (Terminal)
+offen. Viele Sachen gehen damit einfach am schnellsten.
+
+
+Yep, die Bash ist ganz nett. Jedes mal, wenn ich einen Blick in die
+Doku werfe, habe ich wieder ein paar neue Tricks gelernt.
+Inkrementelles Durchsuchen der History, Einfügen des Arguments des
+letzten Befehls... eigentlich bräuchte das Ding nur noch Gedanken
+lesen zu können.
+
+
+Wenn man nicht gerade versucht, mit den Defaults für Farben und
+Tastaturbelegung zu arbeiten und vielleicht noch ein paar nützliche
+Makros hat, ist das UI vom slrn IMO eigentlich recht gelungen. Ich
+vermisse noch ein paar Spielereien vom mutt (Quoteebenen
+unterschiedlich einfärben, beliebige RegExps farblich hervorheben
+lassen und so Zeugs), aber das ist nicht wirklich wichtig.
+
+
+Und eine Kritik, die aus zwei Anführungszeichen und der Vokabel
+"rumschlagen" besteht, ist da wesentlich qualifizierter?
+
+Viele Größe,
+     Maximilian Kapusta
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

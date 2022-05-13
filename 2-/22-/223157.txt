@@ -1,0 +1,11 @@
+-[Hi Tobias!]-
+
+Tobias Volgger schrieb in Nachricht ...
+Deswegen ja der Smily! Wobei der Windows Kernel relativ groß ist im
+Gegensatz zum Linux Kernel. Der ist ja höchsten 500kb groß. Ich kenne mich
+mit den Windows Kernelgr��en zwar nicht aus, aber um diesen verwenden zu
+können ( lauffähig ), bedarf es sicherlich ein paar mehr MB an Dateien als
+bei Linux!?? Du kannst mich jetzt gern eines besseren belehren!
+
+Thats all,
+Lothar

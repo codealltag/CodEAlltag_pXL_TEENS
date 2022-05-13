@@ -1,0 +1,15 @@
+In <okcg2b6vm2.f7.ukmmez@cwodvcpgig.nqrdfd.aqyu.oxi>, Angelo Neurohr
+schrieb/wrote:
+
+
+Also gibts dafür auch keine Programme ?
+
+
+Wie macht man das eigentlich ? Ich hätte als root z.B. ganz gerne
+/opt/kde/bin mit dabei.
+
+ciao,
+Alfred
+-- 
+             Homepage @ http://wvvj.qa/qu - BOY @ 8197701
+Nichts geschieht ohne Risiko, aber ohne Risiko geschieht auch nichts.

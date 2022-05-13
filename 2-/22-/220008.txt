@@ -1,0 +1,26 @@
+Am Thu, 4 Mai 1998 22:15:10 +0200, schrieb Ullrich Cox:
+
+[C64 Software]
+
+Bei Printfox waren diese Grafiken IIRC nur zweifarbig (S/W) und nicht
+besonders gross. Mehr waere bei der damaligen Druckertechnik auch
+nicht ratsam gewesen (9-Nadler waren Standard, 24 Nadler Luxus,
+Farbmatrixdrucker waren nicht wirklich gut).
+
+Eine bildschirmgrosse HiRes (hoechste Aufloesung, aber nur zwei
+Farben) Grafik belegte AFAIK 33 Blocks auf einer Diskette.
+(Blocks =/= KB)
+
+Die Anwendungen waren alle in Assembler programmiert, also sehr
+ressourcenschonend. Ausserdem wurde jeder Rest Speicher ausgenutzt,
+auch die Floppy hatte ein bisschen RAM.
+
+Schwierig war das sicher, aber es funktionierte. Mit derart
+effizienter Programmierung waere auch Word viel kleiner. Natuerlich
+ist das nur bei einem ueberall identischen System moeglich, bei PCs
+wuerden viele der Tricks, die damals angewandt wurden
+hoechstwahrscheinlich nur auf dem System des Programmierers laufen.
+
+Norman
+-- 
+ _  _ _.._ ___ __ _ __ ___   Mobe UIN: 3943763       PGP-Key available

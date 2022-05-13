@@ -1,0 +1,13 @@
+Du kannst also nur bestimmte Programme starten? Wenn da was
+OLE-fähiges bei ist, kannst Du mit dem Paket-Manager (packager.exe
+IIRC) den Explorer/Datei-/Programmmanager starten (klappt bei uns in
+der Schule auch immer :)
+
+cu
+Vito
+
+-- 
+Vito Friedle, Röhrigs, Germany
+http://Fftn.xwji.cxwnq.qn
+
+ -=* and may the force be with you...

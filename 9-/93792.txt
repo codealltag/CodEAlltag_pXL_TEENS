@@ -1,0 +1,15 @@
+Christof Ochsler hat geschrieben getan getutet:
+
+
+Japp. Das Dreieck soll einen "Igel" darstellen.
+(Generelle Masseinheit dann natürlich Igelschritte, nicht Pixel)
+
+
+Sozusagen.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Carsten 'raymond' Volgger in jf.det.gvhumhqx.kuzcuwfr

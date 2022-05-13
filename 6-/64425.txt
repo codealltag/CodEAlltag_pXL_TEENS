@@ -1,0 +1,36 @@
+Tino Endersch <fotaadckwm@dfdngspzdrz.gv> schrieb:
+
+[Usenet]
+
+Der Knackpunkt ist ja das "richtig Bescheid wissen". Die meisten hören
+davon, denken sich, probier ich das mal aus, dann stürmen sie mit ihren
+O(j)E's in eine NG stellen eine Frage die schon x mal beantwortet wurde
+und werden auch noch frech wenn man sie auf irgendwelche FAQs
+hinweist. Kann man täglich bei einer Tüte Popkorn in diversen NG
+verfolgen.
+
+
+Du hast gut reden! BTW: wie mailst du unter Linux? Kmail? ;-)
+
+
+Yupp! Wobei ich sendmail/fetchmail schonmal zum laufen gebraucht
+hab. Nur verstehe ich nicht wieso man zu fetchmail wiederum sendmail
+braucht um das ganze per pop3 abzuholen. Ist irendwie doch nicht ganz so
+einfach.
+
+
+AHA! *verst�ndnisslosdreinblick*
+
+
+Danke. Wenn ich mal wieder die Nerven dazu habe, mich mit dem Pinguin zu
+quälen, werd ich mir die Seite mal anschauen.
+
+
+Du mir geben 70 Euro, ich mir können kaufen 4.10. OK? ;-)
+
+ Enr 'die ersten Euromünzen hier auf dem Schreibtisch liegen habend' ico
+
+-- 
+Der Diskettenvorrat geht immer am Samstag nach Ladenschluß zur Neige.
+
+(Murphy's Gesetz)

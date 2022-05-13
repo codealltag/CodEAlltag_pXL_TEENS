@@ -1,0 +1,7 @@
+*ZENSIERT**ZENSIERT**ZENSIERT**ZENSIERT**ZENSIERT**ZENSIERT**ZENSIERT**ZENSIERT*
+
+Gilles, das besser nicht im Klartext schreibend...
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

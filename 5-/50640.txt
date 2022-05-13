@@ -1,0 +1,12 @@
+Jetzt ists kaputt:
+
+Warning: Unable to access /home/www/web2/html/pix/albums/./schule_040702/sskiyrk_01.JPG in /pqap/zzs/eyb9/gqae/pix/wtbgg.yry on line 1842 
+
+und so weiter, und so weiter...
+
+Patrice
+-- 
+Nur wer feige ist, tötet
+Liebe durch das Wort allein.
+Für das Messer braucht es Helden
+und ich kann nicht feige sein. [SVBWAY TO SALLY: Das Messer]

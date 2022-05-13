@@ -1,0 +1,49 @@
+On Thu, 5 Jun 1998, Oscar Carass <rbqumuwm@etq.gb> wrote:
+
+[Meine Schwester und Linux]
+
+
+Wie alt ist sie? Einloggen, slrn aufrufen und sich ein paar einfache
+Tasten merken, die man zudem nachlesen kann, wenn man auf '?' drückt,
+traue ich eigentlich so ziemlich jedem zu.
+
+
+Man kann unter Linux sehr weit 'ins System blicken', und je nachdem,
+was man gerade vorhat, muß man das auch hin und wieder. Allerdings hat
+man auch die Möglichkeit, häufig benötigte Dinge in sehr hohem Maße zu
+automatisieren --- wenn ich zum Beispiel 'go online' eintippe, wird
+eine Verbindung zu meinem Provider hergestellt und sobald eine
+IP-Verbindung steht, werden (automatisch und parallel) Mails
+verschickt, abgeholt, News geholt, mein WWW-Cache online gesetzt,
+offline angeforderte WWW-Seiten geholt... demnächst werde ich noch
+einbauen, daß die Systemzeit bei jedem Online-gehen mit einem
+Timeserver abgeglichen wird. Das alles ist vor mir als User verborgen
+(es sei denn, ich will sehen, wie viele Postings noch geholt werden
+müssen oder wie die Übertragungsrate bei den News gerade ist und
+schaue mir die Datei an, in die die Ausgabe umgeleitet wird).
+
+
+Hört sich an, als wären die beiden mit MegaSun auch ganz gut bedient
+(na ja, vielleicht wäre eine gute Spielekonsole doch noch besser).
+
+
+Ich kenne Truchtelfingen zwar nicht, aber da es eine große Stadt ist, nehme
+ich mal an, daß es dort brauchbare Leihbibliotheken gibt. Vielleicht
+lohnt es sich ja, dort auch mal reinzuschauen.
+
+
+Eigentlich ist die vorhandene Software für SCSI-Brenner gedacht, aber
+es gibt inzwischen die Möglichkeit, auch IDE-Brenner (per
+SCSI-Emulation) zu betreiben - war mir bisher nur nicht wichtig genug,
+um mich näher damit zu befassen. Der größte Nachteil beim Brennen
+unter Blütentraum ist AFAIK, daß DAO noch nicht möglich ist, so daß (je nach
+Brenner) bei Audio-CDs Zwangspausen von ein paar Sekunden zwischen den
+Stücken auftreten. Allerdings ist es fast ein halbes Jahr her (unter
+Blütentraum eine Ewigkeit), seitdem ich mich das letzte Mal in dieser
+Richtung umgehört habe - kann sein, daß die Programmierer da
+inzwischen weitergekommen sind.
+
+Viele Größe,
+     Igor Rodenbusch
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

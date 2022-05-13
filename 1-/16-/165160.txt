@@ -1,0 +1,14 @@
+Urban Kriesche schrieb am 19. Januar 2000 um 22:13 Uhr folgendes:
+[xmms]
+
+Ich habe Winamp lange nicht mehr zu Gesicht bekommen... Welche
+überragenden Funktionen bietet der Playlist-Editor dort, die xmms
+nicht hat?
+
+Viele Größe,
+     Beat Zornemann
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

@@ -1,0 +1,11 @@
+Theo Ungruh hat geschrieben getan getutet:
+
+
+<p usergfx="d3d">Was sind Decals?</p>
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Uwe 'leo' Ewerhardt in dy.ume.fnemigff.foribtwz

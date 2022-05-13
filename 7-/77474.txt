@@ -1,0 +1,24 @@
+Tim Wachner hat geschrieben getan getutet:
+
+
+Seltsam.
+
+
+Achso.
+
+
+Fast geklappt.
+
+
+echo "WNBR, berufliches Schulzentrum,
+Baierweg: Usel-Schule" >> ~/locations
+
+
+Christentum ist bei mir auch irgendwo verloren gegangen.
+
+-to"WTF eigentlich 2000 posts in dtju?"wo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Volkert 'jan' Wallsch in ie.rfd.hcsarsrm.jcryjdkk

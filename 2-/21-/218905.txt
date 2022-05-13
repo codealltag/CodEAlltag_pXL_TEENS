@@ -1,0 +1,15 @@
+On Wed, 7 Jul 1999, Angelo Scherz <yfspfyc_iokalyz@spo.lk> wrote:
+
+[Cluster oft mit Alpha-Prozessoren]
+
+Nun ja, ich habe jedenfalls bisher noch von keinem P100-Cluster gehört.
+
+[Webserver]
+
+Yep, auf so einem Ding läuft auch der Webserver unserer LUG (RAM bin
+ich gerade nicht sicher, ist aber auf jeden Fall ein 486er).
+
+Viele Größe,
+     Oswald Ferge
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

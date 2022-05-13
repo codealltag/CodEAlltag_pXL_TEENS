@@ -1,0 +1,5 @@
+Marcel Halder <Uax.Xvvgp@cua.eco> schrieb in im Newsbeitrag:
+dojc9lbgje.rq.Rtg.Axpby@cnlikpxiank.otvsbi.zwt...
+
+Dunno. Client gibt's wohl mit Java, Server wäre wohl eher schwer zu
+implementieren, da das ganze ja doch recht stark in's System eingreift..

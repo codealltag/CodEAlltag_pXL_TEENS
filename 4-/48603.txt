@@ -1,0 +1,8 @@
+Einmal vorbeugen und Husten, bitte.
+
+tschau, Domenico
+-- 
+"übrigens schrottet NAB den Sigtrenner nur dann, wenn a) mit Content-Transfer-
+Encoding: 8bit gepostet wird und b) in der Nachricht Umlaute vorkommen.
+Die Behauptung, NAB könne ohne Hilfe von außen keinen korrekten Sigtrenner
+herstellen, ist jedenfalls unwahr."	-Luciano Jablonski in dsnu

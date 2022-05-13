@@ -1,0 +1,29 @@
+Am Wed, 22. 02. 22 sendete Pierre Eisfeldt folgende Botschaft:
+
+
+Offizell ist 1.13, zumindestens auf gsc.ugs.eww
+
+Und die sagen:
+
+#v+
+* An interim GNU tar alpha had new --bzip2 and --ending-file options,
+  but they have been removed to maintain compatibility with paxutils.
+  Please try --use=bzip2 instead of --bzip2.
+#v-
+
+
+Achja:
+
+#v+
+felix: /usr/src$tar --help | grep bzip
+  -y, --bzip2, --bunzip2             filter the archive through bzip2
+#v-
+
+;)
+
+Tschüs
+  Lothar
+-- 
+Die Weisheiten des Klaas Jup: #3
+
+Gl�sserregale sind zu diesem Zeitpunkt auch nicht sicherer.

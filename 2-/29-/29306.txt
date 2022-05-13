@@ -1,0 +1,6 @@
+Mit Turboheulader und Common-Rail-Bierinjektor.
+mfg, 
+	Hilmar
+-- 
+BOFH excuse #427:
+network down, IP packets delivered via UPS

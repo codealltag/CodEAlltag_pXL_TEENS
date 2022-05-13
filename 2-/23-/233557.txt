@@ -1,0 +1,7 @@
+Inzwischen hat ein Kumpel von mir dafür BTW einen Patch geschrieben.
+Falls jemand das Problem korrigiert haben möchte...
+
+Viele Größe,
+     Wilfried Klingeisen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

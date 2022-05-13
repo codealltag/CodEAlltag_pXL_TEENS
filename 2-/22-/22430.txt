@@ -1,0 +1,7 @@
+Nein, der Monitor hat dort kein Loch.
+
+mfg, 
+	Manfred
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

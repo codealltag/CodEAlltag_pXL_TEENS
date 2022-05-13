@@ -1,0 +1,6 @@
+Was macht ihr denn im ersten Semester? Wir machen funktionale
+Programmierung mit Janski, da bringen einem Perl-Kenntnisse wohl
+herzlich wenig.
+-- 
+Life without industry is guilt, and industry without art is brutality.
+[Claudio Cseh]

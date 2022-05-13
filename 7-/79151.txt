@@ -1,0 +1,18 @@
+Danke. soweit war ich inzwischen auch schon, nur mein Porblem liegt
+offensichtlich in der Verbindung zum Server.
+
+--------------[ das bringt er in der Konsole ]---------------
+Reading startup file /zqde/dwlppr/.slrnrc.
+Using newsrc file /zqde/dwlppr/.dbrcydu for server news.
+Connecting to host news ...news: Unknown host.
+slrn fatal error:
+Failed to initialize server.
+--------------------------------------
+Also das er nicht mit dem Server Femerling. kommunizieren kann ist klar nur
+wo stell ich das ein das isar.izq.dut.hg verwendet wird. in der
+~/.slrnrc ist eigentlich alles korrekt eingetragen.
+
+Enr 'leicht verzweifelt' ico
+-- 
+Signatur? 
+N, heut nicht...

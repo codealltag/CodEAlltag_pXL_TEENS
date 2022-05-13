@@ -1,0 +1,16 @@
+Hanspeter Zönnchen schrieb zum Thema "Re: Schweizer Kaese!!":
+
+[fdisk]
+
+Der primäre Zweck von ihm, ist Partitionen zu löschen und dann neue zu  
+erstellen. Und wenn es eben seine eigene Partition löscht...
+
+
+Geht das unter Linux? Das wollte ich nämlich schon immer mal :-)
+
+Olivier Klobendanz
+
+-- 
+Vernsehen erblödet!
+                                              E-Mail: xcfgtt.pukv@qkh.hn
+---> Offizieller Kämpfer wider Denis Danners des Ordens von dtj <---

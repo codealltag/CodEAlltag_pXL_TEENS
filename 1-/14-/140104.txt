@@ -1,0 +1,17 @@
+Oliver Wallrafen schrieb am 16. November 2000 um 18:31 Uhr folgendes:
+[...]
+
+Da hatten wir auch mal eine nette Doppelstunde zu - wir sollten für
+verschiedene Sortierverfahren die O-Funktion ermitteln; erst mussten
+wir zwei Variablen einfügen, die bei jeder Zuweisung bzw. jedem
+Vergleich inkrementiert wurden und aus den Ergebnissen bei verschieden
+großen Feldern eine Gesetzmäßigkeit ermitteln. Später sollten wir dann
+versuchen, die Formel direkt aus dem Algorithmus abzuleiten und erst
+danach experimentell zu überprüfen. War sogar halbwegs interessant,
+hat die Mehrheit allerdings davon überzeugt, zum Ende des Halbjahres
+abzuwählen, wodurch der Kurs einging.
+
+Viele Größe,
+     Bernhard Wackertapp
+-- 
+All true wisdom is found in signature files.

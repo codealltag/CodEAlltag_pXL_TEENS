@@ -1,0 +1,12 @@
+Und? Ist doch ok. Wenn du nicht mehr benötigten Cacheinhalt
+überschreibt, dann wirst du nicht allzuviel mitbekommen, wenn du nur
+die Speicherauslastung betrachtest.
+
+
+N, perfekt normal.
+
+Gustav
+-- 
+Ketelers Discovery:
+A couple of months in the laboratory can frequently save a
+couple of hours in the library.

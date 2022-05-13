@@ -1,0 +1,6 @@
+Gravity hat's auch falsch angezeigt, aber es war der richtige Code 
+(0xA4).
+
+
+Hexadezimalcodierung des Zeichens. 0x80 steht für 128, 0xA4 für 164. 
+Windows hat den Euro auf 128, ISO-8859-15 auf 164.

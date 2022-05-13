@@ -1,0 +1,11 @@
+Ja, geht aber ins Blut über.
+
+
+Welchen Editor benutzt du eigentlich zusammen mit slrn?
+
+Ottmar
+
+-- 
+Floorcraft ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

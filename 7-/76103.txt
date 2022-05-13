@@ -1,0 +1,8 @@
+Ja, wird wohl besser so sein. ;-)
+
+Harm
+
+-- 
+  "The ZCMR Information Store service depends on the ZooPalast
+   Amaryllis Directory service which failed to start because of the
+   following error: The operation completed successfully."

@@ -1,0 +1,11 @@
+Perlbasierter (1) Sigshuffler, der wohl mit anständigem Manual-Page
+durchlesen und ein bisschen Kenntnissen zu einigen Sig-Spielereien
+taugt.
+
+(1) Ja, ich glaube so war es.
+
+Berend
+
+-- 
+  "Bitte warten Sie während Setup abgebrochen wird...
+   Dies kann mehrere Minuten dauern."

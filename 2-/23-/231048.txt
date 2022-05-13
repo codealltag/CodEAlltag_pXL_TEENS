@@ -1,0 +1,9 @@
+Sorry, ich verstehe das immer noch nicht. Welchen Vorteil bringt es,
+wenn man einen Hardwarecache hat, der unangetastet bleibt, aber
+swappen muß, gegenüber einem Verzicht auf einen riesigen Hardwarecache
+und einem entsprechend größeren Hauptspeicher?
+
+Viele Größe,
+     Olivier Creß
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

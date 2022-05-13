@@ -1,0 +1,26 @@
+Aus Ruecksicht auf den nicht-physiklernenden Teil der NG hab ich den
+  weggelassen, aber wenn du ihn haben moechtest:
+
+[...]
+b1) Begruende in wenigen Saetzen den Vorgang!
+b2) Berechne den Radius r1 bei dem der Vorgang einsetzt!
+b3) Berechne die Bahngeschwindigkeit v1, die der Hamster dann hat!
+b4) Skizziere die Bahn, auf der Knoedel vom Ort Pex des Abgleitens aus den
+  Plattenteller relativ zur Konsole verlaesst! Nimm dabei vereinfachend an,
+  dass er sich von diesem Zeitpunkt an voellig reibungsfrei bewegt!
+Anmerkung am Rande:"99 Luftballons" ist auf einer Langspielplatte mit 33 U/min.
+
+2) Die Erde umkreist die Sonne naeherungsweise in einer Kreisbahn mit
+   r = 1,496 * 10^8 km. Dafuer benoetigt sie 365,26 Tage. Bestimme aus diesen
+   Daten die Masse der Sonne!
+   Anmerkung: Die Gravitationskonstante f betraegt 6,67 * 10^-11 m/kg sec
+
+3) Vergleiche die Geschwindigkeit eines Planeten im sonnenfernsten und sonnen-
+   naechsten Punkt und erklaere dieses Verhalten mit dem geeigneten Keplerschen
+   Gesetz! Fertige zur Unterstuetzung Deiner ausfuehrlichen Erlaeuterungen
+   auch eine geeignete Skizze an!
+
+-- 
+Leo
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

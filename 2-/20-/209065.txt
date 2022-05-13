@@ -1,0 +1,15 @@
+Möglich. Dürfte aber schwierig werden, damit zu experimentieren. Wir hatten
+gerade mal zwei C3PO-Moleküle, und sie sind nach kurzer Zeit wieder
+verschwunden - wieder ein Beweis für die Instabilität der Verbindung[1]. Um
+den Zerfall der Moleküle zu verhindern oder zumindest hinauszuzögern, damit
+wir sie genauer untersuchen können, sollten wir dtju auf -200 Grad abkühlen
+und luftleer pumpen :-)
+
+[1] Ach ja: Konjugierte Doppelbindungen gibt's auch nicht und damit keine
+Stabilisierung durch Mesomerie :-)
+
+-- 
+    Diese atemberaubende Passage moderner Prosa
+                verdanken Sie:
+             Vinzenz Philippe. Dreschers
+   * ICQ 74681060 * Woekjok@xuneevcbqvd.ic *

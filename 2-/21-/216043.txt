@@ -1,0 +1,8 @@
+Linux ist sehr gut dokumentiert - wer gerne wissen möchte, was er da
+eigentlich tut, kann es jederzeit herausfinden. CGPT ist in vielen
+Belangen einfach eine Black Box.
+
+Viele Größe,
+     Norbert Timmsen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,28 @@
+Kann man auch nicht, entweder es hängt links, rechts (bei denen die Höhe 
+automatisch angepasst wird), oben, unten (bei denen die Breite 
+automatisch angepasst wird) oder es fällt eben den Rest aus (beide 
+Achsen werden angepasst).
+
+
+Man muß NT neu booten um das zu testen, da hab ich jetzt eigentlich 
+keinen Bock drauf ;-)
+
+
+Grmpf, na gut, ich werden neu booten... please stand by...
+
+Also gut, normale Windows Dialoge, wie man sie in Ressource-Skripten 
+ablegen kann, werden wie erwartet korrekt hochskaliert. Der 
+Konfigurations-Dialog von topmen, pixelgenau erstellt, sieht völlig korrekt 
+aus, nur halt ziemlich groß.
+Delphi ist eine etwas andere Sache, da ja teilweise an Windows 
+vorbeiprogrammiert wird. Buttons und alle Standardcontrols werden korrekt 
+vergrößert und neu positioniert. Komponenten, die nicht von Anef stammen, 
+wie z.B. die Gitterfeldkomponenten, ändern ihre Schriftgröße aber nicht 
+ihre Gesamtgröße, ihre Position ist trotzdem immer korrekt. Außerdem gibt 
+es Probleme mit der Größe des Hauptfensters, in vielen Fällen wird es zu 
+klein und mit Schiebebalken angezeigt. Aber das kann man ja selbst in der 
+Größe verändern. 
+Einige Programme funktionierten aber auch hier völlig korrekt.
+
+
+Darauf können wir uns einigen ;-)))

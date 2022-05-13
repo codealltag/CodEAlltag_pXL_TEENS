@@ -1,0 +1,9 @@
+Mein Gnus macht beide Male nach dem "html" Schluss mit Highlighting,
+also auch mit Erkennung.
+
+
+*PATSCH* "umbrochenen" heisst das.
+
+Justin
+-- 
+Der Hauptmann zog seinen Säbel und schoß den Angreifer nieder.

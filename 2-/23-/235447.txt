@@ -1,0 +1,47 @@
+Bugs, die etwa dafür sorgen, daß jeder, der die IP kennt, den Rechner
+einfrieren lassen kann, können sich bei jedem OS einschleichen. Solche
+Sachen habe ich aber lieber innerhalb von zwei Tagen beseitigt, als
+ein halbes Jahr auf das nächste SP zu warten.
+
+
+Sagt mir so nichts. Ich werd' mir vielleicht mal die Seite ansehen.
+
+
+Sag' ich ja. Sandkastenspielchen. Können bis zu einem gewissen Grade
+sogar noch amüsant sein ;)
+
+
+Na ja, gestern auf dem Linux-Meeting hat einer vorgeführt, wie er aus
+den Log-Files seines Mailservers mit einer handvoll UNIX-Standard-
+tools, Pipes und Gnuplot automatisiert ziemlich nette Statistiken
+erstellen kann. Unter Windows müßte man da wohl mit einer Programmier-
+sprache ran und wesentlich mehr selbst machen (es sei denn, man findet
+zufällig ein Programm, das schon genau das macht, was man will).
+
+
+Da Du unter Linux viel selbst basteln kannst, heißt nicht, daß Du das
+immer mußt. Viele Leute stellen ihre Skripte ins Netz oder verschicken
+sie auf Anfrage in den NGs per Mail. Außerdem kann ich als Schüler für
+meine Nachmittage sicherlich keine Facharbeiterlöhne rechnen.
+
+
+WINE ist noch Alpha, richtig. Aber genau so, wie man mit
+Windowsprogrammen Probleme unter Linux hat, funktionieren die meisten
+Portierungen von Linux-Programmen auf Windows nicht so gut wie im
+Original (was zT an fehlenden Features von Windows liegt). Die beste
+Lösung ist für mich im Moment, beide Betriebssysteme auf der Platte zu
+haben.
+
+
+Mindestens so schnell wie Wellencut auf meinem momentanen PC, besser so
+schnell wie Schlierf im Moment, am besten noch schneller.
+
+
+Ich werde den Teufel tun und mir im Moment RAM kaufen. Mal sehen, wie
+sich die Preise bis Februar entwickeln, vielleicht langt's ja sogar
+für einen neuen PC...
+
+Viele Größe,
+     Adrian Vader
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,14 @@
+Das sei schon installiert, sagt es.
+
+
+Damit ich das tue. Naja, klappt dennoch nicht. Nun startet es gar
+nicht mehr, wenn ich die DLLs kopieren und es mit dieser Option
+starte.
+
+Naja, hier läuft ja auch noch ein Rechner mit Windows 2000 drauf. :-)
+
+Nicolas
+
+-- 
+"Der Mensch beherrscht die Natur, bevor er gelernt hat, sich selbst zu
+ beherrschen." (Ivano Nimsch)

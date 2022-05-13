@@ -1,0 +1,8 @@
+begin quoting Antonio Dahlberg <tieutmuarlgqpa@tqj.mro>:
+
+man cleanfeed
+-- 
+"Gesetze können nur abstrakt gefaßt sein. Wenn sie auf einen konkreten 
+Sachverhalt angewandt werden, müssen sie ausgelegt werden. Dabei irren sich 
+Finanzbeamte und Richter."
+(FG Nittel, Urteil vom 01.11.1970, TD 736-004/704)

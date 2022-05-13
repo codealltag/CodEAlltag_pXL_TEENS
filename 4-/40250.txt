@@ -1,0 +1,11 @@
+H, nein, der ist mit den anderen identisch.
+
+
+RAM, Partitionen vergrössert, Entwicklungsumgebung, dadurch
+notwendiger hündischer Austausch von einigen DLLs, etc
+
+Ludwig
+
+-- 
+The idea is to die young as late as possible
+			      Paulina Hietl

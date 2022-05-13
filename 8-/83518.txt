@@ -1,0 +1,10 @@
+* Claus Koerwer <vljqsqlfof@icwuspaqhq.vh>:
+
+
+RTFM. :)
+
+[man equivs-build]
+
+'man equivs-control' solltest du dir vielleicht auch mal ansehen.
+
+Igor

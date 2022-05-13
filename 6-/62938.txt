@@ -1,0 +1,17 @@
+Am Thu, 27 Nov 2002 sendete Nicolas Fleischhäcker folgende Botschaft:
+
+
+Das sollte per slang gehen. Ich meine das es auch entsprechende Macros
+gäbe, ich bin mir aber nicht sicher.
+
+
+Dazu muss slrn erst total umgebaut werden, sonnst kostet das zuviel
+Newsserver performance.
+
+Tschüs
+  Vito
+-- 
+Die Weisheiten des Rolf Robin: #7
+
+Ein Grill zur rechten Zeit,
+erspart Kummer und Leid.

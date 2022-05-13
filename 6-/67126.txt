@@ -1,0 +1,8 @@
+Wieso? Geschachtelte Schleifen. Und von 10.000 Subprozeduren, die
+einfach sequentiell und untereinander iterativ aufgerufen werden halte
+ich nichts.
+
+
+Doch. Kommt es immer.
+
+Jörg

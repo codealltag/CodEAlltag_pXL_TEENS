@@ -1,0 +1,17 @@
+Am 9386. Tag meines Lebens schrieb Rolf Nickel:
+
+
+Das ist momentan ein ganz klein wenig weit. [1]
+
+
+So schlank wie ich bin bricht man mich eher direkt durch, als dass man
+einen Knick in mich bekommt. ;-/
+
+Fabrice
+
+Footnotes: 
+[1]  geschützte 550 km
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - UTT, 20. 12. 21

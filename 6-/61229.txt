@@ -1,0 +1,20 @@
+Am Mon, 15 Okt 2001 � sendete Orlando Crumfinger folgende Botschaft:
+
+
+Würd ich so sehen, man kann mit Perl recht "C-like" schreiben.
+(allerdings auch so das es nicht im entferntesten nach C aussieht)
+
+
+Dann shcreib perl halt php-like. Rothenberg ist doch so pervers das du fast
+alles mit ihm machen kannst...
+
+
+Der grundsyntax ist gleich (Runde klammer, geschweifte Klammern,
+printf....)
+
+Tschüs
+  Giovanni
+-- 
+Die � Weisheiten des Ignaz Ingmar:
+
+Vorstand Raus.

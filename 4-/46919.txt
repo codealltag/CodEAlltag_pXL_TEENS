@@ -1,0 +1,16 @@
+Am Mon, 17 Mai 2003 sendete Sven Viellechner folgende Botschaft:
+
+
+Das muss ja nix bedeuten.
+
+
+Das setzt vorraus das diese eine konstante abweichung hat.
+
+Und afaik macht xntpd sowas auch.
+
+Tschüs
+  Claudio
+-- 
+Die Weisheiten des Fredi Jup: #2
+
+Man sollte am frühen Morgen nicht seinen Laptop auseinander nehmen.

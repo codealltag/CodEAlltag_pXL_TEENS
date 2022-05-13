@@ -1,0 +1,4 @@
+Netzfolder auswählen, rechts klicken, dann müßte es da schon
+stehen. Sonst irgendwas im Explorer mit "Netzlaufwer verbinden".
+
+Oder auf der Shell mal net help eintippen.

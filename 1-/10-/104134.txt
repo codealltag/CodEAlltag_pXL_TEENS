@@ -1,0 +1,20 @@
+Das _blosse_ Vergleichen ja. nur ist es schonmal ein grundsätzlicher
+Unterschied, ob eine Software nach knappen 50 Tagen wegen eines
+interen Counters umkippt oder nicht, ausserdem hat ein Rechner, der
+nur 8 Stunden am Tag läuft nur ein Drittel der zeit, abzuschmieren
+gegenüber einem 24/7-Betriebsrechner.
+
+
+Das NT auf dem Schnittplatzrechner läuft auch halbe Tage stabil, auch
+mit der Software. aber nachmittags ists dann schonmal soweit, dass die
+Kiste sich per BSoD verabschiedet. und das darf auf einem
+Serverberiebssystem einfach nicht passieren.
+
+
+Aber alles nciht wirklich unter Last, oder? Für einen Client dürfte
+das Ding überdimensioniert sein.
+
+Felix
+-- 
+"Your american beer is like making love in a canoe -
+ fucking close to water" [Monty Python]

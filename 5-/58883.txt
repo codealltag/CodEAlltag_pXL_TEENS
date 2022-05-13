@@ -1,0 +1,13 @@
+Im Fell der Louise sprach Ulrike, H, Charly Schmidhäusler folgendes:
+
+
+Dann hättest du clever googlen können - Nein, ich kann das nicht.
+
+Du brauchst den TitelSpy für JCAZ (bei nicht-JCAZ: Keine Ahnung.) und 
+in der header.szaf etwa folgendes, angepasst halt:
+
+
+Oder so.
+
+-- 
+np: Pur - Seilt�nzertraum

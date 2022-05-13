@@ -1,0 +1,8 @@
+Glaubs mir, es *ist* recovery, wenn man nach 6 Stunden das routing
+wieder am Start hat, dann erstmal in dasr reinzusehen, und dann nochmal
+6 Stunden weiterzumachen... Und im puTTY will der Emacs nunmal nur
+s/w.
+
+Paul
+-- 
+     The three Rs of Microsoft support: Retry, Reboot, Reinstall.

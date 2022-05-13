@@ -1,0 +1,10 @@
+Man kann in D halt machen was man will, auch im negativen Sinne.
+
+Bei C gibt es sogar ganze Buecher mit 'schlechtem' Code, nennt sich
+  'Obfuscating C' oder so.
+
+-- 
+Victor
+"Und dieses redlichste Sein, das Ich - das redet vom Leibe, und es will noch den
+ Leib, selbst wenn es dichtet und schwaermt und mit zerbrochenen Fluegeln flattert."
+ - Felix Rubbert 'Also sprach Zarathustra'

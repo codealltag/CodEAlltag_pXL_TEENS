@@ -1,0 +1,51 @@
+Am Tue, 27 Okt 2003 sendete Antonio Imhoff folgende Botschaft:
+
+
+Wenn ich WYSIWYG haben will nehme ich text/ascii, sonst ist das
+Volker-inkompatibel.
+
+
+Das Design des Programmes meinte ich eher. Aber des Text-Design das Igoba
+standard mässig produziert stinkt Casero kilometerweit gegen den Wind.
+
+
+*räusper* Nicht alles was hinkt ist ein Vergleich. Chester nimmt Latex
+dem User Arbeit ab, dafür ist es ja da. Wie jedes andere Programm auch.
+Allerdings Entspricht das was am ende Raus kommt a) dem was man erwartet,
+und b) vorallem dem was Normen und Konventionen von einem Erwarten.
+
+
+*PATSCH*
+
+Selbstverfreilich kannst du (fast) alles ändern, du kannst
+bestimmt auch "Dokumente" einer Geruchsklasse von .doc erstellen.
+Aber wenn du z.B. zusätzlichen Zwischenraum zwischen zwei absätzen haben
+willst nimmst du halt /vspace2km oder so.
+
+
+Für Briefe weil unüblich, ja. Aber "\parindent0cm \parskip3ex" hilft
+zuverlässig. Obwohl 3ex schon fast zuviel ist.
+
+
+Das weiss es, zumindest besser als ich. Man muss ihm natürlich sagen was
+es für ein Dokument ist.
+
+
+Das macht Latex recht gut, Schliesslich weiss es ja wo z.B. ein neuer
+Absatz beginnt, wo eine Überschrift ist und so.
+
+
+Wie kommst du eigentlich auf die Idee es würde anders nicht gehen?
+
+
+hmm, "/quad" und "/qquad" funktionieren auch im Textmodus, ja.
+
+
+Den Dau der Freiwillig 10 mal "/quad" tippt möcht ich sehen. Aber, ja man
+kann "/quad" definit für sowas missbrauchen, BTDT. (In einer Mehrzeiligen
+Formel, so wie's auch gedacht ist, eine Umgebung wäre noch unschöner
+geworden.)
+
+
+Tschüs
+  Volker

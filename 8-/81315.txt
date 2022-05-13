@@ -1,0 +1,11 @@
+Letztens sah ich auf der O2-Seite doch tatsächlich 0.9.7.3. Etwas
+seltsam, wie ich fand.
+
+
+header_display_format 0 "%-3F:%4l[%4S] [%22r] %t %60s" schon probiert?
+Ich find's geil. :-)
+
+Hannes
+
+-- 
+Einheitssignatur.

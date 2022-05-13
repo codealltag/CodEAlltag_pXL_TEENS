@@ -1,0 +1,2 @@
+Kodierte Zeichen sollten einem nicht MIME-kompatiblen DTT nichts
+ausmachen - die Kodierung bleibt doch stehen.

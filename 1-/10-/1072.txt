@@ -1,0 +1,14 @@
+Am Do, 11 Nov 2005 sendete Burkhard Osthaus folgende Botschaft:
+
+
+Ich habe nur ersteres beibegebracht gekriegt, naja, eigentlich selbst das
+nicht wirklich. Dafuer aber komplexe Zahlen.
+
+
+Sogar recht einfach zu sehen, wenn man einsieht das es sinnmacht zu C
+noch den punkt oo hinzuzugfuegen, und mann dann dadrauf nee schöne
+Topologiekriegt, mit der man arbeiten kann. und man kriegt das Geraden
+wirklich Kreise durch oo sind.
+
+Tschüs
+  Dominik

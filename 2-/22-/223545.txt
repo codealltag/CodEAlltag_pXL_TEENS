@@ -1,0 +1,12 @@
+On 07. 06. 22, Ignaz Marschalck <elycavmvnn@qzypvjsicn.lo> wrote:
+
+[Suche nach passender Soundkarte]
+
+Habe ich zwischendurch auch überlegt und werde ich vielleicht sogar
+machen. Die neuen Kernels scheinen ja jetzt auch PCI-Soundkarten zu
+unterstützen, so daß die Auswahl zudem etwas größer wird.
+
+Viele Größe,
+     Theodor Maiwaldt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

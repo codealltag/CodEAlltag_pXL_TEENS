@@ -1,0 +1,9 @@
+* Tino Aengenheiser <seo@jheve.xia>:
+
+
+AFAIK gibt es sowas (und sollte mit ein wenig Perl auch recht einfach zu
+realisieren sein). Nein, ich weiß nicht mehr, wo ich das gesehen habe.
+
+Andree
+-- 
+np: -

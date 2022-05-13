@@ -1,0 +1,9 @@
+DivX probiert und nicht funktioniert. Jetzt will ich erstmal nicht.
+
+Uwe
+
+-- 
+StarOffice 4.0:
+ "Das Dokument wurde für den Drucker Amazonas Bubble-Jet BJ-200
+  formatiert. Der Drucker ist nicht vorhanden.
+  Soll der Standarddrucker Amazonas Bubble-Jet BJ-200 verwendet werden?"

@@ -1,0 +1,5 @@
+Sind was schönes.
+
+Werner
+-- 
+np: /bin/bash: ./xmms_np: No such file or directory

@@ -1,0 +1,16 @@
+Valerian Denzler schrieb am 31. Mai 1999 um 00:01 Uhr folgendes:
+
+
+Ist inzwischen nicht mehr gar so dringend, denn ich habe den Patch
+vorhin fertig bekommen. Deine bisherigen UTF-8-Postings habe ich aber
+wirklich gut brauchen können; auf diese Weise konnte ich das Feature
+auch außerhalb der "Laborbedingungen" meiner privaten Testgruppe
+ausprobieren.
+
+Viele Größe,
+     Valerian Bednarz
+-- 
+In einem Computerexpertenkreis die Worte: "ich bin Teege" so ganz
+nebenher gelassen aussprechen, lässt alle anderen Anwesenden sofort in
+unterwürfige Demutshaltung und staunende Bewunderung fallen.
+                                 -- "Willi Bürckel" <ioesm@kogaicr.ha>

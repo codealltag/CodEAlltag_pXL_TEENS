@@ -1,0 +1,5 @@
+Options -> Services -> Add -> File Transfer Protocoll (FTP) -> Enable FTP 
+Server.
+-- 
+ / _/ _` |
+ \__\__, |

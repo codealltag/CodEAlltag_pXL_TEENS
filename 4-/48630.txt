@@ -1,0 +1,17 @@
+Ich hab sie schon gelöscht, aber wie ich den Verfasser kenne, bekomme
+ich bestimmt noch heute wieder eine aus seiner Mailingliste. :-) Die
+schicke ich dir dann.
+
+Scheint in der Tat daran zu liegen, dass das HTML nicht wirklich
+eingebunden wird, sondern als Attachment mitgeschickt, inklusive
+komplexer Textformatierung, Hintergrundbild und all so ein Müll... Es
+ist jedenfalls eine HTML-Datei angehängt, die man natürlich im Browser
+öffnen lassen kann, aber das ist ja auf Dauer etwas umständlich. Brommler
+benutzt da einfacherweise gleich die Robovideo-Engine, um so etwas "inline"
+anzuzeigen.
+
+Hab auch mal eine Anfrage an den Support formuliert. Falls die sich für
+"unregistrierte" überhaupt die Mühe machen.
+
+
+urban

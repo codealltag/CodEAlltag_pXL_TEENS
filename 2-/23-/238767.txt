@@ -1,0 +1,11 @@
+Rechenleistung, RAM, Platte? Bei mir: P100, 32 MB, 3 Jahre alte IDE.
+
+Ach ja: 3 Sekunden Header lesen, dann aber ganze 7 Sekunden, bis alle
+7500 Postings durch mein Scorefile genudelt sind. Gewöhnlich zeige ich
+nur die ungelesenen an, was dann natürlich wesentlich schneller geht
+(gut eine Sekunde).
+
+Viele Größe,
+     Mario Overkamp
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,9 @@
+Tue ich.
+
+
+Wenn ich ein defeniertes Verhalten haben will, dann muss ich erstmal
+dafür sorgen, dass rm nur rm aufruft. Alles andere kann schiefgehen.
+
+Dominik
+-- 
+                   It's not a bug, it's tradition!

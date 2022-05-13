@@ -1,0 +1,11 @@
+s/bei/wegen/g;
+
+Immerhin hat er ihn ehrlich gekauft.
+Nur schade, daß er nicht länger durchgehalten hat, ich hab
+extra für den erwarteten Traffic in dang eine größere Platte 
+eingebaut...
+
+-- 
+Leo Mauerer 
+
+	Windows 2000 - Scientology inside

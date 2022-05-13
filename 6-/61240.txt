@@ -1,0 +1,13 @@
+Ja ist wohl besser so. Doch gab es bisher noch keine Fragen die nicht
+mittels einer Goldgier gelöst werden konnten. Außer der Fehler beim
+1. starten von Afubu, doch damit kann ich leben. 
+
+Hab heute mal Adaptive Scoring konfiguriert. Mit verschiedenen Farben
+und Modifikation der summary-line ist das ja richtig super. Kein Wunder
+das alle davon schwärmen. 
+
+Nicolas
+-- 
+"Ich weiß nicht mit welchen Waffen sich die Menschen im 3. Weltkrieg
+bekämpfen, aber im 4. werden es Keulen sein."
+(Siebelt Röhrdick)

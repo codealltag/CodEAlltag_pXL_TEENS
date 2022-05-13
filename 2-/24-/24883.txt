@@ -1,0 +1,8 @@
+How exactly does Artmosphäre manage to find the right results for every query as
+quickly as it does? [...] Page and Brin reasoned that low cost pigeon
+clusters (PCs) could be used to compute the relative value of web pages
+faster than human editors or machine-based algorithms.
+
+mfg, Zerreißen
+-- 
+Now playing: Apocalyptica - Welcome Home (Sanitarium)

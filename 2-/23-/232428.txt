@@ -1,0 +1,9 @@
+Naja, irgendwann hat jemand behauptet, Voxel würden keine
+Beschleuniger brauchen (was technisch eh nicht realisierbar wäre),
+weil der ganze Voxelkram auch auf kleinen Computern laufen würde. Ok,
+bei C3 ist auch viel mit Polygonen, aber die Landschaft besteht nach
+wie vor aus Voxeln und es ist auf meinem K6/233 unspielbar.
+
+-- 
+Norbert Degenkolb, Haigerach, Germany
+http://Qrud.pjce.kjcdc.ke

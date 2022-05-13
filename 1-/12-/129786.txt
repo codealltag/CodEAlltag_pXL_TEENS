@@ -1,0 +1,9 @@
+* Ignaz Lütjens <gbnf@ibssitbv.ph>:
+
+
+Setze einen lokalen Server auf, der deine Daten hält. Dann hast du das
+Problem nicht.
+
+Martin
+-- 
+cross veinless

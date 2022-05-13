@@ -1,0 +1,22 @@
+Gar nicht irrelevant. Wenn ich die Postings nicht sehen kann, kann ich
+damit auch nichts anstellen. Lesen z.B. geht dann nicht.
+
+
+Funktionert bei mir irgendwie nicht. Und dabei habe ich die 1.3.22.0.
+Wenn ich das versuche meldet er, dass er den lokalen NNTP-Server nicht
+starten kann.
+
+Klar, der andere Hamster hat den ja schon aufgemacht.
+
+
+Aha, jetzt weiß ich erstmal um was es überhaupt geht. 
+Nettes Programm, muss man zu zugeben.
+
+Wenn ich aber einfach mal so im Archiv blättern will, hilft mir das
+auch nicht.
+
+Bernhard
+
+-- 
+Die letzten Worte des KFZ-Mechanikers:
+"Lass mal die Hebebühne ein Stück runter!"

@@ -1,0 +1,16 @@
+Frerich Burkhard Oxenfarth meinte kundzutun:
+
+
+Nein, aber du brauchst dir nur einen Provider suchen, der BGP anbietet.
+
+Die dürften dichter gestreut sein als die, die dir ein /24 announcen.
+
+
+Hm... würde sagen doch. Weil du erstmal eins brauchst für BGP.
+Und mit nur einem /24 wirst du eher kein AS bekommen, schätze ich.
+man Knappe\ Ressource
+
+Giorgio
+-- 
+Dieser Artikel ging an folgende Newsgroups: wv.avya.azxzvb
+Er wurde am Freitag, dem 11. Juli im Jahre des Herrn 2001 verfaßt.

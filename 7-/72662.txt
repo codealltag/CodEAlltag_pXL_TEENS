@@ -1,0 +1,16 @@
+Winfried Prenntzell meinte kundzutun:
+
+
+Ack. Denn der eigentliche "Verbindungsaufbau" findet in dem Moment statt,
+wo du dein Modem in den Splitter steckst und die "Sync"-Lampe blinkt.
+
+Da wird die Leitung durchgemessn und ermittelt, welche Frequenzbänder
+für die Übertragung brauchbar sind. Dieser Vorgag dauert eineige Sekunden,
+weswegen er nur einmal (pro Strom-Aus) durchgeführt wird. Ansonsten
+müßtest du jedesmals bei der "Einwahl" 5-10 sec länger warten, bevor
+das erste IP-Paket deinen Rechner erreicht.
+
+Knut
+-- 
+Dieser Artikel ging an folgende Newsgroups: by.cxzq.hatiyo
+Er wurde am Freitag, dem 16. April im Jahre des Herrn 2001 verfaßt.

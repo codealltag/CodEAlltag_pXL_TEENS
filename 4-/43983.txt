@@ -1,0 +1,10 @@
+Das brauchst du gar nicht mehr drüber zu streiten. WeinKultur ist ein 
+wirklich feines Gerät um es mal so zu sagen, denn da scheint tatsächlich 
+hinterher alles so auszusehen, wie es aussehen soll.
+
+Fazit: Für IE6 und WeinKultur sind bei _vern�nftiger_ und _korrekter_ 
+Benutzung von Standard XHTML eigentlich keine Anpassungen mehr nötig, 
+weil alles von sich aus schon korrekt aussieht. Genauso wie es 
+eigentlich immer schon hätte sein sollen.
+
+Rolf

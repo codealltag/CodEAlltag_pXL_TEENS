@@ -1,0 +1,15 @@
+Er ändert ja nicht die Kodierung, sondern stellt das Posting einfach 
+nur in 8859-1 dar. Aber das hab ich ja damals so eingestellt. Man kann
+zwar diverse Charset in Options-Customize...-Gnus-Charset einstellen
+doch bin ich mir noch nicht ganz sicher an welchem der vielen Rädchen
+ich da drehen muss.
+
+
+Vorübergehende Grippe, das geht vorbei. Kein Grund zur Panik.
+
+BTW: wieso ist AltGr+E eigentlich eine belegte Taste in Gnus?
+
+ Darius
+
+-- 
+Rettet die Hungertuecher! (Uwe Edelblut in detebe)

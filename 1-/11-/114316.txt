@@ -1,0 +1,24 @@
+Am Thu, 08. 04. 22 sendete Ihno Eidens' folgende Botschaft:
+
+
+Wenn die mal nicht so pfimschich wären....
+
+
+Na jedem absturz. Mittlerweile wird USW jede Nacht neu gestartet, und
+die entsprechende suckrc bereitgehalten. ein Newsverlust von mehreren
+Monaten ist nicht schön.
+
+
+Wieso?
+
+
+Tja mein hauptfeed läuft via suck.
+
+
+Ein grep übers overview sollte bei dir sein. Den rest kannst du ja
+selber rausziehen.
+
+Tschüs
+  Jean-Claude
+-- 
+Notorisch Schreibfaul.

@@ -1,0 +1,9 @@
+Wie krieg ich das hin, dass hier das Now-Playing angezeigt wird, hm?
+
+Einen perl-wrapper für mpg123 schreiben, der die Ausgabe einerseits
+durchleitet, andererseits in .signature schreibt.
+Viel Spass, und lass deine Ergebnisse sehen!
+
+Ullrich
+-- 
+            0 and 1. Now what could be so hard about that?

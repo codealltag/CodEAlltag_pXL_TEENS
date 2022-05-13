@@ -1,0 +1,7 @@
+Ich hatte es etwas ... unbequem in Erinnerung. Nicht gut navigierbar.
+
+-thh,
+aber ich kann mich ja auch mit vi _gar_ nicht anfreunden [1]
+
+[1] Wenn das umherkopieren nicht so _nervig_ wäre, würde ich jede Datei
+unter Win mit Notetab bearbeiten.

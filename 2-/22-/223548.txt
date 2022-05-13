@@ -1,0 +1,41 @@
+On 06. 07. 21, Karsten Nordheimer <ifkyhchmnv@tuiqeqblhm.uj> wrote:
+[...]
+
+Der Kernel selbst wird einiges brauchen (auch wenn man einen schlanken
+kompiliert), die bash braucht rund 1 MB (wobei es da evtl. auch eine
+genügsamere Shell täte), telnet etwa 0.5 MB (wobei ich *wesentlich*
+lieber ssh einsetzen würde)... besonders viel Spielraum wird da nicht
+bleiben, bevor geswapped wird.
+
+[...]
+
+Yep; bisher habe ich es zwar nach Möglichkeit vermieden, da Spiele
+draufzumachen (weil ich sonst überhaupt nicht mehr an den Rechner
+komme ;), aber das kann sich dann ja ändern.
+
+[...]
+
+Cédric scheint mit seinem ATAPI ja auch ganz zufrieden zu sein und die
+Werte sind sicher in einer alten Ausgabe einer PC-Zeitschrift zu finden.
+
+[...]
+
+Ist halt die Frage, wie viel Platz man hat (deshalb bevorzuge ich auch
+Big Tower).
+
+
+Yep, so ähnlich mache ich das auch. Bisher hat es gereicht, eine
+einzige ZIP-Diskette für solche Zwecke ext2 zu formatieren - die
+anderen sind (zwecks Datenaustausch) noch alle FAT.
+
+[ZIP vs. HDD-Wechselrahmen]
+
+<gabriel> Aber die kleinen Dinger verliert man doch ständig, und wenn
+man drauftritt, sind sie kaputt. </gabriel> SCNR.
+
+[...]
+
+Viele Größe,
+     Ferdinand Nesgen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

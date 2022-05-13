@@ -1,0 +1,9 @@
+Ich weiss nicht, wieso er das so macht, aber meine Lösung sah bisher
+so aus:
+
+./configure && make EMACS=xemacs
+
+Jean-Claude
+-- 
+"Lt. Kuhne, scannen Sie das Schiff!"
+"300dpi, Sir?"

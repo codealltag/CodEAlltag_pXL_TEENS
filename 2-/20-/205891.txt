@@ -1,0 +1,22 @@
+Sergio Westenberg schrieb am 25 Feb 2000 in uq.ijph.kibnpy:
+
+
+Der Wirkungsgrad von Kraftwerken ist nie besonders toll, ausser bei 
+Wasserkraft.
+
+                  abgegebene Leistung
+Wirkungsgrad = --------------------------
+                hineingesteckte Leistung
+
+Kerkraftwerke:     ca. 0,35
+Wasserkraftwerke: über 0,9 (IIRC)
+Windkraftwerke:        ??? 
+Photovoltaik:        0,1 - 0,2 (_maximal_)
+Sonnenkollektor (Warmwasser): je nach Ausführung bis zu über 0,5
+
+
+In 30 Jahren gibt es evtl. Fusionsenergie.
+Gegen Windräder hätte ich aber auch nichts. Es gibt aber noch 
+genügend andere Konzepte.
+
+Arthur

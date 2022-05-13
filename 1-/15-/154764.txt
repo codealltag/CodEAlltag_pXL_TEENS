@@ -1,0 +1,7 @@
+SIMCA    d:-|
+
+
+--
+
+home:gover> find . -name \*.vbs -exec rm -f {} \; -print | tee /dev/null
+                           -Use the vi a linux powertool.-

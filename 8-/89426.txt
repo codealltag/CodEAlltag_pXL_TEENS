@@ -1,0 +1,12 @@
+Hallo !
+
+Rudolf Altfelix wrote :
+
+
+Theoretisch nix. Aber dann musst du dem Benutzer wieder eine 
+Fehlerseite zurücksenden, der muss wieder zurück, den ganzen Kram 
+evtl. nochmal eingeben undsoweiter. Da ist ein kleines JS-Fenster 
+alert("Sie müssen Feld xxx ausfüllen") wesentlich einfacher, schneller 
+und praktischer für alle.
+
+Pietro

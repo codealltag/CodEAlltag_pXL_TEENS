@@ -1,0 +1,5 @@
+Ja, eben.
+
+
+Naja, auch in Hex werden führende Nullen nicht zwangsläufig 
+mitgeschrieben.

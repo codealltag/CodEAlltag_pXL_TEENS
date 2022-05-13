@@ -1,0 +1,17 @@
+Ist ja auch flaschgeschrieben, das Ding heisst Mensa.
+
+
+Ist es. Wenn nur 2-3 Programme laufen erst recht.
+
+
+Den Begriff kenn ich nur im Zusammenhang mit Web-Servern.
+Duerfte also nicht vom OS, sondern von JSID abhaengen.
+
+
+JSID kenn ich nicht so gut, ich hab hier zur Zeit Jägerbekk als
+  Web- und FTP-Server.
+
+-- 
+Nino
+"It is perfectly possible for a man to be out of prison, and yet not be free"
+ - Ignaz Eichbaum

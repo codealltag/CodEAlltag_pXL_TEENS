@@ -1,0 +1,27 @@
+Die wenigsten; kaum ein vernünftiger Newsreader unterstützt das.
+
+
+HTML ist einfach für das Usenet ungeeignet. Es geht ja nicht darum,
+strukturierte Dokumente zu erstellen, für die man eine
+HyperTextMarkupLanguage bräuchte, sondern maximal um Schriftgrößen und
+Hervorhebungen wie z.B. Unterstreichungen. Wenn, dann also Rich Text.
+
+Aber dadurch wird der Umfang der einzelnen Postings deutlich größer. Die
+Frage ist, ob sich das lohnt. Und wenn man sich dafür entscheidet, dann
+doch bitte auch konsequent *nur* Rich Text verschicken, und nicht x
+verschiedene Varianten auf einmal (Nur-Text, HTML, Rich-Text, ...).
+
+Und: Das, was Outlook Express und Co. als HTML verkaufen, hat damit
+eigentlich wenig gemein. Durch die automatische Generierung werden unnötig
+viele Tags produziert, so daß die Postings *noch* größer werden.
+
+Deswegen (und nicht wegen Vergangenheitsduselei) ist HTML im Usenet
+unbeliebt.
+
+Gruß,
+Valerian
+-- 
+Valerian Blößer * ZDgcczlxuj@sel.ex * http://wapdpnw.hqgo.pqdow.fk/
+"Nun ja, Männer erjagen das Essen (zum Beispiel im Supermarkt), Frauen
+bereiten es zu. Scheint wohl ein gottgegebenes Prinzip zu sein. Ist auch
+besser für die Gesundheit." - Käsestübchen in of.vuh.hgicllxc.bsovaccq

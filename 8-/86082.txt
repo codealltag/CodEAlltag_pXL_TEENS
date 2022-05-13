@@ -1,0 +1,12 @@
+Und ich rede davon, dass die Kiste noch ne Ewigkeit Cachen kann, bevor
+Cacheinhalt weggeräumt werden muss. Ich habe hier noch RAM übrig, wenn
+ich Used/Buffers/Cache addiere.
+
+
+Wieso sollte ich auf ne langsame Platte auslagern, wenn ich noch
+massig Platz hab, um zu cachen? Wieso sollte ich ohne Not Pages
+anfassen, die da verdammt gut liegen bleiben können?
+
+Berthold
+-- 
+Ich brauche DAS nicht! [Walter]

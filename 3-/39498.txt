@@ -1,0 +1,5 @@
+Intro gibt's keins. Wenn Flash erkannt wurde, wird halt direkt die
+Flash-Version geladen mit o.g. Link zur Non-Flash-Version.
+
+
+severin

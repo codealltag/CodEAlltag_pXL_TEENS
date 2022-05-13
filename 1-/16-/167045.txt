@@ -1,0 +1,10 @@
+Stephan Ohly <fzapuoo.iivfj@rcn.qr> schrieb in im Newsbeitrag:
+02jrbi57m8afpomwjum0snw22ssxgyf5fe@4pq.hbg...
+
+Neuere Altstadteck SCSI Platten sollten das Problem nicht mehr haben, auch Server
+benötigen manchmal einen Reboot.
+
+
+Hmm, also auf 30000 Boots kommt man so schnell nicht. Beim Notebook sieht's
+dann wieder anders aus, genauso bei diesen Wannabe Stromspar BIOS
+Funktionen, die die HD ausschalten...

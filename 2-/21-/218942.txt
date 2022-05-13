@@ -1,0 +1,17 @@
+Am Wed, 10 Apr 2000 19:29:12 +0200 sendete Ingolf Kriegel
+folgende Botschaft:
+
+
+Im normalfalle (richtig angeschlossen(inkl. aller verbraucher), Testtaste
+regelmässig gedrückt), schaltet der FI innerhalb von 0,2 sek ba was für
+menschen im allgemeinen ungefährlich ist. 100% schutz kann er allerdings
+nicht bieten da es besonders unglückliche fehlerf�lle gibt die der
+FI-schutzschalter nicht erfasst, die sicherheit ist allerdings deutlich
+höher als nur mit LS-schalter (sicherungen) da diese nicht zum schutz
+von menschen ausgelegt sind.
+
+
+Ich bin halt rücksichtsvoll.
+
+Tschüs
+  Mike

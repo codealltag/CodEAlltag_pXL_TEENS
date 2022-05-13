@@ -1,0 +1,10 @@
+Wurde das bei Win95 online überprüft? Wäre mir neu. AFAIK folgen diese
+CD-Keys einem sehr primitiven Algorithmus, der sogar mal von einer
+PC-Zeitschrift aufgedeckt wurde, die dafür mächtig Ärger von Estrellitas bekam.
+
+Neue Win-Versionen führen zwar eine Online-Registrierung durch, aber
+Pflicht wird das wohl auch kaum sein - sonst wäre ja das Betriebssystem
+auf Nicht-Internet-Rechnern nicht installierbar.
+
+
+vincent

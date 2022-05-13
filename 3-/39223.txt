@@ -1,0 +1,5 @@
+Mein ISP zensiert nichts, mein Hamster der die Mails via POP3 abholt,
+überprüft die Server in den Received Headern mit 3 RBLs, wenn da was als
+Spamschleuder drin ist, wirds gelöscht.
+-- 
+np: O.E - Summer Turns To High

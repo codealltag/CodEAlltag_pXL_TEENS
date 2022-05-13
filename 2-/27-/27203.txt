@@ -1,0 +1,11 @@
+Am Tue, 21 Aug 2003 sendete Ernest Raphaël Deimler folgende Botschaft:
+
+
+rmgroup, $Prefix/etc/newsfeeds, und Cleanfeed exisiteren.
+
+Tschüs
+  Meinhard
+-- 
+Mein Vorschlag ist und bleibt: Swap auf die Ramdisk. Das könnte richtig Fett
+Speed bringen.
+[Gilbert Günderoth in <s7932m$zbr$2@hsv4.aif.gez-crbsyoial.ym>]

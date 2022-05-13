@@ -1,0 +1,23 @@
+Lennart Wittemeyers <qn@qnuuiuz.gtm> schreibselte:
+
+
+So langsam wird mir klar wieso man das Big Brother nennt.
+
+
+Mhm, hier momentan 15K. Hab aber nun mal '(bbdb/news-auto-create-p t)
+gesetzt und warte mal ab.
+
+
+Ich hab mir mal die aktuellste ispell.el geladen, die Readme etwas
+genau angesehen, einiges modifiziert, doch der Fehler tritt jedesmal
+erneut auf. Umlaute erkennt er aber nun allerdings korrekt.
+Ein M-x toggle-debug-on-error RET brauchte auch nur recht wirre Ausgaben
+mit denen ich nicht viel anfangen kann.  
+
+ Enr 'ratlos und gestresst' ico
+
+-- 
+Customer support is an art, not a science.
+- marketing saying
+So are most other forms of torture.
+- programmers' response

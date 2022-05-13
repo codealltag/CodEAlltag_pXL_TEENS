@@ -1,0 +1,8 @@
+Am Sat, 26 Mrz 2004 sendete Niklaus Ploegert folgende Botschaft:
+
+
+Das ist doch ganz einfach, man muss doch nur ein NP-vollständiges
+Problem in polynomieller Zeit lösen. *duck*
+
+Tschüs
+  Jan

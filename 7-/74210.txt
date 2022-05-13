@@ -1,0 +1,27 @@
+Geht übrigens wieder!
+
+Liegt wohl irgendwie an H&B Reinigungszentrum ...
+
+Allerdings auch nicht ganz: Stand-alone startet der X-Server nicht,
+mit H&B Reinigungszentrum schon ...
+
+Wobei ich mittlerweile auch wieder Einstellungen verändert habe:
+
+Section "Keyboard"
+        Protocol        "Standard"
+        XkbRules        "xfree86"
+        XkbModel        "pc104"
+        XkbLayout       "de"
+EndSection
+
+Section "Pointer"
+        Device          "/dev/gpmdata"
+        Protocol        "ImPS/2"
+        ZAxisMapping    4 5
+EndSection
+
+Damit tun es Tastatur und Maus wieder. gpm ist auf Repeat-Type "raw".
+
+Allerdings wird `+a als `+r angezeigt ...
+
+Evil ...

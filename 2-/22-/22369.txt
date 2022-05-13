@@ -1,0 +1,12 @@
+Im Juli schrubselte Winfried Ulf Frühbös folgendes:
+
+
+Kompressionsalgos? Also was ausser base64 sollten man denn da noch
+nehmen können? Aber dann wird es mit dem Auslesen wieder etwas
+schwierig... 
+
+Enr 'Jetzt mal mit X-Horoscope: Header' ico
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we 
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - Kezo, 28. 11. 21

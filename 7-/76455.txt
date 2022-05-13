@@ -1,0 +1,12 @@
+* Louis Elberskirch <oifnuka_od@dtxd.kvc>:
+
+
+acsyg@nfnxaz:~$ tqw --list-keys
+/euob/acsyg/.iegea/spaskgc.tds
+------------------------------
+pub  1024D/12345678 30. 05. 21 brain
+sub  2048g/87654321 30. 05. 21
+
+Bernhard
+-- 
+np: Green Day - Hitchin A Ride

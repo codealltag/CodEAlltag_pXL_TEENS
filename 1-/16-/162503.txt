@@ -1,0 +1,31 @@
+So was Aehnliches solltest du dich mal selbst fragen.
+
+
+Jedem das Seine - solange er nicht gegen die Konventionen verstoesst.
+Und das scheint mit JNF bedeutend schwieriger zu sein als mit anderen
+  Newsreadern  :-)
+
+
+Es gibt Programmiersprachen, die per Definition welche sind, und
+  Programmiersprachen, die man wirklich gebrauchen kann.
+VB gehoert AFAIK eher zu der ersteren Gruppe.
+
+
+D.h.: Seine Programme werden auf schnellen Rechnern benutzt.  :-)
+
+
+Das spricht fuer deinen Stil, hat aber doch nichts mit der Programmier-
+  sprache zu tun.
+
+
+Waehren das C-Programm schon fertig ist, muss das VB-Programm erstmal
+  seine DLLs laden...
+
+
+Etwas arg pauschalisiert.
+
+-- 
+Sebastian
+"The basic tool for the manipulation of reality is the manipulation of words.
+ If you can control the meaning of words, you can control the people who must
+ use the words."                                             - Ignaz Curth

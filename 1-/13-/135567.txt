@@ -1,0 +1,70 @@
+STATISTIK 20. 06. 21
+-=-=-=-=-=-=-=-=-=-=-=-
+
+TOP 10 POSTER 20. 06. 21 (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+ 1    2193   22,74%  Joachim Ferg
+ 2    1118   11,59%  Lise Nöller
+ 3    1113   11,54%  Charles Ullner
+ 4     928    9,62%  Henry Ottersbach
+ 5     811    8,41%  Hanspeter Unterlinner
+ 6     656    6,80%  Hélène Unselt
+ 7     535    5,55%  Claus Unselt
+ 8     406    4,21%  Holger Neidel
+ 9     298    3,09%  Tom Hilpert
+10     289    3,00%  Ulrich Overkott
+
+
+TOP 5 POSTER 2000 (in einem Monat)
+
+Pos.  Anz.   Monat     Name
+---------------------------------------------------------------------------
+ 1    2928   01/2000   Joachim Ferg
+ 2    2902   03/1999   Lise Nöller
+ 3    1991   07/1999   Joachim Ferg
+ 4    1983   04/1999   Charles Ullner
+ 5    1975   03/1999   Charles Ullner
+
+
+TOP 5 POSTER 1999 (Gesamt)
+
+Pos.   Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+ 1    97259   Charles Ullner            43       -1
+ 2    31009   Joachim Ferg       35       +3
+ 3     7738   Heidy Freudenschuss       23       -2
+ 4     7492   Lise Norde      22       +1
+ 5     3840   Hanspeter Unterlinner     18       +1
+
+
+TOP 5 DAUs 2000
+
+Pos.  Anz.   Msgs. Ratio   Monat    Name
+---------------------------------------------------------------------------
+ 1    401       2  200,50  05/1999  hpmvze@ghhmglw.lef
+ 2    200       1  200,00  05/1999  qqilg_qloym@wwmnblx.kov
+ 3    200       1  200,00  05/1999  wvogbp@wureiqn.zcl
+ 4    175       1  175,00  11/1999  ivan <zti@yhfgvh.mghytmw.dj.ag>
+ 5    158       1  158,00  05/1999  "Valerio Witthöfft" <djunakpp@txewdbf.ir>
+      158       1  158,00  08/1999  "Nico" <geoemojc@b-s-j.oic>
+
+
+TOP 5 MONATE
+
+Pos.  Anz.    Datum
+---------------------------------------------------------------------------
+ 1    20. 06. 21   März 1999
+ 2     9644   Januar 2000
+ 3     9076   Juli 1999
+ 4     9039   April 1999
+ 5     7765   Dezember 1999
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Achim Freischlager.
+(Darstellung angepasst von Charles Ullner)
+Basierend auf den Feeds von:
+rceuyupa.blxnl.ge         wqwb.nde.rjx.by           arex.w-mcjwja.zb  
+ixlm.qyb-iraszmrj.hs      mtbh.djl-pmqhgqgp.em      eewr.tyv-nrtdrtfoj.fi  
+nvehflkawx.olzaescfhh.xu

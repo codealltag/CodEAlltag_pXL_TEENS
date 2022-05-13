@@ -1,0 +1,13 @@
+Ups. Ich dachte der C64 haette einen CPU-Takt von 1 MHz gehabt.
+Ich bin mir jetzt aber nicht sicher ob das stimmt.
+
+
+Nein, aber irgendwie wollen die Daten ja auch verarbeitet werden.
+
+Beim C64 duerfte der Datendurchsatz (AFAIK) am ehesten durch
+  die Rechenleistung begrenzt sein.
+
+-- 
+Frank
+  Dadurch, daß man einen anderen ins Irrenhaus sperrt,
+  beweist man noch nicht seinen eigenen Verstand.

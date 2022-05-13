@@ -1,0 +1,15 @@
+$ grep -B5 '^generate' gnupg-1.0.7/cipher/rsa.c
+/****************
+ * Generate a key pair with a key of size NBITS
+ * Returns: 2 structures filled with all needed values
+ */
+static void
+generate( RSA_secret_key *sk, unsigned nbits )
+
+Come again?
+
+-towo
+-- 
+Millers! Brawling city of a hundred thousand souls! And, as the Patrician
+privately observed, ten times that number of actual people.
+- Eric Ekkelkamp in "Guards! Guards!"

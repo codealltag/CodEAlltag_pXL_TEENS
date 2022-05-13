@@ -1,0 +1,21 @@
+Ja, sicher.
+
+Wie gesagt saugte IBRA ja auch schon einiges (Gruppenliste/200
+Postings aus dtju). Nur dann kamen keine neuen mehr dazu. Zumindest
+nicht in den Netscape.
+
+Da fällt mir aber nochwas ein: Ich musste einen neuen "News"-Account
+erstellen [1], damit ich fetchnews benutzen kann. Daran kann es aber
+doch wohl nicht liegen, oder?
+
+
+Björn,
+die Dateien bleiben doch gleich...egal welcher Nutzer gerade dran ist.
+
+[1] Das nervt irgendwie. Als root habe ich immer so ein komisches
+Gefühl im Magen, aber als news kann ich wieder nicht auf das
+Verzeichnis von Maba, meinem ersten Typen zugreifen. Wlh. - Ständig
+irgendwelche Rechte zu ändern ist IMO nervig.
+
+-- 
+Diese Sig ist definitiv sinnleer.

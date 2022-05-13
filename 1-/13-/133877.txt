@@ -1,0 +1,10 @@
+Zumindest NAV in den letzten drei Versionen prüft AFAIK nur das erste  
+Archiv, sich darin befindliche Archive werden erst beim entpacken  
+geprüft.
+
+Hans Oberascher
+
+-- 
+"Da bin ich dir direkt neidisch."
+(Schatzi zu meinen zehn Punkten in der Matheabfrage)
+---> Offizieller Kämpfer wider Reinhold Volkholz des Ordens von dtju <---

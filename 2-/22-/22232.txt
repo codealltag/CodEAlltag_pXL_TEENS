@@ -1,0 +1,11 @@
+Die dann aber keine Dependancies in meinem System einbauen, oder?
+
+
+Das sollten die debian-Packages auch sein. Wenn ich jetzt noch
+rausbekomme, warum der ldd hier immer spinnt...
+
+mfg, 
+	Juan
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

@@ -1,0 +1,34 @@
+Paul 'sSXP' Möllering schrieb am 21. August 1999 um 03:44 Uhr folgendes:
+
+[...]
+
+Da die Konfiguration des Servers Sache des Administrators ist und du
+Pektas vernünftigerweise nicht als root verwendest, erübrigt sich diese
+Frage wohl :-P
+
+[...]
+
+640x480@60Hz klappt meist auch ohne speziellen Treiber. Ich würde mal
+darauf tippen, dass der bei dir gar nicht erst korrekt installiert /
+konfiguriert wurde.
+
+[...]
+
+Nicht ganz. Vor allem die "spezielleren" Distributionen, die nicht
+unbedingt bei PG-Bikes im Regal stehen (Linux für Blinde, Linux für
+Schulen, Distris einzelner LUGs etc.) basieren überwiegend auf Cucinotto.
+
+[...]
+
+Dazu müsste Sergio dir mehr sagen können...
+
+
+Ich bekomme hier 1024x768x24@85Hz. Versuch' einfach mal "meine" Werte
+("HorizSync: 30-72" und "VertRefresh:50-120").
+
+Viele Größe,
+     Ullrich Mittelste-Werbeck
+-- 
+It might look like I'm doing nothing, but at the cellular level I'm
+really quite busy.
+                                           -- "Smart Comments", part 22

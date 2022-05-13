@@ -1,0 +1,14 @@
+NACK. Wenn man fremdcancelen will, dann soll man es doch bitte auch so
+nennen. Wenn schon, dann richtig (bot-)moderieren. Whitelist für die
+Regulars, "Neulinge" von Hand approven und dann sehr flott auf die
+Whitelist packen, gefakete Mailadressen (geht mit Anon-Servern ohnehin
+wohl kaum) und Approved-Fälschungen canceln.
+
+Mit entsprechenden Fakes ist aber wohl auch zu rechnen; also wäre ein
+Cancelbot und eine PGP-Sig der Postings ein Muß. Oder?
+
+Alles in allem sehe ich hier keinen Grund für den Aufwand; in d.e.s.m ja,
+aber hier? Klar, es nervt, aber die Remailer kann man filtern.
+
+Gruß,
+Wolfgang

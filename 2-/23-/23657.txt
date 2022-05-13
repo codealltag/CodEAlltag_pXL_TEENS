@@ -1,0 +1,11 @@
+Und so sprach Christian Just:
+
+
+Abartige Vorlieben hast Du da. ;)
+
+Gruss,
+Andreas, mag keine RUF-MICH-AN!!!-Sendungen. ;)
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.m

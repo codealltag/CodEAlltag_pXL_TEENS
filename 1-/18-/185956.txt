@@ -1,0 +1,28 @@
+Fredi Kerschensteiner schrieb am 24. Mai 2000 um 15:01 Uhr folgendes:
+
+
+Im Textmodus an das System zu kommen, sollte trotzdem kein Problem
+sein. Auch wenn beim grafischen Login aufgrund falscher Einstellungen
+nichts zu erkennen ist, sollte man mit Strg+Alt+F{1-6} auf eine der
+virtuellen Konsolen kommen (wenn nicht, hat man ein ernsthaftes
+Problem und muss wohl oder Übel von Diskette / CD-ROM booten).
+
+Anyway: Der automatisch zu bootende Runlevel wird in /etc/inittab
+festgelegt. Bei mir sieht der entsprechende Eintrag zB so aus:
+
+# default runlevel
+id:3:initdefault:
+
+Falls das System eine MMKB ist, die 3 einfach zu einer 2 machen und du
+bist den grafischen Login erst einmal los (ich würde auf jeden Fall in
+rc.config CHECK_INITTAB auf "no" setzen, damit mangas dir nicht
+ständig die inittab umschreibt). Andere Distributionen haben die
+Runlevels zT anders besetzt; das sollte allerdings in der Datei selbst
+dokumentiert sein.
+
+Viele Größe,
+     Igor Lehrenkrauß
+-- 
+"Beware of bugs in the above code; I have only proved it correct, not
+tried it."
+                                                        -- Niels Gnoss

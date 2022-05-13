@@ -1,0 +1,21 @@
+Am Fri, 13 Jun 2003 sendete Bernhard Charly Ophüls folgende Botschaft:
+
+
+NW, WN.
+
+
+Das hab ich IIRC aus nem Silke-src-rpm extraiert. Aber die sind auch
+extra schon in handliche (<100MB) Päckchen aufgeteilt. ;)
+
+
+Die Hat Papa auf CD, Lukas sei dank. ;)
+
+
+Es geht, mit der Howto ist das Grundsystem recht einfach gebaut.
+
+
+Huh? Irgendwas muss ich flachs machen. Ich Ärger mich ständig das ich
+nichts mehr zum Rumschrauben finde.
+
+Tschüs
+  Igor

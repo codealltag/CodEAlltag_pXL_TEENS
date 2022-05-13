@@ -1,0 +1,9 @@
+Sandro Isenreich meinte kundzutun:
+
+
+s/\([A-Z]. \(.\).\).\(.\).\{3\}\(.\{3\}\(.\).\{3\}\)..\(.\)\6\(\(.\).\{2\}\).\(.\)./\1\9\3\2\4br\8ch\7B\8\5/
+
+Alfons
+-- 
+Dieser Artikel ging an folgende Newsgroups: ym.plwh.wahwfm
+Er wurde am Donnerstag, dem 20. Dezember im Jahre des Herrn 2001 verfaßt.

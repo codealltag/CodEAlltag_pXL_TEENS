@@ -1,0 +1,11 @@
+* Rudi Jungbeck <lhikc@njarj-yjogxe.qk>:
+
+
+Sigs werden ignoriert.
+
+BTW: Wie handhaben die das eigentlich? Zählt "--" als Sigtrenner dazu?
+Sonst könnten METZEN-User, die viel posten, arge Probleme bekommen ...
+
+Benno
+-- 
+cross veinless

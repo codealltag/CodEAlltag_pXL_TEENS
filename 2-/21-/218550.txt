@@ -1,0 +1,14 @@
+Eine Portierung auf ein anderes Betriebssystem ist IMO auch noch etwas
+anderes als auf eine andere Plattform (zumal, wenn auf beiden der
+gleiche Compiler benutzt werden kann). Ich habe selten Probleme damit,
+Programme zu compilieren und ich denke nicht, daß das wesentlich
+anders wäre, wenn ich eine Alpha hätte.
+
+
+<Ironie> Das sieht man ja schon daran, daß die Kumeth-CGIs (auf
+Alphas unter Figura Jalousien gerendert) absolut nichts taugten. </Ironie>
+
+Viele Größe,
+     Bernhard Oehmcke
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

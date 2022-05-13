@@ -1,0 +1,10 @@
+Mein gnus ist so schnell, das macht Endlosdiskussionen in fünf
+Sekunden. Zumindest dann, wenn's an M-x doctor gepiped wird.
+
+
+Ach?
+
+-towo
+-- 
+Alle, die ein OS gebaut haben, das nicht Unix war, haben Unix ge-
+nommen, und alles weggeschmissen, was sie nicht verstanden haben.

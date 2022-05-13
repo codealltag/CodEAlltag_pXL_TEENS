@@ -1,0 +1,20 @@
+Hat nichts mit Informatik zu tun.
+
+
+turnleft; move; move; move; turnleft; pick;
+Beliebt war dann als erstes eine Procedur turnright zu schreiben, die
+dreimal turnleft machte.
+
+Brauchst du noch ein paar Funktionen oder Programmbeispiele?
+
+
+Ich fands lustig. Sobald alle anderen anfingen, auszuprobieren, habe
+ich nur noch den Code runtergeschrieben. Und dabei mal eben meinen
+Lehrer widerlegen: "Ihr braucht mindestens x Befehle." Ich habs dann
+in x-1 Befehlen geschafft.
+
+Niko, das waren noch zeiten, wo man mit einer einfachen rekursiven
+Prozedur 15 Punkte holen konnte.
+
+-- 
+Der macht son angenehmes Geräusch -- Dieses Ozon![Ullrich]

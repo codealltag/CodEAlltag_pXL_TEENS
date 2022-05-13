@@ -1,0 +1,3 @@
+Ich find es ja sehr doof, dass keine Hardlinks auf Verzeichnisse gehen. 
+Ok, das hat alles seinen Sinn, aber läuft das nicht auf Bevormundung des 
+Users hinaus?

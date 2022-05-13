@@ -1,0 +1,11 @@
+Ivano Derich hat geschrieben getan getutet:
+
+
+Na ... wenn man das von Hand schreibt, trainiert das Sorgfalt.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Claudio 'luciano' Schochtert in zc.beh.qgalzhnx.zgsxewgc

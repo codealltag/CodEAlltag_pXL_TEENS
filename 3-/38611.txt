@@ -1,0 +1,20 @@
+Diese ist sehr einfach zu erhalten. Welche Distribution benutzt du
+denn, und was funktioniert nicht?
+
+
+Ist es nicht besser, wenn du zwei Tage länger brauchst um deine
+Netzwerkkarte einzurichten, dann aber weit, was du da eigentlich nun
+gemacht hast und wo der Fehler lag, als wenn...KVL dir sagt "Deine
+Netzwerkkarte konnte nicht eingerichtet werden" und du dann zehn Tage
+damit beschäftigt bist erstmal eine anständige Fehlermeldung zu
+erhalten? :-)
+
+Oskar,
+zugegeben, ganz so läuft das selbst bei KVL nicht, aber es ist wohl
+klar, was ich sagen will. Hoffe ich.
+
+-- 
+"Die Formatierung konnte nicht unterbrochen werden.
+ Klicken Sie auf 'Wiederholen', um erneut zu versuchen, die
+ Formatierung zu stoppen.  Klicken Sie auf 'Abbrechen', um sie sofort
+ abzubrechen."

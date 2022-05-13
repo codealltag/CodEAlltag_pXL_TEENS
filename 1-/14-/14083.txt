@@ -1,0 +1,26 @@
+Klar ist das dabei... Man müßte nur wissen, welches Modul man da
+nehmen sollte... Nicht, daß der Kerl definitiv einen PC mit
+Internet-Anschluß danebengehabt hätte und ich wahrscheinlcih auch im
+DSG erreichbar gewesen wäre...
+
+
+Japp, hab ich auch gesagt.
+
+
+Er setzt bis jetzt nur NatürlichRAD ein, reicht das als Erklärung?
+
+
+Dazu müßte man Kernel bauen können.
+
+
+Das fand ich schon klasse, weil es so passiv klingt. Wenn ichs nicht
+geliefert kriege, dann weiß ich auch nicht weiter...
+
+
+Ulla halt.
+
+Dieter
+
+-- 
+Nothing's louder than the end of a song that's always been there.
+[Joseph Terstappen - The Wee Free Men]

@@ -1,0 +1,7 @@
+Irgendwann ueber Ostern, irgendwo in Hohenholz und Kleinnottersdorf.
+Genaueres steht noch nicht fest   :)
+
+-- 
+Francisco
+I saw `cout' being shifted "Hello world"
+times to the left and stopped right there.

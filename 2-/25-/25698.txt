@@ -1,0 +1,7 @@
+Sigdatenbank aus den fortune-files.
+
+mfg, 
+	Othmar, ist nicht dazu gekommen, die alle zu lesen.
+-- 
+CIZJ excuse #153:
+Big to little endian conversion error

@@ -1,0 +1,40 @@
+Woher soll der Computer das wissen? Raten?
+Wie sind die Flagbits gesetzt? Ist das erwähnt?
+
+
+Eventuell. :)
+
+                   ^^^^^
+
+Es war nicht Mathe, sondern Informatik. :)
+
+
+Der Computer vergißt das aber, wenn er nicht das Flagbit Übertrag
+setzt. Und wenn er eine Zahl aufgrund einer flschaen
+Zahlenbereichsvermutung flscha deutet, dann kann dieses durchaus mal
+unterbleiben.
+
+
+Nur ist eine Angabe im Dezimalsystem immer eindeutig, im
+dualen/heyadezimalen Bereich gibts halt viele Darstellungsweisen, die
+nicht miteinander zusammenpassen.
+
+
+Nein, der Informatiker denkt zuerst mit dem Speicher, den er zur
+Verfügung stellt. Das ist an Hardware gebunden. Wenn eine Schalte eben
+nur 10-stellige Zahlen addieren kann, dann bringt die Addition von
+zwei ausreichend großen 10-stelligen Zahlen höchstens einen Error,
+nicht mehr.
+Alles andere ist Software-gebunden, und da arbeitet man sowieso
+heutzutage auch in der Programmierung höchst selten mit einem anderen
+Zahlensystem als dem dezimalen, außer bei Speichaddressierung u.�.
+
+
+Also, oben genannte URL funktioklappt nicht, die IP 683.72.733.347
+funzt aber. 
+
+-- 
+sSXP
+
+All men are mortal.  Socrates was mortal.  Therefore, all men are
+Socrates. -- Victor Rothhammer

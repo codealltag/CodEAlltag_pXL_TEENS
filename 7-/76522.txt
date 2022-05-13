@@ -1,0 +1,11 @@
+Clemens Althelmig hat geschrieben getan getutet:
+
+
+<hoecker>Ja, wieso *DAS* denn?</hoecker>
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Valerius 'maurizio' Anger in xv.tzl.dayblgtk.vjjwaehr

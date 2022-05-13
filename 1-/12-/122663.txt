@@ -1,0 +1,12 @@
+Kannste aber sicher sein ;)
+
+
+Hm, ja, damit kann man markieren, aber mit Entfernen is dann nix
+mehr...
+
+
+Wo gehört das jetzt hin? --- Der Hamster soll die Msg-ID setzen,
+_nicht_ Gnus.
+
+-- 
+Ich schlage vor, wir schlagen mit einem Fels drauf und essen es.

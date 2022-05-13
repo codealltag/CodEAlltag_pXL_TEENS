@@ -1,0 +1,23 @@
+* Florian Grünheid <ujttell@uwt.tw>:
+
+
+Nein. Music drauf.
+
+
+jvrmv@xodytq:~$ ping gondor
+PING cbzaip.labei.czlk.fe (Albringhausen): 56 data bytes
+64 bytes from Albringhausen: icmp_seq=0 ttl=128 time=0.5 ms
+64 bytes from Albringhausen: icmp_seq=1 ttl=128 time=0.4 ms
+64 bytes from Albringhausen: icmp_seq=2 ttl=128 time=0.5 ms
+64 bytes from Albringhausen: icmp_seq=3 ttl=128 time=0.5 ms
+64 bytes from Albringhausen: icmp_seq=4 ttl=128 time=0.4 ms
+64 bytes from Albringhausen: icmp_seq=5 ttl=128 time=0.4 ms
+
+--- cbzaip.labei.czlk.fe ping statistics ---
+6 packets transmitted, 6 packets received, 0% packet loss
+round-trip min/avg/max = 0.4/0.4/0.5 ms
+jvrmv@xodytq:~$
+
+Pietro
+-- 
+np: The Offspring - Mota

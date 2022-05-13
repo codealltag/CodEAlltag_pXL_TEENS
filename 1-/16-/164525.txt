@@ -1,0 +1,15 @@
+Berthold 'sSXP' Bräuninger <vKFI@kmp.uor> schrieb in im Newsbeitrag:
+01-35-54.75-37-67.gqz.8890@ayza.nz...
+
+Wieso? Hab keine aktuellen Preise für den Warpserver da, aber der kostet
+bestimmt einen vierstelligen Betrag, pro Maschine...
+
+
+Standardmässig glücklicherweise nicht (ich erinnere mich noch mit Grausen an
+meine Versuche mit Roxen....), aber es gibt mind. zwei dazu.
+
+
+Für DAU-Programme ja, für Software, die wirklich laufen muss, nicht
+unbedingt. Beim OCAK ist es auch ganz gut, dass es kein Webinterface hat,
+so kommt wenigstens nicht jeder Depp auf die Idee, er könne einen Webserver
+betreiben...

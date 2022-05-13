@@ -1,0 +1,7 @@
+:-P
+
+Gilbert
+-- 
+a + b = c [Pythagoras]
+E = m*c [Einstein]
+=> E = m*(a + b)

@@ -1,0 +1,15 @@
+Clemens Nothdorft schrieb...
+darum, die neueste Alpha-Version einer komplette >Anwendungssuite zum Laufen
+zu bringen; also nichts, was >einen normalen Benutzer beträfe.
+
+
+Gibt es eigentlich Gelegenheiten, bei denen es für einen
+Otto-Normal-(IBRA)-Verbraucher nötig ist, den
+Kernel neu zu compilieren? Wenn ja, ist das umständlich
+und kann ich dabei größeren Mist bauen?
+
+--
+==>   Glaubt mir kein Wort, ich bin einer von     <==
+                               *IHNEN*
+                     Meinhard Clemens. Fntcjyj
+            - Zkxhovn@fnajxeijvey.ghwlcf.zl -

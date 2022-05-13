@@ -1,0 +1,11 @@
+Volker Reuschel hat geschrieben getan getutet:
+
+
+Macht nix.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Tobias 'oswald' Obstmeier in wg.ech.glposhrs.ilbhzztv

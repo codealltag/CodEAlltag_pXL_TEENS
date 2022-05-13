@@ -1,0 +1,3 @@
+Darum geht's nicht. Es geht darum daß Subject "X" normalerweise auf jeden 
+Fall etwas anderes enthält als Subject "Y". Weder X noch Y müssen dafür 
+mit dem Inhalt übereinstimmen.

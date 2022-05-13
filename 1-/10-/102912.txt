@@ -1,0 +1,8 @@
+h, wenn ich mir die Darstellung hier so ansehe, dann _ist "*g*" ein
+fettgedrucktes "g", genau so wie es sein soll.
+
+Ben
+-- 
+Wie jagt man einen Elefanten - Teil 3:
+LISP-Programmierer bauen einen Irrgarten aus Klammern und hoffen,
+dass sich der Elefant darin verirrt...

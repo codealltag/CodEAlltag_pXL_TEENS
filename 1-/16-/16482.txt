@@ -1,0 +1,12 @@
+Berend Mundschedl aber entschied sich dieses hier zu schreiben:
+
+
+Kurz: Man kann mitEmacs und Gnus fast alles tun, was man ohne Emacs und
+Gnus besser machen kann.
+
+wilfried
+-- 
+�� Oberster Verteidiger des Ordens der Dunklen Ohid von de.ALL [tm]  ��
+# "Wronsky, why did the Chicken Cross the Road?" "You saw it cross the  #
+# road with your own eyes! How many more have to before you believe?"  #
+#          Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn          #

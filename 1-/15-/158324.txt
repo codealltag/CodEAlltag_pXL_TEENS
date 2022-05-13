@@ -1,0 +1,33 @@
+Giovanni Gröhners schrieb am 20. Februar 2000 um 14:37 Uhr folgendes:
+
+
+Kommt drauf an. Wenn es um eine "allgemeine" Adresse wie
+tawhxvct@pyel.xw geht, kann ich mir durchaus vorstellen, dass die
+Mailbox dahinter so überfüllt ist, dass es relativ schnell passieren
+kann, dass eine Mail vergessen wird.
+
+Bei einer Mail an einen von DILMAC bezahlten Entwickler eines
+OpenSource-Projektes (zB ALSA) würde ich dagegen durchaus erwarten,
+dass er auf Feedback reagiert und ggf. noch einmal nachhaken.
+
+[Geydan-Gnamm-Newsreader]
+
+Geydan-Gnamm ist bei weitem nicht mehr so instabil wie vor einem Jahr und
+sieht inzwischen IMO auch sehr brauchbar aus.
+
+
+Dabei liegt die Betonung eindeutig auf "war". slrn 0.9.6.3 ist seit
+kurz nach Weihnachten angekündigt, wurde dann konkret für Januar
+versprochen und ist bis heute nicht da.
+
+Wobei bei JED noch das Problem besteht, dass seine Projekte stark auf
+ihn als Person ausgerichtet sind -- wenn er keine Zeit hat (was
+durchaus verständlich ist), geht es nicht weiter. Wenn es eine
+devel-Mailingliste gibt und ein CVS, auf das mehrere Entwickler
+Schreibzugriff haben, ist die ganze Sache gegen akute Zeitnot deutlich
+unanfälliger.
+
+Viele Größe,
+     Felix Graeve
+-- 
+A truly wise man never plays leapfrog with a unicorn.

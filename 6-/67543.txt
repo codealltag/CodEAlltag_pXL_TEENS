@@ -1,0 +1,6 @@
+(* Edmund Kreier wrote: *)
+
+
+(Das (mit (den (Klammern (war (ganz (eindeutig (LISP))))))))
+
+Niels

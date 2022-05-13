@@ -1,0 +1,9 @@
+$ cat aufraeumscript
+#!/bin/bash
+mkdir old
+mv * old
+$
+
+Und schwupps ists übersichtlich. Inklusive Versioning.
+
+Fabio

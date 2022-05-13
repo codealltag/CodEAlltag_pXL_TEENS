@@ -1,0 +1,12 @@
+Ariane Loewnich hat geschrieben getan getutet:
+
+[Verlängerter Schulaufenthalt]
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Gottfried 'karsten' Meybauer in oa.tid.zlyotaii.vaeeaczw

@@ -1,0 +1,9 @@
+Lokaler Newsserver. Da ein kleines Script laufen lassen, das die ID
+vom Reader löscht und in die obrige Form gießt. Natürlich ist das
+Script Handarbeit...
+
+C Ya,
+Thorsten
+-- 
+Real programmers don't comment their code.  It was hard to write, it
+should be hard to understand.

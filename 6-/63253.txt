@@ -1,0 +1,27 @@
+Oh doch, das ist durchaus interessant. 
+
+[Stromverbrauch von Monitoren] 
+
+Mhm...
+
+
+Nein das geht nicht. Wenn mich mein Wissen jetzt nicht ganz täuscht, ist
+es mit subtraktiver Farbmischung folgendermassen: Du hast ein
+Druckerzeugniss welches z.B. grün [1] ist. Nun fällt Licht (das gesamte
+Spektrum) darauf, ein Teil des Lichtes wird absorbiert (subtrahiert
+halt), was übrig bleibt ist das reflektierte Licht was man dann als grün
+sieht. 
+
+
+;-) Nunja, Wortspielereien bringen aber sicher keine Lösung deiner
+Frage. 
+
+ Karsten
+
+Footnotes: 
+[1]  es wurde mit gelb und zyan gedruckt.
+
+-- 
+Wer seiner eigenen Sache untreu wird, kann nicht erwarten, dass ihn andere 
+achten. 
+- Michael Burch

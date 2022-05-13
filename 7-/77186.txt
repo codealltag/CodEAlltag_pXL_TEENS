@@ -1,0 +1,8 @@
+So einen Taschenrechner möchte ich auch haben.
+
+Pasquale
+
+-- 
+  "The JPOZ Information Store service depends on the JWW
+   Kosfeld Directory service which failed to start because of the
+   following error: The operation completed successfully."

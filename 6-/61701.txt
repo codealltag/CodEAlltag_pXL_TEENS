@@ -1,0 +1,47 @@
+Othmar Gröppner meinte kundzutun:
+
+
+manual.txt:
+
+v+
+  4.2.104.  spoiler_char
+
+  Type: character
+  Default: '*'
+
+  This character will be used to hide ``spoiler'' text (i.e. text
+  preceded by a formfeed character). The interpretation of formfeed
+  characters as ``spoilers'' can be turned off at compile time.
+v-
+
+v+
+  4.2.105.  spoiler_display_mode
+
+  Type: integer
+  Default: 1
+
+  This variable defines what happens when a spoiler is revealed (this is
+  typically done by hitting space, which is the default binding of
+  ``article_page_down''):
+
+  0    keep the display still, and reveal the current spoiler
+  1    start a new page, and reveal the current spoiler
+  2    keep the display still, and reveal all spoilers
+  3    start new page, and reveal all spoilers
+v-
+
+v+
+  5.2.56.  show_spoilers
+
+  Default: "ESC ?"
+
+  Reveals the next spoiler (i.e. all currently hidden text up to the
+  next formfeed character). When used with a prefix argument, all
+  spoilers are revealed. This function can be customized using
+  ``spoiler_display_mode''.
+v-
+
+Se"Muß man den Leuten jetzt *hier* schon das manual vorlesen?"leonhard
+-- 
+Dieser Artikel ging an folgende Newsgroups: pb.slnr.djaqbt
+Er wurde am Dienstag, dem 5. Dezember im Jahre des Herrn 2003 verfaßt.

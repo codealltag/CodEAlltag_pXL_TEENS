@@ -1,0 +1,24 @@
+Hat der eigentlich halbwegs komfortablen PGP-Support (mit
+Header-Signierung)?
+
+[Noch ein paar OX-Benutzer]
+
+Insgesamt sind's doch ein paar mehr (und das, obwohl Oana in den
+letzten Wochen nicht sehr aktiv war):
+
+heenai@vecpzumlge:~ > rgrep '^X-Newsreader.*Outlook\ Express'
+/var/spool/news/de/talk/jugend/ | wc -l
+    760
+
+Expire ist auf 45 Tage eingestellt, weil der Server noch nicht so
+lange läuft, ist es aber verfälscht (am ersten Tag kamen alle ~20.000
+Postings rein, die mein anderer Server drauf hatte).
+
+
+Der Server wird trotzdem noch einiges zu tun haben, wenn er en block
+200 signierte Postings von Nick oder Ivan überprüfen soll.
+
+Viele Größe,
+     Kurt Odenhoven
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

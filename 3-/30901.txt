@@ -1,0 +1,30 @@
+Und so sprach Pietro Elias Fauth:
+
+
+Das sagen sie alle [1].
+
+
+Ich hatte Dich auch nicht im Verdacht, mit Kampfgeschrei und Todesmut
+auf die Pappscheiben loszugehen. Ich vermute, wie es fuer einen Trieb
+ueblich ist, vorwiegend unterschwellige Tendenzen. (Ich sollte
+Psychoanalytiker werden.)
+
+
+echo `perl -e 'open(IN, "wget -o /dev/null -O - \
+http://jbkx3.mxmzxwsd.ir.clc/cys-ekx/heimj.gjv?euqqkxdqxfm | grep \
+answer|"); while(<IN>) {print(substr($_,1,2))} close(IN)'`+2 | bc 
+
+Dass die "2" von duo kommt, ist offensichtlich.
+
+
+Naja, simpel bedeutet nicht viel anderes als einfach (auch wenn unser
+Prof dauernd was von "das ischt ja simpel einfach ..." brabbelt).
+
+Gruss,
+Jochen.
+
+[1] Auch meine Mutter, wenn sie Freecell spielt.
+-- 
+       They know  what  you  like  and  know  what you  yearn
+            but   they   don't   know  a   thing   about   me
+            I'm not that easy, I'm blank file in their memory ...

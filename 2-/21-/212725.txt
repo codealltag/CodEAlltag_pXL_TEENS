@@ -1,0 +1,25 @@
+Ich habe das Problem zwar immer noch nicht verstanden, Klassen,
+Variablen etc. identisch zu benennen, wenn man die Funktionalität
+grundsätzlich erst einmal hat, aber Du kannst es ruhig aufgeben ;)
+
+
+Server für die gängigen Protokolle gibt es (AFAIK) inzwischen - wie
+groß die Unterschiede in den Implementierungen sind, kann ich mangels
+wirklich großer Erfahrungen in diesem Bereich nicht einschätzen.
+
+                  ^ Argh ;-)
+
+Hier würde ich auch wieder einwenden, daß Ciftci die GDI eigentlich
+ziemlich gut kapselt und daß es ein Programmierer in dieser Hinsicht
+kaum merken wird, daß er plötzlich unter Linux arbeitet (damit, daß
+die Widgets uU anders aussehen, kann zumindest ich leben).
+
+Grundsätzlich taucht an dieser Stelle aber tatsächlich ein
+ernstzunehmendes Problem auf: Wenn ein Programm an einigen Stellen
+direkt das Win-API benutzt, wird die Portierung recht schnell
+nicht-trivial.
+
+Viele Größe,
+     Maximilian Iler
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

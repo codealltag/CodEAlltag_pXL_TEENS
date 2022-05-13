@@ -1,0 +1,19 @@
+Solches tippte Maurice Gschwente:
+
+OK, ich krieche also unter meinen Stein zurück und bereite meine
+Powerp^Präsentation (Inzwischen ist "eine Plapperpunkt machen"
+ja der von vielen benutzte Ausdruck für "präsentieren") vor.
+Natürlich mit (PDF)LaTeX und dem TeXpower-Paket ;-)
+
+[... vieles traurige gesnippt ...]
+
+
+Mit Metapost kann man Bildchen programmieren (Metafont, also Eggloffs
+Schriftbastelsystem  baut IIRC darauf auf). Und ConTeXt ist sowas
+ähnliches wie LaTeX nur bunt^Wanders, sprich Makros, die das doch
+etwas esoterische plain TeX im Alltag angenehmer zu benutzen machen.
+
+
+*hmpf* Müßte man ja glatt mal jemandem von dort fragen, was das soll.
+
+Dieter

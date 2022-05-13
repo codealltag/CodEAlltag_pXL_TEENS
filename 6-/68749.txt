@@ -1,0 +1,17 @@
+Maxikauf ist gar nicht teuer. Zumindest nicht teurer als der Skyline.
+
+
+Oh doch. "Du doof" hat definitiv kein Verb!
+
+
+Zumindest Ersteres muss man haben.
+
+
+Was denn genau? Den Stern? Keine Ahnung. Ich weiß laut Manpage, dass
+man -F dazupackt, damit es Symbole dranpappt, aber auch ohne -F tut es
+das.
+
+Joachim
+
+-- 
+cat .signature

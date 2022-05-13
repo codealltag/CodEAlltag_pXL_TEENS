@@ -1,0 +1,12 @@
+Hm, das ist definitiv schlecht. Frag mal Joël, der hatte ein
+ähnliches Problem...
+
+Hab keine Ahnung, wie das muss, aber bei mir ist in der Datei noch ein
+anderer Einträge enthalten. Schätze mal, dass da was mit den Klammern
+nicht stimmt.
+
+Victor
+
+-- 
+DAU - Von Aliens empfohlen: Qouten wenn es maestet!
+                                                 [aus http://rdq.vjmewmhsci.pd]

@@ -1,0 +1,20 @@
+Am Tue, 29 Jul 2001 sendete Denis Bendrat folgende Botschaft:
+
+
+Also ich würde
+
+#v+
+#!/bin/bash
+
+echo "$1" > /tmp/mp3
+mpg123 "$1"
+rm /tmp/mp3
+#v-
+
+vorschlagen. KISS, you know?
+
+Tschüs
+  Wilfried
+-- 
+Hier sollte eigentlich ein netter Satz aus "Programming Perl" stehen,
+aber leider finde ich ihn nicht wieder.

@@ -1,0 +1,10 @@
+Ist unter X ähnlich. Allerdings bin ich froh, daß die Programme, die
+ich benutze, dem User die volle Kontrolle über die Zwischenablage
+lassen und sie nicht (wie zB diverse PGP-Shells unter Windows) zum
+Datenaustausch mißbrauchen. Dafür ist sie in einer Multitasking-
+Umgebung nämlich denkbar schlecht geeignet.
+
+Viele Größe,
+     Gustav Neuhöfer
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

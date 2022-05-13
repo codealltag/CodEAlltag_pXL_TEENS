@@ -1,0 +1,6 @@
+im.dtb.*-NGs sind nur halbe Portionen. Wenn dann richtig!
+
+Erwin
+
+-- 
+Löscht alt.binaries.*!

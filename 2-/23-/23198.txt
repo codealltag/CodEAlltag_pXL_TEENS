@@ -1,0 +1,18 @@
+Am Wed, 26 Mrz 2003 sendete Leo Francisco Caspary folgende Botschaft:
+
+
+Beides.
+
+
+Nein? Also als ich die angelegt habe war das die empfohlene Methode.
+ausserdem nimmt man sich sonnst die möglichkeit die Buffer nachträglich
+zu manipulieren (Grösse ändern, grep etc.)
+
+
+Ach, jetzt stell dich mal nicht nicht nicht so an.
+
+
+Nein, ernsthaft. IIRC wegen der achso genialen Suchstruckturen.
+
+Tschüs
+  Rudolf

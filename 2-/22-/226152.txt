@@ -1,0 +1,15 @@
+Bei mir ist normalerweise der Arbeitsspeicher wichtiger als die CPU.
+Leider habe ich 'nur' 40Mb FastPage.
+
+
+Desweger 'extra Interpreter'.
+Rexx wird i.d.R. von der OS/2 Kommandzeile interpretiert.
+
+
+Bingo.
+Die Firma meinte ich.
+
+-- 
+Jean-Pierre
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

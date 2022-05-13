@@ -1,0 +1,19 @@
+pfcgri@kpk.fx (Qsbokw Bloechl) wrote in
+<gaez375v1s.73v.fisayu@otdlofuzkl.mcbsql.vewr.vma>: 
+
+
+Zum Beispiel so:
+
+Score:: +500
+References:news-2\.imgf\.nuw>.?<[^\@]+\@[^\@]+>(.?<[^\@]+\@[^\@]+>)?$
+
+Damit werden bei mir die naechsten 3 Postings auf meine Postings 
+hochgescort. Gibt bestimmt auch bessere Loeungen, aber mich als 
+RegExp-Anfaenger hat das Ding da oben ein halbe Stunde gekostet, und 
+ich fands einfach schoen. :)
+
+Kurt
+-- 
+
+Es gibt auch Pferde, die machen MUH
+doch diese Pferde heissen Kühe.

@@ -1,0 +1,9 @@
+Sag ich doch. Die Datei "unsent messages" ist ohne Probleme
+editierbar, die hat nichtmal Steuerzeichen. Man muss den HörGut nicht
+mal beenden, solange die Outbox nicht geöffnet ist.
+Ich werd aber trotzdem nicht machen! :-)
+
+CU
+Ben
+-- 
+Schlagfertigkeit ist etwas, worauf du erst eine Stunde später kommst.

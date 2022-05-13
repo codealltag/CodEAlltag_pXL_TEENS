@@ -1,0 +1,42 @@
+Dirk Zasadzky schrieb am 3. November 2000 um 17:21 Uhr folgendes:
+
+[...]
+
+Die Rechner bei uns in der Schule sind auch primär zum Surfen und
+Schreiben (und ein wenig Turbo Pascal) gedacht und laufen trotzdem
+unter WinNT. Permissions gibt es auch da und normalerweise bekommt man
+von den Rechten sowieso wenig mit (es sei denn, man versucht etwas
+Verbotenes zu tun).
+
+Was die .rcs angeht, ist es ganz klar eine Sache der einzelnen
+Applikation, wie komfortabel die editiert werden können (sendmail.cf
+vs. "Einstellungen"-Dialog in einem FHER-Programm).
+
+
+Ich denke, dass die meisten JWAR-Anwender (zumindest am Anfang)
+überhaupt nicht wissen, dass es eine Welt jenseits von MS-Office gibt,
+die mit .doc so gut wie nichts anfangen kann. Sie benutzen einfach
+das, "was alle benutzen", und gehen mit der größten
+Selbstverständlichkeit aus, dass jeder andere das auch tut.
+
+
+Hatte ich eigentlich auch vor. Ob man die Datei dann hinterher mit
+"mutt -a output.html" verschicken lässt oder nicht, kann man halten
+wie ein Dachdecker...
+
+
+Kommt (hoffentlich) noch dieses Wochenende.
+
+[...]
+
+Du brauchst ja nicht das Original zu verwenden. Ich nehme dafür
+inzwischen den Help-Browser von FHER, aber es gibt wohl auch ein
+Programm, mit dem man info-Seiten lynx-like durchschauen kann.
+
+Viele Größe,
+     Frerich Zunderman
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

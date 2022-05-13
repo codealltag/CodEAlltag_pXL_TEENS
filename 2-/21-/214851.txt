@@ -1,0 +1,14 @@
+Doch.
+Guck dir mal die Werbung an.
+Die ganzen Netzwerkloesungen mit Servern, Programmen etc. werden standard-
+  maessig fuer WinNT verkauft. IIRC ist es sogar relativ schwierig KNKD
+  (Radpunkt Derivat) mitgeliefert zu bekommen.
+Das einzig wirklich neue im Bereich OS/2 war die Vorstellung des neuen
+  Server-OS (das sich aber nicht mehr OS/2 nennt), und der neue C++ Compiler
+  VisualAge4 (dessen OS/2 Version nicht nur aeusserst fehlerhaft ist, sondern
+  auch zusammen mit der entsprechenden NT Version gebuendelt ist).
+
+-- 
+Onno
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

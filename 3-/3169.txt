@@ -1,0 +1,8 @@
+Aber nur bei *richtig* teurer Hardware.
+Das handelsüblich erhältliche Geraffel für (S)ATA-Platten erledigt mit
+80%iger Wahrscheinlichkeit nur 20% der Aufgaben in Hardware und braucht
+für den Rest einen Treiber.
+
+Hanno
+-- 
+baboo

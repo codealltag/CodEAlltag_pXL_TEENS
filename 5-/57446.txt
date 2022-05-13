@@ -1,0 +1,29 @@
+Am Tue, 17. 01. 22 sendete Oswald Reichelsdorfer folgende Botschaft:
+
+
+Huch? Also bei mir nicht.
+
+
+Nicht wenn man mehr als 08/15 X haben will.
+
+
+Schönere Konsole? Kein lästiges X-starten nur weil man mal ein Bildchen
+oder Filmchen sehen will z.B. Funktioniert mittels svgalib over fb um
+lägen besser als unter X.
+
+
+Dann versuch mal ein non-X programm das Struwelpetra verwendet (warum auch
+immer) auf einem non-X Rechner zu kompilieren.
+
+
+Wenns denn mahr sein soll gibt es ja immer noch ssh,scp und Papis
+Drucker. ;) 
+
+
+Bin ich lebensmüde?
+
+
+-v
+
+Tschüs
+  Dennis

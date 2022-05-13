@@ -1,0 +1,8 @@
+Letzteres dürfte eher der Fall gewesen sein.
+
+
+Ah danke. Die drei C++ Bücher, die hier rumliegen, haben mir gereicht. C++ 
+hat in der STL wenigstens einige vernünftige Datentypen ab Stange...
+
+
+Das spielt in dem Fall keine allzugrosse Rolle.

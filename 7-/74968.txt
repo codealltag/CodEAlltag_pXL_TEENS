@@ -1,0 +1,21 @@
+Ivano Cronauge hat geschrieben getan getutet:
+
+
+Das Laufenlassen oder das Herunterladen?
+
+
+Jeder offene Port ist eins.
+ifconfig eth1 down, und alle Sicherheitsprobleme sind bei mir gelöst..
+
+
+Eh?
+
+
+Ach.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Elmar 'heribert' Beckersjürgen in cu.avt.mtdkbqvn.mtokdvne

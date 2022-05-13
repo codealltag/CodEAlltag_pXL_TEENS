@@ -1,0 +1,8 @@
+Echt? Für Newbies sicher nicht schlecht. Aber ich halte ein manuelles
+editieren der .gnus immernoch für einfacher, als sich durch
+M-x customize zu wählen.
+
+Enr 'sich dort regelmäßig verlaufend' ico
+-- 
+Ein dreieckiges Rad ist gegenueber dem viereckigen Rad ein Fortschritt,
+da es pro Umdrehung einen Hopser weniger gibt.

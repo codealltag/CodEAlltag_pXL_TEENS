@@ -1,0 +1,11 @@
+Aussagen über längere Zeit, oder Aussagen über längeren Raum in
+längere Zeit oder über Aussagen von Aussagen über lange Zeit hinweg zu
+geben ist nicht leicht.
+
+Giuseppe
+
+-- 
+  "Dieses Programm stellt SCSI-Kennung gebrauchten auf Ihrer Anlage fest,
+   und empfiehlt einen erhältlichen Kennung, anschließen ein NEUES
+   Laufwerk. Keine Notwendigkeit starten dieses Programm, falls Sie neues
+   Laufwerk nicht an schließen."

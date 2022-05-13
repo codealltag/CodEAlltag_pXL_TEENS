@@ -1,0 +1,12 @@
+/Solche/ Programme werden nicht gewartet. Entweder sie funktionieren ewig 
+oder man schmeißt sie weg ;-)
+
+
+Mitunter, ja. Wobei ich solche Strukturen hauptsächlich nur für 
+Multithreaded Appikationen verwende. Programme mit fehlerhaften Mutex-
+Handling funktionieren 1000 mal und beim 1001. mal geht's schief, sowas 
+kann man eigentlich nur auf Papier lösen (hab selbst schon das Problem 
+gehabt, da waren es allerdings konkurrierende Interrupt-Handler). Für den 
+Rest, der meist recht straight-forward ist, halte ich es trotzdem 
+größtenteils für überflüssig.
+Kommentare sind das wirklich Wichtige.

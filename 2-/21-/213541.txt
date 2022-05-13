@@ -1,0 +1,16 @@
+On 29. 09. 21, Justin Praass <zijiiofwre@hqounxssdq.ht> wrote:
+
+[/opt/kde/bin als root nicht im path]
+
+Es gibt IMO keinen Grund, /opt/kde/bin nicht in den root-path
+aufzunehmen, da stimme ich Dir zu. Es ging mir darum, daß es
+*grundsätzlich* sinnvoll ist, unterschiedliche Pfade zu setzen.
+
+[Anpassen des path vergessen]
+
+Wie meinen? Sorgt bei Dir etwa rpm dafür, wie der Path gesetzt wird?
+
+Viele Größe,
+     Urban Pieritz
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

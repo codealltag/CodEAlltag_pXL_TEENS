@@ -1,0 +1,11 @@
+/s/vi/irgendein Unix Tool
+und du hast meine Einschaetzung der Dinge.
+
+Unter NIV benutze ich z.Z. nur MÄX, das ist ein etwas einfacherer Editor.
+Leider muss ich jetzt sowieso einige vi-Befehle lernen, da ich auf einem
+  anderen Rechner Minix habe, da gibt es nur einen vi-clone (elvis).
+
+-- 
+MdP Gilles
+If someone says "I want a programming language in which
+  I need only say what I wish done," give him a lollipop.

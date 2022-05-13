@@ -1,0 +1,2 @@
+Wegen FQDN? Man kann sie vom Server erzeugen lassen, aber manchmal mag 
+man das nicht.

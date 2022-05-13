@@ -1,0 +1,2 @@
+cp -p -R /home/name /newhome/name
+Mehr nicht. Sind ~300kb.

@@ -1,0 +1,9 @@
+hm... ja. So ähnliche Werte hab ich hier nur ein einziges Mal gehabt,
+und kurz darauf war kein RAM mehr da, init war eines der ersten Opfer
+des kernels :-/
+
+Luciano
+-- 
+Nostalgie ist auch nicht mehr das, was es früher mal war.
+Und die Zukunft war frueher auch besser.
+[Björn Ueberrhein und Konrad Erdkamp in dtj]

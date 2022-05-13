@@ -1,0 +1,10 @@
+Stimmt, die gehen beliebig. Die höchste Abweichung, die ich je hatte,
+waren zwei Jahre, IIRC
+
+Samu
+
+-- 
+Benedikt:~$ whoami
+root
+Benedikt:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Ivano Bloechl]

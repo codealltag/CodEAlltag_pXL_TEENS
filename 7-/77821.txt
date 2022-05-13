@@ -1,0 +1,7 @@
+Nein.
+
+
+Und deine Login-Prozedur setzt dann $NNTPSERVER dementsprechend.
+$nntpserver hilft dir keinen Meter.
+
+Carlo

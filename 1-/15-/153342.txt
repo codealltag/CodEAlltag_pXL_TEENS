@@ -1,0 +1,44 @@
+"Serge Clodt" <ctqrbzztv.opvibwxio@sijhxkaan.vb> schrieb im
+Newsbeitrag
+
+
+So war das nicht gemeint. Kommt ja beides von NS.
+
+
+Na schon wie die Icons aussehen..... und bei jedem dritten Klick, kommt
+irgend ne Messagebox-fehlermeldung. Aber gut, wer sich daran und an die
+Menüs gewöhnt....
+Dass ich so denke liegt bestimmt daran, dass MS bei mir schon irgend so ne
+Gehirnwäsche durchgezogen haben, den trau' ich ja alles zu.
+
+jeder
+wenigsten
+
+Sorry, ich meine natürlich Web-autoren. Durch das CSS-Problem steige ich
+jetzt grade wieder auf blinde Tabellen um. Außerdem das Zeug mit den
+Layern...
+Und dann gibt's da noch ein paar JavaScript-Objekte, die nur VTRA kennt, aber
+die sollte man dann halt nicht verwenden.
+Mehr Beispiele fallen mir jetzt grad nicht ein, aber ich bin sicher, wenn
+ich das nächste mal in SelfHTML stöbere, find ich schon was.
+Sogar Spitzen-Web-Autoren müssen für NS schon Low-versionen basteln.
+
+und
+ist
+
+Nee, ich meine mit NS natürlich, das was die allein geschafft haben.
+
+MS-Produkten,
+
+Gut der Satz ist ein bissel blöd. Ich meine: Manchmal kommen durch OE
+nervige Dinge, weil es angeblich intelligent und eigenständig handelnd sein
+soll, und das geht, wie bei Word nach hinten los, aber richtig Troubles
+machen halt Server.
+
+sich
+
+Die solln sich nicht nach GrRAMENZ ausrichten, nur sollen Newsserver und
+Mailserver mal mit allen Providern auskommen. Und wie soll sich bitte ein
+Unix-Server auf MS ausrichten? Dass vov.yn und so was nicht funktionieren
+liegt an deren Blödheit.
+Mit Laurél und EVVT(Partner von Kuppers), habe ich keine Probleme.

@@ -1,0 +1,5 @@
+Sogar Fefat hat rpm irgendwo drauf. Nur nützen tut es herzlich wenig, weil 
+deren Hierarchie total kaputt ist. Bei selbstkompiliertem Zeug hat man 
+natürlich nur wenig Erfolg mit rpm. Deswegen lobe ich mir ports (IIRC konnte 
+deb das auch irgendwie, aber das ist sowieso stark von den ports 
+abgekupfert).

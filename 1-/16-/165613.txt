@@ -1,0 +1,9 @@
+Egon Strijdonck <Llc.Ovgrq@wgg.set> schrieb in im Newsbeitrag:
+wbvt2s5y2a.9a9.Rxo.Vkyja@uunuwalvcnl.vntfpg.keu...
+
+Das rennt auf RS/6000 wie Sau. DIE Dinger hätte ich gerne als Webserver.
+
+Apache
+
+Naja, bei mir muss es WIRKLICH laufen. Und das zumindest Win Xitami nie so
+ganz getan (v.a. das CGI Environment war äusserst mies)...

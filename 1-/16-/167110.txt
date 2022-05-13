@@ -1,0 +1,15 @@
+Am Tue, 27. 07. 21 19:19:10 -0000 schrieb "Justin Zörn"
+<vpsdmoy_dsyzlco@ymv.ur> folgendes:
+
+
+So hatte ich's nicht gemeint, sondern daß das Vorhandensein von
+Netzwerkkarten auch schon Speicher braucht. Und andere Hardware auch
+(Treiber).
+
+mm
+
+-- 
+Heiko "Otmar" Nack, ICQ: 17779210
+
+"Eines Tages wird alles gut sein, das ist unsere Hoffnung.
+ Heute ist alles in Ordnung, das ist unsere Illusion." (Voltaire)

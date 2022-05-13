@@ -1,0 +1,9 @@
+Naja, die Funktionen sind anders. Daher auch andere Fehlermeldungen.
+Vor allem bei Excel, Word und Powerpoint.
+
+Eilert
+
+-- 
+raumfahrtagentur ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

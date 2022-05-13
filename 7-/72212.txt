@@ -1,0 +1,9 @@
+(* Jean-Claude Vahlensieck wrote: *)
+
+
+Okay, zugegeben richtig, allerdings helfen Sie gerade bei ziemlich 
+umfangreichen Seiten _extrem_ die Übersicht nicht zu verlieren, und ein 
+Browser der keine Frames anzeigen kann ist für mich auch eindeutig 
+out-of-date.
+
+André

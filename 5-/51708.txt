@@ -1,0 +1,12 @@
+Oswald Cocher sah sich genötigt am 18. zu schreiben:
+
+
+Es gibt einen MULE-XEmacs für Win. Frage mich aber nicht wie man den
+installiert. Das wurde vor einiger Zeit in dcsg behandelt. Es ist aber
+IIRC nicht ganz trivial, Gnus unter Win den Euro beizubringen.
+
+Ernst
+-- 
+Den Steuerbeleg für die teuerste Ausgabe wirst du nie finden.
+
+(Murphy's Gesetz)

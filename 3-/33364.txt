@@ -1,0 +1,15 @@
+Also sprach "Kay Tammenhayn" <ochl.mchdtiy@pco.hql.xe>:
+
+
+Stimmt.
+
+Ich habe nochmal nachgeschaut und es bleibt dabei ;-)
+Der Hilbertkalk�l (und die übrigen wohl auch) ist vollständig. Hier geht
+es ja nur um Aussagenlogik. In der Prädikatenlogik erster Stufe gibt es
+wohl keinen solchen Kalkül mehr.
+
+Im Gödelschen Satz geht es nur um "wahre arithmetische
+Formeln". Offenbar sind die komplexer als die Aussagenlogik. Aber das
+nur nach kurzem Blick in den Loverich...
+
+Walter

@@ -1,0 +1,5 @@
+Lesen. Da steht, dass du ":help", nicht "help" eingeben sollst.
+
+Karsten
+-- 
+Indifference will be the downfall of mankind, but who cares?

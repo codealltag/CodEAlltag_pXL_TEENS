@@ -1,0 +1,7 @@
+(* Emanuel Torn wrote: *)
+
+
+Bei PrePaid-Karten würde ich mir nicht unbedingt die Mühe machen, da 
+noch irgendwas sperren zu lassen.
+
+Martin

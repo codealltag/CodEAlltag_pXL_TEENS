@@ -1,0 +1,9 @@
+Die "richtige" Reihenfolge ist:
+- OpenSSL besorgen, kompilieren, installieren
+- Licq besorgen, konfigurieren [1], kompilieren, installieren
+- glücklich werden
+
+Luc
+[1] Dabei darauf achten, dass OpenSSL auch gefunden wird
+-- 
+In Newsgroups klappt DAS nicht! [Anoymous]

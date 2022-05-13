@@ -1,0 +1,7 @@
+Danke, das hab ich zwischenzeitlich auch rausgefunden. Bei sovielen
+Funktionen (über 1600 AFAIK) verliert mal schnell mal den Überblick.
+
+ Oscar
+-- 
+Verwende Perl. Notose will man koennen, dann aber nicht verwenden."
+ - Norman Eekhoff u. Vincenzo Bleck, dcoum

@@ -1,0 +1,13 @@
+Aus eben diesem Grund hatte ich den Filter auch abgeschaltet: Es wird
+einfach zu viel gefiltert.
+
+
+Ack. Gerade wieder aktiviert, allerdings nur für de.*.
+
+
+slrn scheint auf alle Header triggern zu können.
+
+Niels
+
+-- 
+signature fault - core dumped

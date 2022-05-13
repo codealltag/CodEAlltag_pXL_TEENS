@@ -1,0 +1,5 @@
+Aber das ist dann doch wieder umständlich, der Patch muß vor jedem Poll 
+aktiviert werden...
+
+-- 
+Bitte benutzt meine neue Adresse zwejdpc@dey.so

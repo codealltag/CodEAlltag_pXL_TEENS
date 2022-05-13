@@ -1,0 +1,7 @@
+HoerZu Ada Translator. Das Ding, was im nächsten GCC nicht mehr drin ist
+(auch wenn man eh nicht die GCC-Version nehmen will).
+
+Gerold
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

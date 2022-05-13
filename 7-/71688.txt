@@ -1,0 +1,46 @@
+Es ging um HTML. 
+
+
+Und sie ist beschissen zu lesen. Was daran liegt, dass die Darstellung
+der Schriften unter Windoes deutlich grösser ist.
+
+
+Eben. Nur dass das unserm Pseudo nicht klar ist, dass das Zeil sein
+muss, mit möglichst geringen Mitteln das Zeil zu erreichen.
+
+
+Für das, was ich mit diesem Webspace anstelle (Das meiste davon ist
+für geschlossene Benutzergruppen und nirgemdwo auf dem Webspace
+verlinkt), reicht HTML. Meine Arbeitsgruppe kommt an meine Lösungen
+dran, dafür brauche ich nur einen 8859-1-kodierten Text und die
+Möglichkeit, einen Link auf eine Datei zu setzen, und die Bilder vom
+Zeitungen-Tabak sind in einem Frameset untergebracht. Da mact es einfach keinen
+Sinn, noch irgendwelche Spielereien mit dem Kram zu machen.
+
+
+"Brauchen" im Sinne von "unbedingt nötig", und da trifft nicht zu. 
+
+
+Schön. Ist nur herzlich sinnvoll, solange ich mir dann nicht sicher
+sein kann, dass das Layout dann auch so ankommt, wie ich das will. Und
+das geht nciht, solange jeder CSS anders interpretiert.
+
+
+Die obengenannten Arschlöcher ignorieren nur leider die Tatsache, dass
+man ihren CSS-Scheiss nicht nutzen muss, und damit werden dann die
+Seiten unbrauchbar. Geistiger Horizont im Bereich eines Punktes.
+
+
+Nein. Dass ich eine Struktur vorgebe, heisst: Ich gebe vor, dass ich
+an irgeneiner Stelle meinetwegen eine Überschrift habe. Ich gebe nicht
+vor, dass diese Überschrift in "Arial, 14pt, kursiv, fett,
+unterstrichen, blau" zu sein hat. Das ist Sache desjenigen, der die
+Seite betrachtet. Das ist die dahinterliegende Struktur, welches
+Layout für die Anzeige draus wird, ist mir herzlich egal, da darf sich
+der Leser in den Fuss schiessen soviel er will.
+
+Domenico
+-- 
+Der Kurs "Flirten für Informatiker" wurde inzwischen zusammen mit
+"Freeclimbing für Epileptiker" aus allen Afeb-Programmen entfernt.
+[Tino Dörgeloh in <ndnbmwy.i8ahkjsipz.ooa@tbgqbrsyi.va>]

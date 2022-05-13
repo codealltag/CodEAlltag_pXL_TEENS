@@ -1,0 +1,5 @@
+Das mit den Rauchmeldern ist so eine Art "Buffer overflow"-Signal...
+
+Henri
+-- 
+Er war ein Mann wie ein Baum: Sie nannten ihn Bonsai

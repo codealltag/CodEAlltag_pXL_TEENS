@@ -1,0 +1,20 @@
+Am 17. 06. 22 22:14:04 GMT sendete Othmar Obergruber
+folgende Botschaft:
+
+[...]
+
+Hast du nicht einen brandneuen PC?
+
+
+Weis nicht ich hab irgendeine 1.3.x nur da bei RH version 0.9* dabei war
+ist das update nicht gerade simple (und mit slang <1.2 kompiliert slrn
+nicht mehr.)
+
+
+Gerade denn musste ich nicht updaten, aber login und anderesachen sind
+bei Mepus in einem rpm (linux-tools oder so) und einige programme scheinen
+halt mit slang kompielert zu sein (die leute bei Mepus scheinen slang eh zu
+lieben so war z.B. auch lynx betroffen).
+
+Tschüs
+  Benedikt

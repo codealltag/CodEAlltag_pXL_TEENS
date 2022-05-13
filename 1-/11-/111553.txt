@@ -1,0 +1,11 @@
+Es soll angeblich helfen, Leute, die an der Grenze stehen, zurückzuholen.
+
+
+jtioc@Wljq:~ > wc -l share/gensig/taglines 
+    171 share/gensig/taglines
+
+170 Sigs (eine doppelte) selber zu wechseln ist !recovery
+
+Valerio
+-- 
+DAS kitzelt! [Olivia zu mir]

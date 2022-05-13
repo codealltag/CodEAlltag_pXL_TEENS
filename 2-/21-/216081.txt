@@ -1,0 +1,7 @@
+Auf NT-Systemen LILO *niemals* in den MBR packen, NT reagiert darauf
+sehr allergisch. Handbuch lesen hilft. Try again.
+
+Viele Größe,
+     Valerius Fechtmann
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

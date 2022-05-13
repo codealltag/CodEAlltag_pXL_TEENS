@@ -1,0 +1,9 @@
+Was man hier so alles für Angebote bekommt. Interessant,
+interessant...
+
+Bruno
+
+-- 
+INSTALL:
+"Die Anwendung wurde unerwartet beenden.
+ Starten Sie die Anwendung erneut."

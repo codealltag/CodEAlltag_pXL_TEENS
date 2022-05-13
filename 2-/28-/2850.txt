@@ -1,0 +1,10 @@
+/me riecht eine Rekursion und geht szon mal die Abbruchbedingung suchen,
+ersatzweise den Stack Overflow.
+
+Ullrich
+
+-- 
+- "It could be a torture chamber or a dungeon or a hideous pit or anything!"
+- "It's just a student's bedroom, sergeant."
+- "You see?"
+        -- (Bernhard Zalenga, Men at Arms)

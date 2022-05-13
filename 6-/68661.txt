@@ -1,0 +1,13 @@
+Im Fell der Bianca sprach Niclas Göke folgende erleuchtende Worte:
+
+
+Ach, du meinst, ich rede wieder wirr? ;)
+
+
+Aber in der Version "alias g=grep" tat es dann. Bloß brachte das ...
+
+
+... insgesamt auch kein Ergebnis.
+
+-- 
+np: Elementelle Tölle

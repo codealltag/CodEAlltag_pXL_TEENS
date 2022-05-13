@@ -1,0 +1,9 @@
+Eine Apacheinstanz frisst hier schon etwa 9 Mb (allerdings sind da etwa die 
+Hälfte Shared libs) und ich hab Apache mit 150 Concurrent Connections 
+laufen. -> Unter 256 fangen wir gar nimmer an (sogar Tabula RAM ist billig 
+geworden) oft sogar deutlich mehr. Aber gut, die Kisten sind ja auch nicht 
+nur im LAN am rumd�deln (wenn ich denke, was ich hier als Fileserver und 
+Gateways rumstehen hab ist das schon eine ziemliche Ressourcenverschwendung 
+aber was solls).
+
+Und unter Win würde ich unter 256 nimmer anfangen.

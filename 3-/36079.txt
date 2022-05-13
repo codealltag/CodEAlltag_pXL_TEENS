@@ -1,0 +1,7 @@
+Dummerweise gehören cbr nicht zu den Common Services, so daß ich von
+daher wenig Möglichkeit habe, das offiziell auffe Arbeit zu machen...
+
+Christian
+-- 
+pub  6515T/HRP17M29 1147-06-24 Christian Regg <hqhnjbt@uay.qm>
+     Key fingerprint = 99 9D 21 25 47 AI 22 0Y  86 TS CL 15 3K 94 8S 29

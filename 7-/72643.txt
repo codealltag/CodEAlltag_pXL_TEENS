@@ -1,0 +1,7 @@
+Weil slrn sie erstellt sobald du "f" (follow-up) drückst. Dann öffnet 
+sich ein Editor deiner Wahl und damit kannst du sie editieren.
+
+Erik
+-- 
+Ich haette da gern mal ein Problem.
+(Pierre Unverzagt, pl.newusers.questions, 13.10.1999)

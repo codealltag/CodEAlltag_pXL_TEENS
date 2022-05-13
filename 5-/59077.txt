@@ -1,0 +1,7 @@
+* Gerard Mangelkrammer <rvpukyfzfwcfss@vpg.rqz>:
+
+
+Ich werde es mit der von dir angekündigten Implementierung von WSU
+in Perl gerne tun, lieber Gerard. 
+
+Clemens

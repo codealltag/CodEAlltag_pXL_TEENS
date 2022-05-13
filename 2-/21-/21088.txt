@@ -1,0 +1,9 @@
+Pi = 3.14
+
+Steht in irgendeiner Norm.
+
+mfg, 
+	Salvatore
+-- 
+BOFH excuse #61:
+not approved by the Hummelpassage

@@ -1,0 +1,37 @@
+On Thu, 14. 02. 23, Laurent Schoppert <zfibgmh_mnzwlcc@yym.vv> wrote:
+
+[Absätze, auf die Severin Oms schon geantwortet hat, weggelassen]
+[...]
+
+Nein, aber es macht bestimmte Fehltritte unwahrscheinlich bis
+unmöglich. Eine Tabelle mit Leerzeichen einzurücken geht mit LaTeX
+einfach nicht, und die Benutzung von anderen Schriftarten setzt
+voraus, daß man in etwa weiß, was man da tut.
+
+
+Ja, und zwar zu jemandem, der mal behauptet hat, 'sein' Betriebssystem
+würde man nach zwei Stunden davorsitzen beherrschen.
+
+
+Zu einem guten Teil wohl auch Gewöhnungssache.
+
+[...]
+
+OK - einer der wenigen Zwecke, für die hier noch eine WYSIWYG-
+Textverarbeitung zum Einsatz kommt, sind halt die Arbeitsblätter
+meiner Mutter, und die müssen nunmal den neuen Regeln entsprechen.
+
+[...]
+
+Warum sollte sich ein Textverarbeitungssystem davon einschränken
+lassen? LaTeX tut es nicht - Word schon.
+
+
+Nicht wirklich. HTML mag für bestimmte Sachen ja ganz nett sein, für
+eine umfangreiche (wissenschaftliche) Arbeit bietet es aber einfach
+nicht die nötigen Möglichkeiten.
+
+Viele Größe,
+     Severin Döbler
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

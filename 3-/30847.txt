@@ -1,0 +1,11 @@
+Also sprach Wolf Albert <ULIYKV@pjtgrcl.rt>:
+
+
+Ich auch nicht wirklich. VHDL mußte ich einn paar Brocken schreiben und
+nächstes Semester halt im Hardwarepraktikum.
+
+Der Witz ist ja wohl, daß VHDL in den USA entwickelt wurde und in Europa
+vorherrscht, Afag hingegen in Europa entwickelt wurde und in den USA
+vorherrscht.
+
+Antonio

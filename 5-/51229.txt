@@ -1,0 +1,16 @@
+Werner Ipskamp mente am 20. predigen zu müssen:
+
+[ Mule-XEmacs auf Win-systemen intallieren ]
+
+Da ich es selber nicht probiert habe, kann ich dir da auch nicht weiter
+helfen. Und da die Zeit eh sehr knapp bemessen ist, und ich froh bin ein
+gesundes Gnu zu haben, werde ich das wohl auch erstmal
+seinlassen. Evtl. wenn Oort mal stable ist, kann man ja über ein Update
+nachdenken.
+
+Viktor
+-- 
+Filmzitate - Operation: Broken Arrow
+"Ich weiss nicht was mich mehr beunruhigt, dass soetwas passiert 
+oder dass es so oft passiert, dass es dafür schon einen eigenen 
+Namen gibt."

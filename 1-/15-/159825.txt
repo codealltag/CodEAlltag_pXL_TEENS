@@ -1,0 +1,9 @@
+Am Fri, 29. 12. 21 sendete Kaspar Moessner folgende Botschaft:
+
+
+Html wird per http übertragen nicht per smtp.
+
+Tschüs
+  Otto
+-- 
+:-(

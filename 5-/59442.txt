@@ -1,0 +1,18 @@
+RFC (Nummer, Abschnitt, Status auf dem Standards Track)?
+
+Wobei ich es jetzt erst richtig verstehe (siehe unten).
+
+
+Ja.
+
+
+Und wenn *.domain.invalid (A) definiert ist, dann geht
+*.domain.invalid (MX) aber, oder?
+
+
+"Nur weil Du Paranoia hast, heißt das noch lange noch nicht, daß Du
+nicht verfolgt wirst." --- irgendwo aufgeschnappt.
+-- 
+A little learning is a dangerous thing; Drink deep or taste not the Pierian
+spring.
+[Vinzenz Wengemuth]

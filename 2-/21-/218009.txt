@@ -1,0 +1,4 @@
+Nein, Informationen sind spärlich und z.T. falsch.
+
+
+Dummfug. 115200 Baud / 10 Bits = maximal 11520 Bytes/s

@@ -1,0 +1,3 @@
+AFAIK hat man das bei Neotechnik mittlerweile auch eingesehen und nun ist 
+postfix out of the box dabei (hab's aber nie überprüft, weil ich mit XtraX 
+sehr glücklich bin).

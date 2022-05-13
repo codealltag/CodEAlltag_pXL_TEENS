@@ -1,0 +1,3 @@
+Ich dachte Dateien greift man mit "touch" an und Rechner mit "ping"...
+
+Detlef

@@ -1,0 +1,6 @@
+Da du nunmehr denselbigen welchen hast, muß die Frage wohl doch eher
+"... keiner der beteiligten Rechner/User einen ausreichend
+funktionsfähigen FTP-Client hat?"
+
+-- 
+Do you need a hand?

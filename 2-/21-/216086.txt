@@ -1,0 +1,18 @@
+On Sat, 04. 12. 21, Ullrich Prues <vaanmwv_tgkkqqs@cxe.vj> wrote:
+
+[HTML statt DVI?]
+
+Das Verhältnis Wave <-> MP3 ähnelt dem Verhältnis DVI <-> HTML noch
+weitaus weniger als Wave <-> MIDI.
+
+
+Kommt drauf an - wenn man sie ausdrucken will, ist DVI ziemlich gut.
+Wenn man sie als Online-Hilfe benutzen will, ist TexInfo besser. In
+den meisten Fällen dürfte inzwischen SGML zum Einsatz kommen, so daß
+problemlos an beides (und nebenbei noch an Text, HTML und RTF)
+heranzukommen ist.
+
+Viele Größe,
+     Niko Krei
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

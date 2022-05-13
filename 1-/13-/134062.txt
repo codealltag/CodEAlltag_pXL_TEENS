@@ -1,0 +1,6 @@
+Ein kluger Kopf ist das.
+
+Rudolf
+
+-- 
+Löscht alt.binaries.*!

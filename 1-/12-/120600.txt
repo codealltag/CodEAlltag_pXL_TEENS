@@ -1,0 +1,8 @@
+begin quoting Valerian Hehmann <g-taw@pzrixhpprtp.wi>:
+
+hm, wie jetzt?
+
+Naja, für a=0 sowie für b=0 stimmt es ja.
+-- 
+"For Fairhaus, space is still a high priority."
+ - Governor Carlo Genser, 2/2/93

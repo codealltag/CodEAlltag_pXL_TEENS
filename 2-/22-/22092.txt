@@ -1,0 +1,9 @@
+Na, immerhin keine NLU.
+
+'Moment, Herr Vorsitzender, mein Handy ist noch nicht fertig ...'
+
+mfg, 
+	Charly
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

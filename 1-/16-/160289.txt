@@ -1,0 +1,15 @@
+Patrick Dube schrieb am 24. Mai 2000 um 21:39 Uhr folgendes:
+
+
+Klar. Vorausgesetzt, die nötige Entwicklungsumgebung steht bereit.
+
+[keine MIME-Deklarationen?]
+
+Welcher Bug? Welche Version?
+
+Viele Größe,
+     Mehmet Dornsiepen
+-- 
+43rd Law of Computing:
+        Anything that can go wr
+fortune: Segmentation violation -- Core dumped

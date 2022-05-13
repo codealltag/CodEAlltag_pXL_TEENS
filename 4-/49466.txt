@@ -1,0 +1,11 @@
+Hallo Roland Freihof
+
+
+Wer ist dann das Team?
+
+MfG Niko
+
+-- 
+Fachbegriffe der Informatik einfach erklärt
+17: Vollkompatibel zur Datenautobahn 
+    Gerät verfügt über eine serielle Schnittstelle. (Richard Tappe)

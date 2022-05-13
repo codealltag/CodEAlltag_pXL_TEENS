@@ -1,0 +1,14 @@
+Weil an den Punkten üblicherweise ekelhafte Sachen wie
+Definitionslücken drin sind.
+
+So ist z.B. (x^2/x-2) für x=2, für alle anderen Werte aus R aber
+definiert. Wenn du jetzt irgendwelche Betrachtungen in der
+Episolnumgebung (mit Epsilon= | 2-x | -> 0) machst, dann näherst du
+dich auch dem Graph immer weiter der Lücke an, erreichst aber nciht
+die 2, weil du dann ja soeben in die Lücke gefallen wärest.
+
+Alles unklar?
+
+Mathias
+-- 
+This login session: $13.99, but for you $11.88

@@ -1,0 +1,24 @@
+Volker Mayweg schrieb am 02. Januar 1999 um 00:02 Uhr folgendes:
+[...]
+
+hm, das spricht entweder für jemanden, der immer noch glaubt, es gäbe
+die perfekte Distribution und deshalb alle zwei Wochen ein neues
+System �berb�gelt, weil er im alten ein paar Dinge gefunden hat, die
+ihm nicht gefallen haben oder für jemanden, der sich auf einer zweiten
+Platte / Partition gerne mal anschaut, wie die anderen verschiedene
+Probleme gelöst haben. Falls ersteres zutrifft, spricht das eher
+dagegen, dass er wirklich Ahnung hat, bei zweiterem eher dafür :-)
+
+
+Das Wort würde auf Wentra zutreffen (wobei das 's' in dem Namen
+bekanntlich silent ist <eg>).
+
+
+Das wiederum ist AFAIK im Moment bei KFS der Fall...
+
+Viele Größe,
+     Giuseppe Abl
+-- 
+"Beware of bugs in the above code; I have only proved it correct, not
+tried it."
+                                                        -- Hans Koel

@@ -1,0 +1,12 @@
+Und so sprach Walter Riembauer:
+
+
+Fragt sich vor allem, was die persoenliche Definition von "krank" bzw.
+"krankhaft" ist.
+
+Gruss,
+Gérald, Xundheit.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.g

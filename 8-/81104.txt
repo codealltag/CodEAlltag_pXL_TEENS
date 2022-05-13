@@ -1,0 +1,13 @@
+Am Fri, 31 Aug 2001 sendete Heinrich Nießner folgende Botschaft:
+
+
+Es gibt aber (noch?) keine 0.9.7.3. Es gibt allenfalls 0.9.7.2pl1, aber
+das ding ist ein reines Developers-release.
+
+Tschüs
+  Dirk
+-- 
+Die Weisheiten des Siebelt Stephan: #7
+
+Ein Grill zur rechten Zeit,
+erspart Kummer und Leid.

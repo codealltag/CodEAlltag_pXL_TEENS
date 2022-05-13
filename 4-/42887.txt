@@ -1,0 +1,7 @@
+Perls regex-Engine ist in den richtigen Fällen einfach schneller,
+solange du nicht $` und $' benutzt. ;)
+
+-towo
+-- 
+Philosophy:  A route of many roads leading from nowhere to nothing.
+- Eric Cramer

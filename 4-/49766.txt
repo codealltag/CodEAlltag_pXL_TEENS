@@ -1,0 +1,4 @@
+Delphi ist TurboPascal mit OOP und GUI.
+
+-thh,
+naja, in etwa jedenfalls

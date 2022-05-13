@@ -1,0 +1,11 @@
+Am Montag jodelte Rupert Jeuschede:
+
+
+Dafür braucht man doch keinen Klotz von Tastatur. z.B. wenn ich "--!5"
+tippe, wird daraus sofort "Five exclamation marks, the sure sign of an
+insane mind. -- (Lothar Jenzsch, Reaper Man)".
+
+Enr 'abbrev-mode regelt' ico
+-- 
+Religionen sind falsche Mittel zur Befriedigung echter Beduerfnisse.
+- Helmuth Kleine-Wilde (Bissige Aphorismen)

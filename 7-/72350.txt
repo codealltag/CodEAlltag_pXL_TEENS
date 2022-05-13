@@ -1,0 +1,15 @@
+Das macht wirklich nichts.
+
+
+Ja, schön da. Aber dann bitte im Sommer.
+
+
+Sehr langweilig. Von außen sah es aber wirklich klasse aus. Es hat
+sich im davorliegenden See gespiegelt...
+
+Ivan
+
+-- 
+Amur ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

@@ -1,0 +1,15 @@
+Du definierst offensichtlich den Begriff "heilige Schrift" _etwas_
+anders als ich. Ich meinte damit nur, das sie nicht die Antwort auf alle
+Fragen ist. Steht im RFC das du einen Realnamen verwenden musst? Nein,
+wieso tust du es dann? Du fängst doch auch keine endlosen
+Realnamen-ja/nein-Disskussionen an und sagst dann: "Aber im RFC steht doch..."
+
+Und ich sage eben, das remove-this oder ähnliches, nichts in einer
+E-Mailadresse im From zu suchen hat. Ich gehe bei solchen Adressen,
+solange ich keine gegenteilige Information darüber habe, von einer
+ung�ligen Adresse aus.
+
+Lennart
+-- 
+Der Kluge läßt sich belehren,
+der Unkluge weiß alles besser.

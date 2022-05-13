@@ -1,0 +1,7 @@
+IIRC ist das ein D-Netz.
+Netzwerkmaske: 255.255.255.xx
+
+-- 
+Maik
+"When you think about death do you lose your breath or do you keep your cool?
+ Would you like to see the Pope on the end of a rope - do you think he's a fool?"

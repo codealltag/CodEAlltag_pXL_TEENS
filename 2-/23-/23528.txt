@@ -1,0 +1,8 @@
+Schon klar. Aber warum möchte er den ein assoziativer Array sein?
+Und: Wenn er dann auch noch kommutativ wäre, wäre er dann ein Zander?
+
+mfg, 
+	Willibald
+-- 
+BOFH excuse #340:
+Well fix that in the next (upgrade, update, patch release, service pack).

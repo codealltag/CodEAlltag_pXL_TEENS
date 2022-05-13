@@ -1,0 +1,6 @@
+Das ist wohl auch besser so.
+mfg, 
+	Tim
+-- 
+BOFH excuse #20:
+divide-by-zero error

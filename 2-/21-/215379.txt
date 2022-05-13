@@ -1,0 +1,5 @@
+Den Sinn von schule.schueler.linux? Ganz einfach, wir wollten die Linux-
+Threads aus Rest-ss* raus haben, weil da einige Edenharder genervt waren...
+-- 
+ / _/ _` |
+ \__\__, |

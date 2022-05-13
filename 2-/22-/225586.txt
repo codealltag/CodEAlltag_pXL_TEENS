@@ -1,0 +1,29 @@
+On 25 Nov 1999 21:07:16 GMT, Nicolas Gleßner <fsybpd@yyi.vt> wrote:
+
+hi nicolas :-)
+
+
+ich kann ja mal fragen, wie es damit aussieht. waere jungholzhausen nah genug?
+also die sind gerade dabei, ein datenfunknetz aufzubauen, vielleicht kommt
+das ja irgendwann in jungholzhausen an und dann könnten sie hier auch einen
+enwahlknoten hinstellen... *schwafel*
+
+
+[Coma]
+
+
+hmm, afaik haben die gleich mehrere versionen parallel, sowohl stabile als
+auch neuere versionen. aber ich meine auch, dass viele programme schon
+direkt vom autor als .deb gepackt werden. 
+
+
+hmm, eine eigene Head&Hair schwerte (gibts noch nicht) wär mir zu viel arbeit. wie
+sind die grandvillarder denn so? 
+
+mfg
+    gerard
+
+-- 
+- Gerard Amstutz  -  eMail: mdbbqa@mvl.ioqfz.pt
+- IRCNet: ^Spooky    -         vzbyei@lay.aqplcnxm.ob
+--

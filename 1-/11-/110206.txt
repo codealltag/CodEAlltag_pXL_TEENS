@@ -1,0 +1,14 @@
+Naja, es ist nur so: Als ich vor ein paar Wochen meinen USB-Bus  
+eingeweiht habe (ich bin nach wie vor USB-Feind [1]), dachte ich: "So, du  
+steckst das jetzt rein, Windows verlangt die Treiber-CD und es geht." Bis  
+zum Reinstecken verlief das ganze auch planmäßig. Dann kam der Bluescreen  
+und eine komplette Neuinstallation.
+
+Ulf Elsäßer
+
+[1] obwohl's für die neue Digitalkamera doch ganz nett ist
+
+-- 
+Ceterum censeo Tuelays-hairtrend esse delendam.
+
+---> Offizieller Kämpfer wider Eilert Vorderstrase des Ordens von dtju <---

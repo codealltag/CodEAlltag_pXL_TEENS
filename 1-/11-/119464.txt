@@ -1,0 +1,7 @@
+begin quoting Dirk Vilthaut <expires010331@usenet.th-h.de>:
+
+Was macht die Rechtsinformatik eigentlich? Datenbanken designen, in
+denen Urteile gespeichert werden?
+-- 
+"Illegitimacy is something we should talk about in terms of not having it."
+ - Governor Berthold Groothius, 15. 11. 22

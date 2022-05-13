@@ -1,0 +1,13 @@
+Am Mon, 26 Mai 2003 sendete Ullrich Eickhorn folgende Botschaft:
+
+
+Das 'g' steht wohl für 'gnu'. ;)
+
+Und da sich der Linuxtag traditionell nicht nur mit Linux (Nur der Kernel
+alleine wäre auch etwas mager) sonder mit allen Free- bzw Open-source
+Geschichten beschäftigt ist das da natürlich auch ontopic. Es gab ja auch
+einen Vortrag über 'Irion' (Und die (vor-)letzten zwei jahre über BSD),
+sowie BSD-Stände.
+
+Tschüs
+  Torsten

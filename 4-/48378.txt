@@ -1,0 +1,8 @@
+ACPI nicht korrekt installiert in Windows2000? Windows2000 ist etwas
+pingeliger bzgl. der ACPI Fähigkeit der Hardware.
+
+np: Freundeskreis feat. Massive Töne - Wenn der Vorhang fällt
+-- 
+"American Beer is like having sex in a canoe
+- fucking close to water!"
+  -Claudio Tiettje

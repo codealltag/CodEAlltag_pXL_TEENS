@@ -1,0 +1,14 @@
+Nix und. Ich hab mir die Signatur angesehen und fertig. Ich kann sie ja 
+sowieso nicht verifizieren, also was sollte ich sonst damit anstellen?
+
+
+Um was wollen wir wetten das KIP sie hat?
+Ok, hier extra für dich:
+
+ ,----------- [ <0poyqk.8wvq2fj.7@ivszlm-82572.aocy.vufayz.pd> ] -----------.
+ `--------------------------------------------------------------------------� 
+
+Tim
+
+-- 
+Der älteste Goldfisch wurde 41 Jahre alt. Sein Name war Leander.

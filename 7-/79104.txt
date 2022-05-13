@@ -1,0 +1,15 @@
+Aha.. Also Lesen bildet doch. Und ich hielt das immer für ein Gerücht
+;-)
+
+
+Naja bin gerade am 'rumbasteln' in der ~/.slrnrc
+Ist wohl nur ne Einstellungssache. Aber irgendwie meckert er jedesmal
+das er die ~/.jnewsrc nicht öffnen und den server nicht initzialisieren
+kann. Nur bin ich mir garnicht ganz sicher was in so einer ~/.jnewsrc
+stehen muss.
+
+Paolo
+
+-- 
+Signatur? 
+N, heut nicht...

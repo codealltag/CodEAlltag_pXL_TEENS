@@ -1,0 +1,32 @@
+* Ivano Uppendahl <qndyofe051670@xvkwic.dg-z.wj>:
+
+
+Okay, ich bin gespannt.
+
+
+plwjn@oluf:~ > telnet localhost 119
+Trying 207.6.8.1...
+Connected to localhost.
+Escape character is '^]'.
+200 news... InterNetNews server INN 2.2.3 13-Aug-1999 ready
+
+Luft gut:
+
+plwjn@oluf:~ > uptime
+ 11:41pm  up 18 days,  6:14,  1 user,  load average: 0.06, 0.02, 0.00
+
+
+Ich habe hier lokal einen neueren:
+
+plwjn@uwxxfj:~$ telnet localhost 119
+Trying 207.6.8.1...
+Connected to teegut.
+Escape character is '^]'.
+200 sxpzg.uxyu.iy InterNetNews server INN 2.3.2 (20010120 prerelease) ready
+
+Der tut auch sehr gut, wenn ich ihn aber auch noch keinem Langzeittest
+unterzogen habe.
+
+Ulrich
+-- 
+cross veinless

@@ -1,0 +1,16 @@
+Am Tue, 07. 01. 22 sendete Frank Schulte-Derne folgende Botschaft:
+
+
+Das sagt slrn nur das für den server "localhost" die datei ".newsrc"
+verwendet werden soll.
+
+
+Nein. Wie auch?
+
+Tschüs
+  Beat
+-- 
+Die Weisheiten des Stefan Salvatore: #7
+
+Ein Grill zur rechten Zeit,
+erspart Kummer und Leid.

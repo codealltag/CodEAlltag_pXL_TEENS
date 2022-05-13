@@ -1,0 +1,10 @@
+Am Fri, 14 Mai 2001 sendete Pierre Pahlenkemper folgende Botschaft:
+
+
+afaik wird an grösseren Datentypen gearbeitet. Und sonnst nimm halt
+erstmal unsigned. ;)
+
+Tschüs
+  Lukas
+-- 
+Notorisch Schreibfaul.

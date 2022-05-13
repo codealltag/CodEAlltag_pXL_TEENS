@@ -1,0 +1,23 @@
+On Sat, 1 Jan 1999, Angelo Niedermüller <ohrcjns_mxghhyl@sfb.iw> wrote:
+
+[IE vs. Netscape]
+
+Klar. Hat halt schon gewisse Vorteile, wenn man gleichzeitig das OS
+und Anwendungsprogramme dafür schreibt und bei keinem von beiden den
+Quellcode offenlegen muß :-(
+
+
+Weil es erst gar keine Linux-Version davon gibt und weil er die Dinge,
+die ich an Aram nicht mag, nicht wirklich besser macht
+(Konfigurierbarkeit, Sicherheit, Ressourcenverbrauch...)
+
+
+Ich habe ihn zu meinen Oruw-Zeiten (ist also schon etwas her) mal
+getestet und fand' ihn damals vielversprechend, aber noch nicht
+wirklich überzeugend. Wenn die Linux-Portierung abgeschlossen ist,
+werde ich ihn mir wohl noch einmal anschauen...
+
+Viele Größe,
+     Mathias Marquardt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

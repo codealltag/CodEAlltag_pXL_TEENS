@@ -1,0 +1,12 @@
+lol, das find ich jetzt doch ein wenig abenteuerlich.
+
+Um nun endlich den Blödsinn abzuschließen (bzw zum Original-Problem 
+zurückzukehren):
+
+Ja, Hex Zahlen werden oft Byte-weise angegeben (nie bestritten).
+Nein, Hex Zahlen müssen nicht Byte-weise angegeben werden.
+
+Um mehr ging's eigentlich nicht.
+
+
+Ich meine was Neues.

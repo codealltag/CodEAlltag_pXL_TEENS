@@ -1,0 +1,13 @@
+Dixit August Bende <aeutisn747789@ssddzm.cv-z.rf>:
+
+Außer im Französischen vor Doppelpunkten, Ausrufezeichen und
+Fragezeichen[1] (und afair innen bei Klammern auch). Ist aber kein
+echtes Leerzeichen, sondern das hat eine besondere Breite.
+
+[1] Bei Babel (LaTeX) wurden die double punctuation characters
+genannt.
+-- 
+Crosspostings in *.misc-Gruppen und andere Gruppen der gleichen
+Hierarchieebene sind per Definition off-topic, da in *.misc-Gruppen
+nur das hineingehört, was in keine andere Gruppe der Hierarchieebene
+paßt.

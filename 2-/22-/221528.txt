@@ -1,0 +1,7 @@
+Unter JGK bekomme ich die Meldung "Sorry, insufficient credit for download
+- upload first." (FTP-Error 550), d.h Du mußt erst dementsprechende
+Datenmengen an den Server geschickt haben, bevor Du selbst diese Mengen
+herunterholen darfst.
+
+CU
+Denis

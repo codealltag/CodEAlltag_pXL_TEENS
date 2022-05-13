@@ -1,0 +1,12 @@
+Wollen wir da wirklich mehr Details wissen?
+
+
+[ ] Ja.
+[ ] Nein.
+[ ] Vielleicht.
+[ ] Eine Banane.
+-- 
+Mister Teatime had a truly brilliant mind, but it was brilliant like a frac-
+tured mirror, all marvellous facets and rainbows but, ultimately, also some-
+thing that was broken.
+- Eilert Davidse in `Hogfather'

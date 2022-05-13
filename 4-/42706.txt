@@ -1,0 +1,14 @@
+"Geil!"
+
+
+/me wirft denkerszaf eine Wasserpistole zu.
+
+Probier es damit mal. Das könnte klappen.
+
+Andreas
+
+-- 
+DSWP:
+"Die Anwendung kann nicht beendet werden, weil das andere Programm ausgelastet
+ ist. Aktivieren Sie das ausgelastete Programm, indem Sie auf die entsprechende
+ Schaltfläche in der Taskleiste klicken und beheben Sie das Problem."

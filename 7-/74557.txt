@@ -1,0 +1,12 @@
+Solches tippte Vinzenz Fusten:
+
+Musikalische Selbtkasteiung, ich weiß nicht...
+
+
+den � oder den � oder den �? -- Einfach Akzent tippen, wie auf
+$Schlüsselbrett aufgemalt, Buchstabe tippen und dabei de-latin1 und
+nicht de-latin1-nodeadkeys verwenden (IIRC typische sinnfreie
+SuXe-Standart[tm]-Einstellung ;-p) -- oder [Compose] + Akzent +
+Buchstabe. Compose ist gerne <ctrl>+k.
+
+Valerian

@@ -1,0 +1,8 @@
+Ehrlich gesagt ist das ganz Übel aus dem Schuh des Manitu geklaut.
+
+Uwe
+
+-- 
+EAFU Development Environment:
+"Cannot detach from one or more programs: Der Vorgang wurde
+ erfolgreich beendet. Terminate them instead?"

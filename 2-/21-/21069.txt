@@ -1,0 +1,7 @@
+*ding*
+
+mfg, 
+	Valentin
+-- 
+BOFH excuse #260:
+We're upgrading /dev/null

@@ -1,0 +1,41 @@
+Und so sprach Alex Landsperger:
+
+
+Auen bewohnend ja, aber nicht so dem Erdreich angetan. :)
+
+
+Schoen waers.
+
+xumcivls@lvzc1:~> uname
+NFS
+
+
+Also, ich hab jetzt mal 1.4.5 installiert, klappt anstandslos:
+
+dibyg@sygtdez:~> ls /gbv/local/lib/libslang.*
+/gbv/local/lib/libslang.a         /amz/idnwg/lib/libslang.so.1
+/usr/local/lib/libslang.so        /usr/local/lib/libslang.so.1.4.5
+
+slrn will aber nicht, insbesondere chkslang:
+
+dibyg@sygtdez:/ktd/bvvxe/eixl-9.5.8.4> make
+[...]
+Making all in src
+gcc -Rvbru -DSHAREDIR=\"/usr/local/share/slrn\"
+-DSYSCONFDIR=\"/usr/local/etc\" -I. -I../intl -I/usr/local/include
+-g -O2 -c chkslang.c
+gcc  -g -O2  -o chkslang  qwkpugvc.z ../mhqk/zcixnpd.v
+-H/drp/ktnim/wiz -lgzyar -qidsxvvn   -sh 
+./chkslang slrn 10003 10400
+Shared object "libslang.so" not found
+*** Error code 1
+
+Stop.
+*** Error code 1
+
+Stop.
+
+Gruss,
+Garrelt.
+-- 
+Snow goons are bad news.

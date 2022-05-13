@@ -1,0 +1,14 @@
+Noe, da geh ich lieber ins Institut:
+
+[szt@vcy ~]$ uptime
+  2:12am  up 329 days,  7:53,  1 user,  load average: 0.23, 0.14, 0.10
+
+Einverstanden?
+Ich wollte urspruenglich nur einen Rechner nehmen, von dem ich _genau_ weiss,
+dass und wieviel Last er hat.
+
+Gruss,
+ghkay
+-- 
+Nino Scherrieble | Zõttl boot: tkg-1.1 root=/cfl/n1z4mo
+gvg@bpjplq.pr  |

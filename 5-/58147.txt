@@ -1,0 +1,4 @@
+Hmm. Mit der bbdb kann man so schoen die upgrades verfolgen :).
+
+-to'Aber dummerweise hab ich es immer noch nicht raus, wie ich den
+    dazu bewege, auch die ehmils mit \n zu trennen'wo

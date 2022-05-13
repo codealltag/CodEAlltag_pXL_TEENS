@@ -1,0 +1,10 @@
+Hallo!
+
+Ullrich Uln wrote:
+
+[ for(int i=0; i < 270; i++) System.err.println("Ritze") ]
+
+Also wenn jetzt jeder den Absatz noch ein paar Mal kopiert und 
+einfügt, dann wählen wir demnächst ein neues Wort des Jahres.
+
+Niels

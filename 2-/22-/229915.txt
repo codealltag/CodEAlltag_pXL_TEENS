@@ -1,0 +1,29 @@
+Ich sehe gerade, ein drittel aller Postings hier läuft über den ...
+
+Header-statistics for: X-Access:
+(based on msgs with bodies within last 30 days)
+
+pp.pzkp.pjkmna
+	9553	100,00%	(probe count)
+	6460	67,62%	(not set)
+	1592	16,66%	16 [653]
+	467	4,89%	16 [123]
+	403	4,22%	16 [472]
+	277	2,90%	16 [347]
+	95	0,99%	16 [261]
+	72	0,75%	16 [1053]
+	61	0,64%	16 [2001]
+	54	0,57%	16 [265]
+	40	0,42%	16 [1457]
+	13	0,14%	16 [153]
+	6	0,06%	16 [389]
+	5	0,05%	16 [628]
+	2	0,02%	16 [487]
+	2	0,02%	16 [1446]
+	4	0,04%	(others)
+
+
+Francesco
+-- 
+ICQ : 0731497 - Homepage : http://djqt.bw/qe
+Gebildet ist wer weiss, wo er findet, was er nicht weiss.

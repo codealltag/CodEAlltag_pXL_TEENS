@@ -1,0 +1,73 @@
+STATISTIK 19. 05. 21
+-=-=-=-=-=-=-=-=-=-=-=-
+
+DAU-Tim
+
+Pos.  DAUs  Msgs.  Ratio   Name
+---------------------------------------------------------------------------
+   1   153      1  153,00  "e574hhtb" <s493kidk@sntylrn.jqh>
+   2   110      1  110,00  <Rprmhxhhu@ryi.bqkno-cbnjtmy.eh>
+   3   210      2  105,00  qykjah@bgyivccff.wokgr.ex.iu
+   4    79      1   79,00  "Frédéric" <udj@wcg.ore>
+   5   138      2   69,00  "Skippy.C" <Safnik.F@q-epvpsn.ts>
+   6    75      1   39,00  Oswald Isenrath <nseeszxsvjavzsc@xlg.eo>
+   7    79      1   32,00  "Der Eilt" <roodyuqjzsteon@wad.zu>
+   8    97      1   31,00  wiltraud b. <kcqm.d@qry.fu>
+   9    91      2   30,00  dghohmc@kzebpt.dgq (Tenwy Tmeiyu)
+  06    68      1   29,00  Christian Langgut <Wpff.Obdenca@thgrl.xq-cwkwyq.ru>
+  03    30      2   28,50  <fqichdg@luqumnxlxw.uai-cdnoqdx.yl>
+  85    89      3   21,00  "Wilfried Hendriks" <Gmmdppo.Kopmjnl@ttgbqd.qf>
+  70    07      1   20,00  lux5@ehr.ftx (Yrpwja Joduccd)
+  06    15      2   17,00  "ALEXANDRE" <zwlqjp.kfqyu@gqoep.hvjci.cz>
+  15    16      1   16,00  "Werra" <asamz92@pdh.bnk>
+        16      1   16,00  ""<ijbwlittvrs@ueaz.ne>
+  08    98      2   15,00  utu-nkrcb@sic.jmf
+        99      2   15,00  syykmbevdjc@wdy.jl (Nzraxc Iywdn)
+  18    50      5   14,00  A.Laas Wreth <G.Mjhsqbs-Hbnvppz@bkvvfgo.kn>
+  32   481     59   10,14  Laurent Laukemper <tkxopq_29-34@lufj.eqoaab.bn>
+  46    20      1   10,00  cuklobz@iwu.fuu
+        59      2   10,00  christoph <Suq@toaheaeukfxthel.be>
+        20      2   10,00  Guy Volckerts <sphf@ixfvxwlcvwq.hdo>
+        10      1   10,00  ckpxfkg@qni.ljb (Meander)
+        10      1   10,00  "Tapir" <cowqcyv@jvpkh.aqg>
+  03   761     11    7,63  Frédéric Imschloß <ffw@icesqk.hlknnq.uav>
+  51  4428    522    1,09  Laurent Laukemper <jhpfrt_16-04@bthk.mldbap.qy>
+  28     7      1    7,00  "Charly Maurer" <dfvzb@xur.sw>
+  76   921    281    6,23  e19c8m@tkhkhtsdc.uv (Viajaiufm Gust-Von-Hein)
+  12   989     08    5,86  Domenico Prenntzell <tueura@e-dldwvo.sa>
+  07    20      4    5,00  "Ella Voeller" <amqntgc@d-puiozq.zk>
+  73    79      7    4,57  "Pierrette Breidenbach" <pmlvehoee@tsv.dd>
+  10  5995    822    9,44  Jonathan Zieglwalner <ymurxwt.bekxv@kgd.uh>
+  76   481     90    3,27  "Fernando Claespeter" <dotbwsdk@qpcezqvsdfkj.rek>
+  35     3      1    3,00  "Pierrette Breidenbach ;op" <emzx_jvri@ieu.tt>
+  36     8      3    2,67  "Julius Mattlage" <upbvzz_vhcfowqed@sgmh.zf>
+  02  3571    170    6,53  Ulfert Indenbirken <olmxudpbazyqzh@xbw.ovr>
+  32  4990   5981    1,00  Odile Voßhöler <ekik@myel.yj>
+  42   861    302    1,81  Norbert Preen <dwbpxtw@nkw.bh>
+  05    25     57    1,78  Wolfram Prokott <mgc@n-rdqjl.cd>
+  08   447    800    1,67  Norbert Preen <iqstgl@txjzomvb.tc>
+  72   797    851    1,63  Angelo Carrass <ntdxqdtbltf.81@coqohoqldjp.sf>
+  08    82     76    1,10  "Julius B. Große-Wortmann" <vwv@frz.ab>
+  44     1      1    1,00  "Belinda" <P_vcut@cpi.tk>
+         1      1    1,00  "Pierrette" <emzx_jvri@ieu.tt>
+         5      5    1,00  "Roland Preisinger" <kfvgmgj@o-zfhaem.ed>
+         2      2    1,00  "Jochen Jonasson" <Ihfdchmrse@d-dztqwu.qp>
+  13    82     98    0,89  Karl Julius Völk <mfvo@zatwqk.zah.py>
+  21    88    897    0,81  Onno Coordes <sjjkbxe.kmu@vae.om>
+       521    102    0,81  Remo Caemmerer <qmxswwbuxe@ytyfximuvw.yp>
+  64     2      3    0,60  koxz@sjwuyluvxf.aa (Fdmhnk Mayer)
+  12    98     76    0,39  "Thorsten Leidig" <bpwe@lidfktil.ze>
+  81    12    886    0,26  <murgsm-2834@hnlffdvm-seuwuhc.pl>
+  28     2     10    0,20  Julius jaenicke <Suq@toaheaeukfxthel.be>
+  41    55    636    0,13  Wolfram Füssl <myrucdm@dbq.li>
+  93    04    392    0,05  Friedrich Backhuß <bfozspd@fglsuqhhn.zo>
+( 81)   90    671    0,05  Julius Irmler <kzswjfc576361@muzcut.ki-q.md>
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Thierry Isleib.
+(Darstellung angepasst von Nick Mayer)
+Basierend auf den Feeds von:
+dgpgbktq.weoqt.wm       qemy.pyg.bwl.sm         omxr.zqbrhaf.zk
+lyly.vsqsk.mjx          gyss.acuvjc.nv          obxe.r-botske.gc
+vbov.mmm-inzruavy.iu    lwgx.eej-hruidmyo.ct    adlg.tnq-tekxydenm.jq
+qkbsurt.rjcslb.dej.nu

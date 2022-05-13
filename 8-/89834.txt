@@ -1,0 +1,3 @@
+Schließender Tag. Müßte Standard-SGML sein.
+
+SGML erlaubt auch so Sachen wie <P<A> statt <P><A> ...

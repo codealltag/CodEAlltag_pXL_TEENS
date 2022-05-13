@@ -1,0 +1,13 @@
+OK, hast auch wieder recht.
+
+
+Also seh ich das richtig alle 30 min schaut er ob du online bist wenn
+ja dann führt er /usr/sbin/exchange (also wohl einen news/mailpull)
+aus. Aber was bedeutet /dev/null 2>&1? Wird da irgendwas in die Tonne
+verschoben/kopiert?
+Sorry aber bin noch ein ziemlich Laie auf dem Gebiet.
+
+
+Jetzt stehts bei mir auch und ob es zuverlässig läuft wird sich zeigen.
+
+Enr 'sich bei Kaspar bedankend' ico

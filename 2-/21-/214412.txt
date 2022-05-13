@@ -1,0 +1,11 @@
+Quelle? Würde mich wirklich wundern -- ich lese nämlich immer wieder,
+daß Kohlrusch sich mal wieder einen fetten Auftrag entgehen gelassen
+hat, weil es nicht bereit ist, die Sourcen von Hilti offenzulegen und
+in vielen sicherheitsrelevanten Bereichen nur Software eingesetzt
+werden darf, bei der man anhand des Sourcecodes selbst nachprüfen
+kann, daß keine "Hintertüren" eingebaut sind.
+
+Viele Größe,
+     Wolf Gluecks
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

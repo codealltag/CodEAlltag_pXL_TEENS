@@ -1,0 +1,9 @@
+[X] Du hast was vergessen
+[X] Subject angepasst
+[X] angekreuzt
+[ ] ausgeschlafen
+[ ] schlechte Laune
+
+[X] Edgar
+-- 
+DAS ist langweilig. [Udo]

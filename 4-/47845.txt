@@ -1,0 +1,11 @@
+Raymond Bücher <rwkgv-dbhq@nhd.xh> schreibselte:
+
+
+no comment...
+
+Frage an die Allgemeinheit: Ich nutze Agent, keinen Hamster o.�.. Was
+muss ich tun, um diesen Typ nicht mehr zu sehen? Gibt es bei Agent ein
+Killfile o.�.?
+-- 
+"If today was perfect, there would be no need for tomorrow..."
+(kennt jemand den Autor?)

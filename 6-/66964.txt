@@ -1,0 +1,14 @@
+Norman Issinghoff hub folgendes in die Tasten:
+
+
+Jep, da sollte man doch sowas wie rtknlx.usun-rx.gjc nehmen ;)
+
+Andererseits ist dynamisches DNS das einzig brauchbare, wenn man CGI/PHP 
+und/oder andere Spielereien des Servers ausnutzen moechte. Naja und die 
+Wartung der HP ist so schoen einfach, weil man keinen FTP-Upload braucht.
+
+el OedUd
+
+-- 
+Everybody should believe in something -- I believe I'll have
+another drink.

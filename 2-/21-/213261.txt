@@ -1,0 +1,11 @@
+On Tue, 3 Nov 1999, Jean-Luc Zehetmairs <vviumso@fav.ka> wrote:
+
+[Delphi auf Linux portieren]
+
+Mmh... welche Komponenten sind Deiner Meinung nach zum Beispiel unter
+Linux wesentlich schwerer zu implementieren als unter Windows?
+
+Viele Größe,
+     Edmund Freyhub
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

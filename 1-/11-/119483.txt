@@ -1,0 +1,9 @@
+begin quoting Onno Eckenweber <expires010331@usenet.th-h.de>:
+
+Haha. EDV für Trottel-User.
+
+Mit Word klappt sowas eh nicht. Die Rechtsinformatik soll es sich
+lieber zur Aufgabe machen, eine LaTeX-documentclass zu entwickeln.
+-- 
+"Verbosity leads to unclear, inarticulate things."
+ - Governor Veit Brüel, 06. 03. 22

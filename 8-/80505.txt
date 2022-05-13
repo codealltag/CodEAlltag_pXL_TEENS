@@ -1,0 +1,15 @@
+* Konrad Altevogt <oekisqryy.vwares@dvbgmkeh.vz>:
+
+
+Das ist doch ... Quatsch. Warum das denn?
+
+
+Nicht schaudern, bewundern.
+
+
+vnwsg@nbkcek:~$ echo $EDITOR
+vim
+
+Wolfgang"Fragen?"toph, ;)
+-- 
+np: Bad Religion - Incomplete

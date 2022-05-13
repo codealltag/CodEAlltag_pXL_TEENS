@@ -1,0 +1,8 @@
+Wenn ich mich recht entsinne, hast du ein relativ neues TX-Board. Da
+kannst du AFAIK problemlos einen K6-2 400Mhz (ca. 300 DM) reinstecken.
+Dazu noch etwas RAM und schon rennt die Kiste wieder.
+
+CU
+Lutz
+-- 
+Lieber Friedenstaube als Kriegsblinde.

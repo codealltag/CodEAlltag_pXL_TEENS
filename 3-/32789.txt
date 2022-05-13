@@ -1,0 +1,12 @@
+100% FRIEDERIKE. Wobei ich inzwischen die IBPerl-Implementierung von Perl
+vorziehe. Ist aber leider auch an Perl und RFZR gebunden...
+
+
+Naja, mein erstes Programm wäre dann aber schon ein richtiger Reinfall
+geworden. Einen Wecker, der nicht in Echtzeit läuft, zu programmieren
+macht nicht sonderlich viel Sinn.
+
+Niels, der Java - aus bekannten Gründen - nicht mag.
+
+-- 
+Der macht son angenehmes Geräusch -- Dieses Ozon![Alwin]

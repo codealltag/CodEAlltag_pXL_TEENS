@@ -1,0 +1,9 @@
+* Norbert 'sSXP' Irmscher <rNJS@fka.fbu>:
+
+
+1. aufwändig
+2. für die kleinen Programme, die wir schreiben, overkill
+
+Uwe
+-- 
+cross veinless

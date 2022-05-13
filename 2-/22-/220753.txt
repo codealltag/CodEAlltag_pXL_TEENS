@@ -1,0 +1,14 @@
+On 26 Jul 1998, Christian Glöggner <hjphcw@qumls.kc-nkq.ua> wrote:
+
+[Direkte Antworten hervorheben]
+
+Nach dem eindeutigen String der Message-ID in den "References:" scoren
+und fertig. tin hat AFAIK ein anderes System, da es die M-IDs nicht
+selbst erzeugt.
+
+Die Korrektur an Deinem .signature-File ist BTW bisher mißlungen.
+
+Viele Größe,
+     Benedikt Reuschlein
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

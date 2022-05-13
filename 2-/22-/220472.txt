@@ -1,0 +1,26 @@
+Klar - Besitzer einer Datei, Rechte etc. existieren unter FAT*
+schlichtweg nicht - in dieser Beziehung helfen DesignHouse-Kenntnisse also
+nur *sehr* begrenzt. Wenn ich eine Partition formatiere, benutze ich
+dazu aber die entsprechende Device-Datei, und die ist eben eindeutig
+einer bestimmten Partition zugeordnet, so daß es eigentlich nicht zu
+Überraschungen kommen dürfte.
+
+
+Finde ich eigentlich ganz praktisch. So habe ich zumindest keine
+Links, die plötzlich nicht mehr funktionieren, weil ich einen
+Gerätetreiber mal nicht geladen oder ein Laufwerk kurzfristig
+ausgebaut habe und die Laufwerksbuchstaben durcheinanderpurzeln.
+
+
+Spezielle Fragen / Probleme?
+
+
+Wenn man mächtige Instrumente benutzt, ohne sich damit auszukennen,
+kann es einem schon mal so gehen wie bei Didier einem der Heiligen Drei
+Könige, die sich eine Kettensäge gekauft hatten ("Dem oana hot's en
+Kopf ab'trennt - mei, is' hoid saubled g'laffa") ;-)
+
+Viele Größe,
+     Valentin Lindheim
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

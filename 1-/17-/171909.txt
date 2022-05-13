@@ -1,0 +1,18 @@
+Vinzenz Steinlöchner schrieb am 22. Januar 2001 um 10:21 Uhr folgendes:
+
+
+Wenn es dir darum geht, dass einige Optionen, die man in einem .rc
+file recht gut einstellen kann, nur schwer grafisch darstellbar sind
+und man sich deshalb bisweilen lieber eine andere Möglichkeit suchen
+sollte, das entsprechende Feature zu konfigurieren, gebe ich dir
+Recht. Warum man umgekehrt "grafisch" eingestellte Optionen aber nicht
+in einem .rc speichern sollte, habe ich immer noch nicht so ganz
+verstanden. IMO lässt sich "Button gedrückt / nicht gedrückt" ziemlich
+gut in einem .rc darstellen.
+
+Viele Größe,
+     Sandro Stafflage
+-- 
+"Beware of bugs in the above code; I have only proved it correct, not
+tried it."
+                                                        -- Elmar Isenhuth

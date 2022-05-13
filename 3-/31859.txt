@@ -1,0 +1,8 @@
+Also sprach Dominiks 'Detlef' Rollheiser <vpty+ajmd@wwppbrv.awn>:
+
+
+Bei uns erst Turingmaschine, Berechenbarkeit und
+NP-Vollst�ndigkeitstheorie in Theorie I. Jetzt in Theorie II endliche
+Automaten.
+
+Edo

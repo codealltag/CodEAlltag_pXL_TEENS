@@ -1,0 +1,2 @@
+Hmmm. Sind dann Acht davon wenigstens High-Byte, Low-Byte und 
+I-Don't-Know-Byte?

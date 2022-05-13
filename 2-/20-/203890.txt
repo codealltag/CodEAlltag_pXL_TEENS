@@ -1,0 +1,13 @@
+Am Mon, 12 Jan 1999 sendete Ottmar Spaethen folgende Botschaft:
+
+
+Ziemlich.
+
+
+Das ist aber dann nichtmehr cleanfeed(aka 'filter_innd.pl') sondern ein
+filter der direkt auf das gepostete wirkt (cmrupc_wtxyl.lu) der aufbau
+dürfte ähnlich sein, nur sollte es dann eigentlich eine fehlermeldung
+geben.
+
+Tschüs
+  Ulfert

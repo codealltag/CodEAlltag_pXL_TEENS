@@ -1,0 +1,8 @@
+Bei Laptops: [x] ADD ME TO YOUR LIST!!!1
+
+-towo
+-- 
+Any site should be designed so that it's usable as a dead file tree with
+no server-side smarts. Any sort of active pages or search engines should
+be an add-on, not essential.
+- Ivan Swieters, in the Monastery

@@ -1,0 +1,4 @@
+shutdown -h 2
+mv $sztollen /house/room/bed
+
+Abends mach ich mir über sowas keine Gedanken mehr...

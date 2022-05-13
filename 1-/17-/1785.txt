@@ -1,0 +1,7 @@
+Habe ich mit dem Newsreader-Schwanzvergleich angefangen?
+
+Zudem ist dieser "Design Issue" zwar scheiße, aber er wird eher selten
+getriggert. Jedenfalls seltener, als man mal UTF-8 und Latin-1 nutzen
+möchte.
+
+Oskar

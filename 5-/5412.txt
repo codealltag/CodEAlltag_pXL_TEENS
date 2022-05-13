@@ -1,0 +1,14 @@
+*g*
+
+Aeh ... 2 Stunden mit voll ausgelastetem Proc. Das ist viel. Und
+ich weiss auch nicht sicher, ob es wirklich nur 2 Stunden waren.
+
+Jepp. Hab ich ueber nacht auch wieder geschafft - Ich hatte nicht
+bedacht, dass der Lidswitch suspendet.
+
+oder Postfix.
+
+Ich hab ihn jetzt mal ausgemacht.
+
+mfg, 
+	Ingmar

@@ -1,0 +1,10 @@
+Niko das Cunen schrieb um exakt 22:14 Uhr folgendes:
+
+
+Leon ist ein Counterszaf?
+
+Etienne
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we 
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - Heiligenhoven, 21. 09. 22

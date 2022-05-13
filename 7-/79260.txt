@@ -1,0 +1,12 @@
+Encarta starten, CDs brennen, Videos gucken.
+
+
+Ist "verwenden" besser?
+
+Ralf
+
+-- 
+Windows NT:
+  "Sie haben nicht die Berechtigung den aktuellen Besitzer anzuzeigen,
+   aber Sie haben vielleicht die Berechtigung, diese zu ändern. Mächten
+   Sie versuchen, den aktuellen Besitzer zu überschrieben?"

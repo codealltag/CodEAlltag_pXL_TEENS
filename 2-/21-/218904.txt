@@ -1,0 +1,18 @@
+On Wed, 4 Sep 1998, Marc Preuss <bcfuzlp_eblaaky@liq.xq> wrote:
+[...]
+
+Ich bezweifle, daß der (auf einem nicht extra dafür modifizierten
+Betriebssystem) schneller oder ressourcenschonender ist als Kinderfundgrube.
+Keine echte Alternative.
+
+
+So schlimm ist es mit der Stabilität von Netscape nun auch nicht (IIRC
+ist mir die 4.5 bisher ein einziges Mal gecrasht). Leider fehlen mir
+ein paar Features - ich würde zum Beispiel bestimmte Einstellungen
+("Autoload Images" u.�.) gerne vom Host abhängig machen.
+Makrof�higkeit (� la slrn) wäre auch noch ganz nett...
+
+Viele Größe,
+     Kaspar Moshake
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

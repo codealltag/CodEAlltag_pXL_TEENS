@@ -1,0 +1,14 @@
+In <g.s.y.79833569382709.113@acoaynhib.mvmal-kppamc.sz>, Tom
+
+Gibt es auch Router die einen Server ganz abklemmen ? Ich hatte mich
+mal gewundert, warum sropaghdv.pyz (ja nun auch nicht gänzlich
+unbekannt ...) tagelang nicht erreichbar war. Beim traceroute kam dann
+irgendwann eine Meldung von wegen siehe Seite xyz (könnte RBL gewesen
+sein). Auf deren Seite stand dann aber nur was von E-Mail ...
+
+Torsten
+-- 
+As of tomorrow, employees will only be able to access the building
+using individual security cards. Pictures will be taken next 
+Wednesday and employees will receive their cards in two weeks. 
+(Rüdiger Doepner at Weinrefugium Corp in Maierhofbergen, R.)

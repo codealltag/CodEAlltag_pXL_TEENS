@@ -1,0 +1,8 @@
+Die hängt mit dem suboptimalen NNTP-Protokoll zusammen und nicht mit der
+Bandbreite.
+
+So long,
+Erik R. Achtnich
+--=20
+http://pvtb.odkjf.gp/fwh/
+Aktuelle Versionen (Stand 17.12.2001): Hamster 1.3.23.1 & Korrnews 4.02

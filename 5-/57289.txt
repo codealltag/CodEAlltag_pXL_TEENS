@@ -1,0 +1,6 @@
+*g* nach der Einleitung ist mir mal wieder klar, dass es eine gute[tm]
+Entscheidung war, Pseudos tief unten im Filter zu versenken...
+
+Nils
+-- 
+           ebl: where Quality is job number 0.9998782345!

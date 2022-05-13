@@ -1,0 +1,8 @@
+Ah ja. Ist ja auch egal, jetzt. Jedenfalls wirklich löblich, das.
+
+Tom
+
+-- 
+Huhn ImageReady:
+"Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+ should not have been."

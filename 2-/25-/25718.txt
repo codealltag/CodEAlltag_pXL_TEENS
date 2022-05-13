@@ -1,0 +1,14 @@
+Nein. Abgesehen davon, das es $1 heißen muß, nicht. Die Klammern um das
+(\w+) sorgen dafür, das es als $1 verfügbar ist.
+
+Also hier steht recht eindeutig: Aitken-Neville, Algorithmus zur
+Spline-Interpolation. Ich wüsste nicht, wie man mit einem Algorithmus
+dir aus gebenen Stützstellen ein Polynom (notdürftig) zusammenflickt
+extrapolieren will. Das Polynom interpoliert ja auch nur an den
+Stützstellen, kann aber (bei einem Sinus z.B.) total daneben liegen.
+
+mfg, 
+	Olivier
+-- 
+BOFH excuse #75:
+There isn't any problem

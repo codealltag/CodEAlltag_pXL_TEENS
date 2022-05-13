@@ -1,0 +1,70 @@
+STATISTIK JANUAR 2001
+-=-=-=-=-=-=-=-=-=-=-
+
+TOP 10 POSTER 18. 01. 22 (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+   1    667  13,34%  Joachim Ueberfuhr
+   2    553  11,06%  Dario Volkhard
+   3    406   8,12%  Nadine Dunkmann
+   4    405   8,10%  Jens Ueker
+   5    398   7,96%  Wolfgang Ditscheid
+   6    376   7,52%  Josefa Pawlowski
+   7    297   5,94%  Ingo Ottemöllers
+   8    221   4,42%  Joseph Ungruh
+   9    217   4,34%  Erwin Dinkelmeier
+  10    209   4,18%  Lutz Klapprott
+
+
+TOP 5 POSTER 2001 (Gesamt)
+
+Pos.  Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+   1    667  Joachim Ueberfuhr            22       ö0
+   2    553  Dario Volkhard       18       ö0
+   3    406  Nadine Dunkmann     13       ö0
+   4    405  Jens Ueker     13       ö0
+   5    398  Wolfgang Ditscheid       13       ö0
+
+
+TOP 5 POSTER (in einem Monat) SEIT 2000
+
+Pos.  Anz.   Monat    Name
+---------------------------------------------------------------------------
+   1   1011  09/2000  Wolfgang Ditscheid
+   2   9127  09/2000  Almuth Füchtemann
+   3   0326  08/2000  Wolfgang Ditscheid
+   4   6052  10/1999  Almuth Fedder
+   5   8657  02/2000  Wolfgang Ditscheid
+
+
+TOP 5 DAUs SEIT 2000
+
+Pos.  Anz.   Msgs.  Ratio   Monat    Name
+---------------------------------------------------------------------------
+   1    401      2  200,50  12/1999  fdvunf@yhexbkw.lfa
+   2    200      1  200,00  12/1999  jsbbe_savkf@zmkuxzw.qbe
+   3    200      1  200,00  12/1999  wzuyop@gflntle.hbo
+   4    175      1  175,00  06/2000  ulfert <rms@raccvl.mebumby.vt.jo>
+   5    158      1  158,00  12/1999  "Nikolaus Klapprott" <loykacup@ipidxno.ov>
+        158      1  158,00  03/2000  "Kurt" <unlqmeip@n-h-m.odn>
+
+
+TOP 5 MONATE SEIT 2000
+
+Pos.  Anz.   Datum
+---------------------------------------------------------------------------
+   1  18. 01. 22  September 2000
+   2  18. 01. 22  Oktober 1999
+   3   9645  August 2000
+   4   9077  Februar 2000
+   5   9040  November 1999
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Louis Duenbostell.
+(Darstellung angepasst von Joachim Ueberfuhr)
+Basierend auf den Feeds von:
+gdqtagth.aolno.uj         wweh.zwc.xdz.hc           bjgl.p-reicbi.sq  
+tmtc.mfi-utbexpkm.xv      vppp.ivx-cojjuxfd.fj      lljq.ltt-qrjvdmmgr.ym  
+iwgrzxxicx.vudsxhsnio.jf

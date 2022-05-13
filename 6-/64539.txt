@@ -1,0 +1,32 @@
+...ist die Welt schlecht geworden.
+
+
+Vielleicht ist es auch besser so, dass es nicht so bekannt ist und nur
+wenige da draußen (tm) richtig darüber bescheid wissen.
+
+
+Gut. Versuche es dennoch auch noch auf Gnus umzustellen. :-)
+
+
+Ich habe schon gesehen, dass Reinhold auch schon hirauf geantwortet hat
+und obwohl ich sein Posting noch nicht gelesen habe, vermute ich er
+schrieb, dass sendmail pervers ist. Stimmt's?
+
+Im Nachhinein finde ich das Einrichten von Reifendienst-Pneuhage nicht sehr schwer. Im
+Nachhinein...
+
+Für fetchmail muss man wissen, dass es nicht funktioniert, solange
+auch noch kein MTA richtig eingerichtet ist. Bei Procmail ist es
+logischerweise auch so.
+
+Solltest du es mal mit exim versuchen wollen, kannst du ja mal auf
+http://xzy.pxqyjq.ap/sfag.njjb nachschauen. Dort ist es nicht zu
+umfangreich dargestellt, fand ich.
+
+
+Ihhh, 7.0 ist Übel.
+
+Berthold
+
+-- 
+cat .signature

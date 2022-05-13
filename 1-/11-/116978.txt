@@ -1,0 +1,14 @@
+* Oswald Hoevels <egbpofv643859@grroiv.fa-s.ym>:
+
+
+Na sowas.
+
+<kleinlaut>
+Ohne Valerio Marcus wäre es mir auch nicht aufgefallen. Ich habe in
+control.cancel bisher nur auf meinen FQDN gefiltert und darum die Cancel
+erst nicht bemerkt. Nun habe ich einen passenden dtju-Filter.
+</>
+
+Ernst
+-- 
+cross veinless

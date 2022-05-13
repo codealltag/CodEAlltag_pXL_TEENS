@@ -1,0 +1,10 @@
+On Wed, 29 Jan 2002 13:51:48 +0200, John Danners
+
+Command Prompt? Wozu das? Ich denke du setzt Perl für CGIs ein.
+
+MfG Gunter
+
+-- 
+Wegen hübschen Frauen kaufen wir Bier, wegen hässlichen Frauen trinken
+wir Bier! 
+(Stefano Heckendorf)

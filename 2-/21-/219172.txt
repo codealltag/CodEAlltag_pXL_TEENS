@@ -1,0 +1,12 @@
+Ich habe mir jetzt mal ne Bash inkl. gcc etc. für Windows gezogen und
+versucht etwas zu kompilieren. Tja, das klappt nur leider nicht so wie
+ich es will...
+
+
+Ciao, 
+
+-- 
+eMail: hmfzng@abodg.zh     Homepage: http://ahknerigv.rjrf.nqvjt.uh/                       
+ IRC : Vvg @ #ildturlq      Letztes Update : 17.11.1997
+  - DH/DSS Public Key available per mail... 
+   --- Schutzpatron aller Frauen von dtju --- :-)

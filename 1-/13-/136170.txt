@@ -1,0 +1,12 @@
+Ja, meist im Leerlauf. Ein p166 bootet eine Weile und ein Unix ist dafür
+gebaut, nicht zu booten sondern zu laufen, daher ist das nicht ohne
+Sinn.
+
+Eugen
+
+(Unixe müssen auch nicht neu gebootet werden, wenn man ein Programm, ein
+Library oder einen Treiber installiert.)
+
+
+-- 
+Hier kommt nichts mehr.

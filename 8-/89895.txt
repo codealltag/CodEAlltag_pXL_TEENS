@@ -1,0 +1,12 @@
+Ich will halt einfach nicht, dass ein neues Fenster aufgeht.
+
+
+Moment, jetzt kann ich dir nicht folgen: Es ging doch um einen
+JS-Link. Wie soll der User jetzt entscheiden ob er ein neues Fenster
+oder kein neues haben will?
+
+Urs
+
+-- 
+Windows 98 was unable to detect your keyboard.
+Press F1 to retry or F2 to abort.

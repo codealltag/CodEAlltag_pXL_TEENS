@@ -1,0 +1,10 @@
+Am Tue, 06. 12. 21 sendete Elias Ecker folgende Botschaft:
+
+
+Das problem ist das es z.b. bei der bash  for heist aber eher foreach
+gemeint ist. *grmml*
+
+Tschüs
+  Willibald
+-- 
+Notorisch Schreibfaul.

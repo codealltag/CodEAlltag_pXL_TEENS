@@ -1,0 +1,13 @@
+Am Thu, 15. 09. 21 16:47:49 GMT sendete Jens Rothvoss
+folgende Botschaft:
+
+
+Ich glaube er das sich Jean-Luc etwas unglücklich ausgedrückt hat,
+d.h. er meint dadurch das bei linux der Quellcode frei verfügbar ist
+ist eine Änderung in den libs leichter möglich da der anwender nur
+die neuen libs zu installieren brauch und den notwendigen Compiler-
+(oder afaik wenn nur innerhalb der funktionen selber was geändert
+wurde) linker-l lauf selber durchführen kann.
+
+Tschüs
+  Henning

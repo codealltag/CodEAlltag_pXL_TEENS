@@ -1,0 +1,11 @@
+Steht in der zweiten Zeile.
+
+
+Hehehe.
+
+Walter
+
+-- 
+Heckemüller Word-Fehlermeldung:
+  "Dieser Vorgang kann nicht durchgeführt werden, weil Unbekannt
+   beschäftigt ist."

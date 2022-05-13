@@ -1,0 +1,14 @@
+Wo? Bei Quake 2 vielleicht, aber selbst da nur mit Voodoo2 und dann auch
+nicht so viel mehr als ein PII mit gleicher Taktfrequenz. Sonst wäre er
+ja ohne 3D-Now! bei Spielen genauso schnell wie ein PII und das stimmt
+ja wohl nicht, denn ohne ist er einiges langsamer.
+
+
+Hmmm, aber da brauchst du auch ein Betriebssystem, was den Alpha
+unterstützt und ebenso die Software, da er nicht x86 kompatibel ist wie
+der K7.
+
+CU
+Uwe
+-- 
+Lieber fünf vor zwölf als keine nach eins.

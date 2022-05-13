@@ -1,0 +1,2 @@
+Der Style-Tag ist HTML, das was drinnen ist, ist CSS. Im übrigen muß
+man doch sicher die Sprache des Styles irgendwo spezifizieren?

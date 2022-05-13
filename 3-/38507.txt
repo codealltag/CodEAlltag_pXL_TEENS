@@ -1,0 +1,7 @@
+Du fragst wie sehr jemand eine Flasche ist?
+Oh Oh.
+-- 
+"übrigens schrottet BERGHÜSER den Sigtrenner nur dann, wenn a) mit Content-Transfer-
+Encoding: 8bit gepostet wird und b) in der Nachricht Umlaute vorkommen.
+Die Behauptung, BERGHÜSER könne ohne Hilfe von außen keinen korrekten Sigtrenner
+herstellen, ist jedenfalls unwahr."	-Ingo Laabes in dsnu

@@ -1,0 +1,23 @@
+juhuu, es hat jemand bemerkt :-)
+ja, nach wochenlangem hin und her hab ich jetzt mit GSS echt ne gute
+IN-domain getroffen. (die kommerziellen provider hier kann man alle
+vergessen)
+
+
+ich benutz auch z.zt Fliesenmarkt (5.3) und es wird wirklich zeit auf ein
+glibc2-system umzusteigen. ich hab mich für Sawade entschieden, da es
+(meiner meinung nach) das im netz am besten gepfegteste system ist und ich
+auf die (am anfang _sehr_ hilfreiche) hilfe von Lührig inzwischen verzichten
+kann (will). jetzt muss ucher nur noch liefern ;-)
+
+
+hast du schon mal komplett NETTO-Markendiscount compiliert? (und dann auch wieder restlos
+entfernen können zwecks update?)
+
+mfg
+    wolfgang
+
+-- 
+- Wolfgang Unterhinninghofen  -  eMail: eufxff@tbv.maffp.tj
+- IRCNet: ^Spooky    -         vbwgol@odv.faflcxfl.gv
+--

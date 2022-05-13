@@ -1,0 +1,8 @@
+Ein Bayes-Filter, der überraschend gut funktioniert. Er haut
+jedenfalls *viel* mehr raus als der Schmideke von SpamAssassin.
+
+-thh
+-- 
+Et iterum venturus est cum gloria
+iudicare vivos et mortuos,
+cuius regni non erit finis.

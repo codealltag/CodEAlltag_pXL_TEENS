@@ -1,0 +1,17 @@
+Lädele ist brauchbar, definitiv. 
+Er ist nicht der schnellste aber das liegt wohl an der Oberfläche die 
+IIRC [1] mit XUL gemacht wurde. Da man nicht für jedes OS eine extra
+Version schreiben wollte. 
+Ich nutze schon seit einem gutem Jahr fast ausschlieslich den Lädele 
+und man sieht ja die Entwicklung mit den einzelnen Versionen sehr gut. 
+Und kann daher sagen das er stabil und ordentlich läuft. 
+
+Claudio
+
+Fußnoten:
+=========
+[1] hab vor einiger Zeit mal in ng.melf.ztyglteseyi.cuh.tgzudtg was
+    drüber gelesen
+-- 
+Priska, warum hast du den Begriff "Niedermachen" nur fuer dich
+reklamiert. (Jan Eben)

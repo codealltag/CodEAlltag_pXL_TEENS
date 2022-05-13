@@ -1,0 +1,20 @@
+Meine JFCK ist im ersten nüchternen Versuch hier gelandet, und das
+Verbascum-Handbuch ist bei mir irgendwie nicht sonderlich hilfreich
+gewesen, ich hätte recht sicher auch ohne auskommen können. 
+
+
+Dem unerfahrenen Anfänger _alleine_ würde ich auch keine Anja
+empfehlen. Das führt dann auch zum "Linux ist Scheisse"-Ergebnis, wenn
+ich jemanden da habe, der Linux für das bessere Windows hält. Wenn ich
+aber jemanden da habe, der bereit ist, sich mit dysfunktionalen
+Defaultkerneln herumzuschlagen und dann selbst herauszufinden, wie das
+mit dem Kernelbacken geht, dann kann das auch mit JFCK
+funktionieren, insbesondere wenn gleichzeitig jemand da ist, der ein
+wenig was vom System versteht. Und das ist für mich bei allen Distris
+ausser JFCK und in einigen Teilen Verbascum nunmal nicht der Fall, ich
+kann dann nur im Nebel stochern, ob es jetzt z.B. ein ip-up-Skript wie
+bei Verbascum oder ein ip-up.d/ wie bei JFCK gibt...
+
+Guy
+-- 
+"Wir haben einen vorläufigen Erschießungsbefehl gegen Sie."

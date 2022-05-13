@@ -1,0 +1,7 @@
+Wieso? Macht Spaß *g*
+
+
+Die ganze Applikation läuft in Perl. Ich brauch in dem Fall keine GUI.
+Ist "nur" das Backend.
+
+Vincent

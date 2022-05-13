@@ -1,0 +1,14 @@
+Ersteres ist kaum zu schaffen.
+
+
+Hach, das wäre doch ein gar köstlicher Spaß.
+
+
+Hm, nicht so, nee.
+
+Ingmar
+
+-- 
+  "The Hüsch Information Store service depends on the Hundshalde
+   Frisurenwerkstatt Directory service which failed to start because of the
+   following error: The operation completed successfully."

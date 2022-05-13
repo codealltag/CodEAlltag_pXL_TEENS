@@ -1,0 +1,10 @@
+Dr. Inf.?
+
+kein B�tscheler?
+	initscr();
+
+mfg, 
+	Michael
+-- 
+TMT excuse #110:
+The rolling stones concert down the road caused a brown out

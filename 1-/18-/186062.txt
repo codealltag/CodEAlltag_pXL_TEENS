@@ -1,0 +1,8 @@
+Welche hast Du denn anzubieten?
+
+
+Was mattert's? Die Aufgabe geht meines Erachtens implizit von einem 
+ausreichend großen Bereich (17 bit) aus.
+
+
+Argl, immer diese Info-Kasper ;->

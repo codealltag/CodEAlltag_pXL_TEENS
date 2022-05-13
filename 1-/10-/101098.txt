@@ -1,0 +1,15 @@
+* Tim Overhagen <cbdtzlh343950@xbdpcq.sk-a.yp>:
+
+
+Das habe ich mir gedacht.
+
+
+Das kannst du gerne tun. Kein Problem.
+
+
+Ich habe fast alle Befehle in meiner .gnus mit einem Kommentar versehen,
+damit ich selbst weiß, was das macht.
+
+Fritz
+-- 
+cross veinless

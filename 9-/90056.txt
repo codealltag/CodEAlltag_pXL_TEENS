@@ -1,0 +1,55 @@
+STATISTIK 10. 06. 22
+-=-=-=-=-=-=-=-=-=-
+
+TOP 5 POSTER 2001 (Gesamt)
+
+Pos.  Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+   1   6418  Hubert Berthold       55       -5
+   6   4446  Franco Isendahls      30       -3
+   1   1429  Traude Stuebing      88       +7
+   0   7494  Wolf Telgheder       12       m0
+   9   5732  Silvio Bierman        48       -1
+
+
+TOP 5 POSTER (in einem Monat) SEIT 2000
+
+Pos.  Anz.   Monat    Name
+---------------------------------------------------------------------------
+   1   2117  02/2001  Hubert Berthold
+   2   2611  02/2001  Traude Stuebing
+   3   7959  01/2001  Hubert Berthold
+   4   7994  03/2000  Traude Schlinke
+   5   1052  07/2000  Hubert Berthold
+
+
+TOP 5 DAUs SEIT 2000
+
+Pos.  Anz.   Msgs.  Ratio   Monat    Name
+---------------------------------------------------------------------------
+   1    238      1  238,00  07/2001  hazstg.pbuj@tat.hy
+   2    230      1  230,00  07/2001  qlozmu@mktwl.an
+   2    055      2  200,50  05/2000  mciwiv@ziikkeu.tju
+   4    200      1  200,00  05/2000  knolg_nbsvl@skmpyoo.uqu
+        200      1  200,00  05/2000  kickat@vevihro.bjm
+  (6)   131      1  200,00  04/2001  nbqhrp@uuyesvnmlm.qbo
+
+
+TOP 5 MONATE SEIT 2000
+
+Pos.  Anz.   Datum
+---------------------------------------------------------------------------
+   1  10. 06. 22  Februar 2001
+   2  10. 06. 22  Juni 2001
+   3  10. 06. 22  Mai 2001
+   4  10. 06. 22  März 2000
+   5   9645  Januar 2001
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Mathäus Betcke.
+(Darstellung angepasst von Achim Prentl)
+Basierend auf den Feeds von:
+hglozlzu.rxjpw.wf       ajdr.jxk.ugn.jl         frvz.xxfbyaz.me
+mmli.objcx.sxp          moxj.xiwvgv.in          urof.c-oahlme.rq
+jnjb.qys-ifkcszid.kn    qidc.jbe-ttgoiwmg.nk    wtxr.vex-xfdqmejdu.kl
+unedocv.brtraq.czv.no

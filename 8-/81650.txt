@@ -1,0 +1,22 @@
+Es geht ums Verstehen. Der auf das Verstehen folgende Schritt ist
+Abstraktion, wiederum abgelöst von Verstehen ... sprich: In einem
+Software-Produkt soll später niemand so programmieren, sondern
+vielmehr ein aufgabenadäquate Abstraktionsniveau benutzen. Wenn sier
+InformatikerIn ist, soll das aber auch im Wissen des in der
+Abstraktion verborgenen geschehen.
+
+
+Man kann auch ausführlichen Code verständlich halten. Wenn man
+Zusammenhänge so explizit formuliert, wie in CL oder $\lamda\beta$,
+bedeutet das natürlich einen hohen Abstraktionsaufwand. Besser als an
+solch *einfachen* Beispielen kann man Abstraktion, Datenkapselung,
+Codestrukturierung und Modularität aber eigentlich nicht verstehen. 
+-- Zugegeben, man kann das alles auch nur als Schikane betreiben /
+verstehen.
+
+Steffen
+-- 
+Steffen Greßhöner --+- stud. soz. & inf. -+-- http://rkm.qaj-vnaxtmg.ng
+-->    GPG Public Key: http://amy.hvrbiryf-akgtmxb.iy/lzr.xfvom    <--
+
+� Projekt Deutscher Wortschatz: <URL:http://awgkbvtglt.djc-hyxnzbp.lk>

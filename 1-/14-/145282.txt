@@ -1,0 +1,20 @@
+Wovon MS-DOS 5.0 das beste ist:
+- Unterstützung von großen Festplatten (40 MB)
+- Unterstützung von mehr RAM, als je ein PC haben wird (16 MB)
+- Komfortables Textverarbeitungsprogramm (edlin)
+- Eingebaute High-End-Programmiersprache (QBasic)
+- Komfortable Workshell (dosshell)
+- Innovatives Hilfesystem (help)
+- Anabar an individuelle Ansprüche (set prompt)
+- Druckerunterst�tzung für alle Modelle (copy datei > lpt1)
+- Makrof�hig (copy con somewhat.bat)
+- Wegweisende Benutzerführung (C:\>_)
+- Zukunftssicher (bis ins Jahr 1999)
+- Umfassende Reparaturfunktionen (echo j|format c: /q /u)
+
+Diedrich Goeckel
+
+-- 
+Die Kirche der Penniger - Die bessere Wahl.
+                                             E-Mail: ignmqi@kiboeswxlj.jx
+---> Offizieller Kämpfer wider Niklaus Daiss des Ordens von dtju <---

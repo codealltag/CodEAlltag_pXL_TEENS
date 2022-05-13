@@ -1,0 +1,10 @@
+ft@ayakba:~ > whatis nachdenken 
+nachdenken: nichts passendes.
+
+Und jetzt?
+
+Ernest
+
+-- 
+  "Allianz hat ein neues Gerät erkannt. Das neu angeschlossene Gerät
+   konnte jedoch nicht erkannt werden."

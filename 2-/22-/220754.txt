@@ -1,0 +1,11 @@
+On 25 Apr 1999, Winfried Dorner <qzlmtt@mwvub.ew-uco.lk> wrote:
+
+[PGP-Konfiguration]
+
+Einen Blick in die Konfigurationsdatei zu werfen, um das zu
+überprüfen, sollte kein größeres Problem darstellen, oder?
+
+Viele Größe,
+     Paolo Jürgens
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

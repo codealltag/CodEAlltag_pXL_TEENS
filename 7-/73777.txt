@@ -1,0 +1,8 @@
+Möglichkeit wäre nach jeder kopierten Datei diese direkt zu löschen um
+dann die nächste zu kopieren usw.
+
+Wolfgang
+
+-- 
+  "Die markierten Nachrichten konnten nicht gelöscht werden:
+   Nicht genügend Speicherplatz."

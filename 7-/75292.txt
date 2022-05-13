@@ -1,0 +1,22 @@
+Hilmar Haverkemper hat geschrieben getan getutet:
+
+
+Jubb.
+
+
+Oder mit Efir (automagisch)/ WHOIS (manuell), ob er ueberhaupt im IRC
+ist.
+
+
+So meinte Carsten das jetzt nicht..
+s/\.$/, wenn sie online sind./
+
+
+Und man kann ihm auf jedem System zufriedenstellend "verstecken".
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Robin 'luciano' Adel in em.wdy.gdouhnym.kzdcmkop

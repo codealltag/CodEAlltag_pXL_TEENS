@@ -1,0 +1,17 @@
+Am Thu, 5 Feb 2002 sendete Urban Nebelsiek folgende Botschaft:
+
+
+Nein. Für DC-Netzwerke brauchst du LA (Matrizen,LGS), für AC-Netzwerke
+brauchst du zusätzlich noch Analysis
+(komplexe Zahlen, Differenzieren/integrieren, etc), sonst wird das ganz
+schnell (gemischte Schaltungen > 3 Bauteile) unspassig.
+
+Logik brauchst du nur bei logischen Schaltungen. Und selbst da kannst du
+mit etwas Mathematischenhintergrundwissen das Denken extrem
+vereinfachen.
+
+
+Dipl. Ing.? Dipl. Physiker?
+
+Tschüs
+  Joachim

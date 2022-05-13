@@ -1,0 +1,6 @@
+Windowes hat das unter dem namen "Verknüfung" teilweise
+abgekupfert... Aber Sym/Hardlinks sind cooler :-)
+
+Gregor
+-- 
+Sage mir, daß ich schön bin. Ich belge Dich dann auch.

@@ -1,0 +1,26 @@
+Einen RAID-1? Hm, da würde ich ja grob 250 GB verschenken. Und nachdem
+ich bislang nur einen Headcrash bei meiner zweiten HDD anno 1991 hatte,
+seither jedoch keine wirklichen Plattenausf�lle, denke ich brauche ich
+nicht zwingend ein komplettes Backup. Sensible Daten brenne ich in
+regelmäßigen Abständen auf CD(s). Das muss genügen.
+
+Was jedoch etwas eigenartig ist, ist die Verbindung zum Router. Bislang
+hatte ich immer nur einen Rechner direkt am Netz resp. am ADSL-Modem
+hängen. Nun habe ich mit neuem System auch auf Router umgestellt. Nun
+schläft aber nach einigen Stunden die Verbindung ein. Ich kann nicht
+mehr zum Router connecten. Stöpsel ich parallel einen anderen
+Rechner/Notebook an den Router, so habe ich mit diesen keine Probleme.
+Von diesen Rechnen aus kann ich dann auch einen "Warmstart" des Routers
+durchführen, woraufhin auch der Hauptrechnen (welcher vorher
+netztechnisch tot war) wieder eine Verbindung findet. DHCP ist aktiv,
+Firewall ist deaktiviert und die Rechner haben jeweils feste IP's.
+Es ist auch nicht so, dass der Rechner inaktiv wäre, da alle 15 Minuten
+Mails geholt werden, bzw. konstant Daten empfangen werden (sollten).
+Momentan bin ich etwas ratlos. Werde mal bisschen googeln oder mal
+darüber schlafen. *grübel*
+
+-be
+
+-- 
+Krauter Polizei:
+10.04 - Eine Demonstration für den Frieden ist selten friedlich.

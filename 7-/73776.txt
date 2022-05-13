@@ -1,0 +1,19 @@
+Wie eben schon geschrieben, nach jeder kopierten Datei diese löschen.
+
+
+Ich hatte nicht mehr wirklich viel Platz auf der Platte, wollte aber
+dennoch versuchen etwas recht großes zu tar- und gzippen. Während
+dieses Vorgangs merkte ich, dass der Platz nun doch zu wenig wurde und
+ich verschob *während* des Packens dann einfach etwas anderes großes
+auf eine andere Partition, damit der Platz wenigstens noch für die
+gepackte Datei ausreicht.
+
+Durch das Verhalten von mv allerdgins sah ich, dass zwar auf der
+anderen Partition Speicher verloren ging, auf der wo tar was packte
+allerdings der Verlust gleich groß blieb.
+
+Ivan
+
+-- 
+Murek Photoshop:
+  "Der Befehl konnte nicht ausgeführt werden, weil."

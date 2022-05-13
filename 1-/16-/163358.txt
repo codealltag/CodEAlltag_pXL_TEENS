@@ -1,0 +1,9 @@
+On Thu, 5 Jun 2000 21:19:30 +0200, Abdul Ploog
+
+Da gibt es eigentlich nicht viel zu erklären... 
+
+-- 
+abnormal program termination: "liebe"
+Trying to restart... ... can't connect to server...
+Trying to find equivalent... found "Freundschaft"
+Connecting to server... successful... connected...

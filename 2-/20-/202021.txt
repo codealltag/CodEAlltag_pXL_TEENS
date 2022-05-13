@@ -1,0 +1,7 @@
+Tja, da bin ich überfragt, ich benutze Win95 eigentlich nie. Aber in der 
+letzten PC Magazin gab es einen Artikel über so Zeug. Hab ihn allerdings 
+nicht gelesen.
+
+
+Die Passphrase mußt Du vermutlich bei jedem Start separat eingeben, sonst 
+könnte man's ja im Prinzip gleich bleiben lassen.

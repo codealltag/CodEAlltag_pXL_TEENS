@@ -1,0 +1,14 @@
+Und so sprach Wolf Abelen:
+
+
+Ausser es steht auf der letzten Zeile "server read failed" [1]. Ich
+habe zwar den Schaden zu begrenzen evrsucht, aber dennoch koennten
+sich in naechster Zeit Luecken auftun ...
+
+Gruss,
+Dietrich.
+
+[1] Manchmal ist Leafnode wirklich nicht so toll ...
+-- 
+Wer rechtwinklige Wolken schneidet,
+sollte verdunkelt werden.

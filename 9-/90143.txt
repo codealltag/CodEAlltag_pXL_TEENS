@@ -1,0 +1,15 @@
+Damit es so groß ist, wie das Bild muss es aber ungefragt aufspringen.
+Oder es ändert mein aktuelles Browserfenster, was sogar noch schlimmer
+wäre.
+
+
+Richtig. Man kann halt die Funktionen auch nicht einschränken. Und
+wenn man dann als Webautor auch noch JS-Navigation macht, bringt einem
+Ausstellen auch nicht mehr viel. Außer, dass man dann gleich auf das x
+oben rechts drücken kann/will.
+
+Heimo
+
+-- 
+Die Ausbildung der Lehrer bereitet die Lehrkräfte auf alles vor,
+nur nicht auf die Wirklichkeit.

@@ -1,0 +1,9 @@
+Jepp. ABer das sollte sich mit *kram*
+
+(setq fill-column 72)
+
+beheben lassen.
+
+Leander
+-- 
+All power corrupts, but we need electricity.

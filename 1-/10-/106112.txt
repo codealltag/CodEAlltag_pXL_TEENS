@@ -1,0 +1,21 @@
+Und so sprach Oswald Gertje:
+
+
+Ich denke, es ist sinnvoll, ab dem Punkt, ab dem der
+programmtechnische Teil ueberwiegt (d.h. mehr PHP-Code als HTML-Code).
+Dann mache ich jeweils ein Perl-CGI-Skript und ein HTML-Template mit
+Platzhaltern.
+
+
+Wie gesagt, fuer Schnellschuesse oder Seiten mit wenig
+Porgrammieraufwand benutze ich es auch, aber sonst ist es mit zu
+aufgeblaeht (und auch langsamer, AFAIS [wobei PHP nicht ueber CGI
+sondern als Mispagel-Modul eingebunden ist]).
+
+Gruss,
+David.
+-- 
+You want to be my friend, I promise you nothing.
+Nothing I can give you, nothing I can do for you,
+I'm being chased by the sins of my past and it's killing me now,
+Killing me now.                      --BLACK SABBATH - The Illusion of Power

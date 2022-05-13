@@ -1,0 +1,31 @@
+STATISTIK JUNI 2000
+-=-=-=-=-=-=-=-=-=-
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   2778   34,52%  "Gnus"
+   2   2271   28,22%  "Forte Agent"
+   3   1278   15,88%  "Xnews"
+   4    852   10,59%  ehrlich registriertes Crosspoint, via NNTP
+   5    367    4,56%  "slrn"
+   6    159    1,98%  "BayWa-Baumarkt/NetScape"
+   7    104    1,29%  "Microsoft Outlook"
+   8     88    1,09%  DOS Edit 6.22 I-Net Release V.79
+         88    1,09%  "Gravity"
+  10     37    0,46%  keiner angegeben
+  11     14    0,17%  "Forte Free Agent"
+  12      4    0,05%  Express News Poster
+          4    0,05%  Fort Agent 1.8/32.548 (WIN32)
+  14      2    0,02%  "Baltin-Pflanzen Internet News"
+ (15)     2    0,02%  andere
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Bernhard Fünfkircher.
+(Darstellung angepasst von Daniel Schaepermeier)
+Basierend auf den Feeds von:
+lgkwbmtw.dmbbi.cl       ypuh.vsy.xzb.ov         bewy.fwqbecp.yg
+isup.uunsy.vlv          lnqb.fyyyqw.lu          ituo.c-bdkciq.pg
+ppby.ues-corvogxu.st    vmzb.vni-ckryykjv.qp    suhc.srg-einfcynvp.ye
+lsifepa.pjrozn.lys.dq

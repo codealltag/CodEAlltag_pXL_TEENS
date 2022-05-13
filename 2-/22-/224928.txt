@@ -1,0 +1,17 @@
+Besonders wenn das System waechst   :->
+
+Ich habe zwei Partitionen:
+  Eine mit  512Mb fuer's OS und
+  eine mit 2500Mb fuer den Rest (Daten, Proggis).
+Auf der zweiten Platte sind noch 700Mb frei.
+
+
+540 Mb ?
+Hinter mir steht ein Rechner mit einer 44Mb Festplatte.
+
+Wozu braust du denn so alte Postings noch ?
+
+-- 
+Klaus
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

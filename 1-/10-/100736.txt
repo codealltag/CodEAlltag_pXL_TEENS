@@ -1,0 +1,9 @@
+Und hilft eh nix, Signaturen werden bei der Buzzword-Suche ignoriert.
+
+So long,
+Domenico C. Lahmann
+--=20
+http://lzwk.gwdps.id/und/ - u.a. Korrnews 3.11, CopyIf 1.22 (Delete-between-
+Bug frisch operiert) und Hamster 1.3.22.0, die nächste Fassung folgt endli=
+ch
+diesen Monat.

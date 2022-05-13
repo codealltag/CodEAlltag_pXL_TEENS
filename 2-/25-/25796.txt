@@ -1,0 +1,12 @@
+Und so sprach Ulfert Röhlich:
+
+
+Nein, nein, ganz flachs. Vielmehr:
+
+T[i,0] = y[i]
+T[i,j] = ((x[i] - z) * T[i-1,j-1] + (z - x[i-j]) * T[i,j-1]) / (x[i] - x[i-j])
+
+Gruss,
+Marcus, so schaut's naemlich aus.
+-- 
+Individualists unite!

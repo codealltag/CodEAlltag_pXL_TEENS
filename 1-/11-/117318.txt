@@ -1,0 +1,19 @@
+* Rolf Schiestel <zhjgx@xmbhu-bkbglf.fu>:
+
+
+Du kannst verschieden killen: Nur in einer bestimmten Gruppe, in einer
+Hierarchie (de.all z.B.) oder in allen Gruppen.
+
+Zuerst stellst du mit `V c' das passende File ein. Soll der Kill für
+alle de.*-Gruppen gelten, also `V c RET ~/News/de.utc.SCORE RET'
+
+Willst du in der gerade geöffneten Gruppe killen, kannst du dir obigen
+Schritt sparen.
+
+Dann drückst du `L a r p RET' und der Typ bekommt -1000 Punkte in allen
+de.*-Gruppen.
+
+LUEDTKE,
+Burkhard
+-- 
+cross veinless

@@ -1,0 +1,13 @@
+* "Sebastian Offermanns" <dvva@pzgufagp.to>:
+
+
+Okay, machen wir einen Deal: Du baust mir eine Funktion, die in meine
+Message-ID einen Counter schreibt, der bei jedem Posting um einen
+hochzählt[1], und dafür bekommst du von mir eine Funktion, damit du
+fremde Postings superseden kannst.
+
+Fabrice
+
+Footnotes: 
+[1]  Dann sieht das so aus:
+     <dosnaxwb�xdom.udaqxjfui.mlwflfr@UYNV>

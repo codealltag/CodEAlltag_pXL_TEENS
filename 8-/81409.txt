@@ -1,0 +1,11 @@
+Enno Mettenleiter meinte kundzutun:
+
+
+Stimmt, 0.9.7.2(?) ist deutlich besser.
+
+
+Jetzt störts mich nur noch, daß im header_display %T ein Zeichen
+links außerhalb seines Bereiches überschreibt (im Treaded- view)
+
+Charly
+[0]: header_display_format 0 "%F|%-3S|%20r|%15D|%-3c%P|%-3l|%T%s"

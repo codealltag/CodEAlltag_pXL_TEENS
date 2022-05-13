@@ -1,0 +1,13 @@
+Hab das vor etwa einem Jahr umgestellt. Und seit dem sind die Abstürze 
+_merklich_ zurückgegangen. Zumindest schmiert jetzt nicht mehr der 
+Exploder und damit zwangsäufig das gesamte System ab. Der Exploder 
+hängt viel zu tief im System drin. 
+Wenn mein Gecko dagegen mal einen Ohnmachtsanfall bekommt und umkippt, 
+dann wecke ich ihn einfach mit einem Tastendruck wieder auf und schon 
+läuft er wieder. 
+
+Nico
+-- 
+Die beste Methode, etwas zu lernen, war schon immer, einen Vortrag
+darüber zu halten oder einen Artikel zu schreiben.
+(Lutz Kammerlohr in fv.gepm.zlkzybph.nfyxf-vlont)

@@ -1,0 +1,7 @@
+Dixit "Eilert Oldendörp" <Ygyftu-Lokd@aun.zr>:
+
+Aber BASIC ist doch turing-vollständig, oder?
+-- 
+"One word sums up probably the responsibility of any Governor, and that one word
+is 'to be prepared'."
+ - Governor Kaspar Fasbender, 5/10/93

@@ -1,0 +1,14 @@
+Wenn man MS glaubt ...
+
+Das dachte ich mir fast.
+
+
+Kommt noch dazu (wenn ich das morgen hingefummelt bekomme):
+Manpage, Konfigurationstemplate (vielleicht sogar mittels m4?),
+eventuell sogar packaging. Mal sehen.
+
+mfg, 
+	Onno
+-- 
+BOFH excuse #64:
+CPU needs recalibration

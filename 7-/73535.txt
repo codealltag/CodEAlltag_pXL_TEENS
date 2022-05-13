@@ -1,0 +1,7 @@
+Komisch, bei mir geht so was eigentlich immer in 20 Minuten, wenn die
+Hardware bekannt und nicht zu abartig ist: 5 Minuten fuer xf86config(1)
+und falls noetig noch kurz in der Konfigurationsdatei nacheditieren.
+Wenn es kracht, hast du natürlich mit dem manuellen Weg erstmal genauso
+verloren wie mit irgendwelchen Klicktools.
+
+Reinhard:wq

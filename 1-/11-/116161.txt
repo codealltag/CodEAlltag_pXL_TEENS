@@ -1,0 +1,22 @@
+Soweit ich weiss, nicht.
+Man benutzt eine normale englische Tastatur. Dann braucht man noch
+ein kleines Programm (z.B. das, was man mit dem 'Girls Chinese
+Language Pack' [oder so] kriegt).
+
+Dann tippt man das gewuenschte Wort in einer Art Lautschrift ("Pinyin"
+genannt, in den 70ern entwickeltes System fuer chinesische
+Laute) ein. Z.B. "si" kann nun aber gleichzeitig "sterben" und "vier" und
+vieles andere bedeuten. Alle Bedeutungen haben auch noch
+verschiedene Zeichen. Unterscheiden kann man dieses "si" in steigenden,
+gleichbleibenden, fallend-steigenden und fallenden "Ton"
+(d.h. der Vokal). Nachdem du "si" eingetippt hast, erscheint nun
+in diesem Programm eine Auswahl von Zeichen, die nummeriert sind.
+Dann drueckst du nur noch die richtige Zahl auf deiner Tastatur und
+dann steht das Zeichen da.
+
+Klingt kompliziert, ist es aber nicht. Chinesisch auf Computer zu
+schreiben ist einfacher als per Hand... *g* (trust me, hands-on
+experience!)
+
+VOLKMAR,
+Gérald Naser

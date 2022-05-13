@@ -1,0 +1,8 @@
+Am 25. 08. 22 15:52:08 GMT sendete Jean-Pierre Ibelings
+folgende Botschaft:
+
+
+Es soll auch UUCP over tcp/ip geben.
+
+Tschüs
+  Timo

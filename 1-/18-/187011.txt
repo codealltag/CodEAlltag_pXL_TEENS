@@ -1,0 +1,29 @@
+Theo Ungerland schrieb am 8. Mai 2000 um 18:02 Uhr folgendes:
+
+
+Kann ich nicht abstreiten :)
+
+
+Wobei sich das "quick" auf lange Sicht dann IMO recht bald
+relativiert, wenn man das Programm nämlich warten soll und sich bei
+jedem Bug durch einen Wust bereits vorhandener Workarounds wählen
+muss.
+
+[...]
+
+Man braucht natürlich nicht mit Kanonen auf Spatzen zu schießen.
+Papier und Stift zB sind und bleiben für mich aber ein wichtiges
+Programmiertool. Zum einen für Entwürfe und Skizzen vorab, vor allem
+aber, um alle potentiellen Probleme, die mir vor oder während des
+Tippens (oder auch abends im Bett ;) einfallen aufzuschreiben und sie
+später durch Prüfen des entsprechenden Codes / wenn nötig Testen des
+Programms auszuschließen. Wenn ich versuche, das alles im Kopf zu
+behalten, vergesse ich doch wieder das eine oder andere. Aber das hat
+wahrscheinlich nicht mehr sooo viel mit Software Engineering zu tun ;)
+
+Viele Größe,
+     Remmer Simann
+-- 
+ Q: I was listening to a CD in Grip and it sounded horrible! What's up?
+ A: Perhaps you are listening to country music...
+                                                        -- grip 2.5 FAQ

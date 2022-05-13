@@ -1,0 +1,11 @@
+Auf die Idee könnte man kommen, ja...
+
+
+Soldanski hat so einiges an Macken, weshalb ich den nicht empfehlen
+würde. Unter anderem ist die Möglichkeit, die References
+zurückzuverfolgen mindestens in der Linuxversion nicht drin.
+
+Sandro
+-- 
+"Lt. Ehmcke, scannen Sie das Schiff!"
+"300dpi, Sir?"

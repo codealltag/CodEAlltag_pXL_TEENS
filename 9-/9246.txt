@@ -1,0 +1,9 @@
+Solange sich das Treten auf entgegen beschränkt habe ich da kein Problem
+mit.
+
+Kay
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+70: It is essential that implementations by different vendors interoperate.
+       Unsere proprietären Basteleien dokumentieren wir gar nicht erst.
+       (Andreas Neuhof)

@@ -1,0 +1,16 @@
+Man könnte fast meinen das ist ein Fake. Leider ist dem nicht so.
+
+übrigens hat die Seite meinen Videopalast zweimal zum Absturz gebracht. Beim
+dritten Mal funktionierte es dann mehr oder weniger. Dann dachte ich
+die Anordnung sei irgendwie falsch, aber im IE sieht es ja genauso
+aus. Außerdem scheint der Hintergrund so viel Rechenleistung zu
+fressen, dass mein armer kleiner K6-200 schon die Maus-Geschwindigkeit
+unfreiwillig verlangsamen muss.
+
+Germaine, das sollte dir zu denken geben.
+
+Denis
+
+-- 
+  "Die markierten Nachrichten konnten nicht gelöscht werden:
+   Nicht genügend Speicherplatz."

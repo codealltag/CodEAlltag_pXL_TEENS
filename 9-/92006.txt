@@ -1,0 +1,9 @@
+Wie sieht die .fetchmailrc aus?
+
+
+"telnet localhost 25" und dann musst du halt ein wenig SMTP mit deinem
+Postfix sprechen...
+
+Philippe
+-- 
+Hast du DAS eben gehoert? [Mirko]

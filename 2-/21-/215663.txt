@@ -1,0 +1,37 @@
+On Thu, 02. 04. 22, Wilhelm Zäncker <BMixkpkrml@hfw.zf> wrote:
+
+[spezieller Cancelbot]
+
+Mit dem slrn kann man Kriterium 2 und 3 problemlos per Killfile
+erschlagen; sollte mit dem Agent auch funktionieren. Kriterium 4 steht
+auf der "Wishlist" des slrn - das Feature sehe ich aber ehrlich gesagt
+noch nicht so bald kommen...
+
+
+Ah so - ich hatte Carlo Vorschlag mehr so verstanden, daß sich nur
+ein paar ausgewählte Regulars selbst approven dürfen, die a) entweder
+sowieso wissen, wie das geht oder b) vernünftig genug sind, um es zu
+erfahren.
+
+[Selbstapprovetes Posten]
+
+Ich denke schon, daß davon durchaus eine nicht zu unterschätzende
+abschreckende Wirkung ausgeht. Ich meine, im Grunde weiß doch jeder,
+wie man die gängigen Straftaten begeht und das eigene Gewissen / die
+Furcht vor Strafe hindern die meisten Leute dennoch, welche zu
+begehen. In dem Fall wäre es IMO ähnlich.
+
+
+Selbst während der schlimmsten Cancelwars in dana habe ich als
+nntp-dialup-User nur geringe Beeinträchtigungen erfahren. Der
+Moderation und ihrem Cancelbot sei Dank.
+
+
+Kann der OIC-Newsreader approven (*schauder*)? Wäre uU aber der letzte
+Tropfen, der das Faß zum überlaufen bringt (und ein Abklemmen zur
+Folge hat).
+
+Viele Größe,
+     Wilhelm Angenfort
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

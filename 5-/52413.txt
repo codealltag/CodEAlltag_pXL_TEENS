@@ -1,0 +1,10 @@
+Wie schon geschrieben, Patches gibts auch für EVG-Apple.
+
+
+Außerdem muß man dafür die Anzeige des eigenen On/Offline-Status im Web
+abschalten, denn es gibt schon entsprechende Patches, die nicht nur die
+normale Anfrage über den Status machen sondern auch "im Web"
+nachschauen, ob der User online ist, womit bei eingeschalteter
+Web-Anzeige des Status die Invis-Liste ausgehebekt wird
+
+Eduard

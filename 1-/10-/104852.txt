@@ -1,0 +1,10 @@
+Angenommen, diese Kritik sei wahr (ich äussere mich nicht dazu, ob sie
+es ist oder nicht), dann ist sie in der Form lediglich dazu zu
+gebrauchen, festzustellen, dass der Kritiker fürchterlich
+oberflächlich ist. Und das kann wohl kaum der Sinn gewesen sein...
+
+Matthias
+-- 
+Wie jagt man einen Elefanten - Teil 3:
+LISP-Programmierer bauen einen Irrgarten aus Klammern und hoffen,
+dass sich der Elefant darin verirrt...

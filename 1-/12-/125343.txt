@@ -1,0 +1,13 @@
+Bei mir kann man außer der 2000 auch noch den Doppelpunkt blinken
+lassen. Wenn man das richtig einstellt blinken beide umgekehrt
+parallel [1].
+
+[1] Dafür gibt es ganz bestimmt noch ein anderes Wort
+
+Henri
+
+-- 
+Mathematik:
+1 Arbeiter braucht 1 Stunde um seine Arbeit zu erledigen.
+2 Arbeiter brauchen 1/2 Stunden für die gleiche Arbeit.
+Wie lange brauchen 1 Mio Arbeiter?

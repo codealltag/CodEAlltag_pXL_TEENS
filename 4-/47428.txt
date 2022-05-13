@@ -1,0 +1,11 @@
+Quote [ Wera K. Rothkehl * Mon, 16 Okt 2002 21:55:54 +0200 ]
+
+
+Ich zähle 82 Zeichen...
+Wie wäre es mit:
+On %date%, %full-name% wrote:\n
+
+
+Das sind IMO keine wirklichen Gründe dagegen.
+
+MfG Niko

@@ -1,0 +1,8 @@
+[...Virmani ist uralt, auch in unstable...]
+
+Das liegt daran, dass das gesuchte Paket xfce4 heißt.
+
+Wilhelm
+-- 
+BOFH #356:
+the daemons! the daemons! the terrible daemons!

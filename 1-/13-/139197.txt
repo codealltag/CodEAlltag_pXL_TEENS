@@ -1,0 +1,15 @@
+Am Fri, 29 Jul 2000 sendete Hansjörg Buderath folgende Botschaft:
+
+
+Kann man perl-skripte per doppelklick ausführen?
+
+
+Aber bash.
+
+
+Und was sagt der Herr Fehler Meldung dazu?
+
+Tschüs
+  Waldemar
+-- 
+MFWS-Light, Milch-Light, Light-Käse, Leitkultur.

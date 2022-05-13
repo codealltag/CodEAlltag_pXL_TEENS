@@ -1,0 +1,11 @@
+Das ist kein Wunder. Word benutzt Informationen aus dem
+Druckertreiber um den Text (und alles andere Zeugs) darzustellen.
+Verschiedene Drucker haben geringfuegig unterschiedliche
+Schriftgroessen. Dein Dokument sieht also je nach Druckertreiber
+anders aus. Manchmal macht schon der Wechsel der Aufloesung etwas
+aus, also Vorsicht bei Vorhaben wie 'Grafikseiten drucke ich mit der
+besten Aufloesung, fuer den Rest reicht die normale...'.
+
+Hermann
+-- 
+ _  _ _.._ ___ __ _ __ ___   emotion-technologies UIN: 7864708       PGP-Key available

@@ -1,0 +1,11 @@
+Nunja. Deswegen steht bei dir auch alles doppelt drin? :)
+Du initialisiert die bbdb zweimal, du addest die gnus-insinuation
+zwomal an gnus-startup-hook...
+*duck*
+
+
+Ich fuehl mich wohl.
+
+30 MB mehr RAM frei und 1/4 der Ladezeit ;).
+
+-towo

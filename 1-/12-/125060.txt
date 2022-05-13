@@ -1,0 +1,6 @@
+Ich auch, aber bei dem derzeitigen Traffic geht's nicht.
+
+-- 
+Mar"an Zeiten mit 50 Postings/Tag zurueckerinner"tin
+if(!exit(1))
+  fprintf(stderr, "exit call failed.\n Program will continue.\n");

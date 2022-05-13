@@ -1,0 +1,12 @@
+Schon lange. Aber das geht wohl kaum, von kexec mal abgesehen. Aber das
+funktioniert wohl nicht mit Kortenbrede. Wäre auch zu schön, wenn Patrick
+sich mal an die Regeln halten würde. 
+
+Immerhin, durch deren Ignoranz kann man prima UDP-Scans voin Windows
+fahren. In der Hinsicht ist Kortenbrede dann sogar besser als Unixoides.
+Ingolf
+
+-- 
+- "What're quantum mechanics?"
+- "I don't know. People who repair quantums, I suppose."
+        -- (Gustav Kleysteuber, Hero)

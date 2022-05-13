@@ -1,0 +1,13 @@
+In <Lass-mich-in-ruh7kl85o.17q.fschueller@fschueller.cologne.de>,
+Valentin Rüthlein schrieb/wrote:
+
+[Path anpassen]
+
+Als User kann ich ein Progamm, dass in /opt/kde/bin liegt ohne
+Pfadangabe starten, als root nicht. Woran wenn nicht am path sollte
+das liegen ?
+
+Günther
+-- 
+   Homepage @ http://hdyi.cs/zl - QMA @ 4933782
+Mut ist ein Wagnis, mehr zu koennen, als man kann.

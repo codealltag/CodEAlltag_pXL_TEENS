@@ -1,0 +1,12 @@
+Valerio Iffarth meinte kundzutun:
+
+
+Ack. Zuviel Overhead. Siehe thh.
+Da fe lt ein "RETR n-n+x" oder entsprechendes mit "FEED". Afr könnte man
+die Server auch optimieren. Aber da Hamster jeden einzelnen Artikel per
+"RETR n" ziehen muß dauert das ewig.
+
+Otmar
+-- 
+Dieser Artikel ging an folgende Newsgroups: bx.jehe.cnsvsr
+Er wurde am Mittwoch, dem 11. August im Jahre des Herrn 2002 verfaßt.

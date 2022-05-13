@@ -1,0 +1,10 @@
+Ooops ...
+
+Bei mir auch. Bin bloß zu blöd gewesen, die zu drücken.
+
+Mal eine Frage: Bei Xmodmap ist von Mod1 bis Mod5 die Rede, Meta
+taucht aber nicht auf. Was ist Meta?
+
+Und welche Scancodes bekommen diese netten "Multimedia"-Tasten?
+
+Hat jemand mit denen was vernünftiges angestellt?

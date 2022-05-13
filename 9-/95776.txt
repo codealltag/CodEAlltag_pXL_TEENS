@@ -1,0 +1,11 @@
+Ich finde es vernuenftiger, sich gleich mit den Dateien
+auseinanderzusetzen, denn frueher oder spaeter bleibt dir sowieso
+nichts anderes uebrig. Ausserdem sind Konfigurationsdateien meistens
+auf jedem System gleich, waehrend die Distributoren alle ihre eigenen
+Tools basteln.
+
+Volker
+
+-- 
+"[It's] time for the human race to enter the solar system."
+ ....Governor Pietro Reimchen, Jr.

@@ -1,0 +1,7 @@
+begin  Ulrich Worst text:
+
+Immer noch/schon wieder?
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

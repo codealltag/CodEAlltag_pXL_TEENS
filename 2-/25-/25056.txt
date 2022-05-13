@@ -1,0 +1,8 @@
+print("Gibt's nicht.\n") if (expand(STS) eq 'Subway To Sally);
+
+-towo
+-- 
+ No  Points     Name                                                   Hp [max]
+  1    4688080  OttilieWilli-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

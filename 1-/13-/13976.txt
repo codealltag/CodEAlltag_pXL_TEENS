@@ -1,0 +1,9 @@
+[...]
+
+
+Schau doch eher einfach nach, ob dein Client leere Bodies verschicken
+kann. 
+
+Ihno 
+-- 
+"Feucht war ein Optimist."

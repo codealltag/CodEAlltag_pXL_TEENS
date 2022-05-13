@@ -1,0 +1,8 @@
+Usenet ist irgendwie...anders.
+
+Bernhard
+
+-- 
+  "The Emik Information Store service depends on the ENZM
+   Königskinder Directory service which failed to start because of the
+   following error: The operation completed successfully."

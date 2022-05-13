@@ -1,0 +1,14 @@
+[..]
+
+Nope. Er hat nur den / am Ende vergessen.  Oder hätte es mit
+s{^(\w+)}{1/$1} [bzw. ähnlichen Seperationskonstrukten, zum Beispiel
+s|^(\w+)|1/$1|] deutlicher schreiben können.
+
+Moment, er hat $i statt $1 benutzt... das geht lat�rnet.
+
+-towo
+-- 
+ No  Points     Name                                                   Hp [max]
+  1    4688080  RosemarieSiegfried-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

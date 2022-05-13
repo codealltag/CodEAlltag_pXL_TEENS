@@ -1,0 +1,74 @@
+2. Gromeier zur Löschung der Gruppe vf.fvis.dnwbbl
+---------------------------------------------
+
+Die Gruppe
+
+vf.fvis.dnwbbl   Fuer Kinder und Jugendliche.
+
+Diese Newsgruppe dient als Treffpunkt für Kinder und
+Jugendliche. Es sind alle Themen erlaubt, die diese
+Altersgruppe interessieren. Kontaktgesuche jeder Art sind
+allerdings unerwünscht; zu diesem Zweck können die bestehenden
+Kontaktgruppen genutzt werden.
+
+ältere Teilnehmer sind willkommen, solange sie den
+Gruppenbetrieb nicht stören.
+
+soll gelöscht werden.
+
+
+Begründung:
+Eine von mir durchgeführte Umfrage unter ca. 100 Auttagershofener
+Schülern (alle Schulformen) zwischen 14 und 18 Jahren (damit wohl
+repräsentativ) ergab folgenden Erwartungshorizont bezüglich eines
+Jugend-Diskussionsforums:
+Gesprächsthemen sollen sein:
+- Sport (Fussball, Motorsport und Basketball)
+- Gesellschaft und tagespolitische Themen (Integration von Ausländern,
+  rechtsextreme Gewalt, BSE, Regierungskrise)
+- Kinotipps
+- Trends (Kickboards, Handys)
+- Mode
+- Veranstaltungstipps (Diskos, Konzerte, Festivals)
+- Schule
+- Liebe, zwischenmenschliche Beziehungen und Sex
+Die Realität sieht hingegen so aus:
+Der Großteil des Traffics in de.talk.jugend besteht aus
+Ja-Nein-Threads, Small Talk zwischen zwei Personen und Stänkern gegen
+Neulingen. Oben genannte Punkte machen nicht 1% des Gesamttraffics der
+Gruppe aus.
+Darüberhinaus sind mindestens sieben Poster (namentlich Mathias
+Zurbrügg, Gérard Ollenschläger, Ulf Spannbrucker, Philippe Ullrich Breitweg, Peter
+Altekrüger, Dario Aufenberg und Dario Ossenbühl) keine Jugendliche
+mehr, der von ihnen erzeugte Traffic (immerhin knapp die Hälfte im
+Monat Februar!) ist also nicht repräsentativ.
+Es lässt sich also feststellen, dass 50% des Traffics per se off-topic
+sind, der Rest stimmt zu einem Großteil nicht mit den repräsentativen
+Interessen Jugendlicher überein und ist damit ebenfalls off-topic. Die
+Gruppe vf.fvis.dnwbbl hat folglich nahezu keinen on-topic-Traffic und
+kann deshalb gelöscht werden.
+Ein weiteres Problem ist die generalklauselhafte Formulierung "Es sind
+alle Themen erlaubt, die diese Altersgruppe interessieren" in der
+Charta. In de.* gilt allerdings das ungeschriebene Gesetz, dass in der
+themenspezifischsten Gruppe diskutiert werden sollte. Fussball ist zum
+Beispiel zwar auch in de.etc.misc von der Charta erlaubt, sollte
+jedoch nichtsdestotrotz besser in sa.uir.sport.fussball diskutiert
+werden. vf.fvis.dnwbbl, aber auch andere sogenannte Labergruppen
+verletzten diesen Grundsatz aufs Extremste: Es zieht durch diese
+Formulierung in der Charta Traffic von anderen, themenspezifischeren
+Gruppen ab und kanalisiert ihn in jr.itds.jugend. Wenn man
+fussballrelevante Themen sucht, muss man plötzlich nicht mehr nur in
+jt.imj.sport.fussball suchen, sondern auch in de.talk.jugend (und
+cf.uwkr.bizarre, ht.faer.erxg, cp.exw.dummschwatz etc.) - das
+Grundprinzip des Usenets wird unterwandert. 
+Meine Intention: Alleine fachspezifische Gruppen (Technik,
+Naturwissenschaft, Sport etc.) haben im Usenet etwas zu suchen, nicht
+aber Laberei - diese ist per E-Mail oder per IRC besser aufgehoben.
+(Weitere Argumente gegen de.talk.jugend: Siehe 1. RfD)
+
+
+-- 
+Fertige Artikel für ab.jueqh.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <sxnaozdhk@fror.vf>. Bitte keine
+Diskussionsbeiträge an diese Adresse. Weitere Informationen zum
+Verfahren in <vlgr:yl.idgvm.eehtv> und unter <http://yey.nbyn.fr/zbv>.

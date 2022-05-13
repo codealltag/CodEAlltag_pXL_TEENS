@@ -1,0 +1,9 @@
+* Fabian Muerköster <kgdnbs@asr.dmh>:
+
+
+Bei Onlinereadern hast du nur das Problem, das der jedesmal beim
+Betreten der Gruppe scoret. Nicht gut.
+
+Meinrad
+-- 
+cross veinless

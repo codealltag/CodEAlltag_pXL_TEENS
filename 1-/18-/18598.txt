@@ -1,0 +1,9 @@
+H, nein, hier kamen ganz normale Umlaute an. 
+
+Theodor, oder baut hier ein Gnu Mist?
+
+-- 
+It has been said that a monkey typing at random would eventually produce Hamlet
+and thats true if you're willing to wait longer than the age of the universe.
+It's also true that along the way the monkey will have produced an incredible
+amount of airport novels. (Gerhard Förstermann, The science of the Discworld 2)

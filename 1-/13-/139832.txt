@@ -1,0 +1,20 @@
+Und so sprach Julian Grevenstette:
+
+Naja, bei uns musste diesen Sommer ebenfalls mal ein Account-System
+her. Wurde als Naha-Administrator draufgeknurzt (ich glaube, bestimmte
+Systeme bringen das aus der Schachtel raus mit ...). Soweit so gut.
+Die Username/Passwortvergabe war aber der Hit: Der Login, OK - das
+geht noch, ist der vollsteandige Vor- plus Nachname. Das Passwort war
+aber nicht etwa zufaellig sondern mithilfe einer Klassenliste
+systematisch zu bestimmen. Eigentlich waere es vorgesehen gewesen,
+dass diese dann sofort geaendert wuerden, aber 80% der Schueler
+interessieren sich nicht dafuer, solangs nicht um ihre Facharbeit
+geht, 5% der Daten waren falsch erfasst und 10% wussten nicht, wie das
+Teil geaendert wird. Von den persoenlichen Ordnern auf dem Server
+wissen etwa 10 von 900 Leuten. Kurz: Ich nehme mein Notebook in die
+Schule mit...
+
+Gruss,
+Kasimir.
+-- 
+Hello, I'm Frustra Heribert, welcome to the show.

@@ -1,0 +1,10 @@
+Welches ist den FE? Ich hab bis jetzt nur CE,ME,NT, XP und NE kennen
+gelernt.
+
+Würde das nicht sowieso 'FisherPrice - My first Windows' heißen?
+
+mfg, 
+	Othmar
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

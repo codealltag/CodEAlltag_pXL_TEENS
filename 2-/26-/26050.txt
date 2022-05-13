@@ -1,0 +1,26 @@
+Kasimir Volkmers meinte kundzutun:
+
+
+Guter Mann...
+
+Auch wenn du die Ausgabeumleitung von STDERR nach STDOUT *nach* dem
+Umleiten von SDTOUT machst, landet *t*r*o*t*z*d*e*m* beides in "file".
+
+Probiers einfach aus.
+(sdf;echo foo) produziert in normalen Konstellationen Output auf STDOUT
+sowie auch STDERR. Du kannst STDERR umleiten, aber nirgendworeinpipen.
+
+((cat fifo|sed -e "s/^/Maeh. /") & (sdf;echo foo) 2> fifo) 2>/dev/null
+erzeugt (von der Outputreihenfolge abgesehen) den Output, den ich will.
+Geht nicht ohne fifo, und genau das war meine Prämisse.
+_Ohne_ fifo. Nur mit pipes.
+
+Du kannst dich auf den Kopf stellen und dasselbe noch fünfmal schreiben,
+davon verhält sich die bash aber immer noch nicht so wie du es gerne
+hättest.
+
+Herbert, NEIN, ich werde NICHT deswegen anfangen, zu programmieren.
+-- 
+Edgar findet meine Signtur doof, deswegen hat er mich beim
+MMR verpetzt, und der hat jetzt meine .signature zensiert,
+dieser .-%$�$%CARRIER LOST

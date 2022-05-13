@@ -1,0 +1,4 @@
+Wieso? Außer bei Strings hab ich noch nie den "Zeilenumbruch"
+geschafft...
+
+Udo

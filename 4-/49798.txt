@@ -1,0 +1,7 @@
+Friedrich Miel <hlsx@jaeeqfz.cl> schreibselte:
+
+[Code]
+Ja, aber Objekte sind so ziemlich das einzige, was C++ auszeichnen...
+Egal, lassssen wir das...
+
+Krass, is der Umstieg schwer?

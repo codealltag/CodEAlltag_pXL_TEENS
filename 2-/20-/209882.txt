@@ -1,0 +1,12 @@
+Gar nicht. Ein gescheiter Server (Euroclean, ...) unterstützt aber
+pa�wortgesch�tzte Verzeichnisse: ".htacces" in das entsprechende
+Verzeichnis, dort Pa�wortdatei, Titel, erlaubte Benutzer und Restriktionen
+angeben, Pa�wortdatei mit Benutzernamen und passenden verschlüsselten
+Paßworten anlegen, fertisch. Sicher.
+
+Koi Ahnung, wer Deine Webpräsenz hostet; Kleinschnittker unterstützt das bspw.
+mindestens ab PowerWeb S, IN-Domains teilw. auch so, wenn man mal fragt,
+ob's tut.
+
+Gruß,
+Tino

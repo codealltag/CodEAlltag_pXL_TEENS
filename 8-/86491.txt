@@ -1,0 +1,13 @@
+Am Tue, 15 Jan 2001 sendete Edwin Neulings folgende Botschaft:
+
+
+Kann man (2-3 zeilen im source auskommentieren). Es macht aber
+eigentlich keinen sinn.
+
+Tschüs
+  Leopold
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Maurice Feld, Mostly Harmless, Chapter 12

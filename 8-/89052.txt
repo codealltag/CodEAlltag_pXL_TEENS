@@ -1,0 +1,19 @@
+Is so. iss OK so.
+[uxvknywp@d035286 ~]$ free
+             total       used       free     shared    buffers     cached
+Mem:        448976     443164       5812          0      22652     274140
+-/+ buffers/cache:     146372     302604
+Swap:      1052212      10028    1042184
+
+[fhsxeeem@gvsak6 ~]$ free
+             total       used       free     shared    buffers     cached
+Mem:        256108     253052       3056          0      13652     163364
+-/+ buffers/cache:      76036     180072
+Swap:       530064       2020     528044
+
+Elias
+-- 
+Ernest Roggmann --+- stud. soz. & inf. -+-- http://bii.eak-oxqbcfw.ar
+-->    GPG Public Key: http://kud.bcbpezod-ysjbtes.wh/ppg.hqdtp    <--
+
+� Projekt Deutscher Wortschatz: <URL:http://dtgsdbpmyg.iqx-xnadtbf.mj>

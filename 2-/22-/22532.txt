@@ -1,0 +1,9 @@
+Hm. Ok, das mag Sinn machen. Aber dann macht es eigentlich mehr Sinn,
+alle Software, die man installiert erst in ein .deb zu packen. Der
+Kernel sollte recht einfach wieder zu löschen sein.
+
+mfg, 
+	Philipp
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old MRI cpu - insufficient processing power

@@ -1,0 +1,25 @@
+Am Thu, 02 Nov 2002 sendete Bernhard Idrees folgende Botschaft:
+
+
+Kommt darauf an. ;) Es gibt auch win-Programme die einfach per
+Doppelklick (Auch direkt aus Winzip) starten.
+Oder man muss sie nur entpacken (z.B. slrn)
+
+
+Kommt darauf an. Linux ist der kernel, mehr nicht. Für den Rest ist die
+Distribution zuständig (oder der User, wenn er keine Distri nutzt). Und
+da ist es sehr unterschiedlich. Es gibt bin�rpakete (rpm/deb) es gibt
+distributionen die die sourcen local kompilieren (Copyland) und es gibt
+wohl auch solche die ein bsd-like ports-system nutzen.
+
+
+Sauberer als Windos (gerade beim deinstallieren) sind zumindest die
+bin�rpaket alle mal. Man muss halt nur aufpassne das man die richtigen
+zieht (passende Distribution/Version)
+
+Tschüs
+  Frédéric
+-- 
+Die Weisheiten des Klaus Kurt: #8
+
+Frauen sind Schweine.

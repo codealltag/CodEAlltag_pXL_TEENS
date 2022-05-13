@@ -1,0 +1,18 @@
+Hmmm. Ok. Wobei ich es beim alten gelassen hätte - dann hätte man
+die Statistiken auch Tageweise machen können, falls mal wieder
+viel los ist.
+
+Jepp. Ich hab das auch erst gemerkt, als ich es starten wollte.
+
+Muß ich auch erst schauen. Kommt dann per mail / liegt im CVS.
+
+Danke. Sollte man das noch auf -w stricken?
+
+Ist genehmigt und in Arbeit.
+
+mfg, 
+	Meinrad
+-- 
+BOFH excuse #80:
+That's a great computer you have there; have you considered how it would work
+as a BSD machine?

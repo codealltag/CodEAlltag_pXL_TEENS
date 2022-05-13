@@ -1,0 +1,17 @@
+Valerio Zahler schrieb am 21. Oktober 2001 um 22:00 Uhr folgendes:
+
+[...]
+
+Nicht ganz; de-latin1-nodeadkeys.map enthält eben auch
+
+
+während im "normalen" Tastaturlayout
+
+
+steht. In diesem Fall entfernt es also nicht einfach den "Deadkey",
+sondern belegt die Taste völlig anders.
+
+Viele Größe,
+     Jean-Paul Zieg
+-- 
+fortune: cpu time/usefulness ratio too high -- core dumped.

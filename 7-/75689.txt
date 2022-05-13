@@ -1,0 +1,8 @@
+Sourcen kontrollieren? Du klingst ja fast so wie Niclas L. Unterste der
+irgendwann mal in de.comp.security.misc (kann auch *.firewall
+gewesen sein) behauptete 'closed source Software ist bis zum Beweis
+des Gegenteils als potentieller Datenschredder zu betrachten. Und
+selbst open source würde er bevor er diese nicht explizit geprüft hat
+nicht installieren.' Naja man kann es auch übertreiben.
+
+Justin

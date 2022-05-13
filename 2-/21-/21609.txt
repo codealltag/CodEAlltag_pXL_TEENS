@@ -1,0 +1,7 @@
+Wie, schon wieder?
+
+mfg, 
+	Berend
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

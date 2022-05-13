@@ -1,0 +1,14 @@
+War mal so, weil ZFKG ja unbedingt mehrere Server gleichzeitig
+besetzen musste, statt ganz sozial nur zu einem TCP aufzubauen und die
+anderen fair per UDP zu fragen.
+
+Mittlerweile kann man das wohl einstellen, aber behauptet wird das
+trotzdem noch. Nur frage ich mich, wer das freiwillig auf 1
+begrenzt...
+
+Othmar
+
+-- 
+Raifeisen ImageReady:
+"Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+ should not have been."

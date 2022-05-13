@@ -1,0 +1,12 @@
+Normalerweise soll(te) der erste "wahre" Server (derjenige/letzte wo der
+Artikel per POST 'reingeschoben wird) das Datum setzen. DAmit eben niszt
+jeder irgendwann posten kann.
+
+
+Dürften Artikel mit POST weitergeben.
+Sonst keine Fehler "Article not accepted".
+
+
+Soll aber niszt.
+
+Siebelt

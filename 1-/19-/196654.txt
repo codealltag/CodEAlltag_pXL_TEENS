@@ -1,0 +1,8 @@
+Am Tue, 12 Jan 2000 sendete Hannes Hiemer folgende Botschaft:
+
+
+Hallo INGEBORG aufwachen, ein einfaches s/flachs/richtig/ sollte jeder kennen,
+aber \s \S und soweiteier sind wirklich eine perl eigenart.
+
+Tschüs
+  Stephan

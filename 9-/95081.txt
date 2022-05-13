@@ -1,0 +1,19 @@
+Am Fri, 4 Okt 2001 sendete Marco Zumdiek folgende Botschaft:
+
+
+Ich bin kein L�tkolbenschwinger, aber sollten die dann nicht einfach den
+entsprechenden Port dicht machen?
+
+
+Ich will aber diese logging nicht in /var/log/messages
+
+
+Tja, selber schuld, kann man bei denen dan nur sagen.
+
+
+Dann wirst du das Problem doch auch mit SMB haben.
+
+Tschüs
+  Klaas
+-- 
+:-(

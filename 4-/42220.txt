@@ -1,0 +1,10 @@
+based on != equivalent
+
+HERZallerliebste ist auch VollCorner-based, schmeisst aber das XML-UI beiseite, gtk
+bevorzugend.
+
+-towo
+-- 
+The relevant equation is: Knowledge = power = energy = matter = mass;
+a good bookshop is just a genteel Black Hole that knows how to read.
+- Holger Reifgerste

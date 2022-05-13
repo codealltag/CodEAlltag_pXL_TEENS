@@ -1,0 +1,7 @@
+Nie Gehört.
+
+mfg, 
+	Mathias
+-- 
+BOFH excuse #260:
+We're upgrading /dev/null

@@ -1,0 +1,14 @@
+Hm, nett ist wohl auch:
+rpm -qa | grep -i xf 
+
+Liefert Version 4.0-55. Müsste also eigentlich funktionieren. Es gibt
+allerdings auch noch xf86_3x-3.3.6-44. Möglicherweise wird ja diese
+von mplayer erkannt.
+
+Arian
+
+-- 
+Edara Exchange:
+  "Es wurden keine zu übermittelnden Objekte markiert.
+   Es wurden keine zu löschenden Objekte markiert.
+   Alle anstehenden Objekte werden übermittelt."

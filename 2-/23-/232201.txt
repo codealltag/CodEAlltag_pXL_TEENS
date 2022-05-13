@@ -1,0 +1,12 @@
+Ja, aber AFAIK wolltest Du einen nicht allzu komplizierten Newsreader und  
+der UUCP Teil ist nicht gerade toll zu konfigurieren. Dafuer kann  
+Crosspoint fast alles und laeuft auch auf dem schrecklichsten Rechner mit  
+fast jedem Betriebssystem. Und das Theodor unterstuetzt er auch noch. :-)
+Ausserdem bekommt man Tonnenweise Tools dafuer.
+
+Dafuer kostet er in der UUCP Version 50DEM - Nicht billig, wo VRC  
+umsonst ist.
+
+--
+
+Ciao, Luis

@@ -1,0 +1,7 @@
+Das habe isz dreimal gemacht. Diesmal habe isz es endlisz geszafft.
+
+mfg, 
+	Olaf
+-- 
+BOFH excuse #116:
+the real ttys became pseudo ttys and vice-versa.

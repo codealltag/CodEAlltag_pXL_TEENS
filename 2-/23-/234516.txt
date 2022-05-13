@@ -1,0 +1,3 @@
+Es gibt nicht "die eine Art" ein Flash-Bios zu überschreiben, das varriert 
+je nach Chipsatz und Flash-Chip. Deswegen kann so ein Virus nur auf den 
+wenigsten PCs funktionieren.

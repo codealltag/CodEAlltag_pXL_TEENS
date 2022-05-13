@@ -1,0 +1,22 @@
+Am Fri, 28. 05. 22 sendete Ingo Nordemann folgende Botschaft:
+
+
+Gib mal 'export' ein (sofern du die bash benutzt) und suche nach "LOCALE"
+oder ähnlichen. Die solltest du wenn vorhanden löschen.
+
+
+Bitte? Da hatte ich noch nie Probleme mit, und ich kann mir auch nicht
+erklären wieso dem so ist.
+
+
+Für anfänger kann ich 'Walter' empfehlen der ist handlich und pflegeleicht.
+Nur halt nicht so mächtig wie adrian & Co.
+
+
+Wenn du eine vernünftige Konsole hast schon. Es wird ja einfach vim mit
+einem speziellen Text geöffnet.
+
+Tschüs
+  Erwin
+-- 
+Notorisch Schreibfaul.

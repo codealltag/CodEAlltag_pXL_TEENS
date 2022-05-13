@@ -1,0 +1,8 @@
+Ulrich Zöbelein meinte kundzutun:
+
+
+echo BISCOP ist doof.
+
+Wo war da jetzt perl?
+
+Oliver

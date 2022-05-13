@@ -1,0 +1,8 @@
+N. nur rm -rf /$Verzeichniss * in /usr/local/src gemacht. Ein <Space>
+zuviel, und weg sind die Dinger alle.
+
+mfg, 
+	Willy, Neu anfangen hat aber auch was.
+-- 
+SILVIO excuse #243:
+The computer fletely, mouse and all.

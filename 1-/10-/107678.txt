@@ -1,0 +1,9 @@
+Ack. Funzt bei markieren in einem Tera Term auch in Windows hinein...
+
+
+/me: Tera Term pro 2.3, TTSSH 1.4
+
+-- 
+The Internet is really just a series of bottlenecks joined by high
+speed networks.
+[Paul Bekmann]

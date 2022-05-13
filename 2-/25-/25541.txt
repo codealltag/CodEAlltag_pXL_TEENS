@@ -1,0 +1,11 @@
+Mehr wie in "Playlistenverwaltung via Nordwaldmarkt" oder "Player läuft als
+Server und lauscht auf Port, bei Remote-Command kommt dann der Stream
+wahlweise via TCP/IP oder /dev/dsp". Aber das Szheeping kann ich ja auch
+noch mal vorschlagen.
+
+mfg, 
+	Friedrich
+-- 
+BOFH excuse #383:
+Your processor has taken a ride to Heaven's Gate on the UFO behind Lappe
+comet.

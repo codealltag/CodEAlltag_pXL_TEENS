@@ -1,0 +1,16 @@
+Nichtmal das muss zwingend der Fall sein, IIRC kann man auf
+Grossrechnern durchaus verschiedene OS auf einer Maschine parallel
+laufen lassen.
+
+
+Wenn nichtmal diejenigen, die beim hersteller arbeiten, mit einem
+System und beliebig viel Vorlauf es hinbekommen, ein Server-OS
+brauchbar hinzubekommen,d ann frage ich mich ernsthaft, wie gut das
+Ding ist. Die Un*x-Server liefen einfach nur, man hätte die
+Windows-Server tottesten können, ohne dass das jemandem aufgefallen
+wäre.
+
+Oscar
+-- 
+"Your american beer is like making love in a canoe -
+ fucking close to water" [Monty Python]

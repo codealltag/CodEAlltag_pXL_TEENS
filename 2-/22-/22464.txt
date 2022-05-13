@@ -1,0 +1,7 @@
+Wer ist den dort der Arbeitgeber?
+
+mfg, 
+	Wolfram
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

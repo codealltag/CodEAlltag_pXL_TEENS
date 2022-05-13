@@ -1,0 +1,50 @@
+Hinrich Borstell schrieb am 19. Juni 2000 um 15:03 Uhr folgendes:
+
+
+Na ja, nicht wirklich :-) Wahrscheinlich sollte ich aber wieder eins
+meiner Delphi-Bücher rauskramen...
+
+
+hem, steht in dem Buch hier auch drin, ja. Allerdings habe ich es
+beim überfliegen der Beschreibung nicht so verstanden, als könne man
+die Eigenschaft mit einer der Ausrichtungen kombinieren...
+
+
+Hört sich nützlich an, das habe ich aber dann tatsächlich nicht mehr
+mitbekommen.
+
+
+Wenn jede Anwendung einzeln Unterstützung für die Desktop Themes
+bieten muss, dürften sie nicht sehr eindrucksvoll sein ;-)
+
+
+Wenn ich dann sage "verschiebe Widget x um y Pixel nach rechts"
+verschiebt er es automatisch um y+z Pixel, weil eine größere Schrift
+gewählt ist?
+
+
+Tja, theoretisch ist das alles ganz schön, aber in der Praxis habe ich
+damals Nachmittage damit verbracht. Ich hatte da zB ein Programm, das
+nicht nur auf Gr��en�nderungen des Fensters reagieren, sondern auch
+einen "shaded" Modus anbieten sollte, in dem nur noch die Toolbar zu
+sehen war -- die sollte in diesem Modus weniger Buttons anbieten als
+im "Vollmodus" (d.h. die noch sichtbaren mussten "aufrutschen" und
+beim Vergrößern wieder Platz machen) und einige Widgets aus dem
+Hauptfenster sollten (in der Größe angepasst) neben die Buttons (und
+entsprechend wieder zurück) rutschen... vor allem letztere landeten
+nach geringfügigen Änderungen der Oberfläche regelmäßig an der
+falschen Stelle.
+
+Aber wie gesagt: Ich kann es mir auch gut vorstellen, dass derlei Zeug
+mit Delphi im Grunde ganz einfach ist und es damals nur meine eigene
+Dummheit war, das mit "Pixelschieberei" zu lösen. Irgendwie habe ich
+in die Fähigkeiten von NLD noch größeres Vertrauen als in meine
+eigenen... ;-)
+
+Viele Größe,
+     Ottmar Ueberschaer
+-- 
+In einem Computerexpertenkreis die Worte: "ich bin Mariaschlucht" so ganz
+nebenher gelassen aussprechen, lässt alle anderen Anwesenden sofort in
+unterwürfige Demutshaltung und staunende Bewunderung fallen.
+                                 -- "Sandro Utsch" <ogsuo@quvogit.nb>

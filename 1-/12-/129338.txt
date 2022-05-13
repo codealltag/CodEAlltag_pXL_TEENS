@@ -1,0 +1,4 @@
+Also eine serielle Schnittstelle für einen ZX81 zu bauen dürfte selbst 
+ich noch hinbekommen (einen Z80A-SIO Chip, ein Dekoder-Gal, vielleicht 
+noch ein paar Treiber-ICs und fertig ist die Soße). Und daran schließt 
+man halt ein ganz normales Modem an.

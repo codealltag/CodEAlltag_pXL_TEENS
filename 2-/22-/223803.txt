@@ -1,0 +1,48 @@
+Na ja, "der alte" steht bisher nicht bei mir, sondern ist Familien-PC.
+Folglich kann sie den nicht so einfach bekommen. Es ist aber noch ein
+386er übrig; der soll (wenn möglich) auch eine Netzkarte und ein
+Terminalprogramm bekommen und dank Linux sollte es dann möglich sein,
+zumindest auf der Konsole (was für Mail & News ja ausreicht)
+vernünftig via Netzwerk auf einem der beiden anderen PCs zu arbeiten.
+
+
+Tja, ginge mit einem 386er / 4 MB RAM / 120 MB HDD wahrscheinlich
+gerade noch. Sie will aber unbedingt ihre Tetris- und PacMan-Spielchen
+behalten; die gibt es unter Nanunanaa zwar inzwischen auch in
+ausreichenden Mengen, dazu bräuchte man dann aber X und das will ich
+dem 386er nicht unbedingt antun.
+
+
+Yep; das nervigste, was es (bezüglich Computern) für mich gibt, ist
+Hardware, die aus unerfindlichen Gründen nicht tut, was sie soll.
+Deshalb komme ich zB auch nicht auf die Idee, zu �bertakten.
+
+
+Die ZIP-Laufwerke sind AFAIK weder die beste noch die billigste
+Möglichkeit eines Speichermediums dieser Art; sie haben aber den
+Vorteil, daß sie sehr weit verbreitet sind (ich habe die Medien zur
+Übermittlung größerer Datenmengen schon per Post ausgetauscht) und
+eben (auch unter Linux) ganz gut unterstützt werden.
+
+Wenn Du Dich trotzdem für ein ZIP entscheidest, ist die Qual der Wahl
+nicht mehr ganz so groß; das Laufwerk gibt's AFAIK nur von einem
+einzigen Hersteller (kann inzwischen aber auch anders sein; Medien
+gibt es jedenfalls schon von anderen Firmen).
+
+
+Ich habe leider keine genauen Werte. Ich kann Dir nur (subjektiv)
+sagen, daß mein medac flott genug ist, daß mich die Geschwindigkeit
+nicht stört. Das Parallelportlaufwerk, mit dem ein Freund arbeitet,
+ist dagegen schon bei ein paar MB großen Dateien nervig.
+
+
+Schon mal überlegt, für ein paar Mark einen Wechselrahmen für
+IDE-Platten zu kaufen? Ich kenne mehrere Leute, die das so machen und
+wenn das BIOS-Autodetect mitspielt ist das sogar recht komfortabel
+(wenn man damit leben kann, daß ein Medienwechsel einen Neustart
+bedingt) und von Geschwindigkeit und Preis her kaum zu schlagen.
+
+Viele Größe,
+     Georges Tings
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

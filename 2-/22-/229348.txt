@@ -1,0 +1,26 @@
+Mal Schritt für Schritt. Das GIF Format definiert einen Header und die 
+LZW-Kompression mit maximal 8bpp. Daraus folgt daß man schlichtweg keine 
+24bpp in GIF abspeichern kann, da das LZW Verfahren dort nur für maximal 
+8bpp definiert. Es ist also vom Prinzip her einfach unmöglich.
+Stell Dir vor Du hast 2 Programme, eines kann nur 8bpp BMPs in GIF 
+umwandeln, eines kann nur 24bpp BMPs zu 8bpp BMP downgraden.
+Was machst Du? Du nimmst den Downgrader und wandelst das Bild in ein 8bpp 
+BMP, um dann das Ergebnis in Deinen GIF-Encoder zu kippen. Das wären doch 
+eindeutig 2 Schritte, nicht? Da heutige Bildbearbeitungsprogramme beide 
+Funktionalitäten in sich vereinigen ist eine schöne Sache, aber nicht 
+zwingend notwendig.
+
+
+Nein, das behauptest Du :-)
+Ich habe nie von JPG gesprochen. Im Endeffekt wären es in dem Fall 
+natürlich 3 Schritte, also JPG laden, Farbumwandlung, GIF speichern.
+Analog zu obigem bräuchtest Du ein 3. Programm, das erstmal ein JPG in 
+ein 24bpp BMP umwandelt.
+
+
+Klar. Alle etablierten Verfahren sind relativ alt.
+
+
+Die fraktale Kompression hat auch sehr gute und kleine Ergebnisse, nur daß 
+man zum komprimieren einen Spezialchip braucht hemmt die Freude darüber 
+ein wenig ;-)

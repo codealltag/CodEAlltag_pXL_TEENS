@@ -1,0 +1,14 @@
+Gut.
+
+Wegen was willst du ihn den Anklagen?
+
+
+Das Hauptproblem ist: Ich bekomme die News nur schubweise per
+UUCP. Demensprechend stimmen die Daten der Articles nicht mit den
+Date-Headern überein. Das gibt übelstes Gefummel.
+
+mfg, 
+	Pietro
+-- 
+BOFH excuse #295:
+The Token fell out of the ring. Call us when you find it.

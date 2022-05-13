@@ -1,0 +1,35 @@
+Ansichtssache.
+
+
+Bis zu welchem Punkt man die Einführung solcher Überwachungs-
+möglichkeiten für unbedenklich hält und ab wann man meint, nach dem
+Satz "Wehret den Anfängen" handeln zu sollen, ist (wie in vielen
+Bereichen) eine individuelle Entscheidung. In diesem speziellen Fall
+halte ich beide Standpunkte für vertretbar.
+
+[Verschlüsselungsverfahren von biowelt]
+
+Da "Drittschl�ssel" != "Nachschlüssel" ist, wird auf der Seite ja
+auch geklärt:
+
+
+Die Formulierung "in meinem Namen verschlüsseln" trifft die Sache
+natürlich trotzdem nicht - gemeint ist hier tatsächlich die
+Signierung, wie einige Zeilen später ja auch noch mal
+unmißverständlich gesagt wird:
+
+
+Der Fehler ist IMO zwar psychologisch zu erklären (das "verschlüsseln"
+ergibt sich im Schreibfluß aus dem vorhergehenden "entschlüsseln",
+solche Sachen passieren mir auch ab und zu), sollte auf so einer Seite
+aber nicht vorkommen. Mail an den Verantwortlichen ist raus.
+
+
+Deine Meinung. Darüber, wie sich eine steigende Akzeptanz von
+Drittschl�sselsystemen auf die Hemmschwelle für "Nachschlüssel"
+auswirken würde, läßt sich nur spekulieren.
+
+Viele Größe,
+     Ihno Krumbholz
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

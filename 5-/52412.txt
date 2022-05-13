@@ -1,0 +1,6 @@
+So war das nicht gemeint. Wollte damit nur ausdrücken, daß es z.B.
+SMFK-Clients gibt die sich einen feuchten Kehricht um
+Authorisation-Requests scheren sondern einfach den gewählten User adden.
+Auch für Windoof-SMFK gibbet entsprechende Patches.
+
+Noah

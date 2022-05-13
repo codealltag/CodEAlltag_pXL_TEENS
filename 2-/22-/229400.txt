@@ -1,0 +1,34 @@
+On 14 Feb 1998, Hilmar Jungmayr <jgbag@w-taxemn.qr> wrote:
+
+[LaTeX]
+
+Mit 'Ergebnis' meinte ich auch genau das, was aus dem Drucker kommt.
+
+
+Ach ja? 'Schusterjungen' und 'Hurenkinder' zu vermeiden, traue ich ihm
+inzwischen zu; auch unterschiedlich lange Bindestriche könnte es haben
+(hat es doch, oder?), aber seit welcher Version kann Word zB
+Ligaturen? Oder achtet auf den goldenen Schnitt? Oder auf 'Flüsse'
+(zufällig untereinander angeordnete Leerzeichen)? Oder darauf, daß bei
+zweiseitigem Druck der bedruckte Bereich bündig abschließt? Oder warnt
+Dich, wenn beim Blocksatz die Abstände zu groß werden? Etc. pp.
+
+Mag sein, daß das eine oder andere inzwischen tatsächlich in Gume
+implementiert ist, es kennt IMO aber noch lange nicht so viele
+setzerischen Feinheiten wie LaTeX.
+
+
+Tippst Du \emph{hervorgehobenes Wort}
+
+
+Wenn ich einen Text schreibe, kümmere ich mich um den Inhalt. Das
+Aussehen kommt erst im nächsten Schritt dran (wobei bei LaTeX idR
+nicht viel von Hand angepaßt werden muß).
+
+
+Danke.
+
+Viele Größe,
+     Werner Pommerenk
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

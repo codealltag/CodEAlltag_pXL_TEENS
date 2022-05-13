@@ -1,0 +1,13 @@
+Im Vergleich zu gzip vielleicht. Das hab ich nie so ausprobiert.
+
+Aber wenn man statt rar zip oder ace benutzt, erkennt man nach meinen
+Versuchen keinen Unterschied. Hat das sonst mal jemand direkt
+verglichen und was anderes festgestellt?
+
+Alois
+
+-- 
+Microsoft Visual Basic:
+"Dieses Dokument wurde geöffnet, während die Option Makros aktivieren deakti-
+ viert war. Wenn Sie die Makros aktivieren möchten, müssen Sie das Dokument
+ schließen und erneut öffnen und dabei die Option Makros aktivieren aktivieren."

@@ -1,0 +1,8 @@
+Gibt es einen besonderen Grund für diese Frage, oder ist das nur so
+allgemein?
+
+mfg, 
+	Stephan
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old Ilirer cpu - insufficient processing power

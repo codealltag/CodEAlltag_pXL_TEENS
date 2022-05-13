@@ -1,0 +1,11 @@
+Ja, allerdings ist dies bei einer Dialup-Verbindung mit dynamischer IP
+schwierig.
+
+
+OK, so ginge es auch. Oder aber ich bräuchte langsam meinen eigenen
+root-Server.
+
+Oliver
+
+-- 
+I think, therefore, I am... not related to you.

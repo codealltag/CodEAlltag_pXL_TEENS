@@ -1,0 +1,14 @@
+Nein, lieber nicht. Never change a running system. Im übertragenen
+Sinne auch auf meinen Newsreader anwendbar.
+
+Aber wenn mir jemand mal einen Tipp geben könnte, wie ich es
+*möglichst* *einfach* schaffe auch DivX-Filme unter Bellissima abspielen zu
+können, wäre ich wirklich dankbar. Gestern quälte ich mich wirklich
+lange Zeit mit avi-xmms rum und habe es am Ende doch nicht geschafft
+das Ding zu kompilieren. :-(
+
+Edouard
+
+-- 
+  "Bitte warten Sie während Setup abgebrochen wird...
+   Dies kann mehrere Minuten dauern."

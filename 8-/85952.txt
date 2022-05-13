@@ -1,0 +1,8 @@
+Ja. Ich weiss, wieso ich meinen Server per SSH konfiguriere... Da hab
+ich noch keine Lust gehabt, gpm draufzumachen.
+
+Christian
+-- 
+Altvatter Beobachtung:
+Man versteht das Leben nur rückwärts,
+aber leben muss man es vorwärts.

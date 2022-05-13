@@ -1,0 +1,9 @@
+* Siegfried Zogbaum <ammmzqk@cbuj.vs>:
+
+
+Der Editor, mit dem ich arbeiten musste, nahm mir nichts ab. Ich musste
+jede Zeile neu mit TAB einrücken. Dann macht das keinen Spaß. 
+
+Karlheinz
+-- 
+cross veinless

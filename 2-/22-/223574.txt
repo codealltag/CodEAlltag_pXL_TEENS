@@ -1,0 +1,53 @@
+*schreiendweglauf*
+
+
+Davon, daß es läuft, gehe ich eigentlich aus. Bleibt die Frage, ob es
+erträglich schnell geht - da habe ich halt noch keine Erfahrungswerte
+bei Rechnern dieser Größe.
+
+
+Diese vgalib hat bei mir bisher eigentlich nur Probleme gemacht - da es
+aber sowieso für alle Anwendungen, die mich interessierten, Versionen
+für X gab, habe ich mich da auch nicht sehr intensiv mit beschäftigt.
+
+
+Sollte, ja. Ich hab' halt noch keine große Erfahrung mit Netzwerken
+und da wäre es IMO ein wenig hoch gegriffen, mit so etwas anzufangen.
+
+
+Wenn man die Komponente identifiziert hat, die es nicht mehr tut, muß
+man eben in den sauren Apfel beißen und Ersatz holen. Wenn es - wie
+bei mir neulich - mehrere Nachmittage (über Wochen verteilt) dauert,
+den Fehler zu diagnostizieren, finde ich das extrem nervig.
+
+
+Ach ja, richtig - die haben ja demletzt eine überarbeitete Version
+herausgebracht, IIRC heißt die ZipPlus. Wie die unterstützt wird, weiß
+ich allerdings nicht; aber Du kennst ja sicher die Hardware-Datenbank
+auf dem Web-Server von Remstalkellerei...
+
+[...]
+
+Wie schnell die ATAPI-Version ist, weiß ich ebenfalls nicht. (Falls es
+das ist, was Du wissen wolltest ;)
+
+
+Intern.
+
+
+Je nachdem, welche Mengen Du sichern willst, würde ich dazu eher kein
+ZIP-Laufwerk nehmen. Ein 100 MB-Medium kostet immer noch um die 20 DM;
+das dürfte grob überschlagen 6 Mal so teuer sein wie Speicherplatz auf
+einer IDE-HDD.
+
+
+Deine Entscheidung.
+
+
+Mmh... wenn ich mir ansehe, was im Moment sonst so in de.talk.jugend
+aufschlägt, ist unser Gespräch doch noch hochgradig on-topic <g>.
+
+Viele Größe,
+     Valerius Brillen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

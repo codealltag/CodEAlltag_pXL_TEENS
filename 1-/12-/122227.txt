@@ -1,0 +1,9 @@
+begin quoting Christoph Jostarndts <rk@gzwqcwi.vkl>:
+
+hm, was ist sonst auf der Partition, wenn die auf
+/usr/local/news/spool gemountet ist?
+
+Oder was sollen uns die Angaben sagen?
+-- 
+"We just should just came have came just back to our business."
+ - Herr Heuber

@@ -1,0 +1,12 @@
+Am Tue, 13. 02. 23 20:22:44 +0200 sendete Engelbert Güldenpennig
+folgende Botschaft:
+
+
+[_] Du hast ahnung.
+
+Es kommt doch auf die Anwendung an. Wenn du texte bearbeiten willst
+(z.B. postings) ist Perl besser geeignet. aber du kannst gerne mal einen
+kernel in Perl schreiben.
+
+Tschüs
+  Gunter

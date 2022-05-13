@@ -1,0 +1,3 @@
+Das kapier ich wiederum nicht. Ist das MSB 0, so ist die Zahl positiv, 
+ist das MSB 1, so ist sie negativ. Für mich ist das ein Vorzeichenflag, 
+das auch nichts anderes macht als das Vorzeichen anzuzeigen.

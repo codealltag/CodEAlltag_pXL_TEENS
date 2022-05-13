@@ -1,0 +1,30 @@
+Am Sun, 08. 07. 22 sendete Stefano Ingenillm folgende Botschaft:
+
+
+Huh? also den ganzen SVGA bzw. Frambuffer kram den ich hier habe muss man
+zwar ein bisschen suchen, ein "./configure && make && make install" ist
+aber deutlich trivialer als dieses komische imake geraffel das viele X
+(oder auch non-X) programme einsetzten.
+
+
+Isch abe garkeinen Drucker.
+
+
+Der Star LC-10 hier zählt nicht, der ist a defekt und b kann man da nur
+plaintext brauchbar mit drucken.
+
+
+WTF haben die mit der Haarlänge zutun? Die sind doch für den Strick um
+den Hals zuständig.
+
+
+Da würde ich die anspielung ja noch eher verstehen.
+
+
+Ich weiss schon warum mir Sackbahnhöfe unsympatisch sind...
+
+
+Nein. ;)
+
+Tschüs
+  Klaas

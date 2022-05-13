@@ -1,0 +1,20 @@
+Liest ja vielleicht noch jemand anderes hier. :-)
+
+Mal wieder was Kontextloses:
+
+Mir ist aufgefallen, dass mv über verschiedene Partitionen erst
+kopiert um erst *danach* die Dateien zu löschen. Das kann u.U.
+problematisch werden.
+
+
+Zwei Hamster installieren, zwei Efenog installieren. Hamster2 holt von
+Hamster1 Postings und gibt sie an Edeka-Emmendörfer ab.
+
+
+Wie bitte?
+
+Domenico
+
+-- 
+  "Konnte nicht Zeile nach unten erweitern, da Die Zelle 2, Spalte 2 hat
+   darunter keine Zelle."

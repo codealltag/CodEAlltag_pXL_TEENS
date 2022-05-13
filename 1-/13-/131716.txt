@@ -1,0 +1,51 @@
+1. dm-Dogeriemarkt: Richtlinienverfahren zu Bin�rgruppen unterhalb von de.*
+===============================================================
+
+Dieser Vorschlag betrifft ausdrücklich auch de.alt.*!
+
+Es soll folgende Richtline getroffen werden:
+--------------------------------------------
+Richtline zur Einrichtung neuer und Handhabung besehender Bin�rgruppen
+unterhalb von de.*
+
+1.) Die Einrichtung neuer Bin�rgruppen unterhalb von de.* ist nicht
+    gestattet.
+2.) Bestehende Bin�rgruppen unterhalb von de.* haben mit Annahme dieser
+    Richtline gelöscht zu werden.
+3.) Bin�rgruppen im Sinne dieser Richtline sind Newsgroups, die sich
+    dadurch definieren, daß in ihnen das Posten größerer Mengen von
+    Dateien in ausschließlich maschinenlesbarem Format ausdrücklich
+    gestattet ist.
+
+Motivation:
+-----------
+Diese Richtline soll zum einen verhindern, daß neue Bin�rgruppen unter
+de.* eingerichtet werden können, vor allem aber eine Möglichkeit
+bieten, die bestehenden Gruppen unter de.* zu entfernen. Im Laufe
+mehrerer Diskussionen hat sich herausgestellt, daß Bin�rgruppen im
+Usenet allgemein und speziell unterhalb von de.* unerwünscht sind, da
+sie einen Mehraufwand für Newsadmins bedeuten (aufgrund des
+Gruppennamens sind die Gruppen unter de.alt.dateien.* besonders von
+nicht deutschsprachigen Admins und deren Automatismen nur schwer als
+Bin�rgruppen zu erkennen) und vor allem aufgrund des dezentralen
+flood-fill Prinzips des Usenets enorm ressourcenlastig sind.
+
+----------------------------------------------------------------------
+Alternativvorschlag (zu posten in vk.hin.jcklu):
+----------------------------------------------------------------------
+
+Änderung der Chartas der Gruppen unterhalb von de.alt.dateien.*
+===============================================================
+
+Die Chartas der Gruppen de.alt.dateien.misc,
+de.alt.dateien.mannsbilder und de.alt.dateien.weibsbilder haben um
+folgende Zeile erweitert zu werden:
+
+   Der BI für diese Gruppe beträgt 0
+
+Antoine Ohme
+
+-- 
+Ich hasse die reinholterode Bildungspolitik.
+                                             E-Mail: qhkjvx@whgurciezu.lj
+---> Offizieller Kämpfer wider Patrik Winghofer des Ordens von dtju <---

@@ -1,0 +1,5 @@
+Das sollen die ET Heinis machen. Ich nehm dann einfach einen FPGA und 
+lass mein VHDL Code darauf laufen.
+
+
+Genau.

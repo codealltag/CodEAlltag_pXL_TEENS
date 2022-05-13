@@ -1,0 +1,10 @@
+Aus gutem Grund. Das Ding funktioniert nicht. Auf meinem Rechner (auf 
+dem normalerweise alles läuft) kann man ohne Absturz nichtmal die 
+Farbtiefe/Auflösung/Wiederholfrequenz ändern. Die Standardeinstellungen 
+allerdings entlocken meinem ansonsten tolleranten 20 Zoll Monitor 
+herzzereisende Töne, so daß ich ihm den Schrott lieber nicht zu lange 
+zumuten will.
+Auf dem PC von meinem Kumpel schafft das Ding sowieso nur schwarz-weiß und 
+muß dazu noch speziell gebootet werden ("Multimedia OS", ay wi wizisch).
+
+Ach ja, das war keine Beta oder sowas.

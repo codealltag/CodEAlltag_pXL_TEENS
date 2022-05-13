@@ -1,0 +1,11 @@
+Aeltere PCs haben zwei IDE-Ports (2 x 2Gb = 4Gb), neuere vier (4 x 2Gb = 8Gb),
+  IMHO braucht in absehbarer Zeit kein einzelner Computer mehr als 8Gb
+  (Im Netzwerk kann man Daten ja da speichern, wo gerade Platz ist :).
+
+
+CD-Brenner ?
+
+-- 
+Gerold
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

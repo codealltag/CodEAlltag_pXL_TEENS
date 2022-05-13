@@ -1,0 +1,7 @@
+Wahrscheinlich wäre es zumindestens der bevorzugte Ort für eins.
+
+mfg, 
+	Clemens
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

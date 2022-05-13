@@ -1,0 +1,26 @@
+[Bootbeschreibung]
+
+Wenn das 1,5 Minuten braucht, _ist_ mit der Kiste was faul. Ich hab
+insgesamt 640MB drin und der ist innerhalb einer Sekunde fertig. 
+
+
+*kopfsch�ttel* Du hast da irgendwas verdreht.
+
+
+Die SCSI-Sachen können das ziemlich sicher. Und im Unterschied zu IDE
+macht es kaum einen Unterschied, ob Platte mit CD-Laufwerken an einem
+Strang hängt.
+Und die IDE-Platten sollten auch DMA können. Die alte Platte aus meinem
+P2 266 kann schon DMA, die ist von 1997 oder so. Genaues Kaufdatum kann
+ich jederzeit nachschauen.
+
+
+*kopfsch�ttel*
+
+Sven, soviel Geld kann ich garnicht haben, daß ich funktionsfähiges
+altes Material einfach wegschmeissen würde.
+
+-- 
+Bei mir ist alles um eins verschoben und ich versuche DAS jetzt auszugleichen.
+Manchmal klappt es, manchmal nicht.
+[Hi]

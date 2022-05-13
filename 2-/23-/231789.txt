@@ -1,0 +1,5 @@
+BTW: Deine Postings sind falsch (nicht) kodiert. MIME Header fehlen.
+
+
+Kann ich leider nicht beurteilen. Ich empfehle bis zu den Fixes in Gravity 
+auf jeden Fall jedem den Agent.

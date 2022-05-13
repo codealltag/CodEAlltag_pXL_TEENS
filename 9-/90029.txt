@@ -1,0 +1,14 @@
+Am Thu, 08 Jul 2002 sendete Olaf Zeitl folgende Botschaft:
+
+
+Also wenn es um defektlos geht liegen Gnus und slrn bestimmt vor dem
+Agent. Allerdings würde wird es zwichen den beiden schwer einen
+unterschied diesbezüglich zu machen.
+
+Tschüs
+  Ulf
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Vittorio Dünnebacke, Mostly Harmless, Chapter 12

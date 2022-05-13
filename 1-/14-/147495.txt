@@ -1,0 +1,21 @@
+Am Thu, 24 Mrz 2000 sendete Ralph Eicks folgende Botschaft:
+
+
+Jamei, was spricht dagegen ;)
+
+
+Bei jeder von mir gekauften Netzzwergkarte waren (wenn sie den gejumpert
+war) die Jumpersetings aufgedruckt.
+
+
+Ich hab hier ne 3c59x die sich zum verrecken nicht unter win
+Installieren lies (troz vorhandener treiber) jetzt läuft sie halt unter
+Linux in meinem server ;)
+
+
+Das liegt aber eher am Konzept der jeweiligen Maintainer.
+
+Tschüs
+  Ludwig
+-- 
+37046

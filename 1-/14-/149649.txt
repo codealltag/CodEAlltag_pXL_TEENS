@@ -1,0 +1,14 @@
+Ah, ihr kennst euch damit aus :-)
+Da hab ich gleich eine DAU-Frage:
+
+Ich hab schon öfters Webseiten gesehen, die .php?irgendwas als
+Dateiendung haben. Aufgefallen ist mir dabei, dass dort mein
+Downloadmanager nicht funktioniert.
+
+Was bringt so eine php-Datei?
+
+Albin
+
+-- 
+Wieso? Weshalb? Warum? - Wer nicht fragt bleibt dumm...
+  --> www.gfzdvmonbel.dg | http://etdlrse.dz/lrw

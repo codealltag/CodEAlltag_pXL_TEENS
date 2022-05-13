@@ -1,0 +1,2 @@
+Ein Programm ist für Dich nur, was in einer turing-vollständigen
+Sprache geschrieben ist?

@@ -1,0 +1,9 @@
+Es gibt auch Leute, die für ein Programm mit ca. 100 Zeilen Code das
+(n+1) fache an Libraries dazulinken. Den Vogel abgeschossen hatte wohl
+mal jemand, der den AEN als dependancy hatte... 
+Und nein. Vim für Emacs existiert.
+mfg, 
+	Vittorio
+-- 
+BOFH excuse #262:
+Our POP server was kidnapped by a weasel.

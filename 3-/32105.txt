@@ -1,0 +1,11 @@
+Also sprach Erwin Meinhard Bäumchen <rgs-jrsu@eyhmchb.uk>:
+
+
+Vergiß es. Er meckert da über rnews, stimmts? Ja, die Rechte sind anders
+als bei der Standardinstallation. Weit du warum? Wegen
+"--with-uucp-rnews" oder wie das hieß. Ernsthaft. inncheck akzeptiert
+die Rechte nicht, die das eigene Installskript setzt.
+
+"-perm" rufst du nie wieder auf. Fertig.
+
+Kurt

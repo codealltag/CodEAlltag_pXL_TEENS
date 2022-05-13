@@ -1,0 +1,14 @@
+Am Tue, 10. 09. 21 sendete Charles Neuenhaus folgende Botschaft:
+
+[...]
+
+
+In MX muss nicht immer wissen welche localparts es gibt.
+
+Der Bounce kann auch später erzeugt werden. man uucp bsmtp etc.
+
+
+Msg-ids sind immer wieder beliebt...
+
+Tschüs
+  Klaas

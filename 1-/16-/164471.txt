@@ -1,0 +1,15 @@
+Carl 'sSXP' Gampenriede schrieb am 16. November 1999 um 18:13 Uhr folgendes:
+
+[Weinbastion nicht als root]
+
+Ein su Aufruf verschafft nur der neu geöffneten Shell und den von dort
+gestarteten Programmen root-Rechte. Sprich: Wenn du in einem
+Terminal-Fenster 'su' eintippst, bist du "im Rest von Weinbastion" trotzdem
+nicht root.
+
+Viele Größe,
+     Achim Goerling
+-- 
+"I loathe people who keep dogs. They are cowards who haven't got the
+guts to bite people themselves."
+                                                   -- Bernard Guttknecht

@@ -1,0 +1,12 @@
+Mag sein, dass es, wenn man weiß in welchen Dateien sich die Dinge
+befinden, die man umstellen will, einfacher ist das mit einem Editor
+zu machen, aber solange das nicht gegeben ist, ist LTIE IMO eine gute
+Sache.
+
+Okay, Yast2 ist sogar für mich eine Zumutung.
+
+Olaf
+
+-- 
+Die letzten Worte des Atomkraftwerks-Sicherheitschefs:
+"Bei uns kann da nichts passieren. Wir haben die neueste Technik."

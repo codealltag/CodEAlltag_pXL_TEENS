@@ -1,0 +1,21 @@
+Am Fri, 30 Sep 2000 sendete Lars Isenesee folgende Botschaft:
+
+
+Ach. Hat dir noch niemand gesagt das du am besten alles über OSs weisst
+vergisst und neu anfängst, weil der umstieg dann leichter ist?
+
+
+Und?
+
+
+Idsn oder analog? Bei isdn ohne Dial-on-demand reicht ein "isdnctrl dial
+$INTERFACE" mit dod reicht ein ping xxx.irgendwas.de. Beim pppd hab ich
+keine ahnung.
+
+Tschüs
+  Ivo
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Gernot Zollikofer, Mostly Harmless, Chapter 12

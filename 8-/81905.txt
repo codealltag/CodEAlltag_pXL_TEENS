@@ -1,0 +1,13 @@
+Am Thu, 23 Aug 2002 sendete Luciano Homberts folgende Botschaft:
+
+
+Ich kann versuchen dich vor dem nächsten Beuerfelder rechzeitig zu
+warnen.
+
+Tschüs
+  Patrice
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 28. 03. 23 Patrice Nynhuysen <atkjufrmkn@mscrssunwv.wp>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/B3F9CD02 28. 03. 23

@@ -1,0 +1,8 @@
+Klar... Hier laufen drei Mailinglisten, 6 Mail2News und News2Mail
+Gateways, und ungefähr 10 auch teilweise Daten-kritische Scripte. Und
+seit über 6 Monaten keine Probleme.
+
+-- 
+sSXP  
+      Math is like love -- a simple idea but it can get complicated.
+		-- W. Pauke

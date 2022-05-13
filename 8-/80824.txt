@@ -1,0 +1,13 @@
+Isabella sprach durch Ulrich Weißkopf-Bünger:
+
+
+Meinst du nicht, dass man es auch übertreiben kann?
+
+Set Header x-now-playing: %np1%
+und 
+    Set Lines = ""
+    Append Lines = "np: " + %np1%
+mal löschen, oder?  
+
+-- 
+np: Gorillaz - M1A1

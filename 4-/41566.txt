@@ -1,0 +1,15 @@
+Darius Eifeld <xez@wnchb.uvt> writes:
+
+[Cookies]
+
+Würdest du dies bitte 90% der Websitesersteller erzählen, die Cookies
+nutzen? Frs Sessionmanagement würde ich sie sogar noch
+akzeptieren. Aber sonst...
+
+René
+
+-- 
+In the Beginning
+
+It was a nice day.
+        -- (Didier Reckebeil & Orlando Pfefferkuch, Good Omens)

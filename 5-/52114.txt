@@ -1,0 +1,23 @@
+Solches tippte Olaf Pertlwieser:
+
+FRANCINE.
+
+
+*kreuzholengeh*
+...lasst uns froh und munter sein und und auf den Exorzismus freun...
+*summ*
+
+
+*hualp* mir ist von Holzinsel jetzt noch schlecht.
+
+
+Eben, für's scripten will man scheme, oder, ist doch wunderbaer
+übersichtlich:
+
+SCNR,
+Charly
+-- 
+Meine Netzhaut sagt: s-expressions und xml Bäume sind nicht isomorph.
+Denn ')' ist für mich schlechter von ')' zu unterscheiden als
+'</document>' von '</table>'.
+                                (Eckhard Runte auf wzi-f@jysn.mqs)

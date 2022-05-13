@@ -1,0 +1,12 @@
+Hallo Knut Bartelheim
+
+
+Microsoft Foundation Class. Gibt's natürlich nur in VC++, aber im
+C++Builder gibt's bestimmt was ähnliches...
+
+MfG Ulrich
+
+-- 
+Alle Dinge werden direkt proportional zu ihrem Wert beschädigt.
+
+(Murphy's Gesetz)

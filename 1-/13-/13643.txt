@@ -1,0 +1,13 @@
+Am Sat, 30. 03. 23 sendete Berthold Helmut Utermöhl folgende Botschaft:
+
+
+Das macht doch gerade devfs.
+
+
+Wozuauch? Er überwacht Zugriffe auf /dev, das reicht eigentlich.
+
+
+Die Konfiguration ist manchmal eigenwillig, ja.
+
+Tschüs
+  Kay

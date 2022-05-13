@@ -1,0 +1,8 @@
+* Eduard Peschkes <rfgvzmbldzkyky@nmu.gwy>:
+
+
+LC_MESSAGES=C kann bei meinem Setup bleiben.
+
+Pius
+-- 
+np: -

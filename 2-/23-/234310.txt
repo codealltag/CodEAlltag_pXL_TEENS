@@ -1,0 +1,29 @@
+BO> Cpt.Viper@gmx.net (Drcyoj Wthtnipc) wrote:
+BO> >Das ist bei mir nicht das Problem.
+BO> >Ich krieg folgende Meldung:
+BO> >sic0 at 0xd80 irq 10 maddr 0d0000 msize 4096 flags 0x2 on isa
+BO> >isic0: Error, HSCX version 15 unknown
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ich glaube hier liegt das Problem, allerdings weiß ich auch nicht was  
+das für ein Problem ist!
+
+
+BO> >Moeglicherweise wird die Speicheraddresse 0d0000 schon anders benutzt.
+BO> >Ich weiss nur noch nicht welche Addresse ich sonst nehmen kann.
+
+glaub ich kaum, ansonsten sollte unter Win95 oder ähnlichem  
+Betriebssystem ja auch stehen, daß diese Adresse belegt ist.
+
+
+Bis zum naechsten Mail...
+                         Gruß GUIDO (Klaus)
+
+---
+
+Email    : azspi@zaien.qeo.tf
+oder     : 620.034707@vzbtdlkudj.ez
+Homepage : http://xro.reiwwwd.lbc/xotvpiirvz/100,677586/jvccmyip.lng
+--------------------------------------------------------------------
+
+## CrossPoint v3.11 R ##

@@ -1,0 +1,19 @@
+Am 04. 04. 22 schrieb Pascal Wickjürgen:
+
+
+                    ^^^^^^^^
+                   ^^^^^^
+
+Du schreibst fix. ;-) An irgendeiner Variable hab ich noch gedreht,
+damit die Zeiten auch synchron sind. Gnus setzt den Dateheader nämlich
+beim absenden neu, dies hab ich ihm aber ausgetrieben.
+
+
+Ist das der aktuelle XEmacs aus dem CVS, der auch Euro und UTF-8
+versteht? Den sollte ich mir bei Gelegenheit auch mal vornehmen.
+
+Nico
+-- 
+"Ich habe in meiner Jugend auch viele Horrorfilme gesehen, aber
+trotzdem ist die Zahl der Personen, denen ich mit einer Axt den
+Schädel gespalten habe, überschaubar." (Mirko Theyssen)

@@ -1,0 +1,9 @@
+Ingmar Neugebaur wrote:
+
+[Elektrikerarbeitsregeln]
+              ^^^^
+
+Geht nicht mit einer Hand zu bedienen -> Ergo wird ein zweiter
+Elektriker benötigt.
+
+Karl

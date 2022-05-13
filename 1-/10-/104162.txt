@@ -1,0 +1,14 @@
+Was mir gerade so einfällt:
+
+Ist es dadurch nicht ziemlich gefährlich auf einen "Patch" zu treffen,
+der noch ein größeres Loch ins Unix schießt oder den Fehler z.B. nicht
+beseitigt und man sich dadurch sicher wiegt, obwohl er noch da ist?
+
+Ich meine, jemand, der keine Programmierkenntnisse hat, kann doch
+überhaupt nicht nachprüfen, was so ein Patch macht.
+
+Hubert
+
+-- 
+Die Ausbildung der Lehrer bereitet die Lehrkräfte auf alles vor,
+nur nicht auf die Wirklichkeit.

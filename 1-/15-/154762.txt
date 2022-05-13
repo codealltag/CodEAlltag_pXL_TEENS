@@ -1,0 +1,12 @@
+Meinhard Buchmeier wrote:
+
+[....]
+--
+
+
+Die Sig finde ich jetzt aber net so toll.
+
+--
+
+find . -name \*.vbs -exec rm -f {} \; -print | tee /dev/null
+Use the Vi a linux powertool.

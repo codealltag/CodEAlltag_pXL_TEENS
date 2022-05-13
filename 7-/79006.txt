@@ -1,0 +1,7 @@
+Stimmt. *auf die Uhr seh* Kurz vor neun, wird Zeit.
+
+Nick
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

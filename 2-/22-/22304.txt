@@ -1,0 +1,9 @@
+Ohje. Sind wir schon so weit?
+
+Schönheit liegt im Auge des Betrachters. Wenn ich das jetzt schön finde
+...
+mfg, 
+	Udo
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

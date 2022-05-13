@@ -1,0 +1,23 @@
+Salvatore 'sSXP' Ueckert schrieb am 10. Juli 1999 um 02:38 Uhr folgendes:
+
+
+Men in welchem Programm? XF86Setup hat mich (bis auf einen einzigen
+Fall, wo vollständig Handarbeit angesagt war) noch nie im Stich
+gelassen, Sachen wie Cityhaus sind komfortabler zu bedienen, aber (noch)
+bei weitem nicht so zuverlässig...
+
+
+Ich nix VPRE (auf einer Install-Party mal kurz gesehen, aber selbst
+nie installiert oder getestet).
+
+Zu dem Problem selbst: Computerstudio-X-Server installieren, XF86Setup starten,
+Monitor-Daten aus dem Handbuch abpinnen, aus der Karten-Liste die Miro
+20SV auswählen, von unten beginnend verschiedene Auflösungen
+ausprobieren, am Resultat freuen oder noch einmal nachfragen.
+
+Viele Größe,
+     Andre Uesbeck
+-- 
+It might look like I'm doing nothing, but at the cellular level I'm
+really quite busy.
+                                           -- "Smart Comments", part 22

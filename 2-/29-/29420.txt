@@ -1,0 +1,7 @@
+Strom ist schwarz. Kuck dir einfach an, wie Bauteile aussehen, wenn der
+Strom zu hoch war.
+mfg, 
+	Eilert
+-- 
+BOFH excuse #237:
+Plate voltage too low on demodulator tube

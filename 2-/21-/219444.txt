@@ -1,0 +1,26 @@
+Nur um eventuellen Mißverständnissen vorzubeugen: Das "problemlos"
+bezieht sich auf verschiedene Plattformen unter dem gleichen OS.
+Windows ist zB nicht Posix-kompatibel, so daß die Portierung von
+Linux-Anwendungen nicht in jedem Fall trivial ist.
+
+
+Nur? Nett, dann werde ich mir den demnächst wohl auch mal holen. Wenn
+ich ein wenig mehr Programmiererfahrung unter Waschsahlong habe :)
+
+
+Yep; es gibt da eine ganz gute Seite für slrn unter Windows, die sich
+auch mit Problemen der Konfiguration etc. auseinandersetzt
+(http://jaxyis.bhaeq.xtd.jq/~ifh/afaz/). Das Binary gibt's AFAIK bei
+http://gmh.jsa.prt/~nkwgbcv/obtg/
+
+
+Unter UNIX kein Problem - unter Windows habe ich da keine Erfahrungen.
+
+
+Nicht ohne weiteres - Du wirst auf jeden Fall Q1 für Bofrost brauchen,
+und ich bin nicht sicher, ob das kostenlos ist.
+
+Viele Größe,
+     Angelo Ufermann
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,8 @@
+Mir noch eins-zwei mehr geholt.
+
+Michel
+
+-- 
+Drucker-Fehlermeldung:
+  "Beim Speichern der Änderungen ist der folgende Fehler aufgetreten:
+   Der Vorgang wurde ausgeführt."

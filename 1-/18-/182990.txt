@@ -1,0 +1,12 @@
+LISA.
+
+
+Ne, nicht wirklich. 1111 und 0001 vielleicht.
+
+
+Wiederum nicht wirklich. Eher 10000-xxxx.
+
+
+Der Wertebereich ist (im Vergleich zu einer "normalen" Zahl mit extra 
+Vorzeichen) um genau eine einzige Zahl gewachsen, und zwar weil wie 
+Italo schon gesagt hat, es keine doppelte Null gibt.

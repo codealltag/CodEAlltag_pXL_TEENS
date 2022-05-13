@@ -1,0 +1,6 @@
+Das hat schon was. Wieso man bei Oberon zB wenn man nur ein Statement 
+pro Zeile hat, die Semikolons weglassen darf, ist mir einigermassen ein 
+Rätsel. Oder wieso es kein WHILE X .. Break; gibt...
+
+
+Der Mann ist weise.

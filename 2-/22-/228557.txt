@@ -1,0 +1,3 @@
+Karte mit Digitalausgang kaufen (optisch oder koax, egal, optisch hat zwar 
+eher einen Jitter aber ich halte die Gefahr für recht gering) und an einen 
+guten (am besten ATRAC 4.5) MD-Recorder anschließen. Voila.

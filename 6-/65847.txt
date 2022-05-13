@@ -1,0 +1,13 @@
+Hm, ich sehe gerade, dass anscheinend beim Netscape sowohl im Viewer als
+auch im Editor beim Reply alle Leerzeichen am Ende ausgelöscht werden.
+Insofern gibt es für mich in dieser NG nur kaputte Sigtrenner und ich
+kann ich nicht beurteilen, ob deiner jetzt korrekt ist - und was für
+einige Leute das Schlimmste wäre: Ich kann auch niemand anderes mehr
+darob anscheißen, weil ich es einfach nicht sehe. ;-)
+
+Scheint irgendwie schwierig zu sein, einen Newsreader zu programmieren,
+der einfach alles so stehen lässt wie es ist, ohne bei ausgehenden oder
+eingehenden Posts eigenständig "gut gemeint" rumzuk�rzen.
+
+
+-fb

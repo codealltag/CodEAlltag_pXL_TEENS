@@ -1,0 +1,10 @@
+Mir grauts nur ein wenig vor Sendmail, mit INN hab ich mich schon ein 
+bisschen beschäftigt, lief auch, hat nur das Netz mit Dupes überschwemmt... 
+;-) 
+
+
+Ich ftpe mein Webkram von hier direkt ins htdocs-Verzeichniss, und kann 
+dann schön alles über LAN ausprobieren, ist IMO recht komfortabel...
+-- 
+ / _/ _` |
+ \__\__, |

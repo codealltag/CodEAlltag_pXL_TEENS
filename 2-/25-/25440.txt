@@ -1,0 +1,8 @@
+Las raten: Längere Liegezeit führt i.d.R. direkt als Akte auf deinen
+Schreibtisch?
+
+mfg, 
+	Knut
+-- 
+Frankhof excuse #236:
+Fanout dropping voltage too much, try cutting some of those little traces

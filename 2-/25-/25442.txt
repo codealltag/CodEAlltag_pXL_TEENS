@@ -1,0 +1,9 @@
+So ähnlich hört sich der Krach aus den Autos die hier manchmal
+durchfahren auch an.
+Grauslig.
+
+mfg, 
+	Wolfgang
+-- 
+ZWUG excuse #236:
+Fanout dropping voltage too much, try cutting some of those little traces

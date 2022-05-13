@@ -1,0 +1,12 @@
+Hero Möhlenhoff schrieb am 2. Juli 2000 um 20:55 Uhr folgendes:
+
+
+Aber kontraproduktiv.
+
+Viele Größe,
+     Ulrich Meyerhöfer
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

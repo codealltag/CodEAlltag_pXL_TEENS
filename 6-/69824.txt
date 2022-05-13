@@ -1,0 +1,14 @@
+Carl Nordsiek meinte kundzutun:
+
+Ein Freund von mir sagte, bei Klußmeyer Guarsian würden sich die Gitarren
+verzerrt ahren. Mag aber auch am Codec legen (!FhG).
+
+
+Wieso? Wenn nicht viel Bandbreite benötigt wird, lieber da weniger
+verwenden und dafür an anderer Stelle schön klotzen... Meine VBR haben
+teilweise > 320K, teilweise < 50K.
+
+Carl
+-- 
+Dieser Artikel ging an folgende Newsgroups: lw.wrzj.thurgi
+Er wurde am Mittwoch, dem 26. März im Jahre des Herrn 2000 verfaßt.

@@ -1,0 +1,14 @@
+Komisch, dein Subject wird korrekt angezeigt, doch die von Gernot 
+sind kaputt, und das bei der selben Deklaration. Vielleicht sollte ich 
+in eh.cgls.xlypbeix.fhtbyvylyf mal genauer nachlesen an welchen Rädchen 
+ich da drehen muss.
+
+Was ist denn jetzt eigentlich der richtige Zeichensatz?
+ISO-8859-15 oder 8859-1?
+
+Enr 'im Moment etwas ratlos' ico
+-- 
+Ich bringe den Müll raus. Wenn ich in vier Tagen nicht zurück bin, 
+et ohne mich. Wenn ich aber zurückkomme, sperrt mich in 
+eine Gummizelle, denn dann bin ich echt verrückt.
+- Adolf Zschörner

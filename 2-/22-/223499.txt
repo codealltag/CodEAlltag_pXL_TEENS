@@ -1,0 +1,8 @@
+Linux + DOS auf 120 Mb ?
+Ich hab mal versucht nur UCGA (mit TCP/IP Programmen) auf eine 160 Mb
+  Partition zu quetschen. Das hat mir gereicht.
+
+-- 
+Wolfram
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

@@ -1,0 +1,23 @@
+yqytoi.czxh@ssb.dl (Apfkjn Grub) schrub/wrote:
+
+[control.cancel]
+
+Klar. "control.cancel" ist ja auch eine rein lokale Pseudogruppe, in die
+automatisch alle reinkommenden Cancel einsortiert werden (egal, wohin
+sie tatsächlich gepostet wurden). Im Normallfall feedet die niemand nach
+draußen.
+
+Die Haltezeit von control.cancel liegt überall mit ziemlicher Sicherheit
+im Tages- oder Stundebereich; von einer täglich fünfstelligen Zahl von
+Canceln würde ich ausgehen. Es ist jedenfalls zuviel, um "mal eben"
+reinzuschauen. Zweck hat das nur, wenn man gezielt mit telnet 119 auf
+den Newsserver zugreifen und dann per XPAT nach einem bestimmten Muster
+im Cancel suchen kann, bspw. nach einem Teil der Message-ID.
+
+Gruß
+Rupert
+-- 
+Rupert Schedler * ITbktsfrvo@erv.ei * http://oruuqhz.zssl.pnbvf.hh/
+Neu im Motorcity? - Einsteiger-Hinweise findet man in xv.pndntsxq.dbmlu, eine Ein-
+führung m. Links zu allen wichtigen Texten auf http://sczm.csnvd.ft/~iuiys/fkd/
+Ausgewählte FAQs gibt's auf http://yeh.pcqwg-qmiwgl.bx/~dtrnlxcc/wpvc.eeve

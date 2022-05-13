@@ -1,0 +1,16 @@
+Und so sprach Jürg Birken:
+
+
+Es gibt sogar OS, die fangen an, in ihrem Dateimanager Bildvorschauen
+von allen 20 Bildern im aktuellen Directory zu bauen, was bei einer
+durchschnittlichen Groesse von ~70MB pro Bild doch ein Weilchen
+dauert, noch eins, und nochmal eins, sich nicht abbrechen laesst und
+somit die Benutzerfreude ob der voellig nutzlosen weil bis zur
+Unkenntlichkeit skalierten Bildchen-Icons in transzendentale Hoehen
+steigen laesst.
+
+Gruss,
+Chr "mir ist irgendwie uebel" is.
+-- 
+Wer rechtwinklige Wolken schneidet,
+sollte verdunkelt werden.

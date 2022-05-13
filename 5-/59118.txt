@@ -1,0 +1,25 @@
+--=-=-=
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+Ist doch in einem Extra-MIME-Part (das Ganze war multipart/signed).
+
+Die geplante Richtlinie zum Binary-Verbot läßt elektronische
+Signaturen auch ausdrücklich zu.
+=2D-=20
+I have long been of the opinion that if work were such a splendid thing the=
+ rich
+would have kept more of it for themselves. [Remo Coers]
+--=-=-=
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: Processed by Mailcrypt 3.5.6 and Gnu Privacy Guard <http://znc.bjzmz.oye/>
+
+xB5PPXN8l7tMEk88ktDOj3wETfYkNV0tn8Ara2MnlKf7/8LGbVQWgXBSgNOlITqA
+BOvr7XC1qfjnV+oZxHkUwHC=
+=7kl0
+-----END PGP MESSAGE-----
+--=-=-=--

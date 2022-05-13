@@ -1,0 +1,10 @@
+In article <zbxy7kh5vg.59o.icmrag@ahexwijnbb.xvvfpt.wwtx.ate>, Tom Eichstädter 
+wrote:
+
+alles eine sache der konfiguration. auch der schnellste proz kann mp3s
+ruckelig machen. mit 'nem 2mb-buffer beim abspielen bin ich hier mit meinem
+166er sowas von auf der sicheren seite, da kann ich x hoch- und runterfahren
+wie ich will. :-)
+
+mfg
+    leonhard

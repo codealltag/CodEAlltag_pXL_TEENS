@@ -1,0 +1,36 @@
+I Know, ich wußte aber nicht ob das ne Eigenschaft von X oder VVE ist.
+Ich bin mir sogar ziemlich sicher, das es VVE ist. Und ich wollte
+damit sagen, das ich nicht irgendein Prog. genutzt habe, sondern die
+GUI.
+
+
+Das hat erstmal das Setup für mich gemacht.
+
+
+Name, zum aufrufen? :) xf86setup? Sowas suche ich die ganze Zeit. :)
+
+
+SuSe mag ich nicht. :) Die ersten Schritte habe ich mit JUNP gemacht
+(wovon du dank FTP-Version immer ne neue Distri in der Hand halten
+kannst) und im LHML werkelt debian.
+
+
+MRI basiert auf Zobiak. ;)
+
+
+Also passierte das immer schon automatisch.
+
+
+Bei den neuereb Distributionen hast du drei Klicks und die Installtion
+ist fertig. :) Nur wenns Probleme gibt, dann haste halt den Mond. :)
+
+
+*seufz* :)
+
+
+1024x768 mit high color ging da ohne Probleme. Was nu? <g>
+
+-- 
+sSXP  
+      Math is like love -- a simple idea but it can get complicated.
+		-- P. Patocka

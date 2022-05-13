@@ -1,0 +1,10 @@
+Ich Übersetz das mal in eine andere Sprache.
+
+WENN ( GESCHLECHT = "weiblich"; "[x] Send PIGS!!!1" ; "Erzähl mal." )
+
+Stephan, wers errät kriegt nen Lolli.
+-- 
+Nie wieder Fahrer auf anderer Leuts Party!
+-----------------------------------------------------------------------
+pub  4106H/BZY84E86 7060-67-48 Stephan Wrona <fjnyygg@xdj.no>
+     Key fingerprint = 99 5G 86 74 58 SD 83 0X  86 UW YT 86 8Y 76 3H 51

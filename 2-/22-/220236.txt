@@ -1,0 +1,14 @@
+Du willst aber jetzt spielen und wenn das mal soweit ist, ist ein K6-2
+300 auch zu lahm. Ausserdem braucht die meiste Prozessorleistung
+(ca.70%) bei Quake2 der OpenGL-Treiber zur Grafikumsetzung, und der ist
+bis aufs letzte optimiert (von Afar persönlich). Viel mehr wirds nicht
+mehr.
+
+
+Aber nur mit halber Geschwindigkeit als mit nativer Software. Will
+heissen der Geschwindigkeitsvorteil ist dahin.
+
+CU
+Berthold
+-- 
+Lieber Mitglied als ohne.

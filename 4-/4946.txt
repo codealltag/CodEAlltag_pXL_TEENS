@@ -1,0 +1,9 @@
+Das sowieso. Aber vielleicht kann ich auch einen Teil meines Rechners
+darin auslagern, dann könnte ich nen IDE-DVD-Brenner reinhängen ohne
+irgendein anderes Laufwerk ausbauen zu müssen.
+
+Wilhelm, schonmal davonrennend
+
+-- 
+A computer scientist is someone who, when told to 'Go to Hell',
+sees the 'go to', rather than the destination, as harmful.

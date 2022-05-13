@@ -1,0 +1,9 @@
+* Josef Echterhölter schrieb: *
+
+
+Nicht jedes per Javascript skalierte Fenster springt auch gleich 
+ungefragt und automatisch auf. Richtig ist aber, dass diese Landplage
+(meist in Form von Werbebannern) auch per JS realisiert wird.
+
+-- 
+   :: bf ::

@@ -1,0 +1,13 @@
+Und so sprach Volkert Hinderhofer:
+
+
+Vampire saugen ueberall. :-)
+
+Und wart erst mal ab, bis Dir zum ersten Mal die Rente gekürzt wird
+...
+
+Hansruedi
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.y

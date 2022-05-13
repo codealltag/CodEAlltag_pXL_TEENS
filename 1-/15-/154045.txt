@@ -1,0 +1,12 @@
+Genaueres weiss ich auch nicht. Aber mit dem 'User Port' konnte man
+  so ziemlich alles machen (wenn man weiss wie und gut loeten kann :). 
+Man muesste also 'nur' irgend ne Art Verbindung zu einem Computer
+  mit News-Spool bzw. News-Server herstellen und dem C64 beibringen
+  darein zu schreiben bzw. NNTP zu benutzen.
+  Ersteres ist sicher im Bereich des Moeglichen, zweiteres wird
+  sicher schon komplizierter.
+
+-- 
+Hugo
+  Dadurch, daß man einen anderen ins Irrenhaus sperrt,
+  beweist man noch nicht seinen eigenen Verstand.

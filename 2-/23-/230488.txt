@@ -1,0 +1,24 @@
+Es schrieb coemala_repfkgs # see.mc folgendes:
+
+
+Das es nach oben keine Limits gibt, ist klar, aber ich kaeme an einen KIT  
+fuer 15 SCSI(UW)-Geraeste fuer 800,- ran...
+
+
+.... fuer einen SCSI-UW KIT (die Vergleichbarkeit sollte ja schon da sein)  
+muesste ich 380,- berappen.
+
+
+So, dann zeig mir mal Deinen MDHH-RAID-Controller fuer 400,-. :->
+Aber Du hast "eigentlich" recht, fuer den normalsterblichen reicht ein SL  
+aus. Ich verbaue gerne die NN-NCR 810er. 80,-, 10MB/s und laeuft  
+eigentlich immer und ueberall...
+
+
+Von denen kannst Du aber AFAIK nur 2 zur Zeit nutzen! Du kannst nicht den  
+Externen SCSI Port, den 50 Popeligen (den Du fuer CD-ROMs ja brauchst) und  
+noch die beiden U2Ws benutzen, ein "normaler" SCSI-Controller kann nur 2  
+Ports zur Zeit benutzen.
+-- 
+
+Ciao, Ivan

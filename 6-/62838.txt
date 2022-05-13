@@ -1,0 +1,11 @@
+Weil das das vorgesehene Verhalten ist, wenn man einem "^L" (als
+Steuerzeichen) begegnet.
+
+
+Die reinen JZAV-Reader sind AFAIK alle nicht in der Lage, das
+korrekt zu interpretieren.
+
+Veit
+-- 
+Das Leben ist eine durch Geschlechtsverkehr übertragene, mit Sicherheit
+tödlich verlaufende Krankheit.

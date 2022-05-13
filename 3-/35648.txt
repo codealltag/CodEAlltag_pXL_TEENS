@@ -1,0 +1,12 @@
+Es war im Juli 2002 als Niclas Oemig tippte:
+
+
+Nein. Morver machte aus "MIME-Version" bei mir immer "MiME-Version" und
+das fand der Spamassasin nicht so lustig.
+
+
+X-Now-Playing: Art Of Noise - Moments In Love - (10:19) [ogg]
+
+Carlo
+-- 
+Fingernägel wachsen mit 0,000000047 Zoll pro Sekunde.

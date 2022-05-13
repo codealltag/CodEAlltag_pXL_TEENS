@@ -1,0 +1,27 @@
+René Achterfeldt schrieb am 25. September 1999 um 18:14 Uhr folgendes:
+[...]
+
+A propos, ich habe leichte Probleme mit deinem Subject-Header. Du
+schickst die beiden Zeichen CB 9C, die (wenn ich mich nicht verrechne)
+das Unicode-Zeichen 02 DC kodieren. Laut Tabelle wäre das eine "small
+tilde" (die in Latin 1 nicht darstellbar ist). Jetzt sehe ich mehrere
+Möglichkeiten:
+
+ - Du wolltest tatsächlich "Re: <small tilde>" im Subject stehen
+   haben. Das wäre dann wohl irgendeine Art von Humor, den ich nicht
+   verstehe.
+
+ - Ich habe UTF-8/Unicode noch nicht so ganz verstanden.
+
+ - Irgendwo war fehlerhafte Software im Spiel (optimal gearbeitet hat
+   sie jedenfalls nicht, sonst stünde da "Re: =?utf-8?Q?=CB=9C?="),
+   schon allein um eine Anhäufung von "Re:"s durch Clients zu
+   verhindern, die noch kein UTF-8 beherrschen.
+
+Viele Größe,
+     Mark Jenzen
+-- 
+In einem Computerexpertenkreis die Worte: "ich bin Wohnmobilpark" so ganz
+nebenher gelassen aussprechen, lässt alle anderen Anwesenden sofort in
+unterwürfige Demutshaltung und staunende Bewunderung fallen.
+                                 -- "Noah Jungmann" <kzyir@xigjuip.pj>

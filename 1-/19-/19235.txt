@@ -1,0 +1,11 @@
+Beim Texen braucht man andauernd die geschweiften und Eckigen
+Klammern sowie den Backslash. Die liegen auf der US-INTL-Tastatur
+einiges geschickter. Und beim Programmieren braucht man dann auch
+nach den <> nicht zu suchen, außerdem ist das ; ohne Shift zu
+erreichen. Das wars dann aber auch schon.
+
+mfg, 
+	Niko
+-- 
+BOFH excuse #375:
+Root name servers corrupted.

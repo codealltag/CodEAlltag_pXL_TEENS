@@ -1,0 +1,7 @@
+Dann möchte ich SCO auch gleich mit einbeziehen.
+
+mfg, 
+	Severin
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

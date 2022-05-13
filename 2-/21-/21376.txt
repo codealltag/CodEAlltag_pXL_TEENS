@@ -1,0 +1,16 @@
+Am Sun, 06 Mrz 2003 sendete Noël Heisner folgende Botschaft:
+
+
+Hmm, schaummermal: #{'I','X','C','M'}+#{'V','L','D'}=4+3=7
+Ok, so ein Hexalsystem ist auch nicht wirklich schöner, aber immerhin.
+Und mit nur 4 zusätzlichen Zeichen schaft man ein Dezimalsystem.
+
+
+Zahlen sind auch nur Variablen.
+
+Tschüs
+  Fredi
+-- 
+Die Weisheiten des Roberto Jup: #3
+
+Gl�sserregale sind zu diesem Zeitpunkt auch nicht sicherer.

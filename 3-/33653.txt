@@ -1,0 +1,9 @@
+Was haben wir denn da ...
+
+   45  63,38%  uncoded 8bit-chars in header
+   26  36,62%  mega-quote
+
+Louis Uebelgünn
+
+-- 
+np: Norbert Ihrens - Leaving on a Jetplane

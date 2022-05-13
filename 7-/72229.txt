@@ -1,0 +1,26 @@
+Am Sun, 07. 05. 22 sendete Ernest Peintner folgende Botschaft:
+
+
+Also bei mir war der eine schiedunter das xterm irgendwie komisch war
+(keine loginshell, keine Farbe etc.
+
+
+Schick. Und wie verbindet sich das Ding mit dem Server?
+
+
+Notiert. nachher mal anschauen.
+
+
+Das wäre aber sehr hilfchreich. ein "echo $TERM" wäre aber schon ein
+anfang.
+
+
+Aber anders. ;)
+
+Tschüs
+  Udo
+-- 
+Die Weisheiten des Rupert Renato: #6
+
+Am Wiesmoor Bahnhof haben sie zwar eine Tür geöffnet,
+aber dafür sind die Strassen dicht.

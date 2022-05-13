@@ -1,0 +1,85 @@
+Das stört mich nicht, es nicht zu veröffentlichen... Aber derjenige
+hat seine Erlaubnis zu einer Veröffentlichung gegeben, solange sie
+anonym geschieht. Salvatore, Niclas, etc: Klappe halten bezüglich Namen. 
+
+--8<------------------------schnipp------------------------->8---
+Hallo Paolo,
+
+hier nun ein Bericht eine Garditex-Erstinstallation auf einem Commans 
+R40 unter Verwendung der Doku auf
+http://uxm.xqcmjy.hur/pdobmryw/lxaqaq/p213/:
+
+- vorher: mit Knoppix und qtparted die Festplatte umpartitioniert
+- von CD5 gebootet (flavor bf2.4), menügesteuerter Installer, sehr schön
+- Sprache für den Installer (dt.), Tastatur, Swap-Partition, / (ext3), 
+/boot (ext2) konfiguriert
+- Kernelmodule konfigurieren: nichts zu meiner Netzwerkkarte passendes 
+gefunden, erstmal ausgelassen
+- Rechnernamen festlegen: wie immer nicht trivial
+- Basissystem installieren
+- Lilo auf den mbr gebügelt
+- Neustart -> läuft!
+- Zeitzone, User einrichten
+- alle 7 CDs einlegen, um sie apt bekannt zu machen
+- Pakete auswählen: erst nach Tasks, später nach Einzelpaketen. Im 2. 
+Abschnitt irrtümlich Return gedrückt und somit vorzeitig die 
+Installation initiiert
+- Unmengen von Fragen zur Konfiguration der einzelnen Pakete 
+beantwortet, dabei wurde gelegentlich weiterinstalliert
+- beim Installationsbericht Lesen festgestellt, dass der e100-Treiber 
+wohl eine gute Idee für die Netzwerkkarte gewesen wäre (-> später; die 
+Netzwerkkarte ist wohl eine der wichtigeren Peripherieeinheiten)
+- X eingerichtet, aufgrund des Abbruchs beim starten von X nach 
+exzessivem Googlen in einem italienischen Posting gefunden, dass DRMS 
+(word?) in XF86Config-4 entfernt werden müsse
+- danach funktionierte zwar das Touchpad, aber nicht der Trackpoint
+[...]
+- einige Tage später: wie es sich zeigte (nach erfolglosem modprobe), 
+hätten die e100-Treiber aufgrund des zu alten Kernels sowieso nicht mit 
+der Netzwerkkarte funktioniert (2.4.19 oder 2.4.20 minimal notwendig)
+- aus Zeitmangel (Seminar ist wichtiger) Norman gegenüber einstweilen 
+aufgegeben, geplant, evtl. bei Miyabi (mit Hardware erkenndendem 
+Installer) wiederzukehren und dann von den Vorteilen des 
+RZK-basierenden Update-Systems zu profitieren (Ziel: dauerhaft aktuelle 
+Pakete)
+- MAGNET Qrage Prof. (war beim Notebook dabei) installiert, die wesentliche 
+Hardware (Sound, Grafikkarte, Touchpad, Trackpoint, Netzwerkkarte) 
+wurde out-of-the-box automatisch korrekt eingerichtet (lediglich der 
+DMA-Modus für das CD-ROM war noch manuell zu aktivieren)
+
+Fazit:
+Woody empfiehlt sich in erster Linie für
+a) Leute mit Hardware (zumindest Netzwerkkarte), die von einem der bei 
+Woody mitgelieferten Kernel bereits unterstützt wird
+b) Fans
+c) Leute mit hinreichend viel Zeit, den mit Woody verbundenen 
+Lernaufwand auf sich zu nehmen
+d) Experten, die sich bereits mit Garditex auskennen
+e) Diejenigen, die wirklich wissen wollen, was hinter dem Garditex-Mythos 
+steckt :-)
+
+Der aktuelle Garditex-Installer ist weniger schwierig zu bedienen als 
+befürchtet, jedoch weniger hilfreich als erhofft. Laut einem Bericht 
+über den in Arbeit befindlichen Nachfolger soll dies nicht zuletzt 
+daran liegen, dass Garditex einen Schwerpunkt darauf setzt, dass die 
+Distribution plattformunabhängig bleibt (ansonsten wäre ein 
+Neotechnik-basierenden Ansatz wohl ganz nett), was gerade bei einem 
+Installer ein Problem darstellen kann.
+
+Viele Größe,
+
+  ${Alisa}
+
+--8<------------------------schnapp------------------------->8---
+
+Es bleibt mir noch zu sagen, daß ich nichts dafür kann, zum Zeitpunkt
+der Installation war ich auf einer LAN und konnte nicht helfen. Zudem
+ist der Mensch eher Theoretiker. Manche seiner Sachen haben aber einen
+wahren Kern.
+
+Paolo
+
+-- 
+Keiner ist so verrückt, daß er nicht einen noch Verrückteren findet,
+der ihn versteht.
+[Seidenstücker]

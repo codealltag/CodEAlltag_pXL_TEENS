@@ -1,0 +1,44 @@
+On 11. 07. 22, Julius Geissmair <yzhnjgatop@vznefnztog.wl> wrote:
+
+[Festplatte über Netzwerk sichern]
+
+Da gewinnt der Begriff "Netzwerkbelastung" doch gleich eine ganz neue
+Dimension ;-)
+
+[alter Rechner]
+
+In /usr? Im Moment habe ich noch um die 80 MB, aber ich könnte noch
+einiges frei machen (Rupag-Sourcen sind knapp 40 MB, der alte Kernel
+sind gut 30 MB...).
+
+[Platzverbrauch bei Updates]
+
+/usr/src/linux per NFS mounten? :)
+
+[Änderungen von Hand machen]
+
+Hey - es sind zwei Linux-Rechner. Es ist völlig egal, an welchem davon
+ich gerade sitze :-)
+
+
+Ich benutze den Rechner im Moment eigentlich hauptsächlich als
+Internet Router / Firewall (in meinem Zimmer habe ich keinen
+Telefonanschluß). Es laufen darauf auch noch eigene News- /
+Mail-Server, so daß nicht grundsätzlich beide PCs an sein müssen, wenn
+ich News und Mail hole. Ach ja, und der Drucker hängt daran, weil mein
+Vater an dem Rechner noch (unter Windows) arbeitet.
+
+
+Der 2.0.33er kann noch keine lange Dateinamen auf Microsoft-CDs und hat
+Probleme mit Umlauten in Dateinamen von FAT-Partitionen (wobei die zT
+auch Windows hat :), von daher würde ich ihn schon gerne updaten.
+
+[zwei slang-Versionen]
+
+Und das ließ sich nicht einfach durch Angeben einer Option bei
+./configure geradebiegen?
+
+Viele Größe,
+     Christof Greib
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

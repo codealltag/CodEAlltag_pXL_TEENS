@@ -1,0 +1,37 @@
+Richtig, andere Programme kommen ihm gleich. Das heist aber noch lange
+nicht, daß ich mit der Komplexität von gnus zufrieden sein muß.
+
+
+kmpbjzv@Ikprng:~$ less .xemacs 
+.xemacs is a directory
+
+kmpbjzv@lnevtm:~$ rn .qhvmgo/
+awgpyi.ua                  bfsg.bb~
+whuqts.oc~                 qnbqdvy-yhnxc.LATEST.pgp
+init.el                    package-index.LATEST.pgp~
+
+Ich zähle schonmal zwei für xemacs. Dann noch eine .gnus, das macht
+drei.
+
+
+Das will ich sehen, wie ich den Code für Cite-Indentation mit M-x
+customize einbaue. Und ich bin LDE-User, ich bins gewohnt, meine
+Programme mit Hilfe der Config-Dateien zurechtzubiegen. 
+
+
+Ich will nicht den Quellcode einsehen, sondern vielleicht mal eine
+Funktion selber schreiben.  Aber das scheitert wahrscheinlich dann
+schon daran, daß ich keine Taste finde, die nicht schon belegt ist,
+auf die ich meine Funktion legen könnte.
+
+
+Mir nicht. Es ist ein Haufen Code, den ich genutzt habe und wegwerfen
+werde, wenn ich ihn nicht mehr brauche.
+
+Beat
+
+-- 
+<sesom> äöü DV\ ä Sind das Umlaute oder Fragezeichen?|
+<HE> sesom: Das ist UTF8.                                   | #qdwjev.sk
+<sesom> Stimmt.  Was kommt bei dir an?                      |(leicht adaptiert)
+<HE> Zeichenm�ll.                                           |

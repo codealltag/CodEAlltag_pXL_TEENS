@@ -1,0 +1,8 @@
+Ja genau. Zusammen mit Bildern vom "Prüfgebiet". :-)
+
+Sébastien
+
+-- 
+  "INSUFFICENT EXTENDED MEMORY FOUND
+   Extended Memory Required: 0 KBytes
+   Extended Memory Found on this computer: -16384 KBytes"

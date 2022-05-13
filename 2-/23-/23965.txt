@@ -1,0 +1,8 @@
+So könnte man das auch ausdrücken.
+
+
+mfg, 
+	Darius
+-- 
+BOFH excuse #191:
+Just type 'mv * /dev/null'.

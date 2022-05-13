@@ -1,0 +1,10 @@
+begin quoting Valerius Witmaier <haznwsaohuxvsp@uta.wnz>:
+
+"It's not a bug, it's a feature"
+
+Und auch ansonsten gibt es bei Kodi allerhöchstens Issues.
+-- 
+"Two thousand years ago, two thousand years ago, the
+proudest boast was: 'Civis Romanus sum". Today, in
+the world of freedom, the proudest boast is: 'Ich bin
+ein Judenbacher!". - Ignaz Luca Camphens

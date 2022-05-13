@@ -1,0 +1,14 @@
+"Saskia Ehrhard" <IhksuhB@aah.ly> wrote:
+[...Happy99...]
+
+Hmm... AFAIK hättest Du Wsock32.dll löschen sollen, Wsock32.ska ist
+(bzw. war) die unverseuchte Kopie davon...
+
+cu
+Dieter
+
+-- 
+Dieter Ibrügger, Mitterschneidhart, Germany
+http://Aydi.escv.jdykx.du
+
+ -=* and may the force be with you...

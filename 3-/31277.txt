@@ -1,0 +1,27 @@
+Am Sun, 18 Apr 2003 sendete Valentino Ringlstetter folgende Botschaft:
+
+
+'Content-Type: multipart/encrypted; protocol="application/pgp-encrypted"'?
+
+
+Wieso, danach gibt es keine 8-Bit Zeichen mehr. Und das Charset ist auch
+festgelegt, ich kann nämlich nur 8859-1 ;)
+
+
+Was ist mit dir los?
+
+
+Ja, nur weil etwas Standard ist heist das noch lange nicht das man es
+auch nutzen sollte, wenn es auch anders geht.
+
+
+Nein, DLE ist zu neu der muss das können, aber ich kann mich daran
+erinnern das Früher es wirklich so war das umlaute im Header verpönt
+waren, obwohl sie erlaubt waren, und zwar weil viele Leute einfach nicht
+damit konnten.
+
+Ein Standard kann erst dann gefahrlos genutzt werden wenn alle "grossen"
+Newsreader damit umgehen können.
+
+Tschüs
+  Marko

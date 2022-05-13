@@ -1,0 +1,20 @@
+Findest du? :)
+
+
+Richtig, unendlich ist keine Zahl. Aber wenn du a nach unendlich 
+gehen laesst, wird es eine sehr, SEHR, _*SEHR*_ große Zahl. Du 
+näherst dich also an unendlich an, wirst es aber nie erreichen. 
+Gneuaso geht es mit a->0... a wird immer kleiner und kleiner, wird 
+Null aber nie erreichen...
+
+Du untersuchst also nie den Wert (unendlich, Null, ...) selbst, 
+sondern Werte, die an der Grenze dazu stehen.
+
+
+Och, geht. ;)
+
+Ulf
+-- 
+Sobald der ausgestreckte Finger
+das Glück berührt,
+ist es nicht mehr das Gl

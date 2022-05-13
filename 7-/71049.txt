@@ -1,0 +1,12 @@
+Jochen Uebler hat geschrieben getan getutet:
+
+
+Die sollen ja schon Probleme mit dem Unterschied zwischen "das selbe"
+und "das gleiche" haben.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Pius 'heimo' Hubers in vv.lcx.rbjkefol.ixwersxy

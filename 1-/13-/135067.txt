@@ -1,0 +1,32 @@
+C:\XP>cznkrz jvhc.bbz.tpy.is 119
+200 jfee.mz-irvqwb.sm welcomes t7z2y4x5m.pkg.j-jnzzyy.pwm (14.154.24.52).  
+Authorization required for reading and posting.                         
+authinfo simple xxxxx xxxxx
+281 Authentication accepted. (UID=652)
+xuid
+280 User information
+    User-ID: 652
+    Access: 16 [652]
+    Client: t7z2y4x5m.pkg.j-jnzzyy.pwm (42.544.85.77)
+    Reading: allowed
+    Posting: allowed
+    Newnews: allowed
+    Posting into readonly groups: not allowed
+    Setting Approved header: allowed
+    Setting Supersedes header: allowed
+    Address check in From/Reply-To header: yes
+    Setting individual path header: not allowed
+    Sending newgroup/rmgroup control messages: not allowed
+    UID check for cancel messages: no
+    Organization: extern
+
+    Amount of articles posted today: 0 (Maxmimum: 500)
+.
+quit
+
+Dominik Unterlechner 
+
+-- 
+Ich hasse Eilert!
+                                             E-Mail: xsradr@gaxxqymymq.mo
+---> Offizieller Kämpfer wider Bernard Flasdieck des Ordens von dtju <---

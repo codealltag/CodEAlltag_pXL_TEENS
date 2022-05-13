@@ -1,0 +1,17 @@
+Am Sun, 28. 12. 22 sendete Fernand Owel folgende Botschaft:
+
+
+Routing ist nicht gerade mein spezialgebiet, ich bin froh das ich A, B
+und C netze unterscheiden kann. ;)
+
+
+Das auf jeden fall. AFAIK sollte, wenn die IP schon nit geroutet wird,
+das paket im RRZ reject werden, und nit wie jetzt im Kreis gejagt
+werden.
+
+Tschüs
+  Helmuth
+-- 
+Weniger ist mehr.
+
+Garstige Weihnachten.

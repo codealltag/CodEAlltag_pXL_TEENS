@@ -1,0 +1,11 @@
+Mathias Näb hat geschrieben getan getutet:
+
+
+shutdown -r 02:00
+
+-to"Oder so"wo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Nico 'oswald' Hachemeister in yr.pou.fyhuuiex.rjxokjuc

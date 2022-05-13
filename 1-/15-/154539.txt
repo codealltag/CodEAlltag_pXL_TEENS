@@ -1,0 +1,18 @@
+"Gerhard Faeskorn" wrote:
+
+[...]
+
+
+[...]
+
+Na ja spitze ist er nicht gerade. Aber mit Gotteshilfe wird auch er einen=
+ Weg
+zur inneren Ruhe finden .
+
+regards,
+David
+
+BTW:   Hallo in dtj , have fun
+--
+home:gover> find . -name \*.vbs -exec rm -f {} \; -print | tee /dev/null
+! Use the vi a linux powertool !

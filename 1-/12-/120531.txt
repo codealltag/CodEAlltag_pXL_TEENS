@@ -1,0 +1,9 @@
+touch [1]?
+
+Sven
+[1]
+lxwix@Kira:~ > touch test.avi
+lxwix@Kira:~ > ls -l *.avi
+-rw-r--r--   1 sven    users           0 11. 03. 22 18:46 test.avi
+-- 
+Ich lehne Verallgemeinerungen grundsätzlich ab!

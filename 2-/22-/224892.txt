@@ -1,0 +1,21 @@
+Am 3 Jun 1998 21:36:03 GMT sendete Noël Abitz
+folgende Botschaft:
+
+
+Und das beide wohl die references relativ lang lassen.
+
+
+Hmm kann sein also in den rfcs die ich hier habe (822 und 1036) steht
+nichts drin, aber die 250 zeichen begrenzung war wohl mal weil Chamäleon
+nicht mehr verarbeiten konnte.
+
+
+Klingt sehr warscheinlich., nur verstehe ich an dieser stelle den
+sorcecode nicht ganz verstehe.
+
+Tschüs
+  Erik
+
+-- 
+Man soll den Tag nicht vor dem Erscheinen Urs Janzen loben.
++++Urs Jaehnigen in dtju+++

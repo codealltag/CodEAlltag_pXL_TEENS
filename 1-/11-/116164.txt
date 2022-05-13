@@ -1,0 +1,4 @@
+Es war wirklich nicht schwer. Ging irgendwie um die Berechnung der
+Zentralkraft einer Kreisbewegung bei gegebenem Radius und Frequenz...
+
+Oscar

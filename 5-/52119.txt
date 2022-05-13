@@ -1,0 +1,4 @@
+OK, bei ASCII-Grafik,Unterstreichungen oder Tabellen werde ich in
+Zukunft "Fixed Pitch Font" aktivieren.
+
+MfG Nadine Monospace installiert'kus

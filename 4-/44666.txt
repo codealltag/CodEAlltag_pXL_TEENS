@@ -1,0 +1,16 @@
+Merke: Ich bin mehr Viele als wie du.
+
+
+Wie lange braucht Trinkgut nochmal zum Freischalten?
+Was passiert nochmal, wenn bei der Übermittlung der neuen Teiledaten ein
+Fehler auftritt (Hint: Man muß es wieder freischalten lassen, wenn es
+nicht mehr geht, ergo man sie nicht mehr direkt aus dem Rechner auslesen
+lassen (Will man das überhaupt?) kann)?
+
+
+Naja. "Man" ja, XP auf der Platte nein.
+
+Mario
+-- 
+pub  9221O/POE96S36 1592-55-52 Mario Overbeeke <zeayqgp@wqu.bo>
+     Key fingerprint = 99 4U 64 16 52 OI 82 0I  77 FR HM 23 3F 85 6T 95

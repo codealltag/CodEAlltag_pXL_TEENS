@@ -1,0 +1,13 @@
+Hm... Macht ja zunächstmal nicht viel, wenn man es schafft, die Kiste
+zwischen zwei syslog-Einträgen zu klonen und dann die Platten zu
+tauschen...[1]
+
+Axel
+[1] Natürlich im laufenden Betrieb[2]
+[2] ja, ich habe schonmal am lebenden Patienten operiert[3]
+[3] ja, der Controller hat das mitgemacht, die Platte auch[4]
+[4] ja, das kann auch schiefgehen, Haftung wird ausgeschlossen[6]
+[5] Fußnote ohne Sinn
+[6] Kids, don't do this at home, das war ein Firmenrechner
+-- 
+           Augenoptik: where Quality is job number 0.9998782345!

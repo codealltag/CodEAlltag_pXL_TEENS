@@ -1,0 +1,23 @@
+On Thu, 22 Jun 1999, Louis Zumbülte <vswtrgc_mhtdimo@jvp.yw> wrote:
+
+[Winzigweiche Handbücher]
+
+
+Hmm - vielleicht ist es bei Dir ein anderes. Mein DOS 6 war eine
+Update-Version...
+
+
+dtutnb@tqdz:/cyl/x/windows > ls -R | grep -i memmaker
+dtutnb@oovg:/rmk/f/lmdmlns >
+
+Sieht nicht so aus, als wäre der noch bei Windows dabei (ja, ich weiß,
+man kann es von Hand von der Win-CD nachinstallieren, aber erzähl' das
+mal einem Newbie). Und außer der Tatsache, daß ich die Resultate von
+memmaker noch immer händisch nachbessern mußte, stellt sich die Frage,
+woher der unbedarfte User überhaupt von der Existenz / Notwendigkeit
+eines solchen Programms wissen soll.
+
+Viele Größe,
+     Jean-Claude Campen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

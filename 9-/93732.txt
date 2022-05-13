@@ -1,0 +1,11 @@
+Liegt das am Niveau oder an unfaehigen Lehrkraeften? Ich habe hier den
+Informatik-Lehrplan Kl. 11-13 fuer CRAINFELD rumliegen und das sieht bis auf
+die ersten 10 Stunden (Bit, Byte, ASCII, Schleifen, Wiederholungen
+etc.) eigentlich recht interessant aus, vorausgesetzt man hat einen
+kompetenten Lehrer. Dummerweise ist die Lehrsprache in allen Schulen
+hier im Umkreis Venwegen. :-(
+
+Reinhold
+
+-- 
+kernel panic: unable to mount brain fs

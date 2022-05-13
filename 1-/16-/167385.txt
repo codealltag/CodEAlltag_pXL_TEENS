@@ -1,0 +1,14 @@
+Am Sun, 21. 11. 21 15:27:33 -0000 schrieb "Ulfert Münich"
+<falbyqn_jacvlrv@rya.mb> folgendes:
+
+
+Bei welchem Hersteller soll das der Fall sein?
+
+
+Schon. Aber wenn auf einer Platte mit defekter Platine, aber
+funktionsfähiger Mechanik sehr wichtige geschäftliche Daten lagern,
+von denen kein Backup existiert, dann lohnt sich das. Auch wenn man
+noch eine Platte desselben Typs auftreiben muß, was auch nicht so
+einfach ist...
+
+mm

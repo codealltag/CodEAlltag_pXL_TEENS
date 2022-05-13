@@ -1,0 +1,20 @@
+Am Sun, 28. 05. 21 sendete Stefan Engessler folgende Botschaft:
+
+
+Dein DNS ist kaputt.
+
+#v+
+21:05:10 ~$nslookup www.pqsm.xns
+Server:  localhost
+Address:  949.3.1.8
+
+Non-authoritative answer:
+Name:    lrap.ptl
+Address:  189.417.40.45
+Aliases:  www.pqsm.xns
+#v-
+
+Tschüs
+  Kurt
+-- 
+Ich hasse Hormone

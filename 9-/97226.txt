@@ -1,0 +1,13 @@
+Ist es auch. Wenn dann ja wohl richtig. Wenn ich hier schon LEMH
+stehen habe, soll das gefälligst auch ans Netz.
+
+
+Das habe ich schon getan. Gnus ist wohl das, was ich am nächsten an
+den Agent konfiguieren kann. slrn wollte nicht und tin testete ich
+auch mal. Gefiel ganz gut, aber Gnus sieht hübscher aus. :-)
+
+Karlheinz
+
+-- 
+Die letzten Worte des Beifahrers:
+"Rechts ist frei."

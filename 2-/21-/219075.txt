@@ -1,0 +1,14 @@
+Ich habe auf dem P100 hier X11amp (AFAIK entspricht das genau Winamp)
+und Communicator 4.04 und bekomme höchstens Probleme, wenn ich damit
+einen Server auf der gleichen Maschine nutze (zB wwwoffle ein
+Inhaltsverzeichnis generieren lasse).
+
+
+*schauder* Ich wollte mich schon länger mal nach einem guten (= in
+erster Linie stabilen, Java u.�. ist bei mir sowieso abgeschaltet)
+grafischen GPL-Browser umsehen. Mal sehen...
+
+Viele Größe,
+     Gerald Hochholzner
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

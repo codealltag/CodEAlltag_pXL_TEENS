@@ -1,0 +1,21 @@
+* Detlef Schnackers <roivzts762089@liovyq.lr-y.gc>:
+
+
+Fanatiker. ;)
+
+
+Natürlich.
+
+
+Funktioniert.
+
+
+Funktioniert.
+
+
+Pg up/down schaltet eine Bildschirmseite nach oben/unten. Pos 1/Ende ist
+nicht belegt, wie mir scheint. Kann man passend konfigurieren.
+
+So, und nun steigst du auf (X)Emacs um, oder wie? Geht alles. :)
+
+Bernhard

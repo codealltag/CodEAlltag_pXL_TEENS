@@ -1,0 +1,7 @@
+(* Kay Lohmeier wrote: *)
+
+
+Ehm n, ich hab das nur übernommen. Meine Schleife würde so aussehen:
+
+
+Thomas

@@ -1,0 +1,18 @@
+Laurent Ohmes schrieb am 3. November 2000 um 07:19 Uhr folgendes:
+
+
+Wenn das nicht klappt, nimmt man Plan B:
+
+Fehler reproduzierbar machen -> Bugreport schreiben -> eventuelle
+Rückfragen beantworten -> alle Leute, die das gleiche Problem hatten,
+glücklich machen :-)
+
+
+Mmh, da ich im Moment kein Bedürfnis habe am nfsd herumzupatchen,
+brauche ich auch den Sourcecode nicht selbst zu compilieren...
+
+Viele Größe,
+     Nick Odenkirchen
+-- 
+Common sense is the collection of prejudices acquired by age eighteen.
+                                                     -- Italo Troger

@@ -1,0 +1,8 @@
+"Secure-Fax"?
+
+Tom, vlnr: Local-Fax, Secure-Fax, Normal-Fax, Speed-Fax.
+-- 
+Nie wieder Fahrer auf anderer Leuts Party!
+-----------------------------------------------------------------------
+pub  9497S/CEM23O54 5201-75-92 Tom Liebergesell <xompjyw@yek.gp>
+     Key fingerprint = 99 3P 67 50 63 NW 33 7T  10 MA XM 61 2J 85 3E 27

@@ -1,0 +1,16 @@
+* Fabian Ettelbrücker <dqcpvry693393@iaydbw.ym-g.xy>:
+
+
+Okay.
+
+
+Ich habe es folgendermaßen (zugegeben mit Hilfe) gemacht: Gnus so
+eingerichtet, dass man damit Mails und News schreiben konnte. Und dann
+nach und nach das Programm so angepasst, dass es mir gefiel.
+
+
+(global-set-key [f4] 'kill-this-buffer)
+
+Marco
+-- 
+cross veinless

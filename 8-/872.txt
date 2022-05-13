@@ -1,0 +1,17 @@
+Soso. 
+
+
+Das sind erschwerte Umstände, davon war vorher nix bekannt. Ausserdem
+geht das auch, unter Verwendung von diversen Tüchern.
+
+
+Hmm, ich find das aber unfair, wenn Leute für einen erlaubten Vergleich
+was auf den Deckel kriegen. 
+
+Samuel
+
+-- 
+Lennart:~$ whoami
+root
+Lennart:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Ingmar Fligg]

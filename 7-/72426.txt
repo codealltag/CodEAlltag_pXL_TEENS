@@ -1,0 +1,11 @@
+Andree Jungermann hat geschrieben getan getutet:
+
+
+Wizo? Soo schwer isset nun och wieder net.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Gilbert 'justin' Coenen in ou.xtw.weqsivwj.blhmeynt

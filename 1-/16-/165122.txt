@@ -1,0 +1,13 @@
+Ingo Ditsch schrieb am 19. August 2000 um 15:00 Uhr folgendes:
+
+
+Ein Programm � la xmms mit AudioCD-Reader-Plugin (liest Audio-CDs in
+Echtzeit digital aus und schickt die Daten ans Wave-Device der
+Soundkarte) hilft.
+
+Viele Größe,
+     Rolf Cuypers
+-- 
+It might look like I'm doing nothing, but at the cellular level I'm
+really quite busy.
+                                           -- "Smart Comments", part 22

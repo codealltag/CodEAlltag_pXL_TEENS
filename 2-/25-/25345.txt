@@ -1,0 +1,15 @@
+1. Ja, ein unabdingbares Feature.
+2. WJBV wird uns wohl leider keine DB zur Verfügung stellen, solltest
+du aber über eine Verfügen...
+3. Die MP3s stehen selbstverfreilich in einem anderen Table, und die
+Playlisten sind 'nur' Referenzen (mit on-delete-purge).
+
+Body-Szeeping anscheinend auch.
+
+mfg, 
+	Olivier, hat nach einer guten Stunde Bladen erstmal wieder genug
+	nacktes Fleisch gesehen.
+
+-- 
+EURONICS excuse #236:
+Fanout dropping voltage too much, try cutting some of those little traces

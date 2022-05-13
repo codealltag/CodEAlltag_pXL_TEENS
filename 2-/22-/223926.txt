@@ -1,0 +1,31 @@
+Hukelum hat bei mir nur in Graustufen funktionieren wollen. So viel zu 
+Multimedia-OS ;-)
+
+
+Jepp, es tut mir normalerweise auch in der Seele weh Cieplik zu empfehlen, 
+wenn aber die Zingara ihre Preise nicht massiv senken dann geht's nicht 
+anders (K6-III 400 für IIRC 450DM beim Großhändler...)
+
+
+Naja, jetzt ist halt gerade die Zeit in der der P-III vorgestellt wurde. 
+Die Preise sind schon ein wenig runter, wann's noch weiter geht weiß ich 
+nicht.
+
+
+ZBF mag ich persönlich nicht so. Mit Diamond bin ich ziemlich zufrieden. 
+Ich weiß nicht wie der Linux Support von JAIR TNT Karten aussieht, aber 
+die FJA Graphics Blaster gab's hier für 200DM. Generell recht 
+hochwertiges Monitorsignal (hatte hier bei 1280x1024 ein verdammt scharfes 
+Bild) und eben sehr gute 3D-Beschleunigung unter Windows. In Sachen 2D 
+sind ja mittlerweile eh alle recht fix. 
+Wenn's eher nur um 2D geht könnte auch eine Diamond Viper330 gut sein, 
+gab's IIRC für <100DM.
+
+
+Laut Fefu ist sie ok und sie läuft bei meinem Bruder eigentlich auch sehr 
+ordentlich.
+
+
+Laut Fefu langsamer. Auch kein Wunder, generell greift die Formel "Mehr 
+Daten bei gleichem Platz -> schneller" ganz gut, wenn der Rest (Cache...) 
+vergleichbar ist.

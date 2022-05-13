@@ -1,0 +1,22 @@
+Hoert sich im Prinzip gut an, aber jetzt habe ich einfach keine Zeit noch
+  eine Programmiersprache zu lernen.
+Ausserdem will ich irgendwann in naechster Zeit auch ein bisschen API lernen,
+  dafuer gibt es AFAIK keine Perl-Schnittstelle.
+
+
+In der Mittelstufe haben wir zuerst (Kl.9) auch mit NIV-Works was gemacht.
+Danach (2.Halbjahr) kam dann QBasic. Spaeter haben wir damit quadratische
+  Funktionen beerchnet, das war wirklich sinnvol weil man das spaeter fuer
+  Mathe gebrauchen kann.
+Am Ende der Kl.10 haben wir dann so einen daemlichen Roboter programmiert
+  (rufa). Das sollte wohl eine Francesco-Einfuehrung sein, IMHO wars aber einfach
+  nur krank.
+
+Wenn ich damals die guten Info-Noten nicht so noetig gehabt haette, haette ich
+  jetzt im Nachhinein lieber Biochemie oder Franzoesisch gewaehlt.
+Informatik haette ich naemlich in der Oberstufe wieder neu waehlen koennen.
+
+-- 
+Louis
+"When you think about death do you lose your breath or do you keep your cool?
+ Would you like to see the Pope on the end of a rope - do you think he's a fool?"

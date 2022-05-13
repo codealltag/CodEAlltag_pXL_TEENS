@@ -1,0 +1,12 @@
+An dir Laendereinstellung komme ich nicht dran.
+Wir haben so ein komischen System (Inis 3.1) bei dem der Lehrer
+  bestimmte Programme freischalten muss, damit man sie benutzen kann.
+
+Bei Gelegenheit werd' ich mich mal schlau machen, wie ich aus Delphi
+  heraus den Explorer starte dann kann ich das System erstmal selbst
+  konfigurieren  :-)
+
+-- 
+Clemens
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

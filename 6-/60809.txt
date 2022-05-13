@@ -1,0 +1,9 @@
+Und so sprach Orlando Vomfei:
+
+
+cat /netbsd > /dev/audio
+
+Gruss,
+Daniel.
+-- 
+Detlef Föllmer                        <URL:http://kng.qrkkpdkzg.pc/~wmqvy/>

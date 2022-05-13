@@ -1,0 +1,16 @@
+Hmm, das kann eigentlich nur gut für die Welt sein. 
+Aber wir können das hier ganz leicht mit Traffic fluten. Wir bauen einen
+SMS-Gateway. Die heutige Jugend versteht doch eh keine Sachen, die
+länger als 160 Zeichen sind. Wir filtern die Quotes raus und liefern den
+Rest als mehrere Kurznachrichten...
+
+
+Ich würde eher sagen, die Chance steigt. Immerhin sollten die dann ruhig
+in ihren Ställen liegen. Dann können sie mir kaum entwischen. 
+
+Joachim
+
+-- 
+- "What're quantum mechanics?"
+- "I don't know. People who repair quantums, I suppose."
+        -- (Louis Twardokus, Georg)

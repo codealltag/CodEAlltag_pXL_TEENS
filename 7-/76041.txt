@@ -1,0 +1,19 @@
+Lothar Hait hat geschrieben getan getutet:
+
+
+*Sowas* ist ja mal halbwegs konstruktiv.
+Immerhin fast korrektes HTML. 3 Fehler im Vergleich zu einer üblichen
+Seite ist doch OK.
+Ups. HTML 4.01. Sogar ganz richtig.
+
+Wir können ja mal schauen, ob Herr Carow einen rekursivend
+entpackenden Virenscanner hat..
+
+Spass mit 42.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Karl 'didier' Haeffner in ov.wsq.oekssjhx.jmfyhxwm

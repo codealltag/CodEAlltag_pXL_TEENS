@@ -1,0 +1,11 @@
+Du kannst davon ausgehen, daß diese Programmierer ihre Software nicht
+nur irgendwie bedienen, sondern möglichst effektiv damit arbeiten
+wollen und danach die Benutzerschnittstelle ausrichten. Wenn Du eine
+andere Arbeitsweise und damit an die Oberfläche andere Anforderungen
+als der ursprüngliche Programmierer hast, steht es Dir frei, Deine
+Vorstellungen zu verwirklichen - der Quellcode ist erhältlich.
+
+Viele Größe,
+     Giovanni Coopmann
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

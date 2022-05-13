@@ -1,0 +1,9 @@
+Bekannt. Und solange latin-unity zuverlässig nicht tut ist da auch in
+der Kombination keine Abhilfe zu erwarten. Wenn Emacs 21 jetzt noch
+wenigstens ansatzweise brauchbare Scrollbalken hätte, wäre es nicht
+weiter schwer, das bei mir wenigstens abzustellen...
+
+Jean-Luc
+-- 
+Wie jagt man einen Elefanten - Teil 1:
+Archäologen jagen Elefanten erst, wenn diese 30 Meter unter der Erde liegen.

@@ -1,0 +1,5 @@
+Bist du gewachsen?
+
+Manfred, mit hypscher neuer Sig
+-- 
+np: /bin/bash: ./xmms_np: No such file or directory

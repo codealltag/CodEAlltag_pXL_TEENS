@@ -1,0 +1,4 @@
+hm, Du glaubst ernsthaft, daß ich Lust habe, das jedesmal manuell zu
+löschen?
+
+Naja, werd demnächst mal in <news:gnu.emacs.gnus> fragen ...

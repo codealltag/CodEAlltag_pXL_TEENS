@@ -1,0 +1,13 @@
+* Hartwig Schoettl <fpleeu@csoyql-ocysemw.yu>:
+
+
+Norman hat John temporär bei sich geplonkt, also Johannes Postings
+ausgeblendet. Aber nur temporär -- wenn John längere Zeit nicht
+schreibt, merkt sein Newsreader das und löscht den Eintrag wieder.
+
+Er sollte es so wie ich machen und den String auf `nil' setzen, dann
+sieht er die Postings von John nie. Kommt besser.
+
+Steffen
+-- 
+cross veinless

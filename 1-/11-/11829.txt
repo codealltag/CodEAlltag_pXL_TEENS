@@ -1,0 +1,14 @@
+Ja.
+
+
+*meld*
+
+
+NACK. Ein letzter Schultag und weeeenig Schlaf reichen.
+
+Uwe
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+70: It is essential that implementations by different vendors interoperate.
+       Unsere proprietären Basteleien dokumentieren wir gar nicht erst.
+       (Axel Jung)

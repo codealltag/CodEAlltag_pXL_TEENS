@@ -1,0 +1,18 @@
+adajjrnyelt@ynp.ts (Benjamin Castner) wollte folgendes loswerden:
+
+
+Da wäre erstmal die falsch abgetrennte Sig. *g* Falls du's nicht
+weit, hier noch mal extra für dich:
+
+Signaturen trennt man mit "-- " (Strich-Strich-Leerzeichen) und nicht
+anders. Außerdem wäre zu empfehlen, zwischen Sig und text ein-zwei
+leerzeilen zu lassen, zur Übersichtlichkeit.
+
+Ansonsten lies mit, und du wirst mitkriegen, worum es geht.
+
+
+-- 
+Ich.
+
+jwrl.anpwdzfc@xgu.ue
++++ Wer Rechtschreibfehler findet, darf sie behalten +++

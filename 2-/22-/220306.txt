@@ -1,0 +1,6 @@
+<Trotz> ;-)
+Nun, die Aussage daß man Zahlen allgemein leich multiplizieren kann ist 
+auch so richtig und Faktorisierung impliziert IMO Primzahlen bereits.
+
+Außerdem hast Du den abschließenden Slash vergessen ;-)
+</Trotz>

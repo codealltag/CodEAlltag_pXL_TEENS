@@ -1,0 +1,17 @@
+Am 10 Apr 1998 22:35:44 GMT sendete Waldemar Ulen
+folgende Botschaft:
+
+
+Doch Ich hatte am anfang als ich die RH4.2(RH5.1 war aktuell) aus
+dem Foltmann laufen hatte, mal ein Problem mit rpm weil sich das
+Format geändert hatte, es leis sich allerdings mit einen update
+von rpm beheben(natürlich ließen sich *.rpm's im alten format auch
+mit dem neuen rpm installieren.) Allerdings sollte so ein problem wenn
+man mit einer halbwegs aktuellen Distri anfängt nicht auftreten.
+
+Tschüs
+  Tobias
+
+-- 
+Man soll den Tag nicht vor dem Erscheinen Franz Willschrei loben.
++++Franz Wöstemeier in dtju+++

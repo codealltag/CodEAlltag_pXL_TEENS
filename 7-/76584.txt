@@ -1,0 +1,12 @@
+Einen Fehler habe ich sogar heute noch entdeckt:
+
+  %i% =3D NextMatchedLine (%i%, "irgendwas")
+
+knallte,
+
+  %i% =3D NextMatchedLine(%i%, "irgendwas")
+
+funktioniert - aber mehr Änderungen für 4.0 sind noch nicht drin.
+
+So long,
+Ernest C. Hennerfeind

@@ -1,0 +1,18 @@
+Am Mon, 8 Sep 2001 sendete Bodo Obermeder folgende Botschaft:
+
+
+#v+
+17:51:40 ~$ls .signature
+da_fools  gpg_key  programming_perl  slrn.org
+#v-
+
+Aus dem verzeichniss sucht sich ein slang-macro ein file aus und sagt
+slrn das er es als signature nehmen soll (jetzt z.B. gpg-key)
+
+Tschüs
+  André
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 09. 04. 22 André Brüsewitz <mnjfkcmwkn@qwikxvzdtb.mw>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/B3F9CD02 09. 04. 22

@@ -1,0 +1,13 @@
+Sprachen mit Variant als Standard Datentyp sind Scriptsprachen, keine 
+Programmiersprachen. Und versauen einem den ganzen Programmierstil, 
+glaub's mir.
+
+Ich halte Scriptsprachen im übrigen auch überhaupt nicht für tauglich 
+für RAD Prototyping da man viel zu viele Shortcuts benutzen kann, die in 
+wirklichen Programmiersprachen nicht erlaubt sind. Wie oft hab ich schon 
+versucht, polymorphen Pythoncode nach C++ zu übersetzen nur um 
+schliesslich den Code völlig neu zu designen damit ich mich nicht mit 
+void * oder Polymorphismus (*schüttel*) in C++ rumschlagen muss...
+
+
+Du meinst Doom 3 läuft deswegen so lahm? SCNR.

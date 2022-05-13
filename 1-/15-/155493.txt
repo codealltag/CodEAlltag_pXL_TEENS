@@ -1,0 +1,9 @@
+Wolf Schniedergers wollte am Thu, 15 Apr 2001 21:49:40 +0200 folgendes
+loswerden:
+
+
+Hm, hier mal ein Vergleich:
+
+Normal getippt: Dies ist ein Testtext.
+Mehrere Tasten gleichzeitig: RDies iost neie TEtsxett.
+Unschön, oder?

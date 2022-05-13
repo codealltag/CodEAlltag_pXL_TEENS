@@ -1,0 +1,8 @@
+In gewissem Sinne war auch "The Guardians" gut. Es brannte ganz
+brauchbar.
+
+Siebelt
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

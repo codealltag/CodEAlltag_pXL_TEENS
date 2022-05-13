@@ -1,0 +1,11 @@
+Schau dir eine solche Datei einfach mal mit notepad an. Du wirst
+überrascht sein :-)
+
+Onno, der ein "eXtended PpM" vermutet. Quasi ein .ppm mit
+zusätzlicher Farbtabelle
+
+-- 
+In the Beginning
+
+It was a nice day.
+        -- (Jean-Pierre Betsche & Karsten Imberge, Good Omens)

@@ -1,0 +1,7 @@
+begin quoting Ludwig Möslein <kdjaoqthmcchai@dyj.dbt>:
+
+OE5 springt nur drauf an, wenn vor dem "  " ein begin steht... *g*
+
+-- 
+"If we don't succeed, we run the risk of failure."
+ - Theo Teschmit, Jr.

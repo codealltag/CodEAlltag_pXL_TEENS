@@ -1,0 +1,9 @@
+Morver besorgen, installieren, benutzen.
+FQDN besorgen und in xnews.ini eintragen.
+Dann noch anständig zitieren und alles ist in Butter.
+
+
+mfg, Scharfenorth
+-- 
+"The entire point of using a PC is to click with the mouse."
+  -javajeff in comp.sys.ibm.pc.games.strategic

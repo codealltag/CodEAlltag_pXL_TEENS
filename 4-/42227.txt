@@ -1,0 +1,16 @@
+Siehst? Wenn ich sehe, daß kleine statische HPs immer wieder
+versuchen, bei mir irgendwelche Kekse zu deponieren... Und auf
+wievielen Pages ich nie auf Probleme gestossen bin, wenn ich diese
+abgelehnt habe(gut, auf einer Page wurde ich beim zweiten Besuch nicht
+mit Namen begrüßt - aber wer will sowas schon), dann frage ich mich,
+warum die überhaupt Cookies setzen, wenn nicht, um mich zu überwachen,
+mein Nutzungsverhalten zu überwachen.
+Gut, andererseits finde ichs immer wieder blöd, wenn ich die Cookies
+aktivieren muß. Um dann in den meisten Fällen wieder keinen Grund zu
+finden, warum ich sie aktivieren sollte.
+
+Artur, Cookies setzen dürfen bei mir im Moment nur 4 Hostnames.
+
+-- 
+Der Commandos-Server KANN mit einer Brandmauer verwendet werden.
+[README.DOC von Commandos]

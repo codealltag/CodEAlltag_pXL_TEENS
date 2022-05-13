@@ -1,0 +1,22 @@
+Das ist I * n * f * o * s * z * a * f!
+
+Also:
+
+118957903782727526867078359922647040975188903424171709486420719736128066762374329932983974269190368531345569597009980244308410329270557806542994148556800000000000000000000000000
+
+Hmm. Lange Zahl.
+
+1E0F7B3175B2B36497EDF535F569B86CA02DBF21524EADA80B00DA27766CDE93986190199B72C8BFCFAA260CA3AEE025F14605DD748A3C908256BBCA4B84D307581294FE20000000000
+
+Auch nicht viel kürzer.
+
+1,1895 * 10^176
+
+Na, das klingt doch einfacher.
+
+-towo
+-- 
+I don't see what C++ has to do with keeping people from shooting
+themselves in the foot.  C++ will happily load the gun, offer you a
+drink to steady your nerves, and help you aim.
+- Beat Kleine-Bardenhorst

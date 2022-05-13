@@ -1,0 +1,9 @@
+Jepp. Genauso wie der Versuch, hier na Mandrake
+aufzuspielen. "Rebuilding rpm database failed" und noch zwei Fehler
+beim Installieren anderer Pakete. Schon geschickt, nichtmal
+anzubieten, die Partition vorher zu formatieren...
+
+Rupert
+-- 
+   If Klaas Bierboms had a dime for every time a DFMM box crashed...
+                ...Oh, wait a minute, he already does.

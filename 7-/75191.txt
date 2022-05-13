@@ -1,0 +1,12 @@
+Benjamin Machledt hat geschrieben getan getutet:
+
+
+$ ./configure --with-linux-skills-of-hans
+--with-rudementary-flaming-of-fefe
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Arno 'reginald' Mils in ov.mej.khhqlblx.yinvltha

@@ -1,0 +1,10 @@
+Und so sprach Patrick Könker:
+
+
+Was hat Ingolf mit roten Haaren am Hut? :-)
+
+Mauro, tell me more.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.n

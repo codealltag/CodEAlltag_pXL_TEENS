@@ -1,0 +1,13 @@
+* Walter Anders <f-qqn@niqznzpwzrs.bn>:
+
+
+Sven Löhers. Der trotteligste Despammer, den das Netz je gesehen hat. ;-)
+
+
+Er tippte "http://" ein und drückte versehentlich RET. Sein Bot suchte
+nun alle Postings nach dem String ab, statt Sven zu sagen, dass das ein
+schwachsinniger String ist, und fand u.a. Paulina Posting.
+
+Charly
+-- 
+cross veinless

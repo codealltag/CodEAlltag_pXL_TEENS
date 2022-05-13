@@ -1,0 +1,15 @@
+Lutz Leidenberger schrieb zum Thema "Re: [STATISTIK] Maerz 1999":
+
+
+Gut, kurze Aufklärungsarbeit: Die aktuelle Schayna-Version stammt von 1996,  
+Elias Idrees hat für demnächst eine letzte Version 4.0 angekündigt,  
+danach wird der Source-Code Entwicklungsteams überlassen, die XP  
+weiterentwickeln. Seit der Ankündigung hat man allerdings von Elias nichts  
+mehr gehört... :-(
+
+Burkhard Vischer
+
+-- 
+np.vhy.pjf.jnr-dicaprio JETZT!
+                                              E-Mail: spinph.puuf@egb.ao
+---> Offizieller Kämpfer wider Pierre Feiler des Ordens von dtj <---

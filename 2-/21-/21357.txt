@@ -1,0 +1,14 @@
+Und so sprach Michael Klop:
+
+
+Hmpf, ja das hatte ich auch mal. Allerdings ist unsere Hätte Baujahr
+1937, die Sicherungen auf drei Stockwerke verteilt und die
+Dokumentation dazu spärlich. Insofern kann man natürlich schon mal die
+flachse erwischen. Ausserdem hat's niemand bemerkt, bis ich nach hause
+gekommen bin. ;)
+
+Leopold
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.a

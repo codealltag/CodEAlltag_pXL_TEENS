@@ -1,0 +1,9 @@
+Nein, warum? Wenn keine Mails da sind, wird genau ein Wort gesendet:
+"Was da" - "nein"
+
+Diese paar byte...
+
+Wilhelm
+
+-- 
+Hier kommt nichts mehr.

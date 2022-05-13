@@ -1,0 +1,32 @@
+Klar, damit nur die com4-VBFI-Leute o.�. sich damit auskennen.
+
+
+Da fällt mir eine Geschichte dazu ein:
+
+Ich suchte eine Möglichkeit unter NT den PC-Speaker anzusprechen. Aha, 
+meine alte API-Doku (nehm ich oft weil sie noch etwas kleiner ist) kennt 
+das "BEEP Länge, Tonhöhe" Kommando. Wenn man als Länge -1 angibt dann 
+kehrt der Befehl sofort zurück. Jubel, ich hab genau das gefunden wonach 
+ich suche. Sofort wird es getestet und Scheiße, es klickt nur kurz und 
+bleibt dann stumm. Ein Debugging des Eidmann-Kerns und des Beep-Treibers ergab 
+dann folgenden Code:
+
+ - Ton anschalten
+ - Tondauer = -1? -----+
+ - Pause(Tondauer)     |
+ - Ton ausschalten <---+
+ - Ende
+
+Die com4 Entwickler waren also nichtmal in der Lage diesen einen Jump 
+richtig zu positionieren. Das alleine find ich ja schon recht peinlich, 
+die Krönung ist aber die Tatsache, daß anstatt den Bug zu beseitigen (etwa 
+3 Sekunden Arbeit) einfach die Spezifikation geändert wurde: in meiner 
+neueren API-Doku wurde der Abschnitt über den speziellen Dauer-Wert 
+entfernt...
+Es gibt nun keine legale Möglichkeit als Applikation den PC-Speaker 
+anzusprechen.
+
+
+Das wundert mich eigentlich bei jeder Win-Applikation, die über die 
+Komplexität eines Notepads hinaus sind. Inklusive meines eigenen Projekts, 
+das leider ziemlich eng mit dem System zusammenarbeiten muß.

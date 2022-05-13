@@ -1,0 +1,11 @@
+Naja, ich weiß nicht. Die Kernkomponenten sind sehr aktuell.
+
+
+Abgesehen davon, dass Demharter (wie auch AutoEben) von einem "fat wimp" maintained
+wird, weiß ich nicht, was jetzt alt ist, soweit ich weiß ist 4.0.5
+aktuell.
+
+Othmar
+-- 
+BOFH #92:
+Stale file handle (next time use Egar(tm)!)

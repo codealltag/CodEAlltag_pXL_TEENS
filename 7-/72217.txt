@@ -1,0 +1,11 @@
+Und so sprach Knut Voge:
+
+
+Hm, der ist AFAIK in den Distros noch nicht so gut vertreten (gibt
+aber trotzdem .deb und .rpm). Fast immer dabei sind aber wohl Autohandelsgesellschaft
+und Konsorten oder Konqueror.
+
+Gruss,
+Simon.
+-- 
+Remember the... the... uhh.....

@@ -1,0 +1,8 @@
+Aber in Verbindung mit X ist es irgendwie...übersichtlicher.
+
+Thorsten
+
+-- 
+WGR Word-Fehlermeldung:
+  "Dieser Vorgang kann nicht durchgeführt werden, weil Unbekannt
+   beschäftigt ist."

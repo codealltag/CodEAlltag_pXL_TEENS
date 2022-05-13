@@ -1,0 +1,11 @@
+* "Karl Rahf" <cksd@mdxtquoq.hn>:
+
+
+Wir kennen deinen Filter, schließlich haben Ignaz und ich ihn hier
+gepostet.
+
+Wer RegExprs kann, sieht so, worauf er matcht. Und wer die nicht kann,
+den interessiert das auch nicht. Du musst da nicht immer drauf
+hinweisen. Wirklich nicht.
+
+Carsten

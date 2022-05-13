@@ -1,0 +1,10 @@
+Was war nochmal der Unterschied zwischen Sym- und Hardlink und warum
+habe ich in Erinnerung, dass es grundsätzlich mehr Sinn macht Symlinks
+zu benutzen?
+
+Wolf
+
+-- 
+MS Word:
+  "Sie können Dokument3 von Umschläge zu Umschläge ändern oder ein neues
+   Hauptdokument erstellen."

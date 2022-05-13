@@ -1,0 +1,31 @@
+[9/Sep/2000 21:52:14] Packet filter: ACL 1:0 Kreuzbauten Kostümverleih(AS) Ethernet Adapt: deny packet in: TCP Altpocher:2187 -> 447.45.610.6:80
+[9/Sep/2000 21:52:15] Packet filter: ACL 1:0 Kreuzbauten Kostümverleih(AS) Ethernet Adapt: deny packet in: TCP Altpocher:2187 -> 447.45.610.6:80
+[9/Sep/2000 21:52:15] Packet filter: ACL 1:0 KWV(AS) Ethernet Adapt: deny packet in: TCP Altpocher:2187 -> 447.45.610.6:80
+[11/Sep/2000 20:40:24] Packet filter: ACL 2:0 KWV(AS) Ethernet Adapt: deny packet out: TCP 834.880.96.81:119 -> 60.3.1.5:1125
+[11/Sep/2000 20:40:27] Packet filter: ACL 2:0 Kreuzbauten Kostümverleih(AS) Ethernet Adapt: deny packet out: TCP 834.880.96.81:119 -> 10.1.1.3:1125
+[11/Sep/2000 20:40:33] Packet filter: ACL 2:0 KWV(AS) Ethernet Adapt: deny packet out: TCP 834.880.96.81:119 -> 10.1.1.3:1125
+[11/Sep/2000 20:40:57] Packet filter: ACL 2:0 KWV(AS) Ethernet Adapt: deny packet out: TCP 139.927.3.7:119 -> 10.1.1.3:1128
+[11/Sep/2000 20:40:59] Packet filter: ACL 2:0 Kreuzbauten Kostümverleih(AS) Ethernet Adapt: deny packet out: TCP 139.927.3.7:119 -> 10.1.1.3:1128
+[11/Sep/2000 20:41:05] Packet filter: ACL 2:0 Kreuzbauten RTL8029(AS) Ethernet Adapt: deny packet out: TCP 139.927.3.7:119 -> 10.1.1.3:1128
+[11/Sep/2000 21:49:22] Packet filter: ACL 1:0 KWV(AS) Ethernet Adapt: deny packet in: TCP Altpocher:1456 -> 447.45.610.6:80
+[11/Sep/2000 21:49:23] Packet filter: ACL 1:0 KWV(AS) Ethernet Adapt: deny packet in: TCP Altpocher:1456 -> 447.45.610.6:80
+[11/Sep/2000 21:49:23] Packet filter: ACL 1:0 Kreuzbauten Kostümverleih(AS) Ethernet Adapt: deny packet in: TCP Altpocher:1456 -> 447.45.610.6:80
+[12/Sep/2000 21:46:21] Packet filter: ACL 2:0 KWV(AS) Ethernet Adapt: deny packet out: TCP 834.880.96.81:119 -> 10.1.1.3:2829
+[12/Sep/2000 21:46:24] Packet filter: ACL 2:0 Kreuzbauten Kostümverleih(AS) Ethernet Adapt: deny packet out: TCP 834.880.96.81:119 -> 10.1.1.3:2829
+[12/Sep/2000 21:46:30] Packet filter: ACL 2:0 KWV(AS) Ethernet Adapt: deny packet out: TCP 834.880.96.81:119 -> 10.1.1.3:2829
+[12/Sep/2000 21:46:51] Packet filter: ACL 2:0 Kreuzbauten Kostümverleih(AS) Ethernet Adapt: deny packet out: TCP 139.927.3.7:119 -> 10.1.1.3:2832
+[12/Sep/2000 21:46:54] Packet filter: ACL 2:0 KWV(AS) Ethernet Adapt: deny packet out: TCP 139.927.3.7:119 -> 10.1.1.3:2832
+[12/Sep/2000 21:47:00] Packet filter: ACL 2:0 KWV(AS) Ethernet Adapt: deny packet out: TCP 139.927.3.7:119 -> 10.1.1.3:2832
+[13/Sep/2000 15:58:03] Packet filter: ACL 2:0 KWV(AS) Ethernet Adapt: deny packet out: TCP 834.880.96.81:119 -> 10.1.1.3:1029
+[13/Sep/2000 15:58:06] Packet filter: ACL 2:0 Kreuzbauten Kostümverleih(AS) Ethernet Adapt: deny packet out: TCP 834.880.96.81:119 -> 10.1.1.3:1029
+[13/Sep/2000 15:58:12] Packet filter: ACL 2:0 KWV(AS) Ethernet Adapt: deny packet out: TCP 834.880.96.81:119 -> 10.1.1.3:1029
+[13/Sep/2000 15:58:30] Packet filter: ACL 2:0 Kreuzbauten Kostümverleih(AS) Ethernet Adapt: deny packet out: TCP 139.927.3.7:119 -> 10.1.1.3:1032
+[13/Sep/2000 15:58:33] Packet filter: ACL 2:0 Kreuzbauten Kostümverleih(AS) Ethernet Adapt: deny packet out: TCP 139.927.3.7:119 -> 10.1.1.3:1032
+[13/Sep/2000 15:58:39] Packet filter: ACL 2:0 Kreuzbauten Kostümverleih(AS) Ethernet Adapt: deny packet out: TCP 139.927.3.7:119 -> 10.1.1.3:1032
+
+Fabian Dörendahl
+
+-- 
+Ein weiteres lehrreiches Posting von Fabian Dörendahl persönlich!
+                                             E-Mail: urfdyi@yoqjqlkvws.jh
+---> Offizieller Kämpfer wider Johann Jehniche des Ordens von dtju <---

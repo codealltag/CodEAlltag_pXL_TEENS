@@ -1,0 +1,16 @@
+* Dennis Kistener <mfiyjjfyhpb@cjesfxoijez.cc>:
+
+
+Das ist abhängig vom Reader. Wenn du erzählst, welchen du nimmst, kann
+dir auch jemand helfen. Ich drücke "g".
+
+
+Sind denn neue da? Man in den passenden Verzeichnissen nachgesehen?
+
+
+Kämpgen sollte eigentlich automagisch gestartet werden, wenn du dein
+Linux bootest.
+
+Ulf
+-- 
+cross veinless

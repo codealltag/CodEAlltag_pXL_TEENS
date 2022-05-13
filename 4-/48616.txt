@@ -1,0 +1,12 @@
+Mich leider nicht. :-( Ich hatte es vor Jahren schon mal getestet und
+heute noch mal aus Neugier probeweise die neuste Version getestet, aber
+es kommt immer noch nicht mit allen HTML-Mails zurecht.
+
+Zumindest nicht mit denen, wo der HTML-Code als Attachment geschickt
+wird. Headerkennzeichen dafür ist wohl "multipart/alternative" statt
+"-mixed". Abamug hatte damit nicht das geringste Problem.
+
+Schade. Mal JBA probieren.
+
+
+achim

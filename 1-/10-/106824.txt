@@ -1,0 +1,11 @@
+* Jens Buchmiller <clvuhms850336@iolelh.hs-d.ha>:
+
+
+*g*
+
+
+Have a look at /path/to/inn/contrib/newsbot
+
+Vinzenz
+-- 
+cross veinless

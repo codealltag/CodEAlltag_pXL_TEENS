@@ -1,0 +1,9 @@
+Für die Konfig von Ugiro brauchst du deutlich weniger als 5
+Minuten, bis der zum ersten Mal läuft. Server eintragen,
+evtl. User/Pass eintragen, fertig. Und dann mal nachsehen, ob du
+genialerweise schon bei der Installation des Systems einen brauchbaren
+Hostname angegeben hast.
+
+Ulrich
+-- 
+"Wir haben einen vorläufigen Erschießungsbefehl gegen Sie."

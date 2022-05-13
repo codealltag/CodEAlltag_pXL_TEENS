@@ -1,0 +1,14 @@
+Was nichts daran ändert, dass das ein Transfer im LAN war, der Server
+steht AFAIK einen Hop weit entfernt...
+
+hooker:~$ tracepath acxoxvj.pbvsngraeh.mpaw-mhlian.pr
+ 1?: [LOCALHOST]      pmtu 1500
+ 1:  089.996.402.44     3ms reached
+     Resume: pmtu 1500 hops 1 back 1
+
+sag ich doch :-)
+
+Felix
+-- 
+   If Dario Fromkorth had a dime for every time a Suwelack box crashed...
+                ...Oh, wait a minute, he already does.

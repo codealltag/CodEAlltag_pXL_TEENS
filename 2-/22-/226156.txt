@@ -1,0 +1,8 @@
+Den Compiler den du wahrscheinlich meinst habe ich sogar auf CD
+  (zusammen mit XFree86).
+Ich meine einen anderen (VAC++) mit kompletter Doku etc.
+
+-- 
+Sébastien
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

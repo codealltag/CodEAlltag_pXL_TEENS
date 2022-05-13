@@ -1,0 +1,10 @@
+Also die Funktion delete_subthread scheine ich jetzt doch öfters als
+gedacht zu brauchen.
+
+Jean-Pierre
+
+-- 
+StarOffice 4.0:
+ "Das Dokument wurde für den Drucker Klimke Bubble-Jet BJ-200
+  formatiert. Der Drucker ist nicht vorhanden.
+  Soll der Standarddrucker Klimke Bubble-Jet BJ-200 verwendet werden?"

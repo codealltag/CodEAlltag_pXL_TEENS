@@ -1,0 +1,14 @@
+Aha. Woher weiß Websnake bei Links auf andere Server, in welchem
+Verzeichnis Du die entsprechenden Dateien liegen hast? Ist aber auch
+egal, solange man es nicht wie einen Proxy auch beim normalen Surfen
+mit einem beliebigen Browser einfach dazwischenschalten kann, hat es
+gegen den wwwoffle sowieso keine Chance ;)
+
+
+Na gut, "Download-Quota" kann man mißverstehen. Ich meinte damit nicht
+eine Limitierung der (absoluten) Menge, sondern der Übertragungsrate.
+
+Viele Größe,
+     Konrad Imbach
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

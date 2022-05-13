@@ -1,0 +1,31 @@
+On Thu, 22. 01. 22, Bernd Tschischka <SWUjeppvi@eer.gi> wrote:
+[fdisk DOS]
+
+Kommt wohl darauf an, wie groß die Platte ist. Ich empfand es
+jedenfalls bei gut 8 GB als _sehr_ störend.
+
+
+dvi läßt sich unter X mit xdvi anschauen (für Minipreis gibt's auch kdvi,
+ich weiß nur nicht, wieviel das taugt). Für die Konsole nach ASCII
+konvertieren geht mit dvi2tty. Für Postscript nehme ich gv
+(Ghostview).
+
+
+tststs@ghvlqspcul:~ > apropos dvi
+dvi2tty (1)          - preview a TeX DVI-file on an ordinary ascii terminal
+dvicopy (1)          - produce modified copy of DVI file
+dvips (1)            - convert a TeX DVI file to PostScript
+dvired (1)           - print dvi-files
+dvitype (1)          - translate a dvi file for humans
+grodvi (1)           - convert groff output to TeX dvi format
+sgml2latex (1)       - create LaTeX, DVI or PostScript output from a SGML
+source file 
+xdvi (1)             - DVI Previewer for the X Window System
+
+Eigentlich braucht man sich nur noch das Programm mit der passenden
+Beschreibung auszusuchen.
+
+Viele Größe,
+     Bodo Neukämper
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

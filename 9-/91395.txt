@@ -1,0 +1,8 @@
+* Lothar Pisters <frrihda795186@kybylt.bx-y.pf>:
+
+
+Das mag sein. Der Filter filtert ja auch nicht auf RfC-Konformität,
+sondern auf Realnames. Und nein, in deutschen Vornamen kommt kein "@"
+vor.
+
+Fred

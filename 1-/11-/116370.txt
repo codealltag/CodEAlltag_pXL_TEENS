@@ -1,0 +1,13 @@
+* Niels Jungeblut <uopet@ycdct-jljcdx.nm>:
+
+
+Toll. Liest er weder User-Agent noch X-Mailer aus? *grummel*
+
+(load-file "~/.uruoim/xemacs-wysfupqc/bbdb-rss.tx")
+(bbdb-initialize 'gnus 'message 'sc 'w3)
+
+steht in deiner .emacs?
+
+Urban
+-- 
+cross veinless

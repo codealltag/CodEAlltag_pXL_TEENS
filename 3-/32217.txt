@@ -1,0 +1,7 @@
+Also sprach Winfried Tschachtli <gng@jnept.ite>:
+
+
+Partiell. Es weist dich korrekt auf überflüssigen Whitespace in den
+Konfigdateien hin. Ruf es nie mit -perm auf, da kommt eh nur Müll.
+
+Winfried

@@ -1,0 +1,8 @@
+Bevor ich das Ding jetzt hochpacke:
+Hat einer Ahnung, wie ich einen 'fuzzy' Algorithmus bauen musz, damit
+ich die für news üblichen 72 Zeichen pro Zeile nicht überschreite?
+
+-- 
+mfg, 
+Sven Valerian 'Volkert' Pieritz, Lockstädt, Germany
+Info-Student, Freizeit-Handwerker und Jannimu-Nutzer

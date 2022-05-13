@@ -1,0 +1,14 @@
+Jepp. Ich hab eben mal kurz die beiden grossen Platten in den Server
+gehängt, tuts. Damit wird morgen Hardware beschafft.
+
+
+Viel Spass.
+
+
+Hm... Wenn wir mal von 4 PCI-Slots ausgehen, dann sollte man pro Board
+doch so ca. 4x2x100GB plus mindestens 2x2x100GB Onboard anklemmen
+können... Darüber dann ein Striping und ein vernünftiges Filesystem...
+
+Hau "1,2 TB werde ich auch nicht so schnell zu füllen" ke
+-- 
+In Newsgroups klappt DAS nicht! [Anoymous]

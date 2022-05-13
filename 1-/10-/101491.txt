@@ -1,0 +1,8 @@
+* Ulfert Herppich <khsbrfrrmadh@hrjknqxnh.oxo>:
+
+
+shutdown -h now
+
+Karlheinz
+-- 
+cross veinless

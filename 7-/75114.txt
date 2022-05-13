@@ -1,0 +1,22 @@
+Knut Jahrsdörfer hat geschrieben getan getutet:
+
+
+Das ist möglich, ja.
+Mit nem Freund zusammen haben wir für unsere IRC-Client aus Langeweile
+ein Verschl�sselungsscript auf Basis von cast128 geschrieben; es ist in
+Sachen Verschlüsselung nicht das gelbe vom Ei (vor dem Reden muss mit
+CTCP ein Schl�sselstring ausgetauscht werden), aber für rudimentäre
+Verschlüsselung reicht es. Jemand mit ernsthaften Ambitionen sollte auch
+keine Probleme damit haben, eine PGP/GPG-IRC-Implementation zu 
+
+
+Ausserdem gibt es sogar Server, die SSL unterstützen (Public kenne ich
+nur zwei .. naja, kannst ja Volkert fragen, wenn er fertig ist mit dem
+Einrichten seines Housings :).
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Matthias 'ernst' Zehe in bq.ilt.vjeiubon.hggpxuyn

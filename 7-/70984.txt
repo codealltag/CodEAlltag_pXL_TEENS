@@ -1,0 +1,10 @@
+[Kompetente Inf-Lehrer]
+
+SuSI.
+
+
+*PATSCH*
+
+Ich will mir weder einen Kernel noch eine libc schreiben.
+
+Bernard

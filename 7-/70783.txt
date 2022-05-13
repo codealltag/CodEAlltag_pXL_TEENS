@@ -1,0 +1,20 @@
+Solches tippte Christoph Ostertag:
+
+Versuch macht klug...
+
+Man kommt gut klar, ohne ein C-Guru zu sein. Aber es hilft manchmal
+ungemein, das "Zeug" zumindest lesen zu können. Ist aber für den
+Erfolg ebenso optional wie Englisch zu können. Viel hilfreicher als
+C-Kenntnisse wären IMNSHO das sich-einlassen auf die Shell, der man
+nicht mit dem Vorurteil "DOS-Box" begegnen sollte, einigen
+Hilfsprogrammen wie find, grep usw. und einer Sprache wie perl, die
+das mal schnell eben unter Einbringung regulärer Ausdrücke zu etwas
+komplexeren Dingen zusammenkleben kann.
+
+Leander
+
+� Keine leere Behauptung. $Beweisperson mit einer Sammlung vernetzter
+und funktionierender Linuxrechner zuhause ist mir bekannt.
+� Perl funktioniert gut, aber Perlcode, der nicht mehr auf eine Seite
+passt, schreit danach, das Problem in einer anderen Sprache zu lösen.
+Dringend.

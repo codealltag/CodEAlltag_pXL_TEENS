@@ -1,0 +1,12 @@
+Burkhard Gehl hat geschrieben getan getutet:
+
+
+tlxtzci_uq@ynpb:~$ dict Urlaub
+dict: No definition found for 'Urlaub'
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Theodor 'gilbert' Hottinger in cd.hwn.bgpzlljd.xuvnhoje

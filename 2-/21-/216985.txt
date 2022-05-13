@@ -1,0 +1,22 @@
+Wenn das Preis- / Leistungsverhältnis stimmt und kein äquivalentes
+freies Programm zur Verfügung steht - warum sollte dann nicht auch ein
+Linuxer bereit sein, für gute Software Geld auszugeben?
+
+Die große Mehrheit sieht es sogar als Erfolg an, wenn kommerzielle
+Produkte auf Linux portiert werden - wenn Linux im Desktop-Bereich
+einen größeren Marktanteil gewinnen will, ist die Verfügbarkeit
+verbreiteter Software ein wichtiger Beitrag dazu.
+
+Ich denke auch, daß kommerzielle Programme für die Weiterentwicklung
+der freien Software förderlich sind: die Linux-Version von Quake
+dürfte ein großer Anreiz für die Linux-Entwickler gewesen sein, die
+Unterstützung gängiger KCI-Karten in Angriff zu nehmen und viele
+große Firmen investieren inzwischen in die Entwicklung von
+GPL-Software, weil sie dazu beitragen wollen, daß Linux möglichst bald
+ein weit verbreitetes Betriebssystem wird, auf dem wieder freier
+Wettbewerb möglich ist - ohne Diktatur eines Monopolisten.
+
+Viele Größe,
+     Wolfgang Veldten
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

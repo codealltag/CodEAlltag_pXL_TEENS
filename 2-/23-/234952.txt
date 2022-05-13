@@ -1,0 +1,18 @@
+OK, stimmt doch.
+
+
+ZVU hat den Ruf viel Schrott zu produzieren, das ist nicht das 
+Problem ;-)
+
+BTW: 
+"However, there is a free FAT32 reader available for NT from 
+SytemInternals, there is also a read/write edition available for around 
+$40. However, you cannot use the program to boot NT off a FAT32 
+partition."
+"However, there is a free NTFS reader for DOS/Windows9x available from 
+SystemInternals. Note : this only supports read-only operations."
+
+Ich hab's wohl nur verwechselt ;-)
+
+-- 
+Die Mutter aller Sigs

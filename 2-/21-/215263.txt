@@ -1,0 +1,30 @@
+Am 16. 05. 22 13:11:43 GMT sendete Helmuth Hanel
+folgende Botschaft:
+
+
+Einfach in HOME eine datei .fetchmailrc mit folgendem inhalt anlegen:
+
+------
+poll bfp5.crifiael.uc protocol pop3 username Musteruser password
+geheim mda "/rdl/nij/procmail -f-"
+------
+
+dann die datei  /etc/procmailrc wie folgt anlegen(cg eventuell noch
+durch deinen usernamen ersetzen.):
+
+------
+	PATH=/bin:/usr/bin
+	DEFAULT=/var/spool/mail/cg	#completely optional
+	LOGFILE=/var/log/procmail	#recommended
+	SHELL=/bin/bash
+------
+
+dann 'fetchmail -k' aufrufen. Jetzt sollte alles was an hangout.de geht
+in deiner mailbox liegen.
+
+
+Du kannst die mails dann mittels procmail ganz bequem sortieren. (man
+procmail, man procmailrc, man procmailex ;)
+
+Tschüs
+  Daniel

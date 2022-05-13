@@ -1,0 +1,12 @@
+* Tim Endress <uacnhchjybcxeo@swk.vhd>:
+
+
+Wo gibt es das eigentlich?
+
+Und warum meint er immernoch
+
+mount: fs type smb not supported by kernel
+
+Ich habe es doch eingebaut. :-/
+
+Valentino

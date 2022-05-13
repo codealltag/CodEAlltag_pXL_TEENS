@@ -1,0 +1,8 @@
+Doch, das erklärt es....Systemzeit des Client korrekt...Systemzeit des Servers
+falsch...
+
+
+Es lag a einer falsch konfigurierten Zeitzone in /etc/rc.config
+Jetzt ist es: Date: 20 Feb 1999 08:49:38 +0000
+
+Pascal

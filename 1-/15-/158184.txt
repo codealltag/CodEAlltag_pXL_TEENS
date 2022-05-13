@@ -1,0 +1,8 @@
+Am Tue, 03. 12. 22 sendete Raphaël Büldge folgende Botschaft:
+
+
+Das bringt nichts, der Newsserver Authentifiziert nicht (nur) über die
+IP.
+
+Tschüs
+  Gert

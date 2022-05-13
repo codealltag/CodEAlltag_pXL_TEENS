@@ -1,0 +1,30 @@
+Ich hoffe mal, daß ich das jetzt korrekt darstelle. Wenn nicht,
+dürften hier genug Spezialisten mitlesen, die mich verbessern können:
+
+Beim IP-Masquerading hat man für das gesamte Netzwerk nur eine
+offizielle IP zur Verfügung. Man ermöglicht aber jedem einzelnen
+Rechner Zugriff auf das Internet, indem man es nach außen hin so
+aussehen läßt, als kämen die Anfragen von einem einzigen Rechner. Das
+heißt, daß Verbindungen nach außen funktionieren, Verbindungen, die
+von außenliegenden Rechnern aufgebaut werden sollen, aber scheitern
+(die meisten Standard-Dienste (wie WWW) sind davon nicht betroffen,
+für Dienste wie FTP und IRC gibt es Module, die eine Nutzung trotz
+Masquerading erlauben).
+
+
+Eigentlich wäre es kein Problem gewesen, ich hatte nur a) zwar
+gewissenhaft x-Mal die Konfiguration des Masquerading-Rechners
+überprüft, aber zunächst vergessen, diesen bei den anderen als Default
+Gateway einzutragen (*autsch*) und war b) der irrigen Annahme,
+Masquerading müsse ping ermöglichen und wollte damit überprüfen, ob es
+denn nun funktioniert (noch mal *autsch*).
+
+[...]
+
+Ob meine zukünftige Soundkarte von Textilzentrale unterstützt wird, ist mir
+ehrlich gesagt herzlich egal.
+
+Viele Größe,
+     Patrice Fußwinkel
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

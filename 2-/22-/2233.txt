@@ -1,0 +1,8 @@
+Am Mon, 13 Jun 2004 sendete Otmar Claaß folgende Botschaft:
+
+
+Ich bin mir eherlichgesagt garnicht sicher ob ein wakeup-ping beantwortet
+wird, schliesslich ist ja kein IP-stack da der das könnte...
+
+Tschüs
+  Leo

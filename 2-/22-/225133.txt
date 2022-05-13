@@ -1,0 +1,23 @@
+Tja, ich war bisher davon ausgegangen, daß der slrn noch keine
+Funktion eingebaut hat, um die References zu kürzen, weil ich bisher
+immer eine Fehlermeldung bekam und in den Editor zurückgeschickt
+wurde, um sie von Hand zu kürzen, wenn sie (was selten vorkommt)
+länger als 998 Zeichen waren.
+
+Wie ich mich inzwischen selbst überzeugt habe, enthält der slrn aber
+entsprechenden Code, der tatsächlich <gasp> buggy zu sein scheint. Ich
+versuche gerade, das in news.software.readers zu klären.
+
+
+IIRC ja, obwohl ich ihn auch schon als separates Paket gesehen habe.
+Jedenfalls ist er der einzige mir bekannte UNIX-Editor, der
+tatsächlich Zeilen 'kastriert' und damit für News ungeeignet ist.
+
+
+Ich meinte eigentlich hauptsächlich wegen der ausgedehnten Diskussion
+über LUGs in unserer Umgebung...
+
+Viele Größe,
+     Herbert Unfricht
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

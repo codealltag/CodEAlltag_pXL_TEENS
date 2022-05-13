@@ -1,0 +1,22 @@
+Am Wed, 11 Mrz 2001 sendete Ottmar Verkamp folgende Botschaft:
+
+
+Ja.
+
+
+Der From: header erscheint im Editor und kann dort verändert werden.
+
+
+Jep.
+
+
+Das Glaube ich auch. Aber genauere Fragen bitte nicht an mich, sondern
+an jemanden der sich mit slang-macros auskennt.
+
+Tschüs
+  Cornelius
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Pius Holzhüther, Mostly Harmless, Chapter 12

@@ -1,0 +1,7 @@
+Der ist per Definition nicht brauchbar. Wer einen Browser nimmt, der
+Stylesheets so dumm implementiert, ist selber schuld.
+
+http://gnej.gfhnmjeqpfo.un/
+XHTML1 Transitional ohne Browseroptimierung und stolz drauf.
+
+-towo

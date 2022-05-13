@@ -1,0 +1,9 @@
+Wieso?
+
+So kompliziert ist das auch nicht.
+
+mfg, 
+	Leonhard
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

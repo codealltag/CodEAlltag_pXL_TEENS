@@ -1,0 +1,13 @@
+Zugriffszeit auf ein Posting unter 1/10 Sekunde? Das nämlich leistet
+der Agent. bei Alphabikes sinds rund 0,5-1s, für schnelles Durchblättern
+ungeeignet.
+
+
+OK, das werd ich mir vielleicht irgendwann, wenn ich Zeit habe (also
+gar nicht), mal angucken. Aber wahrscheinlich hab ich mich viel zu
+sehr an den Agent gewöhnt...
+
+C Ya,
+Giuseppe
+-- 
+They're only trying to make me LOOK paranoid!

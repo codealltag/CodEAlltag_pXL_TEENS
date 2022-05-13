@@ -1,0 +1,8 @@
+Ums mal in LISP auszudrücken: Du hast drei listen. eine Liste, die
+'Nur geredet' enthält, eine, die 'oder' enthält, und eine, die '"Nur
+geredet"' enthält. du wolltest die mittlere, und das ist die Liste
+'oder'.
+
+Karlheinz
+-- 
+Hast du DAS eben gehoert? [Nino]

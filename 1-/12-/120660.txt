@@ -1,0 +1,10 @@
+Weit du, was ich mich schon lange frage:
+
+lim ist der Grenzwert, aber wie kann der gegen unendlich gehen? Es ist
+doch ein _Grenz_wert. Unendlich hat keine Grenze...
+
+Vito
+
+-- 
+Die letzten Worte des Astronauten:
+"Meine Luft reicht noch dicke."

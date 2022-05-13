@@ -1,0 +1,7 @@
+Am Wed, 13 Dez 1999 sendete Aldo 'sSXP' Jenjahn folgende Botschaft:
+
+
+Der default wird trotzdem aus /etc/passwd stammen ;)
+
+Tschüs
+  Uwe

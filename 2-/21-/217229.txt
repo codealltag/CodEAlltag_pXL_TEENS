@@ -1,0 +1,18 @@
+Charles Reicheneder schrieb zum Thema "Re: ...und hier bin ich":
+
+
+Lösung 1:
+Extras/Optionen/Senden, dann bei News bei den Texteinstellungen 76 als  
+Zeilenumbruch einstellen. Anschließend Editorfenster auf eine Breite von  
+76 Zeichen einstellen (d.h. ab dem 77 Zeichen muß unten der horizontale  
+Scrollbalken kommen. Sobald der Scrollbalken kommt, mußt du eben von Hand  
+umbrechen.
+Lösung 2:
+Newsreader installieren :-)
+
+Willi Trenn
+
+-- 
+Ludger Olle sagte kürzlich: "Mir geht's gut."
+                                              E-Mail: zhmvba.srne@ycc.mq
+---> Offizieller Kämpfer wider Guido Rotfuchs des Ordens von dtj <---

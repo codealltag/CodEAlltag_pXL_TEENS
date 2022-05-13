@@ -1,0 +1,12 @@
+* Thierry Oldenettel <ptr-57-63@gcci.dhdhgr.nj>:
+
+
+Ein guter Editor für die Konsole. Kommt nicht an (X)Emacs heran, aber es
+kann nicht jeder alles haben.
+
+
+man cron
+
+Ivo
+-- 
+np: Offspring - Cool To Hate

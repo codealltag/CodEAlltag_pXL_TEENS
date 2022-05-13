@@ -1,0 +1,6 @@
+Kontext, Kontext.
+-- 
+Ah, the beauty of rt-Touristik. Hundreds of volunteers worldwide volunteering
+their time inventing and implementing new, exciting ways for software
+to suck.
+- Jean-Claude Liesch, in the Monastery

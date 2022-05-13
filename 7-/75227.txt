@@ -1,0 +1,14 @@
+PATRICIA. 
+Nur ist das wieder ein Problem von "theoretisch ist es zwar richtig" 
+doch "praktisch ist es nicht umzusetzen"
+Ich nutze  PGP nun schon über 1,5 Jahre hab aber noch nie eine 
+verschlüsselte E-Mail versendet. Entweder schreibe ich Leute die von 
+PGP noch nie gehört haben und/oder sie sind glücklich ihren Rechner 
+überhaupt soweit konfiguriert zu haben das sie E-Mails versenden können 
+und machen sich garkeinen Kopf um Verschlüsselung.
+
+Torsten
+
+-- 
+Die Bandbreite steigt in Gasblasen aus der Sargassosee und wird von
+dort in Ethernetkabel gefällt. (Lars Foltin in lo.tok.ufo)

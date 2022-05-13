@@ -1,0 +1,16 @@
+"Womit müssen Sie rechnen, wenn ältere Menschen die Fahrbahn
+überqueren?
+
+[_] Sie kehren manchmal auf halben Wege um
+[_] Sie achten oft nicht auf den Fahrzeugverkehr
+[_] Sie bleiben manchmal plötzlich auf der Fahrbahn stehen
+
+4 Fehlerpunkte"
+
+Waldemar
+
+-- 
+StarOffice 4.0:
+ "Das Dokument wurde für den Drucker BNPP Bubble-Jet BJ-200
+  formatiert. Der Drucker ist nicht vorhanden.
+  Soll der Standarddrucker BNPP Bubble-Jet BJ-200 verwendet werden?"

@@ -1,0 +1,5 @@
+Du mußt mit Double, noch besser Tribble-Buffering rechnen. Und für solche 
+Spiele sind es alles andere als wenige Sprites, mit denen kannst Du 
+nochmal ein paar Bildschirme füllen. Mehr als 4MB ist noch eher die 
+Ausnahme und da wird's schon eng.
+Außerdem will das Ding vielleicht auch noch das Spielfeld cachen.

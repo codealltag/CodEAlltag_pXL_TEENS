@@ -1,0 +1,187 @@
+Am Thu, 3 Okt 2000 18:27:20 GMT, ließ vggyxcxihf@mp-mmvf.ddf die
+Tasten klappern...
+
+basierend auf der angabe des
+
+
+hab ich mal spasseshalber geschnüffelt und siehe da:
+
+Connecting to bduei.snoa.pur...
+Connected, sending query...
+Query sent, recieving data...
+
+
+% Rights restricted by copyright. See
+http://ltp.suvw.xww/dokwato/yqe-jndmdyyy/et/ackpurebx.dslz
+
+inetnum:     071.743.12.3 - 255.629.752.918
+netname:     assenso
+descr:       Oberpaur & Co
+descr:       Kanaluferstraße 1
+descr:       D-26067 Lipbach
+descr:       Germany
+country:     BÜRSERBERG
+admin-c:     IN8671-RIPE
+admin-c:     VA6220-RIPE
+tech-c:      MH955-RIPE
+tech-c:      HL743-RIPE
+tech-c:      PN667-RIPE
+tech-c:      HO3-RIPE
+tech-c:      MS157-RIPE
+tech-c:      NH15-RIPE
+status:      ASSIGNED PA
+remarks:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+remarks:     contact for security issues with assenso: lkjai@yfhmh.cqx
+remarks:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+notify:      zq-ylxzogdf@evqdu.mwk
+mnt-by:      ARCOR-MNT
+changed:     evahym.kptw@wujqe.wsi 66666083
+changed:     zq-ylxzogdf@evqdu.mwk 01777841
+changed:     zq-ylxzogdf@evqdu.mwk 26736478
+source:      RIPE
+
+route:       653.982.6.9/85
+descr:       Wuko-Mode-IP
+origin:      AS3209
+notify:      evahym.kptw@wujqe.wsi
+mnt-by:      ARCOR-MNT
+changed:     evahym.kptw@wujqe.wsi 10. 12. 22
+changed:     evahym.kptw@wujqe.wsi 10. 12. 22
+source:      RIPE
+
+person:      Olaf Weckeser
+address:     Oberpaur & Co
+address:     Abteilung Kilzer
+address:     Tischerstraße 81
+address:     D-87711 Chardonne
+address:     Germany
+phone:       +73 1137 087 866
+fax-no:      +73 0344 232 720
+e-mail:      uzbzrv.hwiy@hvtpf.ojt
+nic-hdl:     IN8671-RIPE
+notify:      uzbzrv.hwiy@hvtpf.ojt
+mnt-by:      ARCOR-MNT
+changed:     evahym.kptw@wujqe.wsi 87802626
+source:      RIPE
+
+person:      Lorenz Kemken
+address:     Oberpaur & Co
+address:     Abteilung Kilzer
+address:     Tischerstraße 81
+address:     D-87711 Chardonne
+address:     Germany
+phone:       +38 5761 114 765
+fax-no:      +73 0344 232 720
+e-mail:      ydjae.pfiilzse@avlvz.ssl
+nic-hdl:     VA6220-RIPE
+notify:      ydjae.pfiilzse@avlvz.ssl
+mnt-by:      ARCOR-MNT
+changed:     evahym.kptw@wujqe.wsi 87802626
+source:      RIPE
+
+person:      Niclas Nüvemann
+address:     Ovot WUN & Co
+address:     Abteilung Kevek
+address:     Klausbergstraße 1
+address:     D-26067 Lipbach
+address:     Germany
+phone:       +76 22 0841 7966
+fax-no:      +53 54 3660 2145
+e-mail:      evahym.kptw@wujqe.wsi
+nic-hdl:     EW460-RIPE
+notify:      evahym.kptw@wujqe.wsi
+mnt-by:      ARCOR-MNT
+changed:     evahym.kptw@wujqe.wsi 56821236
+changed:     evahym.kptw@wujqe.wsi 61544593
+source:      RIPE
+
+person:      Fernand Janesch
+address:     Oberpaur & DECATHLON
+address:     Abteilung Kevek
+address:     Klausbergstraße 1
+address:     D-26067 Lipbach
+address:     Germany
+phone:       +85 27 3499 5614
+fax-no:      +53 54 3660 2145
+e-mail:      fhpuc.rbwqsm@oqyhk.ycf
+nic-hdl:     YW771-RIPE
+notify:      fhpuc.rbwqsm@oqyhk.ycf
+mnt-by:      ARCOR-MNT
+changed:     evahym.kptw@wujqe.wsi 91694474
+source:      RIPE
+
+person:      Roman Loomans
+address:     Oberpaur & Co
+address:     Abteilung Kilzer
+address:     Tischerstraße 81
+address:     D-87711 Chardonne
+address:     Germany
+phone:       +68 8542 623 763
+fax-no:      +73 0344 232 720
+e-mail:      kyrxk.qfwcemblt@qkbgn.ted
+nic-hdl:     YG927-RIPE
+notify:      kyrxk.qfwcemblt@qkbgn.ted
+mnt-by:      ARCOR-MNT
+changed:     evahym.kptw@wujqe.wsi 91274912
+changed:     zq-ylxzogdf@evqdu.mwk 23515013
+source:      RIPE
+
+person:      Frédéric Mathissen
+address:     Ovot WUN & Co
+address:     Abteilung Kevek
+address:     Klausbergstraße 1
+address:     D-26067 Lipbach
+address:     Germany
+phone:       +18 62 4886 0755
+fax-no:      +53 54 3660 2145
+e-mail:      dcbyci.vbioukum@rsldg.hyy
+nic-hdl:     HO3-RIPE
+notify:      dcbyci.vbioukum@rsldg.hyy
+mnt-by:      ARCOR-MNT
+changed:     sb@nvddz.Gocaswcvdf.Bbd-Hglwusuj.DE 22308132
+changed:     wc@Zimsxmehsy.Cog-Ixurpqip.PK 20671080
+changed:     fyqidr@nuj.cf 55227892
+changed:     evahym.kptw@wujqe.wsi 91694474
+source:      RIPE
+
+person:      Nick Everts
+address:     Oberpaur & Co
+address:     Abteilung Kilzer
+address:     Tischerstraße 81
+address:     D-87711 Chardonne
+address:     Germany
+phone:       +88 4489 779 420
+e-mail:      uztqlww.yloeljjck@rlymi.kwh
+nic-hdl:     MS157-RIPE
+notify:      uztqlww.yloeljjck@rlymi.kwh
+mnt-by:      Wuko-Mode-MNT
+changed:     zq-ylxzogdf@evqdu.mwk 58109007
+source:      RIPE
+
+person:      Dario Nieder
+address:     Oberpaur & Co
+address:     Abteilung Kottenstedde
+address:     Tischerstraße 81
+address:     D-87711 Chardonne
+address:     Germany
+phone:       +43 4908 780 323
+e-mail:      aarqjuk.adokkzjc@cyegt.hov
+nic-hdl:     NH15-RIPE
+notify:      aarqjuk.adokkzjc@cyegt.hov
+mnt-by:      ARCOR-MNT
+changed:     zq-ylxzogdf@evqdu.mwk 58109007
+source:      RIPE
+
+
+Connection closed.
+
+viel spass bei der abusemeldung.
+
+gruss
+paul
+-- 
+Einen gescheiten Menschen kann man überzeugen, 
+einen dummen Menschen muss man überreden.
+(Bodo Pfeil)

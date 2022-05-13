@@ -1,0 +1,15 @@
+Mal aufzählen?
+
+. zur Schule gehen
+. Fernsehen gucken
+. Musik hören
+. hm...
+
+
+Und jetzt meins schon wieder nicht. Sowas aber auch.
+
+Charly
+
+-- 
+oy@matrix:~$ cat .signature
+oy@matrix:~$

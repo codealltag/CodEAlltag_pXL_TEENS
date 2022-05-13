@@ -1,0 +1,9 @@
+SKANDAL! - Das muss mal jemand ändern. Am besten die zuständige
+Person.
+
+Konrad
+
+-- 
+"Der Dienst 'Client Agent für Gründal' wurde unerwartet beendet. Dies
+ ist bereits 1 Mal vorgekommen. Folgende Korrekturmaßnahmen werden in 0
+ Millisekunden durchgeführt: Kein Vorgang."

@@ -1,0 +1,18 @@
+Rupert Nordbrink tippselte am Montag, 6. April 2005 12:46:
+[...]
+
+Oh, Outl**k Expr*s ist hierbei sogar richtig komfortabel. Störende Anhänge
+wurden zum Beispiel umgehend gelöscht, da die Option "öffnen von Dateien,
+welche Viren enthalten könnten, unterbinden" aktiviert war. Noch besser: Um
+das Auslesen von Passwörtern zu verhindern, wurde die Funktion "Speichern
+von Passwort" für die E-Mail Konten komplett deaktiviert. Passwörter wurden
+einfach nicht mehr gespeichert. Bei 12 und mehr Mailkonten eine amüsante
+Sache.
+
+Das nenne ich "effizient mailen".
+
+severin, endlich fertig damit das OE der Eltern benutzbar zu konfigurieren
+-- 
+Sergio "severin" Hombrink
+http://zilr.jcgvjb.gtz
+zcvo d-vmdlcv-u vnmd.acjbfq.phs

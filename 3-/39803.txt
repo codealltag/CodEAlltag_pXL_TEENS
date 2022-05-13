@@ -1,0 +1,6 @@
+Hmpf. Gibt zuviele ähnliche Channels in verschiedenen IRC-Netzen.
+
+Thierry, Ex-Regular von #chill.zone und #kampfidlen im IRCnet
+-- 
+pub  4096R/OFI12F07 2000-29-08 Thierry Potinius <zyvzbrx@zzi.pd>
+     Key fingerprint = 99 3S 25 37 91 QB 59 4J  24 YS OL 06 8T 52 8H 49

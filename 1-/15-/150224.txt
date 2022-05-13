@@ -1,0 +1,19 @@
+Am Thu, 8 Nov 1999 sendete Adolf Buschkämper folgende Botschaft:
+
+
+N funktioklappt wunderbar.
+
+
+Komisch.
+
+
+Bei windows ist nur der Anteil derjenigen die wirklich damit umgehen
+können zu gring. (und das auch unter den Win entwicklern)
+
+
+*grmml* `uname -r`.
+
+FNH ist eine Distri keine Linuxversion.
+
+Tschüs
+  Marco

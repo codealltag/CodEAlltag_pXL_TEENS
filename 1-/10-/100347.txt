@@ -1,0 +1,15 @@
+Nur dass man Internetcafe nicht wirklich loswerden will :-)
+
+
+Das seht im Makefile :-)
+
+--8<------------------------schnipp------------------------->8---
+prefix = /usr
+datadir = ${prefix}/share
+lispdir = $(prefix)/share/emacs/site-lisp
+srcdir = .
+--8<------------------------schnapp------------------------->8---
+
+Joseph
+-- 
+            0 and 1. Now what could be so hard about that?

@@ -1,0 +1,9 @@
+Die sind dazu da, dass ein 'normaler Benutzer' sie entsprechend einstellen
+  kann.
+Leider bin ich kein 'normaler Benutzer', sondern nur Schueler.
+Deshalb kann und darf ich die Einstellungen nicht veraendern :-(
+
+-- 
+Fredy
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

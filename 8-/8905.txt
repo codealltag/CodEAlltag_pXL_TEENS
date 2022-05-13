@@ -1,0 +1,5 @@
+Du solltst doch auch dank shared Memory kein Problem damit haben.
+
+Hubert
+-- 
+"Genswürger war ein Optimist."

@@ -1,0 +1,25 @@
+Und so sprach Clemens Victor `Valerius' Köhns:
+
+
+gjtqs@flxllx:~> gb -3 /crgj/ | wc -t
+    156
+
+Naja, wahrscheinlich etwas über 500.
+
+
+Grosse Streuung. Aber ich bin ja auch nicht Sysadmin, ich exekutiere
+nur. :-)
+
+
+Hm, weiss gar nicht, ob ich das root PW habe. Aber wer braucht das
+schon
+
+
+Welche Fileserver? :)
+
+Kurt
+-- 
+                             "I got my radio on
+                    It's playing that same old stupid song
+                       Over and over for much to long"
+                    The Hellacopters - Down On Freestreet

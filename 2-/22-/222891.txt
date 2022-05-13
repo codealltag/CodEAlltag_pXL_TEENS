@@ -1,0 +1,4 @@
+XFree86 läuft bei Dir auch unter "Spiele"? ;-)
+Naja, stimmt aber schon die, Windows/DirectX Konsorten sind 
+unproblematischer als die alten DOS Sachen. Vor allem in Bezug auf Low 
+Memory etc... au weia.

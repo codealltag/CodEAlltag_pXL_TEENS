@@ -1,0 +1,7 @@
+Yep, erst Grundvorstellung, dann Algorithmus, im schlimmsten Fall noch
+ein Automaten-Modell und erst dann Umsetzung.
+
+-- 
+sSXP
+
+Science is what happens when preconception meets verification.

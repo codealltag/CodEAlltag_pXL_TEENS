@@ -1,0 +1,5 @@
+Musst du halt die angegebenen JPG-Dateien einzeln aufrufen, wenn es für
+das Verzeichnislisting keine Permission gibt.
+
+
+engelbert

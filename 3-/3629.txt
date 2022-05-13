@@ -1,0 +1,7 @@
+ne...
+mw = muss weg
+mlw = muss lang weg
+mkw = muss kurz weg
+bkw = bin kurz weg
+bd = bin da
+db = da bin

@@ -1,0 +1,4 @@
+Die Kompression ist vom AVI Format NICHT vorgegeben. Das AVI-Format ist 
+universell. Meine Miro Karten hier im Haus haben Hardware-MPEG Kompression 
+und erstellen dadurch recht kleine AVI-Files. Meine Hauppauge z.B. macht 
+das eben nur unkomprimiert.

@@ -1,0 +1,19 @@
+Am Fri, 13 Mai 2002 sendete Andreas Els folgende Botschaft:
+
+
+Wieso nicht?
+
+
+Wenn du regelmässig News holst ist das durchgelaufen bevor die seite da
+ist. Und wenn du wirklich mal keine news holen willst kannst du dir was
+basteln das du eine file anlegst in der du festlegst ob jetzt
+news/mails/etc hohlen willst oder nicht. (Wenn du willst kann ich dir
+mal meine scripte dazu schicken).
+
+Tschüs
+  Benedikt
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Leopold Isermann, Mostly Harmless, Chapter 12

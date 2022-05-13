@@ -1,0 +1,9 @@
+So viel Hunger?
+
+Sach bloß.
+
+mfg, 
+	Theodor
+-- 
+Rokossa excuse #236:
+Fanout dropping voltage too much, try cutting some of those little traces

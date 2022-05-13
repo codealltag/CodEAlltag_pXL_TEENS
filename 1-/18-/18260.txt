@@ -1,0 +1,7 @@
+F.
+
+mfg, 
+	Tom
+-- 
+BOFH excuse #19:
+floating point processor overflow

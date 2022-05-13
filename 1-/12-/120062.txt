@@ -1,0 +1,11 @@
+begin quoting Jean-Luc Stiefelmeier <expires010331@usenet.th-h.de>:
+
+
+Args ...
+
+Was macht Usefor eigentlich zur Zeit so?
+-- 
+Windows ist _kein_ Virus. Ein Virus ist nämlich ein kleines, sehr
+effektiv programmiertes Stück Software, was man von Windows nicht
+gerade behaupten kann.
+               Knut Jägerbauer in de.alt.folklore.urban-legends

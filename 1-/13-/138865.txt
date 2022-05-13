@@ -1,0 +1,23 @@
+Naja, es kommt wohl sehr darauf an, was man mit einem Office - Paket
+erreichen will. Ich für mich habe festgestellt, dass es für jeden
+Bereich eigene Programme gibt, die natürlich viel effizienter sind. Du
+hast zwar kein Copy und Paste, dafür aber ein einheitliches Dateiformat.
+
+Ich verwende eigentlich nur:
+
+statt Word - LaTeX
+statt Excel oder Spreadsheet - R (bin aber noch in der
+Einarbeitunsphase) wobei R speziell für statistische Analysen ausgelegt
+ist.
+statt weiß nicht . Gimp (Gnu Image Manipulation Programm) 
+
+Was gibts sonst noch so in den Office Paketen? Zum Editieren von HTML
+oder PHP mein XEmacs. ...
+
+Eilt
+
+-- 
+ _  _  __   ___  _  _  _Would you_like to_dance_with a_little dragon?___
+( )/ )(  ) (   )( )( \( )(   )(  _ \   (   ) (  _ \  /_\  (  )( )( )(   )
+ )  (  )(   ) ) ( ) )  (  ) )  )   /    ) o ) )   / /___\( (   )  (  ) )
+(_)\_)(___)(___)(_)(_)\_)(___)(_)\_)   (___) (_)\_)(_) (_}(__)(_)(_)(org)

@@ -1,0 +1,16 @@
+Also, nochmal von vorne:
+
+Du schriebst, dass ein Freund von dir, der ein französisches DOS hat,
+sich die AUTOEXEC.BAT und CONFIG.SYS gelöscht hat. Ich stimme dir zwar
+zu, dass bei einem franz. DOS die "�"-Taste insofern Default ist,
+alsdass sie in der AUTOEXEC.BAT und CONFIG.SYS mit der KEY-Funktion
+voreingestellt sind, wenn aber diese beiden Datein weg sind, ist die
+Taste ein ";". 
+Alles klar?
+
+Gruß,
+
+Wilhelm
+-- 
+"There's a sucker born every minute."
+(ROBERT Jürges)

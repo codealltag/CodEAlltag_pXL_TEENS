@@ -1,0 +1,9 @@
+An einem Sonntag im Juli gab Tino Jungklas bekannt:
+
+
+BTW, hat schon wer einen Kennytranslator in Lisp geschrieben und in Gnus
+implementiert?
+
+Enr 'Nein, ich kann nicht wirklich gut lispeln' ico
+-- 
+Wenn Empfänger verstorben zurück an Router.

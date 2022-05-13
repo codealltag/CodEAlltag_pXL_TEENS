@@ -1,0 +1,8 @@
+[Gewalt]
+
+Gewalt ist doch keine Lösung!
+
+Heribert
+
+-- 
+cat .signature

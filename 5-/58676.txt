@@ -1,0 +1,8 @@
+Ach, das ist doch wahrscheinlich viel zu handlich, einfach und
+produktiv.
+
+Ivo
+
+-- 
+sw@matrix:~$ cat .signature
+sw@matrix:~$

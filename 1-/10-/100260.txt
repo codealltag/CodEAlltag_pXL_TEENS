@@ -1,0 +1,11 @@
+* bczr@nosmp-rmufli.shc (Ottmar Prölle):
+
+
+Ein offenes Relay ist ein Mailserver, der von jedem E-Mails annimmt und
+ausliefert, egal, ob der Einlieferer Kunde ist oder nicht.
+
+Sehr grob gesprochen. Reicht dir das?
+
+Cédric
+-- 
+cross veinless

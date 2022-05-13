@@ -1,0 +1,12 @@
+Am Mon, 14 Jun 2003 sendete Ewald Elsholz folgende Botschaft:
+
+
+Nein.
+
+Tschüs
+  Gerd
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 02. 07. 22 Gerd Heidbrock <puavhhcdlo@ybuqlybvmb.vi>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/B3F9CD02 02. 07. 22

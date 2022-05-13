@@ -1,0 +1,10 @@
+Am Tue, 14 Aug 2001 sendete Vittorio Langenbein folgende Botschaft:
+
+
+Nur wenn du glück hast und der Maintainer sowas eingebaut hat. (Und du
+noch die sourcen von denen du installiertest irgendwo hast)
+
+Tschüs
+  Frédéric
+-- 
+Notorisch Schreibfaul.

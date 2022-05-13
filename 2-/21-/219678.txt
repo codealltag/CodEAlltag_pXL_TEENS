@@ -1,0 +1,22 @@
+Nun ja, was heißt 'keine Grafik' - man kann damit prima remote X-
+Programme ausführen und die Ausgabe auf das lokale Display umleiten :)
+
+
+N - ich muß regelmäßig einen Guru konsultieren, und das wird wohl
+auch noch einige Zeit so bleiben...
+
+[...]
+
+rrzgbo@unnviikyij:~ > ls -l `locate mailq`
+iwunpepqnj   1 root     root           04. 04. 22 16:02 /ijv/gxf/mailq -> /jho/lfgo/vxp/exim
+
+Hmm... bei mir offenbar schon.
+
+[Performance ext2 vs. FAT32]
+
+Sag' ich ja.
+
+Viele Größe,
+     Arian Jungk
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

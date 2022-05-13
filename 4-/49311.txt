@@ -1,0 +1,13 @@
+Am Thu, 3 Jun 2003 sendete Stefan Brökelschen folgende Botschaft:
+
+
+Unter Linux? Meist ein SIGSEV.
+
+
+NW, WN. Das Problem liegt darin das schon ein Fehler zu einen
+ausnutzbaren Buffer overflow führen kann. Und man kann einfach nicht
+wissen wie lang ein String ist bevor man ihn einliesst, von daher ist das
+ein Problem das nicht so einfach zu lösen ist.
+
+Tschüs
+  Heiner

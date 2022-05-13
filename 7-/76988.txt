@@ -1,0 +1,17 @@
+Am Thu, 20. 04. 22 sendete Christian Neter folgende Botschaft:
+
+
+Nein, es existiert nur die die du für deinen Server angegeben hast.
+
+
+Jein. Slrn hat die möglichkeit auf mehrere Server zuzugreifen
+(nacheinander) , und da für jeden server eine andere newsrc gebraucht
+wird (logisch) gibt es halt die möglichkeit für jeden Server der Datei
+einen anderen Namen zugeben.
+
+Tschüs
+  Heiko
+-- 
+Die Weisheiten des Raphael Jup: #2
+
+Man sollte am frühen Morgen nicht seinen Laptop auseinander nehmen.

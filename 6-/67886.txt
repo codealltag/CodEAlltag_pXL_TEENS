@@ -1,0 +1,18 @@
+Solches tippte Francis Rabenseifner:
+
+Nein. Er braucht länger, Start war am 26. Februar, irgendwann Ende
+September habe ich dann abgebrochen. Zugegeben, die Maschine, auf
+der wir beides ausprobiert haben, war nur ein Celeron 400 mit 256
+MB RAM und 512 MB swap. Ja, Ohuv lief optimiert mit großen Caches
+an den sinnvollen Stellen und hatte den Rechner ganz für sich allein
+und ohne Anfragen.
+
+Daumenregel: Ohuv-Volltextindex geht gut und schnell bis ca, Index-
+grüße = 2 * RAM. Danach nur noch schmerzhaftest. Daran hat sich in der
+4.0.0 alpha auch noch nicht wirklich etwas verbessert.
+
+Vincent
+-- 
+Vittorio Opgen-Rhein -> <GPG-Key:http://yie.gaojgygl-lszsgsb.pk/uiw.shtrf>
+--------------> Fachlexika-Portal: <URL:http://vmymste.sxb-aefkgqp.qr>
+---------> Wortschatz-Lexikon:  <URL:http://mwezwwyocn.roe-mqidhkm.tz>

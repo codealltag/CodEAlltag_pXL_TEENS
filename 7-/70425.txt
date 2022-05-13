@@ -1,0 +1,5 @@
+Oha, dankschoen. Ich hatte temporaer in die .slrnrc
+set followup_strip_signature 0
+eingefuegt und spaeter wieder geloescht. *g*
+
+Gruss,	vincenzo

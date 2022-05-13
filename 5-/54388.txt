@@ -1,0 +1,4 @@
+Netscape Communicator zählt nicht zu den Browsern, über deren
+Kompatabilität man sich den Kopf zerbrechen sollte.
+
+-to'Mozilla 1.0 kann die Bullets darstellen'wo

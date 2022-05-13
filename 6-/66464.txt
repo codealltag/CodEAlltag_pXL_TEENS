@@ -1,0 +1,54 @@
+STATISTIK 28. 05. 21
+-=-=-=-=-=-=-=-=-=-=-=
+
+TOP 5 POSTER 2000 (Gesamt)
+
+Pos.  Anz.   Name                   φ (Tag)  Tendenz
+---------------------------------------------------------------------------
+   1  06645  Norman Leifels       36       +5
+   2   4759  Bettina Allmanns      29       +1
+   3   9399  Cédric Neudörfer      27       -1
+   4   6947  Mirko Oosterveld       23       ±0
+   5   5397  André Ludders        18       +1
+
+
+TOP 5 POSTER (in einem Monat) SEIT 1999
+
+Pos.  Anz.   Monat    Name
+---------------------------------------------------------------------------
+   1   4224  01/2000  Norman Leifels
+   2   6485  11/2000  Norman Leifels
+   3   0608  01/2000  Bettina Allmanns
+   4   2064  12/1999  Norman Leifels
+   5   2297  02/1999  Bettina Altpaß
+
+
+TOP 5 DAUs SEIT 1999
+
+Pos.  Anz.   Msgs.  Ratio    Monat    Name∙
+---------------------------------------------------------------------------
+   7   1843      1  7552,29  11/2000  enqe.pxuq.qar.cvdm.xznaswk@bwycyeaqa.
+   2    678      1   238,00  06/2000  skvkxv.bfhm@dxu.rb
+   3    770      1   230,00  06/2000  nehjov@qcbhb.fh
+   6   4495     54   933,21  10/2000  paqrdh@ejwkyjkwq.vkjap.mz.ga
+   4    250      2   200,50  04/1999  knvyks@wsswuqv.spx
+
+
+TOP 5 MONATE SEIT 1999
+
+Pos.  Anz.   Datum
+---------------------------------------------------------------------------
+   1  28. 05. 21  Januar 2000
+   2  28. 05. 21  November 2000
+   3  28. 05. 21  Mai 2000
+   4  28. 05. 21  April 2000
+   5  28. 05. 21  Februar 1999
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Philipp Lübkemann.
+(Darstellung angepasst von Garrelt Thallemer)
+Basierend auf den Feeds von:
+esxzftif.lkffn.vt       aeuq.ypi.hqq.qr         hcrh.mjlkdqh.py
+dztd.yyozj.esa          ihfr.eyxiuk.jk          efju.v-aklypu.dc
+nbzv.oni-mtpaepmo.nd    kugo.zxm-symljgcu.uv    mkcz.lpm-fbapsmxtq.pp
+pptrcqr.szvaoz.nww.dt

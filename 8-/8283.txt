@@ -1,0 +1,6 @@
+[dsf 9.2]
+
+Sébastien
+-- 
+BOFH #113:
+Root nameservers are out of sync

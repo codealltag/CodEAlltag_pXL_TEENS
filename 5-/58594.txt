@@ -1,0 +1,20 @@
+Am Tue, 07. 10. 22 sendete Diedrich Vonck folgende Botschaft:
+
+[...]
+
+Genau so hab ich mir das vorgestellt. eine Surfbox für Studies quasi.
+
+
+das ist nicht userproof, das ist kaputt.
+
+
+slrn-like ist besser. ;)
+
+
+Wird (wenn möglich) in den localen Zeichensatz umgerechnet.
+
+
+QP (incoming) ist kein Problem (solange es richtig deklariert ist).
+
+Tschüs
+  Werner

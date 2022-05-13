@@ -1,0 +1,11 @@
+Hm. Bisher weiß ich ja noch nicht, wie ich sowas in eine
+Standartbibliothek reinbekomme. Wir sind noch nicht sehr weit.
+
+
+Naja, der Lerneffekt ist doch so sicherlich größer. Vorteile hat das
+auch, dauert nur länger...
+
+Gerold
+
+-- 
+Ein Computerprogramm tut, was Du schreibst, nicht was Du willst.

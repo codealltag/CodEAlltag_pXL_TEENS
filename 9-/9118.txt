@@ -1,0 +1,7 @@
+Ich will aber nut "Go! Go! Go!" schreien.
+
+Günther
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+121: NOP
+       Seiteneffektfreies Takte verbraten. (Fritz Uedelhofen)

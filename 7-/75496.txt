@@ -1,0 +1,12 @@
+Und weil du ein Programm installierst und du den Source nicht vorher 
+kontrolliert hast ist dein Rechner plötzlich eine Gefahr für den Rest 
+der Welt? Also in jedem Programm eine Hintertür oder sonstige 
+Sicherheitslücken zu vermuten ist Paranoia in allerhöchstem Maße.
+
+Heiko
+
+-- 
+Egal wie groß und standardisiert ein Marktabschnitt ist,
+Ifame kann ihn neu definieren. 
+
+(Murphy's Gesetz)

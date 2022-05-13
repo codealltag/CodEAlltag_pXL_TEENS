@@ -1,0 +1,8 @@
+<Linux-Evangelist> Wie merkst du den Unterschied? </Linux-Evangelist>
+
+So long,
+Fred A. Ribbehege
+-- 
+http://boby.mmuwd.js/rsr/
+Aktuelle Versionen (Stand 04.08.2002): Hamster 1.3.23.3 & Korrnews 4.1
+(Falls KN 4.03 verwendet wurde, bitte wegen Subject-Bug aktualisieren!)

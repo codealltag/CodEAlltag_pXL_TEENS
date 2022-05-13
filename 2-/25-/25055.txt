@@ -1,0 +1,9 @@
+Du holst den taktischen Kleinbus und ich die Informationen, wo die
+Strato-Racks stehen.
+
+-towo
+-- 
+ No  Points     Name                                                   Hp [max]
+  1    4688080  WeertdineIhno-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

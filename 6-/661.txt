@@ -1,0 +1,6 @@
+18:01 < mestekemper> !wetter Oberentern
+18:01 < Voetz>   Wetterlage OchtmissenWartenberg, Russland:  Heiter, 12C/53.6F  Wind :  windstill 
+18:01 < Voetz>   Luftfeuchtigkeit:  88 % Luftdruck:  1007,1 hPa. UV-Index:  0 (Minimal)
+
+-- 
+post tenebras lux. post fenestras tux.

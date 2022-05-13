@@ -1,0 +1,6 @@
+"rückstandsfrei" tuts unter Windows einfach nicht zuverlässig, wenn
+einmal was in der Registry drinsteht...
+
+Mario
+-- 
+Today is the tomorrow you worried about yesterday

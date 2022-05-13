@@ -1,0 +1,16 @@
+Ich habs heute nacht mit Linux probiert und es ging. Allerdings nur mit
+0,2x Geschwindigkeit. Und heute unter Windows hats auch funktioniert.
+Nur genausolangsam. Da geht das echt schneller wenn man sich das
+saugt...
+
+
+Probieren geht über Studieren!
+
+Nur so am Rande: Kann mir mal jemand sagen wie ich das löse, dass der
+Agent ein Zitatzeichen mit Leertaste dahinter einfügt, wenn noch keins
+da ist und wenn schon eins da ist, dass er dann kein Leerzeichen
+dahintersetzt?
+
+Thor'das nervt'ben
+-- 
+np: DJ Elmar & Fatman Scoop - It Takes Two

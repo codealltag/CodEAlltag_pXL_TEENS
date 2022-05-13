@@ -1,0 +1,27 @@
+Ich brauch hier schon irgendwie Hostnames, die IPs sind alle länger :-)
+
+
+Garnicht, ausser dass die Subdomain einen Punkt weniger im Namen haben
+muss als der Host, der als hostname.subdomain.[...].TLD identifiziert wird.
+
+
+Es ist nicht explizit erlaubt, weil unsinnig. Wie es so schön im
+Awir-Manual, Punkt 6.3.10 (nein, den Link auf meinen lokalen Webserver
+werde ich hier nicht reinpasten) steht:
+
+
+Insbesondere "Things that were considered to be self-evident were not
+discussed." ist wohl universell für die RFCs zu sehen.
+
+
+Ist kein de-Domainname, denn der hat höchstens zwei Komponenten, die,
+wenn es zwei sind, durch einen Punkt getrennt sind und die zweite
+Komponente muss "de" lauten. Alles weitere sind Subdomains (gdw es
+kein Host ist) oder Hosts (gdw es keine Subdomain ist).
+
+Gert
+-- 
+One ping to rule them all,
+One ping to find them,
+One ping to bring them all.
+And in the darkness bind them.

@@ -1,0 +1,10 @@
+Dazu muß der Einwahlrechner dann aber intelligent genug sein, daß er
+Mails an diese IP selbst annimmt, solange ich offline bin...
+
+
+makehistory?
+
+Viele Größe,
+     Kay Mertens
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

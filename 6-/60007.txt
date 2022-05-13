@@ -1,0 +1,3 @@
+Yepp - der überträgt die Daten drei- bis viermal so schnell.
+
+Mit DSL hat die Übertragungsrate aber immer noch nichts zu tun.

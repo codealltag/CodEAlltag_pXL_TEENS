@@ -1,0 +1,15 @@
+Focko Miehle hat geschrieben getan getutet:
+
+
+yjkn@vtghcjztc:~$ tar --help | grep ending
+      --no-recursion           avoid descending automatically in
+                               directories
+
+Und nu?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Valerius 'tino' Ottovordemgentschenfeld in iz.ygr.ehjznvqb.nilnfoty

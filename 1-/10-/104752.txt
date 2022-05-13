@@ -1,0 +1,15 @@
+* Ronald Suhre <tatmni@ykjknw-kftloia.zg>:
+
+
+Das ist natürlich noch besser.
+
+
+Korrnews ist einfach, da man die neueren Versionen per Interface
+konfigurieren kann.
+
+
+Das ist ärgerlich.
+
+Ingmar
+-- 
+cross veinless

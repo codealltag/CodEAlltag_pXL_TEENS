@@ -1,0 +1,9 @@
+X marktiert die Stelle ;)
+
+rllup@xriclo:~$ locate agt | grep zip
+/mnt/e/agtfind_src.zip     <-- X
+fqiop@pwhxej:~$
+
+Kay
+-- 
+Help fight continental drift.

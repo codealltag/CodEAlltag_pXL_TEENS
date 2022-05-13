@@ -1,0 +1,16 @@
+Fabian Hafermas schrieb am 3. Dezember 2000 um 14:53 Uhr folgendes:
+
+
+Als ich eine Beispiel-Implementation für UTF-8 gesucht habe, habe ich
+mich in den mutt-Sourcen relativ zügig zurecht gefunden (auch wenn
+ich's dann hinterher selbst ein wenig anders gelöst habe).
+
+Was suchst du denn genau, vielleicht kann ich dir noch einen genaueren
+Pointer geben...
+
+Viele Größe,
+     Cornelius Nimbs
+-- 
+It might look like I'm doing nothing, but at the cellular level I'm
+really quite busy.
+                                           -- "Smart Comments", part 22

@@ -1,0 +1,8 @@
+* Günter Björn `Benedikt' Thurau <mlf-dcon@tseqrod.cv>:
+
+
+Was sollst du denn stattdessen machen?
+
+Hubert
+-- 
+np: /bin/bash: ./xmms_np: No such file or directory

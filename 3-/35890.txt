@@ -1,0 +1,7 @@
+* Cornelius Vandrich <slcjpbxizn@tabszzpmyj.rb>:
+
+
+Hm. Aber muss man nicht suck extra anpassen, damit es mit den tokens
+umgehen kann?
+
+Philippe, hat keinen tradspool, aber tokens

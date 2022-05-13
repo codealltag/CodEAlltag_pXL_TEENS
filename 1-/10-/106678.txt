@@ -1,0 +1,18 @@
+Und so sprach Niels Treptow:
+
+
+Aeh, wohl neben dem VErzeichnis auch noch das Binary, oder? :)
+
+
+Brauchst Du wahrscheinlich eh nicht. Da Teil guckt bei Requests ob der
+Client zu /etc/hosts.allow bzw. hosts.deny gehoert ... oder so. (Ich
+hab den Krempel hier nicht; vielleicht verwechsle ich auch etwa?)
+Steht aber AFAIK etwas dazu in der Leafnode Doku. <hint>
+
+Gruss,
+Wilfried.
+-- 
+You want to be my friend, I promise you nothing.
+Nothing I can give you, nothing I can do for you,
+I'm being chased by the sins of my past and it's killing me now,
+Killing me now.                      --BLACK SABBATH - The Illusion of Power

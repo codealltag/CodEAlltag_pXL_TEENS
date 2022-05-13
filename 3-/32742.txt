@@ -1,0 +1,16 @@
+Das ändert nichts daran, dass die Syntax der Sprache den Coder zwingt, 
+schönen Code zu generieren. Sie hindert ihn nicht an Dummheiten, aber 
+schön formatiert ist er auf jeden Fall.
+
+
+Ich hielt S´Lädle nie für lesbar...
+
+
+Das kommt darauf an, wieviel der CPU Zeit effektiv von den ifs verbraten 
+werden. Wenn das sehr viel ist, wirst du's in jeder Sprache merken.
+
+
+Hier auch nicht. Man muss es können, aber lernen tut man's auf keinen Fall.
+
+
+Theoretische Informatik, bh.

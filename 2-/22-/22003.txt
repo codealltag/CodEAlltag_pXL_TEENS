@@ -1,0 +1,7 @@
+hm, nein. Aber fast.
+
+mfg, 
+	Stefano
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

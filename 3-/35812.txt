@@ -1,0 +1,17 @@
+Ich kriege jedes mal ne Mail, wenn mein Fetchnews sich nicht zu dem
+Server verbinden konnte. Und dies geszieht ziemlich oft.
+
+
+Ok, outgoing mache ich inzwischen über den relayserver von GNC.
+
+
+Ich kann ja auch nichts dafür, ich habe ihn nicht zur Benutzung von
+Kurda gezwungen. Aber leider auch nichts von der Provision gewußt.
+
+Dieter
+
+-- 
+          Diese Message wurde ausschliesslich unter Verwendung von
+	naturreinen, nicht-recycle-faehigen und umwelt-verseuchenden
+	                 Elektronen erstellt -
+                     haehaehaehaehaehaehaehaehaeh!

@@ -1,0 +1,8 @@
+Das ist einfach Interesse am eigenen Schicksal.
+
+Jakob
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+93: Emacs
+       Warum werden die Funktionen nicht mit Passwörtern versehen?
+       (Henrik Pottgießer)

@@ -1,0 +1,11 @@
+Du hast da was falsch verstanden. Doreen macht keine langen Postings
+durch Quoting -- das ist Luis.
+
+Doreen macht lange Postings durch das, was _sie selber_ schreibt.
+
+-towo
+-- 
+Any site should be designed so that it's usable as a dead file tree with
+no server-side smarts. Any sort of active pages or search engines should
+be an add-on, not essential.
+- Hugo Iwersen, in the Monastery

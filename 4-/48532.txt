@@ -1,0 +1,6 @@
+Naja, der HTML-Viewer wird ja sogar beworben, aber er tut nicht so, wie
+er soll. :-/ In der nächsten Version soll angeblich sogar ein
+HTML-Editor dabei sein.
+
+
+berend

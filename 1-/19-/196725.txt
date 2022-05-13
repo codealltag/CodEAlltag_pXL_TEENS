@@ -1,0 +1,17 @@
+Jepp, früher allerdings nur in Form von selbstformulierten Rules. In der 
+neuen Version (siehe Header ;-) geht das auch gleich als normaler 
+Scoring-Eintrag (man hat die Wahl zwischen "Subject", "From", "Body", 
+"All of the above"). Das spart dann 3 Mausklicks oder so.
+
+Der neue Gravity kann übrigends wie erwartet tatsächlich immernoch kein 
+QP etc. Werd die Idioten mal anmailen.
+
+
+Uh, das wäre für mich nicht gut. Viele Regeln würden so nicht 
+funktionieren.
+
+
+Also ein "rough guess": Der Reader versucht Deine Lese-Vorlieben selbst 
+herauszubekommen und vergibt danach selbstständig Scores. Wenn Du also 
+z.B. eine Person oft liest, dann wird ihr Score immer höher und 
+umgekehrt.

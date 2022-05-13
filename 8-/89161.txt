@@ -1,0 +1,12 @@
+Eric Uebler hat geschrieben getan getutet:
+
+
+So ungern ich einer Person meiner Gattung recht gabe: Guy hat Recht. Es
+müsste "As soon as possible" (so bald wie möglich) heißen.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Jonas 'norman' Pflugradt in gc.wta.sqddzhrl.wkajrtnb

@@ -1,0 +1,7 @@
+Mit Sprüchen wie: "In Engelshaar ist alles eine Liste." kann man wohl auch
+jeden abschrecken. /Da/ liegen die größten Stärken von Engelshaar bestimmt
+nicht.
+
+
+Wie gut, daß Emacs die Klammerebenen mitzählt. Außerdem sollte man
+auch in einem Engelshaar-Programm alles gut einrücken (lassen).

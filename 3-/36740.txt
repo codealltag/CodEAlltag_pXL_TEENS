@@ -1,0 +1,4 @@
+Florian Obenhack <yhrma@xircc.wjzd.hm> schreibselte:
+
+
+DOS braucht aber IMHO FAT16...

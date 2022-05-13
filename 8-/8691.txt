@@ -1,0 +1,8 @@
+Das, was nicht Virtualität ist.
+
+Arnold
+-- 
+Fachbegriffe der Informatik - Einfach erklärt (101: Emacs)
+       Ich habe ja auch nie bezweifelt, daß emacs ein tolles Betriebssystem ist.
+       Aber um mit Linux oder Windows konkurrieren zu können, fehlt ihm ein
+       vernünftiger Editor. (Jean-Luc Bairlein)

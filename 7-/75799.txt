@@ -1,0 +1,9 @@
+Nein. Mit etwas Nachdenken ist es völlig klar, dass es entweder die
+Rechtschreibreform oder die neue Rechtschreibung ist.
+
+Wolfram
+
+-- 
+  "The Feussner Information Store service depends on the FoKuRa
+   Koli Directory service which failed to start because of the
+   following error: The operation completed successfully."

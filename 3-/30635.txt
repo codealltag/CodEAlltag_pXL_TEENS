@@ -1,0 +1,7 @@
+*sigh* Die korrekte, erwartete und einzig erlaubte Antwort ist
+ "Nein". Dementsprechend sieht das Scorefile aus.
+
+Hero
+-- 
+"Die Nummer, die Sie gewählt haben, ist imaginär.
+Bitte drehen Sie Ihr Telefon um 90 Grad und probieren Sie es erneut!"

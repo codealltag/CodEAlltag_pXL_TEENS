@@ -1,0 +1,11 @@
+Ich dachte das tut algernons pokemon?
+
+
+Das sowieso.
+
+Carlo
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+42: Stabilität
+       200 Studenten der Informatik-Anfängerübung auf einer Maschine nachdem die
+       Vorlesung 'fork()' behandelt hat. (nach Florian T. Würzberger)

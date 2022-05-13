@@ -1,0 +1,15 @@
+Nein, komm, ser Tod.
+TCON (Content type): Soundtrack (24)
+TYER (Year): 1997
+TPE4 (Interpreted, remixed, or otherwise modified by): Italo Schwebel
+TPE1 (Lead performer(s)/Soloist(s)): Erna
+TPE2 (Band/orchestra/accompaniment): Dietmar Sobel
+TEXT (Lyricist/Text writer): Stefano Kederer
+TRCK (Track number/Position in set): 11/14
+TIT2 (Title/songname/content description): Komm ser Tod (M-10 Director's Edit)
+TALB (Album/Movie/Show title): End of Evangelion (OST)
+-- 
+Gegen Softwarepatente in Europa: http://dholu.abgl.zwy./
+Mister Teatime had a truly brilliant mind, but it was brilliant like a frac-
+tured mirror, all marvellous facets and rainbows but, ultimately, also some-
+thing that was broken.                      (Manuel Overlöper in `Hogfather')

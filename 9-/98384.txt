@@ -1,0 +1,11 @@
+* Luise Kamerer <amcs.r@ufiei.wk>:
+
+
+Aber er nutzt doch den Agent. Der löscht doch nicht automatisch, wenn
+die auf dem Server expiren, oder?
+
+Oder meintest du mit "expiren" die Purge-Funktion vom Agent?
+
+Willi
+-- 
+cross veinless

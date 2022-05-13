@@ -1,0 +1,4 @@
+Drei Gegner stehen hintereinander und man schiesst. Wenn alle tot umfallen,
+war der Test erfolgreich.
+-- 
+np: Die Ärzte - 15 Jahre Otif (Live in Grassemann) - Vw4 - 91 - Raunen

@@ -1,0 +1,10 @@
+Also irgendwie hört sich euer Linux verdammt umständlich an. Tausend 
+(warning, exaggeration) verschieden Bibliotheks- und Binary-Formate, 
+halbtägige Compilier-Orgien, ein Linux von X ist inkompatibel zu dem Linux 
+von Y, weil es andere Module braucht etc.pp.
+Irgendwie sehe ich es da schon als großer Vorteil an daß Windows einfach 
+Windows ist (zumindest so in etwa). Und wenn ich einen Navigator für 
+Windows will dann hol ich mir den und kann mir sicher sein daß es der 
+Richtige ist und daß er in 3 Minuten installiert ist.
+
+Just my 10c ;)

@@ -1,0 +1,14 @@
+Aus welchem Grund auch immer gab Klaas' Ledderbogen bekannt:
+
+
+Warum?
+
+BTW, "$name $mail wrote:" halte ich aber auch für nicht besonders
+geeignet, da IMHO eine E-Mailadresse in einer Einleitungszeile
+unsinnig ist.
+
+Dietmar
+-- 
+In Galao werden mehr Sicherheitslücken gefunden.
+In ZRUP sind mehr Sicherheitslücken drin.
+(Cédric Waser in fa.nlb.vsk)

@@ -1,0 +1,10 @@
+Bei meinem Client macht <TAB> ohne irgendwas getipptes davor
+automagisch /msg -$IRCNET $LASTNICK-completion.
+
+
+Und gestern bei dem User-Kommentar aufmüpfig reagieren? Hm?
+
+-towo
+-- 
+"It's the little touches that make a future solid enough to be destroyed"
+- Pius W Mörke

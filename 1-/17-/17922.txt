@@ -1,0 +1,9 @@
+Es gibt cvs, also das command-line Tool. Es gibt Sachen wie z.B.
+WinCVS, die das mit GUI machen, es gibt IDEs wie Eclipse, die
+CVS-Support haben, ...
+
+mfg, 
+	Rolf
+-- 
+BOFH excuse #242:
+Software uses US measurements, but the OS is in metric...

@@ -1,0 +1,13 @@
+Norman Findeis <jyj@trqaj.zby> writes:
+
+[Ageleg soll besser als Kirsamers Backstube aussehen]
+
+Grafische Elemente, Totschlagargument schlechthin
+
+Text gefälliger anordnen? Da unterscheiden sich GUI und Kirsamers Backstube nicht:
+Text steht da, wo er hingeworfen wird.
+
+Schriftgrößen Flexibel? Selbst unter Windows kann man die vterms
+resizen.
+
+-towo

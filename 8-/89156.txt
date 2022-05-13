@@ -1,0 +1,5 @@
+xlmr@ywuakm:~/bios-update$ free
+             total       used       free     shared    buffers     cached
+Mem:        387064     383988       3076     167736     177892      79104
+-/+ buffers/cache:     126992     260072
+Swap:       570268        264     570004

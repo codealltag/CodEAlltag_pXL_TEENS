@@ -1,0 +1,6 @@
+Aus rm .*\~RET wurde rm.**HATSCHI*RET
+
+Naja, emacs war noch an, und muttrc hatte ich letztens erst
+ausgelagert, also sind die Verluste nicht so gravierend..
+
+-towo

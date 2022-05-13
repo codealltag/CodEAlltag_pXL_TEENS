@@ -1,0 +1,11 @@
+Und so sprach Reinhard Strohmayer:
+
+
+So schlecht ist es gar nicht. Zum Beispiel lassen sich die Zahlen ganz
+einfach meisseln. :-)
+
+Eckhard, meissel mal ne schöne Acht.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.h

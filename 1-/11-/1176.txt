@@ -1,0 +1,7 @@
+Ah, dann muss es wohl http://hgp.krum-winsm-teisasb.pl/ sein.
+
+-be
+
+-- 
+Computer-Murphologie:
+3.3 - Wenn ein Programm nutzlos ist, muss es dokumentiert werden.

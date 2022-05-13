@@ -1,0 +1,9 @@
+begin quoting David Schmeck <expires010331@usenet.th-h.de>:
+
+Hab mich ja in <921cfc.3y2.2@iurk.uogab.rowrw.gx> korrigiert. ändert
+nix daran, daß man die _Nummer_ des Ports i.d.R. nicht braucht.
+-- 
+Windows ist _kein_ Virus. Ein Virus ist nämlich ein kleines, sehr
+effektiv programmiertes Stück Software, was man von Windows nicht
+gerade behaupten kann.
+               Johannes Gänsehirt in de.alt.folklore.urban-legends

@@ -1,0 +1,12 @@
+Ilka Hausotte schrieb am 05. Januar 2001 um 22:46 Uhr folgendes:
+
+
+s/k/bek/
+
+Viele Größe,
+     Udo Entreß
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

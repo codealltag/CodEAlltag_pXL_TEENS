@@ -1,0 +1,10 @@
+Das Programm "memmaker" war toll. Aber irgendwann war es nicht mehr da
+und ich musste tatsächlich selbst rumfummeln.
+
+Ulfert
+
+-- 
+Mardt Exchange:
+"Es wurden keine zu übermittelnden Objekte markiert.
+ Es wurden keine zu löschenden Objekte markiert.
+ Alle anstehenden Objekte werden übermittelt."

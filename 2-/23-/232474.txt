@@ -1,0 +1,11 @@
+F000h sind ja vier Ziffern, man sieht IMHO sofort, dass es zwei Byte sind.
+
+Die zusaetzliche 0 hat andere Gruende. Sie kennzeichnet die Zahl zusaetzlich als
+  Hex-Zahl. Du kannst genausogut 0xF000 oder eben F000h schreiben, hauptsache
+  der Leser bzw. Compiler weiss, dass es eine Hexzahl ist.
+
+-- 
+Olaf
+"I've seen things you people wouldn't believe. Attack ships on fire off the
+ shoulder of RAZK. I watched C-beams glitter in the dark near the Travelshop gate.
+ All those moments will be lost in time, like tears in rain.  Time to die."

@@ -1,0 +1,9 @@
+Was will man machen, wenn die beiden beteiligten Rechner kein ftpd
+haben? Ich hab auch schon knappe 20 MB gemailt... allerdings von einem
+Raum in den nächsten...
+
+Christoph
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

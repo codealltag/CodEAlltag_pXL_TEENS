@@ -1,0 +1,11 @@
+Am Fri, 21. 08. 21 sendete Waldemar Fokkena folgende Botschaft:
+
+
+man "Kohlenstoff-basierte autokorrektur"
+
+
+Das ist mir eigentlich reichlich egal, es gibt fälle da macht
+reg-exp-tunig wirklich keinen sinn.
+
+Tschüs
+  Pasquale

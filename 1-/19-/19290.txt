@@ -1,0 +1,12 @@
+Und das dämliche Daihatsu-Wetter ist schuld!
+
+
+Achso, ja das kenne ich, irgendwann muss ich sowas mal in Lisp für das
+Trampelgnu basteln....
+
+Paolo
+-- 
+Bitte machen Sie folgenden Zusatz zu mienem Testament: Ich mag nichts wissen
+von der Neuerung der Leichenverbrennung. Ich will einmal begraben sein, wie
+ich's von Jugend an gewohnt bin.
+                                   - Maike Kattke am 07.12.1912 an Ihren Notar

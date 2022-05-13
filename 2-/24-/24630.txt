@@ -1,0 +1,12 @@
+Ha freilich! Wenn ich auf der einen Konsole am proggen bin, und den
+halben Code hier ins Usenet abkippe, kann ich mich lange wundern, warum
+das nicht funktioniert.
+
+Wie, keine Konsole? Sowas sollte gar nicht gehen.
+
+mfg, 
+	Kaspar
+-- 
+BOFH excuse #346:
+Your/our computer(s) had suffered a memory leak, and we are waiting for them
+to be topped up.

@@ -1,0 +1,11 @@
+FAT32 ist so toll, FAT32 ist so schön..
+
+urqs@oxbp:/pkp/sibtfow/kae$ rename s/R/r/ sweetRabbit.jpg 
+sweetRabbit.jpg not renamed: sweetrabbit.jpg already exists
+
+-towo
+-- 
+Given that Bomber Command were given orders that they Must Not jettison
+the Elsan (chemical toilet) or its contents over enemy territory for
+precisely that reason [UN treaty on biological warfare], yes.
+- Domenico Haarmann in the Scary Devil Monastery

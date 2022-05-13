@@ -1,0 +1,22 @@
+Nicht unbedingt - das Beispiel kannst Du "as is" durch den Compiler
+jagen. Bei persönlichen Briefen braucht man idR weder Betreff- noch
+Referenzzeile ("Ihr Brief vom:" etc), so daß man einige der
+aufgeführten Befehle noch weglassen kann.
+
+
+Kommt drauf an. Für jemanden, der nur alle paar Wochen einen Brief
+schreiben will, ist Word sicher angemessen. Wenn man sich aber sowieso
+ein wenig mit LaTeX beschäftigt hat (was bei größeren oder mit vielen
+Formeln, Fußnoten etc versehenen Arbeiten anzuraten ist), kann man
+auch gleich seine Briefe damit machen:
+
+Das Ergebnis sieht einfach überzeugender aus (weil eben ein
+professionelles Satzsystem dahintersteckt) und unpraktisch ist es nun
+auch wieder nicht: Man legt sich ein Mal eine Datei mit dem "Skelett"
+an (im wesentlichen das, was in meinem letzten Posting zu sehen war)
+und trägt dann nur noch den eigentlichen Text des Briefes ein.
+
+Viele Größe,
+     Heinz Ossenbruegge
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

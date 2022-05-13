@@ -1,0 +1,29 @@
+Am Sat, 11. 08. 22 sendete Jonas Sonnenwald folgende Botschaft:
+
+
+Weils unelegant ist? Weil es unnötige cputime verbrät?
+
+
+Lernen durch versuchen zu verstehen. Ist am effektivsten. ;)
+
+
+Also die ausführliche Form:
+
+Neben der Zentralen crontab (meist /etc/crontab) gibt es meistens auch
+noch userspezifiche crontab. (Wäre ja auch schlecht wenn jeder User an
+der zentralen rumfummeln dürfte.) Um diese zu bearbeiten gibt es das
+program 'crontab' mit 'crontab -e' kann man z.B. seine persönliche
+cronjobs editieren. 
+
+Allerdings bietet diese nette Tool auch die Möglichkeit "fertige"
+crontabs einzulesen. Also habe ich unter /root/ zwei files angelegt. Das
+eine ist die crontab für die zeit offline und das andere während ich
+online bin. Und in ip-up bzw ip-down sage ich halt crontab das er jetzt
+das eine bzw. das andere file als crontab nutzen soll.
+
+Tschüs
+  Fredi
+-- 
+Die Weisheiten des Walter Wilfried: #9
+
+Auf das Jup Hoch folgt das RL Tief.

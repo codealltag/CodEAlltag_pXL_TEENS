@@ -1,0 +1,15 @@
+Willy Jörß schrieb am 14. Februar 2001 um 21:49 Uhr folgendes:
+
+["Keine Berechtigung" vs. "Permission denied"]
+
+Natürlich ist "Keine Berechtigung" nicht die wörtliche Übersetzung von
+"Permission denied", aber fändest du "Erlaubnis verwehrt" wirklich
+leichter verständlich? Was wäre deine Lieblings-Übersetzung für diesen
+Fall?
+
+Viele Größe,
+     Christoph Jaresch
+-- 
+Q: Why can't you compare structs?
+A: Compare them to what?  A summer's day?
+                  -- comp.lang.c Answers to Infrequently Asked Questions

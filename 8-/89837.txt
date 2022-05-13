@@ -1,0 +1,9 @@
+Maurizio Uckermann:
+
+
+Wenn vor dem "-- " ein Quote-Zeichen ist, sollte er es jawohl nicht mehr
+als Sig erkennen, richtig? Und wenn er "-- " zu "--" verstümmelt... ;)
+
+-- 
+     d,,b   .  o  O (   *ignore*   )
+     (__)            `------------�

@@ -1,0 +1,8 @@
+Guter Tip. Gerade im Zusammenhang mit free() scheinen Ignoranz und
+Unwissen eine absolut sichere Möglichkeit der Programmierung zu
+sein. :-)
+
+Tom
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

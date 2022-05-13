@@ -1,0 +1,16 @@
+Serge 'sSXP' Zschucke <wKOB@jql.qgq> schrieb in im Newsbeitrag:
+38-32-45.29-82-90.zmo.7708@wdie.lr...
+
+Schau dich mal auf einigen Mailinglisten von irgendwelchen Daemons rum.
+Diverse Leute benutzen UNIX als Server und scheinen auch recht kompetent zu
+sein, aber OE als Mailclient. OE 5 ist kann da ohne weiteres mit NNU-Mail
+(das ich früher immer als besten Mailclient einstufen musste) mithalten. Für
+News ist's suboptimal, aber immer noch ganz brauchbar.
+Daneben ist meine Vorliebe für den Textmode primär eine Vorliebe für's
+Automatisieren, denn solange es Klartextconfigfiles oder sogar
+commandline-Configtools gibt, kann man die aus jedem Perlscript ansteuern
+und sich ne Menge Arbeit ersparen, bei meinem persönlichen NT hingegen kommt
+das nicht so drauf an, da nder ich eh nicht dauernd was und Software kann
+man auch nicht automatisch installieren... Auf'm Webserver einen neuen
+virtuellen Server einzurichten dauert gerade mal etwa 3s, wohingegen das mit
+GUI 20min dauern würde...

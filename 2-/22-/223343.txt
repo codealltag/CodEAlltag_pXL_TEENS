@@ -1,0 +1,7 @@
+Wir koennen nur die Geizhals-Umgebung starten, die sollte eigentlich OLE-
+  faehig sein. Aber wie finde ich dann diese exe-Datei ?
+
+-- 
+Volkmar
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

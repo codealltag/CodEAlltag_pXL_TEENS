@@ -1,0 +1,6 @@
+Ah. Also tue ich quasi garnix? Das finde ich toll.
+
+Meinrad
+-- 
+BOFH #202:
+kernel panic: write-only-memory (/dev/wom0) capacity exceeded.

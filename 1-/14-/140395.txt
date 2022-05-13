@@ -1,0 +1,21 @@
+Dominik Fraaß schrieb am 22. Mai 2001 um 13:52 Uhr folgendes:
+
+[...]
+
+Ein "Accent Acute" (0xB4). Was du da hingeschrieben hast, ist ein
+Apostroph und der liegt (auf deutschen Tastaturen) gewöhnlich schon
+auf Shift-#. Das Zeichen braucht man für diverse Sprachen (u.a.
+Franzsprech); mag sein, dass du eine Tastenbelegung verwendest, die
+hauptsächlich für Programmierer gedacht ist, die den Apostroph (für
+Zeichenliterale) ohne umzuschalten verfügbar haben wollen und dafür
+auf den Accent verzichten. Ich persönlich bevorzuge die
+Standard-Belegung (im Editor mit, in der Shell ohne Deadkeys).
+
+
+"This posting is best viewed with an ISO 8859-1 compatible charset.
+See Content-Type for details." ;-)
+
+Viele Größe,
+     Hanno Fleisch
+-- 
+A truly wise man never plays leapfrog with a unicorn.

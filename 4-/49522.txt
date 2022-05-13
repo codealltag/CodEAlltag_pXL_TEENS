@@ -1,0 +1,3 @@
+Frédéric Osterfeld <aubl@uutspyr.ac> schreibselte:
+
+50 * 50, links oben ist 0/0, rechts unten 50/50, ok?

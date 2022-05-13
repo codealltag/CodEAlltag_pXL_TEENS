@@ -1,0 +1,17 @@
+* Frank Loebeck <uhgqrtf228924@mwokwu.qw-n.wm>:
+
+
+Was machst du bloß immer. *tadel*
+
+
+Ich vergaß. Ich hatte ja erwähnt, dass das eine Sun ist.
+
+
+Was soll ich sagen: Sie läuft sehr brav.
+
+[cprogmci@inrt: ~ ]$ uptime
+  7:27am  up 6 day(s),  4:12,  1 user,  load average: 0.03, 0.03, 0.04
+
+Julian
+-- 
+cross veinless

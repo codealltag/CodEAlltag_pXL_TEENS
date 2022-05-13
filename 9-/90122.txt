@@ -1,0 +1,3 @@
+quoted-printable
+
+Denkbar wäre auch ein 'b' (?) für Base-64.

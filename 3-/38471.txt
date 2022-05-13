@@ -1,0 +1,8 @@
+Darstellung im Group buffer, aber nicht im Summary buffer.
+
+-towo
+-- 
+Warum wird eigentlich zunehmend das gute Usenetprinzip "Keiner hat
+Anspruch darauf, von jedem gelesen zu werden." in Richtung "Ich darf
+jeden Bl�dfug schreiben, weil's eh ja keiner Lesen *muß*" mißbraucht?
+- Klaus T. Vollweiler in ziyencf.fm.syoj

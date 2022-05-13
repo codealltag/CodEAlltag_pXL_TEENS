@@ -1,0 +1,10 @@
+Und so sprach Vittorio Cloth:
+
+
+Weil's Dir nichts bringt?
+
+Max
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.u

@@ -1,0 +1,7 @@
+Wieso nicht? Das einzige, was dir die Kuppinger zusichert, sind
+theoretische 768kbit/s von dir zum POP. Mit was für einer Bandbreite sie
+dann ab da weitergehen wird nirgendswo festgeschrieben, ergo hast du
+keinerlei rechltichen Anspruch auf irgendwas, wenn du nicht 768kbit/s
+durch deine Leitung kriegst sondern meinetwegen nur 450.
+
+Thorsten

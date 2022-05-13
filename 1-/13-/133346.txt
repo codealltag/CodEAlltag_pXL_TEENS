@@ -1,0 +1,18 @@
+Ganz einfach: Weil das ein Mehr an Plattenplatz und Rechenleistung  
+beansprucht. Bei NNTP werden die News aus dem Newsspool rausgesucht und  
+as-is versandt. Bei UUCP wird bei eintreffenden Nachrichten geschaut,  
+welcher User diese Group abonniert hat und entsprechend in einen Batch  
+gepackt, der dann irgendwann abgeholt (oder gelöscht) wird. Hat den  
+Vorteil, daß die Übertragungszeit dank Komprimierung extrem gesenkt wird,  
+dafür ist die Flexibilität gegenüber NNTP geringer, da man grundsätzlich  
+alle Nachrichten einer Group nehmen muß (es sei denn, der UUCP-Host  
+ermöglicht das Definieren von Filterregeln, was aber nochmals an der  
+Leistungsschraube dreht) und AFAIK auch keine Archivfunktion besitzt  
+(d.h. man gezielt nach Msg-IDs suchen kann).
+
+Pius Semmelhak
+
+-- 
+Ich hasse die französische Sprache!
+                                             E-Mail: wgbuel@ptunyhxwba.gc
+---> Offizieller Kämpfer wider Fernand Kemke des Ordens von dtju <---

@@ -1,0 +1,12 @@
+Basispraktikum Netze unter Unix, letzte Aufgabe: Schreiben sie einen
+Server, der einen String einliest, und in Großbuchstaben zurückgibt.
+
+Ist mir zuwenig. Kann ja gar nix. Muß mehr können. Bis jetzt hab ich
+ein Frontend für den mpg321 zusammengebastelt, das seine Befehle aus
+einem FIFO bekommt...
+
+mfg, 
+	Othmar
+-- 
+BOFH excuse #254:
+Interference from lunar radiation

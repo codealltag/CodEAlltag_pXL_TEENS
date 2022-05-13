@@ -1,0 +1,7 @@
+s/könnte/würde/
+
+mfg, 
+	Tom
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

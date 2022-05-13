@@ -1,0 +1,13 @@
+Also sprach Sandro Feht <gvhbs@wgqkz.yhzc.wx>:
+
+
+Natürlich.
+
+
+Sind, hmm, 15 Axiome, glaube ich. Ein Kalkül, der auch noch vollständig
+ist. Sprich, du kannst alle wahren aussagenlogischen Formeln daraus
+herleiten. Bzw. alle wahren Formeln beweisen.
+
+Der einzige Kalkül, mit dem wir uns in den Übungen vergnügen mußten.
+
+Italo

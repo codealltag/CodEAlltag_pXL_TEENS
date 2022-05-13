@@ -1,0 +1,19 @@
+Kasimir Zwueste schrieb am 25. März 2000 um 21:39 Uhr folgendes:
+
+[NWZ tut bei mir, was es soll]
+
+Ob es "taugt", hängt massiv davon ab, was man daraus lernen will. Wenn
+du wissen willst, wie du einen Server mit einem halben Dutzend
+Services aufsetzt und sicher bekommst, kannst du das Buch vergessen.
+
+Wenn du Infos darüber brauchst, wo und warum sich NWZ von anderen
+Distributionen unterscheidet und wie man das "Eigenleben" abstellen
+kann, dann gibt's im Handbuch genau dazu ein Kapitel, das so machen
+"NWZ-ist-scheiße"-Thread ersparen könnte (würde es gelesen).
+
+Viele Größe,
+     Julius Marschal
+-- 
+Q: Is C an acronym?
+A: Yes, it stands for ``C''.  It's another of those funky recursive acronyms.
+                  -- comp.lang.c Answers to Infrequently Asked Questions

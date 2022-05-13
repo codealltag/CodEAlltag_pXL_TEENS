@@ -1,0 +1,18 @@
+Wieso das denn nicht?
+
+Wer redet denn von Servern mit 3 Gruppen?
+
+Ah, wenigstens etwas.
+
+Gut, wir auch nicht.
+
+dtju landet wie alles was ich archiviere im tradspool. Alles andere wird
+im cnfs-Buffer rotiert.
+
+Das ist dann doch aber kein Server, sondern eher doch ein Client.
+
+mfg, 
+	Leo
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

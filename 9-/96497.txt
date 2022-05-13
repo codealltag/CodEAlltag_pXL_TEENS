@@ -1,0 +1,17 @@
+* Fabrice Lachermund <tsihxateygsdqi@tva.rea>:
+
+
+Das kann man ja nicht mit ansehen.
+
+Du öffnest deine de.all.SCORE und baust folgendes ein:
+
+,--------
+`--------
+
+Das verpasst jeder direkten Antwort +1000 Punkte. Wenn dir das zuviel
+ist, dann kannst du ja einen anderen Wert eintragen.
+
+LILGE,
+John
+-- 
+cross veinless

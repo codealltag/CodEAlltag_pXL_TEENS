@@ -1,0 +1,16 @@
+* t89r5t@vvrdcxhlg.ep (Lybjgqhtv Francken):
+
+[qmail]
+
+Irgendwas ist ja immer.
+
+So kannst du wenigstens vor allen deinen Freunden damit angeben, dass du
+einen eigenen DNS auf deinem Rechner hast.[1]
+
+Otmar
+
+Footnotes: 
+[1]  Ich bräuchte jetzt nur noch Freunde, die wissen, was das ist ...
+
+-- 
+8

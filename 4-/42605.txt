@@ -1,0 +1,8 @@
+Die Freeware Eppelt klemmt sich zwischen Newsserver und Client, per
+WNMM sollte die Downloadadresse schnell feststellbar sein, Erd ist ein
+kostenpflichtiger lokaler Mail/Newsserver und MKL ein
+DF-Programm aus alten DOS-Zeiten, welches mit Zusatzmodulen auch heute
+noch sinnvoll nutzbar zu sein scheint.
+
+So long,
+Pius D. Isenberg

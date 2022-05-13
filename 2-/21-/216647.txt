@@ -1,0 +1,17 @@
+On 04. 10. 21, Darius Nehb <erblbc.lhjv@pfk.re> wrote:
+
+[fdisk]
+
+Mmh... offenbar habe ich eine andere Vorgehensweise als Du. Wenn ich
+die einzige Platte in einem System neu einrichten will, gehe ich das
+von Diskette oder ggf. von einer RAM-Disk aus an. Wenn ich einen Ast
+absägen will, setze ich mich dazu ja auch nicht darauf.
+
+
+Sicher - Du brauchst nur die nötigen Rechte (sollte klappen, wenn Du
+es schaffst, Dich auf "universe" als User "ingolf" einzuloggen...).
+
+Viele Größe,
+     Claus Janisch
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

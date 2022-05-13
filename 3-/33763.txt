@@ -1,0 +1,105 @@
+STATISTIK 21. 12. 22
+-=-=-=-=-=-=-=-=-=-=-=
+
+POSTER (Unstrukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   1198   24,65%  Juans Niewand <lgfdxfn_or@yteb.jox>
+   2   1438   20,82%  Jörn Czekalla <zqi@hexvy.stw>
+   3    412    8,48%  Martin Edenhuizen <qefxy@zxdzv.azcy.pv>
+   4    338    6,95%  Claus Hesterkamp <vytumyr@tmw.jk>
+   5    319    6,56%  Luigi Gerhauser <zeyppd@emljwaiere.kc>
+   6    264    5,43%  Mike Czekalla <prixgtd@qgkdv.mody.on>
+   7    198    4,07%  Focko Copman <xatzocjlheidqy@tiy.nqe>
+   8    170    3,50%  Cornelius Fingerlin <DepvrjHdizhl@ljb.uj>
+   9    164    3,37%  Karsten Tschirren <msoaub-cjla-718885@rwhk.wsvabr.qn>
+  10    155    3,19%  Ingmar Eyckmanns <xmbhjurzum@smztgjykvt.bu>
+  11    148    3,05%  Martin Großewächter <wkxdfm-6520@hqgnfbvj-lgsuvge.er>
+  12     98    2,02%  Claus Pritzkows <pgov-arpeci@fad.lol>
+  13     65    1,34%  "Pascal Deetjen" <sjinlwk@blbsagvzp.ya>
+  14     61    1,26%  Cédric Novotný <qhiueqmpgogc@ltalqdxfp.wkx>
+  15     58    1,19%  Silvio Voots' <vj@yhfhtjp.vej>
+  16     34    0,70%  Nina Zitzelsberger <pbthqsck@sjtyk.n-a-a.co>
+  17     29    0,60%  Friederike N. Schliepper <ncdtct@pfhxag.xh>
+  18     13    0,27%  Severin Goldenpfennig <exnmjhq@huzfrchzu.ek>
+  19     12    0,25%  Silvio Schwinde <srpjs@kamuc.ntob.tx>
+         12    0,25%  hqop@whxsodclrt.tc (Umjlur Yhle)
+  21      9    0,19%  "Jörn H. Spieß" <icx@chc.jx>
+          9    0,19%  "Else Eitner" <kfaczjl@buf.su>
+  23      8    0,16%  Mike Nowanski <oprpj@zyomw.rt>
+  24      6    0,12%  Mike Czekalla <Cwn01@fnx.tze>
+          6    0,12%  uunrfw@lbglbyfprl.mb (Umjlur Yhle)
+  26      5    0,10%  Domenico Eppert <mhzkkewd@ayopwdxr-higfaph.bh>
+          5    0,10%  Pascal Zurn <gkkf@xqaj.sqnrtc.ksg>
+  28      4    0,08%  "Maximilian Zschischank" <jtt-ubyr@bqnmraf.ep>
+  29      3    0,06%  Vinzenz Camphausen <xjb@yltwit.ruiyrrf.aw>
+          3    0,06%  Alwins Crafts <yixktvc@dub.tg>
+          3    0,06%  wggrefzihoew@gtkfsty.oza (Mypcwhwvd Htxwlwylg)
+          3    0,06%  keiner angegeben
+          3    0,06%  Ernst Everken <szhmiad.zuzfkix@fnu.sf>
+  34      2    0,04%  wggrefzihoew@gtkfsty.oza (gmifvyeysjgo)
+          2    0,04%  Severin Henkele <ylsdib@hqu-xtbhsn.xd>
+          2    0,04%  "Willibald Zasadzky" <oizcvulji@byezkqhfw.wr>
+          2    0,04%  Jérôme Spam Volkmar <oowtfxo@cnyagmml.rtj>
+          2    0,04%  Maurice Niederreiter <khgrp@on.yey-omuivhx.tk>
+          2    0,04%  M. Kräutlein <we.kyik.iqop@goan.qvsp_nrjlo_zmpf.ttq>
+( 40)     2    0,04%  Heino Christmann <jnis-26-3110@fvfyou.nhqzso.upn>
+       + 19  ( 0,39%) weitere mit je einem Posting
+---------------------------------------------------------------------------
+       4860  100,00%  GESAMT
+
+
+POSTER (Strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   1198   24,65%  Juans Niewand
+   2   1012   20,82%  Jörn Czekalla
+   3    412    8,48%  Martin Edenhuizen
+   4    338    6,95%  Claus Hesterkamp
+   5    319    6,56%  Luigi Gerhauser
+   6    270    5,56%  Mike Czekalla
+   7    198    4,07%  Focko Copman
+   8    170    3,50%  Cornelius Fingerlin
+   9    164    3,37%  Karsten Tschirren
+  10    156    3,21%  Ingmar Eyckmanns
+  11    148    3,05%  Martin Großewächter
+  12     98    2,02%  Claus Pritzkows
+  13     65    1,34%  Pascal Deetjen
+  14     61    1,26%  Cédric Novotný
+  15     58    1,19%  Silvio Voots'
+  16     34    0,70%  Nina Zitzelsberger
+  17     29    0,60%  Friederike N. Schliepper
+  18     18    0,37%  Cornelius Nühmann
+  19     13    0,27%  Severin Goldenpfennig
+  20     12    0,25%  Silvio Schwinde
+  21      9    0,19%  Jörn H. Spieß
+  22      9    0,19%  Else Eitner
+  23      8    0,16%  Mike Nowanski
+  24      5    0,10%  Pascal Zurn
+          5    0,10%  Domenico Eppert
+  26      4    0,08%  Maximilian Zschischank
+          4    0,08%  Severin Henkele
+  28      3    0,06%  keiner angegeben
+          3    0,06%  Vinzenz Camphausen
+          3    0,06%  Ernst Everken
+          3    0,06%  Wiltraud Cohrsen
+          3    0,06%  Alwins Crafts
+  33      2    0,04%  Willibald Zasadzky
+          2    0,04%  ihtxblohoykr
+          2    0,04%  The Spam Reaper
+          2    0,04%  Maurice Niederreiter
+          2    0,04%  Mike Kräutlein
+( 38)     2    0,04%  Heino Christmann
+       + 16 (  0,33%) weitere mit je einem Posting
+---------------------------------------------------------------------------
+       4860  100,00%  GESAMT
+
+
+Statistik basierend auf den Ergebnissen von Engelshaar 2.0.3.0
+(Darstellung angepasst von Cornelius Nühmann)
+Basierend auf den Feeds von:
+slac.cen.qgk.tc         uhvs.fxendbb.aw          wcpz.nhlza.zkr
+ubct.criqvf.qc          lyqs.c-djixoq.rh         snnm.ize-bpgsbmnq.go
+nmoj.qan-hkjgzzman.ln

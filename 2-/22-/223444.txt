@@ -1,0 +1,34 @@
+Du bezeichnest Lehrer als Vollidioten? Meine Güte, du überbewertet die ja  
+absolut. Brauchst nur meinen Wirtschaftskundelehrer ansehen: Merkt nicht,  
+daß er die ganze Zeit verarscht wird, ist in der Zeitrechnung in den 60er  
+Jahren steckengeblieben (von der Farbe der Kleidung her sogar noch 30  
+Jahre früher) und hat von absolut nichts eine Ahnung. Meint, Kommunismus  
+wäre scheiße und die CeBit eine Messe für Telefone.
+
+
+Du bist als Zeuge live dabei.
+
+
+Schon mal mit Hochglanzpapier den Arsch ausgeputzt?
+
+
+Arbeit und Thibol schließen sich doch ebenso aus wie Funktionieren und  
+Schulcomputer.
+
+
+Vorausgesetzt, im Diskettenlaufwerk steckt kein Kaugummi oder ein  
+restriktiver Steinzeitproxy blockiert alle Zugriffe auf deine HP.
+
+
+Du hast's erfasst. Das ganze führt dazu, daß beim Booten keine aktive  
+Partition gefunden wird. Das witzige ist aber, daß selbst wenn im BIOS die  
+Reihenfolge A,C drinsteht, zuerst auf der Festplatte gesucht wird. Und  
+wenn der Bootprozess erstmal läuft, kannst du ewig warten und es passiert  
+nichts.
+
+Noah Stuwe
+
+-- 
+Ich war in Gunsleben - na und?
+                                              E-Mail: dqcwer.bqzj@pcl.bg
+---> Offizieller Kämpfer wider Gerold Zumdick des Ordens von dtj <---

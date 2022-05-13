@@ -1,0 +1,14 @@
+Ach ja... Ich hab' kürzlich mein Glossar [1] auf PHP umgestellt, das war  
+auch lustig. Vor allem, weil die Liste inzwischen so lange ist, daß es  
+unzumutbar ist, sie komplett zu laden. Deshalb soll sie je  
+Anfangsbuchstabe ausgegeben werden. Allerdings wird das dann mit den  
+Querverweisen auf andere Einträge problematisch: Es gilt herauszufinden,  
+ob der Eintrag, auf den verwiesen wird, bereits dargestellt wird oder  
+nicht und je nachdem muß sich der Hyperlink auf die aktuelle Seite  
+beziehen bzw. den Eintrag laden. Inzwischen hab' ich das aber IMO recht  
+brauchbar gelöst.
+
+Claus Magdeburg
+
+[1] http://tzs.uozxqrnmdbxbw.bg/tfvihnjhtqxrr/naabyeo/
+    (noch nicht 100%ig fertig)

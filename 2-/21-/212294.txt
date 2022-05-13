@@ -1,0 +1,7 @@
+Gilt das nicht nur für unverifizierte Sender bzw. läßt sich das nicht
+abstellen? Ich meine, schon ...
+
+Ansonsten vielleicht X-Sender:, X-Posted-By:?
+
+Gruß,
+Ernst

@@ -1,0 +1,25 @@
+Solches tippte Samuel Bicknese:
+
+Vom Bauen war ja gar nicht die Rede, nur von der Prüfung auf
+Funktionsfähigkeit / Fahrtüchtigkeit ; war dazu nicht sogar jeder
+Benutzer von Gesetz wegen vor Fahrtantritt verpflichtet? -- Sébastien.
+Unterricht ist lange her... Und beachte auch den Hinkenshinweis von
+Autovergleichen ;-)
+
+[...]
+
+Wenn man "die Post" durch "Web of Trust" ersetzt und die
+Betrachtungsrichtung vom Absender (beim Einschreiben) zum Empfänger
+(bei der Signatur) umdreht, ja.
+
+Wobei PGP-Signaturen alleine sinnfrei sind. Es kommt darauf an, dass
+sie über ein Web of Trust oder durch direkten Austausch jeweils
+zuverlässig Klassen von Benutzern zugeordnet werden können. Im
+Idealfall hat eine jede solche Klasse genau ein Element, aber das kann
+man realiter nicht wirklich annehmen.
+
+
+Ich wünsche es keinem, soll ja recht !recovery sein, gerade momentan ;-)
+
+Ciao,
+  Rupert

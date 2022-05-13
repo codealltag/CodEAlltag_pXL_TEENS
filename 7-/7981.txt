@@ -1,0 +1,6 @@
+[dsf 4.19]
+
+Daniel
+-- 
+BOFH #310:
+asynchronous inode failure

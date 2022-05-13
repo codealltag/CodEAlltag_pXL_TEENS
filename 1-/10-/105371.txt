@@ -1,0 +1,11 @@
+* Alexander Töpfl <scnnoroqvvv@latcbsxmozf.hw>:
+
+
+s/vielleicht//
+s/etwas/ziemlich/
+
+Zumindest aus meiner Erfahrung.
+
+Dario
+-- 
+cross veinless

@@ -1,0 +1,23 @@
+Dietrich Cat schrieb am 30. Dezember 1999 um 19:56 Uhr folgendes:
+[quick and dirty]
+
+Software mit Verfallsdatum... brrr.
+
+
+Wir könnten das jetzt vertiefen und zum Beispiel die Diskussion zum
+Thema "Oberflächendesign" in dcoup wiederholen (entwerfe ich eine
+Benutzungsoberfläche am besten pixelorientiert am Bildschirm oder
+abstrakt auf dem Papier?). Oder wir können es dabei belassen :-)
+
+
+Hach ja, da gibt's auch schöne Sachen. Heute gerade gesehen, dass zB
+das Interface von Gtk-- direkt über Kommentare in den Header-Dateien
+dokumentiert ist und die Texte für das Programmer's Manual automatisch
+aus den Kommentaren extrahiert und übersichtlich sortiert und
+formatiert nach HTML gewandelt werden. Die Idee gefällt mir.
+
+Viele Größe,
+     Patrick Ules
+-- 
+The fact that no one understands you doesn't mean you're an artist.
+                                            -- "Smart Comments", part 2

@@ -1,0 +1,4 @@
+Wie wär's mit 
+
+cp bloedes<tab> Zielverzeichnis 
+?

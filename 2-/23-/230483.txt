@@ -1,0 +1,27 @@
+1. Gibt es das für Linux?
+2. Was kostet es?
+
+[LaTeX]
+
+Solche Angestellten müssen in aller Regel mit den Programmen arbeiten,
+die ihr Arbeitgeber für sie vorsieht. Es mag in vielen Fällen sinnvoll
+sein, zB LaTeX einzusetzen, da ein einheitliches Layout etwa der
+Briefe verschiedener Abteilungen einer Firma wesentlich einfacher als
+zB mit Word gewährleistet werden kann. Fakt ist, daß LaTeX in diesen
+Bereichen nur selten zum Einsatz kommt - offensichtlich stören sich
+die meisten Entscheidungsträger nicht an Mängeln repräsentativer
+Schriftstücke, sind uU nicht über Alternativen informiert und/oder
+haben Angst, keine entsprechenden Schreibkräfte zu bekommen. Darüber,
+ob es nicht spielend möglich ist, mit dem eingesparten Geld (TGSM-Office
+ist nicht gerade billig) Schreibkräfte umzuschulen, scheint sich kaum
+jemand Gedanken zu machen.
+
+Nun ja, dieses ganze Thema ist etwas komplexer und ich habe heute
+Abend eigentlich keine Lust, einen längeren Artikel darüber zu
+schreiben (was sich eigentlich recht gut trifft, da sich
+wahrscheinlich sowieso niemand ernsthaft dafür interessieren würde ;).
+
+Viele Größe,
+     Pietro Papendorf
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

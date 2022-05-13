@@ -1,0 +1,12 @@
+Wieso? Die Original-tar.gzs runterwerfen, die Verzeichnisse packen, dann
+löschen.
+
+[Sources-Liste]
+Ja. Wenn man die noch bekommt/findet.
+Configs wie in zum Build konfigurierte Packages?
+
+mfg, 
+	Onno
+-- 
+BOFH excuse #325:
+Your processor does not develop enough heat.

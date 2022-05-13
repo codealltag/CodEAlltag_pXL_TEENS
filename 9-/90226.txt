@@ -1,0 +1,17 @@
+Steht sogar im Duden, dass es falsch ist, hat mal jemand gesagt.
+
+
+Tut es aber nicht. :-)
+
+
+Durch Leerzeichen vor Satzzeichen kommt es zu blöden Zeilemumbr�chen 
+! 
+
+(Ein wunderbar manipuliertes Beispiel, aber wie oft kommt es dazu,
+dass man nicht manipulieren muss, damit sowas passiert...).
+
+Fernando
+
+-- 
+Es gibt Tage, an denen verliert man. 
+Aber dann gibt es Tage, an denen gewinnen die Andern.

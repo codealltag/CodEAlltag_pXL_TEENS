@@ -1,0 +1,13 @@
+Am Sat, 16. 05. 21 sendete Norbert Mühlenstedt folgende Botschaft:
+
+[I4L]
+[...]
+
+Das ganze nützt dir nur nichts wenn du nicht den richtigen kernel/die
+richtige util version hast ;(
+
+
+wtf is ALSA?
+
+Tschüs
+  Vittorio

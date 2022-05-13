@@ -1,0 +1,9 @@
+mount: can't find /dev/girlfriend in /etc/fstab or /etc/mtab
+
+
+mv: when moving multiple files, last argument must be a directory
+Try `mv --help' for more information.
+
+Meinjanur.
+
+Pasquale

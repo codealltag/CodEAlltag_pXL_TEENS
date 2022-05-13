@@ -1,0 +1,8 @@
+* Egon Landfadt <yqztmk@hwoynb-jonsmar.jp>:
+
+
+Er braucht das Feature nicht. Warum sollte er also?
+
+Volker
+-- 
+cross veinless

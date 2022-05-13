@@ -1,0 +1,16 @@
+Adolf Mühlhaus schrieb am 12. April 2000 um 18:44 Uhr folgendes:
+
+
+Genau das war mein ursprünglicher Gedankengang.
+
+
+Na ja, die erste Versuche, die man in einer Programmiersprache macht,
+sollte man meistens sowieso der Einfachheit halber in /dev/null
+entsorgen ;-)
+
+Viele Größe,
+     Valerio Meyerjürgens
+-- 
+It might look like I'm doing nothing, but at the cellular level I'm
+really quite busy.
+                                           -- "Smart Comments", part 22

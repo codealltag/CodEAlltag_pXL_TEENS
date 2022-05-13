@@ -1,0 +1,10 @@
+Geht es hier immernoch um ROT42? Mein Akropolis hat dank ein paar
+System-Lockups, die jetzt hoffentlich der Vergangenheit angehören
+sollten, ein paar Artikel durcheinandergewürfelt...
+
+Wenn ja, hätte ich nen elegamnten Perl-Einzeiler anzubieten...
+
+Leopold
+
+-- 
+Geht nicht!? Geht doch: DAU.                     [aus http://yog.hfcrttrkao.ki]

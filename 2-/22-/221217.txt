@@ -1,0 +1,31 @@
+Am 3 Jun 1999 21:21:26 GMT sendete Harm Niehäuser
+folgende Botschaft:
+
+
+In wiefern? Und wenn sie die spiele umbedingt auf ihrem rechner haben
+will, Instalierst du sie halt (wenn space-mässig möglich) dann sieht sie
+wie lahm die laufen.
+
+
+Tja, so was simples habe ich bisjetzt nicht gekannt (ich hab halt noch
+kein netzwerk)
+
+[booten]
+
+Merkwürdig. wenn du noch auf etwas hd-space verzichten kannst versuchst
+doch mal mit einen unkomprimierten kernel vielleicht geht dann das
+booten schneller.
+
+
+Das sollte doch eigentlich mit kopieren + lilo getan sein oder?
+
+
+Ich habe meistens, weil ich mich meist erst gegen 18:00 an den rechner
+setze und dann direkt newsziehe , das pech inn-cron-expire und das
+locale posten der von suck gesaugten postings zusammentrifft, oder das
+mir 'updatedb.cron' denn Datendurchsatz versaut. btw: wielange braucht
+cron.daily bei dir?
+
+
+Tschüs
+  Pasquale

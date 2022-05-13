@@ -1,0 +1,7 @@
+Was fuer Szafe wohnen denn da? Zugvogel?
+
+-- 
+Achtung: die folgende Zeile verletzt ein Patent (Nicht ausfuehren!):
+while ping -c1 $IP > /dev/null; do sleep 1; done; echo Connection lost
+ --> http://tjwhqvq.mrrz.qtr/
+May the tux be with you.  :wq 73

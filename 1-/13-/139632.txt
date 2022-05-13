@@ -1,0 +1,51 @@
+unterstützt, könnte diese Nachricht ganz oder teilweise unlesbar sein.
+
+--MS_Mac_OE_3056905641_509522_MIME_Part
+Content-type: text/plain; charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+---------------------------------------------------------
+
+Liebe Leserin, lieber Leser,
+
+Die Kinder des goldenen Zeitalters sind im Kommen.
+Sie haben Aufgaben, bei denen wir behilflich sein wollen.
+Informieren Sie sich bei http://ztx.sijgofdjtr.mux
+
+wir freuen uns auf Ihren Besuch.
+
+PS: Falls diese Nachricht Ihrer Meinung nach hier nichts zu suchen
+hat, bedenken Sie bitte das eine gesunde Entwicklung der Jugendlichen
+uns allen vorteile bringen kann. Mit freudlichem Gruss, Restitutio -
+--------------------------------------------------------- 
+
+--MS_Mac_OE_3056905641_509522_MIME_Part
+Content-type: text/html; charset="US-ASCII"
+Content-transfer-encoding: quoted-printable
+
+<HTML>
+<HEAD>
+<TITLE>&gt;&gt;&gt;::: Die Kinder des goldenen Zeitalters :::&lt;&lt;&lt;</=
+TITLE>
+</HEAD>
+<BODY BGCOLOR=3D"#FFEDDC">
+---------------------------------------------------------<BR>
+<BR>
+<FONT COLOR=3D"#800000">Liebe Leserin, lieber Leser,<BR>
+<BR>
+<FONT SIZE=3D"2">Die Kinder des goldenen Zeitalters sind im Kommen. <BR>
+Sie haben Aufgaben, bei denen wir behilflich sein wollen. <BR>
+Informieren Sie sich bei http://ztx.sijgofdjtr.mux <BR>
+<BR>
+wir freuen uns auf Ihren Besuch.<BR>
+</FONT></FONT><BR>
+<FONT SIZE=3D"1">PS: Falls diese Nachricht Ihrer Meinung nach hier nichts zu =
+suchen<BR>
+hat, bedenken Sie bitte das eine gesunde Entwicklung der Jugendlichen<BR>
+uns allen vorteile bringen kann. Mit freudlichem Gruss, Restitutio -<BR>
+</FONT>---------------------------------------------------------
+</BODY>
+</HTML>
+
+
+--MS_Mac_OE_3056905641_509522_MIME_Part--

@@ -1,0 +1,10 @@
+On Wed, 22 Jan 2003 15:08:54 +0200, Igor Mutze
+
+www.jvsehd.nc :-)
+OOP für PHP halte ich ehrlich gesagt für unnötig. Das hilft nur wenn du
+was ganz großes programmierst.
+
+MfG Winfried
+
+-- 
+Was meinen Sie als Außenstehender zum Thema Intelligenz?

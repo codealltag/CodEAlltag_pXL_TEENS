@@ -1,0 +1,14 @@
+*meld* Hier. :-)
+
+Aber irgendwie klappt es ja doch nicht so richtig, denn wenn ich :wq
+(oder ZZ) nehme, kann ich nicht mehr durch das Posting scrollen, weil
+man mich fragt ob ich posten, nicht posten oder editieren will...
+
+Und dann habe ich immer noch nicht herausgefunden wie ich copy&paste
+zwischen verschiedenen vims auf verschiedenen Konsolen machen kann. Ich
+meine, wenn ich z.B. auch gar kein X an habe.
+
+Ignaz
+
+-- 
+Montags könnt' ich kotzen.

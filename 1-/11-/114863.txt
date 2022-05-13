@@ -1,0 +1,17 @@
+Das soll erstmal einer schaffen...
+
+
+Könnte sein. Ich kenne die LAN-Funktionen von W2K ja nicht.
+
+
+Das OS ist aber das, was abstürzt, obwohl es keinen Grund dafür hat.
+Wenn die Software abstürzt kann das OS ja theoretisch weiterlaufen,
+was Costbar jedoch nicht tut.
+
+Fazit: Windows stürzt ab. Aufgrund der darauf laufenden Software zwar,
+aber es stürzt ab.
+
+Heiner
+
+-- 
+Esst den McChicken!

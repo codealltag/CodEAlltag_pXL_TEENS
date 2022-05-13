@@ -1,0 +1,13 @@
+Nein, dann wuerde Reiling Tuning ja auf den PII's sitzenbleiben   :-)
+
+Ich weiss nicht wie man sowas macht, vielleicht erzielt man ja mit Voxeln bessere
+  Effekte, so dass weniger reichen.
+
+Auf jeden Fall bin ich der Meinung, dass fuer so 'einfache' Dinge wie Soldaten
+  Bitmaps ausreichen muessen.
+
+-- 
+MdP Enrico
+"I've seen things you people wouldn't believe. Attack ships on fire off the
+ shoulder of Gartenträume. I watched C-beams glitter in the dark near the kodi gate.
+ All those moments will be lost in time, like tears in rain.  Time to die."

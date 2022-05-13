@@ -1,0 +1,8 @@
+(* Severin Alderson wrote: *)
+
+
+Du weisst aber, dass die zwei Striche bankentechnisch überhaupt keine 
+Bedeutung haben (oder zumindestens nicht die, die du damit ausdrücken 
+willst)
+
+Hanno

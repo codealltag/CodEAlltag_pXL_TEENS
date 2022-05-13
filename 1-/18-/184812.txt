@@ -1,0 +1,29 @@
+Loading Vincent Osterburg v0.3ö, please stand by
+.
+..
+...
+Vincent Osterburg v0.3ö loaded sucessfully. Hey, you registered me! Thanx!
+No errors logged so far. Let's hope.
+Generating status
+status: still alive, hungry
+special-mode: verbose on
+language: ger-altrechtschreib
+size: 1,83m
+quote-of-the-day: "Der Tod loest alle Probleme. Kein Mensch, kein Problem"
+(Cratz)
+Initializing visual input... done
+Initializing oral output... done
+Initializing brian... ERROR! Device "brian" not found. [ignoring]
+2 devices loading successfully, 1 error ignored, continue booting...
+Boot process completed! Waiting for input.
+Generating verbose answer, please wait.
+
+Mein gesamtes Leben so kurz zusammengefasst.
+
+Vincent Osterburg,
+please switch off after use. Thank you.
+
+-- 
+Erwarte immer das Schlimmste und du wirst nicht enttäuscht.
+                                             E-Mail: oniizw@bmlsdwmbhi.ae
+---> Offizieller Kämpfer wider Charles Schmidt-Wesendonk des Ordens von dtju <---

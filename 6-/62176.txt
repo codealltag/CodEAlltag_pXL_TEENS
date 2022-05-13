@@ -1,0 +1,10 @@
+Ja, man kann Call-by-Call machen, was bei NC nicht geht (aber dem
+geduldigen Kunden seit Ewigkeiten versprochen wird).
+
+
+Onlinebanking? Für welche Bank eigentlich? Wer braucht noch so ein
+Onlinebanking-Modul, wo doch jede vernünftige Bank es inzwischen
+geschafft hat, ein sicheres WWW-Onlinebanking zu entwicklen?
+
+
+-nass

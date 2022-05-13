@@ -1,0 +1,7 @@
+Nein. Ein vernünftiger Barkeeper hätte ihm ein Bier gegeben.
+
+mfg, 
+	Silvio
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

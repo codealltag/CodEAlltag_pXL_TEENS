@@ -1,0 +1,17 @@
+Und so sprach Gernot Oemig:
+
+
+Und sehen sich doch so aehnlich.
+
+
+cleuzing@slab2:~> man keymap
+No manual entry for keymap.
+
+
+Das Problem ist, dass ich einige Packages habe, die slang brauchen.
+Wenn ich nun 1.4.5 lokal installiere, gibt das ein Durcheinander.
+
+Gruss,
+Benjamin.
+-- 
+Snow goons are bad news.

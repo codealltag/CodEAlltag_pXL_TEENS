@@ -1,0 +1,13 @@
+So ist das wohl beim Agent.
+
+
+Threading by Subject sagt mir da aber ganz was anderes. Ich habe es
+wegen Einheitssubject extra auf References only gestellt, was ich aber
+wahrscheinlich bald wieder ändern werde. 
+
+In anderen Gruppen ist diese Funktion ziemlich nützlich.
+
+Paolo
+
+-- 
+Dreppenstedt rulez!

@@ -1,0 +1,13 @@
+Das ist mir auch klar. Aber ich beschäftige mich eher mit Urs. Da
+mag der xemacs zur Zeit nur im terminal laufen. Sobald ich den im
+Fenster starten will, gibt er mir noch nichtmal einen Coredump zurück.
+
+Naja, ich habe dem man nach hinten scheduled.
+
+Abdul
+
+-- 
+Die gängigen Marketingkonzepte a la WLV erziehen den Anwender zur 
+Unmüdigkeit, weil er sein System nicht versteht und für jede Anpassung 
+oder Verbesserung der Gnade des Herstellers ausgeliefert ist.
+                                                         c't August '98

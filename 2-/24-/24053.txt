@@ -1,0 +1,12 @@
+Und so sprach David Fleschen:
+
+
+Ja, das auch. Aber die gibt's ja eh zuhauf ... Allerdinsg nicht nur
+Bands, sondern auch Typen. ;)
+
+Gruss,
+Edmund.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.q

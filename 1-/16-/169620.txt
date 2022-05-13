@@ -1,0 +1,12 @@
+[ ] Du bist witzig.
+
+Deine !-Taste prellt. In der 2. Zeile muesste es _Man_ heissen. In der
+3. Zeile fehlt ein "i"
+
+
+Da ist ein "-" zuviel. Ausserdem fehlt ein Leerzeichen.
+
+
+Wo ist sie eigentlich?
+
+Lorenz

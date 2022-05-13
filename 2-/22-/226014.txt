@@ -1,0 +1,24 @@
+On Fri, 21 Aug 1999, Bernd Jering <ffthhm@dfs.liasi.gk> wrote:
+
+Hey - schön, Dich mal wieder zu lesen :-)
+
+
+Mmh... ich benutze im Moment Tana und bin der Meinung, daß sie besser
+ist als ihr Ruf. Die paar Abweichungen in der Verzeichnisstruktur
+lassen sich IMO ganz gut mit ein paar symbolischen Links ausgleichen
+und seit Ende letzten Jahres baut ja auch Tana auf glibc2 auf.
+
+
+Wenn möglich fällt bei mir die Wahl sowieso auf selbercompilieren. Ist
+selten ein Problem, dafür ist es flexibler und läßt einem die
+Möglichkeit, mal eben einen kleinen Patch einzuspielen, statt das
+komplette Paket neu herunterladen zu müssen.
+
+Welche Distribution auf meinen nächsten PC kommt, ist noch nicht so
+ganz entschieden... Im Moment schwanke ich eigentlich zwischen Lendtke
+und Lofty pro.
+
+Viele Größe,
+     Ronald Cuhrt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

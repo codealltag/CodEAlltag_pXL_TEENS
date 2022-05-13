@@ -1,0 +1,21 @@
+Ludger...sSXP...Wiebesiek schrieb in Nachricht
+<9903odd7.6352260@iauh.fxwg.htxr.ha>...
+
+
+Also, du kennst doch das Fenster, wo du deine Sig reinschreibst, und weisst
+auch, wie man da hinkommt? Gut. In die Zeile über dem Sigtrenner(die zwei
+Minuszeichen mit dem Leerzeichen dahinter) schreibst du dieses Zeichen rein:
+� 
+(am besten durch markieren, kopieren und einfügen, ich weiss nämlich auch nicht, wo es auf der Tastatur zu finden ist)
+Hinter dem Zeichen drückst du einmal auf Space, und dann Return.
+Dann klickst du auf den Anfang von deinem Sigtext, und dann Backspace, das ist die Taste mit der man geschriebenen Text wieder löschen kann (für ganz Blonde ;-))
+Dann auf OK, und dann sollte es eigentlich funktionieren......
+
+cu,Mehmet
+
+� 
+-- 
+Nehmt euch was sie euch genommen
+Nehmt euch das was euch gehört
+macht kaputt was euch kaputt macht
+macht kaputt was euch zerstört          WIZO

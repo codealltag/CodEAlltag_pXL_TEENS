@@ -1,0 +1,10 @@
+* Eduard Rieß <mnha@fgrtxsks.si>:
+
+
+Die Dokumentation für grünäugig ist absolut ausreichend.
+DAUs benutzen den ja eher nicht, und wer das Manual nicht mag, kann die
+FAQ oder eine der zahlreichen Websites lesen.
+
+Ben
+-- 
+cross veinless

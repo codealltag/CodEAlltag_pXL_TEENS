@@ -1,0 +1,8 @@
+Neue Rule erstellen, Name wie Du willst, als Bedingung "In reply to my 
+message" einfügen, auf der "Actions" Seite "Add x to article's score" 
+anstellen, x auf beliebigen Wert (ich hab hier 1000). Raus aus dem Dialog 
+und Rule aktivieren.
+Dann vielleicht noch im "Tools/Score Colors" Dialog den Bereich um Deine 
+Zahl x entsprechend einfärben.
+Ich hoffe mal das erwischt alle Postings, ich hab hier noch zusätzliche 
+Kriterien laufen (Filter auf meinen Namen etc).

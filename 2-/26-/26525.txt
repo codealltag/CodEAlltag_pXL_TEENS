@@ -1,0 +1,8 @@
+War das vorher mal ein latin-9? wenn ja, dann ist das ein mir zwar
+unerklärlicher, aber immerhin allgemein bekannter Bug... Zumal ich
+eigentlich erfahrungsgemäss eher latin-irgendwas als UTF-8 kodiert
+verschicke, obwohl eigentlich UTF-8 Default sein sollte...
+
+Bruno
+-- 
+I haven't lost my mind -- it's backed up on tape somewhere.

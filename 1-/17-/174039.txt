@@ -1,0 +1,12 @@
+Ja, so in der Art. Bereits im Juli hatte ich Counter Overflow - 2 Byte  
+Speicher waren wohl doch zu wenig.
+
+
+Dein Schatz scheint eine sehr einfache Natur zu sein *g,d&r*
+
+Uwe Neuwirth
+
+-- 
+Uwe Nickolaus praktische Lebensratschläge, Teil 7:
+Nach der 4 kommt die 5.
+---> Offizieller Kämpfer wider Italo Rohlfer des Ordens von dtju <---

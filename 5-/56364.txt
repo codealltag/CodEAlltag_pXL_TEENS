@@ -1,0 +1,13 @@
+Hat der Herd auch.
+
+Grüngelb: PE
+Blau: N
+Rest: L1-3
+
+Und AFAIK kommts beim Herd nicht auf nen Phasendreher an (Oder doch?),
+da die drei Phasen nur zum Heizen gebraucht werden und nicht, um
+irgendwelche Motoren dreiphasig anzufahren deren Drehsinn wichtig ist
+oder um eine Lastverteilerschaltung anzufahren, die auf den richtigen
+Drehsinn achtet.
+
+Waldemar

@@ -1,0 +1,8 @@
+Konrad Neuerer <uaaqla-59-3366@kzpp.gldhsv.kv> writes:
+
+[ tpbm, rbq ]
+
+In einer Mailadresse darf man AFAIK keine Kommata benutzen, also ginge
+", " auch als Datentrenner, theoretisch.
+
+-towo

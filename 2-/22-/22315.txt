@@ -1,0 +1,13 @@
+Und so sprach Fabrice Depperschmidt:
+
+
+Das ist nun mal die Art, wie ein neo-liberal erzogener Buerger denkt.
+Solange es nicht zu teuer wird oder verboten ist, gibt's keine
+Hemmungen. Ich finde das sehr anschaulich.
+
+Gruss,
+Wilhelm.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.j

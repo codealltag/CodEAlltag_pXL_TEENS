@@ -1,0 +1,9 @@
+Hast Du denn jemanls schon was in VB programmiert? HTML sogar keine "echte"
+Programmiersprache, jedenfalls würde ich diese nicht als solche bezeichnen.
+HTML ist noch nicht einmal eine Script-Sprache.
+
+VB hingegen ist eine sehr gute Programmiersprache und mittlerweile in der
+neuesten Version eine ernstzunehmende Konkurrenz für C++ Programmierer
+geworden.
+
+Benjamin Ueberlacker

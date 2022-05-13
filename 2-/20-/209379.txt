@@ -1,0 +1,11 @@
+Am 23 Mrz 1999 22:11:25 GMT sendete Ralph Eisenschmid
+folgende Botschaft:
+
+
+Unixe Rechnen Intern nur mit 'sekunden seit 1969-01-01 00:00:00 UTC'
+also gibt es keine tage ;) Die umrechnug erfolgt nur weil die user zu
+doof sind mit dieser zahl (932235156 vor ein paar sekunden) etwas
+anzufangen ;) Also gibt es keine Tage ;)
+
+Tschüs
+  Dennis

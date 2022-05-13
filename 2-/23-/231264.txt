@@ -1,0 +1,12 @@
+So was Perverses kommt mir nicht auf die Platte ;-)
+
+
+Klar - wenn ich speicherintensive Programme benutze, wird automatisch
+weniger Speicher als Cache verwendet. Das ist ja gerade das Schöne (es
+wäre wohl mehr als unklug, 'auf Verdacht' zu cachen und gleichzeitig
+Speicherbereiche aktiver Programme zu swappen).
+
+Viele Größe,
+     Mirko Berndfüchtenschneider
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,12 @@
+Na ich gehe am 17.4. auf ein Konzert von denen. 
+
+
+Stimmt. *g* 
+
+Luca
+
+-- 
+Max:~$ whoami
+root
+Max:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Sven Nowitzki]

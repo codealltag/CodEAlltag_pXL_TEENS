@@ -1,0 +1,9 @@
+Also die Festplatte sollte nicht das Problem sein und RAM eigentlich
+auch nicht. Der Prozessor macht eigentlich die Hauptarbeit. Der PII 266
+sucht z.B. im 10Mbit Netzwerk radikal viel schneller als der P120
+daneben.
+
+CU
+Italo
+-- 
+Macht Watt ihr Volt.

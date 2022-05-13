@@ -1,0 +1,39 @@
+ins
+
+Mal eine Frage: Wo hat man denn euch rausgelassen? Von nichts 'ne Ahnung,
+aber hier groß umtönen  "VB ist keine Programmiersprache" oder "der
+verwendete Newsreader spricht gegen Newsgroupaktivit�ten".
+
+Erst mal zum Newsreader: Ich bin seit 2 1/2 Jahren aktiv in diversen
+Newsgroups vertreten, bisher hat sich noch keiner über meinen Newsreader
+beschwert, da ich er Ansicht bin, dass ich das Teil einigermaßen beherrsche
+ohne anderen großartig auf den Wecker zu gehen (für den Inhalt der Beiträge
+kann der Newsreader ja nichts ;). Wer der Meinung ist bessere Reader zu
+verwenden, glückwunsch. Ich schreibe anderen Leuten auch nicht vor, was für
+eine Software sie verwenden sollen.
+
+Zu VB: VB ist mit Sicherheit eine Programmiersprache, wer etwas anderes
+behauptet, sollte sich erst mal mit Programmiersprachen als solches
+beschäftigen, bevor er hier seine unqalifizierten Behauptungen in den Raum
+stellt. Wie gut oder wie schlecht VB ist, ist wieder eine andere Sache. Fakt
+ist jedoch, dass VB ab der Version 5 in allen Belangen mächtig zugelegt hat,
+im Gegensatz zu seinen Vorgängern. Auch die Geschwindigkeit profitierte
+davon.
+
+Meine Kunden interessiert es jedenfalls nicht, womit ich die Anwendung
+geschrieben habe. Die Interessiert nur eins: Das die Sache schnell & stabil
+läuft. Und über beides habe ich bisher keine Beschwerden gehört. Sei noch zu
+erwähnen, dass ich meine Anwender im Ernstfall schon am nächsten Tag mit
+Verbesserungen beglücken kann.
+
+Nich umsonst, sage ich immer: Während der C'ler noch an seiner Oberfläche
+bastelt, läuft meine Anwendung schon auf dem Rechner des Kunden. ;)
+
+Das ich VB favorisiere, schließt ja die Verwendung und Existenz von anderen
+Entwicklungsystemen nicht aus, so hat VB halt seine Vorteile, bei der Arbeit
+mit Datenbanken, LGPS trumpft durch seine Runtime-Losigkeit auf, mit C
+kann man verdammt Systemnah Programmieren und mit Java arbeitet man
+Platformunabh�ngig.
+
+mfg
+Clemens Enck

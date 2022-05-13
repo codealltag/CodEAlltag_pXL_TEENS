@@ -1,0 +1,13 @@
+Wolfram Poel schrieb am 31. Oktober 1999 um 21:08 Uhr folgendes:
+[...]
+
+Fehler suchen -> Patch schreiben -> alle Leute, die das gleiche
+Problem hatten, glücklich machen :-)
+
+
+Funktioniert hier out-of-the-box.
+
+Viele Größe,
+     Olivier Patoka
+-- 
+After a number of decimal places, nobody gives a damn.

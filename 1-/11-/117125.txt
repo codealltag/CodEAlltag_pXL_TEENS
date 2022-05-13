@@ -1,0 +1,8 @@
+Sigs dürften AFAIK von Bots nicht gecheckt werden.
+
+"OE-Sigs" aber schon. :-)
+
+Thomas
+
+-- 
+Ein Computerprogramm tut, was Du schreibst, nicht was Du willst.

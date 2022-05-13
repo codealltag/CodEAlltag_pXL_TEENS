@@ -1,0 +1,9 @@
+Meinrad Scheickenpflug wrote:
+
+[$EDITOR=pico]
+
+Schau dir mal an was für Namen vielverwendete Programme unter Unix/Linux
+haben.
+"And pipe the output to a more or less program" oder so.
+
+Uwe

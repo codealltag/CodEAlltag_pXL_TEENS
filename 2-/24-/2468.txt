@@ -1,0 +1,7 @@
+Irgendwas sagt mir, dass bpe das nicht so empfand ;)
+
+Heribert
+-- 
+a² + b² = c² [Pythagoras]
+E = m*c² [Menges]
+=> E = m*(a² + b²)

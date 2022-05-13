@@ -1,0 +1,7 @@
+Ein Fernglas wäre gut...
+
+Heiner
+
+-- 
+Microsoft Entwicklungsumgebung:
+"Eine Ausnahme von Typ 'Unbekannte Ausnahme' wurde nicht behandelt."

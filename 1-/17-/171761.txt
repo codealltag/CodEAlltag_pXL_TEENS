@@ -1,0 +1,15 @@
+Oskar Usler schrieb am 29. August 1999 um 16:09 Uhr folgendes:
+
+[seltsames Zeichen im Subject]
+
+Ich habe halt in dem Moment darauf geachtet, weil ich mich um die
+UTF-8 Dekodierung für den slrn bemüht habe und schon Bedenken hatte,
+dass ich dabei einen Fehler gemacht hätte. Mein Posting war keineswegs
+als Meckerei gedacht, auch wenn es vielleicht so angekommen ist.
+
+Viele Größe,
+     Arno Ziegenfuhs
+-- 
+ Q: I was listening to a CD in Grip and it sounded horrible! What's up?
+ A: Perhaps you are listening to country music...
+                                                        -- grip 2.5 FAQ

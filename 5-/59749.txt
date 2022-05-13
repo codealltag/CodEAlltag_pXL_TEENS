@@ -1,0 +1,30 @@
+Am Thu, 22 Mai 2001 sendete Rainer Riecker folgende Botschaft:
+
+
+Antennenkabel hat 60 oder 90 Ohm widerstand (oder so ähnlich, die
+betreffende Bl ist schon etwas her). Aber nicht real sondern
+spezificher.
+
+
+Für 300W mit 3V Spannung brauchst du schon einen ganz ordentlichen
+Strom.
+
+
+~ ;)
+
+
+Das ist kein Abschirmungsproblem. Irgendwo gibt es ausgleichstr�me die
+nicht sein dürfen.
+
+
+Um die Ohren zu vergewaltigen?
+
+
+Wenn ich das in dtju benutzt hätte, das kapiert doch wieder jeder. ;)
+
+Tschüs
+  Othmar
+-- 
+Die � Weisheiten des Tobias Thierry:
+
+Vorstand Raus.

@@ -1,0 +1,10 @@
+Nico Drabert wrote:
+
+[Agent]
+
+a) Sagte er, daß er unter Windows arbeiten will?
+b) Läßt man wisztige CLI-Apps auf $UNIX in einem Screen laufen, damit
+die Applikation noch läuft wenn mal wieder $WINDOOF abgestürzt ist.
+screen -r und gut ist.
+
+Gerald

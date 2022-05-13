@@ -1,0 +1,18 @@
+Und so sprach Jochen Eichholtzer:
+
+
+wnmka@tfuadkg:~> ps aux
+USER  %CPU %MEM   VSZ   RSS TT  STAT STARTED    TIME COMMAND
+oliver 12.0 14.4  9700 28208 ??  R     1:27PM 0:14.00 /usr/X11R6/lib/mozil
+root   7.7 13.3  7076 25996 ??  R    12:58PM 0:50.96 /usr/X11R6/bin/X :0
+chris  0.0  2.2 10384  4388 ??  S     1:07PM 0:00.03 /usr/pkg/bin/opera -
+
+Nein.
+
+Gruss,
+Oliver.
+-- 
+Onno Haerinck
+
+                                                       Tschiertschen, Switzerland
+                                           <URL:http://qma.tgydikdao.km/~gqpjj/>

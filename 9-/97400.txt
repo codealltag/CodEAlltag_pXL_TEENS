@@ -1,0 +1,11 @@
+leafnode? Mit make und configure und so. Wäre das dann selbst
+kompiliert? [1][2]
+
+[1] Mein Gott. Noch nicht mal das weiß ich. *heul*
+[2] Kann man make uninstall machen? Würde ja passen...
+
+Marcel
+
+-- 
+Die letzten Worte des Nachtwächters:
+"Ist da jemand?"

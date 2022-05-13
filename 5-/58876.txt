@@ -1,0 +1,7 @@
+Da der Hamster hier auch irgendwie mitläuft, könnte ich das wohl damit
+machen. Aber eigentlich soll der so wenig tun, wie möglich.
+
+Ralf
+
+-- 
+Wie krieg ich das hin, dass hier das Now-Playing angezeigt wird, hm?

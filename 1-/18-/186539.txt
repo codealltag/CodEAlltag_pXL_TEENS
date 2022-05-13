@@ -1,0 +1,9 @@
+Am Mon, 14 Apr 2000 sendete Ulrich Zuckermandel folgende Botschaft:
+
+
+Für den fall das irgend ein krankes programm die References zeile nicht
+direkt nach dem '>' abschliesst. Allerdings hab ich das noch nie
+gesehen. 
+
+Tschüs
+  Willy

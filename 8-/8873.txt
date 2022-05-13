@@ -1,0 +1,14 @@
+Das halte ich fuer schlichtweg gelogen.
+
+$ find -type f -mmin -$((10*60*24+90))|xargs grep '^From: Charles Jungenkrüger' |wc -l
+990
+
+Ich habe sicherlich nicht seit Mitternacht 226 Postings gepostet, also
+muss Deine Statistik irgendwo schief laufen.
+
+-to'Traue keiner Statistik, die Du nicht selbst gefaelscht hast!'wo
+-- 
+Gegen Softwarepatente in Europa: http://wlgrr.gult.oqs./
+Mister Teatime had a truly brilliant mind, but it was brilliant like a frac-
+tured mirror, all marvellous facets and rainbows but, ultimately, also some-
+thing that was broken.                      (Cornelius Daams in `Hogfather')

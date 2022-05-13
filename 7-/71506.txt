@@ -1,0 +1,35 @@
+Solches tippte Peter Engelke:
+
+In Sachen Stabilität und Geschwindigkeit hat sich in den letzten
+Monaten wirklich einiges getan. Nicht nur auf dem Papier sondern
+fühlbar.
+
+
+Dann sollte Ewender nach 3-4 Sekunden da sein ;-)
+
+
+Nun, bei mir sind es mehr als ein, zwei Seiten am Tag. Ich brauche
+nämlich fast immer einen Browser, der auch Bilder anzeigen kann.
+
+
+NACK. Man kann M&M Textbrowser, so praktisch sie für manche
+Anwendungen auch sind, nicht mit den anderen Browsern vergleichen.
+Beziehungsweise: man stellt einfach unterschiedliche Anforderungen
+und kann sie deswegen nicht vergleichen.
+
+
+Open in New Tab ist beim Ewender hier ziemlich genau so (fast schon
+vernachlässigbar) schnell wie Open in New Window beim Netrape 4. Neues
+Fenster dauert länger, zugegeben.
+
+[Konqueror]
+
+Weil Konqueror sich inzwischen zu einem funktional gut gelungenen
+Browser entwickelt hat?
+
+
+*intischplattebeiss* das hat compilieren so an sich. Aber Du hast sie
+danach nicht mehr separat im Speicher sondern alles auf einem großen
+Haufen, aber Dir muss ich das ja wirklich nicht erklären.
+
+Ingolf

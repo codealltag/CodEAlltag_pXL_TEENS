@@ -1,0 +1,19 @@
+Am Fri, 05 Okt 2000 sendete Christoph Farber folgende Botschaft:
+
+
+Was ist an vim bitte ungetüm? Kann es sein das du von Emacs sprichtst?
+
+
+Alle routinet�tigkeiten (Quoting neu umbrechen, Speichern & verlassen
+usw) leigen auf zwie buschtaben kombis, so what?
+
+
+gvim?
+
+
+Man keymap ;)
+
+Tschüs
+  Niko
+-- 
+Ich hasse Hormone

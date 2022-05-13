@@ -1,0 +1,13 @@
+Und so sprach Guido Ehrenthaler:
+
+
+I see. :)
+
+
+Die hängt wiederum von der Tagesform ab.
+
+Alfons, Keksform.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.n

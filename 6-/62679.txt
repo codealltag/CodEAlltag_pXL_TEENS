@@ -1,0 +1,11 @@
+Henri Leible meinte kundzutun:
+
+
+Und? Du setzt einfach einen DSL-Flatti dran, die Adressen aus den
+Reply-To-Headern auszwerten. ws.*,!de.alt.dateien.* ist mit DSL *dicke*
+drin. Diehe meinem hamster@home.
+
+Antoine
+-- 
+Dieser Artikel ging an folgende Newsgroups: vf.ouai.euehvr
+Er wurde am Donnerstag, dem 7. Oktober im Jahre des Herrn 2002 verfaßt.

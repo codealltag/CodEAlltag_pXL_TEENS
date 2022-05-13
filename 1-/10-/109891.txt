@@ -1,0 +1,15 @@
+* Horst Rumpf <pywxfur277563@rvsrjf.hs-y.ba>:
+
+
+Was mache ich mir nicht für Mühe:
+
+- ich bekomme alle Cancel für dtju
+- ich führe alle Cancel innerhalb von Sekunden nach Eintreffen aus
+
+Und es reicht ihm immernoch nicht.
+
+*heul*
+
+Tino
+-- 
+cross veinless

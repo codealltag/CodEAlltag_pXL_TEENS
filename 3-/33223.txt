@@ -1,0 +1,7 @@
+addn = (\x -> (\n -> ((+) x n)))
+
+Müßte korrekt sein.
+-- 
+Das heisst jetzt "social awareness", weil das der politisch korrekte
+Ausdruck für "political correctness" ist. 
+                                                         Roland Lugenbühl in dafa

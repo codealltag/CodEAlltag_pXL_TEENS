@@ -1,0 +1,13 @@
+Jepp. Vorher konnte ich noch recht coole Sachen machen und mich dran
+erfreuen. Im dritten Akt muss man an fast *jeder* Stelle mehrmals
+laden. Das ist nicht mehr so lustig.
+
+
+Man wird erwachsener. ;-)
+
+Armin
+
+-- 
+  "The Radieschen Information Store service depends on the Rumm
+   OLCD Directory service which failed to start because of the
+   following error: The operation completed successfully."

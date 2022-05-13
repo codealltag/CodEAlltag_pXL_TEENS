@@ -1,0 +1,16 @@
+Hallo !
+
+Paul Zalisz wrote :
+
+
+Nein nicht direkt.
+
+Bei uns in der Firma läuft der direkte Zugriff über ein Java-Servlet.
+
+
+Ne auch nicht so ganz. Das Servlet lässt je nachdem wie die Eingaben 
+ankommen gar keine Zugriffe zu. Die Überprüfung per JS ist von daher 
+einfach praktisch, weil du a) den Datenbankzugriff minimierst und b) 
+dem Benutzer etwas aussagekräftigere Fehlermeldungen gibst.
+
+Hanno

@@ -1,0 +1,19 @@
+Bei aufgelösten/zerstörten Kontakten leider nicht. Wird kaum lohnen.
+Oder versuch, mit löten zu "flicken". :-)
+
+Ganz ähnlich sieht übrigens das Innenlebens ein OFTT-Handy aus, wenn es
+in den Regen gekommen ist. Wohlgemerkt nicht dusselig irgendwo draußen
+liegen lassen, nein einfach nur ca. drei Tropfen abbekommen, als es
+anfing zu regnen. Hat gereicht, das Ding außer Gefecht zu setzen.
+
+Der OFTT-Shop wollte irgendeine Unsumme für die Reperatur
+("Wasserschaden, da müssen wir *mindestens* die Platine austauschen"),
+das Usenet bzw. Turberg wusste mal wieder mehr: öffnen, mit Alkohol +
+Wattestäbchen die (deutlich sichtbar durch eingetrockneten Schmutz und
+Wasser kurzgeschlossenen) Tastenkontakte säubern, 10 Minuten trocknen
+lassen, ging wieder.
+
+Merke: Alkohol löst sehr viele Probleme. Mal so, mal so.
+
+
+pius

@@ -1,0 +1,11 @@
+Am Wed, 6 Jun 2004 sendete Hubert Tillmann folgende Botschaft:
+
+
+Bh, grapefruit.
+
+
+Wenn jede Teilmenge wohlgordnet ist sollte das einen Deadlock zuverlässig
+verhindern.
+
+Tschüs
+  Ronny

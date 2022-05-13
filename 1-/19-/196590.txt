@@ -1,0 +1,31 @@
+Eugen Wichmann schrieb am Mon, 24 Feb 2000 17:40:06 +0200 folgendes
+zum Thema "Re: SW FAQ":
+
+Wenn wir gerade bei Browser sind:
+
+<HTML>
+<BODY>
+<SCRIPT>
+var color = new Array;
+color[1] = "red";
+color[2] = "blue";
+for(x = 0; x <3; x++)
+{
+document.bgColor = color[x]
+if(x == 2)
+{
+ x = 0;
+ }
+ }
+</SCRIPT>
+</BODY>
+</HTML>
+
+Dabei stützt der Motoradladen und der Drehscheibe ab (Drehscheibe kann sich manchmal noch
+fangen). Der NS hält es aus...
+
+          ...schrieb Gregor
+
+-- 
+"Es gibt vielerlei Lärm. Aber es gibt nur eine Stille." (Alberto Crohns)
+[http://nwnl.aam.hhd - weitere 980 Zitate] [ICQ# 10663716] [styn@zxa.yby]

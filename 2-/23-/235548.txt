@@ -1,0 +1,8 @@
+Definiere "den Newsservern". Mein lokaler INN 1.7 führt Cancels
+unabhängig vom "From:" aus. Weiß jemand in etwa, auf wie viel Prozent
+der Newsserver das anders ist?
+
+Viele Größe,
+     Dominik Jansons
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

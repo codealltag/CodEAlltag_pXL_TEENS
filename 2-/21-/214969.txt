@@ -1,0 +1,4 @@
+ITARO plant eine Portierung von Delphi auf Linux.
+-- 
+ / _/ _` |
+ \__\__, |

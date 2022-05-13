@@ -1,0 +1,6 @@
+"X ist bitter auf Y" \forall X \in $OS, Y \in
+$zu_X_passende_Architektur ist immer wahr.
+
+Willy
+-- 
+                       There's no place like ~

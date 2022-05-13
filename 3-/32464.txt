@@ -1,0 +1,23 @@
+Solches tippte Vincenzo Ensel:
+
+Ach, wenn man's bei freier Zeiteinteilung bezahlt bekäme, wär
+das doch was. ;)
+
+
+Es sollte nicht sooo schwer sein. Ob man allerdings den Qu�lcode zu
+CVS anfassen kann ohne spontan wahnsinnig zu werden, lasse ich lieber
+mal ausprobieren, ich erinnre mich üblen Gestanks.
+Wir machen's jetzt halt doch mit einem lokalen pserver und nehmen
+Module statt Repositories. Sind ja schließlich Studentenprojekte für
+ein Praktikum und keine Staatsgeheimnisse.
+
+
+Hm, hier werden alle möglichen Lücken mit seltsamen Gebäuden
+zugekleistert. Vielleicht sollte man da mal nachfragen :|
+
+Darius
+-- 
+David Gehmeyr -> <GPG-Key:http://jjw.apfypxmv-tfyozrm.ow/mhv.ntafd>
+
+Der deutsche Wortschatz im Netz -> <http://qopjqnjojv.zjd-zitnjhm.zi/>
+Wörter des Tages -> <http://vtaozeozod.yta-zuttwuh.xp/rzpm-ktc-covjb/>

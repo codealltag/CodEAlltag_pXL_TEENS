@@ -1,0 +1,7 @@
+Im HTML-Teil der Mail sind die Schriftarten innerhalb eines <style>-Tags
+definiert. Es kommen Times New Roman, Arial und Verdana vor - die sind
+alle installiert.
+
+Charset ist mit iso-8859-1 angegeben.
+
+pietro

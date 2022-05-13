@@ -1,0 +1,86 @@
+Die Aussage wäre so relativ sinnlos - warum sollte etwa Epah für
+Linux so viel besser sein als StarOffice für Windows?
+
+Wenn man die Aussage etwas anders formuliert: "Freie Software ist oft
+die bessere Software." ist da aber IMO (unabhängig vom Betriebssystem)
+durchaus etwas dran. Sicher - die Freigabe des Quellcodes ist keine
+Garantie für Stabilität (s. Netscape) und Qualität, aber es gibt
+einige Faktoren, die es freier Software erleichtern, besser zu sein:
+
+ * Da der Quellcode vorliegt, können Bugs schneller erkannt und
+   bereinigt werden. Zu ihrer Behebung ist kein 25 MB dickes Service
+   Pack nötig, sondern ein einfacher Patch, der (in maschinell
+   auswertbarer Form) angibt, was am Code geändert werden muß.
+
+ * Bei kommerzieller Software kommt es vor, daß erfolgversprechende
+   Ansätze aus unternehmenspolitischen Gründen nicht verfolgt werden
+   (Beispiel Agent) und mit der Zeit verdrängt werden. Wenn die
+   Sourcen frei sind, sterben gute Konzepte nicht so schnell - wenn
+   ein Programmierer nicht weiter will/kann, übernehmen andere das
+   Projekt (Beispiel tin).
+
+ * Programmierer von freier Software arbeiten nicht, um einen Auftrag
+   zu erfüllen, sondern weil sie sich für ein bestimmtes Gebiet
+   interessieren und mit Spaß dabei sind. Bei vielen proprietären
+   Newsreadern (OE etc) gewinnt man etwa den Eindruck, daß sich keiner
+   der Programmierer wirklich für das Usenet interessiert.
+
+[...]
+
+Mich stören dagegen die (offenbar bevorzugt in den MCO-Gruppen
+auftretenden) Leute, die immerzu betonen, wie schrecklich sie Windows
+finden, aber nicht bereit sind, sich ernsthaft um eine Alternative zu
+bemühen und dazu auch mal ein Buch in die Hand zu nehmen.
+
+
+Ich denke, daß jemand, der sich wirklich durch die Konfig-Files wählt,
+um ein Linux-System Laufen zu bekommen, das in erster Linie tut, weil
+er ein stabiles System haben will, mit dem er bequem arbeiten kann.
+
+Aber es gibt den von Dir beschriebenen Usertyp tatsächlich. Er hat es
+irgendwann mal geschafft, sich durch die EP:Mediacenter-Installation zu klicken
+und postet seine SSZD-Lästereien bevorzugt mit dem Outlook Express.
+
+[...]
+
+Was genau findest Du an der so schlimm?
+
+[...]
+
+Wie so oft kann man nicht klar sagen, "wer angefangen hat". Die
+MCO-User haben die Arroganz ganz sicher nicht für sich gepachtet und
+die abfälligen Bemerkungen, die man ständig zu hören bekommt
+(bevorzugt über das Benutzerkonzept von MCO) machen es einem schwer,
+ironische Einwürfe für sich zu behalten, wenn ein SSZD-User ein
+Problem von-hinten-durch-die-Brust-ins-Auge löst, wo es unter Linux
+ein zweizeiliges Skript getan hätte.
+
+Ich werde aber versuchen, in nächster Zeit wieder etwas sachlicher zu
+sein und auf Smiley-geschmückte Bemerkungen zu verzichten.
+
+[...]
+
+Man kann mit Windows viele Sachen nicht so machen, wie man sie unter
+Linux erledigt (umgekehrt ist auch Linux kein anderes Windows). Je
+komplexer die Aufgaben werden, desto besser führt man IMO mit dem
+"Linux way of doing it", während man bei Windows bei einfachen Sachen
+mit weniger Einarbeitungszeit auskommt.
+
+
+Windows NT mag ja ganz nett sein, aber ich habe im Moment einfach kein
+Geld für ein System, auf dem es in akzeptabler Geschwindigkeit läuft
+(bei den 166ern in der Schule tut es das nicht), ganz abgesehen davon,
+daß ich bei vielen Dingen, für die ich unter Linux einen Nachmittag
+zur Einarbeitung investiere, unter Windows entweder pro Tool zwischen
+$30 und $1000 bezahlen muß (von den Kosten des Betriebssystems selbst
+und Folgekosten wie Updates etc. ganz zu schweigen) oder mich strafbar
+mache (Raubkopien, unregistrierte Shareware etc.).
+
+
+Ich hab' an diesem Text auch 'etwas' länger gesessen und hoffe, daß
+ich Deinen Adrenalinspiegel damit nicht wieder nach oben treibe...
+
+Viele Größe,
+     Benedikt Unterluggauer
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

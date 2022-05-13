@@ -1,0 +1,12 @@
+Am Sun, 30 Mrz 1999 sendete Mauro Weidelich folgende Botschaft:
+
+
+------
+21:06:05 ~$ps ax | wc -l
+     58
+------
+
+Ist eigentlich ein Mittleren Wert.
+
+Tschüs
+  Tim, noch fragen?

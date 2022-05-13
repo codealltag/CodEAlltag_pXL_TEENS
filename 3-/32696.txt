@@ -1,0 +1,13 @@
+Nein. Python zwingt den Programmierer, schönen Code zu schreiben. Nicht 
+zwingend guten Code, aber lesbar ist er immerhin.
+
+
+Nicht zwingend. Wenn du genug Zeit damit verbratest, falsch 
+verschachtelte ifs zu verarbeiten, dann merkst du das in jeder Sprache.
+
+
+Bei den Amis ist Informatik Computer Science. Was du meinst ist 
+*Computational* Science und das hat mit Informatik nichts zu tun.
+
+
+Cooles Studium wo man nicht mal programmieren lernt...

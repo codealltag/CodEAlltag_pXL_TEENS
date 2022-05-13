@@ -1,0 +1,18 @@
+Ach diese Gewinnspiele interessiern mich nicht die Bohne. Ich gewinn eh
+nie was. Meinem bis dato einzigen Gewinn bei einem Gewinnspiel habe ich
+drei Wochen hinterherrennen müssen. Heute dient er als Staubfänger.
+
+
+Eher nicht, wie ich diverse Leute kenne, wird mir direkt wieder der Mund
+verboten, sobald ich auch nur ansetze.
+
+
+Sagst du, diverse Leute sind da anderer Meinung.
+
+Volker
+
+-- 
+Ulfert:~$ whoami
+root
+Ulfert:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Gustav Zuber]

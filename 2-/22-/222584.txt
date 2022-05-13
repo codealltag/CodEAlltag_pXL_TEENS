@@ -1,0 +1,10 @@
+Laut RFC hat eine Msg-ID die Form <irgendwas@FQDN>.
+Die IP deines Rechners ist kein Full Qualified Domain Name
+  (ich glaube die Diskussion hatten wir schonmal).
+Um sie regelkonform zu machen, stellst du es am besten so ein, dass
+  statt '231.413.7.1' 'lvls.ylmxg.jqy' da steht.
+
+-- 
+Werner
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

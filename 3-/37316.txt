@@ -1,0 +1,9 @@
+Am Mon, 19. 09. 22 sendete Gunda I Bachfischer folgende Botschaft:
+
+
+Klingt nach einer akzeptabelen Lösung, wir definieren einfach:
+
+nicht da := Score < -100
+
+Tschüs
+  Richard

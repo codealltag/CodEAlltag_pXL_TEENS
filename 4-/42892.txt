@@ -1,0 +1,12 @@
+Wenn du die ganze Rechenzeit, die der gemeine Code Redler beim
+Hackversuch verbraucht, über hast, ist es einen Versuch wert. Unter
+der Bedingung, dass ihr NATed und nur port 80 erlaubt ist. Mit proxy
+wird's schwer. Schau dir mal allkauf an. ;)
+
+
+M�hgrunzmiau.
+
+-towo
+-- 
+Philosophy:  A route of many roads leading from nowhere to nothing.
+- Philippe Rosenlehner

@@ -1,0 +1,18 @@
+Ich mache so langsam Fortschritte. Gestern installierte ich Senfert und es
+lief auch gleich. :-)
+
+Leider bringt Gnus weiterhin mein Emacs zum Abstürzen und die
+DF-Konfiguration scheint nicht richtig gespeichert zu werden. :-(
+
+
+Aber nie! ;-)
+
+
+JULIANE. Macht echt Spaß, obwohl wir bisher nur kleine Rechenprogramme
+erstellen.
+
+Edgar
+
+-- 
+Wenn etwas klemmt, wende Gewalt an.
+Wenn es kaputt geht, hätte es sowieso erneuert werden müssen.

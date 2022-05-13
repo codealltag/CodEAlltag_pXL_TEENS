@@ -1,0 +1,15 @@
+Ich verstehe zwar nicht ganz, wie Du von der Aussage, daß die Jossen-
+Entwickler den Systemadmins eine Wahlfreiheit lassen, auf die
+Vermutung kommst, der Sourcecode von Windows sei freigegeben, aber ich
+nehme an, Du versuchst mir zu sagen, daß eine solche Wahlmöglichkeit
+bei einem Betriebssystem unmöglich ist, das nicht im Sourcecode
+verteilt wird.
+
+Dem würde ich nicht zustimmen. So teuer sind CD-ROMs aus der
+Massenproduktion nun nicht, daß das ein Hinderungsgrund wäre,
+verschiedene Kernels fertig compiliert auszuliefern.
+
+Viele Größe,
+     Kai Ohnesorg
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

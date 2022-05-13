@@ -1,0 +1,10 @@
+Am Wed, 3 Apr 2001 sendete Vreni Zweibäumer folgende Botschaft:
+
+
+n -> Unendlich.
+
+Tschüs
+  Georges
+-- 
+Hier sollte eigentlich ein netter Satz aus "Programming Perl" stehen,
+aber leider finde ich ihn nicht wieder.

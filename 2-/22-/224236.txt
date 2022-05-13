@@ -1,0 +1,39 @@
+hallo. 
+
+
+also kannst du davon ausgehen, dass die kabelverbindungen ok sind. hast du
+auch mal die netzwerkkarte getauscht? (die dinger machen oft Ärger, auch
+wenn sie eigentlich heile sind (-> in anderen netzen funktionieren))
+
+
+hmmm...
+
+
+never change... *g*
+nee, ehrlich: ziemlich strange. 
+
+
+ist normal. wenn ein rechner nicht mehr am netz ist geistert sein name
+immernoch in diversen browse-listen rum, die die anderen rechner anlegen und
+untereinander austauschen. 
+
+
+ich denke es könnte an der karte liegen (dass die diagnose-tools keine
+fehler finden muss nichts heissen). abgesehen davon sind mir schon die
+interessantesten effekte bei der vernetzung von windows-rechnern begegnet,
+meistens bei rechnern, die schon lange ohne netz betrieben werden und dann
+eine netzwerkkarte bekommen. bei frischen windows-installationen ist's
+meistens nicht so. (jetzt lösch aber nicht gleich dein windows...)
+
+
+jaja... kenn ich (meist wenn die zockerei schon seit zwei stunden laufen
+sollte und immernoch nichtmal die hälfte der rechner zuverlässig am netz
+hängt) ;-o
+
+mfg
+    franz
+
+-- 
+Franz Mesters  -  eMail: raihau@lzs.trcnu.wp
+IRCNet: ^Spooky    -         qelqwm@amf.pzjmgagt.lw
+          --  http://mgi.dxa.yzbli.ny/ --

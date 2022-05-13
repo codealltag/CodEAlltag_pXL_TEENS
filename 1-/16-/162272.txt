@@ -1,0 +1,8 @@
+Muß leider feststellen, auf den zweiten Blick eher weniger. Wofür
+brauchst du eigentlich den ganzen inkompatibeln Scheiß? Das läßt sich
+mit Frames oder Tabellen genauso hinbiegen.
+
+-- 
+sSXP  
+     Documentation is like sex: when it is good, it is very, very good;
+     and when it is bad, it is better than nothing.    -- Oskar Igor

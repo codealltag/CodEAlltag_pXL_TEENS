@@ -1,0 +1,21 @@
+Ausnahmen bestätigen die Regel.
+
+
+Wobei mich immer noch wundert das niemand Reply-to: scannt. Und das es 
+nicht im XOVER enthalten ist, ist wohl kein Grund. 
+
+
+In dem von mir speziell angesprochenem Fall (lief auch eine Disskusion 
+in danam darüber) ging eben kein Spam ans From: sondern auschließlich 
+an Reply-to: und Messge-IDs. Daher ja auch meine Aussage: "Ein cleverer 
+Spamer". 
+
+Trotzdem halt ich es lieber so das ich From: einfach nach Datum filtere 
+und keine Reply-To: setzte. Das läuft bisher sehr gut.
+
+Winfried
+
+-- 
+Du weisst, was Nettoeinkommen ist? Die Provision,
+die Dir der Staat zur Erwirtschaftung der Steuern ueberlaesst.
+znrpc.wtrghcbl@h4.f8145.e981.x5.ahpi.egqe.ni

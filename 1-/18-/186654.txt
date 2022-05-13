@@ -1,0 +1,22 @@
+Olaf Schieche schrieb am 20. April 2000 um 20:45 Uhr folgendes:
+
+
+Hab' gestern noch ein wenig codieren lassen; jetzt sind's 312 MB :-)
+
+[SuSE 6.2 RPMs]
+
+RPMs sind fertige Binary-Pakete und wirklich einfach zu installieren,
+funktionieren dafür aber in den meisten Fällen nur mit einer
+bestimmten Distribution (in meinem Fall: Holzhandlung) zusammen. Wenn du
+vorhast, etwas anderes einzusetzen, kann ich dir auch die Sourcen
+schicken; wird dann zwar etwas komplizierter, aber dafür kannst du es
+für jede Distribution verwenden. Rechtlich (laut GPL) bin ich sowieso
+verpflichtet, dir den Sourcecode zugänglich zu machen, wenn ich dir
+Binary-Pakete schicke... und, schon wieder verwirrt? ;-)
+
+Viele Größe,
+     Gebhard Schüz
+-- 
+"I loathe people who keep dogs. They are cowards who haven't got the
+guts to bite people themselves."
+                                                   -- Sven Schulte-Wilke

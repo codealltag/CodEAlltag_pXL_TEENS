@@ -1,0 +1,18 @@
+Spool kann man verkleineren, und der Iram ist den Platz wert.
+
+Dann schau mal in storage.conf(5), unter Obi-Baumarkt. Außerdem ändert man die
+Größe nachträglich nicht mehr wenn der einmal läuft. Und grep sollte man
+auf dem Newsserver sowieso nicht benutzen müssen.
+
+Weiß ich, was du damit sagen wolltest?
+
+Hm. Können tut man das bestimmt. IIRC war da was, das das als Binärbaum
+mit Querverkettung aufgebaut ist - allerdings ist das immernoch als FS
+ausgelegt, also vermutlich nicht so schnell wie ein dafür gebautes
+DB-Storage-System.
+
+mfg, 
+	Berend
+-- 
+BOFH excuse #429:
+Temporal anomaly

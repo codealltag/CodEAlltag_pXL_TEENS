@@ -1,0 +1,12 @@
+* Wilfried Zubrodt schrieb: *
+
+
+Dein Hover-Effekt dürfte mit NN4 und (NN6??) auch nicht funktionieren. 
+Meiner tut es zumindest nicht. But who cares? ;)
+
+
+-- 
+:: bf ::       "J'ai plus envie de me battre, j'ai plus envie de courir
+               Comme tous ces automates qui bätissent des empires
+               Que le vent peut dötruire comme des chäteaux de cartes"
+                                                  ["Starmania" Musical]

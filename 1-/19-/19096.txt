@@ -1,0 +1,13 @@
+Du wolltest das erläutert haben...
+
+Ein pointer zeigt nur auf eine Stelle im Hauptspeicher. Also muß
+ich erstmal dem pointer sagen, wo der mittels malloc() allozierte
+Speicherplatz für eine Kati genau liegt.
+
+Ich zweifel gerade daran, das sowas überhaupt funktionieren kann.
+
+mfg, 
+	Ronald
+-- 
+BOFH excuse #375:
+Root name servers corrupted.

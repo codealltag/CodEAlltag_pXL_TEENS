@@ -1,0 +1,8 @@
+Wie war das mit diesem Platzverdoppler Doublespace/Drivespace, der ab DOS
+6 (??) dabei war? Arbeitete der nicht u.a. mit FAT32?
+
+Auf jeden Fall mussten dann Treiber geladen sein, damit die Platte
+überhaupt gelesen werden konnte.
+
+
+olivier

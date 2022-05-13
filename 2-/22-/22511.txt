@@ -1,0 +1,7 @@
+Schade, das TT damals nicht eingezogen wurde ...
+
+mfg, 
+	Bernard
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old WTB cpu - insufficient processing power

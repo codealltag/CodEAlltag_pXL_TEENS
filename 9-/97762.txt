@@ -1,0 +1,13 @@
+Nur ist es im LAN dummerweise relativ einfach, IP spoofing zu betreiben.
+
+
+Das ist wahr.
+
+
+ipfw nach syslog, bei ipfilter hab ich's nie so genau angeschaut. Und sonst 
+gibt's ja auch noch port sentry...
+
+
+Also Win crasht jedenfalls nicht, wenn ein SMB Volume down geht. Bei Unix 
+kann dir das schon passieren, wenn du zufällig deine Shell gerade in nem 
+remote gemounteten dir hast (im besten Fall crasht dann nur die Shell)..

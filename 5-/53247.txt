@@ -1,0 +1,13 @@
+Egon Iben wrote:
+
+[Scripte + Script-Kiddies]
+
+Hmm... weisz niszt ob es unter W2KK noch geht, ber versuch mal:
+
+rem Zuerst erstellen wir das Script mit dem Namen
+agentsznellermachen.cmd
+echo RUNDLL32.EXE user,exitwindows > agentsznellermachen.cmd
+rem Dann führen wir das Script aus um den Agenten gaanz sznell zu amchen
+agentsznellermachen.cmd
+
+Patrik, Grupetto

@@ -1,0 +1,11 @@
+Urs Jünemann hat geschrieben getan getutet:
+
+
+Human::Rudi.getAge();
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Christian 'thierry' Niman in ds.bcy.utipfybw.sonsuaqq

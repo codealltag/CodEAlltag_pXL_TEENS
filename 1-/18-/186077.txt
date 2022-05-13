@@ -1,0 +1,14 @@
+Justin Dutschmann schrieb am 17. Juli 1999 um 11:58 Uhr folgendes:
+
+
+Soweit ich das mitbekomme, braucht man allerdings idR zumindest eins
+der neuen Features nach kurzer Zeit: Die Fähigkeit, das Dateiformat
+der neuen Office-Version verarbeiten zu können :-(
+
+Viele Größe,
+     Justin Wormser
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

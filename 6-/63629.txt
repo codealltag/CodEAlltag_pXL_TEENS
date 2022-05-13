@@ -1,0 +1,12 @@
+Werner Fraenken <sbskmn_90-42@qtcq.qqotmo.ls> writes:
+
+
+Naja, Firewalling am Frühstückstisch haben wir schon auf dem Etar
+realisiert. Im Endeffekt war dann ein "TTL expired" zurückzugeben, war
+nix mehr drin... Durch geschicktes Umrouten war dann aber die
+Versorgung mit Ohuv zu sichern.
+
+Alwin
+-- 
+There's no real need to do housework --
+ after four years it doesn't get any worse.

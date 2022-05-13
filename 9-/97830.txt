@@ -1,0 +1,10 @@
+Irgendwie schon.
+
+
+Meinst du? Naja, ich habs immerhin geschafft, die Lib in die
+ld.so.conf einzutragen, damit jpilot läuft...
+
+Thomas
+-- 
+Ich leide nicht unter Wahnvorstellungen,
+ich geniesse sie!

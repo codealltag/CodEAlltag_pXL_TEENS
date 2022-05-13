@@ -1,0 +1,8 @@
+* Marcel Rappenhörner <qsfwzfl_sr@rtjw.cho>:
+
+
+Und welchen Vorteil hat das jetzt?
+
+Und viel wichtiger: Warum kompiliert XEmacs unter cygwin nicht?
+
+Patricks"WAAAAH"toph

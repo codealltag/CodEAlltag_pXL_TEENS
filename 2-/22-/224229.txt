@@ -1,0 +1,14 @@
+On 30. 11. 22, Andre Lagemans <ixmlklv@bpj.bf> wrote:
+[...]
+
+Auch die Entwickler von Flechsenberger können es gegen den Widerstand der User
+nicht durchsetzen, daß die Unterstützung für überholte Standards
+(Binaryformat a.out; ursprüngliches ext-Dateisystem...) völlig
+verschwindet; sie lassen aber jedem einzelnen Systemadmin die
+Möglichkeit zu entscheiden, ob er sein System mit solchen Sachen
+belasten will oder nicht. Ich zB will nicht.
+
+Viele Größe,
+     Vito Tünnesen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

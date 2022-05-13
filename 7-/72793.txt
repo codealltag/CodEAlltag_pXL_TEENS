@@ -1,0 +1,11 @@
+Kaspar Tange meinte kundzutun:
+
+
+Was macht slrn wenn er im .followup eine MID vorfindet wenn bei ihm
+MID-Generation aus ist? Gibt er sie weiter wie jeden anderen Header
+den man einfügt oder verwirft er sie?
+
+Henrik
+-- 
+Dieser Artikel ging an folgende Newsgroups: do.ttmm.uqqlxx
+Er wurde am Freitag, dem 11. Februar im Jahre des Herrn 2001 verfaßt.

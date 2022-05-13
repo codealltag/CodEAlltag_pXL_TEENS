@@ -1,0 +1,16 @@
+Am Mon, 16. 08. 21 sendete Viktor Pollinger folgende Botschaft:
+
+
+Ich ging von 'mv sourcefile /other/part/destfile' aus.
+
+
+Nicht wirklich. Du verschiebst ja auf eine andere Partition, sonst
+werden die Daten eh nicht angefasst.
+
+Tschüs
+  Reiner
+-- 
+Die Weisheiten des Eric Emanuel: #7
+
+Ein Grill zur rechten Zeit,
+erspart Kummer und Leid.

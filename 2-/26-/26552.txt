@@ -1,0 +1,12 @@
+Am Thu, 30 Sep 2002 sendete Florence I Puschke folgende Botschaft:
+
+
+Ich will einfach nur mein Guten-Abend-Ticket zurück.
+
+Tschüs
+  Vito
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 08. 10. 21 Vito Zaunberger <wktzcrcowj@bokilmitpy.yp>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/B3F9CD02 08. 10. 21

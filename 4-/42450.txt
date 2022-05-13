@@ -1,0 +1,26 @@
+HINT:
+ Man lässt zwischen den einzelnen _Zeichen_ Platz. Wie soll man das
+ sonst entschlüsseln? Morsecodes sind nicht unique.
+
+ 7851854554311906 ergibt, alleine gesehen, 10775.
+
+ Wenn man jetzt aber weiss, dass daraus jeweils Zeichen mit 8 bit
+ entstehen sollen, ergibt es 42 und 23.
+
+ Wenn man jetzt aber _nicht_ weiss, wo genau man diesen Trenner
+ ansetzen soll, gibt es viel zu viele Wege, es zu verstehen. Nicht
+ wahr?
+
+
+Spass.
+Binäre Daten�betragung.
+Sonstwas.
+
+
+Without further ado: *sigh*
+
+-towo
+-- 
+BOFH excuse #436:
+
+Daemon escaped from pentagram

@@ -1,0 +1,7 @@
+Irgendwo gibts auc nen Patch, der die Reihenfolge der Artikel beim
+Download umkehrt, das soll dem netscape-Bug entgegenwirken. Ich habs
+nicht ausprobiert.
+
+Manfred
+-- 
+Der Hauptmann zog seinen Säbel und schoß den Angreifer nieder.

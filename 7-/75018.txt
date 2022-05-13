@@ -1,0 +1,13 @@
+Das funktionierte bei mir auch nicht. 
+
+Und dass man alles Prozesse einfach killen kann stimmt auch nicht so
+ganz. Zwar ist es theoretisch möglich, und BTW ein großer Fortschritt,
+praktisch klappt aber auch das nicht immer, wie ich gestern sehen
+konnte. CS stürzte auch regelmäßig mit Standbild ab. Nja.
+
+Olaf
+
+-- 
+MS Visual Basic:
+  "Für das Thema 'Hilfe' ist keine Hilfe verfügbar.
+   [    OK   ]  [   Hilfe  ]"

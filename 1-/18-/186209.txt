@@ -1,0 +1,6 @@
+Dumme Spielereien wie z.B. billige Sortieralgorithmen oder ein Life-
+Spiel. Bei Letzterem durfte ich eine Art "Projektmanager" sein und der 
+Rest sollte das Zeug schreiben. Es selbst zu schreiben hätte keine 10 
+Minuten gedauert, so ging das aber über eine Stunde und am Ende hab ich's 
+trotzdem größtenteils neu schreiben müssen um es zum Funktionieren zu 
+überreden.

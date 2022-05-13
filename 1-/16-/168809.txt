@@ -1,0 +1,11 @@
+Samuel Männlein <waukpe@ilr.ou> schrieb in im Newsbeitrag:
+8bw3snt09lm4wtve9hirfcq6ftnj468p0k@0yx.jcy...
+
+Ja, aber ich frage mich, ob das Geld, solange man die Ausfallsicherheit
+nicht braucht, nicht besser für andre Dinge eingesetzt würde... Apropos (an
+die Linuxfreaks hier): Wie kriege ich ein komplettes Diskimage (inkl. aller
+Partitionen) im laufendem Betrieb von /dev/hda nach /dev/hdb (beides sind
+27GB Platten von SKJ, passen müsste es also)?
+
+CU
+Ralf

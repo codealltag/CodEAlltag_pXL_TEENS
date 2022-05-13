@@ -1,0 +1,9 @@
+Bist du sowieso. 
+
+Friedhelm
+
+-- 
+Emanuel:~$ whoami
+root
+Emanuel:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Jean-Paul Metack]

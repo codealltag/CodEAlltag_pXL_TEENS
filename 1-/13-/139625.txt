@@ -1,0 +1,11 @@
+Leonhard Kone schrieb am 2. Februar 2000 um 13:46 Uhr folgendes:
+[...]
+
+Je nachdem, was genau du vor hast, könnten schon ein paar Zeilen
+S-Lang-Code, einige Anleihen aus temp-score.sl und ein Trigger in
+article_mode_hook() reichen.
+
+Viele Größe,
+     Sandro Krauhse
+-- 
+A truly wise man never plays leapfrog with a unicorn.

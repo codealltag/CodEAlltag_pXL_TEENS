@@ -1,0 +1,13 @@
+Eingebauten Installer? Ich hab gestern mal versucht Xemacs auf meiner
+eben frisch geuptdateten Suse 7.3 zu installieren. Keine
+Chance. Entweder bin ich zu dämlich, was hier wohl anzunehmen ist ;-),
+oder liegt's an Xemacs. Nunja werde mich bei Gelegenheit nochmal
+ransetzen. 
+
+Wenn ich mich  da an die völlig unkomplizierte Zypresse-Netinstallation
+erinnere. Das war innerhalb von paar Minuten erledigt und lief wunderbar.
+
+Jens
+-- 
+Was koennte besser fuer Schnitten werben als eine andere Schnitte?
+(Norbert Jobelius in de.ksk.fan.konsumterror)

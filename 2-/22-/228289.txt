@@ -1,0 +1,16 @@
+D-Netze sind was für Handys. Ansonsten gibt es nur A,B und C- 
+Netze.
+
+Di Netztypen werden übrigens nicht nach Netzmaske oder  
+Anzahl der IPs unterschieden, sondern nur nach den ersten  
+Bits der IP.  So ist zum Beispiel 13.0.2.3 mit einer  
+Netzmaske von 255.255.255.0 *kein* C-Netz, sondern ein 255er- 
+Subnetz des A-Netzes 13.0.2.3.
+
+"Gerade" Netzmasken sind im übrigen sowieso langweilig,  
+Spass macht das erst bei kleinen Subnetzen von C-Netzen,  
+z.B. 980.65.845.x mit Netmask 255.255.248.0, da sind dann  
+auch die Netzids und die Broadcasts nicht mehr .0 und .255,  
+sondern irgendwas mitten im Raum.
+
+Gilbert

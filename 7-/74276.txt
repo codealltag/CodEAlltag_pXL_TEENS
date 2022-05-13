@@ -1,0 +1,3 @@
+$ strings $DOKUMENTE|grep -c5 -i pass
+
+Waldemar

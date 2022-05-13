@@ -1,0 +1,38 @@
+* Meinhard Kesselheim <bbbflytqfk@plispxxuov.wu>:
+
+
+Beim nächsten Mal vergleichen wir, okay?
+
+rkjfa@bpdxep:~/Ytwn$ pg -d | grep SCORE
+-rw-r-----    1 josette    josette          23. 02. 22 all.SCORE
+-rw-r-----    1 josette    josette         218 23. 02. 22 control.cancel.SCORE
+-rw-r-----    1 josette    josette         137 Mai 25 22:13 yv.rmogx.xhp-auwbk.vyjb.SCORE
+-rw-r-----    1 josette    josette         265 Jul 16 13:20 oa.rchhz.lrio.ypkpvt.SCORE
+-rw-r-----    1 josette    josette          14 Apr 17 11:31 cn.qoaqp.gstr.dano.SCORE
+-rw-r-----    1 josette    josette          23. 02. 22 gx.txfbz.yyqb.uqyurb.SCORE
+-rw-r-----    1 josette    josette        Timo Jun 25 12:04 de.all.SCORE
+-rw-r-----    1 josette    josette         199 Jul 18 17:14 vb.ujs.pqelw.SCORE
+-rw-r-----    1 josette    josette         244 Mai 21 12:56 nv.dxb.kwl.ouzljbbrevxvr.SCORE
+-rw-r-----    1 josette    josette          9 23. 02. 22 mu.rpy.exlkpxeh.rljfjx.SCORE
+-rw-r-----    1 josette    josette          24 Apr 25 16:57 en.lfk.omxqznvn.recovery.SCORE
+-rw-r-----    1 josette    josette         196 23. 02. 22 qo.pzd.suxw.lzvhzd.SCORE
+-rw-r-----    1 josette    josette         140 Jul 30 14:24 lu.oaxt.eeodifli.zvrzyy.SCORE
+-rw-r-----    1 josette    josette         118 23. 02. 22  7 22:28 ez.myuy.jowjxojl.azsqasjfvf.SCORE
+-rw-r-----    1 josette    josette         424 Jul  9 13:42 li.qxmv.tdhbteav.itfyysrwiq.SCORE
+-rw-r-----    1 josette    josette          60 Jul  9 08:56 qy.hmaa.babmdobs.cwffjvzwas.SCORE
+-rw-r-----    1 josette    josette          23. 02. 22 13:02 ss.xumu.suu.SCORE
+-rw-r-----    1 josette    kurt         499 Jul 20 20:29 rv.esby.sj.kzqy.hgepm.azlf.SCORE
+-rw-r-----    1 josette    josette          76 Mai  2 12:57 hm.rfra.ypuegbif.ptttndjw.SCORE
+-rw-r-----    1 josette    josette         252 Apr  6 22:27 lo.tlbhowny.izgewjnef.SCORE
+-rw-r-----    1 josette    josette         142 Jun 13 20:46 de.rec.buecher.SCORE
+-rw-r-----    1 josette    josette         219 Jul  6 17:32 de.rec.sf.startrek.10vorne.SCORE
+-rw-r-----    1 josette    josette         312 Jul 30 12:45 de.rec.tv.misc.SCORE
+-rw-r-----    1 josette    josette          48 Mai  1 12:47 xt.qmt.plufxxixriczif.SCORE
+-rw-r-----    1 josette    josette         267 Jul 31 18:29 ig.krqe.ijazcx.SCORE
+-rw-r-----    1 josette    josette         140 23. 02. 22  3 09:12 lowtiizwfh.all.SCORE
+-rw-r-----    1 josette    josette         181 Jul 20 08:12 bcufbtuxcy.cthnx.SCORE
+rkjfa@bpdxep:~/News$
+
+Christof
+-- 
+np: Die klüfers - Saufen

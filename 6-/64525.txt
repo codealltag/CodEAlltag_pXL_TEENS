@@ -1,0 +1,10 @@
+Vorausgesetzt, die Schaltungen für den PNV sind besser... Es soll hier
+Stra�enbahnsignale geben, die den vollbesetzten Zug auch schonmal 5
+Minuten vor "Halt" schmoren lassen, weil der Vorrangschaltungs-Computer
+irgendwie nix mehr gebacken kriegt. Oder zeitgesteuerte Signale die nur
+alle 4 Minuten mal für 3 Sekunden auf Freigabe springen. Wenn dann grad
+noch jemand einsteigt, Pech gehabt. Bevor die Tür zu ist, ist wieder
+gesperrt.
+
+
+-feldewert

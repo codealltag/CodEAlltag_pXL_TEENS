@@ -1,0 +1,6 @@
+Solches tippte Salvatore J?nißen:
+
+Ist sich eine Paket von jwz, kann man mit apt-get installieren...
+einfach mal ausprobieren ;-)
+
+Fridolin

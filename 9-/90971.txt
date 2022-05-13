@@ -1,0 +1,11 @@
+Achim Altenhofen hat geschrieben getan getutet:
+
+
+Dein Name-Token kommt in ROT13 auch ziemlich gut rüber.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Christoph 'niels' Pompecki in xj.tcs.xfzdwjgp.remciwgt

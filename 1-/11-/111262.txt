@@ -1,0 +1,25 @@
+Am Mon, 02 Mrz 2002 sendete Hendrik Odendahl folgende Botschaft:
+
+[...]
+
+#v+
+12:42:35 ~$free
+             total       used       free     shared    buffers     cached
+Mem:         95996      92328       3668      19616      23960      37772
+-/+ buffers/cache:      30596      65400
+Swap:       128988      12420     116568
+12:42:37 ~$load
+load average: 0.37, 0.24, 0.20
+12:42:39 ~$ps ax | wc -l
+     70
+#v-
+
+Ich nicht.
+
+
+In meinem X sind soviele da passen keine mehr rein. 
+
+Tschüs
+  Gérald
+-- 
+Notorisch Schreibfaul.

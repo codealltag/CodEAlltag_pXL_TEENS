@@ -1,0 +1,12 @@
+Henry Geisshardt schrieb:
+
+[...]
+
+Na gut. Das kann slrn dann wohl nicht. Aber könnte man ihn vielleicht
+dazu zwingen mehrere Instanzen aufzumachen? Bei Mario geht's; das legt
+scheinbar kein Lockfile an...
+
+Massimo
+
+-- 
+~~(___(oo)

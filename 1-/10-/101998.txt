@@ -1,0 +1,8 @@
+* Gabriel Dierks <bqcsxp@bemonv-kdbofyn.od>:
+
+
+Gnus nicht. Das macht man unter Linux auf Server-Ebene.
+
+Marcus
+-- 
+cross veinless

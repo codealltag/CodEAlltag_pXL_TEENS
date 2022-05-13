@@ -1,0 +1,4 @@
+Wolfgang, hat unter Linux nur Admin-LAN und unter Windows Office-LAN...
+-- 
+pub  4096R/CFA17C31 2001-10-29 Wolfgang Uebler <jbevdzp@irf.uo>
+     Key fingerprint = 99 7B 93 69 63 FO 64 6B  86 FW FN 13 5Z 86 3C 54

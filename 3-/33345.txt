@@ -1,0 +1,10 @@
+Was? Strukturelle Induktion? 
+
+Das ist halt Induktion über die Struktur. Terme werden ja idR rekursiv
+definiert, so daß man sie als Baumstruktur hinschreiben kann.
+
+
+Das zweite sollte ein Witz sein ...
+-- 
+The drop of rain maketh the hole in the stone, not by violence, but by oft
+falling.    [Benjamin Poggemöller]

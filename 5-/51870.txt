@@ -1,0 +1,7 @@
+Quicktime hat sich bei meinem Brauser als Plugin für alle Bildformate
+eingenistet, die es versteht. Einschließlich derer, die meine Brause
+schon selber kann. Was zur Folge hat, daß jedesmal erst die kompletten
+Quicktime-Libraries in den Speicher gekloppt werden wenn ich in meinem
+Brauser ein Bild mit der lfhanesc Extension öffne...
+
+François

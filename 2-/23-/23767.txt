@@ -1,0 +1,8 @@
+Theorethisch sollte auch <thhhatwaswichtigeszusagen> bla
+</thhhatwaswichtigeszusagen> gehen.
+
+mfg, 
+	Ignaz
+-- 
+BOFH excuse #202:
+kernel panic: write-only-memory (/dev/wom0) capacity exceeded.

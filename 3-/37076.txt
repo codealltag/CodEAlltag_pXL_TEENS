@@ -1,0 +1,8 @@
+Wer kickt dann böse Chatter?
+
+Niklaus
+
+-- 
+Egafa Development Environment:
+"Cannot detach from one or more programs: Der Vorgang wurde
+ erfolgreich beendet. Terminate them instead?"

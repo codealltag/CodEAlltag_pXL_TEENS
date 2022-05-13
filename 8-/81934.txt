@@ -1,0 +1,30 @@
+Ja, in der Beziehung haben wir auch schon eine weit bessere Ausbildung 
+genossen als unsere lieben Informatiker.
+
+
+Argl. Das ist krank. Was (theoretisch) stimmt ist, daß man keine "magic" 
+numbers verwenden sollte sondern beschreibende Bezeichner (also 
+Konstanten), aber "give2" ist genausowenig beschreibend wie die 2 selbst.
+
+
+Die meisten Unis haben direkt einfach den "Höhere Mathematik 1 & 2" Kurs 
+für die Informatiker. Unser Jahrgang ist als erster in den Genuß von 
+"Mathematik für Informatiker" gekommen. Hört sich auf den ersten "Blick" 
+besser an, war aber am Ende um einiges übler. Naja, in 2 Wochen weiß ich 
+ob ich die Prüfung nochmal schreiben darf oder das Thema endlich erledigt 
+ist (wen's interessiert, die Prüfung samt Lösung gibt's unter 
+http://hsh.hxhdimvyeb.avm-pfkmymxfo.at/jfnlY/yht9/ByxffwVkbcgBY/ ). Sieht 
+teilweise vielleicht gar nicht so schlimm aus, allerdings waren absolut 
+keine (null!) Hilfsmittel erlaubt und das Themengebiet war auch in 
+keinster Weise auf irgendwas beschränkt, so daß man theoretisch die 
+kompletten Mathe-Bücher hätte auswendig wissen müssen.
+
+
+Mathematik an sich ist damit für mich vorerst (hoffentlich) erledigt. 
+Dinge wie theoretische Informatik sind zwar artverwandt, aber trotzdem 
+noch viel angenehmer.
+
+
+Gerade die Informatiker bei uns können sich über zu viel Arbeit 
+bisher eigentlich nicht unbedingt beklagen. Endorphin ist da schon 
+anspruchsvoller.

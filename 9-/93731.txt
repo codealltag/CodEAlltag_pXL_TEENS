@@ -1,0 +1,6 @@
+Nein, mir sind mal wieder zwei Fehler unterlaufen.
+
+- ISO-8859-1 hat so oder so keinen Euro, wenn dann -15.
+- Es war als 0x80 kodierst anstatt als 0xA4
+
+Von daher gebe ich mich in diesem Punkt einfach geschlagen ;-)

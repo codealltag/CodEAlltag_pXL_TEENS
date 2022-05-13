@@ -1,0 +1,15 @@
+Haltet mich für pervers, aber ich benutze diese
+<kleinlaut>Bölter-</>konsole. Die Schrift darin ist einfach viel
+angenehmer zu lesen als im xterm. Auf irgendeine Weise würde ich es
+sicher auch hinbekommen xterm so zu konfiguieren, dass es wie die
+konsole aussieht, aber ich habe keine Lust.
+
+
+Ja.
+
+Carl
+
+-- 
+Drucker-Fehlermeldung:
+  "Beim Speichern der Änderungen ist der folgende Fehler aufgetreten:
+   Der Vorgang wurde ausgeführt."

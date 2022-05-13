@@ -1,0 +1,16 @@
+On Sun, 08 Aug 2003 23:04:44 +0100, Dennis Vuncke wrote:
+[Permission 10706 unter unix]
+
+hab ich mir dann auch gedacht - google nach 10706 und INN ergab einfach
+zuviele hits, bei denen 10706 nicht geklaert wurde.
+Ich hab allerdings den inncheck -perms gebraucht: nachdem ich mit den
+Skripten fertig war, startete der INN aus Sicherheitsgruenden nicht
+mehr. Immerhin geht dem jetzt.
+Wenn du mal Zeit hast, erklaer mir das mit dem Archiv-feed nochmal...
+
+mfg, 
+	Leander
+
+-- 
+Patrik Lennart 'Leander' Voigtmann, Isarau, Germany
+Info-Student, Freizeit-Handwerker und dm-baumarkt-Nutzer

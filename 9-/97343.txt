@@ -1,0 +1,10 @@
+Noch was für die ToDo-List... die verdammten Regexp-Sprache von
+Gnus/LISP/whatever lernen. Mal sehen, wann ich mal wieder 20 Minuten
+am Stück Zeit hab.
+
+Bis dahin werden auch direkte Antworten auf read gesetzt...
+
+Jochen
+-- 
+   "One world, one web, one program"  -- Bugatti promotional ad
+         "Ein Volk, ein Reich, ein Fuehrer"  -- Valerius Laubenstein

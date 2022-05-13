@@ -1,0 +1,11 @@
+Nicht eine/r der Genannten macht sowas derzeit beruflich, und es wird
+zunehmend normaler, dass man sich irgendwo nen Router hinklemmt. Und
+sei es eine Blackbox, die Router, Hub, DHCP und Firewall in einem
+spielen soll.
+
+
+Wie gesagt: Es wird zunehmend normaler.
+
+Wolfgang
+-- 
+f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng.

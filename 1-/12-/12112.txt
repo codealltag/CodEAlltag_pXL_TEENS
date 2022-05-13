@@ -1,0 +1,8 @@
+2.8.1 IIRC.
+
+5.0 ist das Frontend, das man mit dem gcc 3.x dazubekommt?
+
+Ivo
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

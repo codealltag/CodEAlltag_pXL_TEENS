@@ -1,0 +1,14 @@
+On Sun, 01. 04. 23, Oskar...sSXP...Züchner <aGOQ@zjw.lut> wrote:
+
+[Programme ohne Abwärtskompatibilität]
+
+Mit PGP 5.x generierte Schlüssel sind nicht mehr abwärtskompatibel -
+PGP 2.6.x kann damit nicht umgehen. Da PGP 5.x Features bietet, die
+nach der Meinung einiger Leute in die falsche Richtung gehen (weil sie
+es ermöglichen, eine Mitlesem�glichkeit von Chef, Staat u zu
+erzwingen) weigern sich viele, diese Versionen zu verwenden.
+
+Viele Größe,
+     Adrian Zoepel
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

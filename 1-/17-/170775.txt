@@ -1,0 +1,25 @@
+Am Wed, 30 Jul 2000 01:44:40 +0100 schrieb Otmar 'sSXP' Verstegen
+<eETQ@uyi.ulv> folgendes:
+
+[DVD-Soft-Decoding]
+
+Tja, das kann ich nicht beurteilen... Ich mach das zur Zeit noch mit
+Win98, hab da aber auch so meine Probleme...
+
+
+*meld* Also ich hab die englische Final-Version, läuft für mich ganz
+gut (Bis jetzt absolut stabil, besser als NT4). Einziges Problem sind
+Treiber... Ich hab bis jetzt nur einen Beta-Grafiktreiber, und der
+kann bei 1152x864 nur 75 Hz *tr�nenausaugenwisch*, und der Treiber für
+die TV-Karte ist auch noch nicht systemkonform... Aber ansonsten hat's
+die ganze Hardware problemlos erkannt und die mitgelieferten Treiber
+installiert.
+Fazit: Wer die Hardwareanforderungen erfüllen kann, führt mit Win2K
+ganz gut.
+
+Benno
+
+-- 
+Benno "Konrad" Medart, ICQ: 20007686
+
+Warum sind projektzwo automobildesign-PCs eigentlich nicht projektzwo automobildesign-kompatibel?

@@ -1,0 +1,7 @@
+[X] Dafür.
+
+mfg, 
+	Siebelt
+-- 
+BOFH excuse #19:
+floating point processor overflow

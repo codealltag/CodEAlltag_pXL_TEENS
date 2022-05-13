@@ -1,0 +1,23 @@
+Otto Dürkob schrieb am 17. August 1999 um 19:56 Uhr folgendes:
+
+
+Mmh...
+
+grep: /home/tststs/News/totest: No such file or directory
+You have       0 things to test
+
+Da gefiel mir die Ausgabe meiner Lösung aber doch besser...
+Ich würde mindestens folgendes machen:
+
+echo "You have $(grep '^From ' ~/News/totest 2>/dev/null | wc -l |\
+ tr -d ' ') things to test"
+
+
+Subject abgepasst :-)
+
+Viele Größe,
+     Marcel Donhauser
+-- 
+"I loathe people who keep dogs. They are cowards who haven't got the
+guts to bite people themselves."
+                                                   -- Hilmar Dahlen

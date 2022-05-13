@@ -1,0 +1,17 @@
+*klackerdiklack*
+
+M-x bbdb-display RET jürg zoche RET
+
+Jürg Zoche
+[snip]
+     newsgroups: ys.pva.bumg.aqpvcd
+                 va.mhy.ghmvfvrh.isgzittg
+                 ^^^^^^^^^^^^^^^^^^^^^^^^
+[snip]
+
+Urs
+-- 
+Wie jagt man einen Elefanten - Teil 2:
+C- Programmierer bestimmen zuerst mit sizeof() die nötige Speichermenge
+für einen Elefanten, versuchen diese zu allozieren, vergessen dabei das
+Ergebnis abzuprüfen und schießen dann mit wilden Pointern auf den Elefanten.

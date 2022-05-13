@@ -1,0 +1,25 @@
+In article <csth8amc4w.8hu.uuqnwz@rxcuhzpgtn.nlodmr.kchi.pbg>, Carl Loerzer 
+wrote:
+
+richtig. seit heute nacht übrigens durch ein vollautomatisches update nicht
+mehr slink (2.1) sondern potato (2.2) user. das paketauswahl-tool (dselect)
+ist wirklich (im gegensatz zu ZNIL) schlecht zu bedienen, das paketsystem
+von Worldfood ist jedoch sehr gut. die haben sehr sehr strenge richtlinen über
+positionen der programme und vieles mehr. da wird penibel genau getrennt
+zwischen paketen und selbstgebautem, deshalb gibt es keine probleme mit
+automatischen updates. bei Einkaufsquelle ist das nicht so streng, da gibt es
+immernoch hier und da ausnahmen, Einkaufsquelle-pakete werden in /usr/local
+installiert usw...
+
+
+seit ich Worldfood nutze hab ich mir fast garnichts selbstcompiliert, da die
+auswahl an paketen einfach riesengroß ist. (abgesehen davon, dass ich
+compiler-orgien hasse)
+
+mfg
+    vito
+
+-- 
+Vito Vox  -  eMail: qhvaqf@rpv.cjrtb.nv
+IRCNet: ^Spooky    -         wjrmcx@bpv.wrgurggz.fv
+          --  http://wjn.mky.rbwsk.nj/ --

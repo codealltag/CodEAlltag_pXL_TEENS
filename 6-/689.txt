@@ -1,0 +1,8 @@
+Pos. score auf X-Sheep-Id und negative Score auf den Rest. Reicht. 
+
+Berend
+
+-- 
+"And Bernhard Vimes once arrested a dragon. Bernhard Nadel stopped a war between nations
+by arresting /two/ high commands. He's an arresting fello. Bernhard Vimes."
+							[Alois Oeser - Thud]

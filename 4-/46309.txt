@@ -1,0 +1,14 @@
+Du willst Anweisungen richtig annehmen.
+
+$ apt-get moo
+         (__) 
+         (oo) 
+   /------\/ 
+  / |    ||   
+ *  /\---/\ 
+    ~~   ~~   
+...."Have you mooed today?"...
+
+-towo
+-- 
+The power of pessimism: an optimist is never happily surprised.

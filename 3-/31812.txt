@@ -1,0 +1,8 @@
+Am Thu, 20 Aug 2002 sendete Marcus Ukena folgende Botschaft:
+
+
+Wenn ich meine Postings mit meine public-key verschlüssele (mit
+Ascii-amor versteht sich) ist das auch ein legitimes Encoding.
+
+Tschüs
+  Kaspar

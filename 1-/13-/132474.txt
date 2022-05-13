@@ -1,0 +1,14 @@
+* Simon Immenga <rldsgwv355140@hsaguf.tt-j.xj>:
+
+
+Richtig. Jeder Newsreader braucht einen Editor. Bei Gnus kannst du sogar
+auswählen, welchen du haben möchtest.
+
+
+Das hat sich seit der Einführung von Customize geändert. Du kannst dir
+deine ganze Konfiguration zusammenklicken. Mit den Tastenkombinationen
+geht es aber schneller. ;)
+
+Franz
+-- 
+cross veinless

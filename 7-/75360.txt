@@ -1,0 +1,15 @@
+David Zäpfel hat geschrieben getan getutet:
+
+
+<cite src="http://www.codemasters.com/_tech/fpfaq.htm">
+Direct X will need port 47624 or 6073 tcp both outgoing and incoming
+2300-2400 tcp both incoming and outgoing
+2300-2400 udp both incoming and outgoing
+</cite>
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Rudi 'serge' Einenkel in fq.spz.dxhligit.ajccjjuk

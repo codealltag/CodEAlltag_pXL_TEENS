@@ -1,0 +1,25 @@
+Glueck, pures Glueck! :-)
+
+
+Naja, ich habe hier fuer den Rechner liegen bzw. schon eingebaut:
+
+3,5" Floppy (wer haette es gedacht?! :-))
+4    Festplatten
+2    CD-ROM-Laufwerke
+1    DAT-Streamer
+2    Grafikkarten (Filmpeter und ECD)
+1    Netzwerkkarte
+1    SCSI-Controller mit 4 SIMM-Sockeln (belegt)
+1    Sounkarte mit Verstaerker
+1    Scanner-Interface-Karte (da ich so kein neues 1,5 Meter Kabel kaufen   
+     muss :-)
+2    Zusatzuefter
+1    CPU Luefter
+
+Und wenn ich das alles auf einmal anmache, sozusagen den PC einschalte,  
+dann will ich nicht, dass das Netzteil nur einmal kurz knistert...
+
+
+-- 
+
+Ciao, Raymond

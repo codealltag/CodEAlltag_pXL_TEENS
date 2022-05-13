@@ -1,0 +1,11 @@
+Merkte man. Dann wars wahrscheinlich besser, daß du nicht gespielt
+hast, hättest wahrscheinlich nur noch schlecht gespielt.
+
+Fritz, mit verrenkten Fingern vom TeXen... Muß mir mal ne englische
+Tastatur zulegen.
+
+-- 
+Oscar:~$ whoami
+root
+Oscar:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Hanno Vrenken]

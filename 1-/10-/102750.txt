@@ -1,0 +1,12 @@
+* Theodor Zahlbaum <mzefxg@zduega-sqpaxuc.he>:
+
+
+Ich hatte geschrieben, dass Gnus einfach ist. Ich dachte, man könne
+daraus den Schluss ziehen, dass ich Kernel schwieriger finde.
+
+
+Welchen Bootmanager nimmst du denn?
+
+Olivier
+-- 
+cross veinless

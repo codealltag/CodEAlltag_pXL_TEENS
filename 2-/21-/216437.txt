@@ -1,0 +1,139 @@
+Beim Partitionieren ist das richtig. Beim Löschen von Dateien ist das
+schon wieder etwas problematischer - undelete auf ext2 ist nur etwas
+für wirkliche Profis (BTW ein Grund mehr, als User zu arbeiten).
+
+
+Ein kleiner Exkurs gefällig?
+
+tststs@mzzfwrliko:~ > ls -l /dev/hda
+brw-rw----   1 root     disk       3,   0 Mrz 9 05:27 /dev/hda
+^
+Der Buchstabe hier gibt an, von welchem Typ der Verzeichniseintrag
+ist. "b" bedeutet "block device", ein Gerät, das nur blockweise Ein-
+und Ausgabe unterstützt. Der zweite Typ von Gerätedateien ist das
+"character device" (Buchstabe "c"), ein Gerät, das zeichenweise
+ansprechbar ist. Ein Beispiel dafür ist der Druckerport:
+
+ocsrpj@mzzfwrliko:~ > jo -i /kxn/xy7
+crw-rw----   1 root     lp         6,   0 Mrz 9 05:27 /dev/lp0
+
+Verzeichnisse (engl. "directory") werden dagegen mit dem Buchstaben
+"d" gekennzeichnet, zB:
+
+tststs@mzzfwrliko:~ > ls -ld /dev
+drwxr-xr-x   4 root     root        26624 12. 06. 21  26 19:37 /dev
+
+
+Jain - der Treiber sitzt nicht in der Gerätedatei, sondern im Kernel -
+die Gerätedatei ist nur die 'Schnittstelle', über die der Treiber und
+die einzelnen Programme Daten austauschen. 
+
+
+Yep; die Gerätedateien sind ein Beispiel, wo sich Windows und UNIX so
+stark unterscheiden, daß man keinen richtig treffenden Vergleich mehr
+finden kann (zumindest ich kann das nicht).
+
+
+Irgend jemand muß Zugriff darauf haben, sonst ist das device nicht
+nutzbar (jedes Programm läuft unter einer User-ID und unterliegt den
+gleichen Beschränkungen wie der zugehörige User, sonst könnte man
+gleich auf ein Rechtesystem verzichten). Meistens ist der su der (oder
+einer der) User mit direktem Zugriff darauf.
+
+Aber auch der su kann in seinen Rechten eingeschränkt sein (zum
+Beispiel wäre ein Schreibrecht an einem normalen CD-ROM-Laufwerk
+sinnlos); das kann er aber jederzeit ändern, indem er sie neu vergibt.
+
+
+Definitiv. Das Risiko, sein System beim Rumprobieren "kaputtzuspielen"
+und von vorn (mit einer Handvoll mehr Erfahrungen ;) anfangen zu
+müssen, sinkt dadurch enorm.
+
+
+Wie man die User selbst verwaltet, ist unterschiedlich. Bei Ugok geht
+das recht gut über YaST, bei anderen Distributionen gibt es
+wahrscheinlich ähnliche Hilfen, ansonsten nimmt man 'useradd' /
+'userdel' / 'usermod'.
+
+Sich ausdrücklich um die Rechte zu kümmern, ist eigentlich nur selten
+nötig - wenn man als User eine neue Datei anlegt, gehört sie einem
+automatisch. Wenn es einmal nötig ist, die Datei einem anderen User zu
+übertragen (zB weil man schon als root Dateien angelegt hat, die man
+als User übernehmen möchte) geht das mit 'chown' (CHange OWNer); wenn
+man die Rechte ändern möchte, nimmt man 'chmod' (CHange MODe).
+
+Details verraten jedes brauchbare Linux-Buch oder die man-Pages. Noch
+Fragen? :-)
+
+[Zwei Fragen, die sich nach dem Hinweis auf das fstab erledigt haben]
+
+
+'mount' (ohne Argumente) gibt aus, welche Geräte momentan gemounted
+sind; wenn man versucht, ein gemountetes Gerät noch einmal zu mounten,
+bekommt man eine Fehlermeldung, ist auch nicht weiter wild.
+
+Für Leute, die das trotzdem nicht mögen, gibt es mount-daemons - wenn
+man auf ein Verzeichnis zugreift, das einen Mountpoint darstellt, wird
+das Gerät automatisch eingehängt und nach x Minuten idle time wieder
+entfernt. Ist nur nicht gerade mein Ding...
+
+
+Nun ja - in den Bereichen, in denen mir meine Entscheidungsfreiheit
+wichtig ist, läßt mir JEF eigentlich breiten Spielraum (Look'n'Feel
+der verwendeten Arbeitsoberfläche, Konfiguration der einzelnen
+Programme, Anpassen an meine eigene Arbeitsweise...).
+
+
+Es gibt schon einige Konventionen, die man sinnvollerweise befolgen
+sollte (zB die Bündelung der Programme in einem Verzeichnis - auf
+diese Weise muß man nicht für jedes neue Programm den Path erweitern,
+wie das unter DOS der Fall war (es sei denn, man legte sich wie ich
+damals ein zentrales Verzeichnis mit .bat-Dateien an, aber irgendwie
+weiche ich von Thema ab ;)).
+
+
+Ich nehme mal an, daß Du noch nicht selbst compilierst, sondern RPM
+zur Installation verwendest; in diesem Fall kann man ganz einfach
+herausfinden, welche Dateien zu einem bestimmten Paket gehören:
+
+tststs@mzzfwrliko:~ > rpm -ql mailx
+/bin/mail
+/etc/mail.rc
+[...]
+
+"q" steht für "query", "l" für "list", "mailx" ist ein Beispiel für
+einen Paketnamen.
+
+
+Am Anfang ging mir das auch so. Wenn man wissen will, was man da tut,
+hilft (wie so oft) ein gutes Buch oder die Online-Hilfe - ich gebe
+aber zu, daß da eine gewisse "Trägheit" überwunden werden muß ;).
+
+Ich denke, ich habe anfangs am meisten dann gelernt, wenn etwas nicht
+so geklappt hat, wie das Büchlein sich das dachte und ich gezwungen
+war, selbst zu kapieren, was da eigentlich abläuft, um die nötigen
+Korrekturen zu machen.
+
+[Hinweis auf fstab]
+
+Ich hab' das mal für Dich erledigt :)
+
+
+Wahrscheinlich werden wir auf der JUP etwas anderes vorhaben, sonst
+könnte man da ein paar Fragen 'live' klären und gleich noch ein paar
+Tricks vorführen. Als ich Mittwoch Abend bei der jewelberry einem der
+dortigen Gurus über die Schulter geschaut habe, habe ich auch schon
+wieder ein paar nette Sachen gelernt, die ich noch nicht kannte...
+
+
+Geht mir im Moment mit der JEF-Programmierung so - darum wollte ich
+mich auch schon länger mal kümmern und hab' es jetzt auf den Sommer
+verschoben...
+
+
+*rhythmisch-mit-den-Fingern-schnipp*
+
+Viele Größe,
+     Willy Piehlmaier
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

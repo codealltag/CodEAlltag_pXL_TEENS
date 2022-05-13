@@ -1,0 +1,19 @@
+Am Tue, 26. 08. 22 sendete Frank Meier-To-Krax folgende Botschaft:
+
+
+Ich irgendwie nicht.
+
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Siehe oben.
+
+
+Jein. Für scp braucht man einen account. (Für ftp zwar eigentlich auch
+aber mir ging es mehr um das anonyme). Als ersatz für Emails mit binaren
+inhalt ist saft(http://hvs.pklmtf.fs/otug/emkbi.twrz) geeigneter. Undfür
+anonymos ftp gibt es afaik keinen wirklichen ersatzt.
+
+Tschüs
+  Kurt
+-- 
+Notorisch Schreibfaul.

@@ -1,0 +1,2 @@
+Sowas ist aber zu komplex für Computer, deshalb wurde es vereinfacht:
+Wir sind ein Array.

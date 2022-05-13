@@ -1,0 +1,19 @@
+Also sprach Florian Eiler <jxrrcwijle@uqdofaymws.to>:
+
+
+                ^^^^^^^^^^
+MIME-Typ. Da kann dein text/pgp stehen
+
+                            ^^^^^^^^^^^^^^^^^^
+                       Charset. Da kann UTF-7 stehen
+
+Der Unterschied ist ein semantischer.
+
+
+Es war nicht speziell auf dich bezogen. Die Argumentation bleibt. OE ist
+ein großer NR.
+
+
+Die Flickschuster, die Gnus bauen, auch nicht. Und nun?
+
+Marco

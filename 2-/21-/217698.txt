@@ -1,0 +1,19 @@
+Worauf Du einen lassen kannst ;->
+
+
+In diesem speziellen Fall ja.
+
+
+*MEEEP*
+
+Mit dem puren Versenden von Nutzdaten wärst Du wohl nicht glücklich, 
+zumindest ohne Takt- und ähnliche Steuerleitungen wie es bei 
+gebräuchlichen RS232-C Implementationen der Fall ist (im Minimalfall 
+werden gerademal 3 Leitungen benötigt).
+Du brauchst also schon mindestens 1 Start und ein Stop-Bit zur 
+Synchronisation (-> 10 Bit pro Byte). Bei solchen Geschwindigkeiten und 
+noch je nach Kabelart/Länge mag man vielleicht auch 1,5 oder gar 2 
+Stopbits benutzen. Sehr vorsichtige Gemüter wollen vielleicht auch noch 
+ein Parity-Bit als Übertragungskontrolle mitsenden. Der Worst-Case wäre 
+also immerhin 12 Bit pro Byte, was 50% Overhead entspräche => maximal 9600 
+Bytes/s.

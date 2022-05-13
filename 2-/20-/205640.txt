@@ -1,0 +1,8 @@
+Am Tue, 06 Mrz 2000 sendete Timo Beinling folgende Botschaft:
+
+
+Telnet ist zu unsicher, aber mit sshgibt es eigentlich keinen
+unterschied.
+
+Tschüs
+  Bodo

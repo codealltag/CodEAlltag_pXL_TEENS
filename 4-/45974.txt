@@ -1,0 +1,7 @@
+Elendiger logfile-leser. ;)
+
+-ltsq
+-- 
+Biete: Jul  9 07:08:48 Inet-Gw pppd[417]: Connect time 666.6 minutes.
+Und will sehen.
+- Udo Ewerdwalbesloh, Oscar Max in xy.fik.tpsvyrdj.xgneqrkg [leich abgeändert]

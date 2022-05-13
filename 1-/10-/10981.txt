@@ -1,0 +1,6 @@
+Nicht mehr Wachstum als sonst.
+
+Vittorio
+-- 
+BOFH #311:
+transient bus protocol violation

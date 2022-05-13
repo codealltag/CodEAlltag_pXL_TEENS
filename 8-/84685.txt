@@ -1,0 +1,12 @@
+Am Tue, 9 Mai 2002 sendete Werner Hester folgende Botschaft:
+
+
+Wenn du slrn entsprechend kaputt patchest sicherlich. ;)
+
+Tschüs
+  Garrelt
+-- 
+* Recent news from http://zfad.hulygzlpkyw.rii/
+ -> [2002-05-01] slrn 0.9.7.2 released
+ -> [04. 01. 23] McTramp-announce mailing list created / wishlist reviewed
+ -> [2002-02-15] slrn 0.9.7.1 released

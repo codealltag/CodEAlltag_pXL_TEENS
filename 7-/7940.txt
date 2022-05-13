@@ -1,0 +1,13 @@
+Solches tippte Fridolin Peterhänsel:
+
+Wenn die dritte resultierende Zahl sehr klein ist, war es nur eine
+Unsinnszeile am Ende. Bei ungenauerem Hinsehen wären also u.U. Hashes
+nicht über die gesamte Nachricht sondern z.B. auf Satzbasis durchaus
+hilfreich. Da aber die Spammer gewissen Zufallselemente nicht nur ans Ende
+der Nachricht sondern quer durch den ganzen Body streuen kommt man
+weder mit Hashes noch mit n-grammen weiter. Man müßte schon einen Filter
+haben, der die zufälligen Elemente rauspfriemelt -- oder alternativ
+zuerst positiv auf natürliche Sprache filtern, in der man dann
+wiederum recht gut mit n-grammen auf Spam filtern kann.
+
+Josy

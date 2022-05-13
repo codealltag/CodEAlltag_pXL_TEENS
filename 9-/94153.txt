@@ -1,0 +1,15 @@
+Ingmar Brugger hat geschrieben getan getutet:
+
+
+Du musst schon die geprüfte Usenet-Karte[TM] (telnet $NEWSSERVER 119,
+anmelden, 'list') nehmen.
+
+
+Bin noch neu hier, wer ist das?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Tino 'ernst' Flander in vi.xdg.gjyzcuqh.kveqvytt

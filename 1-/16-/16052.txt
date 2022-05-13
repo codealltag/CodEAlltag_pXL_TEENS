@@ -1,0 +1,9 @@
+Bestimmt irgendwie. Aber ich scheiterte natürlich kläglich.
+
+Ulfert
+
+-- 
+Entfernen unvollständig:
+"Es sind nicht ausreichend Informationen verfügbar, um Java Runtime Environment
+ 1.3.0_01 vollständig zu entfernen. Möglicherweise bietet 'Software' in der
+ Systemsteuerung weitere Optionen für das EntfeEntfernen unvollständig"

@@ -1,0 +1,2 @@
+Nach <rechne> 47,7102696296 Tagen läuft der GetTickCount Zähler über, was 
+Win9x wohl nicht verkraftet.

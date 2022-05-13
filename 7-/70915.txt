@@ -1,0 +1,6 @@
+Solches tippte Otmar Cichowlas:
+
+Ich brauche halt kein Betriebssystem mit einer kranken
+LISP-Implementierung, sondern einen tüchtigen $Editor ;-)
+
+Meinrad

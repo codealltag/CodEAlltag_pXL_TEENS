@@ -1,0 +1,8 @@
+Jetzt nicht mehr.
+
+
+Ich hab' anstatt <a href="de.php?sort=zip"> <a href="?sort=zip">  
+benutzt. Unter Puma und Aviti funktionierte es, unter NahKauf nicht. Hab' ich  
+jetzt aber hoffentlich überall ausgebessert.
+
+Tino Sämer

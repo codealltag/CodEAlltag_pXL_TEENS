@@ -1,0 +1,3 @@
+Nun ja. Ich kenne da zwei Anbieter, die CGI Scripts auf Ihren Servern mit 
+Administratorrechten ausführen, was durchaus interessante Möglichkeiten 
+eröffnet....

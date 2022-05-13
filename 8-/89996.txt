@@ -1,0 +1,17 @@
+Nicht bei meiner, sondern bei der OZR-Seite. Bei meiner sind
+allerdings auch Absätze verrutscht.
+
+Auf der anderen Seite sind allerdings Texte gar nicht zu erkennen.
+Genau habe ich mich damit aber noch nicht befasst, da zu faul.
+
+
+Bei mir sind keine Frames. Dort sind Frames, weil Gewisse andere Leute
+(tm) unbedingt Frames haben wollten. Ich habe ihnen erklärt, dass das
+sinnlos ist, aber sie ließen sich nicht überzeugen. Wenigstens ist
+kein JS-Men drin, wie das zuerst geplant wurde...
+
+Salvatore
+
+-- 
+Wenn etwas klemmt, wende Gewalt an.
+Wenn es kaputt geht, hätte es sowieso erneuert werden müssen.

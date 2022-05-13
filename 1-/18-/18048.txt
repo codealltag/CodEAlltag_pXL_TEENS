@@ -1,0 +1,12 @@
+gallery - a web-based photo album written in php
+
+Gibt's angeblich auch für andere Betriebssysteme.
+
+
+Krass Ding.
+
+Udo
+
+-- 
+"Bei vielen Leuten beginnt das Gewissen erst dort, wo der Vorteil
+ aufhört." (Gerald Kistler I.)

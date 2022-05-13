@@ -1,0 +1,13 @@
+Am Wed, 12 Mrz 2002 sendete Albert Teloh folgende Botschaft:
+
+
+Dann lösch halt fröhlich.
+
+
+N. Wenn man ganz sichergehen will rm -i aufrufen, egal ob der alias
+gesetzt ist.
+
+Tschüs
+  Urs
+-- 
+Notorisch Schreibfaul.

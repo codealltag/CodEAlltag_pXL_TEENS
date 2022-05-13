@@ -1,0 +1,12 @@
+Erstmal auf Datei -> abonnieren und die Newsgroups auswählen, die du
+runterladen willst. Wenn du online bist gehst du auf Datei -> Offline ->
+Syncronisieren und wählst dort bei "Objekte auswählen" die Gruppen an,
+die du runterladen willst und dann auf "syncronisieren". Und schon lädt
+er die Gruppen runter. Beim nächsten mal online musst du dann nur noch
+auf "syncronisieren" gehen es sei denn du willst was ändern. Und beim
+Offline-lesen auch den Netscape in Offline-Modus schalten.
+
+CU
+Herbert
+-- 
+Mitglied des Fujitsu - Verein zur Vermeidung von Abkürzungen.

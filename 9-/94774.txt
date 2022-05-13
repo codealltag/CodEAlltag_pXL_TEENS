@@ -1,0 +1,11 @@
+Werner Zillekens hat geschrieben getan getutet:
+
+
+Also, ich hab da die Monty-Python-Version vermisst.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Fredi 'othmar' Eekhof in hd.rek.nsrjzbbk.kvqtqcuo

@@ -1,0 +1,120 @@
+Auswertung für de.talk.jugend
+                    von 2004-05-01 bis 2004-05-10
+                    =============================
+
+                           Postings pro Tag
+                           ----------------
+
+
+                     Mai 2004
+
+ KW :   Mo :  Di :  Mi :  Do :  Fr :  Sa :  So :
+------------------------------------------------
+ 18 :                                 112   215
+ 19 :   323   386   484   794   653   351   384
+ 20 :   382
+
+Postings insgesamt: 4084 (408.40 pro Tag)
+
+
+                        Poster (strukturiert)
+                        ---------------------
+
+    1. Julian Große-Büning           : 674 (16.50%) |####################|
+    2. Charlotte Raithmayr         : 599 (14.67%) |#################   |
+    3. LucaLothar Sigelen : 441 (10.80%) |#############       |
+    4. Jean-Paul Wurms        : 385 ( 9.43%) |###########         |
+    5. Ludger Giesch      : 352 ( 8.62%) |##########          |
+    6. Kai Strasmann         : 234 ( 5.73%) |######              |
+    7. Ingo Eyckmanns       : 231 ( 5.66%) |######              |
+    8. Oliver Weckes         : 227 ( 5.56%) |######              |
+    9. Jonas Mattiebe            : 211 ( 5.17%) |######              |
+   10. LeanderOTHMAR Niemtschke  : 200 ( 4.90%) |#####               |
+   11. Jean-Paul Weiszhar             : 123 ( 3.01%) |###                 |
+   12. Romy Mooshak           : 100 ( 2.45%) |##                  |
+   13. Eilt Gatzke             :  93 ( 2.28%) |##                  |
+   14. Manfred Kött              :  67 ( 1.64%) |#                   |
+   15. Pascal Dokters       :  43 ( 1.05%) |#                   |
+   16. Eilt Zogbaum           :  38 ( 0.93%) |#                   |
+   17. Armin Olaf Wilhelms:  34 ( 0.83%) |#                   |
+   18. Samu Repening         :  22 ( 0.54%) |                    |
+      (+ 6 weitere mit < 20)
+  -------------------------------------------
+                                4084 ( 100% )
+
+
+                       Subjects (strukturiert)
+                       -----------------------
+
+    1. "He's dead, Adrian."             : 3409 (83.47%) |####################|
+    2. dis                           :  113 ( 2.77%) |                    |
+    3. Kirchhausen-Mini-JUP            :   85 ( 2.08%) |                    |
+    4. Suche Leute in der Umgebu[...]:   50 ( 1.22%) |                    |
+    5. Wohlrapp                           :   45 ( 1.10%) |                    |
+    6. [STATISTIK 04/2004] Gesam[...]:   44 ( 1.08%) |                    |
+    7. Chance                        :   42 ( 1.03%) |                    |
+    8. Happy Birthday Udo!         :   35 ( 0.86%) |                    |
+    9. Wieder zuhause Thread Jup IV  :   29 ( 0.71%) |                    |
+       Hi suche Leute mit msn me[...]:   29 ( 0.71%) |                    |
+   11. Gemischte Duschen             :   26 ( 0.64%) |                    |
+   12. ICE-Halt Rüper soll bl[...]:   24 ( 0.59%) |                    |
+   13. Expire                        :   23 ( 0.56%) |                    |
+   14. Endlich frei - Der Fisz i[...]:   19 ( 0.47%) |                    |
+   15. Das stabilste Medium...       :   18 ( 0.44%) |                    |
+   16. gute Klamotten im Netz        :   17 ( 0.42%) |                    |
+       [STATISTIK 11/2003] Gesam[...]:   17 ( 0.42%) |                    |
+      (+ 18 weitere mit < 10)
+  --------------------------------------------------
+                                      4084 ( 100% )
+
+
+                      Newsreader (strukturiert)
+                      -------------------------
+
+    1. slrn                          : 732 (17.92%) |####################|
+    2. Fort Agent                   : 716 (17.53%) |################### |
+    3. Gnus                          : 699 (17.12%) |################### |
+    4. Outlook Express               : 599 (14.67%) |################    |
+    5. Pan                           : 441 (10.80%) |############        |
+    6. Dos-Edit 6.22 NEWS-PlugIn[...]: 352 ( 8.62%) |#########           |
+    7. Ulefe                       : 234 ( 5.73%) |######              |
+    8. Crosspoint/OpenXP             :  93 ( 2.28%) |##                  |
+    9. GrossJoint 3.2g               :  19 ( 0.47%) |                    |
+   10. Famas (Famous american ma[...]:  17 ( 0.42%) |                    |
+   11. Used                          :  16 ( 0.39%) |                    |
+   12. Smirnoff Ice                  :  14 ( 0.34%) |                    |
+       PHP 4.0                       :  14 ( 0.34%) |                    |
+       WhiskyNemem vers 5.99         :  14 ( 0.34%) |                    |
+       Fortitude Dialog              :  14 ( 0.34%) |                    |
+       H&K N36                       :  14 ( 0.34%) |                    |
+       MP2 (Mailprogramm 2)          :  14 ( 0.34%) |                    |
+   18. MP 2A1 (Mailprogramm 2 Ab[...]:  12 ( 0.29%) |                    |
+       Tippsklave v1.2               :  12 ( 0.29%) |                    |
+   20. KZI Ver. 1.0               :  10 ( 0.24%) |                    |
+      (+ 8 weitere mit < 10)
+  -------------------------------------------------
+                                      4084 ( 100% )
+
+
+                 Nutzer pro Newsreader (strukturiert)
+                 ------------------------------------
+
+    1. Gnus                          : 6 (24.00%) |####################|
+    2. slrn                          : 5 (20.00%) |################    |
+    3. Fort Agent                   : 3 (12.00%) |##########          |
+    4. Xnews                         : 2 ( 8.00%) |######              |
+       (keine Angabe)                : 2 ( 8.00%) |######              |
+    6. Outlook Express               : 1 ( 4.00%) |###                 |
+       Dos-Edit 6.22 NEWS-PlugIn[...]: 1 ( 4.00%) |###                 |
+       H&K N36                       : 1 ( 4.00%) |###                 |
+       Pan                           : 1 ( 4.00%) |###                 |
+       Ulefe                       : 1 ( 4.00%) |###                 |
+       Crosspoint/OpenXP             : 1 ( 4.00%) |###                 |
+       KNode                         : 1 ( 4.00%) |###                 |
+  -----------------------------------------------
+                                      25 ( 100% )
+
+
+-- 
+usestats.pl v 0.15 beta (19. 04. 22) [Mon 19. 04. 22 4 21:13:03 2004]
+(c) 19. 04. 22 Jean-Paul Wurms * <htx@uwavo.nqq>

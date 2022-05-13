@@ -1,0 +1,25 @@
+STATISTIK 10. 12. 21
+-=-=-=-=-=-=-=-=-=-=-=
+
+POSTINGS PRO TAG
+
+Woche    MO    DI    MI    DO    FR    SA    SO
+---------------------------------------------------------------------------
+   39                                        145
+   40    110   193   196   146    54   151   239
+   41    332   312   194   302   333   592   705
+   42    450   370   347   191   150    41   248
+   43    202   304   163   158   204   277   181
+   44    226   250
+
+
+Gesamt       :  7766 Postings
+Durchschnitt :   251 Postings/Tag
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Klaas Joelsohn.
+(Darstellung angepasst von Andre Zeltner)
+Basierend auf den Feeds von:
+qllytilz.aefol.ro         oaha.bxj.icq.py           bbil.k-pbrdme.xc  
+mghz.oda-prabykpl.yl      abka.nkj-pmorylce.uz      wfea.gta-ikrbdovjg.je  
+ouvurxrbgt.ricmjfhcmi.sc

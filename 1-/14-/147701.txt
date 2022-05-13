@@ -1,0 +1,25 @@
+Igor Altstadt <zefhaqqrdu@fgahyuciqf.gy> kuendete:
+
+
+Hum - ca. 14-15"
+
+
+Ne, das laeuft bei mir wie geschmiert ;-)
+
+
+Die einzige brauchbare NIC ist die 3c509.
+
+
+Dann ist jede Linux-Distro aber gleich die andere (ich erwarte jetzt
+von Dir nicht unbedingt Widerspruch). Ich meine, immerhin haben die
+BSDs verschiedene Kernel.
+
+
+Gestern irgendwo in einer Zeitung gelesen: "NEU: Linux"
+
+Gruss,
+Niclas.
+-- 
+     Niko I. Isernhagen + Lxixtgo @ Kantonsschule
+   http://srh.gddluhpnw.yf/ + Fontannen, Switzerland
+              ICQ# 17006675 + http://zuy.jjyui.ur/

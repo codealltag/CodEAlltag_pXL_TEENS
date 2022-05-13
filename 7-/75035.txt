@@ -1,0 +1,10 @@
+Gestern rief hier jemand an und meinte man müsse hier eben mal etwas
+prüfen und wolle sich später nochmal melden. Es meldete sich niemand
+mehr.
+
+Ralf
+
+-- 
+KGWC ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

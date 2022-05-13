@@ -1,0 +1,8 @@
+Ja, und pop3 ist auch nicht umfangreicher als ein HTTP. Sogar noch viel
+einfacher. Und der JVTG Server ist auch darauf ausgelegt, sonst würde er
+es nicht anbieten.
+
+Leonhard
+
+-- 
+Hier kommt nichts mehr.

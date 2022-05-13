@@ -1,0 +1,31 @@
+Ich hab vor nem Jahr oder so noch ne Anleitung gesehen, sie man ein
+heutige SCSI-FP an den C64 anschliessen konnte. Da ging zwar _einiges_
+an Platz verloren, aber man konnte sie nutzen. vielleicht sollte ich
+dies mal probieren, da könnte ich vermutlich alle meine Disketten
+draufspielen. 
+
+
+Genau. Wenn man rechnete, daß ich schon froh war, weil ich eine
+Diskette um 100 Blocks �berformatieren konnte... Kennt jemand zufällig
+die Umrechnung Blocks->KB? Oder wenigstens wieviele KB auf so ne
+mittelalterliche 5,25 DD-Diskette passen?
+
+
+Ja, und nie wird die Kiste vollends ausgenutzt. Im Gegensatz zu
+früher. 
+
+
+Mein Vater hätte sich sowas wahrscheinlich auch leisten können. Aber
+es war ja nicht sein Rechner, sondern meiner[1]
+
+Luigi
+
+[1] Den ich auch heute noch vor meinen Eltern versteckt halte. Wenn
+die den irgendwo ausserhalb meines Zimmers antreffen, wird er
+weggeschmissen.
+
+
+-- 
+Aktienkurse sind wie Erdgeschoßwohnungen.
+Ständig gibt es Einbrüche.
+[Georges Imbeck, Wochenshow]

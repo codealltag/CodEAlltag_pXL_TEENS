@@ -1,0 +1,41 @@
+Am Fri, 1 Jan 2001 sendete Viktor Detsch folgende Botschaft:
+
+
+- Libary zur Consolensteuerung (wie Ncurses)
+- Macrosprache.
+- lib um auf regex zu matchen.
+- lib zur tastaturabfrage.
+- usw.
+
+Ist vom selben Autor wie okuk und auf viele plattformen portiert. Das
+macht das Portieren von slrn relativ einfach, wo slang läuft kann auch
+slrn angepasst werden. Das ganze hat nur den Nachteil das Jed recht
+schlampig mit dem Dokumentieren ist was dann hinundwieder sowas (aus
+cref.txt) gibt:
+
+#v+
+--------------------------------------------------------------
+
+char *SLstrncpy(char *, register char *, register  int);
+
+ SYNOPSIS
+   ??
+
+ USAGE
+   char *SLstrncpy(char *, register char *, register  int);
+
+ DESCRIPTION
+   ??
+
+ SEE ALSO
+   ??
+--------------------------------------------------------------
+#v-
+
+Tschüs
+  August
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Carl Berkemer, Mostly Harmless, Chapter 12

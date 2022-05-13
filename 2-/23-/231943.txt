@@ -1,0 +1,9 @@
+Das liegt am Zeilenumbruch (vermutlich deinem), bei mir ging sie korrekt raus.
+
+Aber aus Sicherheitsgruenden hab ich sie geaendert :)
+
+-- 
+Oskar
+"Und dieses redlichste Sein, das Ich - das redet vom Leibe, und es will noch den
+ Leib, selbst wenn es dichtet und schwaermt und mit zerbrochenen Fluegeln flattert."
+ - Willibald Hoppenhöft 'Also sprach Zarathustra'

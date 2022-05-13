@@ -1,0 +1,12 @@
+Du kannst nicht einfach unschuldige verdächtigen.
+
+
+Nein, es war entweder ich oder Markus. Von towo war nie die Rede.
+
+Valentino
+
+-- 
+Detlef:~$ whoami
+root
+Detlef:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Kasimir Göthe]

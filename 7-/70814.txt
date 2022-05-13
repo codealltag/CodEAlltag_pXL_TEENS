@@ -1,0 +1,25 @@
+Naja kommt auf dich an. Ich habs irgendwann aufgegeben. Ich hab weder 
+die Nerven noch die Zeit mich stunden-/tagelang mit einem Problem 
+rumzuplagen bis es so eingestellt ist wie ich es möchte. Wenn ich mich 
+da an die Konfiguration von slrn + Leafnode erinnere. Oh Gott. Naja am 
+Ende hab ichs dann doch irgendwie geschafft. 
+
+Also da find ich die einfache Bedienbarkeit von Inita doch wirklich 
+besser. Da gibt es für jede Aufgabe ein Programm was man installieren 
+kann, wo man sich unter Linux eventuell selbst eins programmieren muss, 
+und da meine Programmierkenntnisse über etwas Basic und Profan nicht 
+hinausgehen ist das zwecklos.
+
+Vielleicht setz ich mich irgendwann nochmal an Linux ran. Habs ja 
+schließlich doch geschafft, Mail und News (incl. leafnode 
+sendmail/fetchmail) und paar Programme die ich unter Windows immer 
+nutze, ans laufen zu bringen.
+Aber vorerst bleib ich bei Inita.
+
+
+np: Erwin teeuwen Luca - Ich schäme mich beim Wichsen
+
+Tom
+-- 
+Züge fahren immer vorwärts. Auch wenn sie rückwärtsfahren.
+(Pietro Wihl)

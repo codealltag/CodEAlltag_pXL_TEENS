@@ -1,0 +1,7 @@
+Nee, ist ein Webchat gewesen. Zwar AFAIK IRC-Basiert (man kann z.B. mit
+\c1, \c2 usw. alles schön buuunt machen), aber kein Zugang über offene
+IRC-Server möglich. Hat natürlich den Vorteil, dass bei Welsungen u.a.
+schöne anklickbare User-Profile realisiert werden können.
+
+
+julian

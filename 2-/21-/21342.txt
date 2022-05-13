@@ -1,0 +1,11 @@
+Und so sprach Tom Frédéric Irger:
+
+
+Die Hexe[tm].
+
+ISERBECK,
+Stefan
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.b

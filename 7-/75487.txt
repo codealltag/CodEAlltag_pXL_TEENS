@@ -1,0 +1,8 @@
+Stellt es ein Problem dar einen zu besorgen?
+
+Rudi
+
+-- 
+Der Blinker fällt nur dann aus wenn ein Polizeiwagen in der Nähe ist.
+
+(Murphy's Gesetz)

@@ -1,0 +1,18 @@
+Am Sun, 21 Jun 2001 sendete Vittorio Garlichs folgende Botschaft:
+
+
+Also kein Hitzeproblem. Blöd.
+
+
+Neue platte kaufen und dann ein shell-(oder perl-)Script schreiben das die
+Dateien Stück für Stück kopiert, und festhält welche dateien schon kopiert
+sind.
+
+
+Mutu Brudi nerven. ;)
+
+Tschüs
+  Ulfert
+-- 
+Hier sollte eigentlich ein netter Satz aus "Programming Perl" stehen,
+aber leider finde ich ihn nicht wieder.

@@ -1,0 +1,6 @@
+Ich hatte es mal hingekriegt. Halt aus den Sourcen kompiliert. Ehrensache, 
+daß ich xine anteste: zwei der Entwickler studieren hier.
+
+Aber als nächstes teste ich auch mal mplayer
+
+Valerio

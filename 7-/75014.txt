@@ -1,0 +1,13 @@
+Praktisch ist es trotzdem. :-)
+
+
+Webserver? In Ebus? Hm, weiß nicht. Kann ich mir nicht vorstellen.
+Aber es ist sicherlich ein Risiko. Und je länger man es laufen lässt,
+desto größer wird das Risiko. Eine Risiko-Zeit-Funktion also.
+Proportional. So, und nun ist gut.
+
+Henning
+
+-- 
+Wohnmobilhändler Photoshop:
+  "Der Befehl konnte nicht ausgeführt werden, weil."

@@ -1,0 +1,29 @@
+Oh, toll. Wollt grad mal nachgucken:
+
+----->
+kvzfzk@opk ~ $ vi
+vi: error while loading shared libraries: cannot open shared object file: cannot load shared object file: No such file or directory
+<-----
+
+Schlecht? :(
+
+Und kann mir jemand sagen, was
+----->
+kernel: kaweth.c: Failed to set Rx mode: -16
+<-----
+heisst?
+
+Und warum shutdown manchmal mit einer nicht in den Logs auffindbaren
+Fehlermeldung stehenbleibt?
+
+Ich glaub, ich habs kaputtgemacht.
+
+
+Hatte ich auch gedacht. Irgendwie gings einmal nicht mehr. Frag mich nicht.
+
+Ivan
+-- 
+Ich wünscht', ich wär was Besonderes, 
+vielleicht würde es mir dann besser gehen - 
+intelligent, immer interessiert, stark und glücklich, selten frustriert
+Nur einer von einer Million!

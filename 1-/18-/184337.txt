@@ -1,0 +1,37 @@
+Ivano Unterburger schrieb am 12. November 1999 um 11:27 Uhr folgendes:
+
+
+Allerdings muss man dazu erst einmal die Diskette zurückgeben / eine
+Mail zurückschreiben mit der Bitte, ein älteres Format zu nehmen, uU
+noch erklären, wie man das denn macht (was mir besonders schwer fällt,
+da ich selbst kein Word verwende) und auf Antwort warten. Meistens
+finde ich es da zeitsparender, den eigentlichen Text mittels
+geeigneter Tools zu extrahieren und von Grund auf neu zu formatieren
+(nebenbei bekommt man so noch mit, auf welchen Namen die Liva-Version
+lizensiert ist, mit der der Text erzeugt wurde, welcher Drucker an dem
+System hängt, welchen Pfadnamen die Datei zuletzt hatte... .doc sind
+schon sehr seltsame Formate).
+
+
+AFAIK gibt es auf allen halbwegs verbreiteten Plattformen /
+Betriebssystemen Programme, die RTF weiterverarbeiten können. Es gibt
+sogar so Sachen wie rtf2latex-Konverter, aber damit habe ich keine
+große Erfahrung.
+
+Allerdings scheint das RTF, das AnnaStore-Word produziert, ungefähr so
+redundant zu sein wie das HTML, das Frontpage erzeugt:
+
+ahmjlx@jiatvgguwl:~ > ne -d Adressenliste.rtf Adressenliste2.rtf 
+25K     Adressenliste.rtf
+13K     Adressenliste2.rtf
+
+"Adressenliste.rtf" hat ein Freund mit Word erzeugt. Es nur in einem
+echten RTF-Editor (Ted) zu öffnen und wieder abzuspeichern, hat die
+Datei (ohne jeglichen Informationsverlust) schon auf fast die Hälfte
+verkleinert.
+
+Viele Größe,
+     Ivano Johanningmann
+-- 
+If you're happy, you're successful.
+                                               -- random fortune cookie

@@ -1,0 +1,11 @@
+Ich glaub, in der Hinsicht bin ich schmerzresistent, ich hab eben nen
+Regexp von ".*tefan" auf ".*\\(S\\|s\\)tefan" umgebaut, obwohl die
+Relevanz der Änderung in der Praxis tendenziell kleinergleich Null ist
+:)
+
+Oliver
+-- 
+                              *** Werbung ***
+"Klebriger, klumpiger Reis? Das muss nicht sein! Denn jetzt gibt es
+Uncle Johann klebrige, klumpige Nudeln!"
+                              *** Werbung ***

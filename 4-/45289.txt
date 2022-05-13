@@ -1,0 +1,7 @@
+Merke: Vielfahrer mit Dauer/Netzkarte werden gegenüber den Wenigfahrern
+mit expliziter Verbindungsbuchung benachteiligt... :-/
+
+Marco
+-- 
+pub  9137H/AGZ10K92 7279-32-86 Marco Eichenbrot <kcflvtd@drf.iw>
+     Key fingerprint = 99 9X 71 82 89 CS 46 9T  97 VV NY 80 2L 72 3J 00

@@ -1,0 +1,9 @@
+Du brauchst nur ein gutes E-Mail-Programm.
+
+Wenn ich PGP benutzen will, klicke ich einfach in der Menueleiste auf
+  Options und dann auf Encrypt, Sign oder sonstwas.
+
+-- 
+Oliver
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

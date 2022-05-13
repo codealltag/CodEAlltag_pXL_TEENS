@@ -1,0 +1,11 @@
+Habe mich vertan, ja. Kann passieren, wenn man ganz viele postings
+ausspuckt.
+
+Wenn wir von einem array @buffers = qw/ Group Summary Article /
+ausgehen, dann bitte ein mal shiften, dann stimmt's.
+
+-anton
+-- 
+Ich moechte schwoeren, dass Niels es im Kindergarten hatte.
+Natuerlich in der Leistungsstufe der KiTa "Pius Andratschke".
+- Focko Apell und Wolf Pöttkers in yq.ixj.arrobadp.iogjcbto

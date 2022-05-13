@@ -1,0 +1,7 @@
+<vermut>
+Programmieren lernen?
+</vermut>
+
+Mario
+-- 
+Tcl: Try, clear and laugh

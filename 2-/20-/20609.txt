@@ -1,0 +1,13 @@
+Würde ich ja gerne, aber ich bekomme da immer Fehler, weil die
+libSDL wohl nicht alles kann.
+
+Hmm *Altesdlversionzieh*
+
+Aber deswegen nicht weniger Cool. Wird Zeit, das jemand Scummvm
+Spacequest- und Larrytauglich baut.
+
+mfg, 
+	Fabio
+-- 
+BOFH excuse #446:
+Mailer-daemon is busy burning your message in hell.

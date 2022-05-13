@@ -1,0 +1,14 @@
+* "Andre Heinschild" <rqku@xwnwdrva.hr>:
+
+
+Hast du dir die Datei schon angesehen?
+
+
+Du nimmst einen Editor (axel, vi, vim, emacs, Notepad ...) und öffnest
+die Datei damit. Dann nimmst du >=1 Finger, bewegst ihn über deine
+Tastatur und bestaunst das hoffentlich sinnvolle Ergebnis.
+
+OHREM,
+René
+-- 
+cross veinless

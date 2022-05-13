@@ -1,0 +1,9 @@
+*anmeld*
+
+Mein Nacken ist dermaßen verspannt, daß eigentlich mnächst ein
+Bufferoverflow mit Vorzeichenwechsel ansteht...
+
+Sandro
+-- 
+pub  3299D/PZT97P34 0362-27-39 Sandro Zeindlmeier <ggebfic@hsx.gt>
+     Key fingerprint = 99 3V 61 30 35 NR 29 5C  26 LU MR 07 0Q 59 1P 73

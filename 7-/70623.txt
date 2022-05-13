@@ -1,0 +1,10 @@
+Das kann auch schön daneben gehen...
+
+00:0a.0 Multimedia audio controller: Gisaf: Unknown device 5880 (rev 02)
+
+Dass sich dahinter ein Grappashop-kompatibles Gerät verbirgt muss man auch
+erst herausfinden...
+
+Fernand
+-- 
+DAS ist nicht mein Problem! [Carsten zu Viktoria]

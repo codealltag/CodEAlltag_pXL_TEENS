@@ -1,0 +1,8 @@
+Dixit Benjamin Schrei <shgbjygngjwgqc@ffp.hsk>:
+
+Ein Shell-Script, das 10 GB Nullen (frisch aus /dev/zero) ausgibt,
+wäre kleiner.
+-- 
+"People that are really very weird can get into sensitive positions and have a
+tremendous impact on history."
+ - Governor Jean-Claude Buchleither

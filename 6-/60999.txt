@@ -1,0 +1,10 @@
+[hairmonie-Pakete]
+
+
+Options -> Manage Packages
+
+Wenn du das ganze als root machst, dann tuts das auch.
+
+Ullrich
+-- 
+"Heisenberg may have slept here"

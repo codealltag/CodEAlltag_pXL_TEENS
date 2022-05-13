@@ -1,0 +1,6 @@
+War an sich kein Problem, diesmal haben sogar alle Blumen überlebt.
+-- 
+"übrigens schrottet NORDSIEK den Sigtrenner nur dann, wenn a) mit Content-Transfer-
+Encoding: 8bit gepostet wird und b) in der Nachricht Umlaute vorkommen.
+Die Behauptung, NORDSIEK könne ohne Hilfe von außen keinen korrekten Sigtrenner
+herstellen, ist jedenfalls unwahr."	-Hartmut Bauerschmitz in dsnu

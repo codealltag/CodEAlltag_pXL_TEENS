@@ -1,0 +1,16 @@
+Irgendwann im Januar schreibselte Elmar Reppschläger:
+
+
+Warum eigentlich nicht?
+
+[ Gnus manual ]
+
+Wer sagt eigentlich, dass man Face als Header einfügen muss? Wie du
+siehst, funktioniert das auch genauso gut in Signaturen. ;-)
+
+Wilhelm
+-- 
+Face: iHHZQw2IHqtNLUNPEHlFCpNESGWAZKUlHCRNPFZf0Yv8RUGCDcKQNAK7/2r/KxXzx0FBTWIR
+ CFSPGEUQHVNETGGArXKcBqQ9LMYMUNcEGQL4dK1IGE8ASAoN9t+p8izwnp1pPORCvkydcYZX
+ m4i7qWaJSkuy+C2Vi55OvOU1hNHYAwUlrL1SarTdH5YQ3uOJDsEnnQt2mlrLF3H7+IZfw/lB
+ rLLiEuHkD8TPb1Aw/t8t764UQ2x+bpYRPXQVBTHKDE9QYRO=

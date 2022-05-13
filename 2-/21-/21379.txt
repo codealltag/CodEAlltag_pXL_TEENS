@@ -1,0 +1,7 @@
+Gibt es schon 3x[0-2][0-9]?
+
+mfg, 
+	Johannes
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

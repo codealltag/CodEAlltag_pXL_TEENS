@@ -1,0 +1,11 @@
+In <Lass-mich-in-ruh7k3f74.1c5.fschueller@fschueller.cologne.de>, Bodo
+Zegers schrieb/wrote:
+
+
+Dann weiß ich nicht was man da falsch machen kann; wenn man im Yast nicht
+gerade 'gesamte platte für linux einrichten' wählt ... 
+
+Winfried
+-- 
+             Homepage @ http://ggzb.ed/vp - ZEK @ 5618660
+Nichts geschieht ohne Risiko, aber ohne Risiko geschieht auch nichts.

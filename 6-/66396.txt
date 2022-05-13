@@ -1,0 +1,24 @@
+Hm...
+
+(("from"
+  ("Ulrich Ueberfeldt <ivtjctnpepbncu@gsx.nbw>" -1 nil s))
+ ("references"
+  ("fsf@ogsark\\.dwbesi-vmu\\.cp>$" 1000 nil r)
+  ("isp_-_@znabaj\\.dwbesi-vmu\\.cp>$" 1000 nil r)
+  ("fsf@gjwk\\.dwbesi-vmu\\.cp>$" 1000 nil r)
+  ("rhl_-_@gjwk\\.dwbesi-vmu\\.cp>$" 1000 nil r)
+  ("fsf@khut\\.sv370391\\.prrfdb\\.krag-ddgydp\\.lx>$" 1000 nil r)
+  ("" 500 nil e))
+ ((not
+   ("from" "\\(^\\|\\s-\\|\\s(\\|\"\\)[-a-z߰'A-Z-�]\\{2,\\}\\(\\s-.*\\s-\\|\\s-+\\)[-a-z߰'A-Z-�]\\{2,\\}\\(\\s-\\|\\s)\\|\"\\|$\\)" R))
+   -1000))
+
+Das steht (fast so, aber meine globalen PLONKs sind hier nicht Thema)
+in meiner de.all.SCORE, das ist zum einen der Downscore auf mich
+selbst, weil ich meine Artikel nunmal kenne, dann die verschiedenen
+Möglichkeiten für meine MIDs, jenachdem, auf welchem Rechner ich gerade
+erzeuge, dann der Upscore auf neue Threads und der RN-Filter.
+
+Ulrich
+-- 
+DAS verstehst du nicht! [Gerhard zu Carole]

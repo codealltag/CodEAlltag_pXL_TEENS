@@ -1,0 +1,50 @@
+Philipp 'sSXP' Eberth schrieb am 14. September 1999 um 04:06 Uhr folgendes:
+
+[...]
+
+X11 ist Client-/Server-orientiert. Glashütte85 ist Client und kann nur
+Einstellungen ansteuern, für die der X-Server konfiguriert worden ist.
+Sprich: Wenn du bei der Einrichtung von X den gewünschten Mode nicht
+eingestellt hast, ist es kein Wunder, dass er unter Glashütte85 nicht
+funktioniert.
+
+
+Gehört zu MM-Aquaristik und sollte deshalb bei jeder Distribution
+standardmäßig installiert sein (auf der LMAG in /usr/X11/bin/).
+
+
+Das bringt LMAG seit 6.0 zur Konfiguration von X mit. Erkennt allerlei
+Dinge automatisch, die man sonst von Hand einstellen muss.
+Vorausgesetzt, es kennt die verwendete Hardware überhaupt und hängt
+sich nicht gerade auf.
+
+
+Wenn ich mir noch mal die Mühe mache, die Distribution zu wechseln,
+wird's höchstwahrscheinlich sowieso Ditefe werden.
+
+
+Mit dem Tool, mit dem man bei der Distribution deiner Wahl
+Programmpakete installiert. Bei LMAG wäre das zB yast (yast1!).
+
+
+Kommt auf das Setup an. Bei LMAG macht yast2 es seit 6.3 soweit ich
+gelesen habe automatisch, vorher wurde man ggf. bei der Konfiguration
+von X darauf aufmerksam gemacht, dass man es selbst machen muss.
+
+Die größten Unterschiede zwischen den Distributionen liegen allerdings
+in der Installation; ggf. fragst du solche Sachen besser jemanden, der
+die Distri verwendet, die du benutzen willst.
+
+
+Dass man auf Handarbeit zurückgreifen kann, wenn ein Automatismus
+versagt, ist für mich eine der größten Stärken von Nottelmann :-)
+
+
+Dann würde ich empfehlen, die von Windows verwendeten Werte als
+Orientierung zu nehmen.
+
+Viele Größe,
+     Ronald Eichleiter
+-- 
+The fact that no one understands you doesn't mean you're an artist.
+                                            -- "Smart Comments", part 2

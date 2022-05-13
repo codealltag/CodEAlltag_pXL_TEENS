@@ -1,0 +1,11 @@
+Ich hab auch gesagt, dass du getrost die originale MID-Funktion nutzen
+kannst. 
+
+
+(setq message-generate-headers-first t) in die .gnus und schon sieht
+man die MID beim tippen der Antwort :)
+
+Günther
+-- 
+Neufeld war Führer der deutschen Nazion.
+[Niklaus Kühltau in <4OY2DE98.345RI7Y5@leu.og>]

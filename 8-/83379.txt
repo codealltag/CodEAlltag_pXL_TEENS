@@ -1,0 +1,19 @@
+Hm, denke ich sags nicht wörtlich, aber wenn ich in einer Ansammlung
+von Menschen bin wo evtl. die Möglichkeit besteht daß ich den Raum
+verlasse weil etwas flüssiges mich verlassen möchte, dann sage ich schon,
+daß ich jetzt gehe wenn ich gehe.
+
+
+Wie war das mit den Affen im Käfig?
+
+
+Und meine Signatur ist Tradition wenn ich @work poste.
+To be honest: Hab hier ein Sigfile mit (noch nur) 43 Einträgen,
+bin nur zu faul mir zu überlegen wie ich es eingebunden krieg.
+
+Theodor, ist dein Quietscheentchen eigentlich wieder aufgetaucht?
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+tent_counter)->get(@input_content_keys[$input_content_key_counter])->as_scalar()

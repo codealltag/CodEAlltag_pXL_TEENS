@@ -1,0 +1,10 @@
+Am 11 Sep 1998 10:41:00 +0100 sendete David Grotegut
+folgende Botschaft:
+
+
+hmm mailadresse != From: header ;)
+Und in dem sind entweder realname in runden- oder mailadresse in Eckigen
+klammern erlaubt.
+
+Tschüs
+  Guy

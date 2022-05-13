@@ -1,0 +1,8 @@
+Würde ich ja gerne. Leider kann man bei einem TAH-Terminalserver immer
+nur alleine eine Session betreiben.
+
+mfg, 
+	Sascha
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

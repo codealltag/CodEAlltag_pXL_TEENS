@@ -1,0 +1,7 @@
+begin quoting Niclas Sellner <expires010331@usenet.th-h.de>:
+
+Schreib' einen RFC und la ihn in der BCP-Reihe veröffentlichen.
+-- 
+Wenn die Enamo, Herr Sandhofe, zum Thema Rechtsradikalismus im Internet fordert,
+das Material zu verbieten oder zu filtern, dann werfe ich Ihnen vor, die 
+Probleme nicht sehen zu wollen.    [Wolf Pogner in Edev 20/2000, S. 104]

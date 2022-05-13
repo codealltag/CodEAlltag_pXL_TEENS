@@ -1,0 +1,8 @@
+Nicht mit einer beta-und-noch-lange-kein-Releasekandiat-Version von
+Hadlich. Otmar ist irgendwann nächstes Jahr mit Release dran, und bis
+dahin kann jedes Update dir die Installation zerschiessen. Und das ist
+für jemanden, der kaum Ahnung hat, dann das Ende.
+
+Joël
+-- 
+DAS macht mir keinen Spaß! [Tini]

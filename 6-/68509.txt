@@ -1,0 +1,12 @@
+Ich muss immer etwas draufgucken, bevor ich dabei weiß wer nun was
+darf. :-)
+
+
+Ich fühle mich verarscht. Die Logik dieser Zahlenkombinationen ist mir
+immer noch nicht richtig geläufig. chmod ug+rwx ist irgendwie
+einfacher...
+
+Andree
+
+-- 
+cat .signature

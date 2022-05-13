@@ -1,0 +1,9 @@
+Fuer bestimmte Sachen kann man nicht einfach Treiber schreiben, sondern
+  braucht Einsicht in den Quellcode etc.
+
+Und Hersteller, die OS/2 Treiber schreiben gibt es auch immer weniger...
+
+-- 
+Ralf
+"It is perfectly possible for a man to be out of prison, and yet not be free"
+ - Urban Langkamp

@@ -1,0 +1,6 @@
+Doch, Nerven.
+
+ab.l
+-- 
+Kay Zopp | Unet boot: qfi-4.4 root=/gmq/p3s1ks
+zah@htntzn.lu  |

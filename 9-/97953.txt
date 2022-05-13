@@ -1,0 +1,22 @@
+Am Mon, 1 Sep 2000 sendete Reiner Kuler folgende Botschaft:
+
+
+RfC 1036:
+#v+
+Message-ID's have the syntax:
+
+                 <string not containing blank or ">">
+
+
+In order to conform to RFC-822, the Message-ID must have the format:
+
+                      <tpogxs@pgbw_ioitfr_bmiv>
+#v-
+
+
+man 3 calloc
+
+Tschüs
+  August
+-- 
+Notorisch Schreibfaul.

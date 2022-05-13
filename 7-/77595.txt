@@ -1,0 +1,6 @@
+Solches tippte Olaf Unterste-Heufken?naglschmid:
+
+`glib-config --cflags` und `glib-config --libs` sowie -lxmms sollten
+helfen.
+
+Ignaz

@@ -1,0 +1,7 @@
+Bei der Vorlage ?
+
+mfg, 
+	Noël
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old ZWWT cpu - insufficient processing power

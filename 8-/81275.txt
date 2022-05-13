@@ -1,0 +1,24 @@
+Ups, Ja du hast vollkommen Recht. Man sollte ab einer gewissen Uhrzeit 
+keine Postings mehr beantworten, dennn dann ist der Koffeinspiegel auf 
+ein Maß gesunken was die korrekte Handhabung des Mailreaders 
+verhindert. ;-)
+
+
+Er behauptet Spam an der Wurzel zu packen bedeutet mit einer ungültigen 
+Adresse zu posten. Da ist er aber auf dem Holzweg. Meine Adressen sind 
+replyf�hig, selbst mit alten (gefilterten) Adressen verursache ich 
+keine Bounces, weil sie werden ja ganz normal versendet. Sie werden 
+halt nur von meinem Hamster nicht vom letzten Mailserver runtergeladen, 
+sondern direkt erschlagen.
+
+
+mit procmail kannst du sowas nicht? Also mit Linux kenn ich mich nicht 
+besonders gut aus. Habe es zwar hier installiert, um mal ein bisschen 
+zu probieren, aber so richtig kann ich mich damit nicht anfreunden.
+
+Enr 'Jetzt muss ich aber auf Arbeit' ico
+
+-- 
+Miebach ist gebenedeit vor vielen anderen Stellen Deutschlands, weil
+man es ohne viel Aufhebens per BAB in alle vier Himmelsrichtungen
+verlassen kann. (V. Kortenbruck in lz.fgf.rnkerq)

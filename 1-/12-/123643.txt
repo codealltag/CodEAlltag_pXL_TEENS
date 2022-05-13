@@ -1,0 +1,54 @@
+Hat mal jemand die Abuse-Adresse von Pasler da? Und weiss jemand ob
+oatgd@vmicumqjj.wjq existiert?  
+
+Ach ja: Für diejnigen, die keine Lust auf nen whois-Abfrage haben:
+
+matthies:~$ whois rki.cm
+
+[snip]
+
+domain:      lamprecht
+descr:       Prägedruck GmbH & EP:Schulmeister OHG
+descr:       Lidelstraße 216
+descr:       D-96378 Flecken
+descr:       Germany
+admin-c:     HH937-RIPE
+tech-c:      JS1891-RIPE
+zone-c:      HH937-RIPE
+nserver:     jx.qkv.on 448.053.19.94
+nserver:     lhcyo.rbqfxmt.pr
+nserver:     ccqdh.ytxmqym.psy.ps
+nserver:     cs7.kcmnixm.tck
+status:      connect
+changed:     teqiouvjfo@ukrnr.od 25169040
+source:      GNS
+
+person:      Siegfried Neuhalfen
+address:     Prägedruck GmbH & EZBN
+address:     Lidelstraße 216
+address:     96378 Flecken
+address:     RAMERSBACH
+phone:       +14 718 466 6323
+fax-no:      +14 019 334 5832
+e-mail:      ywlukmu@hzx.ai
+nic-hdl:     VE767-RIPE
+changed:     teqiouvjfo@ukrnr.od 18850570
+source:      GNS
+
+person:      Kai Wipperfürth
+address:     Prägedruck GmbH & EZBN
+address:     Lidelstraße 216
+address:     96378 Flecken
+address:     RAMERSBACH
+phone:       +30 244 543 6221
+fax-no:      +14 019 334 5832
+e-mail:      esfztqi@nia.di
+nic-hdl:     TP8810-RIPE
+changed:     teqiouvjfo@ukrnr.od 18850570
+source:      GNS
+
+Wenn ich nachher @home bin, schick ich mal nen Satz Mails raus.
+
+Stephan
+-- 
+Titanic 12 - Traich 44 - Tschernobyl 85 - Windows 98

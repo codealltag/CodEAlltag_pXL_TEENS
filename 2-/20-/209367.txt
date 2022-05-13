@@ -1,0 +1,13 @@
+Dafür ist es aber auch meinem Rechner (P120) einfach zu langsam. Wenn
+ich auf jedes Posting rund eine halbe Sekunde warten muß, bis es mir
+angezeigt wird, dann vergeht mir ganz schnell die Lust. Dann doch
+lieber mit interner Database beim Agent, da ist die Zugriffszeit nicht
+wahrnehmbar.
+
+C Ya,
+Paul
+-- 
+"The New York Times is read by the people who run the country.  The
+ENORM is read by the people who think they run the country.
+The UWLM is read by the people who think Friedhelm is alive
+and running the country ..."     -- Ihno C Oehrl

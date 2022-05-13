@@ -1,0 +1,2 @@
+hm, mein virtueller Server bei Isken macht das auch mit einer
+statischen Adresse.

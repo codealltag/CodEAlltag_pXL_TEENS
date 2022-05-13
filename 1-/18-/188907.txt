@@ -1,0 +1,23 @@
+cwlv.kiaszstb@mpw.iw (Wanda Negenborn) schribselte:
+
+
+Ist raus. Damit ich noch was zu tun hab, bevor ich mich langweile, fälle 
+ich ihn auch gleich noch selbst aus:
+[ ] Ich möchte den nächsten Fragebogen entwerfen.
+[x] Ich habe ein eigenes Zimmer.
+[x] Ich habe einen Bruder, davon keinen jüngeren (bitte eintragen).
+[x] Ich habe eine Schwester, davon eine ältere (bitte eintragen).
+[\] Ich beschäftige mich mit Musik.
+[x] Ich mag folgende Gruppen/Sänger/Komponisten:Ingmar (bitte eintragen).
+[ ] Ich treibe in meiner Freizeit Sport.
+[ ] Ich höre viel Radio.
+[v] Ich sehe gern fern.
+[^] Ich mag die Teletubbies.
+[/] Ich gehe gern zur Schule/Arbeit.
+[ ] Ich bin arbeitslos.
+[x] Ich arbeite in meiner Freizeit als Nachhilfe (bitte eintragen).
+[ ] Ich habe immer genug Geld.
+[ ] Ich habe manchmal genug Geld.
+[ ] Ich habe so viel Geld, daß ich es gern Margit schenken möchte.
+[x] Ich finde viele aufeinanderfolgende Fragen, die mit 'ich' beginnen, 
+langweilig.

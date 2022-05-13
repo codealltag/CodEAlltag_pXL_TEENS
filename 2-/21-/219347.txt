@@ -1,0 +1,13 @@
+Am Sun, 7 Sep 1999 13:30:02 +0200 sendete Justin Steudler
+folgende Botschaft:
+
+
+Ich würde das letzte noch in den Hintergrund schicken( also ein '&'
+hängen):
+
+make wachsen &
+
+Oder willst du das ganze Jahr lang dem Grass beim wachsen zugucken?
+
+Tschüs
+  Roger

@@ -1,0 +1,5 @@
+Damit keiner den Webspace von Yipie^WYahoo verwendet, um Bilder von
+externen Webseiten abzulegen. Die Bilder werden nur "rausgerückt", wenn
+der Referer auch von Käsestube kommt.
+
+Garrelt

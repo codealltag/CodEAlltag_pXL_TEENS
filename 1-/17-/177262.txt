@@ -1,0 +1,8 @@
+Und wenn schon.
+AFAIK ist es die sicherste derzeit bekannte Verschluesslung (ausser OTP),
+  also ist es die erste Wahl (und auf jeden Fall besser als Klartext).
+
+-- 
+Alexandre
+"Am I human ?    Or am I just programmed to believe I am human ?"
+                                                 - Olaf Mößer

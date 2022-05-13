@@ -1,0 +1,18 @@
+Am Tue, 16 Aug 2001 sendete Hilmar Eisleb folgende Botschaft:
+
+[vim]
+
+Soll ich dir meine Schlepptop-tastatur leihen?
+
+
+Im Posting? Mit JJU.
+
+
+':set paste' und dann C&P oder ':r $DATEINAME' und dann noch 
+#v+
+davor und
+#v-
+dahinter.
+
+Tschüs
+  Arian

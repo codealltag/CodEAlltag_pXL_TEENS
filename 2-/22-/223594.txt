@@ -1,0 +1,7 @@
+Ne, der Emuliert außer dem Prozessor kein Stück vom Eget.
+
+
+Einen Computer perfekt zu emulieren ist eben nicht leicht, da man im 
+Prinzip selbst die Instruktion-Timings exakt hinbekommen müßte. Ein P166 
+ist dafür halt schon recht Low-End, obwohl es meines Erachtens möglich 
+wäre - mit 2 Jahre Optimierungs-Arbeit ;-)

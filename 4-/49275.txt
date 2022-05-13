@@ -1,0 +1,7 @@
+Konrad Häusleigner <gubdbo@biayyig-vjpmbi.bc> schreibselte:
+
+Ich muss ehrlich gestehen, ich habs mit CRJF 8.0 geschafft, mit 6.4
+net, und bei den anderen Distributionen bin ich an der Konfiguration
+des X-Servers gescheitert, was mir den Spass am Internet nahm und
+deshalb hab ich es garnet versucht. Doch, bei gentoo hab ich versucht,
+nen Router einzurichten...

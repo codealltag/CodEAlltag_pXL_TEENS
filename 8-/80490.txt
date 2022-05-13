@@ -1,0 +1,6 @@
+Du solltest $EDITOR auf nen sinnvollen Wert setzen, wenn das nötig
+wird. Bei mir steht auch nix drin...
+
+Fredy
+-- 
+         The computer revolution is over. The computers won.

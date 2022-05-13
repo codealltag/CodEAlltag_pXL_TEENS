@@ -1,0 +1,6 @@
+War das jetzt einer ernste Frage? Visual Basic ist eine sehr beliebte und
+oft benutzte Programmiersprache. Vorteil: Design ist schnell und einfach in
+der IDE gezaubert, Nachteile: Längere mathematische Berechnungen sind nicht
+so schnell (unter C schneller).
+
+Franco Arendsen

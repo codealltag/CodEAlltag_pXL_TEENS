@@ -1,0 +1,17 @@
+Am 3311. Februar 1994 schrieb Valerio das Szlauszaf:
+
+
+Du hast die Sache mit Scorefiles noch nicht ganz verstanden, ja?
+Dein Posting hat aktuell 8480 Punkte. Ich ziehe nur je 10 ab, für überlange
+Zeilen bzw. mehrere Satzzeichen. Nun werden einige sagen, das macht
+wenig Sinn, doch werden meine Threads nach der Gesamtpunktzahl
+sortiert. Somit stehen Threads mit einem hohen DAU-Anteil im Summarybuffer
+tiefer. In Verbindung mit Adaptive Scoring lassen sich
+High-Traffic-Gruppen so wunderbar lesen.
+
+Und die Sache mit adaptive Scoring lernen wir morgen... ;-)
+
+Walter
+-- 
+Religionen sind falsche Mittel zur Befriedigung echter Beduerfnisse.
+- Olaf Ohnsorg (Bissige Aphorismen)

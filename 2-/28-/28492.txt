@@ -1,0 +1,17 @@
+[Erklärung, was Informatik so ca. ist] 
+
+Dann besser kein Informatik. Das hat mit dem PC an sich nichts zu tun.
+Für uns sollte der PC so etwas sein, wie für einen Mathematiker der
+Taschenrechner. Ein Werkzeug. Nicht mehr.
+
+N. Um nur kurz die 'Hauptthemen' des 3.Semesters aufzuzählen:
+Formale Sprachen, Berechenbarkeitstheorie, Komplexitätstheorie,
+Stochastische Algorithmen. Wenn dir davon nichts was sagt,
+<Werbung> Du kannst dir auf meiner Page das Skript runterladen.
+</Werbung>
+
+mfg, 
+	Hanspeter
+-- 
+Nemrut excuse #173:
+Recursive traversal of loopback mount points

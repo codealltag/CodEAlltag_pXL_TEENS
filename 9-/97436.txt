@@ -1,0 +1,19 @@
+* Volkmar Voelkl <zykliscapdm@hwzyhsunmyl.kj>:
+
+
+Da kannst du natürlich auch einen lokalen Server zwischenschalten.
+
+
+Es gibt da:
+
+- sendmail
+- exim
+- postfix
+- qmail
+
+Und irgendeinen habe ich sicher vergessen. Keine Ahnung, was da
+anf�ngerfreundlich ist.
+
+Nick
+-- 
+cross veinless

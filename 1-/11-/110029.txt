@@ -1,0 +1,15 @@
+Und so sprach Leonhard Zschorlich:
+
+
+So?
+
+#v+
+rfbda@dbokjqf:/etc/leafnode> grep ^[^#] config | wc -l
+       8
+#v-
+
+Gruss,
+Chr "kein Plan von regexp" is.
+-- 
+::: (signoff/#NetBSD) term_emu (Quit: Wer andern eine Grube graebt ist
+    die Mutter der Porzellankiste)

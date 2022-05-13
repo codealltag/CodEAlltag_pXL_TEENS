@@ -1,0 +1,35 @@
+Am Fri, 29 Jan 2001 sendete Valentino Ohlenbusch folgende Botschaft:
+
+
+Tja, dann wirds  wohl auch nicht wirklich gewünscht. ;)
+
+
+Da gibts zwei möglichkeiten: BRowserhersteller anmailen oder selber
+machen. ;)
+
+
+Js ist vergewaltigung von html.
+
+
+w3m, lynx & co, die öffnen bilder immer mit externen Programmen. Oder
+mein Netscape, mein wm kennt keine Fenster deren grüsse vom Programm
+verändert werden könnte, das kann nur der user (eingeschränkt).
+
+
+Doch.
+
+
+Bei html hat der server nie was vorzugeben, höchstens vorzuschlagen. Und
+dann auch nicht so einen Kleinkram. Wer sowas will soll pdf oder sop
+nehmen.
+
+
+Ich glaube ich muss mal mein scorefile etwas ändern. 
+
+Tschüs
+  Jean-Pierre
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Ulfert Philippi, Mostly Harmless, Chapter 12

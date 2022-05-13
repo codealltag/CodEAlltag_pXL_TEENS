@@ -1,0 +1,14 @@
+Eher 
+	for(;;) {
+		printf("Doofszaf\n");
+		printf("Nicht Doofszaf\n");
+		}
+
+
+Kostverächter.
+
+mfg, 
+	Roberto
+-- 
+EDV excuse #58:
+high pressure system failure

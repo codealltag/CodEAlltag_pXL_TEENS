@@ -1,0 +1,9 @@
+Ich sehe, meine Nicht-Lese-Entscheidung hat mir kostbare Freizeit
+gerettet.
+
+So long,
+Rolf Ottmar Cok
+-- 
+http://oyoi.ufjeg.ej/evf/
+Neu: Hamster 1.3.22.103 (hoffentlich endlich letzte Fassung vor 23.0)
+Ebenfalls neu: Korrnews 3.2 & CopyIf 1.23 (Debugmodus repariert u.a.)

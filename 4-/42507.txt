@@ -1,0 +1,9 @@
+Fredy Ettlin <ryd@etbtz.tob> schreibselte:
+
+
+Aber nicht das standart Lenauplatz-Kiosk-dsl, weil das hat nur 128k upstream, ich hab
+aber mit 768k gesaugt...
+
+-- 
+np: radio
+this was posted by Nils Ochsenfeld <cclutk@fof.bkt>

@@ -1,0 +1,12 @@
+Es war im November 2001 als Brigitta H. Hermann tippte:
+
+
+LIESELOTTE! Ich bin ja gerade dabei mein Layout mit CSS zu gestalten. Doch ist
+dies auch nicht der Weisheit letzter Schluss. Wenn man da mit dem Netscape
+4.7 und abgeschaltetem Javascript ankommt, sieht man nur noch eine
+völlig deplatzierten Text. ;-(
+
+Florian
+-- 
+"Es gibt einfach alles fuer Windows." - "Aber nicht alles ist auch
+fuer Windows geeignet." (Matthias Groene und Eberhard Pagenkemper)

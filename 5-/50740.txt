@@ -1,0 +1,9 @@
+Am Fri, 10 Okt 2002 sendete Willi Pittel folgende Botschaft:
+
+
+Wenn ich dem Server eine von mir signierte (Und mit seinen Key
+verschlüsselte) Nachricht "Meine IP ist 315.6.4.3" schicke reicht das
+doch vollkommen.
+
+Tschüs
+  Nicolas

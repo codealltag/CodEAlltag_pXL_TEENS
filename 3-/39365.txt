@@ -1,0 +1,13 @@
+Im Oktober wurden 24 Zeilen von Clemens Vorderbrück verkündet:
+
+
+So leicht lässt sich doch mein Trampelgnu auch nicht aufs Glatteis
+führen. Letztens, als ich hier tausende Mails aus einer mbox in eine
+nnml-Gruppe kopierte, öffnete sich plötzlich ein Buffer, in dem stand
+so etwas wie: "x% RAM verbraucht. Bitte beenden sie XEmacs." Oder so
+ähnlich.
+
+Giuseppe
+-- 
+Hier ist alles hoffnungslos. Wie man sieht.
+(Carsten Dykhoff zu Diedrich R. Fingerling)

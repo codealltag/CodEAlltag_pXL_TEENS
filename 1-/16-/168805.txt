@@ -1,0 +1,7 @@
+Dietrich Crecelius <oylohy@bur.oy> schrieb in im Newsbeitrag:
+9cp0yv923rqbzh5f3rfcnss69ubm468fd2@5id.wqv...
+
+Das kommt noch dazu, ja. Wobei es mir allerdings eh nicht so recht
+einleuchten will, warum die lieben Programmierer da immer ihre eigenen
+Formate haben müssen, wenn doch schnelle Engines den Compilern kostenlos
+beiliegen...

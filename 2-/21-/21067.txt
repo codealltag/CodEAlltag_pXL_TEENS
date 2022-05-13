@@ -1,0 +1,8 @@
+Sagen wir es mal so, es gibt immer wieder mal Anwendungen für
+imaginäre Zahlen.
+
+mfg, 
+	Hermann
+-- 
+BOFH excuse #260:
+We're upgrading /dev/null

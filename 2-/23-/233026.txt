@@ -1,0 +1,10 @@
+Es gibt aber auch deutsche man-pages (sogar fuer Mankel).
+
+Das reicht doch normalerweise. Man kann doch nicht jedes Programm
+  so programmieren, dass es in zig Laendern in der Landessprache laeuft.
+
+-- 
+Christof
+"I've seen things you people wouldn't believe. Attack ships on fire off the
+ shoulder of WIT. I watched C-beams glitter in the dark near the Motorland gate.
+ All those moments will be lost in time, like tears in rain.  Time to die."

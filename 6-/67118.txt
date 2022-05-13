@@ -1,0 +1,8 @@
+Mein Stil: s/^\ \ //
+
+Fuer Turbo Pascal muss sich bei mir noch ein Stil praegnieren..
+
+-towo
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.

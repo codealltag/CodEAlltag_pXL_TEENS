@@ -1,0 +1,3 @@
+Eigentlich nicht. Alles was da IP ist hat mindestens 100Mbit, und faehrt
+die auch konstant. Der Flaschenhals ist wohl eher der "SCSI mit
+9600Baud" Controller.

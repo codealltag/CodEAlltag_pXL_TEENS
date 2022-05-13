@@ -1,0 +1,32 @@
+[-thh und Th.H massakrieren sich gegenseitig]
+
+Cut! So geht das doch nicht, meine Herren! Es sind potentiell noch
+jüngere Zuschauer anwesend, da kann man doch nicht einfach solch brutale
+Sachen machen. Jetzt geht ihr beide wieder in eure Ecken, und wir
+versuchen das ganze nochmal, und zwar für's Kinderprogramm.
+
+<Voice mode=ausdemoff>Action</>
+<Musik Mode=fade_in; src=Sendungmitdermaus.mp3>
+<Voice mode=ausdemoff>
+So liebe Kinder, heute zeigen wir euch, was passiert, wenn man im Usenet
+'Jehova' sagt. Das da drüben *deut*, das ist der Ludger. Der hat zwar
+nicht 'Jehova' gesagt, sondern dasz er Physik studiert, das kommt aber 
+auf das Gleiche raus. Der, der vor ihm steht, das ist -thh, sein       
+Bruder. Der, der dort hinten *andererichtungdeut* steht, das ist Edo
+Austmeyer. Der hat sich, wie ihr sehen könnt, schon mit Steinen eingedeckt,
+die er nach dem Ludger werfen will, weil der Ludger das ja verdient
+hat, schlieszlich hört er ja Physik. Weil der Ludger aber ziemlich
+schnell ist, und der Edo nicht so genau zielen kann, bekommt -thh die
+Steine alle ab. Das tut zwar Weh, macht aber nichts, -erik hat ja
+schlieszlich ein dickes Fell.
+So, liebe Kinder, das wars auch schon für heute. Beim nächsten mal
+zeigen wir euch dann, wie -erik dem Edo bei der Pediküre hilft, in dem
+er ihm Skalpelle in die Hufe sticht.
+</Voice>
+<Musik Mode=fade_out></>
+
+mfg, 
+	Reinhard, Kinderprogramm machend.
+-- 
+IZPH excuse #173:
+Recursive traversal of loopback mount points

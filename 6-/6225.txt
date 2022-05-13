@@ -1,0 +1,13 @@
+Einen eigenen. Ich hab keinen Client für Windows finden können, daher
+habe ich was eigenes gebastelt.
+
+
+Mir wäre am liebsten ein Wortspiel mit Fahrkarten und Hutmode. 
+
+Bernhard
+
+-- 
+Karlheinz:~$ whoami
+root
+Karlheinz:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Ulrich Wolthaus]

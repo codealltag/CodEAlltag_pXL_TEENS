@@ -1,0 +1,15 @@
+On Thu, 02. 11. 21 22:33:30 +0100, Vito Puchler wrote:
+[Gentoo taugt nix]
+Wenn du dasz mit dem Xine hinbekommst, sag mal Bescheid. Ich hab das mit
+den decss-plugins nie richtig ans laufen bekommen. Ansonsten würde ich
+zum Mplayer raten, der blickt ac3 und divx. Und XFree sollte man auch
+mal kompilen, das macht die Kiste etwas schneller. Dann ist meiner
+Meinung nach dann aber erstmal gut, sonst kann ich ja gleich wieder LFS
+benutzen (ja, hab ich mal. War dann aber zuviel Arbeit, jede dependancy
+einzeln zusammenzusuchen).
+
+mfg, 
+	Markus
+-- 
+Claus Maurice Poße, Königshagen, Germany
+Info-Student, Freizeit-Handwerker und Epoba-Nutzer

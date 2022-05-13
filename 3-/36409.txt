@@ -1,0 +1,9 @@
+Ab 1 bei einer neu erzeugten Gruppe, +1 für jedes in die Datenbank
+aufgenommene Posting, ob darüber hinaus Lücken entstehen können, kann
+ich nicht 100%ig garantieren.
+
+So long,
+Walter E. Ingenfeld
+-- 
+Hamster & Co, seit 8.8.2003 steht die Beta (!) 1.3.23.200 bereit
+http://cqbddzx.pb/ bzw. http://qmlhgap.hxzgeqimw.uh/rye/

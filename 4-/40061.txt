@@ -1,0 +1,7 @@
+Joachim Lohße <hbkun@jguke.hg> schreibselte:
+
+
+Hmmm, ich will 2 Rechner per Netzwerk verbinden, es ist aber absolut
+unmöglich, ein Kabel zu legen. Wie kann ich das machen?
+-- 
+np: radio

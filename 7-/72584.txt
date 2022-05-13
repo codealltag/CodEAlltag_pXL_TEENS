@@ -1,0 +1,21 @@
+Und so sprach Luis Reitmair:
+
+
+Wie Kohlendioxid fuer x = 2.
+
+
+Weiss nicht genau, bzw. habs schon wieder vergessen. Irgend so ein
+"Feature" ab Kernel 2.4.6, IIRC. 2.2.x bootet denn auch ohne Meckern.
+(Eigentlich kann man die MCEs ja abklemmen, indem man die Option
+"nomce" uebergibt, aber dann flimmert der Schirm von irgendwelchem
+Hexgeschmaeus ...)
+
+
+Ich haett ja auch lieber ein PowerBook. :)
+
+Gruss,
+Vincenzo.
+-- 
+Q:      What do you call a principal female opera singer whose high C
+        is lower than those of other principal female opera singers?
+A:      A deep C diva.

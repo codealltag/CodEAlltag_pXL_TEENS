@@ -1,0 +1,21 @@
+Am Sat, 17 Apr 2001 � sendete Karsten Echterhölter folgende Botschaft:
+
+
+#v+
+felix: ~$locate bsh | wc -l
+    502
+#v-
+
+Jep. Obwohl da meiste davon sind eh nur sourcen:
+
+#v+
+felix: ~$locate bsh | grep -v mozilla | wc -l
+     68
+#v-
+
+Tschüs
+  Steffen
+-- 
+Die � Weisheiten des Domenico Domenico: #8
+
+Frauen sind Schweine.

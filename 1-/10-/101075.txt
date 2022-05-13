@@ -1,0 +1,8 @@
+rtcmi@zohpsa:~$ echo "shutdown -h now" | sed s/-h/-fh
+sed: -e expression #1, char 8: Unterminated `s' command
+rtcmi@zohpsa:~$ echo "shutdown -h now" | sed s/-h/-fh/
+shutdown -fh now
+
+Kurt
+-- 
+Caution: breathing may be hazardous to your health.

@@ -1,0 +1,24 @@
+ACID
+
+_A_tomiticity - Eine Transaktion wird entweder komplett oder garnicht
+                ausgeführt. 
+_C_onsistency - Die Datenbank befindet sich nach einer erfolgreichen
+                Transaktion wieder in einem konsistenten Zustand.
+_I_solation   - Jede Transaktion sieht nicht die Änderungen von
+                anderen Transaktionen und arbeitet mit der Datenbank,
+                als sei sie die einzige.
+_D_urability  - Die Änderungen einer erfolgreich durchgeführten
+                Transaktion sind von Dauer.
+
+
+Siehe Durability. Wenn das FS die Änderungen cached, dann könnte ein
+Crash der Maschine die Durability verletzen. Und sowas sollte
+unbedingt verhindert werden. 
+
+
+Ist es. Und bringt Assistenten zum weinen.
+
+Salvatore
+
+-- 
+            0 and 1. Now what could be so hard about that?

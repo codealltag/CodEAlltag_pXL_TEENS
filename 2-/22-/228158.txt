@@ -1,0 +1,13 @@
+OK, Kompromiss: nennen wir es eine 2 stufige Konvertierung und ich ändere 
+meine Aussage dahingehend ab, daß eine einstufigee GIF Konvertierung 
+verlustfrei ist.
+
+
+Das mag wohl daran liegen daß die Browser diesen Bildtyp nicht darstellen 
+können.
+
+
+Wohl sehr aufwendige mathematische Berechnungen. Viel genauer weiß ich das 
+auch nicht, das war zumindest die Aussage vom Hersteller. Das ist 
+allerdings schon eine Weile her, vielleicht reicht heutzutage ein PII 450 
+;-)

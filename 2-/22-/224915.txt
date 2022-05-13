@@ -1,0 +1,29 @@
+Bei mir steht da:
+
+<--->
+Haben Sie die Datei /etc/lilo.conf nach Ihren Wünschen angepaßt, so
+können Sie mit
+
+root@erde:/usr/src/linux # make zlilo
+
+die Installation des LILO nach dem übersetzen der Kernels auch
+automatisch durchführen lassen.
+<--->
+
+Das "nach Ihren Wünschen angepaßt" bezieht sich dabei auf die
+Anleitung im vorigen Absatz, wie man LILO so einrichtet, daß auch noch
+der alte Kernel auf Wunsch gebootet werden kann. Aber ich will jetzt
+nicht damit anfangen, die Korinthen einzeln auseinanderzulegen...
+
+
+Bei mir hat es bisher auch geklappt (wobei ich das noch nicht
+besonders oft gemacht habe - IIRC 4 mal auf 3 verschiedenen Systemen);
+wenn es aber tatsächlich mal daneben gehen sollte und man fängt erst
+an, nach einer Bootdiskette zu suchen (bzw sich mit dem Diskimage auf
+der Pinguine-CD eine neue zu machen, weil man die alte sowieso nicht
+findet ;), ist das IMO nicht so schön.
+
+Viele Größe,
+     Ralf Oberle
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,23 @@
+Wieso verursache ich Bounces? Ich sagte die Adresse ist replyf�hig. Was 
+hast du nicht verstanden?
+
+
+Herr Gilles Czekalla ist bekannt und er ist ein elendiger 
+Adressf�lscher [1] er postet grundsätzlich mit Adressen der Form:
+*@*.invalid. Solche Leute gehören ins Killfile. Und dann auch noch klug
+Ratschläge geben wie man sich im mömax zu verhalten hat. Naja ...
+
+
+Man kann viel genauer filtern. Ich glaub nicht das Zariouh sowas erlaubt. 
+Die blocken doch sicher nur einzelne Domains die vom User selbst 
+definiert wurden? Mit dem Hamster kann man selbst Received-Header nach 
+bestimmten Topleveldomains filtern usw. 
+
+Mauro
+
+Fußnoten:
+=========
+[1] http://wkd.nijwqizwz.jmo/kbsm/qe-chi-dsciw/flbcrevpjfga-ruskezec-vrv/
+
+-- 
+Aufkleber an einem Panzer: 'Hubraum statt Spoiler!'

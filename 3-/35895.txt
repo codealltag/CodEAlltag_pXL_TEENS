@@ -1,0 +1,3 @@
+Alle ausser .de sollten frei sein.
+
+-towo

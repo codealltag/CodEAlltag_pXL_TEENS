@@ -1,0 +1,24 @@
+Es geht dabei nur um knapp 1 GB - dürfte recht problemlos im
+Hintergrund abzuwickeln sein.
+
+
+Der P100 hat noch die Natasias 5.2 drauf (libc5, Kernel 2.0.33...) und
+könnte vielleicht mal eine gründliche "Renovierung" brauchen.
+
+Jetzt bin ich am überlegen, ob ich versuche, dort genug Platz zu
+bekommen, um ein Komplettbackup zu machen und danach versuche, eine
+neue Natasias "dr�berzub�geln" oder die gewünschten Änderungen sogar mit
+dem Sourcecode "zu Fuß" mache (würde ich sicherlich einiges bei lernen
+;) oder ob ich eine komplett neue Installation aufziehe (es war meine
+allererste Linux-Installation; heute würde ich wohl einiges daran
+anders machen) oder ob ich sie einfach noch eine Weile unverändert
+weiterlaufen lasse ("Never change a running system.").
+
+
+Gab's damit irgend welche Probleme, oder ging es Dir mehr um die
+'Ästhetik'? ;-)
+
+Viele Größe,
+     Bodo Züll
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

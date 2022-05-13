@@ -1,0 +1,9 @@
+Es gibt ja auch mächtig verfickte Probleme. Oder anders formuliert:
+
+Gibts hier wen, der Gnus 5.8.8 oder später mit latin-unity einsetzt,
+bei dem das tut was es soll und nicht über ein falsches Argument
+meckert?
+
+Volker
+-- 
+DAS geht nicht mehr, da ist schon was drin! [Carmen zu Ottmar]

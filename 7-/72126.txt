@@ -1,0 +1,8 @@
+Bei mir lag die immer im /home/HiQ24 und nicht im einem temporären 
+Verzeichniss.
+
+Raymond
+-- 
+Die Oper ist ebensowenig die größte aller Künste,
+wie die beste Suppe jene wäre,
+in die man alles hineintut, was man hat. (Wolfgang Kannheiser)

@@ -1,0 +1,4 @@
+Naja, es fragt Sachen, die ich nicht 100%ig durchblicke:
+
+1) Message contains control characters, really send?       ----> y
+2) Send as us-ascii?                                       ----> n

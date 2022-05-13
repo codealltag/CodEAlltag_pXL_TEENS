@@ -1,0 +1,11 @@
+Also mit mplayer kann ich jetzt schonmal ein laufendes Bild sehen und
+auch Ton hören. Allerdings waren Ton und Bild eben dauernd leicht
+verschoben und ich kann das Bild nicht auf volle Bildschirmgröße
+vergrößern.
+
+Ulrich
+
+-- 
+Setup ist nun bereit Windows 98 zu installieren. - Mächten Sie
+fortfahren?
+[   Nein   ] [ Abbrechen ]

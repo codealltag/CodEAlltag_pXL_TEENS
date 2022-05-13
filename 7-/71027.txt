@@ -1,0 +1,13 @@
+Ich seh das einfach... slrn kriegt "den Bytecode", der in -15 ein Euro
+macht und schickt den an konsole. Konsole läuft auf -15 und macht ein �
+draus. Wenn ich den entsprechenden Buchstaben kopiere und wiederholt
+einfüge, wird der entsprechende Bytecode an konsole geschickt, was einen
+Euro draus macht. Wenn das Posting abgeschickt wird, schickt slrn den
+Bytecode mit, schreibt aber -1 in den Header.
+
+Siehst du das auch so?
+
+
+Gaa niszt.
+
+Joël

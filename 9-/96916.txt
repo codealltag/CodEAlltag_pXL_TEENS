@@ -1,0 +1,5 @@
+Sowas brauche ich beim besten Willen nicht.
+
+
+Ne. Cocodrillo. make install installiert's immer, aber ob's dann läuft ist ne 
+ganz andere Frage.

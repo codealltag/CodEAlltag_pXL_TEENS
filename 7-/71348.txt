@@ -1,0 +1,10 @@
+Besoffene Abhängigkeiten (Ich habe über zwei Stunden suchen müssen,
+bis ich Exis rauswerfen konnte), teilweise grausamst veraltete Pakete,
+die nochmal einen letzten Funken Leben eingepatcht bekommen haben,
+Yast überschreibt teilweise manuelle Änderungen.
+
+Kaspar
+-- 
+Christian Gesetz:
+Der Mann, der lächelt, wenn etwas schiefgeht, hat an jemanden gedacht,
+den er verantwortlich machen kann.

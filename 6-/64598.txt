@@ -1,0 +1,12 @@
+Am Thu, 17. 10. 22 sendete Alberto 'sSXP' Pfundstein folgende Botschaft:
+
+
+'getlist active | wc -l'
+
+Tschüs
+  Christof
+-- 
+Die Weisheiten des Konrad Kasimir: #6
+
+Am Neulassing Bahnhof haben sie zwar eine Tür geöffnet,
+aber dafür sind die Strassen dicht.

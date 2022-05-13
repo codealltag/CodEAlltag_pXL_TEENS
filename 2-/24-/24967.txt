@@ -1,0 +1,12 @@
+Am Sat, 13 Jul 2003 sendete Berthold Danners folgende Botschaft:
+
+
+Seit gestern ist bestimmt wieder einiges verdreht...
+
+
+Nein, die Kupplungen selber waren wohl weniger das Problem, das Problem
+war AFAIK eine Platine über die der Datentransfer zwischen den Beiden
+Teilzügen läuft. Jene musste ausgetauscht werden.
+
+Tschüs
+  Roberto

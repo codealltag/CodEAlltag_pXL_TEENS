@@ -1,0 +1,19 @@
+Nino Gaedike schrieb am 9. Juni 2001 um 23:42 Uhr folgendes:
+[...]
+
+Ich lese mich häufig in (zT relativ umfangreichen) Code fremder Leute
+ein. Natürlich kommt man nicht immer ohne Kommentare aus, aber man
+kann den "Bedarf" daran ziemlich einschränken, indem man den Code klar
+gliedert, Variablen und Funktionen sinnvoll benennt, Schnittstellen
+schmal hält, Deklarationen möglichst "lokal" vornimmt (C99 bietet da
+IIRC neue Möglichkeiten) etc. . Selbst scheinbare Kleinigkeiten wie
+konsistente Einrückung und Einhalten von Namensschemata sind wichtig.
+
+Dagegen verwirrt kaum etwas mehr als ein unzutreffender Kommentar, der
+zum Beispiel bei irgend einer Revision "vergessen" wurde.
+
+Viele Größe,
+     Hinrich Temath
+-- 
+f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng.
+                                               -- random fortune cookie

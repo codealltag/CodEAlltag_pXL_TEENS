@@ -1,0 +1,10 @@
+* Harm Uekermann <xmwmtog758077@pxulby.re-r.mu>:
+
+
+Du hast die Problematik von "Ich habe ein Tool auf meinem System, das
+alles macht, aber der Nutzer darf nicht merken, was es macht" sehr gut
+beschrieben.
+
+Severin
+-- 
+cross veinless

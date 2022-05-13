@@ -1,0 +1,13 @@
+Am Fri, 12 Apr 2002 sendete Thomas Ingensandt folgende Botschaft:
+
+
+Ist kein teil von innd afaik, da musst du schon die manpage vom Foke
+befragen.
+
+
+Mein regexp dürfte auch nicht alzu kurz sein.
+
+Tschüs
+  Udo
+-- 
+Notorisch Schreibfaul.

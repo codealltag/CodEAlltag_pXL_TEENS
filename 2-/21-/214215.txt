@@ -1,0 +1,5 @@
+Nein. Die örtliche IN Domain verlangt hier 37,-, Subdomain brauch ich 
+nicht, und hat dazu noch Proxiezwang. Das ist teurer als mein jetziger ISP, 
+und Proxiezwang ist ätzend.
+
+cg

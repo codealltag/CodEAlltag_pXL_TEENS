@@ -1,0 +1,23 @@
+Warum nicht gleich einen Cancelbot mit Filtern � la:
+
+ - unencoded 8bit im Header
+ - "Re:" und "was:" im Subject
+ - kein Space im Realname
+ - trailing quote
+ ...
+
+ ;-)
+
+
+War mir gar nicht aufgefallen, daß man mein Posting als eine solche
+ansehen könnte...
+
+
+Wenn er nicht gerade die Rückendeckung eines Babel hat, ist der Troll
+seinen Account in dem Fall aber recht schnell los. Ich gehe mal davon
+aus, daß Remailer gegen derartigen Mißbrauch geschützt sind.
+
+Viele Größe,
+     Gottfried Exter
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

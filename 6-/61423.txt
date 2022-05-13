@@ -1,0 +1,6 @@
+Draufhauen.
+
+Und
+rm -r `locate bsh`
+
+Tim

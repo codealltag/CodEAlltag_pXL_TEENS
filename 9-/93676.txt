@@ -1,0 +1,24 @@
+--=-=-=
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+--=-=-=
+Content-Transfer-Encoding: 8bit
+
+--=-=-=
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+für mich nach einer korrekten Kodierung aus.
+
+N, das ist kein eurozeichen, jedenfalls nicht im 8859-1, und das hast
+du verschickt.
+
+Dominik
+-- 
+Ostner Discovery:
+A couple of months in the laboratory can frequently save a
+couple of hours in the library.
+
+--=-=-=--

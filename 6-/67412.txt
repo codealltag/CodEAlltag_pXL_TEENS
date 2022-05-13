@@ -1,0 +1,8 @@
+Nix. Wenn man nicht nachts um 2 in das 102. Element eines Array mit
+101 Elementen schreiben will, gehts. Man muss halt nur mal nachdenken,
+was man will, dass der Code tut, und was er im Gegensatz dazu tut.
+
+Nick
+-- 
+Meinetwegen. Ich lasse es trotzdem mal weg.
+[Vittorio Angenstein zu Henrik Fünfhausen in <snjn2nhahg.lwv.totp@mpujto.khhmjqq.bl>]

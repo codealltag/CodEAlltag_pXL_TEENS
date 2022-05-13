@@ -1,0 +1,51 @@
+Genau. Deshalb ist es notwendig, das Bild vorher in 8 Bit Farbtiefe
+downzugraden. Ich glaube, soweit waren wir schon.
+
+
+Ack.
+
+
+Genau das sagte ich ja, 2 Schritte. Aber es ist Definitonssache, ob es 2
+Konvertierungen sind oder eine, mit mehreren Schritten.
+
+
+Also, nochmal. Kann man ein 24bpp-Pic nach GIF konvertieren? Ja oder
+nein? Wenn du "nein" sagst, dann schick mir ein Bild, ich konvertiere
+es. Das heißt: Man kann ein 24bpp-Bild in ins GIF-Format konvertieren.
+Ob dazu 1, 2, 5, 90 oder 2000 Schritte notwendig sind, ist egal.
+
+24bpp-Bitmap --> [Prozedur] --> 8bpp-GIF-File
+
+Das ist für mich eine Konvertierung.
+
+
+Eben drum ;-)
+
+
+Jau.
+
+
+Nein, wer sagt, dass du 3 _Programme_ dafür brauchst? Es mag sein, dass
+du 2 Programme brauchst (eins kann JPG decodiern UND in 8bpp umwandeln)
+oder 3 oder 4 (eins decodiert das JPEG, eins wandelt es in 8bpp um, eins
+erstellt den Header und eins die eigentliche Komprimierung) oder 200
+(eins lädt es von der Festplatte, eins schreibt es in den Hauptspeicher,
+eins decodiert das JPEG-Format, das nächste brennt es auf CD, das
+nächste liest es von CD und konvertiert es in 32bpp, das nächste
+konvertiert es in 8bpp .... das letzte macht die LZW-Komprimierung).
+Zugegeben, es war ein dummes Beispiel, aber was ich sagen will ist: Es
+ist egal, wieviele einzelne Schritte nötig sind, wenn irgendetwas an
+eine Prozedur übergeben wird, und diese liefert das konvertierte
+Äquivalent, ist das eine (!) Konvertierung.
+
+
+Hm, im Netz hab ich ehrlich gesagt noch nie .TIF gesehn...
+
+Was? Warum Spezialchip?
+
+Gruß,
+
+Kaspar
+-- 
+"There's a sucker born every minute."
+(SEBASTIAN Alpers)

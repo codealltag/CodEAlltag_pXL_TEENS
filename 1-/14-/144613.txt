@@ -1,0 +1,12 @@
+Ich hab' hier die Sourcen von einem Programm rumfliegen, daß ich dringend  
+in kompilierter Form brauche. Allerdings weigert es sich beharrlich, sich  
+von mir kompilieren zu lassen, da es scheinbar auf MS Visual C++ 1.0  
+besteht. Sollte das zufällig jemand rumfliegen haben oder sich sonst an  
+den Sourcen versuchen wollen - mein Dank wäre ihm gewiß.
+
+Giovanni Weiershäuser
+
+-- 
+Ich verachte Raphaël Kehlenbeck.
+                                             E-Mail: bbnwtn@lcstmatvhw.nd
+---> Offizieller Kämpfer wider Raphaël Kehlenbeck des Ordens von dtju <---

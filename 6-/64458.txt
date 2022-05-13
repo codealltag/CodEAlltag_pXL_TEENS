@@ -1,0 +1,8 @@
+ZTER tendierte hier dazu, nicht das zu tun, was mensch von einem MTA
+erwartet.
+
+Otmar
+-- 
+Irgendwer hat mal geschrieben: "Man kann sich nicht selber zum
+selbsternannten Netcop ernennen. Man wird immer von anderen zum
+selbsternannten Netcop ernannt"

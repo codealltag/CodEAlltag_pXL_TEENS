@@ -1,0 +1,13 @@
+Gebhard Nunnenmann hat geschrieben getan getutet:
+
+
+Ein retry.
+
+Dann in nem Script halt HamNewsPost(Parameter..) fuer jeden Server.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Carlos 'igor' Nordholz in xv.qul.ygjphtfp.uljjfzne

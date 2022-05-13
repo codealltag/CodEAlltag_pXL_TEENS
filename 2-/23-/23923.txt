@@ -1,0 +1,25 @@
+Solches tippte David Meichßner:
+
+Zufall.
+
+
+Und wenn, das Konzept einer "letzten" Seite kennt LaTeX IIRC nicht. Wenn
+es also noch eine Zeile gibt und die unbedingt auf die Seite muss:
+\enlargethispage{\baselineskip} existiert und wird wohl auch von halbwegs
+ästhetisch bewanderten Mitmenschen als Notlösung akzeptiert (Oszedo,
+widersprich mir ;-)). Für Elemente wie Überschriften, Tabellen, Bilder und
+Grafiken darauf zu achten, dass sie ein ganzzahliges Vielfaches von
+\baselineskip hoch sind, ist bei LaTeX ohnehin meistens eine gute Idee, weil
+man so mit der Unfähigkeit von LaTeX zum registerhaltigen Satz zumindest
+in vielen Fällen nicht auf die Schnauze fällt. Nutzt man dann noch pdfTeXs
+Möglichkeit zur Subpixelpositionierung und zum optischen Randausgleich,
+kann man geTeXtes sogar ohne allzu großen Widerwillen anschauen (so nicht
+wieder jemand die "schicken" cm-Fonts mit der bei 600dpi typischen gerne 
+mal unlesbar feinen Strichstärke aus seinem Tintenpisser gejagt hat).
+
+Ciao,
+Oliver
+-- 
+Oliver Seiwert - PGP-Mail welcome, use key 1024D/D5749D05 2000-03-04
+Der deutsche Wortschatz im Netz -> <http://xzhxavtyoo.afg-sttgaye.cz/>
+Wörter des Tages -> <http://qojhypbwjm.gua-usqoaxr.st/lhvo-wlw-ymcih/>

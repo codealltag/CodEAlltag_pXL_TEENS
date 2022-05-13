@@ -1,0 +1,8 @@
+Am Sat, 30 Nov 1998 sendete Ralph Coster folgende Botschaft:
+
+
+Wieso? Der cronjob läuft alle 5-15 min. Und wenn dir das nicht schnell
+genug ist hast du meist noch nnrp server.
+
+Tschüs
+  Andre

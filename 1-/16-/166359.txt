@@ -1,0 +1,7 @@
+Am Sun, 12. 07. 22 02:47:34 +0100, schrieb Hugo 'sSXP' Jeuter
+<nBQX@iyy.ewv> das hier zu lesende: 
+
+
+*error: connection unexpectedly closed by server*
+
+Véronique

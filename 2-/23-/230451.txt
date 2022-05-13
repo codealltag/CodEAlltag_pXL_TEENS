@@ -1,0 +1,43 @@
+On Wed, 27 Jul 1998, Sascha Stuebner <AHofxzhcjt@vml.edd> wrote:
+
+[Einheitliches Layout mit LaTeX einfacher zu garantieren]
+
+
+Ein Brief sieht unter LaTeX (vereinfacht) etwa so aus:
+
+\documentclass[bankhigh,banklow,foldmarks,12pt,german]{akletter}
+% evtl. noch ein paar benötigte Packages
+\begin{document}
+\begin{letter}{Irgendwen\\Irgendeine Theobaldstraße 8\\12345 Irgendwo}
+\yref{08/15}
+\ymail{27.7.1998}
+\subject{B. treff}
+\opening{Sehr geehrte Damen und Herren,}
+hiermit teile ich Ihnen mit, daß ich ihnen einen Brief schreibe.
+\closing{Hochachtungsvoll,}
+\end{letter}
+\end{document}
+<<<
+
+Der Rest des Layouts / Standardeinstellungen für die jeweilige
+Abteilung passieren in separaten Dateien, um die der normale
+Angestellte sich nicht zu kümmern braucht (daß er das nicht tut, kann
+durch Zugriffsrechte sichergestellt werden). Keine Möglichkeit, mit
+zwei falschen Mausklicks das gesamte Layout zu zerstören.
+
+Außerdem heißt das Ausgabeformat von TeX nicht umsonst dvi ('device
+independant') - wenn man die gleiche Datei auf unterschiedlichen
+Druckern ausgibt (daß innerhalb einer größeren Firma überall das
+gleiche Modell steht, halte ich für relativ unwahrscheinlich) gleicht
+sich das Ergebnis in aller Regel wesentlich stärker, als wenn man das
+etwa unter Word versuchen würde.
+
+Falls einem Anweisungen wie \subject oder \opening für eine
+deutschsprachige Schreibkraft zu kompliziert erscheinen sollten, kann
+man sie BTW mit seinem Lieblingseditor per Suchen / Ersetzen mit ein
+wenig Zeitaufwand auch problemlos ändern.
+
+Viele Größe,
+     Sascha Leideker
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

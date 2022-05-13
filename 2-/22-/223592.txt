@@ -1,0 +1,15 @@
+Am 28. 08. 21 18:19:00 +0100 sendete Paul Fränze
+folgende Botschaft:
+
+[DAU Alarm]
+
+Hmm:
+------
+15:17:33 ~$du -h /vmlinuz
+287K    /vmlinuz
+------
+
+Zumindestens meiner ist als Mailbombe ziemlich ungeeignet.
+
+Tschüs
+  Konrad

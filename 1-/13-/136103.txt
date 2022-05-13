@@ -1,0 +1,14 @@
+Am Thu, 18 Jun 2000 sendete Sandro Ungrue folgende Botschaft:
+
+
+Bei jedem Fetchmaillauf.
+
+
+Doch. fetchmail alle 5-10 minuten ist in Ordnung, ein Dauerlauf ist
+unnütz und asozial. Besorg dir eine statische IP und setzt einen
+Mailserver auf.
+
+Tschüs
+  Noah
+-- 
+Opitec-Light, Milch-Light, Light-Käse, Leitkultur.

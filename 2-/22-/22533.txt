@@ -1,0 +1,7 @@
+Wieso das denn?
+
+mfg, 
+	Ludger
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old Lotto cpu - insufficient processing power

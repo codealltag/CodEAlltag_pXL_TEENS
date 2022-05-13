@@ -1,0 +1,20 @@
+Nicht ganz. Das erste Problem war, daß der Netzanschluß im Keller war,  
+das DSL-Modem aber unter's Dach muß. Alles kein Problem dachten wir,  
+gehen doch noch ein paar ungenutzte Drähte rauf. Das ganze Problem hieß  
+dann Freundschaftsdienst: Der Elektriker nimmt "unter Freunden" nicht so  
+viel, verlegt dafür aber absolut billige Kabel. Es waren doch alle Drähte  
+belegt. Mußte eben mein analoger Telefonanschluß dran glauben. Ist jetzt  
+alles etwas provisorisch, das Telefonkabel geht direkt aus der Wand in  
+das Modem und Telefon hab' ich jetzt vorerst auch keines mehr, aber es  
+geht.
+
+
+Ach, was? Scheiße, dann geht's ja doch nicht, ich benutze nämlich  
+RASPPoE.
+
+Manfred Reichardt
+
+-- 
+Ceterum censeo Radial esse delendam.
+
+---> Offizieller Kämpfer wider Hartwig Hensler des Ordens von dtju <---

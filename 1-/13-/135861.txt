@@ -1,0 +1,20 @@
+Bei meiner Privataddresse hab ich ssh zugang auf den Server, da ist das
+so. Ist üblich auf Unix - Systemen. (Und bekanntlich stammen pop3,
+tcp/ip, etc. auf Unix Systemen.)
+
+Würde man eine Datenbank einsetzten, würde der Prozessor noch weniger
+belastet.
+
+
+Ok, bei einer Datenbank ist das natürlich noch weniger Problem. Da wird
+nach algorithmen gearbeitet. Könnte schon sein, dass Klipphahn das hat. Ist
+eigentlich vor 50.000 - 100.000 User nicht nötig. Aber Klipphahn hat sicher
+mehr...
+
+
+Woher nimmst du eine Beschränkung?
+
+Italo
+
+-- 
+Hier kommt nichts mehr.

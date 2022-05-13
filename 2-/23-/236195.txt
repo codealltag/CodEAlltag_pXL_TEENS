@@ -1,0 +1,7 @@
+Hat jemand aus der Gravity-Fraktion eine Idee, an was das liegen
+könnte (d.h. welche Funktionen bei Gravity so speicheraufwendig sind)?
+
+Viele Größe,
+     Siegfried Proehl
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

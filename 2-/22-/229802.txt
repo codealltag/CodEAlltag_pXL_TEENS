@@ -1,0 +1,19 @@
+Schenk mir
+
+[X] 'nen A/D-Wandler
+[X] Einen Kabelanschluß
+
+
+H? Bei Aktivboxen oder was? Welcher Geisteskranke betreibt die denn
+über Batterien? Oder den Verstärker der Stereoanlage? Mit Batterien?
+Genau sowas. Nur fürchte ich, das raffen sie (zuwenig Fachausdrücke
+drin). Ich meine, was Javascript ist, kriegen sie noch hin, da müssen
+etwas härtere Brocken wie "rekursive Funktionen" oder "polymorphe
+Klassen" oder etwas in der Art... mir fällt einfach nix ein...
+
+Gruß,
+
+Fredy
+-- 
+"There's a sucker born every minute."
+(UDO Müßigbrodt)

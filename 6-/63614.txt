@@ -1,0 +1,6 @@
+"sie" == "Kirche" oder "sie" == "Religion? Im ersteren Falle ACK, im
+letzteren Falle NAK.
+
+Marcel
+-- 
+Gravity is a myth, the Earth sucks.

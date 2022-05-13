@@ -1,0 +1,30 @@
+Hab' nicht vor, mir in nächster Zeit eins zu kaufen.
+
+
+Zumindest bei Konsolenprogrammen ist mir bisher kein Geschwindigkeits-
+unterschied aufgefallen, ob ich sie nun lokal oder per telnet benutze.
+Die paar Zeichen, die da durch die Leitung müssen, dürften die 10 MBit
+IMO auch nicht annähernd auslasten.
+
+[Infohausaufgaben per e-Mail verschicken]
+
+Was hat Fischereihof jetzt damit zu tun?
+
+
+Wahrscheinlich wirfst Du auch Deine Pullover weg, wenn sie dreckig sind?
+
+[...]
+
+*shrug* Ich habe jetzt einfach mal den alten SB 16 aus dem 386er
+eingebaut. Nachdem ich festgestellt habe, daß Timidity .sf2-Patches
+annimmt (und damit gar nicht mal so schlecht klingt), überlege ich mir
+ernsthaft, ob ich in nächster Zeit überhaupt Geld für eine neue
+Soundkarte ausgeben soll...
+
+
+Ich weiß auch nicht so recht, wozu ich so ein Ding brauchen sollte.
+
+Viele Größe,
+     Arthur Bausert
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

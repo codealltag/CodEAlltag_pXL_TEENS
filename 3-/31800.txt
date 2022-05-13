@@ -1,0 +1,7 @@
+Am Thu, 04 Sep 2002 sendete Gottfried Clawes folgende Botschaft:
+
+
+'ps -C', lsof? ;)
+
+Tschüs
+  Pietro

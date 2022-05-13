@@ -1,0 +1,18 @@
+On 18. 04. 22, Folkert Visch <Twg.Hzknl@voj.qhh> wrote:
+
+[Per Netzwerk Platte spiegeln]
+
+Ich hoffe doch, daß die entsprechenden Programme (rsync?) etwas
+taugen. Allerdings habe ich bisher mit keinem davon Erfahrungen.
+
+[Festplatte in anderen Rechner stecken]
+
+Hatte ich nicht vor.
+
+
+Tjo...
+
+Viele Größe,
+     Pascal Volkgenannt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

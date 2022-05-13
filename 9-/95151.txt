@@ -1,0 +1,8 @@
+Immer dann, wenn ein Leerzeichen nicht als Trenner zweier Komponenten
+auftreten darf, sondern mit zur Kompnente gehört.
+
+Theodor
+-- 
+Kempers Discovery:
+A couple of months in the laboratory can frequently save a
+couple of hours in the library.

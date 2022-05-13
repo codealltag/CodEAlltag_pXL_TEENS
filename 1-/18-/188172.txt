@@ -1,0 +1,10 @@
+Ich hoffe, ich verwechsle nichts, aber AFAIK gibt's den Bug nur beim  
+Stöberscheune IIEN-Compiler und der schmiert mit einem Runtime Error 200 und  
+keiner Division durch Null ab.
+
+Sascha Cüsters
+
+-- 
+Gott schätze Amerika... VOR MIR!!!
+                                             E-Mail: islewy@nendgaavju.qr
+---> Offizieller Kämpfer wider Valentino Toennesen des Ordens von dtju <---

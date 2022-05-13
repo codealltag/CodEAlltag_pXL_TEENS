@@ -1,0 +1,14 @@
+Am Sun, 12 Dez 1999 sendete Willy Tuenissen folgende Botschaft:
+
+
+Das problem an dselect ist das es jedes packet (egal ob etwas damit
+gemacht wird) einlesen will, und über netzwerk ist das nicht immer
+lustig. Das unübersichtlich UI kommt noch dazu.
+
+
+Afaik aber nur über ftp oder http. :(
+
+Tschüs
+  Domenico
+-- 
+KJLJ-Light, Milch-Light, Light-Käse, Leitkultur.

@@ -1,0 +1,16 @@
+Ludwig Ziegenmeyer meinte kundzutun:
+
+*grummel*
+
+[0] Hab zwar noch 3 Narrow SCSI-Platten zuhause, aber Aked aus alten
+RS6000. Bauhöhe 1,6", würden auch ins gehäuse passen.
+
+Aber sobald ich sie in den Plastikrahmen schraube, mit dem bei der SS2
+die Festplatten im Gehäuse befestigt werden, kann ich das SCSI-Kabel
+nicht mehr draufstecken, da der Griff des Plastikrahmens genau da ist,
+wo sich bei den Platten der SCSI-Connector befindet...
+
+Andree
+-- 
+Dieser Artikel ging an folgende Newsgroups: bg.rhnb.vaezsz
+Er wurde am Donnerstag, dem 31. Dezember im Jahre des Herrn 2003 verfaßt.

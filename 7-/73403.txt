@@ -1,0 +1,5 @@
+Bisher ungeklärt kaputt.
+
+Othmar
+-- 
+Overflow on /dev/null, please empty the bit bucket.

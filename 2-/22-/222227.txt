@@ -1,0 +1,14 @@
+Yep, wenn nur die nötigsten Daemons, die bash und ssh laufen, wird der
+Swap kaum angekratzt. Ich habe trotzdem mal 12 MB als Swap
+partitioniert und den Rest als Linux Native genommen.
+
+
+N. Meine Behauptung war "Pllätz-Kunde zu sein ist (uU) teuer".
+Wenn Du erwiderst, daß man dem entgehen kann, indem man Kunde einer
+anderen Softwareschmiede wird, finde ich das als "Gegenargument" halt
+etwas eigenwillig.
+
+Viele Größe,
+     Gérald Löhmann
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

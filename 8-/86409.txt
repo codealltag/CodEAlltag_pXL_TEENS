@@ -1,0 +1,13 @@
+* Ulrich Lichtenheld <bhzfav@ybc.zia>:
+
+
+Sieht ganz so aus.
+
+
+Sieht ganz so aus.
+
+
+Ach, egal. Aber das mit dem vi ist komisch. Tipp mal `vim' ein. Was
+meint er da?
+
+Elmar

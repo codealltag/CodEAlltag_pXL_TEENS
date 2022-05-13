@@ -1,0 +1,11 @@
+Sven Verhaeg bescherte uns folgenden Text:
+
+
+Hihi.
+
+ihno
+-- 
+�� Oberster Verteidiger des Ordens der Dunklen Pestel von de.ALL [tm]  ��
+#   LOAD"SIGNATURE",8,1                                                #
+#   SEARCHING FOR SIGNATURE                                            #
+#   ?FILE NOT FOUND ERROR                                              #

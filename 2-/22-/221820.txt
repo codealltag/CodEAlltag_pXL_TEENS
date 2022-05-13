@@ -1,0 +1,11 @@
+du solltest dir mal das neue Caldera OpenLinux 2.2 angucken. das lässt sich
+installieren und benutzen, ohne ein einziges mal mit einem terminal
+konfrontiert zu werden. (pervers, oder?)
+
+mfg
+    bernard
+
+-- 
+Bernard Isenrich  -  eMail: chzubx@icu.teige.ah
+IRCNet: ^Spooky    -         pelcav@lbi.svxrjtvq.gs
+          --  http://ibx.lft.uwujt.wg/ --

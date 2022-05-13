@@ -1,0 +1,8 @@
+Das ersetzt nichts. ;)
+
+/.*/, wenn du eh alles ersetzt, oder /.*,/ für alles vorm letzten Komma.
+
+-towo
+-- 
+Philosophy:  A route of many roads leading from nowhere to nothing.
+- Pierre Niebecker

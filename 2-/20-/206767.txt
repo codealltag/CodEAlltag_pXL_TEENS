@@ -1,0 +1,7 @@
+Eine Initiative gegen offene Mail-Relais (wegen Spam-Mißbrauchs). Die 
+ursprüngliche Intention war, daß jemand ein offenes Mail Relais meldet, 
+draufhin der Administrator aufgefordert wird das Relais zu schließen und 
+falls er dem nicht nachkommt die Adresse in eine Blacklist einzutragen. 
+Empfängersysteme die ORBS nutzen checken dann diese Blacklist und lehnen 
+Post von diesen Servern ab. Das soll den Leidensdruck auf den Admin 
+vergrößern...

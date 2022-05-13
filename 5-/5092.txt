@@ -1,0 +1,7 @@
+Nicht in den Systemen die ich so nutze. SCSI hab ich nur in
+meinem Server, und da auch nur damit der geerbte Scanner und das
+steinalte Bandlaufwerk geht. Und ja, die Karte ist trotz
+PCI-Steckers als Dinosaurier zu betrachten.
+
+Oh, geben tut es das schon. Ich kenn genug Leute, die garkeins
+haben.

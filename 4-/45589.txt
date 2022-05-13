@@ -1,0 +1,8 @@
+Das Problem dabei scheint eher zu sein, daß diese Haltezeiten am
+Bef�rderungsfallaufkommen um Mitternacht orientiert ist und daher
+tagsüber ständig überzogen wird -> +n Minuten... :-/
+
+Tim
+-- 
+pub  4129H/RYH02O33 3543-16-39 Tim Ueberfeldt <cvdjagw@mln.dj>
+     Key fingerprint = 99 3S 29 65 35 WI 77 4G  92 EH OG 36 3F 05 3S 51

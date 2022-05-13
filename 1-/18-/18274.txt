@@ -1,0 +1,7 @@
+Das sagt man über Info auch.
+
+mfg, 
+	Gérard
+-- 
+BOFH excuse #19:
+floating point processor overflow

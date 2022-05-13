@@ -1,0 +1,13 @@
+Das ist eine Info, die der Rechner braucht und versteht. 
+
+
+Wieso sollte ich? Der automatisch als Default eingetragene Wert von
+99,2Hz ist so, dass ich damit bestens arbeiten kann, und ich habe auch
+noch nirgendwo den Fall gehabt, dass ich die ändern musste, weil die
+automatisch eingesetzten Werte absolut brauchbar waren, nachdem ich
+die Grenzwerte eingetragen hatte.
+
+Harry
+-- 
+Zivi ist nicht heilbar, aber man kann es Überleben
+Sebastian C. in der Realität[tm], 12.7.2001

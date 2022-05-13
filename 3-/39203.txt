@@ -1,0 +1,8 @@
+Hinderk Wallwey <phc@koxdj.bcu> schreibselte:
+
+
+Stimmt, LAN ist lokal... nur warum braucht er dann 2 Server, wenn er
+auf dem Client 2 Betriebssysteme hat? Ich glaube, jetzt haben wir den
+Unterschied zwischen lokal und lokal gefunden...
+-- 
+np: radio

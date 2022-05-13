@@ -1,0 +1,11 @@
+Rainer Jabusch <ztwpm@mpanyd.gcdcuvxbo.aw> teilte folgendes mit:
+
+
+Wie meinen?
+
+-be
+
+-- 
+Westhölter Technische Praxis:
+2.11 - Ein Fehler tritt erst dann auf, nachdem die letzte
+       Kontrolle durchlaufen worden war.

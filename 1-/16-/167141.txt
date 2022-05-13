@@ -1,0 +1,16 @@
+Am Mon, 09. 05. 21 22:55:03 GMT schrieb Cpt.Viper@gmx.net (Guoikn
+Niederstrasser) folgendes:
+
+
+Sicher, aber Desktop-Platten sind dafür ausgelegt. Ich habe eine
+HessNatura-Server-Platte hier am Laufen, die ist für lediglich 3.000
+Start-/Stopzyklen zertifiziert. Die Desktopplatten haben da eher
+Richtung 30.000 und Notebookplatten bis zu 50.000 AFAIR.
+
+mm
+
+-- 
+Jörn "Siegfried" Fecke, ICQ: 09454936
+
+"Erfolg steigt nur zu Kopf, wenn dort der erforderliche Hohlraum vorhanden ist."
+ (Joël Sebastian)

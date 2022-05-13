@@ -1,0 +1,8 @@
+Ist ein Server mit ohne Monitor, IIRC hat die Kiste nur die Libs
+drauf.
+
+P1 133 geht jedenfalls definitiv mit X.
+
+Rupert
+-- 
+DAS geht nicht mehr, da ist schon was drin! [Elvira zu Francisco]

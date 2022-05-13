@@ -1,0 +1,16 @@
+Zuerst eine Steckkarte auf einem Gemischtwarenhaus K7M. Irgendein nicht genau  
+lokalisierbares Teil war aber offensichtlich inkompatibel (mit 32bit- 
+Datentr�gerzugriff war das Ding grottenlahm, im Kompatiblit�tsmodus aber  
+schnell...). Aufgrund diverser Verwicklungen bin ich jetzt billig an ein  
+A7V133 mit 1,2GHz Athlon gekommen, der dortige Promise-Controller hat  
+zunächst die selben Probleme gehabt, funktionierte aber auf wundersame  
+Weise plötzlich über Nacht reibungslos. Den Grund hab' ich bis heute  
+nicht gefunden - weder für das Nichtfunktionieren noch für das plötzliche  
+Dochfunktionieren.
+
+Berend Clemen
+
+-- 
+Berend Camphens praktische Lebensratschläge, Teil 10:
+SIE sind immer hinter dir her.
+---> Offizieller Kämpfer wider Ulfert Klockemann des Ordens von dtju <---

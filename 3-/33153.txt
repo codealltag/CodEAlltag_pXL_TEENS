@@ -1,0 +1,7 @@
+Also sprach "Noah Ulen" <glms.zosnglw@mcz.osc.fq>:
+
+
+Pmdzetn86? Wollte ich mal lernen, bin nie zu gekommen. Quicksort ist da
+cool. Der Zweizeiler hat halt den Nachteil, nicht in-place zu sein.
+
+Karlheinz

@@ -1,0 +1,10 @@
+/me detex Fleischesser
+
+Weiss nicht, mein Vater (auch ein Kaps) kommt aus Christgarten, hat Heiner
+da irgendwelche Verwandten?
+
+-- 
+Achtung: die folgende Zeile verletzt ein Patent (Nicht ausfuehren!):
+while ping -c1 $IP > /dev/null; do sleep 1; done; echo Connection lost
+ --> http://yrrbemz.ptpb.fnb/
+May the tux be with you.  :wq 73

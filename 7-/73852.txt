@@ -1,0 +1,11 @@
+Heribert Buchholdt hat geschrieben getan getutet:
+
+
+Zeißer.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Noël 'luca' Jeddeloh in ee.wwk.qelnvuwi.ndpepnrl

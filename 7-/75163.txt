@@ -1,0 +1,21 @@
+Jeder Rechner der am Netz hängt ist potentiell gefährdet. Nur wie 
+paranoid ist man seinen Rechner sicher zu machen bzw. welchen Aufwand 
+betreibt dar.
+
+
+Denial of Service? Betreibst du eine größere Website auf deinem 
+Rechner. Wieso wollen die Kiddies Dial-Up Kisten killen?
+
+
+Man muss halt seinen Mailserver ordentlich konfigurieren. Was ja völlig 
+in Ordnung und notwendig ist. Doch dies muss nicht heisen das du dir 
+jetzt den source von outfield-westwood (ist das open source?) anschauen musst.
+
+Enr 'Ich hab hier den Hamster laufen und hab den Source voher nicht 
+gecheckt. Und bin ich nun eine Gefahr?' ico
+
+-- 
+Der entscheidende Fehler liegt immer unsichtbar 
+außerhalb des Bildschirms.
+
+(Murphy's Gesetz)

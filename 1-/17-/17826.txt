@@ -1,0 +1,29 @@
+Und?
+
+
+Hmmm. Moment.
+
+#v+
+
+{hardy@odin}:~/difftest/tw$ cat test1.asc
+abc
+{hardy@odin}:~/difftest/tw$ patch -p1 <diff.asc test1.asc
+missing header for unified diff at line 3 of patch
+patching file test1.asc
+{hohdp@odin}:~/difftest/tw$ cat test1.asc
+def
+{hohdp@odin}:~/difftest/tw$ patch -p1 -R <diff.asc test1.asc
+missing header for unified diff at line 3 of patch
+patching file test1.asc
+{willy@odin}:~/difftest/tw$ cat test1.asc
+abc
+
+#v-
+
+Funktioniert hier. Patch läßt sich rückgängig machen.
+
+mfg, 
+	Willy
+-- 
+BOFH excuse #328:
+Fiber optics caused gas main leak

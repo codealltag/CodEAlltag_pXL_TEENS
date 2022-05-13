@@ -1,0 +1,6 @@
+Naja, der UVOC Server ist zur Zeit teilweise (vielleicht wegen Leuten wie 
+ihm) ohnehin kaum erreichbar. Da kommt es auch nicht mehr daraf an ob er 
+50000 oder 500000 Requests am Tag macht.
+
+
+Tatsächlich? Immer diese leeren Versprechungen.

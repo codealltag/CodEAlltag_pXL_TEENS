@@ -1,0 +1,8 @@
+* isdhocyeru@naebidymgw.zi (Rlaam Kesselaars):
+
+
+Bei Gnus mit Emacs reicht './configure'.
+
+Fritz
+-- 
+cross veinless

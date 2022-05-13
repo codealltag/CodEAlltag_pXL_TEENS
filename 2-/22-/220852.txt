@@ -1,0 +1,8 @@
+Da ich einen Sat-Reveiver habe, brauche ich den Tuner garnicht und
+schicke das Signal gleich direkt zum Köndgen-Chip. Da gibt's fast keine
+Verluste.
+
+CU
+Tino
+-- 
+Lieber fünf vor zwölf als keine nach eins.

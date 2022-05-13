@@ -1,0 +1,19 @@
+Paolo Gökler schrieb am 11. April 2000 um 17:31 Uhr folgendes:
+
+
+Besser wär's vielleicht:
+
+
+Sieht ziemlich kaputt aus, wenn du mich fragst.
+
+[...]
+
+Wenn man selbst baut, ist das dank autoconf bei den meisten Programmen
+kein Problem. Aber es gibt natürlich immer wieder Autoren, die es
+nicht hinbekommen (und leider auch welche, die entsprechende Patches
+ignorieren).
+
+Viele Größe,
+     Paolo Naumburg
+-- 
+A truly wise man never plays leapfrog with a unicorn.

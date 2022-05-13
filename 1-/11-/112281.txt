@@ -1,0 +1,10 @@
+* Henri Inhetpanhuys <iaqrgyf138188@dhkxez.ge-c.pq>:
+
+
+Mal nachfragen, ob ich zu nett bin.
+
+`M-x bbdb RET fino RET C-TAB m'
+
+Pius
+-- 
+cross veinless

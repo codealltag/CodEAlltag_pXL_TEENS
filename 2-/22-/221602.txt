@@ -1,0 +1,1 @@
+z.B. nach MSG-ID fragen und dann direkt die Suche danach auslösen etc.

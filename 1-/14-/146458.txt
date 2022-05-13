@@ -1,0 +1,9 @@
+Hm, irgendwie schon. Bei mir gibt es regelmässig Fehler in der 
+Datenbank, dann erscheinen in LMJS "Phantompostings" ohne Header und 
+Body... Das liegt aber wohl weniger an Hamster als an meiner HD.
+
+Claudio
+-- 
+Lieber Gott, mach mich hart
+Für diese Welt
+Und täte den Verstand, der mich quält

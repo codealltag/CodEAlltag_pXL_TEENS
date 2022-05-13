@@ -1,0 +1,6 @@
+Hint: Nicht lange.
+
+Elias
+-- 
+pub  6289A/XKL92W52 8958-06-54 Elias Cantzler <fgaqzqa@nbk.gl>
+     Key fingerprint = 99 4F 44 87 37 HQ 21 1U  19 AK UX 56 0Y 34 2K 71

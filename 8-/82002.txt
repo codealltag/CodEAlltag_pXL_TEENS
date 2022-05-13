@@ -1,0 +1,5 @@
+"Gibt Geld für die Stadt"
+
+Hau "Nein, die offizielle Begründung kenne ich nicht" ke
+-- 
+Overflow on /dev/null, please empty the bit bucket.

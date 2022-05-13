@@ -1,0 +1,15 @@
+Am Mon, 29. 07. 21 sendete Igor Willgeroth folgende Botschaft:
+
+
+Signale an den fg-prozess schicken(für Win-user: Programme unsanft
+beenden, in den hintergrund schicken, Bildschrim neu zeichnen etc) und
+natürlich auch für spezielle nicht drtuckbare zeichen (EOF etc).
+
+
+Wird es auch nie. Für den 08/15 enduuser gibt es noch kein geeignetes
+OS.
+
+Tschüs
+  Philipp
+-- 
+Weniger ist mehr.

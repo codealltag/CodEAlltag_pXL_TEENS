@@ -1,0 +1,7 @@
+Funzt nicht. Fehlermeldung hab ich vergessen, aber irgendsowas wie
+  "ShellExecute: Procedure nicht definiert".
+
+-- 
+Josef
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

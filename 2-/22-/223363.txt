@@ -1,0 +1,6 @@
+Ach ja, kenn ich.
+
+
+In etwa so:
+ShellExecute(Form1.Handle, nil, 'c:\windows\explorer', nil, nil, 
+SW_SHOWNORMAL)

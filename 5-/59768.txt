@@ -1,0 +1,6 @@
+ofmm@ayug:~$ uname -a
+Linux loki 2.4.17 #1 Wed Aug 12 17:17:30 CET 2001 i686 unknown
+
+<buzz>Intelligenzallergiker</buzz> :)
+
+-towo

@@ -1,0 +1,10 @@
+HTML.
+
+Mein Eintrag in einem Gästebuch:
+
+<H1> Du solltest dringend HTML hierdrin abschalten! </H1>
+
+Enno
+
+-- 
+            Secret hacker rule #11: hackers read manuals.

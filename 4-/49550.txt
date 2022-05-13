@@ -1,0 +1,11 @@
+Am Tue, 22 Jun 2003 sendete Tobias Uhlenbrauck folgende Botschaft:
+
+
+Wieso das?
+
+
+felix: ~$ man chrony
+No manual entry for chrony
+
+Tschüs
+  Severin

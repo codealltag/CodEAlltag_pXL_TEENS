@@ -1,0 +1,8 @@
+Fuer die geringe Datenmenge war das schon ein Superrechner (PII-266).
+Wenn man sich mit den reinen Zahlen begnuegen wuerde, liefe das bestimmt
+  auch auf einem 386er in Echtzeit.
+
+-- 
+Darius
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

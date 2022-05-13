@@ -1,0 +1,12 @@
+* Georg Ostrop <jydqgdlnrykhbf@idh.haq>:
+
+
+Was schreibe ich eigentlich? Ersteres muss da hin.
+
+
+Bei uns ist sie nicht mal als letzteres deklariert, sondern gleich als
+ersteres.
+
+Josef
+-- 
+cross veinless

@@ -1,0 +1,8 @@
+Am 23. 12. 21 22:37:21 GMT sendete Winfried Fuerchtenicht
+folgende Botschaft:
+
+
+Dann gibt chmod aber keine fehlermeldung sondern setzt einfach mode 6xxx
+
+Tschüs
+  Thierry

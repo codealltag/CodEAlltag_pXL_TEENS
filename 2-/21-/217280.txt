@@ -1,0 +1,22 @@
+Kommt darauf an, was man als Reset bezeichnet.
+Rein intuitiv wuerde ich auch an einen Kaltstart denken, aber vielleicht
+  gibt es in Mittenaar auch Leute, die einen Warmstart so nennen :-)
+
+
+Wuerde ich auch sagen.
+IMHO nennt sich eine Befehlsfolge Programm.
+
+
+Es muessen keine Befehle sein.
+In einem 'klassischen' Stack werden Daten gespeichert.
+
+
+Das hat IIRC einen anderen Ursprung.
+Das Wort stammt aus der Urzeit der Computer, als Programme auf Lochkarten
+  gespeichert waren. Und wenn mehrere Programme hintereinander ausgefuehrt
+  werden sollten, wurden die Lochkarten als Stapel (engl. Batch) eingelegt.
+
+-- 
+Ivo
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

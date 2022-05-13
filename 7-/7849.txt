@@ -1,0 +1,21 @@
+Und so sprach Carsten Finteisen:
+
+
+Manche "Dienstprogramme" (Utilities) und die System-Applikationen
+haben englische Namen, aber das dürfte den durchschnittlichen
+Icon-Klicker kaum stören.
+
+Störender finde ich, dass die "Speakable Items" nur englisch können.
+
+Ansonsten ist die Lokalisierung eigentlich perfekt.
+
+
+Das ist nicht so schwierig, wenn man bedenkt, dass die wenigsten
+Benutzer Systemcalls direkt eingeben.
+
+Focko
+-- 
+us  dere  bouschteu  wird  es  fr�idehuus   |  us  em  schnee  vo  geschter  e
+fluss  | & glychschtrom  wird  w�chsuschtrom  |  die wyti wut wartet voruss |
+d gruebe  wird  e  garte  |  us  dere  knacknuss  wachst  e  boum | & d  boum
+treit  honigs�essi  frücht  |  -  dert  isch  scho  wieder  dr  wurm  drin ...

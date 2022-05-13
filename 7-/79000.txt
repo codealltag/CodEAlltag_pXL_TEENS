@@ -1,0 +1,7 @@
+Solches tippte Nick Sutoris:
+
+Weil das der Witz ist, wenn Du 8bittiges -15 mit -1 anzeigst (QP macht
+da unter Umständen mehr Probleme). 'ein halb' ist eben genau der kleinen
+oe-Ligatur gewichen...
+
+Pascal

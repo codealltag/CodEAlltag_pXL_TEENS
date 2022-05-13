@@ -1,0 +1,8 @@
+Wieso? Man lässt alles weg, was man nicht zwingend braucht (bei Level
+12 _muss_ man sogar eine verbindung weglassen, sonst bricht meine
+Lösung zusammen...), und schon hat man die Brücke auf
+Materialverbrauch hin optimiert..
+
+Volker
+-- 
+Overdrawn?  But I still have checks left!

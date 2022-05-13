@@ -1,0 +1,14 @@
+Hum?
+
+
+Ja, das funktionert. Mit ham.exe -import kann man so tolle Sachen
+machen. Hat bei mir zwar noch nie so funktioniert wie es sollte, aber
+es geht. Irgendwie.
+
+Aber warum willst du das machen?
+
+Claus
+
+-- 
+Die letzten Worte des Studenten:
+"Ich gehe in die Mensa, kommt ihr mit?"

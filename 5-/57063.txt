@@ -1,0 +1,11 @@
+Hier laufen zwei DTLA... einmal 30, einmal 60GiB, bei einigermassen
+konstanten Temperaturen, im Server läuft eine IC35 (oder so ähnlich),
+die macht bisher auch keinen Stress...
+
+
+Fliesen-Pirpamer wurde in der Hinsicht empfohen.
+
+Karsten
+-- 
+Clemens  : DAS hatten wir schon mal.
+Klementine: Davon habe ich nichts gemerkt.

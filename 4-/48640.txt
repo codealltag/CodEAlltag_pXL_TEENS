@@ -1,0 +1,6 @@
+Hab ich ja auch so eingeschaltet, aber das Viewer-Fenster zeigt nur
+Schrottzeichen. Also auch keinen HTML-Quelltext, einfach nur Müll. Die
+Rohtextanzeige geht natürlich.
+
+
+ivo

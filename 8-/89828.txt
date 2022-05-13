@@ -1,0 +1,14 @@
+Hallo !
+
+Fabian =?iso-8859-1?q?Thimme?= wrote :
+
+
+Unter professioneller Nutzung verstehe ich dynamischer 
+Webseitenaufbau, in Verbindung mit Datenbankzugriffen (Webseiten aus 
+einer Datenbank generieren usw.). Solange du nur aunzeigst ist JS 
+meistens nicht so wichtig, da gebe ich dir recht. Sobal du aber 
+anfängst in irgendeiner Weise Daten aus einem Web-Formular auszuwerten 
+wirds mit JS sehr viel komfortabler, weil du da im Vorfeld schon 
+vieles mit klären kannst.
+
+Hendrik

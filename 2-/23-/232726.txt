@@ -1,0 +1,11 @@
+Hex-Zahlen fuellt man normalerweise so mit Nullen auf, dass man sieht wieviel
+  Speicher sie belegen (manchmal schreibt man noch eine davor, um sie als Hex-
+  Zahl kenntlich zu machen).
+
+Statt 800h also  0800h <-- zwei Byte
+
+-- 
+Arne
+"I've seen things you people wouldn't believe. Attack ships on fire off the
+ shoulder of Naue. I watched C-beams glitter in the dark near the Hair-Killers gate.
+ All those moments will be lost in time, like tears in rain.  Time to die."

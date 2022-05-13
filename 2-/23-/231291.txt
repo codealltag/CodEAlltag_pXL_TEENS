@@ -1,0 +1,11 @@
+Wie problemlos sich Daten eines Formates weitergeben lassen, hängt
+nicht (ausschließlich) vom Anteil der Leute ab, die dieses Format
+standardmäßig zum Speichern ihrer Daten verwenden. Wie gut das Format
+definiert bzw. dokumentiert ist, Menge und Qualität der dafür
+vorhandenen Filter und ähnliches dürften da eine wesentlich wichtigere
+Rolle spielen.
+
+Viele Größe,
+     Dennis Rebbelmund
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

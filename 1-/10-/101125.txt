@@ -1,0 +1,13 @@
+* Dieter Wevelsiep <sslndgzndhylfg@hhc.rlw>:
+
+[Quotingebenen]
+
+Ich habe einige Zeit vor dem Posting gesessen, den Quelltext angesehen
+und mich gefragt, warum Gnus mir eine Zeile vorenthält ...
+
+
+Soll ich mal meinen Kommentar dazu raussuchen?
+
+Udo
+-- 
+cross veinless

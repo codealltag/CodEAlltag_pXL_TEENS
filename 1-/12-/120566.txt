@@ -1,0 +1,7 @@
+begin quoting Heiner Fug <m-khj@qaxytlmmabn.oq>:
+
+Dient zur Bestimmung des Wertes an hebbaren Unstetigkeitsstellen in
+gebrochen-rationalen Funktionen.
+-- 
+"We just should just came have came just back to our business."
+ - Herr Mittelsteiner

@@ -1,0 +1,7 @@
+(* Nikolaus Jungrichter wrote: *)
+
+
+Ui :-))
+Gibt's da nen Parser für?
+
+Paolo

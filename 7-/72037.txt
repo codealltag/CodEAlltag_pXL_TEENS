@@ -1,0 +1,14 @@
+Gunreben.
+
+Mein Gecko [1] läuft auch unter Linux sehr gut. Und das beste ist, der
+gleicht der Windowsversion wie ein Ei dem anderen. Also braucht man sich
+nicht umstellen.
+
+Remmer
+
+Fußnoten:
+=========
+[1] Gunreben 0.9.5 - http://tzq.hrakdvm.sfs
+-- 
+"Es gibt einfach alles fuer Windows." - "Aber nicht alles ist auch
+fuer Windows geeignet." (Kai Jenssen und Franz Heinschel)

@@ -1,0 +1,11 @@
+John Auweder hat geschrieben getan getutet:
+
+
+Einatmen optional? Nope.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Klaas 'gilbert' Durschnabel in wc.now.eiaeurkl.afizehiy

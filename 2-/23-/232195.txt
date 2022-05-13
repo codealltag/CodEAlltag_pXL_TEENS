@@ -1,0 +1,15 @@
+Egal. Auf was es rausläuft: Du behauptest ernsthaft daß die Umwandlung von 
+z.B. BMP nach GIF keine Konvertierung ist?
+
+Wenn Du wieder mit Deiner Qualität kommst dann hast Du "konvertieren" 
+schlicht für Dich selbst neu definiert, im allgemeinen beschreibt es 
+schließlich nur eine Umwandlung beliebiger Art.
+
+Ursprünglich wurde der Religionsübertritt als Konversion bezeichnet. Und 
+da würde ich zur Definition nicht unbedingt ein Qualitätsunterschied 
+heranziehen wollen. ;-)
+
+[BMP -> Gif]
+
+Ich weiß nicht wie's in Deiner Welt ist, aber in meiner ist das LZW 
+Kompressionsverfahren verlustfrei >;->

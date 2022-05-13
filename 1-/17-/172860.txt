@@ -1,0 +1,13 @@
+Dürfte kein weiter großes Problem sein: Fehlerhafte Postings raussuchen,  
+extrahieren, References reparieren, neue Msg-ID verpassen, Supersedes- und  
+X-Supersede-By-Header einfügen und posten. Hat aber den kleinen Nachteil,  
+daß dank neuer Msg-ID meine References wieder beim Arsch sind, ich müßte  
+also auch noch sämtliche Replies superseden und das lasse ich mal lieber  
+:-)
+
+Francisco Deeken
+
+-- 
+Dieses Posting wurde absichtlich aus Protest gemäß den alten Recht-
+schreibregeln verfasst.                      E-Mail: hertml@ymrrvzhass.mo
+---> Offizieller Kämpfer wider Igor Leistra des Ordens von dtju <---

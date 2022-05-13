@@ -1,0 +1,10 @@
+Wie soll ich einen Mailserver aufsetzen, wenn meine IP nach außen nicht
+sichtbar ist?  (Du hast überhaupt keine Phantasie.)
+
+
+Aber du kannst sie nicht pingen, es kommt da von draußen nichts rein.
+
+Nick
+
+-- 
+Hier kommt nichts mehr.

@@ -1,0 +1,8 @@
+Zwei Betriebssysteme gleichzeitig in 4 MB RAM? Ich weiß nicht... da
+würde es wahrscheinlich noch schneller gehen, ggf. von Diskette zu
+booten und von Diskette oder CD-ROM zu spielen.
+
+Viele Größe,
+     Karl Intrup
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

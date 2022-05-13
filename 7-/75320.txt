@@ -1,0 +1,38 @@
+Reiner Kay Targosz meinte kundzutun:
+
+1HE-Gehäuse für 500.-? Wo? Außer um eine RaQ drumrum?
+
+Wenn du Glück hast, kriegst du für den Preis ein 4U-Case
+halbwegs brauchbarer Machart.
+
+Für 1HE-Gehäuse zahlst du dich dumm. Außerdem kregst
+du da so gut wie keine Platten rein, und auch mit reinst�pselbarer
+Rechenpower siehts schlecht aus, die würden dir imm Rack verdampfen.
+
+Hab bisher erst eine Kiste gesehen, die mir gefiel. 1U,
+Dual PIII, max. 2GB RAM, 3 Platteneinsch�be.
+
+Einstandspreis: 10 Kilomark.
+
+Danke.
+
+Und so kleine Hutzeln mit kleinem Prozessor etc haben nicht die Power,
+um sie mit mehreren Leuten teilen zu können. Zumal du in 1 HE immer nue
+die festeingebauten Laufwerksrahmen benutzen kannst, ergo: wenn die IDE,
+dann nur IDE-Platten, wenn die SCSI dann nur SCSI-Platten. Und wenn das
+SCSI-Einschübe sind sind das zu 99% Hot-Swap-SCA-Einschübe und damit
+Oberklasse (auch preislich). Und ein System mit (heutigen) IDE-Platten
+mag ich nicht wohinstellen wo ich nicht sofort drankann. Und schon gar
+nicht als Server wo evtl mehrere Leute drauf Prozesse laufen haben.
+
+
+Du nix Geh�usefanatiker wie ich merke.
+
+Meinjanur.
+
+Patrik
+-- 
+Ich habe das Gefühl, wenn sie _das_ schaffen, [] daß die Welt in Trauer und 
+Entsetzen und Lähmung versinkt, wenn wir nicht mehr lachen können oder [] dr-
+fen, wenn wir nicht mehr kaspern können oder dürfen, dann haben diese Terror-
+risten es endgültig geschafft, die Welt zu zerstören. [Oana Sigrist in Otolew]

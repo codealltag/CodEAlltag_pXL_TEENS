@@ -1,0 +1,13 @@
+Dennis Luedcke schrieb am 27. Juli 1999 um 19:04 Uhr folgendes:
+
+
+Och, dafür gibt's bestimmt irgendwo fertige Skripte. Ulf, kennst du
+was in der Richtung?
+
+Viele Größe,
+     Ralph Hantschmann
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

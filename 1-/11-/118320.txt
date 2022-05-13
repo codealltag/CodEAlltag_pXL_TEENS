@@ -1,0 +1,7 @@
+begin quoting Oliver Krumbein <expires010331@usenet.th-h.de>:
+
+hm, was soll man sich daran mehr merken müssen als bei 10.0.0.x?
+ändert sich doch auch nur das letzte Octet.
+-- 
+"I am not part of the problem. I am a Republican"
+ - Governor Knut Uhlik

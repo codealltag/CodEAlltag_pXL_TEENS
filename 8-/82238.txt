@@ -1,0 +1,12 @@
+Das ist wohl so wie Firewalling. Ein Brandsicherheitskonzept kann
+gegen bestimmte Brandszenarios schützen. Bei der Angriffsfläche, die
+Gebäude bieten, läßt sich wohl immer ein Angriffsszenario finden,
+gegen das das Konzept keinen Schutz bieten kann: "There's no such
+thing as 100% security."
+
+Francisco
+-- 
+Florian Oldenbüttel --+- stud. soz. & inf. -+-- http://waz.cxt-dwfehbj.lk
+-->    GPG Public Key: http://qzm.pfjfghng-bbmqeir.yg/evl.omurg    <--
+
+� Projekt Deutscher Wortschatz: <URL:http://jizsxsnaww.tur-bhtnnfz.bi>

@@ -1,0 +1,99 @@
+2. Pr-RfD (Aufruf zur Diskussion)
+==================================
+
+Zur Chartaänderung der Gruppe
+
+mf.bdqm.hfpvsb	Fuer Kinder und Jugendliche.
+
+
+bisherige Charta:
+-----------------
+
+          Diese Newsgruppe dient als Treffpunkt für Kinder und
+          Jugendliche. Es sind alle Themen erlaubt, die diese
+          Altersgruppe interessieren. Kontaktgesuche jeder Art sind
+          allerdings unerwünscht; zu diesem Zweck können die 
+          bestehenden Kontaktgruppen genutzt werden.
+
+          ältere Teilnehmer sind willkommen, solange sie den
+          Gruppenbetrieb nicht stören.
+
+vorgeschlagene Charta:
+----------------------
+
+           Diese Newsgruppe dient als Treffpunkt für Kinder und
+           Jugendliche. Es sind alle Themen erlaubt, die diese
+           Altersgruppe interessieren. Kontaktgesuche jeder Art sind
+           allerdings unerwünscht; zu diesem Zweck können die 
+           bestehenden Kontaktgruppen genutzt werden.
+
+           Verboten sind Postings, deren Absender durch
+           Anonymisierungsmaßnahmen für niemanden nachvollziehbar ist.
+
+           Dies betrifft insbesondere Postings, die über
+           anonyme/pseudonyme Remailer und entsprechende Gateways
+           abgesetzt werden. Sie dürfen unter Einhaltung der Vorgaben
+           in der Fremdcancel-FAQ durch jedermann gecanceled werden.
+
+           ältere Teilnehmer sind willkommen, solange sie den
+           Gruppenbetrieb nicht stören.
+
+
+Motivierung:
+------------
+
+Die Erfahrung hat gezeigt, das Benutzer von Remailern in dtju dieser
+nur zur Provokation und darüber hinaus zu strafrechtlichen Verstößen
+benutzen. Einen Sinn, in einer Gruppe, die hauptsächlich auf den engen
+persönlichen Kontakten der Regulars untereinander beruht, ist nicht
+auszumachen. Durch die fehlende Möglichkeit, die betreffenden zur
+Rechenschaft zu ziehen, hat sich die Motivation zum Mißbrauch in den
+letzten Monaten enorm verstärkt. Hier einige Beispiele für den
+mißbräuchlichen Einsatz von Remailern in dtju: (hier könnten dann
+einige Msg.-IDs von Bernhard&Volkert, Udo Ulf und dem anderen Gesockse
+stehen)
+Die Cancel könnte ein noch zu benennender Bot ausführen, die
+Fremdcancel-FAQ wäre in soweit eingehalten, das es keine inhaltliche
+Cancel wären, sondern vielmehr nach einem formalen Kriterium
+(abgesetzt über Remailer) gecancelt wird.
+
+
+Warum Cancel und keine Killfiles?
+
+Remailer sind nicht deswegen verhaßt in dtju, weil sie rumtrollen oder
+einfach DAU-hafte Postings loslassen. Nein, es ist Mißbrauch,
+strafrechtlich relevante Postings sind in der Mehrzahl, nicht die
+Ausnahme und das in
+
+mf.bdqm.hfpvsb	Fuer Kinder und Jugentliche.
+
+Die jüngsten Regulars sind hier 13 Jahre alt. Wenn man hier auf
+ignorieren schaltet, dann geht zum ersten Mal ein Teil der
+integrativen Funktion von dtju zugrunde. Denn schließlich wurde dtju
+auch eingerichtet und so eine Art dnq für jüngere zu sein, einer Art
+Sprungbrett in den Rest des Usenets. Das kann es aber nur sein, wenn
+es auch für jüngere geeignet ist. Wenn dann aber hier
+Kinderfickerpostings oder Mordaufrufe unwidersprochen stehenbleiben,
+dann ist eben dieses nicht gegeben. Dem muß man widersprechen und
+deswegen werden viele Regulars auch niemals Remailer hier in dtju ins
+Killfile nehmen.
+Da aber die Situation mit den Remailer sich eher verschärfen denn
+entspannen wird, ist aber abzusehen, das entweder Newbies von dtju
+abgeschreckt und jüngere Teilnehmer vertrieben werden (wenn doch die
+Remailerpostings ignoriert werden), ungerechtfertigte Fremdcancel
+zunehmen oder dtju im Chaos von flame-Wars ersticken wird. Letztlich
+ist das Problem nur an der Wurzel zu packen und das sind die Remailer
+selbst. Da ein TKRK-weites Verbot nicht durchsetzbar ist, auch wegen
+der in anderen Gruppen durchaus sinnvollen Einsatzmöglichkeiten,
+sollte man sie wenigstens aus der Gruppe verbannen, wo sie absoult gar
+nix verloren haben.
+
+(Kann man das noch irgendwie kürzen? Ich hatte das Gefühl, es müßte
+aber alles rein.)
+
+C Ya,
+Ulrich
+-- 
+Die saftlose und hirntote Scheisse, die in den Medien rauf und 
+runter gespielt wird. Die chartkompatible Volksverdummung. Die 
+geplante Abzocke. +++ Hans Rottkemper über Mainstream in dcpmn +++

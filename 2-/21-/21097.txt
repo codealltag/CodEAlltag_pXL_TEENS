@@ -1,0 +1,14 @@
+Und so sprach Rüdiger Oldenbürger:
+
+
+Tja, der Unterhaltungsfaktor war eben einfach auch schon höher. ;)
+
+
+Ich glaub nicht, dass es daran liegt, davon sind eigentlich genug da.
+Eher bisschen mangelnde Diversität. :)
+
+Herwig, just my CHF 0.02.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.y

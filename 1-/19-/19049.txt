@@ -1,0 +1,7 @@
+hm, ja. Sollen wir da jetzt noch was reininterpretieren?
+
+mfg, 
+	Felix
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

@@ -1,0 +1,14 @@
+Am 13 Jul 1999 20:04:35 GMT sendete Lutz Baier
+folgende Botschaft:
+
+
+Linux kann AFAIK insgesamt 63 Konsolen verwalten, ob die aber alle
+auch Local genutzt werden können weis ich nicht.
+
+Tschüs
+  Konrad
+
+-- 
+Aus besonderem Anlass ändern wir unser Program:
+Statt der Doku "Der Xte Absturz von Windoof95" sehen sie:
+"Ein kleiner Pinguin auf der Reise durch die grosse Datenwelt"

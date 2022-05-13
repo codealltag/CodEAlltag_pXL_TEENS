@@ -1,0 +1,12 @@
+Und was steht da drin?
+
+
+Ich kenne keinen funktionierenden Decompiler für C-Code. Du?
+
+
+Alle Prozessoren haben mehr oder weniger den selben Befehlssatz. Wenn Du 
+sagst daß der Telepoint-Bytecode nur normaler Maschinencode ist, dann ist das 
+irrelevant.
+
+
+Die wären? Abgesehen davon daß die Marketingroboter ganz geil darauf sind.

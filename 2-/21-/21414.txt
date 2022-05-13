@@ -1,0 +1,11 @@
+Und so sprach Valerian Niederstadt:
+
+
+Oha, das ist mittlerweile ja schon fast D+2. Und, wie ging's?
+
+Dennis, ich hab Euch was gekocht, geht doch schon mal in den
+Keller?
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.o

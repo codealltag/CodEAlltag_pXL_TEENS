@@ -1,0 +1,11 @@
+Allerdings. Das ist auf schwarzem Hintergrund einfacher. :-)
+
+
+Tatsächlich? Mein vim-Default war IIRC ganz ohne Farben. Nur grau auf
+Schwarz. Irgendwo im Netz habe ich dann was gefunden und kaum etwas
+geändert.
+
+Orlando
+
+-- 
+~~(___(oo)

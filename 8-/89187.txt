@@ -1,0 +1,21 @@
+Danke. Werde ich mir angucken.
+
+[American Beauty]
+
+Zum Glück habe ich nicht viel von der Kritik mitbekommen, sondern nur
+von einem Freund gehört, dass ich ihn unbedingt mal anschauen müsste.
+Hat sich gelohnt, IMO. :-)
+
+
+Das ist schade. Diese lokalen NGs könnte ich nämlich als Platzhalter
+zwischen den NGs benutzen, wenn schon das Sortieren in Unterordner in
+slrn nicht geht. Es gibt da nämlich einige Gruppe, die ich ziehe ohne
+einen einzigen Artikel zu lesen. Nur fürs Archivieren halt.
+
+Was ich etwas seltsam finde ist leafnodes Verhalten wenn ich neue
+Postings geholt habe. Sie sind im Spool, aber werden nicht im slrn
+angezeigt. Wenn ich dann texpire ausführe, kann ich sie dann lesen.
+Irgendwie...seltsam. Und nervig.
+
+-- 
+Sig.

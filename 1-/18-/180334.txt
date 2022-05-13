@@ -1,0 +1,14 @@
+Jens Jarck schrieb am 30. März 1999 um 19:42 Uhr folgendes:
+
+
+Zur Beruhigung: Ehal beherrscht lesenderweise MIME-codierte
+Header-Zeilen sowie quoted-printable und 8bit in Bodies. Für base64,
+HTML und ähnliches kann man auf externe Tools zurückgreifen (unter
+Linux ist da metamutt sehr komfortabel, ob es etwas vergleichbares
+unter OS/2 gibt, weiß ich nicht).
+
+Viele Größe,
+     Fabrice Jannert
+-- 
+The fact that no one understands you doesn't mean you're an artist.
+                                            -- "Smart Comments", part 2

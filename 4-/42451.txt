@@ -1,0 +1,8 @@
+Du hast den Kontext da hinten verloren. Wisch auf und komm wieder,
+wenn du dein Zimmer aufgeräumt hast.
+
+-towo
+-- 
+BOFH excuse #436:
+
+Daemon escaped from pentagram

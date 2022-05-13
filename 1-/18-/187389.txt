@@ -1,0 +1,17 @@
+Adolf Stump schrieb am 8. Juli 2000 um 20:40 Uhr folgendes:
+
+Hallo. Schön, mal wieder etwas von dir zu lesen :-)
+
+
+Dass bei kleineren Ein-Mann-Projekten auch relativ kurze
+code-and-test-Zyklen zum Erfolg führen können, haben sogar die Profs
+in Niederalm zugegeben. Bei größeren Sachen sollte man sich aber wohl
+schon an ein paar Grundregeln des Software Engineering halten, wenn
+man nicht Gefahr laufen will, viel Geld in den Sand zu setzen.
+
+Viele Größe,
+     Volkert Knupfer
+-- 
+It might look like I'm doing nothing, but at the cellular level I'm
+really quite busy.
+                                           -- "Smart Comments", part 22

@@ -1,0 +1,29 @@
+Vito Zieche schrieb am 2. Februar 1999 um 20:14 Uhr folgendes:
+
+
+Yep. Aber auch weil es eben die Möglichkeit gibt, als root zu
+arbeiten, sehe ich den Vorteil eines Betriebssystems ohne Permissions
+nicht so ganz.
+
+
+Kommt immer drauf an, um was es geht. Ein normaler User auf einem
+Einzelplatz-Rechner will in der Regel keinen kompletten MTA
+konfigurieren und für die Einstellungen, die in einer 08/15-
+Applikation anstehen, ist ein "Einstellungen"-Dialog schon recht
+komfortabel. Ich finde es in solchen Fällen praktischer, einen Font /
+Color Selector zu haben, als mich mit Font-Strings und RGB-Werten
+herumschlagen zu müssen, auch wenn sie gut dokumentiert sind.
+
+
+Ist erst einmal vertagt. Aber falls du wissen willst, wie man UTF-8
+dekodiert, das könnte ich dir auswendig erzählen ;-)
+
+
+Schau's dir halt an, ich kenne es selbst nicht.
+
+Viele Größe,
+     Christoph Zurhelle
+-- 
+"I loathe people who keep dogs. They are cowards who haven't got the
+guts to bite people themselves."
+                                                   -- Sandro Zichaus

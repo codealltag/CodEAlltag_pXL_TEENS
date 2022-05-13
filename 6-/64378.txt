@@ -1,0 +1,11 @@
+René Almenröder meinte kundzutun:
+
+
+Hm. 
+chicks::character || die
+chick::looks;chick::age;exit 0
+
+Vincenzo
+-- 
+Dieser Artikel ging an folgende Newsgroups: dz.ukly.pbaomg
+Er wurde am Dienstag, dem 23. Dezember im Jahre des Herrn 2000 verfaßt.

@@ -1,0 +1,11 @@
+Leider. :-( Da waren doch vor ein paar Monaten mal diese ominösen
+Spammer, die sich im From als "MAILER DAEMON" ausgaben. Um eine
+gebouncte Nachricht möglichst echt zu imitieren, stand auch "Re:" im
+Subject. Und angehängt waren *riesige* Word- oder Excel-Dokumente, von
+denen ich gar nicht wissen möchte, was drin war.
+
+Außer Blocken (bereits durch den A&V-Server) von allem, was von einem
+"MAILER DAEMON" kommt, half da auch nix. :-(
+
+
+-agena

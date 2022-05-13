@@ -1,0 +1,8 @@
+Naja, du hast aber keine Kabel pro Taste, sondern eine Matrix in
+der Tastatur, und einen Chip dahinter, der das umsetzt.
+
+mfg, 
+	Tim
+-- 
+BOFH excuse #19:
+floating point processor overflow

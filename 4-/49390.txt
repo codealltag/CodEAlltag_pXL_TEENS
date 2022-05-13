@@ -1,0 +1,6 @@
+Datablock = Linux? 
+und
+Rangabauer = Linux?
+->  Rangabauer = Datablock
+
+Irgendwas passt da doch nicht... ;-)

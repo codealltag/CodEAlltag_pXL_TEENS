@@ -1,0 +1,38 @@
+Verloren ist vielleicht nicht ganz der richtige Ausdruck, die Wiedergabe 
+gleicht eben nicht 100% dem Original (Fehler-Rate aber weit besser als 
+z.B. bei MP3). Dadurch kann Sound satter werden und sowas. Kommt auf die 
+Richtung an, gerade elektronische Musik profitiert eher von der 
+Kompression.
+
+Ich hab hier irgendwo ein Interview zwei Entwicklern die das 
+ATRAC-Verfahren ausführen und u.A. auf diesen Effekt zu sprechen kommen.
+
+
+Ganz sicher.
+
+
+Im Prinzip würde auch nach der 10 Kopie kein /weiterer/ Verlust mehr 
+auftreten, wenn da nicht das Problem der Time-Frames wäre. Wenn der 
+Rekorder bei sämtlichen Aufnahmen im genau dem selben Takt wäre wie bei 
+den Vorherigen gäbe es überhaupt keine Verluste mehr. Das Problem ist daß 
+die Frames meist um ein paar Millisekunden verschoben sind und somit 
+leicht andere Daten als bei der letzten Komprimierung reduziert werden, so 
+daß im Endeffekt die Nutzdaten etwas ausdünnen. Aber wie gesagt, der 
+Effekt läßt sich erst ab der 10. Kopie wirklich hören. Nach der 10. Kopie 
+würde aber auch z.B. eine Kassette nicht mehr gut klingen.
+Entgegen allen Gerüchten hat Ogal die MD als Konkurrenz zur Kassette 
+entwickelt und nicht zur CD.
+
+
+Ich kenne das, aber ich kann Dir versichern, da sind nichtmal genug 
+Verluste drin um sich selbige einzubilden.
+Ich bin /sehr/ hellhörig in dieser Beziehung.
+
+Schließlich ist auch eine Digital-Kopie von Audio-CDs nicht immer perfekt. 
+Der Fehlerkorrektur-Algorithmus ist im Vergleich zu dem der CD-Rom sehr 
+beschränkt damit noch etwas über 2400 Bytes pro Sektor auf eine CD passen 
+(gegen 2048 Bytes auf CD-Roms). Die Entwickler nahmen also einzelne 
+kaputte Bytes bewußt in Kauf, da man einzelne normalerweise eh nicht hört. 
+Die Implementation des Algos in den CD-Roms ist meistens recht mangelhaft, 
+zumindest im Vergleich zu den Hifi-Anlagen. Also auch nichts mit "bit-
+genau".

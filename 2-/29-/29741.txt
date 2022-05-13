@@ -1,0 +1,7 @@
+Also sprach Dominik Theeg <rly@lgshm.nkx>:
+
+
+Er meint aber nicht die Dinger, die man gemeinhin als "shell archive"
+(sharutils) bezeichnet?
+
+Dominik

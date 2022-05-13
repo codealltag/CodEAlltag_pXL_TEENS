@@ -1,0 +1,11 @@
+Theodor Jaenigen hat geschrieben getan getutet:
+
+
+date(firstrelease.frontpage)?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Alain 'björn' Katzmaier in gy.okk.qrkwxwig.alqwujtp

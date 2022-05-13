@@ -1,0 +1,18 @@
+Ottmar Samuel hat geschrieben getan getutet:
+
+
+Einen Texteditor mit Syntaxhighlighting (sowas soll es Geruechten
+zufolge geben) meinte ich.
+
+
+JAXP? -v
+
+
+Server-side parsing ist selten ungut.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Wolfgang 'henning' Verhühlsdonk in sp.quq.figyrjgy.thrpmxek

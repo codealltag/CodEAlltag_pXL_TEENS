@@ -1,0 +1,3 @@
+Nicht so krass wie mein heutiges NFS to Samba mapping weil CJCL 5 ftpd 
+nicht gewollt hat, ich aber die Daten von der Platte unter Win haben musste 
+*eg*

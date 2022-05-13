@@ -1,0 +1,5 @@
+HTH,
+Knut
+-- 
+safer Gnus - never without matching parenthesis
+Steffi Felbermayr in <g7p14h$febnh$0@VE-36388.nhfh.awplam.or>

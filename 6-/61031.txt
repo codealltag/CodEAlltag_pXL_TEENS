@@ -1,0 +1,8 @@
+Nun, ich benutze CSS um Schriftattribute etc. unterzubringen, aber ich 
+will einfach auch daß sie mit abgeschaltetem CSS brauchbar aussieht.
+
+So gesehen ist der Validator sehr inkonsequent. Wieso darf ich die 
+Textfarbe im BODY angeben aber nicht die Randabstände? Wieso darf ich 
+'align = "middle"' aber nicht 'align = "absmiddle"' schreiben?
+
+Gruß, Pierre

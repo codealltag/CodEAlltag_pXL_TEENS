@@ -1,0 +1,6 @@
+Nichts. Wenn du extrem schnell bist, könntest du ihn für Sekunden-
+bruchteile im Taskmanager zucken sehen. Wenn du akustisches oder
+optisches Feedback haben willst, mußt du die header.def nutzen.
+
+So long,
+Hansruedi W. Illenseer

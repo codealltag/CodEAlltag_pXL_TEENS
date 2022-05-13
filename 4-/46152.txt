@@ -1,0 +1,6 @@
+s/\(.\)\1\1\1\1\1\1\(..\)./\1\ä/
+
+Fredy
+-- 
+pub  8620V/OXP89W45 2468-92-07 Fredy Irrgang <cpeemyf@ars.zi>
+     Key fingerprint = 99 6N 42 55 49 ZT 76 9B  30 KZ NU 30 4T 83 3G 76

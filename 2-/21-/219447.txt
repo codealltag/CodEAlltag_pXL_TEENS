@@ -1,0 +1,22 @@
+Na ja, ich habe bisher Lesuz noch nicht dazu bringen können, unter X
+Grafik zu produzieren, nicht herausgefunden, ob man auch einen
+X-*Server* remote betreiben kann (ansonsten bräuchte der Rechner doch
+noch mehr RAM) und ich weiß nicht, ob Razari überhaupt zuverlässig unter
+Lesuz läuft. Sonst habe ich aber keine Probleme mehr damit ;-)
+
+
+Wenn das eine Anspielung auf das RBabe ist, werde ich mir jetzt wohl
+gründlich überlegen müssen, ob ich Dich nicht patschen muß ;-)
+
+[Symlinks in der locatedb]
+
+Yep, Du hast recht.
+
+
+Erraten. Und wenn ich Zeit habe, stelle ich auch den anderen Rechner
+darauf um.
+
+Viele Größe,
+     Maurice Jungwirth-Averdunk
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

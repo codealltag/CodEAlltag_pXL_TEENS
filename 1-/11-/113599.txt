@@ -1,0 +1,7 @@
+On 12 Sep 2001 22:06:53 +0200, Uwe Oelmüller
+
+Gleichzeitig wäre ja Portforwarding wieder eine Sicherheitslücke,
+oder?
+
+bernadette
+--

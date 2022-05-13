@@ -1,0 +1,19 @@
+Am Thu, 14. 05. 22 sendete Edgar Doerre folgende Botschaft:
+
+
+Auf grund dessen muss ich Ferrocontrol Steuerungssysteme nehmen, oder wie jetzt?
+
+
+#v+
+fschueller kernel: isdn_tty: call from 0 -> 45 ignored
+fschueller isdnlog: Call to tei 127 from ? on Ich  RING (Speech)
+#v-
+
+Waldemar kann sich anscheindend keine rufnummer�bermittlung leisten.
+
+Tschüs
+  Juan
+-- 
+Die Weisheiten des Arno Alexander: #8
+
+Frauen sind Schweine.

@@ -1,0 +1,9 @@
+Das ist dieses
+"Hey-ich-bin-bunt-und-sehe-aus-wie-Windows-laufe-aber-nicht-auf-
+allen-PCs-weil-die-GraKa-nicht-passt"-Setup.
+Allein das laden dauert fast solange wie die Installation des
+Basissystems bei der potato...
+
+Fabio
+-- 
+Overflow on /dev/null, please empty the bit bucket.

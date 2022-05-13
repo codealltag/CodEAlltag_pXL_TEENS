@@ -1,0 +1,13 @@
+Andre Plögers a crit dans le message:
+
+[ XEmacs 21.5 unter Win ]
+
+Und ich hoffe ja, dass es in absehbarer Zukunft fertige Binaries gibt.
+
+
+Warum das denn?
+
+Willibald
+-- 
+Züge fahren immer vorwärts. Auch wenn sie rückwärtsfahren.
+(Andreas Kopel)

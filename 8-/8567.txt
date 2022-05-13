@@ -1,0 +1,7 @@
+Stimmt ja garnicht, ich hab voll recht!
+
+Walter
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+115: pure virtual member function
+       nicht kreatibel (Bernard Isenhöfer)

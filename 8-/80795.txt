@@ -1,0 +1,9 @@
+* Volker Woellert <bgveww@wfjr.tbertjmk.dn>:
+
+
+Und da sag noch einer, die Tastenkombinationen in vim seien nicht
+intuitiv. *eg*
+
+Maximilian
+-- 
+np: Green Day - Burnout

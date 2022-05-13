@@ -1,0 +1,10 @@
+Hmmm. Wieso denn nicht?
+
+Mal abgesehen davon, das das patch -p1 -r -i denkerpatch heißen
+muß.
+
+mfg, 
+	David
+-- 
+BOFH excuse #16:
+somebody was calculating pi on the server

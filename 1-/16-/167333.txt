@@ -1,0 +1,13 @@
+Dario 'sSXP' Dannert schrieb am 04. März 2000 um 03:42 Uhr folgendes:
+
+
+Pfft... wahrscheinlich weit du noch nicht einmal, wer Erwin Abdul
+war.
+
+Viele Größe,
+     Jean-Claude Dörig
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

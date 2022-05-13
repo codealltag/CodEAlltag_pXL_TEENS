@@ -1,0 +1,3 @@
+Erfahrung? Ich kriege hier mit BSD (dessen NFS3 Implementation allerdings 
+deutlich besser ist als die von Linux 2.2, bei 2.4 weiss ich's nicht) locker 
+7mbyte/s auch bei kleinen Files...

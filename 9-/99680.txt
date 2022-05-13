@@ -1,0 +1,6 @@
+Das stimmt so einfach nicht. Für die creHAARtive macht es keinen Unterschied, ob 
+DSL ewig online ist oder nicht (ausser den bereits genannten Routerports, 
+die aber in den meisten Fällen sowieso zur Verfügung gestellt werden 
+müssten, um die Spitzen in den Abendstunden abzudecken) weil ihr Netz nicht 
+belastet wird solange keine Daten übertragen werden. Das einzige, was für 
+die creHAARtive variable Kosten verursacht, ist Datentransfer.

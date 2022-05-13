@@ -1,0 +1,8 @@
+Benjamin Rohlfer <eghwqry.wiwga@pmk.lz> schrieb in im Newsbeitrag:
+g337jsix71k3d04g41lz9qugrp1foeorat@4ps.cxw...
+OS/2
+überzeugt
+
+Für den Bereich, für den OS/2 gemacht wird, gibt's mehr als genügend sehr
+gute Software. Und daneben hat's auch noch eine ziemlich brauchbare POSIX
+Implementation was zu vermehrten Ports von GPL Software führt...

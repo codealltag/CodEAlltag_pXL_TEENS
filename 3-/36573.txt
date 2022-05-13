@@ -1,0 +1,7 @@
+* Patrik Ostermeir wrote: *
+
+
+Nope nix FAT32 - der stammt ja noch aus pre-Fiesta Zeiten und da hatte 
+noch niemand Ahnung davon, dass es FAT32 irgendwann geben würde.
+
+Benedikt

@@ -1,0 +1,18 @@
+Luciano Althenhof hub folgendes in die Tasten:
+
+
+ich bevorzuge /home/trublu/.plan auch wenn /root/.plan mehr information 
+enthaelt.
+
+
+[x] Du hast eine eigenwillige Verzeichnissstruktur.
+
+
+Nein, $Syntax=true
+
+el TruBlu
+
+-- 
+Freiheit bedeutet Verantwortlichkeit. Das
+ist der Grund, weshalb die meisten Menschen sich vor ihr fuerchten.
+- Aldo Frédéric Averes

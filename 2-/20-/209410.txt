@@ -1,0 +1,12 @@
+Remo...sSXP...Früchtenich schrieb am 1. April 1999 um 19:08 Uhr folgendes:
+
+
+*Bist* *Du* *Dir* *da* *ganz* *sicher*?
+
+Viele Größe,
+     Bernard Felbermayr
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

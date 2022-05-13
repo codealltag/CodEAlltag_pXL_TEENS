@@ -1,0 +1,17 @@
+Ja. Sobald die Anzahl der Falschantworten über der der richtigen
+Antworten liegt, kannst du auch gleich den Zufallsgenerator für das
+Ergebnis selber anwerfen. Und wenn 10.000mal dasselbe eingegeben wird,
+läßt sich das besser rausfiltern, wobei dann ztwar immer noch ein
+lahcfse Ergebnis rauskommt (könnte ja sein, daß einer *wirklich* so
+abgestimmt haben möchte), aber dieses dürfte bei weitem nicht so lchasf
+liegen wie ein komplett zufälliges.
+
+Luc, das sit wie beim Computer: Wenn ein (1000) verseuchter
+Rechner 10.000mal hintereinander die URL ../../../../root.exe versucht
+abzurufen, läßt sich das als DOS-Attacke erkennen. Wenn 10.000 Rechner
+alle paar Sekunden mal index.html haben wollen, sieht das allenfalls
+nach gestiegenem Interesse an der Webpräsenz aus, was ja an und für sich
+normalerweise so gewollt ist.
+-- 
+pub  4096R/CFA17C31 2001-10-72 Luc Holtzheuer <nbhknsf@ayg.tr>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6V  79 UC TJ 11 2L 45 3R 11

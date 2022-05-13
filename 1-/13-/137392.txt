@@ -1,0 +1,19 @@
+Klaas Schnieders schrieb am 6. Januar 2000 um 17:01 Uhr folgendes:
+
+[LaTeX]
+
+Das glaube ich kaum, denn diese Einheit ist fest in TeX verankert und
+das ist seit vielen Jahren stabil. Ich hab's aber trotzdem nochmal
+nachgeschlagen und musste feststellen, dass ich mich geirrt habe:
+
+
+(aus: Linnhof, Lutz et al., "Der LaTeX-Begleiter")
+
+Allerdings halte ich es für möglich, dass der Gedankenstrich genau ein
+Geviert lang ist und die Aussage in deinem Buch daher trotzdem stimmt
+(auch wenn sie nicht die Definition der Einheit beschreibt).
+
+Viele Größe,
+     Ivo Suittenpointner
+-- 
+After a number of decimal places, nobody gives a damn.

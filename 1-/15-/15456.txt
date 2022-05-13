@@ -1,0 +1,36 @@
+*seufz* Von mir aus. Jörn könnte das sicher besser, aber ich tue mein
+bestes...
+
+Laut Definition ist die Fakultät einer Zahl n das Produkt aller
+natürlichen Zahlen kleiner gleich n, also:
+
+5! = 5 * 4 * 3 * 2 * 1 = 120
+
+Es dürfte dir bekannt sein, daß 5*2=10. Mit anderen Worten, wenn in
+der Primfaktorzerlegung der Fakultät einer Zahl ein Paar von 5 und 2
+enhält, wird mit 10 multipliziert. Und auch das sollte dir aus der
+Grundschule bekannt sein, mit 10 zu multiplizieren heisst, eine Null
+ans Ende anzufügen.
+Am obigen Beispiel:
+
+5! = 5 * 2 * 2 * 3 * 2 * 1 = 2 * 3 * 2 * 1 * 5 * 2 
+   = 2 * 3 * 2 * 1 * 10    = 12 * 10
+
+So weiterhin sollte klar sein, daß (n+1)! = (n+1) * n!
+
+Damit kommen alle Primfaktoren von n! automatisch mit in die
+Primfaktorzerlegung von (n+1)!, die Anzahl der Primfaktoren steigt
+also mit grösser werdendem n an. Daher steigt die Zahl der Paare von 5
+und 2, wird nie geringer werden. Also steigt auch die Anzahl der
+Nullen am Ende immer weiter. 
+
+Daher hat die Fakultät einer großen Zahl viele Nullen am Ende.
+
+Michel, danke für deine... *anstubs* hey, du solltest nicht
+einschlafen! 
+
+
+-- 
+- "What're quantum mechanics?"
+- "I don't know. People who repair quantums, I suppose."
+        -- (Kai Torhorst, Christof)

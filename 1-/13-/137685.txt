@@ -1,0 +1,7 @@
+Also, die Header werden auch gespeichert, wenn sie mal geholt sind, wie
+sonst sollte er sie als gelesen markieren?
+
+Patrik
+
+-- 
+Hier kommt nichts mehr.

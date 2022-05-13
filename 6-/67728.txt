@@ -1,0 +1,10 @@
+[Pimboli]
+
+Fuer gewoehnlich surfe ich sehr wenig, und wenn, dann weil ich
+mich informieren mag.
+
+  ivano
+
+-- 
+<golgo> wolfgang: why not %USE-GNU-TOOLS ??$
+<Erik_Nd> %GNU-IS-BAD-STUFF-AND-SHOULD-BE-FILTERED-IN-ROUTERS

@@ -1,0 +1,14 @@
+Gianni Combrink schrieb am 6. Juli 2000 um 09:09 Uhr folgendes:
+
+
+Es braucht ja keine 1:1-Kopie sein, damit die Daten sinnvoll in einer
+.rc speicherbar sind. Du kannst einen Font Browser und Color Chooser
+anbieten und trotzdem wie gehabt einen Font-String und einen RGB-Wert
+in das .rc schreiben.
+
+Viele Größe,
+     Wolfram Cordts
+-- 
+ Q: I was listening to a CD in Grip and it sounded horrible! What's up?
+ A: Perhaps you are listening to country music...
+                                                        -- grip 2.5 FAQ

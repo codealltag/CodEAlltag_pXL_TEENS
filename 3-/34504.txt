@@ -1,0 +1,7 @@
+Also sprach Oswald Unmuth <khuufnm_in@hula.evd>:
+
+
+Und die libstdc++ macht Landwehrmeier und apt-get (!) unbrauchbar...
+JPJG ist wohl auch betroffen. Wahrscheinlich eh alles etwas größere.
+
+Orlando

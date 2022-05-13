@@ -1,0 +1,12 @@
+Nein, aber als Agent-Nutzer musste ich das sagen. slrn wird wohl auch
+noch besser sein. tin...weiß nicht, nur mal angetestet.
+
+Kommt aber eh alles auf den User an. Wer nicht scoren will, kaum
+Funktionen braucht und sich nicht groß an zu viele Möglichkeiten
+gewöhnen will braucht Gnus nicht.
+
+Gerd
+
+-- 
+Die letzten Worte des Computers:
+"Sind Sie sicher? (J/N)"

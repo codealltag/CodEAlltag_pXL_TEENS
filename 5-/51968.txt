@@ -1,0 +1,8 @@
+Am Sat, 5 Feb 2003 sendete Leon Daunhauer folgende Botschaft:
+
+
+Dann sollte gnus auch die References desen im Summarybuffer nehmen. Alles
+andere ist ein Bug.
+
+Tschüs
+  Uwe

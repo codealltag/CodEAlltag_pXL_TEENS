@@ -1,0 +1,11 @@
+Hat der Agent nicht eine 'Catch up' Funktion, mit der er alle bis dahin
+  vorhandenen Artikel auf dem Server laesst ?
+
+
+Das Problem haben doch wohl die meissten.
+
+-- 
+Leander
+"I've seen things you people wouldn't believe. Attack ships on fire off the
+ shoulder of Modelist. I watched C-beams glitter in the dark near the THII gate.
+ All those moments will be lost in time, like tears in rain.  Time to die."

@@ -1,0 +1,8 @@
+[schnuepp Scorefile-Auszug]
+
+Ich probiers dann mal so..
+
+(("from"       ("Heinrich Piekenhayn <iairaqk_lm@bfpy.rqd>" -1 nil s))
+ ("references" ("LW-23396.ivdy.rdvryg.jp>$" 1000 nil r)))
+
+-towo

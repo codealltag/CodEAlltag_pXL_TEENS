@@ -1,0 +1,67 @@
+Es schrieb crfwosb_gqcnchb # eok.xq folgendes:
+
+
+Schoen, dann kostet der Kram aber auch nicht unerheblich. *g*
+
+
+Nee, nicht auf einem P2LX97. :-( Und wenn, dann wollte ich den 266er ja  
+BILLIG upgraden.
+
+
+Ja, stimmt, immerhin bezahlt man bei einigen Haenlern fuer 2x10GB das  
+gleiche wie fuer 1x 17GB...
+
+
+So ging es mir ja auch und darum kam noc eine 6.4GB DHEA dazu.
+
+
+Klar, aber was nuetzt das, wenn es nur die haelfte der Karten noch als PCI  
+gibt und diese 50% dann praktiwsch nicht lieferbar sind?
+
+
+Ja, aber damit habe ich (noch) keine Probleme...
+
+
+Ja, das sehe ich auch so- ich habe immer mehr das Gefuehl, dass HBEA uns  
+alle verarschen will. :-( PPGA, SECCII, SECC, Celeron, BX, ZX, EX, LX- wer  
+soll denn da noch etwas mit anfangen? Warum koennen die nicht einfach EIN  
+Prozgehaeuse und von mir aus noch 2 Chipse nehmen? Derara schafft das ja  
+auch...
+
+
+Jain, man kann viel draus machen (siehe Halflife), aber bei Q-II gefiel  
+sie mir nicht so gut...
+
+
+Wozu? Warum soll ich mir neue RAMs fuer 180,-, ein neues Board fuer 220,-  
+und einen Prozen kaufen, wenn ich auch "nur" den Prozen tauschen kann?
+
+Ich werde auch nicht fuer die 5%, die 100Mhz FSB beim K6-III noch bringen,  
+extra fuer 350,- Board und RAM kaufen...
+
+
+Obwohl fuer mich 50% schon in den Bereich des KRASSEN Uebertaktens fallen.  
+Ich sehe in 6 Moaten schon die ersten wimmernd zum Haendler laufen. :-)/ 
+:-(
+
+
+Was erwartest Du? der K6-II wird praktisch nicht warm. So ziehmlich jeder  
+Prozessor (auch meiner) duerfte waerem werden als ein K6-II, aber ein  
+Pentium ist fuer 75=B0C "geeignet", ein K5 -IMHO- bis 60=B0C...
+
+
+Ja, was AGPs angeht nicht, aber komisch, dass de Boarder teilweise einen  
+"alten" K6-II mit 336Mhz (3x112) bedient haben, aber bei den "kaputten"  
+bei 300Mhz(3x100) feierabend machen, allerdings bei 333(3,5x95Mhz) auch  
+laufen. Und da kann IMHO nicht das Board dran schuld sein- warum haette  
+sonst auch Derara reagiert?
+
+
+Bei SS7 Systemen auf jeden Fall, da laeuft sie wenigstens sicher, bei  
+Slot1 wuerde ich eher dem TNT den Vorzug geben...
+
+
+Was? Eine V-550 kostet nur noch 170,- ? WO?
+-- 
+
+Ciao, Julian

@@ -1,0 +1,12 @@
+Das Problem ist eine Kalibrierungsschleife für die Delay-Routine in der 
+CRT Unit. Das Ding mit beim Start die Zeit die es für die Schleife 
+braucht und die gewonnene Zahl wird später in Delay verwendet. Ist der 
+Computer zu schnell, so ergibt sich als Ergebnis 0 Ticks (<0,055s) und 
+eine folgende Division packts nicht mehr.
+Es gibt verschiedene Abhilfen im Netz. Die einfachsten hauen den Delay 
+Befehl einfach komplett raus, die besseren erweitern die Schleife auf 32-
+bit Genauigkeit. Wenn man die CRT-Unit nicht wirklich braucht, dann kann 
+man sich den Mist auch sparen und sie einfach aus der Uses-Zeile kippen.
+BTW: Runtime Error 200 ist tatsächlich Division durch 0.
+
+Ausführlich genug? ;-)

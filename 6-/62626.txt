@@ -1,0 +1,20 @@
+Focko Samsen schrieb am 16.06.2001:
+
+
+Glaub ich nicht. Dann kommt eher einer auf den Trichter das es viel effektiver
+ist auch das Reply-to auszuwerten. Und wenn du damit einmal in einer
+Datenbank stehst ist das nicht lustig.
+
+Ich hab mich seinerzeit mal in ein Gästebuch eines amerikanischen
+Radiosenders eingetragen. Wochen später ging das mit dem Spam los. Nun
+wird die Adresse komplett nach dev/null gefiltert, weil es irgendwann 
+unerträglich wurde. Glücklicherweise verwende ich bei jedem Gästebuch
+eine andere Adresse. So kann man gut zurückverfolgen, woher die Daten
+stammen.
+
+ Eduard
+
+-- 
+Fachbegriffe der Informatik:
+   9: GUI
+          Ein Hintergrundbild und 12 Xterms (Maurizio Vesenmaier)

@@ -1,0 +1,15 @@
+Hm, klang aber recht eindeutig danach. :-)
+
+
+Naja, für mich gehört Linearisieren schon zu "Monotone
+Graphenbearbeitung".
+
+
+Erstmal die anderen Aufgaben machen...
+
+Othmar
+
+-- 
+Home Page:
+"Would you like to set your Home Page to 'http://fli.qdhmm.sdd/vit-reg/ow.qq?"
+ jetzt anzeigen? Oder klicken Sie auf Nein um "Seite.com'?"

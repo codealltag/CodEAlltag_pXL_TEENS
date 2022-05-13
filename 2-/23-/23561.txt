@@ -1,0 +1,12 @@
+Und so sprach Fabian Zirner:
+
+
+Ne, die sind so schwierig zu backen. Und angebrannt stinken sie ganz
+eklig. :-)
+
+Gruss,
+Tom.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.x

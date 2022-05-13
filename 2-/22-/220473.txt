@@ -1,0 +1,16 @@
+Mmh, würde ich mal von der Art des Netzwerks abhängig machen. Im
+Zweifelsfall würde ich mir aber wohl für's Büro einen anderen
+Schlüssel generieren als für meine private Mail.
+
+
+Das ist klar.
+
+
+Tja, leider war meine bisher einzige Möglichkeit, meinen Key von
+jemand anderem signieren zu lassen, im Schiffman und von denen habe ich
+seitdem nichts mehr gehört :(
+
+Viele Größe,
+     Italo Stephenson
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,9 @@
+Höh. @thh[1]: Passiert das eigentlich öfter, dass wir im Spamfilter
+hängenbleiben?
+
+Nico
+
+[1] Nein, kein perlarray.
+-- 
+Björn  : DAS hatten wir schon mal.
+Josette: Davon habe ich nichts gemerkt.

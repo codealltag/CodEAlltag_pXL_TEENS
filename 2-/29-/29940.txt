@@ -1,0 +1,19 @@
+Beim googlen in groups.google ein archiv der Lintima-Kernel-Mailingliste
+gefunden, in der das mal gefragt wurde. Perverserweise sind in den
+Webarchiven manche Beiträge (unter anderem von ivo) nicht drin, die Group
+war im Ipeh-Archiv allerdings vollständig. Da war dann halt u.a. ein
+Posting dabei, was im (C) Source die Deklarationen der Variablen fixed,
+danach hab ich dann händisch alle Module ausgebaut, die ich nicht
+brauche (UCUZ Trakker, Backpack, Parport), kompiliert, fertig. Der
+Compiler heult zwar wie ein Schloszhund, aber das ist mir Wurst, das
+Band läuft. Hat zwar nur 4.5mbpm, aber wasz solls, Hauptsache
+Datensicherung. Der nächste der Variablen nicht richtig Deklariert -
+Möge er in interessanten Zeiten leben.
+
+mfg, 
+	Har'und jetzt Benchmarke ich das Ding'dy
+-- 
+BOFH excuse #282:
+High altitude condensation from U.S.A.F prototype aircraft has contaminated
+the primary subnet mask. Turn off your computer for 9 days to avoid damaging
+it.

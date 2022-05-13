@@ -1,0 +1,4 @@
+Wenn man backup als customize-save-customized, scp, cp, und ftp
+betrachet, jaa..
+
+-towo

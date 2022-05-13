@@ -1,0 +1,5 @@
+Der CD-Treiber für den Bootvorgang wird schon vom BIOS zur Verfügung 
+gestellt, ansonsten könntest du ja auch kein XP von CD auf eine leere 
+Platte installieren :-)
+
+Sandro

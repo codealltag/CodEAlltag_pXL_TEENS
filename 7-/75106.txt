@@ -1,0 +1,15 @@
+Stefano Uhle hat geschrieben getan getutet:
+
+
+Du macht JavaScript für Seiten wie von der Bravo an.
+Pfui.
+
+
+Zur torrefazione.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Joachim 'ottmar' Eysen in ci.xbs.ekdlsowk.vtaqowgi

@@ -1,0 +1,9 @@
+Das kann man beschleunigen, indem man 'Quick (PowerOn) Selftest' oder 
+so ähnlich 'enabled'. Diese Funktion ist aber nicht immer da. Das 
+Schlimmste, was ich da bisher gesehen habe, war ein Rechner, der den 
+Speicher dreimal komplett durchgezählt hat. Nur mit einem 'Esc' konnte 
+die Zählerei abkürzen. Nicht, dass der RAM-Test irgendwelche Fehler im 
+RAM finden würde. Der guckt einfach nur was da ist; obs funktioniert, 
+interessiert da nicht.
+
+Niko

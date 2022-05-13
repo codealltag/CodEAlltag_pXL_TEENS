@@ -1,0 +1,7 @@
+*notier*
+
+mfg, 
+	Ingolf
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

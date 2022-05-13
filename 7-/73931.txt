@@ -1,0 +1,15 @@
+Am Fri, 10. 12. 22 sendete Samu Peschel folgende Botschaft:
+
+
+Doch.
+
+
+felix: ~$diff Danach Danach
+diff: Danach: No such file or directory
+
+Tschüs
+  Pascal
+-- 
+Die Weisheiten des Urban Jup: #2
+
+Man sollte am frühen Morgen nicht seinen Laptop auseinander nehmen.

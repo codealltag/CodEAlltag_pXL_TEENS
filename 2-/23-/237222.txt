@@ -1,0 +1,6 @@
+Es ist auf jeden Fall wieder passiert.
+Und wenn ich richtig zähle ist der References-String wieder 255 Bytes 
+lang. Ich glaube nicht daß das ein Zufall ist ;-)
+
+-- 
+Bitte benutzt meine neue Adresse rbybfoy@xlt.ih

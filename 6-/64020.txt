@@ -1,0 +1,12 @@
+Natürlich ist es unpraktisch. Schließlich gibt es viele die nur die
+neuen Artikel angezeigt bekommen, ohne die gelesen. Dann muss man sich
+erst die Referenceartikel laden, um zu sehen worauf der "gute" sich denn
+bezieht. Wie ich jetzt herausfand ist das mit dem Gnus mit 2
+Tastendrücken (A-R) erledigt. Aber auf Dauer doch recht lästig.
+
+ Alberto
+
+-- 
+In einer Irrsinnigen Welt vernuenftig
+sein zu wollen, ist schon wieder ein Irrsinn fuer sich.
+- Voltaire

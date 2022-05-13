@@ -1,0 +1,16 @@
+Message-ID sollte dann aber auch falsch sein damit sie keine
+Gemeinsamkeiten enthalten. Vielleicht nach dem Date: Header löschen?
+Ach, mir fällt sicher was ein, was alle gemeinsam haben... wenns gar
+nicht anders geht, die Mails markieren, die ich nicht löschen möchte und
+alle anderen löschen lassen.
+
+Muss ich mir dann im Manual raussuchen.
+
+Berend
+
+Ah ja, da kommt mir grad, 3 GB fasst meine Kinderklassiker - Mailbox ja gar nicht
+*g* das dauert wohl, bis die ankommen ...
+
+
+-- 
+Hier kommt nichts mehr.

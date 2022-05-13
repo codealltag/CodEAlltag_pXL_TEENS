@@ -1,0 +1,8 @@
+Werd ich bei Gelegenheit mal probieren. Hatte zumindest erhebliche
+Probleme letztens die *.rpm für PianoIntakt zu installieren. Immer fehlten
+irgendwelche libraries. 
+
+ Gérard
+
+-- 
+"Freedom's just another word for nothing left to lose"

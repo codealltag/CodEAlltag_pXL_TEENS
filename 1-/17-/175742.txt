@@ -1,0 +1,18 @@
+Enrico Osthövener schrieb am 10. September 1999 um 20:49 Uhr folgendes:
+
+          ^^^^^^^^^^^ archäologisch interessiert? ;-)
+
+
+Nicht so ganz. 1) hiess es "a, nicht a" 2) benötigt man das
+"german"-Paket, damit diese Schreibweise funktioniert und 3) kommt
+eben dieses Paket seit vielen Jahren mit echtem 8bit im Input zurecht,
+so dass man (wenn man es verwendet) auch gleich �, �, � schreiben
+kann. catdoc gibt \"a \"o \"u aus -- das ist generell TeX-tauglich,
+dazu braucht man noch nicht einmal ein La davor. :-)
+
+Viele Größe,
+     Klaus Oberwinter
+-- 
+"I loathe people who keep dogs. They are cowards who haven't got the
+guts to bite people themselves."
+                                                   -- Jean-Paul Ohler

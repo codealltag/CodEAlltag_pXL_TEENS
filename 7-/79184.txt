@@ -1,0 +1,8 @@
+Such's dir aus.
+
+Benno
+
+-- 
+  "The Milchpilz Information Store service depends on the MFVS
+   Holzspielwaren Directory service which failed to start because of the
+   following error: The operation completed successfully."

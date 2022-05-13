@@ -1,0 +1,9 @@
+* Oscar Kornpointner <toiozq@isimbc-nqvqeue.vm>:
+
+
+Was soll das bei Gnus? Zapprun setzt auf dem Agent auf, und zwar nur auf
+dem Agent.
+
+Wolfram
+-- 
+cross veinless

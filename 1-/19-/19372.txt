@@ -1,0 +1,8 @@
+Jein. Mit Pech kann die dann keine 63A ab, weil der Schweißpunkt
+zu klein ist.
+
+mfg, 
+	Urs
+-- 
+BOFH excuse #419:
+Repeated reboots of the system failed to solve problem

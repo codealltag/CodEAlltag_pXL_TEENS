@@ -1,0 +1,9 @@
+MECHTHILD. Erstmal SMTP konfigurieren, und dann per fetchmail...
+
+
+Postfix läuft bei mir hier praktisch Out-of-the Box.
+
+Dietmar
+-- 
+BTW: Warum überreicht Kasimir sich selbst???�
+ V.K. in <3a8pto.5lnm2fl.4@hwd.ogo-tgmknj.ur>

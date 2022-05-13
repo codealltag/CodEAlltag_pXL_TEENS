@@ -1,0 +1,14 @@
+Ingmar Lüdtken <fufial-wzvl-268451@edot.gijgsr.au> schreibselte:
+
+
+Tut DALER das? Man muss dir richtigen Sicherheitseinstellung setzten, klar.
+Aber das muss man sowieso.
+
+Ich persönlich finde es aber besser als wenn ein Mail- oder Newsreader zum
+Beispiel auch mit HTML umgehen kann als dass er sich bei soetwas quer
+stellt.
+
+
+*gähn* - dieser Bug ist doch schon sooo alt....
+
+Otmar

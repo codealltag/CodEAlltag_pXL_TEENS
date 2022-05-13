@@ -1,0 +1,10 @@
+begin quoting wpwdfh@wjujdbwsdg.gk (Azjgab Mittelhaus):
+
+Weil bei root ./ nicht im PATH ist, es könnte ja sonst ein User ein
+executable ls ins Verzeichnis legen, der Admin tippt ls ein, schwupps
+ist der Trojaner (oder wie man das nennt) ausgeführt.
+-- 
+Windows ist _kein_ Virus. Ein Virus ist nämlich ein kleines, sehr
+effektiv programmiertes Stück Software, was man von Windows nicht
+gerade behaupten kann.
+               Francesco Hartenstein in de.alt.folklore.urban-legends

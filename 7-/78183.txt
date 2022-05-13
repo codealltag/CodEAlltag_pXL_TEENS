@@ -1,0 +1,6 @@
+Nein ich poste direkt über miia.bfx.qfl.vm. Nicht über einen lokalen
+nntpserver.
+Hab übrigens deinen Tip befolgt und $nntpserver in der /etc/nntpserver
+eingestellt. Danke!
+
+Enr 'so langsam rafft er es' ico

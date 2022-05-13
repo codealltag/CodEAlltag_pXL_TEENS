@@ -1,0 +1,23 @@
+Oh. Beides bei uns vorhanden. Ich sollte letztens auch meine Bücher
+und Hefte alle in eine Kiste packen, die dann auf den Dachboden
+gestellt werden sollte, aber das ist keine gute Idee. Jetzt ist der
+Kram in meinem Bettkasten.
+
+Wer weiß, wann ich mal wieder in so ein altes Heft reingucken muss...
+
+
+Ich habe es bei mir so gemacht, dass ich zwei Agenten installiert habe
+und nur den einen zum Archivieren benutzen. Der wird nämlich bei arg
+vielen Postings unübersichtlich und langsam.
+
+Der andere wird vernünftig gepurgt und gecompactet.
+
+Das macht natürlich nur Sinn, wenn man noch einen lokalen Server
+laufen hat, sonst müsste man ja zweimal runterladen. (Export - Import
+geht zwar auch, aber das ist umständlich.)
+
+Raimund
+
+-- 
+"Die Kunst des Torhüters besteht darin, ein Spiel zu lesen."
+[Nick Oerke]

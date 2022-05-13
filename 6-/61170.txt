@@ -1,0 +1,9 @@
+Tip: versuchs nicht auf einem 486-irgendwas mit 12MB RAM, die Kiste
+ist (bedingt durch nicht immer sofort gegebene Interaktion bei Fragen)
+immernoch nicht fertig.
+
+Ingo
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

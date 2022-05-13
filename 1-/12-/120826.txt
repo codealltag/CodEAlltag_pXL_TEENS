@@ -1,0 +1,18 @@
+* Ivano Dörnhöfer <f-nep@lcwkpjgmalg.tx>:
+
+
+Warum?
+
+
+Das ist ja der Gag. Der Wert bleibt im endlichen Bereich, weil er sich
+unendlich zwar annähert, aber nicht selber unendlich wird.
+
+
+a wird ja auch nicht selber unendlich.
+
+
+Du solltest Mathe-LK wählen. ;-)
+
+Focko
+-- 
+cross veinless

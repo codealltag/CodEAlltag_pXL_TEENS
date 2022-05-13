@@ -1,0 +1,11 @@
+Samba sieht inzwischen wieder gut aus von der Konfig her, und CUPS
+muss ich noch machen...
+
+
+Momentan läuft hier postfix als Übergangslösung, bis ich den
+DNS-Server hab, den qmail haben will *gnarf*
+
+
+Theoretisch geht "schlafen" automatisch, ja.
+
+Hansruedi

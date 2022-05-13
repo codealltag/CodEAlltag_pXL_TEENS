@@ -1,0 +1,7 @@
+Dixit Raphaël Gänsrich <CejvmmwirDunvz@l-pxjikx.pi>:
+
+Ja, ist denn schon wieder September? Das nimmt ja langsam überhand ...
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

@@ -1,0 +1,7 @@
+Hm, great sozusagen! Wie einfach sowas doch sein kann...*staun*.
+
+Salvatore
+
+-- 
+ys@matrix:~$ cat .signature
+ys@matrix:~$

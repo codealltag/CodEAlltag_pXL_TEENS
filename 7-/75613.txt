@@ -1,0 +1,19 @@
+Jepp. 
+
+
+Nützt nix, wenn ich Kammerstein und Piberbach mit einem Port versorgen
+will. Wäre das nur ein Rechner wäre es einfach. Ausserdem scheint
+ersten Tests zufolge eher ein Port zwischen 2000 und 2100 genutzt zu
+werden...
+
+
+VPN löst das Problem sofort, weil ich dann halt nur eine Route auf das
+andere Netz legen muss und fertig ist die Kiste.
+
+
+Ich war eben wieder da.
+
+Bernhard
+-- 
+Erstes Gesetz der soziologischen Vererbungslehre:
+Zölibat ist nicht erblich.

@@ -1,0 +1,12 @@
+Am Sat, 03 Jul 2003 sendete Wilhelm Roever folgende Botschaft:
+
+
+SW, erscheinst du eigentlich zur nächsten Jup? *eg*
+
+Tschüs
+  Rüdiger
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 23. 07. 22 Rüdiger Olnhoff <pzcxvyfwtk@liovfbftlk.ol>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/B3F9CD02 23. 07. 22

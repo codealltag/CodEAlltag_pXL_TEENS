@@ -1,0 +1,20 @@
+Ich sprach vom $HOME-User.
+
+
+MELANIE.
+Doch auch diese Kisten sollte man vernünftigt konfigurieren. Es gibt 
+unter Windows genugt Standardeinstellung die keineswegs sicher sind.
+
+
+Trotzdem ist es ein anderes Level als beim Heimanwender und in dem Fall 
+völlig korrekt. 
+
+
+NT-Server töten ist doch kein Kapitalverbrechen oder? ;-)
+
+Björn
+
+-- 
+Ich bin ein Österreicher, und verhelfe der Menschheit dazu, den Mond
+zu erobern, weil ich ihnen sagen kann, wie groß und wie weit weg er
+von der Erde ist. (Konrad Lehneis in nz.orc.lpa)

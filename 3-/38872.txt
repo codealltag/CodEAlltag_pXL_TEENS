@@ -1,0 +1,8 @@
+Schon wieder! Nun lass doch mal das InfoSzaf aus dem Spiel!
+
+Luis
+
+-- 
+HoTMetal Light:
+"Konnte nicht Zelle nach unten erweitern, da Die Zelle in Zeile 2,
+ Spalte 2 hat darunter keine Zelle."

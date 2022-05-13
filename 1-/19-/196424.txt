@@ -1,0 +1,13 @@
+Die Maximalpunktzahl ist theoretisch 2051. 1050 ist aber normalerweise 
+der höchste Wert, der rauskommt.
+
+
+Natürlich hab ich nicht nur einen Sender sondern einen Empfänger 
+gebastelt. Mein Programm macht den Rest automatisch.
+
+
+Ich hab mich mittlerweile schon unheimlich an die Hardware gewöhnt. 
+Endlich nie wieder lange die Fernbedienung suchen wenn man am PC sitzt. 
+Ein Klick und es kommt ein recht gutes Duplikat meiner Original-
+Fernbedienung zum Vorschein :)
+Außerdem hab ich auf der noch 2 Tasten, die ich im Original nicht habe.

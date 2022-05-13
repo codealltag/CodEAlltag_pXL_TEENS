@@ -1,0 +1,26 @@
+STATISTIK 10. 12. 22
+-=-=-=-=-=-=-=-=-=-=-=-
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   1267   41,18%  "Gnus"
+   2   1253   40,72%  "Forte Agent"
+   3    288    9,36%  "slrn"
+   4    167    5,43%  "Microsoft Outlook"
+   5     39    1,27%  "Xnews"
+   6     38    1,23%  keiner angegeben
+   7     10    0,32%  "KNode"
+   8      5    0,16%  "Mozilla/NetScape"
+   9      4    0,13%  "Gravity"
+          4    0,13%  "Forte Free Agent"
+  11      2    0,06%  andere
+
+
+Statistik basierend auf den Ergebnissen von MMKB 2.0.3.0
+(Darstellung angepasst von Ronny Overhage)
+Basserend auf den Feeds von:
+eaqx.rjg.zxi.sy         dlbd.ywwwgpg.lp          ekgj.wcldp.fa
+awtz.wifofu.nd          yzaz.w-dydiga.ll         ingu.rqn-ucogiujo.gx
+bvnm.ajz-lzdhzebuz.hj

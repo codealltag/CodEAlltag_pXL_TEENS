@@ -1,0 +1,8 @@
+[dsf 6.3]
+
+Günther
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+126: Netzcomputer
+       Ein Netzcomputer ist ein Rechner, der vollständig vom Netz
+       abhängig ist. (ECONY 2/99)

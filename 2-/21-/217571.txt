@@ -1,0 +1,1 @@
+Prozessor zu langsam und Aufwand mit DSP-Platine IMO zu hoch.

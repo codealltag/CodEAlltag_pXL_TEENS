@@ -1,0 +1,15 @@
+*seufz* Nein, RAID1 ist _nicht_ RAID0 + Backup.
+
+Statistisch gesehen halbiert RAID0 die Lebenszeit eines Systems. Ist
+damit Hölle für die Datensicherheit.
+
+
+Wieviele Generationen hältst du vor? Und hast du das "Backup" auch schon
+getestet?
+
+Veit
+
+-- 
+- "What're quantum mechanics?"
+- "I don't know. People who repair quantums, I suppose."
+        -- (Thomas Teigelkötter, Ignaz)

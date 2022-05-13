@@ -1,0 +1,41 @@
+Am 11 Mai 1998 14:16:31 GMT sendete Adrian Wasserberg
+folgende Botschaft:
+
+
+Das ZHRL grafik hat war mir schon klar, nur das ssh keine grafik kann
+habe ich verdrängt.
+
+
+*weltbildzusammenbrech* Echt nicht ;)
+
+
+Ist angekommen, Danke.
+
+
+Die variabeln sind recht einfach ja, das script verstehen muss ich mal
+machen wenn ich mehr zeit habe. ;)
+
+
+Nein in der db von locate stehen afaik keine sym-links.
+
+
+------
+00:08:32 ~$time find /usr/news/spool/articles/ | wc -l
+0.50user 0.68system 0:02.38elapsed 49%CPU
+
+611202
+
+00:11:25 ~$time find /winc | wc -l
+0.22user 62.18system 1:12.98elapsed 85%CPU
+
+76762
+
+------
+
+(von mir einwenig formatiert) sag jawohl einigens oder?
+
+
+Wenn du meinst.
+
+Tschüs
+  Torsten

@@ -1,0 +1,15 @@
+Damit hat das nix zu tun, der Komfortanschluss beinhaltet nur zusätzlich
+die kostenlose Umleitung zur JSZ-Box.
+
+AFAIK hat Gérard recht: Die Rufnummernunterdrückung ist nicht wirklich
+ein Netzdienst, sondern muss von einem Endgerät ausgeführt werden; das
+kann eine Telefonanlage sein oder ein ISDN-Telefon, das dies unterstützt
+und dann quasi diese Information nicht "rauslässt". (Da kann man ja auch
+konfigurieren, welche MSN überhaupt übermittelt wird und welche
+Nebenstelle bei welcher MSN klingeln soll.)
+
+Steckst du ein normales Analog-Telefon an einen simplen a/b-Wandler
+kannst du nix gegen die Rufnummernübermittlung tun, IIRC.
+
+
+-iblherr

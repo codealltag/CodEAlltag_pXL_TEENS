@@ -1,0 +1,9 @@
+Da die neue Version endlich auch anständig Multithreading kann ist das 
+Ding eigentlich ganz brauchbar.
+Außerdem kann man damit schnell nette GUIs machen, so mit LCD-Displays, 
+Analog-Zeiger-Anzeige etc., so wie ein Messgerät halt auszusehen hat ;-)
+Kann man für ~4000 Euro für die volle Suite aber auch erwarten.
+
+
+Argl. Ich würde euch killen, ich hab' keinen Notstrom für meinen PC ;-)
+Was war's denn?

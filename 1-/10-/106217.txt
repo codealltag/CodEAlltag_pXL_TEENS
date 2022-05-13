@@ -1,0 +1,9 @@
+* Thomas Nowakowsky <caxtgbkibbnvvb@hej.jbl>:
+
+
+Was soll ich mit SCSI/whatever-Unterstützung in meinem Kernel, wenn ich
+sowas gar nicht habe?
+
+Charly
+-- 
+cross veinless

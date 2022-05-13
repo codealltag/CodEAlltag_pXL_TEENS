@@ -1,0 +1,13 @@
+XingMpeg Encoder bzw. Audiocatalyst, der benutzt den gleichen Codec. Und
+braucht auf meinem P150 gut die Hälfte der Spielzeit. 
+
+
+Hmm ... ich weiß nicht ob das Einbildung ist, aber manche MP3-Songs
+klingen IMO flach im Gegensatz zum Original ... ?
+
+cu,
+Mirko
+-- 
+Homepage http://wtuz.jr/vi - updated ! * KCN 7073154
+Man muss im Leben fuer seine Erfahrungen bezahlen. 
+Wenn man Glueck hat, bekommt man Rabatt.

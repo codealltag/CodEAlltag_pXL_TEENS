@@ -1,0 +1,14 @@
+Solches tippte Gerard Ifferth:
+
+syntax error. missing: "SELBSTERNANNTER"
+
+                ^
+unterminated literal string: "�" expected.
+
+SCNRe
+
+Hilmar
+-- 
+Hartmut Theuss -> <GPG-Key:http://rmb.ontqzlpm-kszywog.aj/sfk.vhsvc>
+--------------> Fachlexika-Portal: <URL:http://fnjsrzm.egv-qqackyk.uc>
+---------> Wortschatz-Lexikon:  <URL:http://jdscofabkx.clf-jtmcasq.ec>

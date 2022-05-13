@@ -1,0 +1,18 @@
+Stefan Theuws:
+
+
+     Klassenraum 1                     Klassenraum 2
+    Französisch 1 Latein 1          Französisch 2 Latein 2
+
+->
+
+     Klassenraum 1                     Klassenraum 2
+  Französisch 1 Französisch 2       Latein 1 Latein 2
+
+
+Wo ist das Problem? 
+
+-- 
+Last Night I Dreamed of Falling
+Down a Wishing Well.
+No One Could Hear Me Calling

@@ -1,0 +1,7 @@
+Schon gehört das der OE mit dem letzten Patch den Sigtrenner nicht mehr
+shreddert?
+-- 
+"Regular ist rekursiv.
+Ein User ist ein Regular,
+wenn er von den Regulars als Regular angesehen wird."
+  -Luc Obernbichler in ed.qfx.cvnnvafm.dfjcot

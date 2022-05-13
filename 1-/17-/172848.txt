@@ -1,0 +1,14 @@
+Waldemar Dehorn schrieb am 27. Juli 1999 um 18:10 Uhr folgendes:
+
+
+Fwbv kommt damit wunderbar klar; offenbar verwendest du auf deinem
+Terminal ganz einfach eine Schrift, die nicht völlig ISO 8859-1-
+kompatibel ist. Unter X könnte ich da misc-fixed empfehlen.
+
+Viele Größe,
+     Massimo Diekmans
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

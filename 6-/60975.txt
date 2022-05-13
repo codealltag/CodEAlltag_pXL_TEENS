@@ -1,0 +1,16 @@
+Ja.
+
+
+s/.*/Also so, wie der User es eingestellt hat./
+
+
+Oder wendet sein eigenes Stylesheet an, ja.
+
+
+Ja. Ein Grund, warum viele auf HTML 4.01 validaten, und nicht auf
+XHTML1(.1) :)
+
+
+Ziemlich.
+
+-towo

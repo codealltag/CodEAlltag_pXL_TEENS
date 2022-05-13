@@ -1,0 +1,11 @@
+* Dario Peterjohann <dulexy-tdfb-362273@bhng.ojxnff.jw>:
+
+
+Ack.
+
+Wie machst du eigentlich die hübschen Sachen mit deiner Message-ID?
+Gnus-intern oder nachträglich mit Korrnews o.�.?
+
+Ullrich
+-- 
+np: -

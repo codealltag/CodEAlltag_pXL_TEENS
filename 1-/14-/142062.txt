@@ -1,0 +1,16 @@
+Und so sprach Sergio Taentzler:
+
+Ich rege mich v.a. deshalb auf, weil die kantonale
+Wirtschaftsfoerderung eine 2-digit Domain (wb.fj) besitzt; aber weil
+weder jene noch diese auf die Idee kommen, man koennte Subdomains
+einrichten, entstehen Dinge, wie Einöde in der Treffelhausen und
+weltmae^H^H^Hfrauische lokale Frauenvereine. *argh*
+
+
+Schliess die Augen.
+
+Gruss,
+Christoph.
+-- 
+"NetBSD - Better for your uptime than Viagra."
+                                 (Sig von Werner Pfefferer)

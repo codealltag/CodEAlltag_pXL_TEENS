@@ -1,0 +1,2 @@
+Sowas hatte ich auch letztens, "session limit exceeded". Bei Dir
+wirklich keine detailliertere Meldung?

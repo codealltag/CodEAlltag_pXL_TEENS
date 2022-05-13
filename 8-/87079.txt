@@ -1,0 +1,12 @@
+Carl Troger hat geschrieben getan getutet:
+
+
+Mach mal halblang.
+OpenGL ist schneller und besser als D3D.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Jean-Pierre 'torsten' Jenisch in hg.ndp.peufqvyk.tkgyvfwl

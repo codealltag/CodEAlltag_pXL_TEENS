@@ -1,0 +1,24 @@
+Solches tippte Aldo Vosskühler:
+
+[der ganz normale Wahnsinn]
+
+Na, da hatten wir Glück, denn es gibt tatsächlich TheoInfProfs,
+die nicht nur sehr kompetent, sondern mit vollem Körpereinsatz
+zu Werke gehen und --auf hohem Niveau-- abstrakte Dinge ein gu-
+tes Stück näher an einen heran bringen können. Klausuren darin
+rücken es allerdings genauso weit wieder weg, weswegen ich das
+Angebot einer regulären mündlichen Prüfung sehr schätzte.
+
+
+Bei uns war das aufgeteilt in zwei Vorlesungen, einmal AD (was
+inzwischen über zwei Semester geht), was sehr interessant aber
+auch ziemlich anspruchsvoll war (hatten da einen nicht ganz un-
+bekannten Mathematiker, der früher fraktaler Geometrie gemacht
+hat, inzwischen jedoch fraktale Bildkompression macht), dann P,
+was immerhin interessant, aber nicht besonders schwer war. Mit
+Programmieren hatten beide was am Hut. In AD wurde C bevorzugt,
+in P lernten wir so nette Dinge wie Scheme oder Prolog, irgend-
+wann auch noch ein wenig Java.
+
+Willi,
+  noch geschafft vom einen Pinguin ins Leben gerufen haben...

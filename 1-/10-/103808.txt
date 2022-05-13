@@ -1,0 +1,12 @@
+/Theoretisch/ hätte die Aktion heute Mittag fertig sein sollen, mit
+allem. jetzt muss noch das Druckersystem und SaMBa gemacht werden...
+
+
+Hochperformant nach dem, was man hört, AFAIK seit Jahren kein Bug
+gefunden (es gibt nen Preis), nutzt maildir und ist damit IMAP-fähig :-)
+
+
+Irgendwie schon, das mache ich aber erst, wenn ich ein paar Stunden
+Schlaf hinter mir hab...
+
+Darius

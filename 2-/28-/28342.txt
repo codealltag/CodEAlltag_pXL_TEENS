@@ -1,0 +1,9 @@
+Na, wer hat in Twelve Monkeys die Hauptrolle gespielt?
+
+Michaela,
+kaum hat er mal ne Brille auf, guckt er sonstwo hin...
+
+-- 
+IF (it.comes.out.wrong)
+   LOOP
+   UNTIL (it.comes.out.right)

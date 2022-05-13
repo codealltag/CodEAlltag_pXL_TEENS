@@ -1,0 +1,9 @@
+Ja, genau, die haben für jeden User eine Datei angelegt in dem die Mails 
+gespeichert werden...
+
+
+Woher weit Du das? Kennst Du ihre Software (basiert übrigens auf einer 
+Datenbank, nicht auf Dateien)? 
+Auf jeden Fall gibt es noch hunderttausende andere Grönboldt User (mich zum 
+Beispiel). Woher nimmst Du das Recht als einzelne Person theoretisch 
+43200(!) POP-Anfragen am Tag zu machen?

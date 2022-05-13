@@ -1,0 +1,16 @@
+Wusstest du, dass Epot(r) = m * M * gamma * 1/r ist?
+
+
+Ja, ich glaube da hast du recht. Ich bin wohl out-of-date. Außerhalb
+des Datums sozusagen.
+
+
+Lame.
+
+Valentino
+
+-- 
+Windows NT:
+  "Sie haben nicht die Berechtigung den aktuellen Besitzer anzuzeigen,
+   aber Sie haben vielleicht die Berechtigung, diese zu ändern. Mächten
+   Sie versuchen, den aktuellen Besitzer zu überschreiben?"

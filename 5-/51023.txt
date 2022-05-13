@@ -1,0 +1,3 @@
+IF (schwester.alter >= 14) AND (schwester.alter << 30) THEN send pics;
+
+Dirk

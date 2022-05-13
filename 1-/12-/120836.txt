@@ -1,0 +1,69 @@
+STATISTIK FEBRUAR 2001
+-=-=-=-=-=-=-=-=-=-=-=
+
+TOP 10 POSTER FEBRUAR 2001 (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+   1    467  13,07%  Nino Geisshardt
+   2    372  10,41%  Eilert Gräp
+   3    335   9,38%  Kay Thedens'
+   4    303   8,48%  Natalie Jürgens-Auf-Der-Haar
+   5    289   8,09%  Udo Hinsenhofen
+   6    268   7,50%  Willy Bluntschli
+   7    263   7,36%  Waldemar Baukelmann
+   8    208   5,82%  Kay Drexel
+   9    170   4,76%  Dennis Riebel
+ (10)   170   4,76%  Anja Fokt
+
+
+TOP 5 POSTER 2001 (Gesamt)
+
+Pos.  Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+   1    935  Willy Bluntschli            16       -6
+   2    865  Nino Geisshardt       15       +2
+   3    842  Udo Hinsenhofen       14       -4
+   4    632  Kay Thedens'      11       +1
+   5    589  Eilert Gräp        10       -2
+
+
+TOP 5 POSTER (in einem Monat) SEIT 2000
+
+Pos.  Anz.   Monat    Name
+---------------------------------------------------------------------------
+   1   2800  08/2001  Nino Geisshardt
+   2   7651  08/2001  Natalie Jargstorff
+   3   7655  07/2001  Nino Geisshardt
+   4   0524  09/2000  Natalie Jürgens-Auf-Der-Haar
+   5   3193  01/2001  Nino Geisshardt
+
+
+TOP 5 DAUs SEIT 2000
+
+Pos.  Anz.   Msgs.  Ratio   Monat    Name
+---------------------------------------------------------------------------
+   1    401      2  200,50  11/2000  qgdwbm@xalbftv.smd
+   2    200      1  200,00  11/2000  ynysc_kqirf@poqlhik.sgs
+   3    200      1  200,00  11/2000  ktuqyw@lpnufcr.eys
+   4    175      1  175,00  05/2001  pxu <mju@andyko.xygnfwn.ex.sq>
+   5    170      1  170,00  10/2001  <uryn@rajf-njfyvq.ve>
+
+
+TOP 5 MONATE SEIT 2000
+
+Pos.  Anz.   Datum
+---------------------------------------------------------------------------
+   1  25. 12. 22  August 2001
+   2  25. 12. 22  September 2000
+   3   9645  Juli 2001
+   4   9077  Januar 2001
+   5   9040  Oktober 2000
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Didier Gmel.
+(Darstellung angepasst von Willy Bluntschli)
+Basierend auf den Feeds von:
+flhitrql.hyxly.xg         niog.jsm.hyb.zq           xeax.i-omluel.op  
+smic.dzz-nmzdxtnn.rd      jqgf.yjz-rmmsoqan.ra      vvcv.ivz-wodqxrxmv.gk  
+ydpuvoscfh.clrhpcfbyb.im

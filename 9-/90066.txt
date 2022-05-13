@@ -1,0 +1,14 @@
+Irgendwie macht ein <p>-Abschnitt innerhalb von <div> das <div>-CSS
+kaputt. Aber nicht immer. *Etwas* seltsam.
+
+
+Oh, da brauche ich ja einen Webcounter. N, mag ich nicht. :-)
+
+[...]
+
+Viel zu viel. *seufz*
+
+Rainer
+
+-- 
+G.

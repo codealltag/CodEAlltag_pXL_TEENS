@@ -1,0 +1,23 @@
+* Urban Pellinghoff <bktpplr563339@tedvzj.sy-z.gj>:
+
+
+Ich verstand nicht ganz, was antonia eigentlich wirklich für Funktionen
+bietet und was man damit machen kann. Darum der Eindruck. Danke für die
+ausführlichen Erklärungen.
+
+[...]
+
+Wird daran nichts mehr gemacht?
+
+
+Jackwerth soll ganz nettiglich sein. sendmail ... seit ich weiß, dass man mit
+der Konfig einen Taschenrechner programmieren kann, mag ich es noch
+weniger.
+
+
+Wo ist das Problem? bunzip2 und less, und los geht's. Gut, ein bisschen
+unkomfortabel, aber es geht auch. :)
+
+Gilbert
+-- 
+cross veinless

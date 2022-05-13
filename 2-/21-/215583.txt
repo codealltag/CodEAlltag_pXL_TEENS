@@ -1,0 +1,33 @@
+Wenn ich zB WINE compilieren wollte, würde es schon knapp. Obwohl der
+tarball IIRC < 5 MB sind.
+
+
+Knapp 90 MB auf /, knapp 20 auf /home und noch ein wenig auf /var.
+
+
+Es ging doch darum, parallel News zu lesen - das geht IMO wunderbar
+remote.
+
+[Internet Router / Firewall]
+
+Bin zwar praktisch nie im IRC, aber sicher ist sicher.
+
+
+Mmh, eigentlich wollte ich an dem Rechner s/Sendmail/Exim/ machen; die
+Version 8.8.8 (läuft im Moment) ist AFAIK sicherheitstechnisch sowieso
+nicht so ganz das Gelbe vom Ei... Der INN 1.7.? wird da aber weiterhin
+seinen Dienst tun.
+
+
+N, im Moment nicht. Meiner Schwester ist es ziemlich egal, auf
+welchen Wegen sie ihre Mail bekommt.
+
+[Kernelupdate]
+
+Ich werde einfach versuchen, den kompletten Sourcenbaum von der
+Afugeh 6.0 einzuspielen.
+
+Viele Größe,
+     Adam Kimmich
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

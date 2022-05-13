@@ -1,0 +1,105 @@
+STATISTIK 24. 11. 22
+-=-=-=-=-=-=-=-=-=
+
+THREADS
+
+Pos.  Anz.    %       Subject
+---------------------------------------------------------------------------
+   1   1010   13,73%  Alles doof
+   2    857   11,65%  Wo sind hier die Mädels ???
+   3    573    7,79%  Einheitssubject
+   4    427    5,80%  Hi, bin Deborah
+   5    401    5,45%  Weihnachten ist gerettet
+   6    397    5,40%  Geschwister-Stunk
+   7    303    4,12%  diskussion Jungfraulichkeit
+   8    235    3,19%  Die Maihexen ...
+   9    180    2,45%  Wo Du Liebe findest
+  10    145    1,97%  Ich will  nen eigenen Thread!
+  11    138    1,88%  INN, UUCP und gnuu
+  12    134    1,82%  Der Jesusfilm ist im Internet!
+  13    116    1,58%  Pottek Lied
+  14    112    1,52%  Rauchen
+  15    108    1,47%  F�hrerscheinanf�nger und
+  16    104    1,41%  F�hrerscheinanf�nger und Alkohol/Nachtfahrten
+  17     95    1,29%  Ich steig jetzt wieder ein...
+  18     94    1,28%  Killfile...
+  19     84    1,14%  Der Tag X rückt näher...
+  20     81    1,10%  Wehrpflicht, und: Gleichberechtigung
+  21     79    1,07%  was ist ein szaf?
+  22     76    1,03%  Er will noch keine feste beziehung
+  23     75    1,02%  Ach ja...
+  24     73    0,99%  Kaum zu glauben
+  25     71    0,97%  Brünning Frauenkron, Marcelle!
+  26     70    0,95%  Mädels??!!
+         70    0,95%  Esperanto
+  28     67    0,91%  IT - Berufe IHK Prüfung und *kotzen*
+  29     66    0,90%  Weihncacrtn  istagr ttbt.
+  30     65    0,88%  Should we drink a toast to absent minded friends?
+  31     58    0,79%  Negativ Score
+  32     53    0,72%  Die Schwester is back!
+  33     52    0,71%  Hi, Gedichte ???
+  34     50    0,68%  Die Sonne scheint, die Vöglein zwitschern
+  35     46    0,63%  soll ich ihr noch eine chance geben?
+  36     45    0,61%  bazzen Geld verdienen...
+  37     43    0,58%  Hi, Gedichte ??? - Der Schreiber
+         43    0,58%  HAPPY BIRTHDAY
+  39     36    0,49%  Berufswahl
+  40     34    0,46%  "Deborah Vinmans", maennlich, 68 Jahre alt.
+  41     33    0,45%  Geschichte wiederholt sich nicht
+         33    0,45%  Hi ich bin die Pamela
+  43     31    0,42%  Zielitz hat den Pott
+  44     30    0,41%  jetzt dreht sie völlig durch
+  45     29    0,39%  F�hrerscheinanf�nger und   Alkohol/Nachtfahrten
+  46     27    0,37%  Einrichtung de.alt.jesus
+  47     24    0,33%  [STATISTIK 11/2001] DAU-Jones
+         24    0,33%  disk.  und Frage
+  49     22    0,30%  Ein Blödes Posting.
+         22    0,30%  [STATISTIK 11/2001] Threads
+  51     20    0,27%  [STATISTIK 11/2001] TOPs
+  52     17    0,23%  Mach's gut, und danke für den Fisch!
+  53     15    0,20%  *** !Spam! http://poh.vdhamezqvuqea.su !Spam! ***
+  54     14    0,19%  Daumen drücken!
+         14    0,19%  BIOETHIK - Wenn Mülleners Physiker Neurobiologie s
+         14    0,19%  Hi, Gedichte ??? - Der Schreiber akt 1
+  57     13    0,18%  wieder da
+  58     12    0,16%  Postings verschwunden
+         12    0,16%  Jugendarbeiter gesucht
+         12    0,16%  F�hrerscheinanf�nger und  Alkohol/Nachtfahrten
+         12    0,16%  sexualverhalten
+  62     11    0,15%  Bitte um Linkvorschl�ge
+  63     10    0,14%  F�hrerscheinanf�nger und       Alkohol/Nachtfahrten
+  64      9    0,12%  F�hrerscheinanf�nger und     Alkohol/Nachtfahrten
+  65      8    0,11%  Lust auf Herzklopfen ?
+          8    0,11%  F�hrerscheinanf�nger und    Alkohol/Nachtfahrten
+  67      7    0,10%  VAOU: Ebak
+  68      5    0,07%  publicity
+          5    0,07%  HI!
+  70      4    0,05%  Newsgroup
+          4    0,05%  Frage zu McFlurry
+          4    0,05%  F�hrerscheinanf�nger und          Alkohol/Nachtfahrte
+          4    0,05%  F�hrerscheinanf�nger und           Alkohol/Nachtfa
+          4    0,05%  Gnus
+  75      3    0,04%  F�hrerscheinanf�nger und             Alkohol/Nacht
+          3    0,04%  Abschlussprüfung BLICKkontakt
+          3    0,04%  Hamer hat wieder gewonnen !!!!
+          3    0,04%  Zeltlager Betreuer gesucht - Dringend!
+          3    0,04%  cmsg cancel <dtj.010520192607.34639@dragon.akallabeth
+          3    0,04%  Tag von großer Freude
+  81      2    0,03%  FANG 2000 space invaders
+          2    0,03%  X-No-Archive
+          2    0,03%  InterRail
+          2    0,03%  <05.04.2000> Parkordnung (FAQ)
+          2    0,03%  Missverständnis
+   6      2    0,03%  Linke und Rechte
+ (87)     2    0,03%  F�hrerscheinanf�nger und         Alkohol/Nachtfahr
+        +45 (  0,61%) weitere
+---------------------------------------------------------------------------    
+       7356  100,00%  GESAMT
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Gian Breitenbach.
+(Darstellung angepasst von Italo Pützkuhl)
+Basierend auf den Feeds von:
+wavckden.ftgas.zj       ncep.pas.jpm.hr         yonx.gpzfcxe.hw
+bpep.heijl.ldl          vqpj.riupaf.yc          vbzy.f-yvwdtg.fi
+ufms.tzp-clncmacj.qw    yztm.aii-sqdrjdqs.ap    dexk.lde-pmyaejgrw.uv

@@ -1,0 +1,34 @@
+Oscar Uphues schrieb am 8. Dezember 1998 folgendes:
+
+[Programme tauschen ungefragt DLLs aus]
+
+Um das Rechtesystem geht es mir dabei gar nicht -- neue Programme
+(zumindest solche, die ich einige Zeit behalten will) installiere ich
+sowieso als root, damit ich überhaupt Schreibrechte in den
+Zielverzeichnissen habe.
+
+Es ist ganz einfach so, daß man unter Linux Programme und Bibliotheken
+getrennt installiert (darüber, daß dabei die Abhängigkeiten erfüllt
+werden, wacht RPM). Auf diese Weise komme ich gar nicht in die Gefahr,
+daß mir ein Programm eine neue Bibliothek durch eine veraltete ersetzt
+oder ähnlichen Schwachfug anstellt.
+
+[Ein normaler User braucht im Prinzip keine Kernel-Patches]
+
+Wenn man (theoretisch) mehr als x GB Speicher adressieren kann, wird
+das System dadurch weder schicker noch bunter noch k3Wler. Der Anreiz,
+sich mit so etwas unnötig Arbeit zu machen, ist IMO sehr klein.
+
+
+Wenn die Installation von Linux per Mausklick geht, heißt das noch
+lange nicht, daß man Kernelpatches per Mausklick einspielen kann. Für
+so tiefgreifende Eingriffe im System sind auch unter Windows (so sie
+dort überhaupt möglich sind) Basteleien in der Registry o.�. nötig.
+
+Viele Größe,
+     Volker Anhalt
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

@@ -1,0 +1,7 @@
+Tja. Immerhin muss ich set gerade dank der Hilfe eines gewissen Szafs
+nicht mehr selber Subject�nderungen machen... Jetzt müsste sich
+nurnoch jemand finden, der das Einheitssubject in LISP codiert...
+
+Willy
+-- 
+DAS hat mit Schlafen nix zu tun. [???]

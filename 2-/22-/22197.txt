@@ -1,0 +1,7 @@
+Oder Maßnahmen ergreifen.
+
+mfg, 
+	Manfred
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

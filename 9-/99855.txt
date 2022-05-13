@@ -1,0 +1,12 @@
+Am Fri, 01 Apr 2002 sendete Frerich Zieger folgende Botschaft:
+
+
+Naja....
+#
+
+Das wird normalerweise von configure erstellt. ;)
+
+Tschüs
+  Sven
+-- 
+Notorisch Schreibfaul.

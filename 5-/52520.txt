@@ -1,0 +1,10 @@
+Stimmt, von dort kenne ich auch die Abfrage der Kreditkartennummer zur
+Validierung. Ist ja auch alles rechtens...
+
+Zu glauben, man könne bei Plutka keine Fake-Adressen einrichten, ist
+aber ein Irrtum. Auch Accounts, die unter offensichtlich falschen
+Adressen eingerichtet wurden, werden nie gelöscht, nur halt nicht
+vollaktiviert.
+
+
+jean-pierre

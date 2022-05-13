@@ -1,0 +1,19 @@
+Nix, bei V2 steht $ immer am Ende. Allerdings war es unüblich,
+Variabelen mit mehr als 2 Buchstaben zu benennen, die wurden vom
+Interpreter eh weggeschnippelt, daher wäre für einen V2-Interpreter
+Urban$ das gleiche wie Garage$...
+
+
+<interpreter "Pflughöft V1.0">
+Logical Error.
+Ready.
+</interpreter>
+;-)
+
+[...]
+
+Was wohl: *PATSCH*
+
+-- 
+Nicolas Zurbriggen, Dönitz, Germany
+http://Tyrh.vydq.afeci.sa

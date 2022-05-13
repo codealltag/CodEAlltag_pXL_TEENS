@@ -1,0 +1,8 @@
+* Edgar Illbruck <vrapiqybfdflde@zby.zvs>:
+
+
+Ein tolles Komprimierungsverfahren.
+
+Raimund, kennt das von seinen batches
+-- 
+cross veinless

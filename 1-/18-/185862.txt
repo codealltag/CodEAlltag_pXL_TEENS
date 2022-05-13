@@ -1,0 +1,16 @@
+Die Ausgangszahl ist positiv und ohne Gleitkommaanteil. Irgendwie kann da 
+nur 747E92 rauskommen.
+
+
+Wenn ich in einer Mathe Arbeit die Aufgabe bekomme 65530 + 32760 zu 
+rechnen, dann "vergesse" ich nicht einfach 65536 nur weil da ein Übertrag 
+beim 16. Bit wäre.
+Oder übertragen auf das Dezimalsystem die Aufgabe "7000 + 6543". Da kommt 
+bei mir selbstverständlich 13543 raus und nicht 3543.
+
+
+Wieso das denn? Im Gegenteil, man müßte angeben wenn es eine Begrenzung 
+gebe.
+
+
+Schau ich mir mal an.

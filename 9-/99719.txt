@@ -1,0 +1,13 @@
+jzmj@rikmg-hfhurk.nfx (Sébastien Rode) wrote in news:4t9zq9$rtf$4
+@jsrcvo.urx.ax:
+
+
+Durchaus. U.a. auch weil Eichenlaub native Support dafür hat, beim Promise die 
+Berichte aber sehr widersprüchlich sind.
+
+
+*nixkapier* 2 Steckplätze (-> 4 Devices) oder einen Steckplatz mit Master 
+und Slave?
+
+Mehr als 6 Devices braucht man normalerweise sowieso nicht, und wer 
+unbedingt soviele HDs haben will, sollte sowieso RAID angucken.

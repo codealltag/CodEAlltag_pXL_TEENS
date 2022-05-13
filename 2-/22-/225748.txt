@@ -1,0 +1,53 @@
+Hallo,
+
+On Sun, 1 Aug 1999, Walter Gutmann <qpewcj@jum.fporm.ni> wrote:
+
+[Einwahlknoten von Dörpstuv]
+
+Schade. Würde ich einen Stadtteil weiter wohnen, käme ich ja zum
+Ortstarif bis Rosenau, aber so liege ist 'netzstrategisch' ziemlich
+ungünstig. Es gibt da noch 'Sauerland Wohnwelt' mit Einwahlpunkt in
+Steinrödt; müßte mal herausfinden, ob das im Ortsbereich liegt...
+
+
+Ich mach' dann auch kräftig Werbung bei mir in der Stufe ;)
+
+[UIR]
+
+Die 'reine' UIR hat zwar ein Paket dabei, mit dem man den Netscape
+ins System integrieren kann, das eigentliche Binary muß man aber noch
+aus dem Internet holen. Die Version von Grundei soll das Binary aber dabei
+haben, habe ich inzwischen gehört. Außerdem gehen einige Computer-
+zeitschriften inzwischen Gott sei Dank dazu über, auch Linux-Versionen
+von Programmen wie dem Navigator auf ihre Heft-CDs zu packen.
+
+
+Wenn die Listen auf http://zid.fumiru.nqd/ den neuesten Stand
+wiedergeben, sind die Pakete leider nicht gerade aktuell. Na ja, ich
+werd's mir überlegen.
+
+
+Ich war Anfang des Jahres mal auf dem monatlichen Treffen der Getraenkemarkt
+(Rosenau) und Mitte Januar haben wir Linuxer hier endlich unsere
+eigene GIO gegründet (GamesTower); an größeren Events gab es bisher
+zwar erst eine Installationsparty, die war dafür aber gleich ein
+voller Erfolg :-)
+
+
+Die Zeit, die so etwas in Anspruch nimmt, hängt bei mir eigentlich
+hauptsächlich damit zusammen, wie kompliziert etwas zu konfigurieren
+ist und ob es ohne Probleme durchkompiliert (tun bei mir fast alle
+Programme). Während des eigentlichen Compilier-Vorgangs lese ich auf
+der Konsole nebenan News oder mache sonstwas, wofür hat man denn ein
+Multitasking-System :-)
+
+
+RPM ist bequemer, keine Frage. Bei vielen Programmen kann man aber
+eben auch schon zur Compilezeit Einstellungen vornehmen, die hinterher
+bei der täglichen Arbeit Zeit sparen. Ich gehöre dann auch noch zu den
+Leuten, die ab und zu ganz gerne mal im Source rumschnüffeln :)
+
+Viele Größe,
+     Ewald Eppert
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

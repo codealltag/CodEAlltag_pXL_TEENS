@@ -1,0 +1,10 @@
+Dann solltest du deiner Software vielleicht auch sagen, dass sie einen
+Euro rauschicken soll. Und der liegt _ganz_ sicher nicht im Bereich,
+der von latin1 abgedeckt wird...
+
+Christian
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Herwig Puchmüller in
+<hagj2f5hl1.3l9.ndgdavw.xajoau@hls.tkf.no-dlybikfw.jm>]

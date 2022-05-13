@@ -1,0 +1,27 @@
+Evelin Matzschke meinte kundzutun:
+
+
+Hm?
+
+
+Nein.
+
+gut != sleszt.
+szleszt != gut.
+
+!true = false
+!false = true
+
+Aber:
+
+1 != 2
+2 != 3
+3 != 1
+
+
+Nein. DAS nicht. Definitiv nicht.
+
+Karl
+-- 
+Dieser Artikel ging an folgende Newsgroups: cz.hqqf.qdvfwj
+Er wurde am Mittwoch, dem 31. März im Jahre des Herrn 2001 verfaßt.

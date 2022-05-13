@@ -1,0 +1,16 @@
+Remo Zellmer schrieb am 23. Juli 2000 um 22:10 Uhr folgendes:
+
+[...]
+
+Warum sollte man plötzlich ein Binärformat oder gar eine zentrale
+Datenbank � la Registry dafür nehmen, wenn man ein grafisches Frontend
+hat? Ich ziehe menschenlesbare (und -editierbare) rc-Files auch in
+diesem Fall vor.
+
+Viele Größe,
+     Fridolin Zindl
+-- 
+In einem Computerexpertenkreis die Worte: "ich bin Tönsmann" so ganz
+nebenher gelassen aussprechen, lässt alle anderen Anwesenden sofort in
+unterwürfige Demutshaltung und staunende Bewunderung fallen.
+                                 -- "Eugen Zahnd" <hhulq@fygnzey.ur>

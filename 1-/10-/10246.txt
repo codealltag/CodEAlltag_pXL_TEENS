@@ -1,0 +1,9 @@
+Wenn ich also einen grünen Schatten sehe, weiß ich ja, welchen Namen ich
+schreien kann.
+
+Adrian
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+272: JavaScript
+       Ein Sprache zum Ausspionieren fremder Daten und zum Nerven
+       anderer Leute (etwa durch Pop-up-windows). (Theo Terveer)

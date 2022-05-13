@@ -1,0 +1,9 @@
+Am Sun, 13 Feb 2000 sendete Severin Voersterling folgende Botschaft:
+
+
+JA umsetzung zwichen system und BIOS zeit. Aber da der kernel
+anscheinend direkt die richtige zeit beim booten mitgegeben kriegt war
+das kein wirkliches problem.
+
+Tschüs
+  Charly

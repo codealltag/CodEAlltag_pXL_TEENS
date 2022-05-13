@@ -1,0 +1,9 @@
+Klasse, bei ihm wird nachm Preis gefragt, aber von mir wird erwartet,
+da ich kostenlos massiere.
+
+Winfried
+-- 
+<sesom> äöü DV\ ä Sind das Umlaute oder Fragezeichen?|
+<HE> sesom: Das ist UTF8.                                   | #emjbja.ac
+<sesom> Stimmt.  Was kommt bei dir an?                      |(leicht adaptiert)
+<HE> Zeichenm�ll.                                           |

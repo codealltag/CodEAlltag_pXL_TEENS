@@ -1,0 +1,11 @@
+Wende dich an Patrizia, wenn du es trotzdem nicht schaffst.
+
+
+Hallo Gérard.
+
+Norbert
+
+-- 
+  "The Kömmelt Information Store service depends on the KVS
+   CNAE Directory service which failed to start because of the
+   following error: The operation completed successfully."

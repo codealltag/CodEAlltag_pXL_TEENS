@@ -1,0 +1,6 @@
+Wenn ich wollte, könnte ich das auch.
+
+Victor
+
+-- 
+cat .signature

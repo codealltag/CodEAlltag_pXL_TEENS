@@ -1,0 +1,13 @@
+Bruno Mülhaupt schrieb am 10. August 2000 um 22:04 Uhr folgendes:
+
+
+Zumindest unter LNT gibt es dafür mittlerweile auch eine ganze
+Handvoll verschiedener graphischer Frontends :-)
+
+Viele Größe,
+     Willy Ungers
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

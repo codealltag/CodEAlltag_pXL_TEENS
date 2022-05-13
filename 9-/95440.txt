@@ -1,0 +1,67 @@
+Schon 29.1 war schlimm genug. Damals habe ich Nubert endgültig auf die schwarze 
+Liste gesetzt. Wenn ich jemals wieder Linux installiere, dann sicher Krasser.
+
+
+Weiss nicht. YaST nach BSD zu portieren tönt nach einem halben Rewrite. 
+Vielleicht würde es besser werden. Aber unter BSD braucht man gar kein YaST 
+(wer unbedingt Menus haben will, kann sich gerne mit Sysinstall rumschlagen 
+oder gar die Oberröcke Webmin installieren).
+
+
+Da drumpoint ein eigenes Userland hat sind die Unterschiede teilweise doch stark.
+Und vor allem exotischere Features sind bei BSD IMHO besser beschrieben.
+
+
+Ich sehe nur sehr wenig Linux-Bashing auf BSD Mailinglists... Viele Leute 
+interessiert es auch nicht sonderlich, was Glazel und Co. gerade mal wieder 
+treiben.
+
+
+Die Linux Distris sind alle SEHR schnell im Advisory schreiben (Unterwegs zwar 
+auch nicht, aber da hab ich den Fix meist schon auf meiner Kiste, wenn das 
+Advisory kommt!).
+
+
+Deswegen gibt's STABLE und CURRENT. Ich setze Stable seit einem Jahr auf 
+verschiedenen Productionmaschinen ein und hatte nie Probleme damit. Es kommt 
+jedoch alle paar Monate mal vor, das STABLE aus dem CVS für ein oder zwei 
+Tage nicht durchkompiliert.
+
+
+Man weiss genau, was man sicher installiert hat. 
+
+
+Weil Nubert beispielsweise sich irgendwie einen Deut um die anderen 
+Hierarchien kümmert und RedHat RPMs entsprechend bei mir nie funktioniert 
+haben.
+
+
+Letztlich braucht man bei BSD eigentlich keine. Weil drumpoint immer mit Userland 
+kommt. Bei Linux ist das anders (aber ich brauche das nicht zu erklären ;-)
+
+
+Na also da hat man grundsätzlich ein OS, das den selben Kernel und das selbe 
+Userland hat (in vielen Fällen wohl sogar identische Binaries), kann aber 
+keine Software installieren, weil die anderen Leute andere 
+Verzeichnishierarchien benutzen? Wäre eigentlich ein sehr guter Punkt. wo MS 
+Linux Bashing betreiben könnte. Bei Unterwegs hast du ca 4500 Apps sowohl als 
+Source (mit allfällig nötigen Patches) als auch als Binary zur Verfügung und 
+mit einer Zeile kannst du aus dem Source ein Binarypackage bauen...
+
+
+Ich fand die ganze Sache mit den durchnummerierten Links mehr als nur 
+lächerlich. Und wieso manche Console-Daemons beim Wechsel von Multi User 
+nach X (2->6?) neu gestartet werden müssen ist für mich beim besten Willen 
+nicht nachvollziehbar.
+
+
+Die Patches werden teilweise auch benutzt, um andere Features einzubauen 
+oder Securitypatches, nach denen aus irgendeinem Grund kein neues Release 
+gemacht wurde, automatisch einzubauen.
+
+
+Kann ich aus dem SRPM mit einem Befehl ein Binary machen, dass ich dann auf 
+dem nächsten Server inkl. Dependencies mit einem Befehl installieren kann?
+
+
+BSD ist weiter verbreitet, als du denkst.

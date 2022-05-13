@@ -1,0 +1,28 @@
+Fast. Sinn von LaTeX ist es ja, Dokumente zu erstellen, die bestimmten
+Spezifikationen genügen müssen (Also DIN-Briefe,
+Nubert-Artikeleinreichungen, Übungsblätter für Studenten usw.). Wenn der
+User möchte (Ja, ich hab das lernen dürfen) kann er sich ja eigene
+Vorlagen schaffen.
+
+Ein Befehl am Anfang des Dokumentes, und du hast von mir aus zehn
+A4-Seiten zwischen den Absätzen.
+
+
+Na ja, LaTeX weiß bei (fast) allem, wie es vernünftig aussieht. Ich hab
+hier beim durchschauen nichts gefunden, für das ich nicht eine
+Dokumentenklasse hätte, die passt. Sinn der Sache ist es vor allem, den
+Nutzer dazu zu bringen, daß er den Text strukturiert niederschreibt, und
+das einheitliche Formate für das ganze Dokument gelten.
+
+Kennt es, "\ " zum Beispiel. Oder \vspace[1em], um um die Breite des
+Buchstaben M nach rechts zu springen. Du kannst dir aber sicher sein,
+das das so ein elendes Gefummel ist, und so schlecht aussieht, das man
+von alleine die Tabellenfunktion verwendet. Ich hab im Skript bevor ich
+es abgegeben habe, sämtliche Tabellen nochmal neu gebaut, damit es
+einheitlich aussieht.
+
+mfg, 
+	Johann
+-- 
+BOFH excuse #135:
+You put the disk in upside down.

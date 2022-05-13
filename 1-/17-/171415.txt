@@ -1,0 +1,13 @@
+Am Thu, 10 Jul 1999 sendete Alexander Neubecker folgende Botschaft:
+
+
+*g*
+
+
+ls | xargs grep -l '^Date: .*1997' | xargs grep -l\
+'^From: .*Melissa Batz | xargs grep -l '^Subject: .*[Hundekuchenrezepte]'\
+
+(ungetestet) sollte bis auf >5kb alles erfüllen.
+
+Tschüs
+  Dietrich

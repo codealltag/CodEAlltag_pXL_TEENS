@@ -1,0 +1,24 @@
+Hallo !
+
+Ignaz Ungefug wrote :
+
+
+Also das kann ich sowohl in Gravity, als auch in jeden besseren 
+Texteditor verhindern. Da stellst du dann unter "Character not allowed 
+at line start" oder so ähnlich eben .!?, usw. ein.
+
+
+Hey, wenn ich programmiere, dann ist das oft _sehr_ hilfreich und 
+irgendwann gewöhnt man sich an sowas.
+
+Welcher Ausdruck gefällt dir denn beispielsweise besser
+
+((String)((myObjectArray.getFirst())[0]).substring(4)
+
+oder
+
+( (String) ( (myObjectArray.getFirst())[0] ).substring(4)
+
+Und sowas prägt :-)
+
+Reiner

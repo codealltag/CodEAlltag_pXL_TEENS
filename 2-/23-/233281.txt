@@ -1,0 +1,14 @@
+[References von Hand rekonstruiert. Sigh.]
+
+
+Dann ist er unbrauchbar. Ich nehme nicht an, daß es freie Software ist
+und man das mal eben ändern kann? Dann würde ich auf ein anderes
+Programm ausweichen oder (falls das Ding wenigstens das zuläßt), die
+References von Hand kürzen - das ist zwar immer noch suboptimal, aber
+besser als nichts. Es müssen dabei mindestens die erste und die drei
+letzten Message-IDs stehen bleiben.
+
+Viele Größe,
+     Hartwig Mobis
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

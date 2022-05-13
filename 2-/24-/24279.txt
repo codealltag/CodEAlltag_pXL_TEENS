@@ -1,0 +1,43 @@
+Oha. Moment, ich hole mal meinen Ordner.
+*zweidickeleitzordnervomschrankhol*
+*Staubwegpust*
+*hust*
+Hmmm ... Philippe? Nein. REBECCA auch nicht. ThCh, wer sagt es denn, da isses ja.
+
+Die Enthalpie (H) ist eine korrigierte Energieangabe, welche schon die
+Volumenarbeit enthält.
+
+(ohne Fachchinesisch: Entropie ist das Maß für die Unordnung eines
+Systems, die nimmt bei Reaktionen _immer_ zu. Die Reaktionsenthalpie
+wäre dann die Differenz zwischen der Energie die Stoffe A und B vor der
+Reaktion enthalten, und der Energie die AB nach der Reaktion enthält.
+Die Reaktionsenthalpie von 
+
+		2 C2H6 + 7 O2 -> 4 CO2 + 6 H2O
+	(Erdgas + Sauerstoff -> Kohlendioxid + Wasserdampf)
+
+nutzt man dann zum Beispiel zum Kochen, ist also ganz einfach die Wärme,
+die bei einer Reaktion entsteht (Kann aber auch negativ sein!).)
+
+
+Wäscheklammer rausholen, auf die Nase damit, fertig.
+
+Wenn die Entropie da nie wieder rauskäme, wäre das hinreichend cool.
+
+Grob gesagt sind die Devices ja nur symbolische Verweise. Ich denke
+wohl, der kernel weiß anhand der Major- und Minornode, was das für ein
+Device ist, und an welches Programm er den hängen soll.
+
+Wenn du einfach nur einen Device bauen willst, der dir 'Szaf' oder
+'!Szaf' entgegnet, könntest du einfach ein Programm schreiben, das
+zufällig Szaf oder !szaf ausgibt, dir mir mkfifo einen fifo erzeugen,
+und dann das Programm in den Fifo schreiben lassen.
+
+So dich das mehr interessiert - ich bastel gerade ein bischen mit IPC
+- im Prinzip genau das selbe.
+
+mfg, 
+	Torsten
+-- 
+BOFH excuse #166:
+/pub/lunch

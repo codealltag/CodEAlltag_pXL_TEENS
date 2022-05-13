@@ -1,0 +1,10 @@
+Keine Ahnung.
+
+
+/Noch/ garnix. Enrico (das wird mal 3.0) ist AFAIK noch nicht im Freeze
+und damit ist nachwievor 2.2r3 aka "Potato" die stabile Release.
+
+Othmar
+-- 
+The early bird catches the worm.
+If you want something else for breakfast, get up later.

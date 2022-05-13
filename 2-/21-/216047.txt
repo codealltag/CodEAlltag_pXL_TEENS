@@ -1,0 +1,17 @@
+On Tue, 05. 01. 22, Mathäus Harnisch <admnhbuh@stap.qlry.dt> wrote:
+
+[Geld verdienen mit Linux]
+
+Stände auf der CeBit müssen rund 1 Jahr vorher angemeldet werden.
+Damit, daß Linux im vergangenen Jahr so erfolgreich sein würde, hatten
+viele der Linux-Anbieter selbst nicht gerechnet.
+
+Es ist natürlich schon wahr - mit modulor wird man nicht so reich wie
+die Bosse gewisser kommerzieller Softwareschmieden. Die Distributoren,
+Support-Hotliner und inzwischen auch einige Programmierer können damit
+aber durchaus ihren Lebensunterhalt verdienen.
+
+Viele Größe,
+     Domenico Mühlherr
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

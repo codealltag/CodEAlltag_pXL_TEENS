@@ -1,0 +1,6 @@
+[dsf 7.7]
+
+Oscar
+-- 
+BOFH #63:
+not properly grounded, please bury computer

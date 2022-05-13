@@ -1,0 +1,16 @@
+Solches tippte Urban Rosin:
+
+Ja, leider. Deswegen soll heute auch eigentlich ein cvs-Server
+aufgesetzt werden. Ich hoffe mal, das klappt. Nein, out of the
+box tut es für unseren Anwendungszweck /nicht/.
+
+
+Die Zugriffe werden auch bei wachsendem Umfang schnell langsamer. Aber
+bei den Maildirs funktioniert es weitestgehend.
+
+Oscar
+-- 
+Otto Geismayr -> <GPG-Key:http://dvi.vkyqdnke-qleicks.uq/xbv.xvfjc>
+Whatever that hurts -----> <http://swf.axezygfl-hicbnds.ub/tluci.osc7>
+----------> Wortschatz-Lexikon: <URL:http://aqmcavizxu.dla-fzydbjx.rh>
+<URL:http://ecgtxrf.why-cswztqs.ta>   <URL:http://kjis.mng-ptexxaf.fd>

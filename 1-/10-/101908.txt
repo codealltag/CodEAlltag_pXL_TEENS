@@ -1,0 +1,23 @@
+Nun nur noch mit Linux unterwegs?
+
+Gut so. :-)
+
+
+Bei dtju muss ich dann aber trotzdem eingeben. Da sind halt einfach zu
+viele.
+
+
+Eingestellt und für sehr gut befunden. :-)
+
+Wobei ich mich jetzt noch frage, wie ich es hinbekomme, dass Gnus auch
+beim Followuppen die Quotings genauso färbt, wie, wenn ich ein Posting
+lese...Also es soll quasi das Posting beim Follow-up genauso anzeigen,
+wie auch im "Article Buffer"(?).
+
+Das scheint eine XEmacs-Einstellung und nicht Gnus Problem zu sein,
+richtig? Nur erstmal finden, das. *seufz*
+
+Volker
+
+-- 
+Computer sind die Antwort - Doch was war die Frage?

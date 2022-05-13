@@ -1,0 +1,14 @@
+Urban 'sSXP' Gaissert schrieb am 11. Januar 1999 um 22:36 Uhr folgendes:
+[...]
+
+Inwiefern wird beim Zweierkomplement die erste Stelle nicht durch das
+Vorzeichen "verbraucht"? Oder meinst du einfach die Tatsache, dass die
+"0" bei dieser Darstellung nicht zwei Zustände des Wortes "verbraucht"
+(weil sie nicht als "+0" und "-0" auftaucht)?
+
+Viele Größe,
+     Luciano Guenthers
+-- 
+ Q: I was listening to a CD in Grip and it sounded horrible! What's up?
+ A: Perhaps you are listening to country music...
+                                                        -- grip 2.5 FAQ

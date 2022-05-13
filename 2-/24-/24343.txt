@@ -1,0 +1,8 @@
+Na gut.
+
+Eher andersrum: da hat wohl jemand hier und da was abgehackt...
+mfg, 
+	Sandro
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

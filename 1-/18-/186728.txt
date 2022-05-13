@@ -1,0 +1,20 @@
+Am Sun, 31 Okt 1999 sendete Günter 'sSXP' Tegt folgende Botschaft:
+
+
+Wenn man es nicht prof. macht kann man direkt was einfaches nehmen ;)
+
+
+Die afaik in der  unixwelt am meisten verbreitete Nameserver
+distribution.
+
+
+Namesserver.
+
+
+Wenn du beim Enif eine domain haben willst musst du afaik zwei
+nameserver (bzw. deren IP) angeben. aber niemand hindert dich deinen
+eigenen rechner als ersten nameserver zu nehmen (zumindest so weit ich
+weis).
+
+Tschüs
+  Klaas

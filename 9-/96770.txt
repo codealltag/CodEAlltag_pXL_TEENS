@@ -1,0 +1,7 @@
+Passiert halt schonmal...
+
+Norman
+-- 
+a + b = c [Pythagoras]
+E = m*c [Einstein]
+=> E = m*(a + b)

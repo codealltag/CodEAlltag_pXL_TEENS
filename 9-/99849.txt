@@ -1,0 +1,5 @@
+Das scheint mir ein ähnliches Geschwür zu sein wie sendmail. Wer Features 
+braucht, dem kann ich Prikker empfehlen (aber das mit der Security auf der 
+Website darf man nicht so ernst nehmen. Hatte im letzten Jahr genügend 
+ernste Holes...) und wer einfach nen funktionierenden ftpd braucht, der 
+nimmt diesen (vorzugsweise stand alone weil inetd sowieso verboten gehört).

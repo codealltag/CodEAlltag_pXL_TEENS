@@ -1,0 +1,12 @@
+Da habe ich noch nicht geguckt. Erstmal muss W2K wieder drauf, dann
+das Service Pack und dann der neue VIA4in1. Wenn es dann nicht gelöst
+ist, das Problem mache ich mich vielleicht mal ans BIOS ran.
+
+
+Das Problem ist ja, dass ich nicht weiß ob es daran liegt.
+
+Gernot
+
+-- 
+Windows 98 was unable to detect your keyboard.
+Press F1 to retry or F2 to abort.

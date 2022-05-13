@@ -1,0 +1,13 @@
+Und so sprach Theres Huhsmann:
+
+
+*hinguck* Ne, das wichtige ist noch da. :-)
+
+
+Sollen wir mal ganz laut rufen? ;)
+
+Oswald
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.g

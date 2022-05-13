@@ -1,0 +1,9 @@
+Renato Mittnacht schrieb am 7 Okt 1999 in su.nxjw.scryoj:
+
+
+Man kann aus einer unüberschaubaren Zahl von Postings (dtju) 
+diejenigen herausfiltern, die (hoffentlich) besonders interessant 
+sind, z.B. Antworten auf eigene Postings (geht am besten mit eigenem 
+FQDN).
+
+Jean-Paul

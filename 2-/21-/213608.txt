@@ -1,0 +1,17 @@
+Was sagt eigentlich Ellen dazu, das du ihre Sprüche klaust? ;-)
+
+
+Dann schreib halt sackpost...
+
+
+Entweder Boot-CD, oder CD mit Boot-Diskette...
+
+
+Wozu die Mühe? Das schmeiß ich lieber alles raus, pgp-verify würde wenn 
+ich's richtig einstelle sowieso nur meinen schlüssel zulassen...
+
+
+Der ploppt dann 1000x auf, dann 1,8 Wochen um dadrin die richtigen Punkte 
+zu finden...
+
+cg

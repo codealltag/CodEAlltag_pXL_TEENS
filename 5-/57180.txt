@@ -1,0 +1,4 @@
+Schreib es dir selbst so hin, dass auch dein Chatzilla (*wuerg*) es
+interpretieren kann.
+
+-towo

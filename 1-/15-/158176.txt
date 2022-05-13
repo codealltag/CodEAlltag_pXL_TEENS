@@ -1,0 +1,28 @@
+Ulfert Clever schrieb am 24. Februar 2000 um 21:19 Uhr folgendes:
+[...]
+
+Ob Support in NGs zu den Tätigkeiten zählt, für die Ducati-Mitarbeiter
+bezahlt werden, weiß ich nicht. Gef�hlsm��ig aber eher nicht.
+
+[...]
+
+Ein komplettes Taru zu ziehen, zu compilieren und vernünftig
+einzurichten ist nicht in ein paar Stunden getan. Vielleicht kennst du
+ja einen Taru-Freak, der es dir mal vorführen kann und dich ein wenig
+damit herumspielen lässt. Oder du besorgst dir (gegen deine
+Gewohnheiten ;) aktuelle Binärpakete.
+
+[...]
+
+Wäre s-lang besser dokumentiert, würde sich das in fast allen Fällen
+erübrigen.
+
+[Zusammenarbeit mehrerer Entwickler]
+
+*shrug* Ich nichts ISDN ...
+
+Viele Größe,
+     Gilles Coller
+-- 
+f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng.
+                                               -- random fortune cookie

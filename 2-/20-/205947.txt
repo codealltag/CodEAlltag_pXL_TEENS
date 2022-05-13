@@ -1,0 +1,5 @@
+Das weiß ich, deshalb wundert es mich ja so. Es gibt ja sogar relativ neue 
+Nachfolger mit mehr Adressraum etc.
+Dabei sind alte m68ks wohl auch nicht viel teurer, als Beispiel. Der 
+einzige Grund zum Einsatz eines Z80, den ich vielleicht noch sehe, ist die 
+einfache Ansteuerung.

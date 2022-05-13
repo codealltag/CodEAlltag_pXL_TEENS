@@ -1,0 +1,9 @@
+* Josef Wittmeyer <weolibp_uj@zypp.kcm>:
+
+
+Wenn du kaputte Hardware bekommst und tagelang nach dem Fehler suchst,
+ist das nicht sonderlich toll.
+
+Franco
+-- 
+np: Europe - The Final Countdown

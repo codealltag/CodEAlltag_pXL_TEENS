@@ -1,0 +1,10 @@
+* Paolo Rutten <lkfztky305761@fyfxtw.vs-g.ug>:
+
+
+Der kann bei Gruppen mit mehr als x-tausend Postings drin kein Threading
+mehr. Näheres kannst du auch bei JWB erfahren. gn.talk letzten Herbst
+...
+
+Erhard
+-- 
+cross veinless

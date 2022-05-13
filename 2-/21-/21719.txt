@@ -1,0 +1,7 @@
+*umkuck* Hier ist doch sonst keiner. Oder meinst du nur mich?
+
+mfg, 
+	Hanno
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

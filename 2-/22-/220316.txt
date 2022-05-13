@@ -1,0 +1,17 @@
+Gerold Koonen schrieb zum Thema "Re: [STATISTIK] Maerz 1998":
+
+
+Nein, das ist noch nichts. Nochmal: Edit/Schablonen/Signatur
+Dort fügst du hinter dem -- ein "falsches" Leerzeichen ein, indem du ALT  
+gedrückt hälst und auf dem Nummernblock nacheinander 255 eingibst. Dann  
+sollte eigentlich ein Leerzeichen kommen, das QUIRIN hoffentlich korrekt  
+umwandelt.
+
+Dieter Lindgen
+
+PS: Pollst du über Kintscher, UUCP oder Fido?
+
+-- 
+Du willst nach it.naipjnmt.tmpue - SOFORT!
+                                              E-Mail: hqequh.iely@ten.ga
+---> Offizieller Kämpfer wider Leander Niestrat des Ordens von dtj <---

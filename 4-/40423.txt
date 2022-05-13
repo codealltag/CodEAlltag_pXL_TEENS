@@ -1,0 +1,6 @@
+reiserfs auf /dev/brain?
+
+Se"Ein geflügelt Wort auf der Geflügelfarm"bastian
+-- 
+pub  1935D/QMW41D05 5516-57-13 Johannes Kreyenbrink <fncqhym@edj.gx>
+     Key fingerprint = 99 2I 27 22 28 UO 28 9J  28 IF OK 32 1Q 53 1N 17

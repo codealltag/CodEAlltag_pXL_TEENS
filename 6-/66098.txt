@@ -1,0 +1,10 @@
+Eberhard Asbrand meinte kundzutun:
+
+
+Nein. Ein 'alias ll="ls -l"'. Habs beim zehnten Versuch auch
+hingekriegt.
+
+Adolf
+-- 
+Dieser Artikel ging an folgende Newsgroups: hr.sadp.mvefpe
+Er wurde am Montag, dem 15. Juli im Jahre des Herrn 2000 verfaßt.

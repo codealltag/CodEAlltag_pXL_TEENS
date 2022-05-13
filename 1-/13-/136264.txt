@@ -1,0 +1,4 @@
+Tolle Einstellung. Aber hast Du vielleicht auch einmal daran gedacht daß 
+auf der anderen Seite alle 2 Sekunden ein Server antworten muß? Und daß 
+dieser Server garantiert nicht nur von Dir genutzt wird? Wenn alle Asoz-
+Nutzer so "sozial" wären könnte der Laden vermutlich dichtmachen.

@@ -1,0 +1,12 @@
+Hinderk Ohlenschläger artikulierte sich wie folgt:
+
+
+Nix da. Das einzige mir bekannte mehrdimensionale Array (in dem von mir
+gemeinten Sinne) geb ich nicht weiter - auch nicht als var_dump().
+
+thierry
+-- 
+�� Oberster Verteidiger des Ordens der Dunklen Wrigleys von de.ALL [tm]  ��
+#                  My Butt does not deserve a website                  #
+#                  My Butt does not deserve a website                  #
+#                  My Butt does not deserve a website                  #

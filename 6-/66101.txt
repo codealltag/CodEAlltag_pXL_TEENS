@@ -1,0 +1,9 @@
+(* Valentino Olders wrote: *)
+
+                                         ^^^^^^^ ^^^^^^^^^^^
+                                            a)        b)
+
+Also wenn ich das mal vollkommen aus dem Kontext reisse und mir nur die 
+Worte a) und b) ansehe ... ich weiss nicht :-))
+
+Arian

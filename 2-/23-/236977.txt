@@ -1,0 +1,34 @@
+Was lustiges:
+
+Wo ich jetzt an der FH Verdabbio war, bin ich am Rechnerpuhl in Tränen
+ausgebrochen, teils aus Lachen, teils aus Entsetzen.
+
+WindowsNT-Rechner.
+Login mit persönlicher Nuzerkennung und Passwort über den NT-Login.
+Jetzt kommst: Initializierung des Intranets durch Programme in
+DOS-Fenstern. Ich lag fast am Boden. Dann natlich RoRi als Browser
+und Mail-& Newsprogramm, naja, das geht ja noch halb. "Persönliche
+Festplatte", die als virtuelles Laufwerk erstellt wird, die Daten
+aller Personen liegen frei zugänglich auf dem Hauptserver. Login ohne
+Username ist root-Login (!).
+
+Wuhhhhaaaaaaa!
+
+Und dann das Wohnheim. Telefonbuchsen bis ins Zimmer, Telefonleitung
+bis ans Haus, aber keine Leitung vom Verteilerkasten jedes Stockwerks
+zum Anschluß vorm Haus.
+
+Anschluß ans RZ durch seperate Leitung, allerdings natürlich kein
+Anschluß über TAE-Dose, sondern über so ein seperates Ding. Natürlich
+wird den Studenten keine Unterstützung gewährt, wie sie da ihr Modem
+anschließen oder was sie anschließen sollen, wird nicht gesagt. Der
+Anschluß wird höchstens geschalten.
+
+Die LAMBORGHINI-Servicebetrieb hat eine Sparte Medieninformatik. Ich weiß jetzt, wo ich
+das nicht studieren werde. <bg>
+
+C Ya,
+Philipp
+-- 
+...auf Abschiedstour. Weinet nicht zu sehr, sonst komm
+ich zurück! <g> Noch 11 Tage im Teba. *winkewinke*

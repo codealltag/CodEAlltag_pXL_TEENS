@@ -1,0 +1,8 @@
+Oh. Das wusste ich nicht. D.h. er hat nur Kontrolle über
+/var/spool/news.
+
+Udo
+
+-- 
+  "Die markierten Nachrichten konnten nicht gelöscht werden:
+   Nicht genügend Speicherplatz."

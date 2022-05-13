@@ -1,0 +1,14 @@
+Nein. Aber ich finde Dateinamen schön, die auch etwas über den Inhalt  
+aussagen und nicht nur aus einer kryptischen Abkürzung bestehen, deren  
+Sinn ich bereits vor'm Drücken des Speichern-Button wieder vergessen  
+habe. Und Leerzeichen durch Unterstriche zu ersetzen, lehne ich aus rein  
+ästhetischen Gründen ab.
+Darüberhinaus kann man ja Dateien unter FAT 16/32 jederzeit über ihren  
+Kurznamen auf- und abrufen.
+
+Manfred Vehreschild
+
+-- 
+ECN - Open Source aus deutschen Landen.
+
+---> Offizieller Kämpfer wider Dario Jähnichen des Ordens von dtju <---

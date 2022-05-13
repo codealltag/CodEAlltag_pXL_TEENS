@@ -1,0 +1,8 @@
+Gibt's sowas auch für Papiertiger? :-)
+
+Tino
+
+-- 
+INSTALL:
+"Die Anwendung wurde unerwartet beenden.
+ Starten Sie die Anwendung erneut."

@@ -1,0 +1,27 @@
+Ja, sollte man echt mal gründen. Aber nicht unter de.alt - am besten  
+gleich so:
+
+de.tupper.misc
+de.tupper.rund.misc
+de.tupper.rund.deckel_gruen
+de.tupper.rund.deckel_blau
+de.tupper.rund.deckel_weiss
+de.tupper.rund.deckel_sonstige
+de.tupper.quadratisch.misc
+de.tupper.quadratisch.deckel_gruen
+de.tupper.quadratisch.deckel_blau
+de.tupper.quadratisch.deckel_weiss
+de.tupper.quadratisch.deckel_sonstige
+de.tupper.laenglich.misc
+de.tupper.laenglich.deckel_gruen
+de.tupper.laenglich.deckel_blau
+de.tupper.laenglich.deckel_weiss
+de.tupper.laenglich.deckel_sonstige
+etc.
+
+Oliver Amonn
+
+-- 
+Gast   : "Herr Ober, da ist eine Fliege in meiner Suppe!"
+Kellner: "Wir sind hier nicht in de.talk.jokes"
+---> Offizieller Kämpfer wider Willi Oelkrug des Ordens von dtju <---

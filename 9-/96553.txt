@@ -1,0 +1,8 @@
+Wir bauen ein schnelles, stabiles, vernünftiges Server OS primär für X86 und 
+teilweise Alpha (der Port hängt wohl öfters mal hintendrein).
+
+
+Die CPU hat >=32bit, also müssen wir einen Port dafür haben.
+
+
+Secure by default: Wir schalten einfach alles ab, das Aerger geben könnte.

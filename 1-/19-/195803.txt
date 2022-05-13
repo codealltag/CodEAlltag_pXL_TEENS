@@ -1,0 +1,36 @@
+Udo Oettler schrieb am 5. April 1999 um 23:45 Uhr folgendes:
+
+
+Letzteres war ziemlich anstrengend -- 14 Linux-Newbies mit ihren
+Rechnern um mich herum und ständig funktionierte bei irgend wem irgend
+was nicht so, wie er es sich vorstellte. Die ersten zwei Tage waren
+praktisch nur Installationsparty (bis ich das Zeug überall drauf
+hatte), danach habe ich simultan versucht, den interessierten Leuten
+etwas beizubringen, in meinen Rechner eine zweite Netzwerkkarte
+einzubauen (eine mit DHCP, die andere mit fester IP -- ich hatte
+vorher noch nie DHCP benutzt, aber ist ja auch egal ;), um unserem
+lokalen Netz dank Masquerading und meinem WWW-Proxy über den "Schulen
+ans Netz"-Server im Stockwerk drunter Internet-Zugang zu verschaffen
+und die Leute, die es nach zwei Stunden Linux am Tag vorzogen, nach
+Windows zu rebooten und im Netz Halflife zu spielen, davon abzuhalten,
+sich gegenseitig zu nuken. Uff.
+
+
+Nett. Während die anderen Kurse in irgend welchen Großstädten von
+Museum zu Kirche zu Museum laufen durften, haben wir es uns auf
+unserem Schiff bequem gemacht, aufs Deck gefläzt, wenn gutes Wetter
+war, ansonsten Musik gehört, Karten gespielt, gekocht... die Stimmung
+war super.
+
+
+Mmh... wenn der Maat gesagt hat, daß man an einer Strippe ziehen soll,
+dann hat man das halt gemacht. In dieser Beziehung habe ich nicht
+allzu viel gelernt, was ich wieder verlernen könnte ;-)
+
+Viele Größe,
+     Nino Pfefferler
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

@@ -1,0 +1,24 @@
+Dennis Hückstädt schrieb:
+
+Hallo! :-)
+
+
+Hm. Das mit den Grenzwerten hatten wir vor kurzem. Was dabei a->x
+bedeutet habe ich irgendwie nie richig mitbekommen, sondern immer nur
+stur nach System gerechnet. Dummerweise war es dann auch noch richtig
+und ich sah mich nicht gezwungen nachzuschauen, was a->x eigentlich
+praktisch bedeutet.
+
+Modulo ist...hm, den Rest ausrechenen und Fakultät das Produkt aller
+Zahlen von da bis dort. 
+
+Alles falsch, gell?
+
+
+Hier auch.
+
+Karl
+
+-- 
+Die letzten Worte der Mutter:
+"Ich hab deine Disketten sortiert."

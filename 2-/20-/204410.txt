@@ -1,0 +1,17 @@
+Ben Clauß schrieb am 30. Juli 2000 um 21:53 Uhr folgendes:
+
+
+FLC ist für JMV wohl leider als Markt (noch?) nicht lukrativ
+genug, um einen hohen Optimierungsaufwand zu rechtfertigen. Da die
+Sourcen inzwischen aber erhältlich sind, hat sich eine (aus
+Freiwilligen und JMV-Mitarbeitern bestehende) Gruppe ans Werk
+gemacht, eine besser optimierte Version zu schreiben. Das Projekt ist
+vielversprechend, aber leider noch zu instabil, um schon jetzt
+wirklich nutzbar zu sein.
+
+Viele Größe,
+     Heinrich Imhoff
+-- 
+UNIX was not designed to stop you from doing stupid things, because that
+would also stop you from doing clever things.
+                                                           -- Olivier Björn

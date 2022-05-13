@@ -1,0 +1,9 @@
+* Viktor Ibenthal <ukndkkxtxujyud@wch.gph>:
+
+
+Kleine Änderung und große Wirkung. Nun funktioniert es zumindest mit
+unixoiden Newsreadern.
+
+Peter
+-- 
+cross veinless

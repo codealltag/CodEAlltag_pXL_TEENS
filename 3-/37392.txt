@@ -1,0 +1,9 @@
+Wie wärs mit: Ich hole dich eben ab.
+
+Ivo
+
+-- 
+Rupert:~$ whoami
+root
+Rupert:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Tim Kattenborn]

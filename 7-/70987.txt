@@ -1,0 +1,4 @@
+Genau sowas.
+
+Jean, und wenn, dann auch mit Expires: Header. Geht ja mit jeder
+Software auf Knopfdruck.

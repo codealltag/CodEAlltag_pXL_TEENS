@@ -1,0 +1,28 @@
+Ja weil damals der IE nicht standardmäßig bei WIn95 dabei war. Doch
+heutzutage... 
+
+
+Ja die Zeitschriften stellen das Usenet meist als kostenlose
+Supporthotline hin in der man einfach sein Problem postet und kriegt
+prompt eine Antwort. Doch das dies eine ganz eigene Welt mit eigenen
+Regeln ist, wird natürlich nicht gesagt. 
+
+
+Der Mozilla 0.9.5 läuft unter Linux genau wie unter WIn. Ja und damit
+kann man auch Mails versenden und empfangen. nur
+sendmail/fetchmail/procmail ist mir immernoch ein Rätsel. Da lob ich mir
+doch den Hamster unter Jérôme.
+
+
+7.0. Hab ich mal für 25 DM bei ebay erstanden [1] und hab dann die DVD
+die dabei war für 20 DM an einen Freund verscherbelt. Und für 5 DM eine
+komplette Distribution mit Handbüchern ist ein guter Preis ;-)
+
+ Roberto
+
+Footnotes: 
+[1]  war im April diesen Jahres, als ich das erst mal was mit Linux probierte.
+
+-- 
+Meinungsfreiheit heißt nicht, dass ich mir jeden Scheiß anhören muss.
+(Knut Vohrmann in bln.misc)

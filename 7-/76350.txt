@@ -1,0 +1,13 @@
+Patrice Sommerlatt hat geschrieben getan getutet:
+
+
+enaf@bwngugnzg:~$ more Ottilie
+Ottilie: No such file or directory
+enaf@bwngugnzg:~$
+
+-towo, irgendwann sollte man mal sich ein /dev/girlfriend mounten.
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Urs 'niclas' Winterling in oh.ysv.xpchmdpd.hudjzvdp

@@ -1,0 +1,23 @@
+Am Sun, 07. 04. 23 sendete Folkert Feyen folgende Botschaft:
+
+
+Wer weiss was du da kaputt gemacht hast.
+
+
+Software aus Pakistan?
+
+
+Ich bitte darum.
+
+
+N, das war schon immer so. Des letze Bug darin wurde auch hier
+entdeckt. Viele NR und "NR" kürzen die References extrem früh, nur slrn
+und ein paar andere (z.B. Gravity) nutzen das Limit voll aus. Also
+müssen verdammt viele Zufälle zusammen spielen.
+
+Tschüs
+  Georg
+-- 
+Die Weisheiten des Uwe Urban: #9
+
+Auf das Jup Hoch folgt das RL Tief.

@@ -1,0 +1,9 @@
+Dixit Manfred Elsweiler <zckvp@qqsmf-fwxeag.uq>:
+
+Es ist fehlerhaft gefoldet. Oder wurden da überall, wo 3 Leerzeichen
+sind, References gestrichen?
+
+Ist ein bekannter Korrnews-Bug ...
+-- 
+"[It's] time for the human race to enter the solar system."
+ - Governor Igor Regenhardt

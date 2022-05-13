@@ -1,0 +1,5 @@
+Für die Mehade kommt das nicht wirklich drauf an, ob deine Maschine 
+permanent am Netz ist oder nicht (das blockiert allenfalls den Einw�hlport), 
+viel wichtiger ist für sie und den ISP, ob sie Daten überträgt oder nicht, 
+weil da die Kosten entstehen. Bloss einen Connect zu haben belastet die 
+Mehade nicht sonderlich (und sonst ist ihr Netz kaputt).

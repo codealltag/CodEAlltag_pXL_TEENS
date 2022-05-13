@@ -1,0 +1,11 @@
+Walter Innerkofler hat geschrieben getan getutet:
+
+
+4GB pro Einzeldatei am Ende der Reihe, ja.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Nick 'tino' Mantell in qi.yel.gvxzgtvp.uwgekbww

@@ -1,0 +1,15 @@
+Am Wed, 31 Jul 2002 sendete Charly Feuchthuber folgende Botschaft:
+
+
+Warum sollte sie konstant sein?
+
+
+Es gibt /etc/xntpd/drift? ;) Muss die doku mal istallieren.
+
+
+Tschüs
+  Peter
+-- 
+Die Weisheiten des Dirk Darius: #9
+
+Auf das Jup Hoch folgt das RL Tief.

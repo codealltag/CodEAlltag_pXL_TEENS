@@ -1,0 +1,18 @@
+* Nick Enter <jbdzeyvxijsbnu@jqs.rcy>:
+
+
+Hübsch. Gerade gelesen.
+
+
+inbnm@bnpzvw:~$ /sbin/modprobe ip_masq_icq
+modprobe: Can't locate module ip_masq_icq
+inbnm@dnegus:~$ 
+
+Okay, neu bauen.
+
+
+Merci.
+
+Olivier
+-- 
+cross veinless

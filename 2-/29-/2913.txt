@@ -1,0 +1,25 @@
+Aaaaalso.[1]
+
+Hardwarepraktikum an der Textilien. Montag irgendwie kurz nach
+Sonnenaufgang. Das denkerszaf und das Bravszaf sollen für ein Testat
+eine Schaltung mit einem Komperator (74C509 IIRC, ohne nachzugucken)
+aufbauen. Weil das Ding zwei byte miteinander vergleichen soll sind
+viele Pins dran. Und weil es irgendwie eine gute Idee schien, den Rest
+der Schaltung stückweise zu kontrollieren haben das denkerszaf und das
+Bravszaf nach jedem belegten Pin die Funktion kontrolliert. Eigentlich
+hätte jedesmal der Strom abgeschaltet werden müssen, bevor man den
+nächsten Pin belegt, aber das dauert ja... Jedenfalls war irgendwann
+auf halbem Weg der Komperator im Eimer. Nach nur gaaaaaaaaaaaaaaaaanz
+lan^Wkurzer Zeit wurde ein anderer Komperator aus einem anderen
+Steckbrett beschafft und eingebaut, diesmal mit ohne Strom. Kaum
+fertig belegt wurde der Strom dann doch eingeschaltet (ist schon
+besser. Wenn man das so macht kann man auch vorführen dass da Strom
+fliesst...) und man stellte fest, dass die Schaltung an sich richtig
+war, aber jemand den Komperator recht genau an der Stelle gekillt
+hatte, wo uns das auch schon gelungen war...
+
+Heribert
+
+[1] So ohne Netz habe ich ja mal Zeit zu antworten...
+-- 
+SHIFT HAPPENS

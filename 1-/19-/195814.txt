@@ -1,0 +1,13 @@
+Keine Ahnung... Aber was ist eigentlich Rekursion?
+
+
+Yep.
+
+
+Tja, kann man nix machen.
+
+C Ya,
+Alessandro
+-- 
+Real programmers don't comment their code.  It was hard to write, it
+should be hard to understand.

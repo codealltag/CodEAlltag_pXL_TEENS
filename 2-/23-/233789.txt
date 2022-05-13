@@ -1,0 +1,12 @@
+Wie oft muß ich das eigentlich noch... :-)
+Also, XXQuell ist mein Newsreader. Der unterstützt aber leider kein NNTP.  
+Deshalb nehm' ich VSoup, das lädt die News im NNTP-Format runter und  
+konvertiert sie dann in's UUCP-Format, das XXQuell problemlos einlesen  
+kann. Umgekehrt ist's natürlich genauso.
+
+Matthias Wallenfels
+
+-- 
+Ich wünsche euch allen ein frohes neues Jahr! Hey, wirklich :-)
+                                              E-Mail: juzan@n-)fvgqf.ju
+---> Offizieller Kämpfer wider Hanspeter Priol des Ordens von dtj <---

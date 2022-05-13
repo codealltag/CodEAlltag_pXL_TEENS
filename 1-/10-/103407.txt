@@ -1,0 +1,7 @@
+Othmar Drunkemühle scripsit/wrote:
+
+Hm. Alternativ kann man sich auch per Telnet einloggen und das Ding entweder im
+sucknewsrc hinzufügen oder es per GUP bzw. auf der Website für den UUCP-Poll
+abonnieren. *g*
+
+-thh

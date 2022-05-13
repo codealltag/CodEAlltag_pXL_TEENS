@@ -1,0 +1,17 @@
+Der Abschnitt [Actions] in der hamster.ini wurde für Korrnews von mir
+schon vor ziemlich langer Zeit eingeführt:
+
+-- 8< --- 8< --- 8< --- 8< --- 8< --- 8< --- 8< --- 8< --- 8< --- 8< --
+V1.3.21.80 vom 30.1.2001
+...
+- Aktionen in hamster.ini per [Actions]: Mit xxx.exec und xxx.pars kann ein Programmname und die
+  nötigen Programmparameter für diese Aktion angegeben werden. Als Aktionen (xxx) stehen zur
+  Verfügung: news.out für ausgehende Postings, mail.out für ausgehende Mails, mail.in für eingehende
+  Mails und mail.internal für vom Hamster generierte Mails.
+-- >8 --- >8 --- >8 --- >8 --- >8 --- >8 --- >8 --- >8 --- >8 --- >8 --
+
+So long,
+Christian E. Götsch
+-- 
+Hamster & Co, seit 14.2.2003 steht die Beta (!) 1.3.23.200 bereit
+http://xrixaug.ej/ bzw. http://ljtgpuy.cidrbyfbi.bl/yig/

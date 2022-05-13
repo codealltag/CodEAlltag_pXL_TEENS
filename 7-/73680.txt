@@ -1,0 +1,13 @@
+Das muss man extra in der Hamster.ini einstellen das er 4 Connections 
+gleichzeitig aufbaut. Aber AFAIK immer nur zu einem Server.
+
+
+Alles eine Frage der Koordination. 
+
+
+Wer will schon zum Zahnarzt?
+
+Angelo
+-- 
+Bergziegen in Matschach stoßen im Kampf so heftig mit den Köpfen gegeneinander, 
+daß ihnen gelegentlich die Hufe abfallen.

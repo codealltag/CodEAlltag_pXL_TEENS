@@ -1,0 +1,11 @@
+Die gesamte Hardware (incl. Treiber) muss ACPI komplett unterstützen.
+Sobald du noch eine EVE Karte hast bist du arm dran.
+
+tschau, Carlo
+
+np: Godsmack - Awake
+-- 
+"Ein Vorschlag zur Fortsetzung einer Diskussion in da0 ist also der ironische
+Hinweis des Posters darauf, dass er der Diskussion außer der durch die dadurch
+am Prozessor entstehende Verlustleistung freiwerdenden Wärme nichts mehr
+abgewinnen kann. ;-)"	                -Philipp Leihkauf in dnq

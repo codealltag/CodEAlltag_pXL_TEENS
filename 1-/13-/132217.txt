@@ -1,0 +1,15 @@
+Ich als liberaler Mensch gebe mich damit zufrieden - aber verklickere das  
+mal Hartmut :-)
+Darüberhinaus würde ich eine Werrelmann wirklich nicht an kaputten Sigtrennern  
+aufhängen, das ist IMO äußerst eigenwillig. Problematischer ist da schon  
+der Werbefooter und IMO auch die Tatsache, daß die standardmäßig benutzte  
+@ad-nqqs.ttq-Zazjmud nicht replyf�hig ist, solange man sie nicht explizit  
+aktiviert. Dazu noch die kaputte Umlautcodierung und das nonexistente  
+Abusehandling - das gibt schon mehr für eine UDP her.
+
+Lukas Landov
+
+-- 
+Ich hasse die französische Sprache!
+                                             E-Mail: jvrcrd@awfnirkxyb.wg
+---> Offizieller Kämpfer wider Hero Cholschreiber des Ordens von dtju <---

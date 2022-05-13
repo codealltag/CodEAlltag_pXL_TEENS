@@ -1,0 +1,7 @@
+Die verantwortlichen bei der PD D (IIRC), ja.
+
+Gerold
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

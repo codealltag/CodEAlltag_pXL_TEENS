@@ -1,0 +1,10 @@
+Das ist ja mal ein Angebot. Aber mir ist das zu peinlich.
+
+
+Uh, huh?
+
+Kai
+
+-- 
+xw@matrix:~$ cat .signature
+xw@matrix:~$

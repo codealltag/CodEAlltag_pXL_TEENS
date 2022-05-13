@@ -1,0 +1,11 @@
+Das ist aber nicht so lustig. Mann kann bestimmt nicht sowas wie "You
+all suck!" oder so ankreuzen.
+
+Statt eines Knopfes sollten die doch lieber eine Stringabfrage da
+einbauen...
+
+Ulfert
+
+-- 
+"Es gibt nur eine Ausflucht vor der Arbeit: andere für sich arbeiten
+ lassen." (David Grossgut)

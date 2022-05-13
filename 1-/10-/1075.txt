@@ -1,0 +1,3 @@
+Details.
+-- 
+Äpfel und Birnen sind leicht vergleichbar: beide sind nicht injektiv.

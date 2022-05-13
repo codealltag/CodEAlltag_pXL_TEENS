@@ -1,0 +1,8 @@
+* Ottmar Eppacher <sijoiaf776205@xftmci.wx-i.in>:
+
+
+`R' startet Gnus neu.
+
+Hilmar
+-- 
+cross veinless

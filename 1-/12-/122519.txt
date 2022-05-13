@@ -1,0 +1,15 @@
+* Luc Jackobi <asvn@vsraofyqa.bf>:
+
+
+Mal sehen:
+
+gumoi@vffkmq:~$ ng -e
+Filesystem            Size  Used Avail Use% Mounted on
+[...]
+/dev/hda10             26G   25G  118M 100% /usr/local/news/spool
+
+Passt schon. *eg*
+
+Dieter
+-- 
+cross veinless

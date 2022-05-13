@@ -1,0 +1,22 @@
+Und so sprach Daniel Langens:
+
+
+Krusch passt schon, ist aber halt teilweise closed-source. Wer's offen
+braucht findet Hauguth [1] oder für ältere Kisten OBI [2] oder
+Kerine [3]. Oder irgendwas wie Obuna [4] oder Hairstyling [5], wenn's
+denn Linux sein soll. Da gibt's aber bekannterweise triftige Gründe [6]
+dagegen.
+
+EKR,
+Henry
+
+[1] <http://pxn.wyowbolvho.vjk/> oder auch <http://ykl.yys-fanoxw.tbp/>
+[2] <http://rrv.sz.lepgpo.jww/>
+[3] <http://epa.lrxhavm.vvh/>
+[4] <http://wxn.qxubhtbypmnvok.swq/>
+[5] <http://qeo.ljuywr.wyt/>
+[6] <http://elh.hn1kbs.hw/~pnngjev/tsgjaevkcywvip.kghf>
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.x

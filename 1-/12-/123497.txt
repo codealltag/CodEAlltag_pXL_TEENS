@@ -1,0 +1,9 @@
+* Onno Ullner <msjy@wjkoeqxry.fi>:
+
+[Realname-Filter]
+
+Für Gnus hätte ich eine. Für Telnet nicht. Sorry.
+
+Albrecht
+-- 
+cross veinless

@@ -1,0 +1,34 @@
+Ja. Lustigerweise sind das dann meistens die gleichen Leute, die nicht
+bereit sind, Geld für Software auszugeben (zumindest nicht mehr als 10
+DM für die raubkopierte CDR).
+
+
+StarOffice ist nicht das Gelbe vom Ei.
+Udup Office ist nicht das Gelbe vom Ei.
+Udup Office kostet ein paar hundert Mark.
+StarOffice ist kostenlos.
+
+Ich weiß, was ich nehme.
+
+
+Können sie HTML darstellen / importieren?
+
+
+Danke. Haha.
+
+
+LaTeX hatte ursprünglich BTW die größte Verbreitung unter DOS /
+Windows (deshalb haben die Pakete auch immer noch 8.3-Dateinamen).
+
+[Word-Installation]
+
+Wie die Dokumente dann aussehen, die von solchen Leuten erstellt
+werden, ist allgemein bekannt: Einrückungen werden per Leertaste
+gemacht, Seitenumbrüche mit Return... Wenn man so etwas
+weiterverwenden will, kann man es gleich als ASCII exportieren - man
+muß das Layout so oder so komplett neu aufbauen.
+
+Viele Größe,
+     Siegfried Oberascher
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,23 @@
+Am 22. 11. 21 15:06:30 GMT sendete Orlando Leiningen
+folgende Botschaft:
+
+
+Wieso sollten die das bei einer robomoderation nicht machen? Ich hab
+nicht ohne grund von 'bestimmte leute'n und '(nach erlaubnis des mods)'
+gesprochen.
+
+
+In rfc1036 steht:
+
+[...]
+[...]
+
+Also 'should' und nicht 'must'
+btw: ins son-of steht garnichts mehr darüber wer der Approved-header
+setzen darf.
+
+
+Das find ich aber voll sozial von dir, du.
+
+Tschüs
+  Julian

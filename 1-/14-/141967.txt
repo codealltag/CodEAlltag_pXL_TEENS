@@ -1,0 +1,13 @@
+Und so sprach Ludger Ahaus:
+
+Jup, aber es waer einfach mal schoen, wenn man sich darauf verlassen
+koennte, dass ein Standard kompleet unterstuetzt wird, und nicht von
+jedem die Showelemente. IE5 macht teilweise schon CSS2 (UTT
+auch, aber da gibt's Hoffnung, dass sie CSS1 doch noch ganz nehmen).
+
+Gruss,
+Frédéric.
+-- 
+Know what you like and know what you yearn
+but they don't know a thing about me
+I'm not that easy, I'm blank file in thier memory

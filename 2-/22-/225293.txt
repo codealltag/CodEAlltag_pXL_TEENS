@@ -1,0 +1,7 @@
+Ein Freund von mir hat damit eine Art physikalische Simulation geschrieben.
+Sogar dafuer war's zu langsam.
+
+-- 
+Alfons
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

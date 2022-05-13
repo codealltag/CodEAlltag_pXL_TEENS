@@ -1,0 +1,4 @@
+TP hat 100 (UTP) bzw. 150 (STP) Ohm.
+RG62 (ARCnet) hat 93 Ohm. Wars das?
+
+Otto

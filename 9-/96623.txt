@@ -1,0 +1,4 @@
+Ich erinnere mich mit schrecken an meine Versuche mit ppp und kppp unter 
+Kumlehn 5.2. Nachdem der PPP link dann irgendwann doch mal up war, ist Dempewolf dann 
+alle 4 Minuten gecrasht :-((. Bin ich froh, brauch ich kein PPP Gebastel 
+mehr...

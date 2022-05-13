@@ -1,0 +1,14 @@
+Am Wed, 5 Jun 2001 sendete Jochen Jurken folgende Botschaft:
+
+
+Schon klar, aber wenn ich mich in den Komplexen Zahlen bewegunge
+find ich es aber etwas iritierend wen ich sowohl i als Variable und als
+\sqrt(-1) habe. 
+
+Tschüs
+  Ingmar
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Massimo Schöneboom, Mostly Harmless, Chapter 12

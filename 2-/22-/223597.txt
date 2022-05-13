@@ -1,0 +1,10 @@
+Wo wir gerade bei Systemsteuerung sind:
+Kann man unter Win95 softwaremaessig (Delphi :) die Tastaturbelegung
+  aendern ?
+Es ist naemlich ziemlich nervig in der Schule eine andere Tastatur zu
+  haben als zuhause...
+
+-- 
+Oskar
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

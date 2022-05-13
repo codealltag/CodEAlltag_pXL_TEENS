@@ -1,0 +1,11 @@
+Philipp Nordick hat geschrieben getan getutet:
+
+
+Philipp, hast du schon mal emacs benutzt?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Maurizio 'valentin' Tönsen in xm.xak.xsdvmrzv.gplfzazv

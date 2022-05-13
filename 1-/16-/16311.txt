@@ -1,0 +1,12 @@
+(setq gnus-user-made-quoting 'shit) ;-)
+
+
+Ja, tatsächlich. ;-)
+
+Best regards, Roger Welscher
+
+-- 
+/�\   --- JOIN NOW!!! ---
+\ /  ASCII ribbon campaign
+ X       against HTML
+/ \    in mail and news

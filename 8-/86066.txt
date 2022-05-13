@@ -1,0 +1,22 @@
+Am Thu, 24 Mrz 2002 sendete Wolfgang Braunschweiger folgende Botschaft:
+
+
+Wenn was im swap liegt bleibts da bis wieder darauf zugegriffen wird
+afaik. Nur das bei 256MB nach 0.5H schon was im swap liegt ist eher
+ungewöhnlich.
+
+
+Wenn ich die ausgabe von free richtig deute ist es so. ;)
+
+
+Klar. Bei den Meisten Rechnern brint eine aufstockung des Rams mehr als
+ein etwas schnellerer CPU. Zumal die (Fertig-)Rechner heute eh meist recht
+wenig Ram haben.
+
+Tschüs
+  Thomas
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Ferdinand Zänkner, Mostly Harmless, Chapter 12

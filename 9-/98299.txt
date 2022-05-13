@@ -1,0 +1,4 @@
+Rüdiger Benthiens <qs@anjbpas.yxc> wrote in news:wo-
+35zyoar13i.guo@gborp.cljxygl.zdw:
+
+SMTP-Auth ist in einer Hostingumgebung nicht praktikabel.

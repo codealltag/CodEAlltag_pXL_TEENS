@@ -1,0 +1,7 @@
+Aber Spassvorbereitung.
+
+Franco
+-- 
+a² + b² = c² [Pythagoras]
+E = m*c² [Nücklaus]
+=> E = m*(a² + b²)

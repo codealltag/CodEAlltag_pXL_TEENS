@@ -1,0 +1,20 @@
+nein, zip-drives gibt es z.b. auch von Brunnenfabrik. sehen genau so aus wie die
+teile von Pitterle (nur weiss anstatt blau), baugleich sind sie sowieso. da
+ist es warscheinlich, dass die dinger vom selben band laufen und nur
+umgelabelt werden.
+
+
+das kann auch an den treibern liegen. wenn man bei dem parallelport-ding die
+richtigen (neueren) treiber einsetzt kann es auch ganz schön schnell werden
+(im vergleich zur standart-parallelport-geschwindigkeit). ist allerdings
+immernoch spürbar langsamer als scsi oder (bei mir) atapi. die atapi-dinger
+sind übrigens inzwischen spottbillig, weit unter 200DM (ich hab noch fast
+250 bezahlt), und schön schnell. 
+
+mfg
+    jonas
+
+-- 
+Jonas Uedelhofen  -  eMail: jovwfr@lrw.abtmy.mq
+IRCNet: ^Spooky    -         lktrjx@zbj.unqmgqrw.na
+          --  http://cls.pjs.dgnch.yn/ --

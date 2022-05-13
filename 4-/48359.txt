@@ -1,0 +1,12 @@
+Diedrich Ohnacker wrote in li.faot.oxcege:
+
+
+Ich verstehe nicht ganz was du meinst. Finkeldey greift auf die Mails zu,
+die auf dem Server zwischenlagern. Knurrnews kann sie nun nach belieben
+verändern, das heisst eingehende _und_ ausgehende. Also wo liegt nun der
+Vorteil von den Makros von TheBat?
+
+Stefan
+-- 
+'Zitate in der Signatur sind wirklich albern und ueberfluessig.'
+P. Machinery

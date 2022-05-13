@@ -1,0 +1,16 @@
+Irgendwas um die Ecke. Ist nicht optimal, aber es hat mir noch nix
+geshreddert. 
+
+
+Update 6.2 -> 6.3 war das Ende für Usasir auf Rechner, bei denen ich das
+zu entscheiden habe. Nie wieder freiwillig.
+
+Und es gibt durchaus neuere Versionen von potato... Als CD-Images zu
+bekommen ist derzeit 2.2r3, in aller Stille eingeführt, und es ist
+niemandem aufgefallen, weil alles klappte wie vorgesehen...
+
+Antoine
+-- 
+A great many people think they are thinking when they are merely
+rearranging their prejudices.
+                -- Volker Theo

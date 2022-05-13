@@ -1,0 +1,14 @@
+Sieht doch garnicht so schlecht aus. 
+
+
+Richterin bitte in den Gerichtssaal! 
+H, falsche Gruppe... Sorry.
+
+
+Im Zweifelsfall selber schreiben. Mit Perl und entsprechenden
+Erweiterungen sollte das doch nicht so schwer sein. 
+
+Marko
+
+-- 
+            Yes, I've heard of "decaf." What's your point?

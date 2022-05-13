@@ -1,0 +1,14 @@
+begin quoting Max Glaßmacher <nsudcid@uccic-aku-gizq-rbpm.bok>:
+
+Wieso? Was soll ich denn intern benutzen? Warum nicht S0-Bus? Obwohl,
+das ist in der Tat leicht veraltet, mit nur zwei Sprechwegen...
+
+Aber wenn man immer 5 Jahre wartet, dann kann man nie eine Neuerung
+einführen.
+
+Was soll denn bitte an DSL-Telefonie so toll sein? Bessere
+Sprachqualität?
+-- 
+Patrik Nietzschmann, 23762 Roisdorf, DE
+My favorite newsgroups:
+tf.wccq.vzlxyg, cs.xuu.llm.rakp, wnq.gpi.kejbp-tekfgh

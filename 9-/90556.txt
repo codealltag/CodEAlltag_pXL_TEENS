@@ -1,0 +1,11 @@
+* Cédric Krebiehl schrieb: *
+
+
+Leider, wenn man es nicht von Hand korrigiert. :(
+
+Eigentlich sollten aber auch keine 8-bit-Zeichen im Header verwendet 
+werden... Eigentlich. 
+
+
+-- 
+   :: bf ::

@@ -1,0 +1,23 @@
+* Luc Zschischank schrieb: *
+
+
+Im Body kannst du alles verwenden, was du willst.
+
+Im Header machen Umlaute & Co. seit Menschengedenken nur Probleme, davon 
+kann jeder, der nach Subject statt nach References threadet genauso ein 
+Lied singen, wie jeder, der mal versucht hat, sich bei VESH einen 
+Thread mit Umlaut im Subject zusammenzusuchen. Da nützt selbst die 
+scheinbar korrekteste Codierung nichts, irgendwann kommt ein Followup von 
+einem Gravity- oder Free-Agent-User dazwischen, dass alles zerschießt.
+
+Deshalb haben sich schon unzählige Usenet-Gurus den Mund fusselig 
+geredet, dass zumindest in Headerzeilen auf Umlaute verzichtet werden 
+sollte, auch wenn (codierte) 8-bit-Zeichen nicht ausdrücklich verboten 
+sind.
+
+
+Klar, früher waren wir ja auch arm. Da konnten wir uns keine 
+Kleinbuchstaben leisten.
+
+-- 
+   :: bf ::

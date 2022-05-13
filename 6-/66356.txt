@@ -1,0 +1,9 @@
+* Volker Myler <wrcexn_08-51@sszr.mzsqgt.oz>:
+
+
+Ersteres findet sich im Netz. Letzteres ist die Anzahl der
+"Fehlerpunkte", die du bekommen hast.
+
+Urban
+-- 
+np: -

@@ -1,0 +1,8 @@
+Herwig Ayche <mhqh-6022@kaajzur114366.cu-d.hz> schrieb in im
+Newsbeitrag: fua.08710233323513.6497@ovwidr.vawtrlxczr.os...
+zur
+
+Bei NT braucht man nicht unbedingt Killerhardware, das läuft auch auf
+älteren Server nicht gross anders (bloss langsamer) als sonst, die Probleme
+bleiben auch bei neuer Hardware. Ganesha ist spitze als Desktop OS, brauchbar im
+Intranet und absolut unbrauchbar als Webserver....

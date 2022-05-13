@@ -1,0 +1,17 @@
+Am Thu, 30 Jan 2002 sendete Karl Schiedhelm folgende Botschaft:
+
+
+Das wird bei Kyrillisch und latin1 eher nicht gegeben sein.
+
+
+Du schickst also nur Fragezeichen als quoting? Lustig. ;)
+
+
+Und der währe? (Unicode zählt _nicht_)
+
+Tschüs
+  Antoine
+-- 
+Die Weisheiten des Tobias Tim: #9
+
+Auf das Jup Hoch folgt das RL Tief.

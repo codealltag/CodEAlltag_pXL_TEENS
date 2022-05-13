@@ -1,0 +1,23 @@
+Solches tippte Tino Ueker:
+[kodi "lahm" verglichen mit Netscape 4]
+
+Schau Dir mal die 0.9.5 an...
+
+
+Seltsam, hier braucht (händisch gemessen, disk und memory Caches jeweils
+vor dem Starten mit Müll vollgeschrieben) Netrape 4.77 geschlagene 25
+Sekunden zum Starten, kodi 0.9.5 schafft es in weniger als 15 Sekunden.
+Dafür, dass kodi einmal gestartet meistens ein paar Tage lang durchläuft,
+ist das OK für mich, insbesondere eingedenk der Tatsache, dass kodi
+die meisten Seiten mir angenehmer aufbereitet anzeigt als Netrape 4.
+
+
+Die Zeit gemessen vom Klick/Enter bis ich die Seite sehe. Das Netz ist
+bei mir nicht der begrenzende Faktor.
+
+
+So what? Libs sind dazu da, dass man sie benutzt. Wenn es Dir Spaß
+macht, kannst Du Dir ja eine statisch gegen qt/kdelibs gelinkte
+Version bauen, so wie navigator-smotif.real.
+
+Peter

@@ -1,0 +1,9 @@
+Am Sat, 20. 04. 23 sendete Urs Chwalisz folgende Botschaft:
+
+
+Als root sind ja auch rm, cp und mv jeweils ein alias auf 'rm/cp/mv -i'
+
+Tschüs
+  Joachim
+-- 
+Notorisch Schreibfaul.

@@ -1,0 +1,41 @@
+Was will uns der Autor damit sagen? 
+
+Ist es der verzweifelte Hilfeschrei nach Liebe, der bisher immer
+ungehört verhallt ist, wenn er ausgestossen wurde? Oder ist es eher
+der Wunsch nach ein wenig mehr Abwechselung in Sachen Liebe? 
+
+Ist es der Aufruf, die Frau zu bekämpfen, nicht nur heute, sondern
+auch an allen anderen Tagen des Jahres, ganz wie es der Welthungertag
+ist? Oder ist es eher der Kontext des Weltspartages, der uns daran
+erinnern soll, dass eine Freundin viel Geld kostet, wenn man sie als
+Freundin umwirbt, und noch mehr des gesparten Geldes verschlingt, wenn
+man sie dann sicher hat?
+
+Oder ist es der Aufruf an die Frauen, sich wieder auf die alte Zeit zu
+besinnen, als sie noch vor lauter Weiblichkeit ihren eigenen Willen
+verleugneten und dem Manne untertan waren?
+
+Hören wir dazu einmal die Meinung des kleinen Mannes auf der Strasse:
+
+"Watt? Weltfrauentag? Watt soll der Quatsch denn? Ich hab doch eine!"
+
+Eine erschütternde Stellungnahme, doch nicht die einzige dieser Art.
+
+Doch was bringt jemanden zu dieser Haltung? Ist es ein
+Kindheitstrauma, welches nie bewältigt wurde? Oder ist es eine
+Bequemlichkeit, dass man sich nur ja nicht umgewöhnen muss? Befragen
+wir dazu unseren Experten Prof. Dr. DantzerLeopold:
+
+"Diese Verhaltensmuster, die wir quer durch sämtliche
+Populationsschichten, und auch ungeachtet der kulturellen Unterschiede
+der betrachteten Zielgruppe unserer Untersuchung, welche sich
+hauptsächlich aus Mitgliedern der Zielgruppe zusammensetzten,
+vorfanden, waren nicht eindeutig zuzuordnen." 
+
+Soweit also die Meinung des Experten. Weitere Details sehen sie nach
+der Werbung... 
+-- 
+Wie jagt man einen Elefanten - Teil 2:
+C- Programmierer bestimmen zuerst mit sizeof() die nötige Speichermenge
+für einen Elefanten, versuchen diese zu allozieren, vergessen dabei das
+Ergebnis abzuprüfen und schießen dann mit wilden Pointern auf den Elefanten.

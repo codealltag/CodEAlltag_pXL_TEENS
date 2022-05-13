@@ -1,0 +1,13 @@
+Und Du bringst Outlook Express und Co bei, PGP Header-Signierung zu
+unterstützen? ;-)
+
+[...]
+
+Ein Approven im Sinne von "Einfügen eines 'Approved:'-Headers" sollte
+bei Retromoderation doch nicht nötig sein, oder verstehe ich da jetzt
+etwas falsch?
+
+Viele Größe,
+     Leopold Niederkrome
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

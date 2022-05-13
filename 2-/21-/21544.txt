@@ -1,0 +1,22 @@
+Sooo einfach ist das nun aber auch nicht. Erstmal löten wir uns einen
+Haufen Flipflops, sagen wir mal 40 Stück, den 4*7 ist sicherlich kleiner
+als 4*10. Dann löten wir noch einen Sack UND-Gatter, ein paar OR-Gatter,
+einige NOTs, und ein paar Muxe und DeMuxe. Daraus realisieren wir ein
+Schaltnetz mit 4x10 Flipflops (die natürlich alle auf D-Flipflop
+aufgebohrt wurden) und verbinden dies mittels geeigneter Adapter mit
+einem Handelsüblichen PC. Nun schreiben wir uns eine Ansteuerung in
+einer Programmiersprache unserer Wahl, und initialisieren das gesamte
+Schaltnetz mit "1". Jetzt kommt dann der interessante Teil: Wir belegen
+nun händisch (durch Kaputtschlagen der letzten 3 Reihen mit einem
+ausreichend dimensionierten Hammer) die überflüssigen FlipFlops mit "0".
+Nun reicht eine triviale Schleife, um die Anzahl der im Schaltnetz
+vorhandenen "1"en zu zählen.
+
+
+Dann richtig.
+
+mfg, 
+	Aldo
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

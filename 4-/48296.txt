@@ -1,0 +1,14 @@
+Alles doof.
+
+Wieso hängt die Pa�wortverwaltung beim Hamster eigentlich auch nur
+irgendwie mit derselbigen beim System zusammen? Das ist nervig, die
+ganzen Accountdaten wieder einzugeben, nachdem man das anscheinend
+lahcfse am System verändert hat und daraufhin sämtliche Accountdaten aus
+dem Hamster verschwunden sind und darum keine Postings mehr rausgehen
+und ich mich schon wundere wo sie denn bleiben bis ich mal in ejsi.err
+reinschaue...
+
+Pasquale, verärgert
+-- 
+pub  1716P/YRS72W09 5160-68-27 Pasquale Muellner <acskmvu@law.hi>
+     Key fingerprint = 99 3R 34 20 43 JT 31 6O  36 IV AV 41 3P 13 0J 30

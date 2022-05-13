@@ -1,0 +1,5 @@
+Manchmal schon. Ich will alles sehen, an dem was dranhaengt. Und nicht
+alles an dem *angeblich* was haengt.
+
+Der macht das aber (a) nicht automatisch (also ueberwacht mknods in /etc
+nicht) und (b) funktioniert das mit dem nicht wirklich immer.

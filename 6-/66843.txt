@@ -1,0 +1,9 @@
+Mach dir um mich mal weniger Sorgen. Zur Not wird Roberto
+kaputtgeknuddelt.
+
+Valerius
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Fridolin Fresenborg in
+<bjwt4n0pi4.8z8.tzserfv.jrltsb@xwu.ucg.ag-hwjqmqab.dn>]

@@ -1,0 +1,8 @@
+Der kann Postings lesen, die so groß sind, wie Platz auf der
+Festplatte ist. (Oder.. ich weiß jetzt nicht ich glaube ein File auf
+ext2 darf maximal 32 GB groß sein oder so?) 
+
+Dirk
+
+-- 
+Hier kommt nichts mehr.

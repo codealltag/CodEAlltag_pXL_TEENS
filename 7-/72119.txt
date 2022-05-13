@@ -1,0 +1,12 @@
+Es ist ein "Feature", einen gepatchten Leafnode 1.9.9 (IIRC) auf die
+Meschheit loszulassen, wenn ein neuerer, nicht mehr auf den patch
+angewiesener da ist?
+
+
+Ist ja im Grunde so.
+
+Ingolf
+-- 
+Was ist der Unterschied zwischen einem Politiker und einem Telefonhörer?
+
+Den Telefonhörer kann man aufhängen, wenn man sich verwählt hat...

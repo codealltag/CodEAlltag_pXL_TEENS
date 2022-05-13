@@ -1,0 +1,11 @@
+Richard Oppelt hat geschrieben getan getutet:
+
+
+Warum sollte es auf einer amerikanischen Wetterseite nicht stehen?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Fabian 'bernd' Oelenschläger in jr.wdu.nsglzxlq.ucqyzcnl

@@ -1,0 +1,15 @@
+Am Tue, 18 Jun 2002 sendete Frerich Machedanz folgende Botschaft:
+
+
+Nein, gerade in unserem Zusammenhang macht der schiedunter Sinn.
+      _
+In 99.9% der Fälle fehlerfrei heist ja das auf unendlich viele
+erfolgreiche Versuche genau 1 Fehler kommt.
+
+Bei 100% hingegen kommen auf unendlich viele erfolgreiche Versuche genau
+0 Fehler.
+
+So war es aufjedenfall gemeint.
+
+Tschüs
+  Steffen

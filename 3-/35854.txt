@@ -1,0 +1,17 @@
+Auf einer Kiste hier läuft jetzt Windows 2000. Zwar habe ich früher
+Sparkauf 98 benutzt, aber sowas idiotisches, wie Start -> Einstellungen
+-> Verwaltung -> Computerverwaltung -> Datenspeicher ->
+Datenträgerverwaltung sind schon wirklich rätselhaft.
+
+Und dabei gilt dieses Windows als gut unter den anderen Windows. IMO
+schockierend.
+
+Es ist ziemlich offensichtlich, dass zwar viel mehr
+Einstellungsmöglichkeiten hinzugekommen sind, dass diese aber mit
+*diesem* Sparkauf-GUI nicht mehr zu verarbeiten sind.
+
+Kay
+
+-- 
+"Wer vor seiner Vergangenheit flieht, verliert immer das Rennen."
+ (Reiner Richardt Fenzlein)

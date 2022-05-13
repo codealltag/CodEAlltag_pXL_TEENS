@@ -1,0 +1,10 @@
+Man merke: Gert wohnt am Ende der Welt.
+
+Kurt, kann doch nicht so weit weg sein. Vesen ist ja auch da, und von
+da kam eine Mitschülerin.
+
+-- 
+Udo:~$ whoami
+root
+Udo:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Reinhold Nielsen]

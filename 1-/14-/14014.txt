@@ -1,0 +1,6 @@
+Evangelion Unit 1. ;)
+-- 
+Ah, the beauty of OSS. Hundreds of volunteers worldwide volunteering
+their time inventing and implementing new, exciting ways for software
+to suck.
+- Kay Arntzen, in the Monastery

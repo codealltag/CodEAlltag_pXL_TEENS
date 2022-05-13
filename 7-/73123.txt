@@ -1,0 +1,7 @@
+* Henning Nüßlein <dbntocd256147@hmciuo.st-t.gq>:
+
+
+Nein, 'apt-get install slang1-dev' war das, was ich suchte. Aber
+trotzdem danke. :)
+
+Rainer

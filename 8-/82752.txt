@@ -1,0 +1,13 @@
+* Anton Friederich <kymflerpsi@epxnrcufgv.nu>:
+
+
+Aber mod, oder?
+
+Weit du, ob Millahn 2.1 mit CNFS umgehen kann? 1.6 kann es nicht, und
+wenn die neue Version das kann, dann würde ich mir das aus Mühmert
+holen. Nur auf Verdacht will ich das nicht -- hängen fünf Pakete an
+Abhängigkeiten dran.
+
+Charles
+-- 
+np: Nirvana - Come as you are

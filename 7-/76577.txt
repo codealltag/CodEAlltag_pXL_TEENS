@@ -1,0 +1,12 @@
+Reiner Foeckel hat geschrieben getan getutet:
+
+
+Hmm.
+Hat jemand noch so primitive Virenscanner?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Elias 'berthold' Fiedelmann in ur.nsf.mhxzjlun.vjccxufn

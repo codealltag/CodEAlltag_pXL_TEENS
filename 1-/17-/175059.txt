@@ -1,0 +1,22 @@
+Am Fri, 8 Nov 2000 sendete Nicolas Gauggel folgende Botschaft:
+
+
+Huch wer hat den da an meinem Promt rumgepfuscht?
+
+#v+
+felix@weissnichtwo:~ > PS1="\t \w\\$"
+19:51:10 ~$
+#v-
+
+Schon besser ;)
+
+
+echo "You have $(grep '^From ' ~/News/totest | wc -l) things to test"
+
+ELIAS.
+
+
+Endlich mal wieder ein Thread mit Niveau.
+
+Tschüs
+  Leonhard

@@ -1,0 +1,29 @@
+Liegt hier vor allem an den Herstellern der Router. Wenn diese sich dazu 
+durchringen könnten, für alle Router zu einem vernünftigen Preis 
+Firmwareupgrades mit IP multi casting Support anzubieten, dann hätte one-2-
+many eine relle Chance.
+
+
+Theoretisch ja. Nur das bei Voice over IP momentan damit argumentiert werden 
+kann, dass vorhandene Bandbreite genutzt wird, für die sowieso bezahlt wird. 
+Wenn man die wichtigen Backbones vernünftig konfiguriert, so stört Voice 
+over IP niemanden, weil es schlicht nur überschüssige Bandbreite benutzt. 
+Selbiges sollte man IMHO für alle Sorten von Streams tun. I
+
+
+100% agree. Es spielt für den Enduser letztlich keine Rolle, wie die Daten 
+in seine Kiste gelangen, wichtig ist nur, dass es für ihn transparent 
+geschieht. DAU interessiert nicht, ob der Stream aus dem Modem oder aus der 
+Fernsehkarte auf dem MoBo kommt, solange er nur fernsehen kann.
+
+
+Application Service Provider. s. MS .NET, btgjw.spo etc pp.
+
+
+Nicht im Falle der Carrier. 
+
+
+Nicht wenn jemand ein Monopol auf die last mile hat.
+
+
+Teilweise.

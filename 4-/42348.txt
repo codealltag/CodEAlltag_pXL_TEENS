@@ -1,0 +1,13 @@
+Dann wurde es fälschlicherweise verschrieben, oder er hat es sich
+"selber verschrieben". In den Anwenungsf�llen, für die es gedacht
+ist[0], hat es genau die Wirkung, die es haben soll. Eine beruhigende,
+aufmerksamkeitssteigernde.
+
+Fabian
+[0] ADS/ADHD[1][2] z.B.
+[1] Attention deficite syndrome/Attention deficite hyperactivity
+disorder
+[2] Hey, prima, noch mehr Abhandlungen über mich!
+-- 
+pub  1087E/IHN52T52 5288-70-97 Fabian Eylers <krscxrw@lmz.ui>
+     Key fingerprint = 99 7B 35 80 48 EE 52 6C  39 FE AB 40 0K 55 4B 24

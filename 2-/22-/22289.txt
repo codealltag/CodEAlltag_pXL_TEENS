@@ -1,0 +1,8 @@
+LZW, und dann base64? Arithmetische Kodierung? Irgendwas vermeintlich
+sinnvolles.
+
+mfg, 
+	Lothar
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

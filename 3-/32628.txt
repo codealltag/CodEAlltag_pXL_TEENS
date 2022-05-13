@@ -1,0 +1,23 @@
+Das funktioniert vielleicht gut in Wohnheimen mit always-on Internet, 
+aber bei Freunden bei denen man schon froh sein muß wenn sie eine E-Mail 
+Adresse haben (die einmal die Woche gelesen wird) ist ENCH nicht das 
+richtige Mittel zur Kommunikation. 
+Handy hingegen hat nur ein einziger nicht. Aber der hat dafür ENCH ;-)
+
+
+Aber das macht doch Usenet aus, oder nicht? ;-)
+
+
+So toll war es bei mir auch wieder nicht. ;-) Aber gemessen am zeitlichen 
+Aufwand, den ich reingesteckt habe, bin ich äußerst zufrieden. Zählt ja 
+eh erst ab jetzt.
+
+
+Bis jetzt eigentlich weniger. Die Frage "Wo bin ich überhaupt?" ist für 
+einen Roboter schon interessant und schwierig genug. ;-) Daher geht's 
+eher um Wahrscheinlichkeiten (Markov Methoden in unserem Fall).
+
+
+Na na na, da stimmt doch was nicht ;)
+
+Gruß Salvatore

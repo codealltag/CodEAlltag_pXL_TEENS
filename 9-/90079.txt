@@ -1,0 +1,20 @@
+Am Thu, 01 Jun 2002 sendete Charly Toenges folgende Botschaft:
+
+
+MPlayer. http://tpemcmd.tthadxmzrzr.bqo
+
+#v+
+MPlayer is a movie player for LINUX. It plays most mpeg, avi and asf
+files, supported by many native and win32 DLL codecs. You can watch VCD,
+DVD and even DivX movies too.
+#v-
+
+Nettes Teil.
+
+Tschüs
+  Sascha
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Luca Imwalle, Mostly Harmless, Chapter 12

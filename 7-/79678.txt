@@ -1,0 +1,11 @@
+Mirko Klöckner meinte kundzutun:
+
+
+nvidiafb
+
+Framebuffer für Steppenwolf
+
+
+Matrox.
+
+Noël

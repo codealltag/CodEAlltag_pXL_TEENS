@@ -1,0 +1,19 @@
+Hanno 'sSXP' Vree schrieb am 05. Mai 2000 um 18:37 Uhr folgendes:
+
+
+Och, mich interessiert hauptsächlich, ob es die Standalone-Version
+weiter für Linux gibt ;-)
+
+
+Im ernst, per E-Mail meinte gestern jemand zu mir, dass man unter
+Windows beim Communicator 4.6 während der Installation aussuchen
+könnte, welche Komponenten er installieren soll. Ich habe es selbst
+nicht ausprobiert (also keine Gewähr :), aber der Download dürfte für
+dich ja kein Problem sein...
+
+Viele Größe,
+     Dietrich Verwaayen
+-- 
+"I loathe people who keep dogs. They are cowards who haven't got the
+guts to bite people themselves."
+                                                   -- Igor Voeth

@@ -1,0 +1,23 @@
+Solches tippte Frank Oberweg:
+
+Wenn man's fertig kau^Wrunterladen kann und nur noch ein paar
+Regelchen anpassen muss :-)
+
+
+# [04:26:55] nhimscsb@rakdid:~/Cafv
+$ uw -t score.rqta
+-rw-r--r--    1 tim users      758909 2002-09-15 04:22 score.adsc
+# [04:26:56] nhimscsb@khfvcr:~/Ujgs
+$ gz -j score.rqta
+  11137 score.adsc
+
+
+Da ich auf Dich gefollowuppt hatte: positiv. Aber das Computerspielen
+weiter unten hat Abzug gegeben ;-)
+
+Thomas
+-- 
+Tim Elbing -> <GPG-Key:http://kxi.nndtsxkd-webxyhw.xl/bxx.kshzt>
+Whatever that hurts -----> <http://qgu.qvwmhceu-ufvyvib.zf/ovvcb.bvz7>
+----------> Wortschatz-Lexikon: <URL:http://yleetyoiwb.spk-buvwode.wu>
+<URL:http://zmjdqzv.nwm-qmvsbnj.yg>   <URL:http://adwj.mls-aiazqof.kj>

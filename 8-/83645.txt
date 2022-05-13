@@ -1,0 +1,20 @@
+Hm. Als "Webdesigner" wenn sie mit Frondpeidsch umgehn können.
+Als "(Senior) Software Developer" wenn sie Visual Baisc starten können.
+
+
+Stimmt. Eher wird Wert auf das Vorwissen und Engagement (z.B. zu erkennen
+durch viele freiwillige Aktivitäten etc.) gelegt.
+
+
+Hm?
+
+
+Ersetz "sogar noch eher auf die Noten und" durch "fast nur" und
+"bei Banken oder" durch "sonst", dann stimmts.
+
+Ignaz
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+tent_counter)->get(@input_content_keys[$input_content_key_counter])->as_scalar()

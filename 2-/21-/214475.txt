@@ -1,0 +1,10 @@
+Am Thu, 06. 12. 22 16:24:28 GMT sendete Hubert Ungemach
+folgende Botschaft:
+
+[Path anpassen]
+
+Dann wird IMHO opt/kde/bin an der flachsen stelle in den PATH
+eingetragen.
+
+Tschüs
+  Olaf

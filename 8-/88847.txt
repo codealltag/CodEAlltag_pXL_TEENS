@@ -1,0 +1,9 @@
+Ich habe mir angehn die ~/TODO mittels cat $neuerEinfall > TODO zu
+erneuern, das hält das ganze enorm übersichtlich ;-)
+
+Reinhold
+-- 
+Rupert Uebelen --+- stud. soz. & inf. -+-- http://rbr.hnk-rytzqgf.od
+-->    GPG Public Key: http://hui.vzqtpbtg-hzyhxdn.ef/bec.itnrn    <--
+
+� Projekt Deutscher Wortschatz: <URL:http://wzzvrrrruw.fja-bposmgx.zb>

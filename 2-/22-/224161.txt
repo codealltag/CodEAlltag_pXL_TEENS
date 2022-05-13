@@ -1,0 +1,10 @@
+Auch, ja.
+Aber vor allem war MS-DOS/Windows stark einem evolutionären Prozess 
+unterworfen (nun ja, wenn Brenkes Thesen auf Software anwendbar wären 
+hätte MS-DOS nicht überlebt, ich bleib aber trotzdem mal bei dem Begriff).
+Als Beispiel sei mal der Sprung vom Real in den Protected-Mode genannt. 
+Diese und viele andere Hürden hatte Linux nicht zu nehmen, da es von 
+Anfang an besser konzipiert war und nicht zu völlig überholten Standards 
+kompatibel sein mußte.
+ähnlich ist Windows NT. Es wurde von Grund auf neu designt und als Folge 
+ist auch die Kompatibilität sehr beschränkt.

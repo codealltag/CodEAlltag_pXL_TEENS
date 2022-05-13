@@ -1,0 +1,11 @@
+Ich teste unter mehreren Brausern, so dass ich einen möglichst
+großen Anteil abdecke. Im Endeffekt sind das aber nur
+Kleinigkeiten. Du wirst bei mir zum Beispiel kein doctype finden,
+weil ich bewusst HTML 3.2 und 4 mische. Aber grundsätzlich achte
+ich schon auf korrekten Kot. :-)
+
+Gruß,
+Reinhold
+
+-- 
+Homepage : http://zuf.custue-dtqtpt.mi

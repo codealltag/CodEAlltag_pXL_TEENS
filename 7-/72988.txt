@@ -1,0 +1,23 @@
+Joachim Roelfsema meinte kundzutun:
+
+
+Hm. Ich werds nicht drauf anlegen, meine Flat 25/7 laufen zu lassen.
+
+Aber meine Linux-Kiste wird auf auto-connect stehen.
+
+Und ich werde nicht anfangen, zu warten bis ich viel hab was ich will
+bevor ich anfange es zu saugen o.�..
+
+Wenn ich Bock hab, Gardienenwelt/IRC/sonstwas anzumachen, tu ich das. Weil ich
+nicht über die Telefonrechnung nachdenken will oder muß.
+
+
+Hm. Sie hatten das Problem, daß sie in ihren OVSt/KVSt zuwenige
+Verbindungssätze installiert hatten. Fällt jetzt weg weil die PPP-Conn
+schon in der OVSt endet, und ab da gehts mit GBit weite. Die Bandbreite
+*zwischen* den Knoten war nie das Problem.
+
+Sven
+-- 
+Dieser Artikel ging an folgende Newsgroups: pu.hmkq.bprylg
+Er wurde am Mittwoch, dem 5. Januar im Jahre des Herrn 2001 verfaßt.

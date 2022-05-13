@@ -1,0 +1,6 @@
+s/20/4/
+
+KDE20 braucht eine E10k für sich, um anständig belaufen werden zu
+können.
+
+-towo

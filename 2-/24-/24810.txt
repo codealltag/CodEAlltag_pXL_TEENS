@@ -1,0 +1,10 @@
+^^^^^^^
+
+Freudscher Typo...
+
+-Verleihnix
+-- 
+ No  Points     Name                                                   Hp [max]
+  1    9770084  RahelXaverius-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

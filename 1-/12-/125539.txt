@@ -1,0 +1,32 @@
+* Otmar Illert <yuqi@puhcvsbg.xw>:
+
+[adaptive scoring]
+
+Adaptive Scoring (in dieser Einstellung) ist eher so gedacht: Gnus merkt
+nach einiger Zeit, welche Poster und welche Themen mich
+interessieren. Darum scort er auf From: und Subject:
+
+In lf.savx.tetlvaxx.newsreader sieht das so aus, dass ich Threads mit
+[Gnus] im Subject lese, mit [slrn] nicht. Nach einiger Zeit bekommen
+neue Threads mit [Gnus] positive Punktzahlen und werden in der
+Thread�bersicht oben angezeigt, [slrn], da ich sie eh nicht lese,
+bekommen einen Score <0 und werden unten angezeigt, bei Wunsch auch als
+gelesen markiert.
+
+Für Poster gilt das analog.
+
+In dtju, wo es wenige Poster gibt und fast alle Threads
+"Einheitssubject" heißen, nützt das nichts. 
+
+
+Das macht man anders. Du scorst auf die Message-ID des aktuellen
+Postings in den References der folgenden Artikel. So kannst du einen
+Thread z.B. mit 1000 Punkten "highlighten"; den Eintrag im Scorefile
+kann man so einstellen, dass er automatisch gelöscht wird, wenn er eine
+gewisse Zeit nicht aufgerufen wurde, der Thread also beendet ist.
+
+Alles _wirklich_ praktisch. 
+
+Klaas
+-- 
+cross veinless

@@ -1,0 +1,7 @@
+*g* Handflammpatrone soll auch wehtun, und die gibt es bei uns.
+
+mfg, 
+	Nicolas
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

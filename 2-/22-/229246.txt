@@ -1,0 +1,11 @@
+Du Geier! JavaScript IST nicht komplex! Zeig mir was komplexes in JS und
+ich geb' dir 5 Mark (wenn du willst auch Sfr)
+[ ] Du kannst ohne Biblioheken("Modulgequatsche") was ganz tolles
+programmieren...
+
+Gruß,
+
+Salvatore
+-- 
+"There's a sucker born every minute."
+(ULFERT Deuber)

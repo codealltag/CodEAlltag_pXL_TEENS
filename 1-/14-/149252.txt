@@ -1,0 +1,28 @@
+Am Sun, 27 Feb 2001 sendete Victor Clauhsen folgende Botschaft:
+
+
+Da kann ich aber nichts zu sagen da ich diese nicht kenne ;)
+
+Btw: In der Schule werde jetzt gezwungen 90m/woche NT(4.0 SP1)
+     zubenutzen die ersten waren heute. Ich habe selten so gelacht
+     (obwohl es eher traurig war).
+
+     Es fing alles damit an das der Lehrer erstmal auf allen
+     Rechnern (einzeln!) von Hand den user+passwd anlegen musste obwohl
+     in den kisten eine LVM 10/100Mbit karte ist (*Wunder*)
+
+     Nachdem wir dann irgendwann zum arbeiten kamen hies die erste Übung
+     "wir schreiben eine text mit Word" wobei es lat�rnich nicht darum
+     geht den Text abzuschreiben sondern ihn genauso zu schreiben wie
+     der Lehrer es will (text von max 1/4 seite mittels tricks auf 1/!
+     seite aufgeht etc) die Krönung war aber als Word (diese Schwule
+     Klammer ausschalten ist ja auch schwierig) nach benutzung der
+     Rückgängig funktion über Drucker probleme Meckerte (natürlich haben
+     wir am drucker nie was gemacht ;))
+
+     Irgendwann im laufe des Jahres sollen wir dann auch TurboPascal
+     lernen, ich kann mir schon vorstellen was das für ein abgetippe
+     wird.
+
+Tschüs
+  Henning

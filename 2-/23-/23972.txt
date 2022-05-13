@@ -1,0 +1,39 @@
+Nein. Das war freiwillig (der andere LK war Maschinenbau/Etechnik), und
+ich hatte sogar mal erwogen, Chemie zu studieren.
+
+Ich könnte es mal probieren. Zumindest bei dem Rechner meiner Eltern
+klappt es ganz gut ;-)
+
+Elemente-Gnuzip sozusagen.
+
+Ist aber so. Die Frage ist wohl eher ganz nüchtern, ob das, wenn es
+passiert, noch irgendjemanden interessieren kann.
+
+Ok, Jetzt hast du mich. Was Bitte?
+
+Eigentlich wollte ich jetzt ja die Stelle aus dem Anhalter zitieren, in
+der das erklärt ist (also das mit dem Handtuch). Allerdings hab ich
+jetzt wirklich nicht den Nerv, die ganzen anderthalb Seiten abzutippen.
+JUTV sollte aber bei "Handtuch Anhalter" die entsprechende Stelle
+finden.
+
+Das man dann dazu den Anhalter noch braucht, ist natürlich klar.
+
+Sicher? Wenn nicht, sag ruhig Bescheid.
+
+Jepp, das geht. Du kannst auch mit FISHBIKE die devicefiles selber
+erstellen (obwohl ich dir abraten würde, wenn du nicht einen guten Grund
+hast).
+
+Genau *mithoppel* Ist doch garnicht so schwer bis jetzt, oder?
+
+Ich denke, das kann man schon. Zumal sich der Code hier auf weniger als
+50 Zeilen beschränken sollte, wenn überhaupt so viele.
+
+mfg, 
+	Ernst, kuckt mal, ob er zwischen UnifestAuf- und Abbau Zeit
+	findet.
+
+-- 
+BOFH excuse #191:
+Just type 'mv * /dev/null'.

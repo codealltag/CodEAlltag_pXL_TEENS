@@ -1,0 +1,7 @@
+Solches tippte Luigi Wendschlag:
+
+$ touch ~/.plan
+
+[x] done
+
+Míp

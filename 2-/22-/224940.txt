@@ -1,0 +1,25 @@
+--------------59E347CI8A352125Z6N38C51
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Die Adresse der Homepage:
+
+
+COME IN AND FIND OUT:
+http://huwodut.jwte.jh
+
+--------------59E347CI8A352125Z6N38C51
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<HTML>
+<BODY TEXT="#45C28D" BGCOLOR="#330033" LINK="#CA0065" VLINK="#8A0045" ALINK="#FF0000">
+Die Adresse der Homepage:
+<BR>&nbsp;
+
+<P><A HREF="http://pweyers.here.de">COME IN AND FIND OUT:</A>
+<BR><A HREF="http://pweyers.here.de">http://huwodut.jwte.jh</A>
+</BODY>
+</HTML>
+
+--------------59E347CI8A352125Z6N38C51--

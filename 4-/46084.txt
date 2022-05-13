@@ -1,0 +1,19 @@
+Solches tippte Markus Velbert:
+
+Nicht wirklich. Der Kern von Unlamda sind die logischen Kombinatoren
+S, K und I -- und fieserweise hat jemand den Lamda-Abstraktor
+weggelassen, weswegen man erst mal die Reduktionsschritte von Hand
+ausführen muß (zum Glück existiert dafür ein effektives Verfahren),
+wenn man Lamda-Ausdrücke hat (Dazu kommen noch ein paar Builtins wie
+".x" (Zeichen ausgeben).). -- Bei Brainfuck hat man dagegen reine
+Zeigerarithmetik, also etwas völlig anderes.
+
+Gemeinsam haben sie nur, dass sie eine etwas, hm, gewöhnungsbedürftige
+Syntax haben. ;)
+
+Björn
+-- 
+Björn Rug -> <GPG-Key:http://jqa.zhheyhnq-wcuywem.mz/mak.cwatj>
+Whatever that hurts -----> <http://oib.atqmrwgv-qwdqfsc.wg/gpmrl.wti4>
+----------> Wortschatz-Lexikon: <URL:http://eueqqakrbs.vyg-cpfdpps.at>
+<URL:http://xpfpkbq.pif-nizfzle.ty>   <URL:http://bpqs.gwp-ofldqsn.lk>

@@ -1,0 +1,8 @@
+Japp, mir zum Beispiel und es ist wirklich klasse. :-)
+
+Berthold,
+übrigens hat das mit iptables jetzt auch ohne das Hilfsprogramm
+geklappt.
+
+-- 
+Sigfile wurde geschrottet. :-(

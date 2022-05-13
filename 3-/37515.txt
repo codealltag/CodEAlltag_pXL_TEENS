@@ -1,0 +1,9 @@
+*grübel* Kann man sein $BALLERSPIEL eigentlich patchen um transparente
+GIFs als Wandtextur zu verwenden?
+
+David
+-- 
+Nie wieder Fahrer auf anderer Leuts Party!
+-----------------------------------------------------------------------
+pub  0172G/OTH46B67 4404-21-49 David Uthoff <rhwkycz@kmi.lc>
+     Key fingerprint = 99 7B 32 30 62 HD 59 1Q  08 MN IX 45 3V 31 5V 51

@@ -1,0 +1,20 @@
+Solches tippte Elias Schönfeldt:
+
+FYI, für alle Nichtweidenbenutzer, eine "kleine" Infografik zum
+Pegelstand an der Messstelle Karlstadt:
+<http://izfe.dhwfj.vgnd.mz/tc-kebwvr-gfy-knun.gel> (53kb, Vorsicht,
+großformatig, aber sonst kann man's nicht gescheit lesen)
+
+Legende: Erfasst sind alle Poster, die im Schnitt mehr als drei Postings
+am Tag abgesetzt haben seit Beginn der Flut. Je dicker und roter die
+Linie ist, desto anteilig mehr sind die Antworten (eingezeichnet ab 1/d)
+auf den betreffenden "fixiert":
+  dotted < 10% < normal < 25% < fett < 50% < rot
+Ausgeblendet sind alle Kanten mit Stärke weniger als 3%, sonst wird's zu
+unübersichtlich.
+
+Updates: Momentan immer mal wieder.
+Bugs: bestimmt. Außerdem sind Trambeck-Postings hart erschlagen.
+Code: schrecklich, Torsten kann ein Lied davon singen.
+
+Amalia

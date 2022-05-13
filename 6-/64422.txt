@@ -1,0 +1,11 @@
+Du kennst das Scoring von Quenzi wohl nicht. Mein Gnus hab ich nun auch
+soweit, das es alle Artikel von mir und diese wo eine Reference von
+mir enthalten ist, hochscort und andersfarbig darstellt. Doch gibt es
+_nur_ 3 Scoringzust�nde wie ich feststellte (<0, 0 oder >0). Und diesen
+drei Bereichen kann man dann unterschiedliche Farben zuordnen. 
+
+Enr 'der sich aber auch gerne eines besseren belehren lässt' ico
+
+-- 
+Leute, die nicht wissen, was sie tun, sollten keine Webserver
+betreiben. (Franz Demmler in cd.xhv.dcq)

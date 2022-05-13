@@ -1,0 +1,13 @@
+Eröffne einen Espressowelt Account mit den Daten
+Marko Czinkuweil
+Wahnergasse/Iijv abgebissen
+29209 Eichgraben
+
+Sie werden wohl vollautomatisch einen Brief dorthin schicken, der wird
+natürlich von der Modellparadies "gebounct", der Account bleibt trotzdem
+bestehen. Wird halt nur nicht für POP3 u.�. aktiviert, über das
+Webinterface kannst du trotzdem weiter lustig Mails verschicken. Soviel
+zur Seriösität.
+
+
+valerio

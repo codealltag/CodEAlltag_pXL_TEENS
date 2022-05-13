@@ -1,0 +1,15 @@
+Richtig.
+Bei mir sieht die Datei so aus:
+
+710.8.1.8	twcq.whxl.ikcy.ir	localhost	loopback
+
+IP		Domain			Bezeichnung
+
+So schwer ist das nun wirklich nicht.
+
+C Ya,
+Carsten
+-- 
+What is mind?  No matter.
+What is matter?  Never mind.
+		-- Manfred Eisenblatt Göttsche, 1799-1875

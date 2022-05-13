@@ -1,0 +1,10 @@
+Dann teilt man das ganze halt noch durch die Anzahl der Zeilen im
+Posting. 
+Aber dann werden doch noch Postings, wo man nicht hinter den Sinn
+kommt (aus welchem Grund auch immer) hochgescored. Unschön, wenn auf
+einmal sämtliche Daus dadurch upscores kriegen.
+
+Italo
+
+-- 
+# to make Liebelei happy :( [zr-wlp.ke]

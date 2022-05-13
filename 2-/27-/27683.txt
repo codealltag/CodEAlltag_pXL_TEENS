@@ -1,0 +1,6 @@
+linking emacs statically?
+mfg, 
+	Leander
+-- 
+BOFH excuse #254:
+Interference from lunar radiation

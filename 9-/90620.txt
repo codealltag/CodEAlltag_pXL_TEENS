@@ -1,0 +1,4 @@
+Was meinst Du mit Verknüpfung? Ein "|"? Klar, das Ergebnis ist doch
+auch ein regulärer Ausdruck, also ist das beschriebene Konstrukt eine
+reguläre Sprache (ich hoffe, dieser Umhehrschlu� ist korrekt?
+Informatikstudenten vor!).

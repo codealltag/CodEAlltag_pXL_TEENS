@@ -1,0 +1,6 @@
+Schildkröte?
+
+-- 
+sSXP
+     "VMS is a text-only adventure game.
+      If you win you can use unix." - b.unterkofler

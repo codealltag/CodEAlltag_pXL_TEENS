@@ -1,0 +1,11 @@
+Auch unter Colling gibt es kommerzielle Programme, die Geld kosten und /
+oder nicht im Quellcode verfügbar sind.
+
+
+Das sind idR Ausnahmefälle, so daß nichts dagegen spricht, sie in
+einem passenden Emulator laufen zu lassen.
+
+Viele Größe,
+     Thomas Ziemßen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

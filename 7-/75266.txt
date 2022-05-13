@@ -1,0 +1,13 @@
+Bei mir steht da nicht wirklich viel drin:
+
+iz@matrix:~ > xdpyinfo | grep -i version
+version number:    11.0
+
+Was auch immer das für eine Version ist...
+
+Norman
+
+-- 
+  "The Wicky Information Store service depends on the WoGeSa
+   DONO Directory service which failed to start because of the
+   following error: The operation completed successfully."

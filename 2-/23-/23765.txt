@@ -1,0 +1,8 @@
+Wo holst du die denn sonst? Ich dachte immer, das man die eigentlich nur
+in O wirklich kaufen kann.
+
+mfg, 
+	Dario
+-- 
+BOFH excuse #202:
+kernel panic: write-only-memory (/dev/wom0) capacity exceeded.

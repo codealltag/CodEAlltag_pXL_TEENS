@@ -1,0 +1,23 @@
+Die Bytes fehlen auf einer höheren Ebene, der Carrier geht dadurch 
+normalerweise nicht verloren. Wenn doch, dann benutzt Du schei 
+Software/dummes Modem.
+
+
+Man kann auch ein 33.6er mit 19200 Baud betreiben. 
+Mehr traue auch ich den 8250 (keine FIFO, einige IRQ-Bugs), 16450 (keine 
+FIFO, TX IRQ Bug) und 16550 (kaputte RX-FIFO) Chips nicht zu. Aber es 
+funktioniert.
+Der 16550AF hat ein Bug in der TX-FIFO, der Tritt aber normalerweise wie 
+mir berichtet wurde nicht auf.
+Bei ganz alten PCs in der die 8250er noch gesockelt sind kann man auch 
+einfach ein paar 16550AFN reinhauen, die Chips sind IIRC pinkompatibel. 
+Ansonsten hilft auch eine Einsteckkarte.
+
+Hab ich schon erwähnt daß ich Monate damit verbracht habe einen stabilen 
+seriellen Treiber für diese Chips zu basteln? <kotz> Die Entwickler bei 
+Grünkramladen gehören an die Wand gestellt. Die ganzen 
+fehlerhaften Unterversionen (8250A...) hab ich ja erst gar nicht 
+aufgezählt.
+
+Da man ohne FIFO generell keine stabilen 56kbaud (als Beispiel) 
+hinbekommt ist übrigens ein Gerücht.

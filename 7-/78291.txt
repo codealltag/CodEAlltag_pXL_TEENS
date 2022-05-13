@@ -1,0 +1,9 @@
+Kann ja garnicht sein.
+
+
+ls -lR /home/public/mp3/mp3/ | grep -i "foo" | less
+
+Detlef
+-- 
+"Lt. Fähr, scannen Sie das Schiff!"
+"300dpi, Sir?"

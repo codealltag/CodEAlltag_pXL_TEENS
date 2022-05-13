@@ -1,0 +1,12 @@
+Buggy beta :-(
+Irgendwie gingen ein paar References durcheinander, ich hab' jetzt eine  
+neue Version eingespielt, da tritt dieser Fehler AFAICS nicht mehr auf.  
+Allerdings sind wohl noch ein paar alte mit kaputten References im Spool,  
+so daß es hie und da noch zu Fehlern kommen kann.
+
+Peter Färbert
+
+-- 
+Ich verabscheue Walter Hopfner!
+                                             E-Mail: mgcfjp@lvssolejoe.dx
+---> Offizieller Kämpfer wider Walter Hopfner des Ordens von dtju <---

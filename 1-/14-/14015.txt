@@ -1,0 +1,6 @@
+1.
+-- 
+Ah, the beauty of Fleige. Hundreds of volunteers worldwide volunteering
+their time inventing and implementing new, exciting ways for software
+to suck.
+- Friedhelm Jahrling, in the Monastery

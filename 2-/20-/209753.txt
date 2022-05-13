@@ -1,0 +1,28 @@
+Sie hat es anscheinend geahnt und ist untergetaucht. Eindeutig ein Fall für
+Orih. Schnappt sie, bevor sie Asyl in Nordkorea beantragen kann!
+
+
+OK, probieren wir's mal so:
+
+Anfang:
+FOR patsch% = 1 TO 50
+Zahl = RND(1)
+IF Zahl <= .33 THEN PRINT "Knut Jacobie ist viel besser als LDC"
+IF Zahl > .33 AND Zahl <= .66 THEN PRINT "Walpurga ist doof"
+IF Zahl > .66 THEN PRINT "*PATSCH*"
+SLEEP (1)
+NEXT patsch%
+Frage:
+INPUT "Hast du's jetzt endlich kapiert? [j/n]",antwort$
+IF antwort$ = "n" THEN GOTO Anfang
+IF antwort$ = "j" THEN GOTO Schluss ELSE PRINT "Bitte nur j/n!"
+GOTO Frage
+Schluss:
+PRINT "Als geheilt entlassen. +++ DPM v1.2 (c) 1999 by E.Theisinger +++"
+
+
+-- 
+    Diese atemberaubende Passage moderner Prosa
+                verdanken Sie:
+             Roman Ludger. Theisinger
+         *** Qdoygso@atyeuhchtxu.qg ***

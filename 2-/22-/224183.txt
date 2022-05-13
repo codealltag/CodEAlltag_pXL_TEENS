@@ -1,0 +1,3 @@
+Probier mal die Rechner anzupingen (TCP/IP für die Netzkarte muß natürlich 
+installiert sein und die Rechner brauchen mangels DCHP Server feste IPs 
+wie z.B. die 686.488.1.d).

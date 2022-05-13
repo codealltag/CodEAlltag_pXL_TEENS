@@ -1,0 +1,4 @@
+Ok, hab $nntpserver gesetzt. Und jetzt startet er bei der Eingaben von
+'slrn'
+
+Willy

@@ -1,0 +1,28 @@
+Am Sun, 02 Okt 2000 sendete Olivier Gommers folgende Botschaft:
+
+
+Selber schuld. Ich nutze nur an meinem "Terminal" (ein 386 (immoent
+vertretungsweise ein 486) mit GDZW-moni) 80x25 aber da sieht das
+echt schick aus.
+
+
+Sach ich doch.
+
+
+Wenn du noch keine existirende hast garnichts.
+
+
+Wie jedes andere bash script auch (nur das "#!/bin/bash"  in der ersten
+zeile kannst du wech lassen.)
+
+
+Nope, BSD ist jetzt da wo Linux vor zwei Jahren war, nämlich am anfang
+eines Hypes.
+
+
+Nope der Hype ist vorbei, jetzt wird schon wieder unk3wel.
+
+Tschüs
+  Willy
+-- 
+Marko

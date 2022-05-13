@@ -1,0 +1,13 @@
+Lilian Neinhuis hat geschrieben getan getutet:
+
+
+Agent sollte supersedes besser unterstützen.
+
+Hamster auch.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Thorsten 'ralf' Johansohn in vt.von.frxtmfbt.wyhyhvuf

@@ -1,0 +1,9 @@
+Jepp. Ich mußte vor einem halben Jahr noch einem computerh�ndler
+erklären, wie man die Ausgabe von Meldungen in der autoexec.bat und
+config.sys unterdrückt.
+
+Udo
+
+-- 
+Wenn ich die Münze 1Mio. mal werfe und erhalte 5001mal Kopf,
+dann dividiere ich ... lieber nicht. [Oswald]

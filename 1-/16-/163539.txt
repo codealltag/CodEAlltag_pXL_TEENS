@@ -1,0 +1,55 @@
+Sébastien 'sSXP' Cattermann schrieb am 12. Juni 2000 um 18:15 Uhr folgendes:
+
+
+Wenn man lange geraucht und / oder früh angefangen hat, wird man es
+immer "brauchen". Mein Vater träumt zB auch nach 20 Jahren als
+Nichtraucher nachts noch davon und könnte beim Geruch einer Pfeife
+schwach werden. Da hilft nur ein fester Wille.
+
+[...]
+
+Das Masquerading fand ich einfach zu konfigurieren und es läuft
+einwandfrei; die Daten für die Firewall-Funktionalität habe ich bei
+der Gelegenheit zwar auch eingetragen, mangels offizieller IPs für
+mein Netz hatte ich aber noch nicht die Gelegenheit, die tatsächliche
+(Un-)Durchlässigkeit zu testen.
+
+[Mailclients]
+
+Brrr. Okay, ist Geschmackssache...
+
+
+Ausprobiert? CYCLE ist natürlich kein "ausgewachsener" Server wie
+Reimche, wohl eher mit Hamster und co vergleichbar.
+
+
+Um so besser :-)
+
+
+Nicht, wenn du dich auf die Bereiche stürzt, in denen es auf
+Sicherheit, Stabilität und Netzwerkfunktionalität (vielleicht auch
+noch "Automatisierbarkeit" und "Konfigurierbarkeit"?) ankommt <bg>.
+
+[...]
+
+Ups. Ich kann mir vorstellen, dass man sich als Anfänger ein- oder
+zweimal sein System "zerspielt", aber öfter sollte das eigentlich
+nicht vorkommen (wenn man Lektionen wie "root nur dort, wo nötig"
+beherzigt). Mein allererstes Linux-System läuft immer noch :)
+
+
+Die Schritte sind Installation -> Konfiguration -> Nutzung. Wenn das
+System tatsächlich voll funktionsfähig ist, kann man den ersten Punkt
+(Installation) IMO abhaken.
+
+
+Bei euch an der Uni sollte doch jemand zu finden sein, der sich ein
+wenig mit Linux auskennt und euch unter die Arme greifen kann, oder?
+Gerade die Basics lassen sich IMO besser "live" und am konkreten
+Beispiel klarmachen als über Mail and News (auch wenn ich natürlich
+bereit bin, Fragen so gut ich kann zu beantworten).
+
+Viele Größe,
+     Mathäus Curdt
+-- 
+A person is just about as big as the things that make them angry.

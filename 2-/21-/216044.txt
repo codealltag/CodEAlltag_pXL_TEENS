@@ -1,0 +1,13 @@
+On Tue, 01. 06. 22, Pascal Kräußle <PPZwkfxza@npp.ab> wrote:
+
+[Men vs. Tastatenkombinationen / Kommandozeile]
+
+Mit dem NBO-fdisk bin ich (ohne ein einziges Mal die manpage gelesen
+zu haben) deutlich schneller am Ziel als unter DOS. Schon allein, weil
+es nicht nach jedem zweiten Tastendruck der Meinung ist, die komplette
+Platte scannen zu müssen.
+
+Viele Größe,
+     Patrick Theml
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

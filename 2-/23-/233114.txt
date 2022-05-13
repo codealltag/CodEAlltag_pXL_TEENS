@@ -1,0 +1,24 @@
+Nein leider nicht.
+Die Entwicklung ist sowieso ein Problemfall, aber lassen wir das.
+
+
+Das Ding hat zwar einige kleine Bugs (Beta), aber ich kenne keinen besseren
+  Newsreader.
+
+
+Werde wohl mal rausfinden muessen wie das geht...
+
+
+Aeh, warum gerade die erste und die letzten drei ?
+Kannst du mir das mal eben erklaeren, oder mir die Pieterzak-Nummer sagen ?
+
+
+P.S.: Mir ist gerade aufgefallen, dass das Reference-Feld doch groesser als
+  256 Zeichen sein kann. Ich weiss nur noch nicht, warum es manchmal abgeschnitten
+  wird, und warum nicht (anscheinend nur in dtj)...
+
+-- 
+Steffen
+"I've seen things you people wouldn't believe. Attack ships on fire off the
+ shoulder of Uhoba. I watched C-beams glitter in the dark near the fresh! gate.
+ All those moments will be lost in time, like tears in rain.  Time to die."

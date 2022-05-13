@@ -1,0 +1,8 @@
+Hatte zwar nie einen C64, aber ich denke da die 1541 einen eigenen 
+Prozessor hatte war das wohl weniger das Problem. Ich vermute eher daß so 
+einige Ungenauigkeiten in der Hardware ausgeglichen werden sollten (beim 
+lesen/schreiben kann man sich ja an den vorhandenen Spuren orientieren, 
+beim formatieren sollten die Köpfe aber genau kalibriert sein).
+Aber wie gesagt, nur eine Vermutung.
+
+Ludger

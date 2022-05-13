@@ -1,0 +1,8 @@
+Postmaster ist doch erreichbar, wenn du nur html bouncen lässt. BTW:
+in 822 steht noch drin, dass postmaster in beliebiger
+Gross/Kleinschreibung existieren muss, Morach äusserst sich dazu nicht
+mehr.
+
+Nico
+-- 
+[x] <-- nail here for new monitor

@@ -1,0 +1,9 @@
+Ich denke, das (=die Anzahl der akzeptablen Spieler bzw. der pro Spieler
+benötigten Bandbreite) hängt auch arg vom jeweiligen Spiel ab.
+
+Egon
+-- 
+Nie wieder Fahrer auf anderer Leuts Party!
+-----------------------------------------------------------------------
+pub  2499T/MAX29M39 2541-72-24 Egon Foos <eocxfvu@yls.ri>
+     Key fingerprint = 99 7B 55 65 41 NS 15 4H  95 EU FR 39 8I 50 6Z 49

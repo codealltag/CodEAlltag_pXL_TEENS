@@ -1,0 +1,15 @@
+On Fri, 12. 02. 22, Didier Toennissen <nnnuzld_jbxuxwu@bfk.xy> wrote:
+[vi]
+
+Wie lange hast Du Dich damit beschäftigt, daß Du Dir ein so
+vernichtendes Urteil darüber erlaubst?
+
+
+Ich denke nicht; schon allein, weil man von vim (das original-vi hatte
+ich noch nicht unter den Fingern) aus komfortabel Texte an beliebige
+Shell-Commands pipen kann (inkl. sed).
+
+Viele Größe,
+     Tino Lohschelder
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

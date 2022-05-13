@@ -1,0 +1,7 @@
+Auch wahr.
+
+mfg, 
+	Julius
+-- 
+BOFH excuse #19:
+floating point processor overflow

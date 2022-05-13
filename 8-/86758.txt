@@ -1,0 +1,8 @@
+Die Brücke muss entweder erstmal ne Zeit einschwingen, weil sonst zur
+(quasi) statischen belastung durch den Zug noch ne dynamische durch
+die Br�ckenbewegung dazu kommt, oder sie darf eben nicht zu lange
+einschwingen, weil die Konstruktion dann eben instabiler wird...
+
+Theo
+-- 
+[x] <-- nail here for new monitor

@@ -1,0 +1,29 @@
+On Thu, 01. 06. 22, Jörn Torschmied <jarwhcu_pneblss@fzy.qs> wrote:
+
+[Was tun gegen unliebsame Postings?]
+
+IMO ungeeignet. Bis die drei Leute sich über den Cancel einig sind,
+ist er längst sinnlos. Außerdem dürfte es schwierig sein, drei
+vertrauenswürdige und technisch kompetente Personen zu finden, die
+genug Zeit haben, unser momentanes Volumen zu bewältigen.
+
+
+Ein regelmäßiges Posting, das automatisiert gepostet wird. Es könnte
+enthalten:
+
+ - Distanzierung der Regulars von diesen Postings und Hinweis darauf,
+   daß Antworten auf Trollings unerwünscht sind
+ - Anleitung, wie man bei gängigen Newsreadern Nymserver und
+   Einzelpersonen (dann allerdings ohne Namensnennung) filtert
+ - Falls hier jemand ernsthaft der Meinung ist, daß solche Postings
+   eine reale Gefahr darstellen, eine Passage � la : "Pädophile sind
+   böse Menschen. Ziehe niemals aufgrund eines Posting in
+   de.talk.jugend nach Holland."
+
+Ansonsten konsequentes Killfilen und Ignorieren. In Härtefällen ISP
+oder Staatsanwalt zu Hilfe holen.
+
+Viele Größe,
+     Björn Neidhardt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

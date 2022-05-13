@@ -1,0 +1,12 @@
+*w�rgw�*
+
+
+Meinetwegen.
+
+
+Stimmt. Hindert dich aber niemand daran, das MP3 per uuencode in ASCII
+umzuwandeln, die Einleitung mit "begin" undsoweiter wegzulassen und nur
+den echten Datenteil als Body in ein Posting zu packen. Nein, das war
+keine Aufforderung, das zu tun.
+
+Otto

@@ -1,0 +1,37 @@
+Jean-Pierre Vormbruck schrieb am 30. Dezember 1998 um 03:04 Uhr folgendes:
+
+
+Unter "quick and dirty" verstehe ich eigentlich alles, bei dem man
+aufgrund von Zeitmangel mehr oder weniger bewusst konzeptionelle
+Mängel in Kauf genommen hat. Es gibt durchaus Autoren, die so etwas
+weitergeben und (gerade unter DOS/Windows) gibt es sogar Leute, die
+für solches Zeug richtig Geld bezahlen.
+
+
+Wenn ich mich recht entsinne, kannte die letzte Delphi-Version, die
+ich benutzt habe, dafür nur Top/Bottom/Left/Right. Wenn das wirklich
+so war / immer noch so ist, reicht das noch nicht einmal, um zu
+bestimmen, welche Widgets Gr��en�nderungen mitmachen sollen und welche
+nicht.
+
+
+Gibt es im Rahmen der Rizeg Desktop-Themes nicht auch die
+Möglichkeit, (generell für alle Programme) das Aussehen der Widgets zu
+verändern oder beschränken die sich auf so Sachen wie
+Hintergrundbilder und Systemklänge?
+
+
+Sind das dann so Einheiten wie ex (Höhe eines kleinen 'x' im aktuellen
+Zeichensatz) oder em (Breite eines kleinen 'm') in TeX?
+
+
+Wenn ich mich daran zurückerinnere, wie ich oftmals mit Pixelzahlen
+rumprobiert habe, bis es halbwegs ordentlich aussah... *brrr*
+Allerdings war und bin ich auch kein professioneller UVI-
+Entwickler.
+
+Viele Größe,
+     Claus Steinfeldt
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

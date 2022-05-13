@@ -1,0 +1,10 @@
+Quoted and corrected. Im Prinzip weiß ich das schon, ich hab meine
+Zeilenlänge auch auf 72 Zeichen eingestellt, aber ich hab noch nicht
+rausgefunden, warum und weshalb das nicht funktioniert.
+
+Jeannine
+
+-- 
+Wenn du nichts Gutes über einen anderen zu sagen weit, sage überhaupt
+nichts.
+Philippinische Weisheit

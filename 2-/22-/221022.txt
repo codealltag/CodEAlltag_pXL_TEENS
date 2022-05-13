@@ -1,0 +1,32 @@
+Sie will jetzt aber Indiana Jones (das alte DOS-Adventure) spielen,
+und eine DOS-Partition hat der Rechner nicht. Sigh. Wahrscheinlich
+mache ich es ihr einfach auf den P100 drauf - sie dürfte das Interesse
+daran sowieso nach spätestens zwei Mal Durchspielen wieder verlieren.
+
+
+Bis Anfang letzter Woche hatte ich davon auch noch keine Ahnung :-)
+
+
+Dürfte tatsächlich noch ein paar Sekunden ausmachen. Ich bin aber
+inzwischen auf die Idee gekommen, den Kernel völlig ohne Module zu
+compilieren und es hat eine Menge gebracht (statt 5 Minuten vor und
+1ö Minuten nach dem Einloggen braucht er jetzt noch 100 bzw. 10
+Sekunden :). Er hat jetzt zwar ein paar kB mehr, dafür fällt aber der
+ganze Verwaltungsaufwand für die Module weg...
+
+
+Genau das habe ich auch getan.
+
+
+Ich ziehe meine News auch meistens gleich nachdem ich den Rechner
+angeschaltet habe. Deshalb lasse ich den News-Expire erst mit einer
+viertel Stunde Verzögerung laufen - es ist sehr selten, daß ich da
+noch nicht fertig bin.
+
+
+Hab's noch nicht gestoppt. Ein paar Minuten, würde ich sagen.
+
+Viele Größe,
+     Tom Baumhauer
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

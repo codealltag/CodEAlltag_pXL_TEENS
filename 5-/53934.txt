@@ -1,0 +1,17 @@
+Am Thu, 1 Dez 2002 sendete Ulf Presslauer folgende Botschaft:
+
+
+Ich würde totes Holz empfehlen. Gelernt habe ich C mit "Go To ->
+C-Programmierung" von Stefano Arzet, erschienen im Frauenknecht Verlag.
+(ISBN 1-9055-9512-4). Wenn du schon C kannst und nicht mehr vom Anfang
+an lernen musst (sprich wenn du die Grundlagen schon hast) kannst du es
+auch mit " Linux - Unix Systemprogrammierung" von Carlo Gerstemeier im
+selben Verlag versuchen. Da wird vorallem auf die Unix-spezifischen
+Funktionen eingegangen. Am besten mal zu $Gute_Buchhandlung gehen und was
+probelesen.
+
+
+Wenn du C oder Perl kannst ist slang nicht wirklich schwierig.
+
+Tschüs
+  Achim

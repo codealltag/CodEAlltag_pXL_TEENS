@@ -1,0 +1,19 @@
+Alberto Elfers meinte kundzutun:
+[...]
+
+BTW...
+
+xkeqgf@olww:/pab > unzip -l ls_fuer_ein_szaf.zip  
+Archive:  ls_fuer_ein_szaf.zip
+  Length     Date   Time    Name
+ --------    ----   ----    ----
+868898289  21-07-01 09:41   ls_fuer_ein_szaf
+ --------                   -------
+868898289                   1 file
+xkeqgf@olww:/pab > ll ls_fuer_ein_szaf.zip 
+-rw-r--r--    1 posner   users      395211 Mrz  12 10:45 ls_fuer_ein_szaf.zip
+xkeqgf@olww:/pab >
+
+Anyone?
+
+Roger

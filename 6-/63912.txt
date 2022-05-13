@@ -1,0 +1,9 @@
+Richtig. Aber nicht mit Salz, das hilft wenig, wenn es dann sofort
+wieder festfriert.
+
+Hannes 
+-- 
+Wie jagt man einen Elefanten - Teil 2:
+C- Programmierer bestimmen zuerst mit sizeof() die nötige Speichermenge
+für einen Elefanten, versuchen diese zu allozieren, vergessen dabei das
+Ergebnis abzuprüfen und schießen dann mit wilden Pointern auf den Elefanten.

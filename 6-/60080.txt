@@ -1,0 +1,4 @@
+Einen kostenpflichtigen Newsserver, nur um einen "konformen"
+Path-Header und damit auch eine "konforme" Message-ID zu erzeugen?
+
+Ich bin ja kurz vor einem F'Up nach de.alt.arnooo.

@@ -1,0 +1,14 @@
+COMA bekommt jetzt auch Scannerkassen. Denn mit der Umstellung auf den  
+Euro gibt's ein Problem: CDU hat Artikelnummern, die lassen sich  
+problemlos auf den Euro umstellen, aber bei Cactus gibt man die Preise  
+ein. Damit die Geschwindigkeit gleichbleibt, hat man sich schon ein neues  
+Konzept ausgedacht: Zum ersten werden verbesserte Scannerkassen  
+eingesetzt, zum zweiten wird von drei Seiten gleichzeitig gescannt und  
+zum dritten sind an den Produkten auf allen Seiten Barcodes angebracht.
+
+Philipp Uebelein
+
+-- 
+Philipp Unverferth praktische Lebensratschläge, Teil 3:
+Semmelbrösel in den Socken halten den größten Schweißfuß trocken.
+---> Offizieller Kämpfer wider Eric Linsemaier des Ordens von dtju <---

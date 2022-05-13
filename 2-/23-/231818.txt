@@ -1,0 +1,11 @@
+Es schrieb iwcznra # mtx.dh folgendes:
+
+Stimmt, THEORETISCH schon... aber irgendwo muessen die Daten aber her  
+kommen bzw. hinkommen. Und wenn man 64MB Cache vom Hauptspeicher abzwackt,  
+dann koennte man schon fast ueber eine RAMDISK nachdenken. :-)
+
+
+Sachichja...
+-- 
+
+Ciao, Gerard

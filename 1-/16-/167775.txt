@@ -1,0 +1,14 @@
+Am Wed, 25. 09. 21 sendete Carsten Tendam folgende Botschaft:
+
+
+Spiegelhauer default ist 30 sek für den writechache. Viel interessanter ist
+aber der cache beim lesen ...
+
+Tschüs
+  Viktor
+
+-- 
+Ja? Na, dann wollen wir mal kurz nach Deinen Schäden schauen... Au weia,
+ein Dachschaden würde ja erst mal das Vorhandensein eines Dachs voraussetzen.
+[Albin Leithäuser in <22m4b3$5xb$2@ehuguus5.onn.kpv-ugfhhqmni.rq>
+zu Edwin Clotten]

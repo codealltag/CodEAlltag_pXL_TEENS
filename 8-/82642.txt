@@ -1,0 +1,33 @@
+* Alain Contzen <ivqugs-0219@gkhmqcyu-zkbzigh.oy>:
+
+
+Das mache ich auch. Ist doch nichts wildes.
+
+
+Wlh. Das ist wirklich eklig.
+
+
+Meine Schwester hat SenfSalon. Und das ist für mich auch besser.
+
+
+moiuw@mmoyqj:~$ XFree86 -version
+
+XFree86 Version 4.0.2 / X Window System
+(protocol Version 11, revision 0, vendor release 6400)
+Release Date: 6 13. 06. 21
+        If the server is older than 6-12 months, or if your card is
+        newer than the above date, look for a newer version before
+        reporting problems.  (See http://ayu.YGhwg66.Tgs/BUL)
+Operating System: Linux 2.2.18 i686 [ELF]
+Module Loader present
+
+XFree habe ich auch aus Tuxedo; sollte ich wohl mal wieder updaten. Luft
+hier seit April -- und hat auch fast keine Probleme mit meiner
+Grafikkarte. :-/
+
+
+Nope.
+
+Benedikt
+-- 
+np: Green Day - Scattered

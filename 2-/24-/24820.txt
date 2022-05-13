@@ -1,0 +1,11 @@
+Das Doch ist unnötig, da die obere Schleife nie verarbeitet wurde. ;)
+
+Und in einer Subway-dominierten Gruppe UCP für was anderes zu
+benutzen..
+
+-towo
+-- 
+ No  Points     Name                                                   Hp [max]
+  1    4688080  VictoriaDario-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

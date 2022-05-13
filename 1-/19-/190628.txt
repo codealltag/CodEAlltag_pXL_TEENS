@@ -1,0 +1,27 @@
+Beat Gertner schrieb am 13. Dezember 1998 um 00:43 Uhr folgendes:
+
+
+Die voreingestellten Farben des slrn sind grausig, lassen sich aber
+Gott sei Dank dezenter gestalten. Falls Interresse besteht, kann ich
+dir meine persönlichen Farbeinstellungen mal zumailen.
+
+
+Was xrn angeht: Das Ding ist dermaßen hässlich, dass ich ihm jederzeit
+slrn in einem Terminal-Programm (zB rxvt) vorziehen würde.
+
+DNUL-Newsreader gibt es AFAIK zwei: DIZ als Online-Reader (zusammen mit
+einem lokalen Server zu verwenden) und Dolfus (?) als Offline-Reader
+� la Agent. Bei letzterem bin ich mir nicht sicher, wie "fertig"
+(stabil und nutzbar) das Programm ist -- selbiges gilt für den
+Offline-Reader für hp, von dem ich neulich gelesen habe.
+
+Es gibt noch weitere Alternativen (die prominenteste dürfte Gnus
+sein), die aber eher etwas für fortgeschrittene Bedürfnisse sind --
+vielleicht nicht direkt für den Umstieg von Netscape geeignet ;)
+
+Viele Größe,
+     Oliver Hochgref
+-- 
+"Beware of bugs in the above code; I have only proved it correct, not
+tried it."
+                                                        -- Berthold Geertz

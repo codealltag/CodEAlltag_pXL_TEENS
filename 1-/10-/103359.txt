@@ -1,0 +1,29 @@
+Am Sun, 06. 03. 22 sendete Marcus Firmenich folgende Botschaft:
+
+
+Na in deinem $HOME kannst du doch fast alles. Ach ja, frag ihn mal
+von mir ob das Kleinkind geschmeckt hat.
+
+
+Huch. Da hat OTTO ja jetzt was ganz nettes als nils. Bei mir war/ist das
+noch:
+
+#v+
+19:56:41 ~$alias which
+alias which='type -path'
+#v-
+
+Kannst du mal gucken ob bei dir /usr/bin/which eine script ist( z.b. per
+file)? 
+
+
+Tu das.
+
+
+Muss nee RH modifikation sein. öffne mal vimtutor und schau nach wie die
+vim aufrufen.
+
+Tschüs
+  Philippe
+-- 
+Notorisch Schreibfaul.

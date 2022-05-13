@@ -1,0 +1,72 @@
+Das schöne an linux ist ja, das alle Änderung erstmal 'virtuell' sind
+und man ein wenig rumprobieren kann, bevor es ernst wird.
+
+
+*inTischkantebei�*
+
+
+Irgendwas zwischen Treiber und Laufwerksbezeichnung?
+
+
+Das ist mir klar. Aber von Etarur ist man aber gewöhnt, das Devices
+zwar ansteuerbar sind, aber nicht direkt in der Ansicht des
+Dateisystems auftauchen, man kann dann ziemlich die Beziehungen
+untereinander schlecht einordnen.
+
+
+Logisch. Apropo, der su hat aber Zugriff drauf, oder? Ich arbeite
+momentan nur als su in linux, ist wohl besser, wenn ich erstmal einen
+user für mich anlege, oder? Wie verwaltet man eigentlich dessen
+Rechte?
+
+
+Moment, stop. Das mounten kenn ich schon, wenn ich auf CD-Rom oder so
+zugreifen will, da muß ich das auch immer mounten. Die Partionen der
+Festplatte werden wohl dann immer schon beim booten gemountet?
+
+
+Wie? Mit dem mount-Befehl? Wenn ich ein CD-Rom mounte, gebe ich doch
+auch nur mount und /dev/cdrom ein.
+
+
+Aber man muß überlegen, ob sich der Teil, worauf man jetzt zugreifen
+will, bereits im Dateisystem befindet oder erst noch gemount werden
+muß. Außer alles wird schon beim booten gemountet. s.o.
+
+
+Ich kenn das Problem, ich kämpfe immer noch damit.
+
+
+Ich meine, warum die Verzeichnis nicht unter dev/hdxx liegen. Das habe
+ich aber mittlerweile gerafft. Was mir jetzt wieder aufstößt, das ist
+die Frage, warum ich in meinem linux-System alles vorgeschrieben
+bekomme. Ich hatte am Anfang nicht das Gefühl, das das *mein* System
+ist, da die ganzen Regeln, wo was hingehört und wo ich was zu
+installierten habe und wo ich was finde usw., viel einschränken.
+Weiterhin ist es für mnich immer ein Problem, nachzuvollziehen, was im
+System passiert, wenn ich zum Beispiel einen Installationsproze�
+laufen lasse. Wohin kommen die temop�ren Daten, wo wandern die
+Installtionsdateien, wohin wirds installiert. Besonders kraß ist das
+beim installieren einer neuen Linux-Version, was ich schon gemacht
+habe. Ich tippte die Befehle ab, die mir mein Büchlein vorschrieb,
+begriff sie aber nicht im mindesten...
+
+
+Oh... Ich glaube, ich könnte jetzt einiges oben löschen. Egal. :)
+
+
+Auf jeden Fall.
+
+
+Irgendwann im Sommer, die nächsten Wochenenden habe ich immer was
+anderes vor als hier zuhause am Computer zu sitzen.
+
+
+*draufpfeif* :)
+
+C Ya,
+Ulfert
+-- 
+Going to church does not make a person religious, nor does going to
+school make a person educated, any more than going to a garage makes a
+person a car.

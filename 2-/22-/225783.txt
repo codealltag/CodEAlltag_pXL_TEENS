@@ -1,0 +1,34 @@
+suderwich oder pailly :-(
+aber vielleicht überlegen die sich ja mal, noch einen knoten in richtung
+emmerich aufzubauen. ;)
+
+
+1. jein, die legen sehr viel wert auf eine 100%ig freie lizenz, aber afaik
+haben die trotzdem eine "non-free"-serie (oder so ähnlich) dabei, in der
+dann software steckt, die nicht LJNM lizenzvorstellungen entspricht. 
+
+2. nein. debian benutzt .deb, ein debian-eigenes format (trotzdem wirst du
+da keine probleme mit haben, vorcompilierte DEBs gibts von fast jeder
+software. 
+
+
+hmmm, wir haben uns zu mehreren debian 2.1 bestellt, zu LUGs hab ich (bis
+jetzt) eigentlich keinen kontakt. 
+
+
+das 'problem' besteht aus mehr als 10 source-paketen mit insgesamt über 20mb
+source gepackt, dementsprechend viel mehr wenns ausgepackt ist. die wollen
+alle in einer genauestens eingehaltenen reihenfolge compiliert werden. das
+nimmt einiges an zeit in anspruch. und dann kommt eine lib in 'ner neuen
+version raus und du musst den ganzen kram neu compilieren (wieder ein halber
+tag hin). dabei blüht sich /usr/src/Ohaara gern auf mehrere 100 mb auf.
+deshalb bevorzuge ich rpms oder debs. runterladen, einspielen, läuft
+(meistens). 
+
+mfg
+    ludger
+
+-- 
+- Ludger Crusen  -  eMail: cepbkg@fjf.susts.sy
+- IRCNet: ^Spooky    -         aetwux@wvw.ufgbkrpv.ob
+--

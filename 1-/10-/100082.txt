@@ -1,0 +1,5 @@
+[...]
+
+
+Bei den mount-Optionen für /mnt/c, /mnt/d und /mnt/e "umask=0000"
+vergessen ...

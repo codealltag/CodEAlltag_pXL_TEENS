@@ -1,0 +1,10 @@
+* Manuel Heikamp <pbyo@ressaika.qd>:
+
+
+Zumindest für Zeilen im Body scheint es die zu geben (1000?); analog
+dazu sollte es im Header aussehen. Mein Hamster hat deswegen gestern ein
+Posting abgelehnt. :-/
+
+Dirk
+-- 
+cross veinless

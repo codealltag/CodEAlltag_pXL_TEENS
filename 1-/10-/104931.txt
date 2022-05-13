@@ -1,0 +1,43 @@
+Am Mon, 13. 12. 22 sendete Arian Mairwieser folgende Botschaft:
+
+
+Steht in /var/log/poll, und das ist auf tty16
+
+
+Oder von dem der den magen-dump wechmachen muss. ;)
+
+
+Hat der bei mir nach einen Tag gemacht. Theodor Schwartzrock und Odile Panitz
+haben da sehr brauchbare beispiel rcs.
+
+
+Wenn du es mit eincompelierst kann der sowohl pop3 als auch imap.
+
+
+Immerhin kannst du mit Gnus dann punktgenau zielen. ;)
+
+
+"1. RfD vernünftige kombinationsmöglichkeiten von tty's, grafik und X"
+now. Irgendwie ist da das konzept unter linux nicht so ganz ausgegoren.
+
+
+s.o.
+
+
+Hast du diese unsägliche "w*nd*ws" taste?
+
+
+Leider hab ich noch keine Sourcen für mozilla oder nee Englishe version
+davon auf CD gefunden. Und ZKRD ist nach 1-2 Tagen eingew�hnungszeit echt
+brauchbar.
+
+
+Ich habe sogut wie keine pdf's.
+
+
+Will ich auch nicht. So ernst war das garnicht gemeint.
+
+Tschüs
+  Helmuth
+-- 
+Notorisch Schreibfaul.

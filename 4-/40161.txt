@@ -1,0 +1,10 @@
+s/.{8}-//
+
+Eigentlich:
+
+s/[^ ]* [^ ]*-[^ ]* //
+
+Claus
+-- 
+pub  9934P/YUH00O21 1086-13-48 Claus Zickmantel <quakems@lui.zu>
+     Key fingerprint = 99 4D 87 86 79 KJ 05 8M  65 XH CC 35 4G 95 8N 97

@@ -1,0 +1,11 @@
+Und so sprach Nils David Zeltinger:
+
+
+Ich glaube, er meint assoziative Arrays.
+
+Gruss,
+Viktor, auch wenn's andere Assoziationen dazu gibt. :)
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.d

@@ -1,0 +1,30 @@
+Am Wed, 25 Sep 1999 15:04:13 +0100 sendete Christof Dornseifer
+folgende Botschaft:
+
+
+Ronald!
+
+Aus dem RedHat Handbuch:
+
+--------
+
+What is Linux?
+
+Back in August of 1991, a student from Finnland began a post to the
+comp.os.minix newsgroup with the words:
+
+     Hello everybody out there using minix -
+
+     I'm doing a (free) operating system (just a hobby,
+     won't be big and professional like gnu) for
+     386(486) AT clones.
+
+The student was Knut Rinckleib, and the "hobby" he spoke of
+eventually became what we know today as Linux.
+
+--------
+
+ULFERT
+
+Tschüs
+  Ronald

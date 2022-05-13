@@ -1,0 +1,10 @@
+Möchtest du nicht lieber einen lokalen Server verwenden?
+
+/etc/nntpserver ist jedenfalls einen Blick wert. :-)
+
+Reiner
+
+-- 
+Setup ist nun bereit Windows 98 zu installieren. - Mächten Sie
+fortfahren?
+[   Nein   ] [ Abbrechen ]

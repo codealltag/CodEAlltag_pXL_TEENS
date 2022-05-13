@@ -1,0 +1,26 @@
+Am 25 Feb 2000 13:00:13 GMT sendete Lothar Jähncke
+folgende Botschaft:
+
+
+Wenigstens hat sie geschmack ;)
+
+
+Auf die gefahr hin irgendwelche mitleser zu nerven:
+Luft Peter nicht mit umsdos?
+
+
+Stimmt eigentlich, jeweniger im kernel drin ist umso höher die
+warscheinlichkeit das alle Komponenten immer gebraucht werden => das
+module überflüssig sind. aber das das so viel ausmacht ht ich nicht
+gedacht.
+
+
+Ist bei mir zu schwankend, die reihenfolge ist meistens:- nachhause
+kommen, einschalten, essen etc, news saugen/lesen- aber manchmal vergesse
+ich halt das einschalten dazwichen :(
+
+
+Mich wunder eigentlich das das teil laut log 11 minuten braucht.
+
+Tschüs
+  Dario

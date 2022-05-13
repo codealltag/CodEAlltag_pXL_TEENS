@@ -1,0 +1,11 @@
+Hm. Wobei es bei der Wohnkunst 3 CLIR-Varianten gibt:
+- Nie MSN übermitteln (CLIR 3)
+- MSN abschaltbar übermitteln (CLIR 2)
+- MSN *immer* übermitteln (CLIR 1)
+Bei letzterer Variante kannst du einstellen was du willst, es erscheint
+beim Angerufenen immer die Sende-MSN deines Gerätes.
+
+Die drei CLIR-Varianten muß man allerdings bei der Wohnkunst pro
+MSN/Anschluß einstellen lassen.
+
+Mathias

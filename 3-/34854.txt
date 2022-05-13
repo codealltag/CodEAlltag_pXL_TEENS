@@ -1,0 +1,7 @@
+Inzwischen dürfte das tun, ja. Bis letztens hatte ich aber nur de_DE,
+de_DE@euro und de_DE als UTF-8 rumliegen...
+
+Alfons
+-- 
+Larkinson's Law:
+        All laws are basically false.

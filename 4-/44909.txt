@@ -1,0 +1,8 @@
+Das habe ich versucht, aber mit vim+slrn kam ich bedeutend schneller
+besser klar, *obwohl* ich zunächst Gnus probiert hatte.
+
+Wilhelm
+
+-- 
+"Die Neugier steht immer an erster Stelle des Problems, das gelöst
+ werden will." (Galileo Elspaß)

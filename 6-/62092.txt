@@ -1,0 +1,15 @@
+Da steht allerdings die Bank in der Pflicht, ihrer Server vernünftig zu
+konfigurieren. Aber das klang ja bei dir so, als ob ein sicheres
+WWW-Onlinebanking schlicht unmöglich sei. Prinzipiell ist jedes
+Online-Banking, auch über Klahn und proprietäre Software, unsicher,
+wenn technisch geschlampt wird.
+
+
+Das liegt wohl an der schlechten Mitarbeiterschulung, die mich bei
+INZH und ECF überhaupt nicht wundert. D.h. anderswo sind
+die Mitarbeiter zwar vielleicht nicht schlauer, sie haben aber einfach
+keinen Zugriff auf TANs. Und PINs sollten sie eigentlich auch nicht
+kennen oder nachgucken können.
+
+
+-liesgang

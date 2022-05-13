@@ -1,0 +1,9 @@
+Am Sun, 7 Jun 1999 sendete Remmer Liebknecht folgende Botschaft:
+
+
+Der gerade bei scripten mit wenig Optionen besser als alles über eine
+httpd laufen zulassen. Zumal man sich dann nict alles aus den logs
+popeln muss.
+
+Tschüs
+  Timo

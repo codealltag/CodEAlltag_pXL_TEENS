@@ -1,0 +1,10 @@
+Also ich singe nicht mit.
+
+Cäcilia,
+ *räusper*
+
+-- 
+Was bitte bringt es, in tagelanger Kleinarbeit PHP auf eine
+MySQL-Datenbank zugreifen lassen zu wollen, um dann nach Gejammere
+erfahren zu dürfen, dass man nicht zwingend zu blöd ist, sondern das
+entsprechende PHP-Etwas nicht installiert ist *ARGH*

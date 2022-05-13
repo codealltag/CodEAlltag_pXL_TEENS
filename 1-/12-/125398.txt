@@ -1,0 +1,9 @@
+Vielleicht vergessen, eine zu ladende URL als Parameter zu übergeben?
+
+Nimm aber lieber links anstatt lynx. Der kann wenigstens Tabellen
+darstellen.
+
+Manfred
+
+-- 
+Nieder mit dem Weihnachtsmann!

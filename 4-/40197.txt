@@ -1,0 +1,9 @@
+* Matthias Fehrlage <sva@xbkhi.cvm>:
+
+
+Ich dachte, minimale Kodierung gäbe es nur im Header -- ich sehe kein
+großes Problem darin, -15 zu verwenden.
+
+Vittorio
+-- 
+�

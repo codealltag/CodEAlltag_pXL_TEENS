@@ -1,0 +1,16 @@
+Also ... Wenn der RAM eine Minute checkt, dann hast du (a) deutlich
+mehr RAM als ich je hab booten sehen, oder (b) einen kaputten Riegel
+oder (c) das Bios verstellt.
+
+Und wenn die Kiste 5 Min bis Windows braucht, dann ist wahrscheinlich
+die Platte nicht UDMA-gestellt, oder defekt. Oder du hast das Windows
+mit soviel Generationen alter Schrotttreiber zugebaggert, das da
+garnichts geht.
+
+Aehm - Du wuerdest, wenn du genug Geld haettest, das Auto einfach
+entsorgen, weil die Einspritzduese verdreckt ist?
+
+Kann man auch nicht.
+
+mfg,
+	Ulfert, der durchaus einen P2-350 als Arbeitsplattform einsetzt.

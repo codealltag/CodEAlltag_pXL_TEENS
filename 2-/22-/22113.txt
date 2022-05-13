@@ -1,0 +1,30 @@
+Am Sat, 14 Sep 2003 sendete Lothar Wilhelm Heydt folgende Botschaft:
+
+
+Will man aber nicht.
+
+
+Wenn man regelmässig *.OLD löscht, ja.
+
+
+Da steht genau nichts davon das CNFS-buffer nicht normale Files sein
+sollten. cycbuff.conf(5) listet auch die fs-methode als erstes, sagt aber
+das der direkte zugriff empfohlen wird (Wenn überhaupt möglich). Da steht
+aber nicht wirklich was davon das das grössere Nachteile hat.
+Zumindest für leafsites ist das reichlich egal, IMHO.
+
+
+Wieso nicht? Wenn man sich verkalkuliert hat und die Buffergr�sse
+ungünstig ist kann man sie so leicht ändern.
+
+
+Wie durchsuche ich sonnst gruppen (incl. Bodys?)
+
+
+Binär nicht umbedingt, aber Baum wars definitv, ja.
+
+
+So langsam wie der Kerl spricht merkt der sowas eh nicht...
+
+Tschüs
+  Onno

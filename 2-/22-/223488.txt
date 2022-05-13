@@ -1,0 +1,2 @@
+Da Lagerverkauf im 32-bit Protected Mode läuft und somit einiges über den v86 
+Modus simulieren muß könnte ich mir das gut vorstellen.

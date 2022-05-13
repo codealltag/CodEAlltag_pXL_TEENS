@@ -1,0 +1,9 @@
+Am Mon, 26 Jan 2004 sendete Severin Ingmar Buchberger folgende Botschaft:
+
+
+Flachser Fehler. Um die Farbe des Stromes herauszukriegen musst du das
+Bauteil lat�rnich zu dem Zeitpunkt betrachten an dem der grösste Strom
+fliesst.
+
+Tschüs
+  Philippe

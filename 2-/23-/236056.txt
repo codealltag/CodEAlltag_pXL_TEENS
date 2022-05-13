@@ -1,0 +1,14 @@
+Am Sun, 3 Jan 1998 16:47:42 +0100 sendete Eckhard Aichel
+folgende Botschaft:
+
+
+Brr Wie umständlich. Linux im BootEprom und programme auf Zip oder
+noch besser per nfs.
+
+Tschüs
+  Friedrich
+
+-- 
+Aus besonderem Anlass ändern wir unser Program:
+Statt der Doku "Der Xte Absturz von Windoof95" sehen sie:
+"Ein kleiner Pinguin auf der Reise durch die grosse Datenwelt"

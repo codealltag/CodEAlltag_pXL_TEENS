@@ -1,0 +1,12 @@
+Hartwig Würtenberg schrieb am 24. August 2000 um 13:08 Uhr folgendes:
+[...]
+
+Dem ist aber nicht so. Unsere Patches beheben die Programmfehler
+selbst, Korrnews doktort an den Symptomen "fremder" Bugs herum. Die
+diversen UKNI-Newsreader selbst werden durch Korrnews nicht besser,
+slrn durch slrn-plus schon.
+
+Viele Größe,
+     Pasquale Werlen
+-- 
+fortune: cpu time/usefulness ratio too high -- core dumped.

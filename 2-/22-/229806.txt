@@ -1,0 +1,14 @@
+Oops... naja...
+
+
+Man kann natürlich auch >8-Bit-Color-Bilder zu GIF konvertieren, und das
+IST dann ein Datenverlust.
+BTW, gab es nicht so 'nen neuen Standart (GIF-like), verlustfreie
+Komprimierung mit TrueColor?
+
+Gruß,
+
+Uwe
+-- 
+"There's a sucker born every minute."
+(CORNELIUS Lechtenbrink)

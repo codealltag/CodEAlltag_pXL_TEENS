@@ -1,0 +1,12 @@
+1. Aufräumen.
+2. Die Sources von: XFree-4.2.0/4.2.1, INN, slrn-0.9.4.x, xine, mplayer,
+vpnclient, Gieray-Treiber, perl-5.8.0, usw. Kurz: alles, was an meinem
+System selbstgebaut war, zumindestens die Sources. Alles in allem ca.
+1.2 gb sources.
+
+Ach was. Alles neu hat auch was.
+mfg, 
+	Jean-Pierre
+-- 
+BOFH excuse #70:
+nesting roaches shorted out the ether cable

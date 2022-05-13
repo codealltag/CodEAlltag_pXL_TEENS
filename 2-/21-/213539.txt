@@ -1,0 +1,22 @@
+Das sowieso.
+
+[Neue Syntax in Konfig-Datei]
+
+Und? Sollte ich die Priorität auf meiner todo-Liste erhöhen? :-)
+
+
+Nun ja, so etwas ist nie ganz auszuschließen. Wichtig ist eben, daß
+solche Sachen *umgehend* behoben werden, sobald sie bekannt sind.
+
+
+Ich meinte, daß es einem bei beidem passieren kann, daß man von
+außerhalb die Platte vollgemüllt bekommt, wenn man nicht aufpaßt.
+
+
+Ach so. Nein, vorerst habe ich mich mit dem Sourcenbaum des Kernels
+zufrieden gegeben.
+
+Viele Größe,
+     Sébastien Pointmayer
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

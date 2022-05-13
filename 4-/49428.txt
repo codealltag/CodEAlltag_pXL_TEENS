@@ -1,0 +1,5 @@
+*grybel* Soll ich versuchen, den 386 hier wieder inBetrieb zu nehmen?
+Die HD-Controllerkarte und die MFM-Festplatten (1*40, 1*80 MB) müßte ich
+noch haben, ebenso wie das 5,25"-FDD...
+
+Pascal

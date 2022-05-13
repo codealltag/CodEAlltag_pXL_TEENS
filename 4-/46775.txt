@@ -1,0 +1,14 @@
+Hallo Kai
+
+Quote [ Kai Camerer * Thu, 28 Dez 2002 14:16:25 +0200 ]
+
+
+Das war bestimmt der entscheidenede Grund. :-)
+
+Best regards,
+ Ewald
+
+-- 
+Fachbegriffe der Informatik einfach erklärt
+290: libc 
+     Servicepack für C (Gerard Zukschwerdt)

@@ -1,0 +1,10 @@
+Mirko 'sSXP' Jerges <qGMP@pmt.faw> schrieb in im Newsbeitrag:
+05-03-00.23-45-04.dtj.1441@ssxp.de...
+
+Es gibt eigentlich keinen vernünftigen Grund, Telnet anzulassen. AFAIK
+gibt's auf jeder Plattform SSH Clients...
+
+
+Klar kann man's eingehen. Man könnte es auch bei der Administration von
+Steigbügel eingehen. Die Frage ist aber viel eher, ob man das verantworten
+will.

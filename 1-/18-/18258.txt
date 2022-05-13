@@ -1,0 +1,7 @@
+Oh ja.
+
+mfg, 
+	Ullrich
+-- 
+BOFH excuse #19:
+floating point processor overflow

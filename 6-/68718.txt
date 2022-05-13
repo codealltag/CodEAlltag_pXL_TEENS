@@ -1,0 +1,11 @@
+Hm? Ich meine doch den Stern hinter den ausführbaren Dateien z.B., mit
+dem ls mir sagen will, dass sie ausführbar sind, obwohl ich das auch
+an der Farbgebung erkennen könnte.
+
+
+Bh. Viel zu viele, oftmals unnötige, Informationen.
+
+David
+
+-- 
+cat .signature

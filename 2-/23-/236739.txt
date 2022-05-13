@@ -1,0 +1,5 @@
+Es anhand des Files zu erkennen ist kein Problem, mir würde auch ein Hex-
+Dump reichen um das rauszubekommen. Ich meinte den laufenden Betrieb.
+
+-- 
+Bitte benutzt meine neue Adresse zmveeay@vjc.sh

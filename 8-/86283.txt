@@ -1,0 +1,6 @@
+Ja, andere Zeigegeräte müßten auch gehen.
+
+
+gpm krallt sich /dev/mouse oder /dev/psaux oder was auch immer, wertet
+diese Daten aus, sofern eine Konsole aktiv ist, und leitet sie für den
+X-Server nach /dev/gpmdata weiter.

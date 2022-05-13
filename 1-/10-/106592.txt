@@ -1,0 +1,11 @@
+* Fred Groß-Hardt <ooeyvfd810583@owlhkf.nn-m.fe>:
+
+
+Sehr hübsch gelöst. :)
+
+Nur wofür ist das 'next i' da? Braucht man das, damit die for-Schleife
+so oft aufgerufen wird, bis die Bedingung erfüllt ist?
+
+Meinhard
+-- 
+cross veinless

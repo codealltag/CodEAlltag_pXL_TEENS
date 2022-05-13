@@ -1,0 +1,8 @@
+[dsf 9.3]
+
+Nick
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+173: Ada
+       Ada ist der gelungene Versuch, die Schwächen von C, Pascal und
+       Fortran in einer Sprache zu vereinigen. (Rupert Baukmann)

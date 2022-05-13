@@ -1,0 +1,23 @@
+Und so sprach Sophie:
+
+
+Ja, klar. - Trotzdem hege ich die Befuerchtung, dass mir irgendwann,
+auf die eine oder andere Art jede Beschaeftigung auf die Nerven geht,
+wenn's nicht grad Ausschlafen ist. ;-) Insofern gebe ich mich auch mit
+einem Kompromiss zufrieden, that's life.
+
+[Telephobie]
+
+*g* Ich habs frueher auch immer vor mir hergeschoben. Ein Trick, der
+bei mir funktioniert hat: Beim Telefonieren einfach nur halb
+bei der Sache sein, mit Absicht. Erzwungene coolness, sozusagen. :)
+
+Allerdings hab ich mich inzwischen eh ans Telefonieren gewoehnt, aber
+das hat wieder andere Gruende. :-)
+
+Gruss,
+Eberhard.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.u

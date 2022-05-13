@@ -1,0 +1,97 @@
+Unter Unix geht das auch ganz gut, Text wird auch gerne mit Copy und
+Paste umhergeschoben. (Wenn man auch nicht immer dieselben Tastenkürzeln
+hat. - Z.b. Netscape Copy : Alt + c, Paste Alt + v;  Emacs Copy Meta - w
+und Paste Ctrl - y)
+
+
+Ja, das stimmt, dafür hab ich ja eps. (enhanced post script)
+
+
+Man muss ein Handbuch kaufen, das ist alles. Spätestens nach drei Wochen
+bist du so weit, dass du deine Doktor - Arbeit schreiben kannst. (Oder
+eben Diplomarbeit.) Hast du schon mal ein Word Document mit 160 Seiten
+und 40 Bildern bearbeitet? Da lobe ich mit LaTeX.
+
+Die Dokumentvorlage von LaTeX ist standartm��ig sehr gut durchdacht. Das
+heißt, man versucht die 80 Zeichen pro Zeile einzuhalten, etc. Wenn du
+da was verändern willst, kannst du das einfach am begin des Documentes
+machen oder in einem Style - File. Ist echt nicht schwer, mit dem
+richtigen Handbuch.
+
+
+Da ist normalerweise schon ein bischen was zu lesen, aber nicht
+besonders schwer. LaTeX hätte normalerweise Din - Briefe, nach der norm
+von 1978 und noch irgendwas, unterscheidet auch zwischen verschiedenen
+DIN - Normen. Du brauchst später nur noch Absender - Adresse und
+Empfänger Definieren usw. Dass diese dann an der Richtigen Stelle vom
+Papier stehen, darum kümmert sich schon LaTeX und berücksichtigt die
+Norm.
+
+Wenn du dich mal mit dem Creieren von Style - Files auseinandergesetzt
+hast, kannst du auch problemlos deine eigenen Normen schaffen.
+
+
+Wenn jemand LaTeX kennt, lassen sie dich das sicher auch so
+machen. Spätestens, wenn du ihnen dann mal ein LaTeX Document
+präsentiert hast, werden sie von dem Wissenschaftlichen aussehen der
+Arbeit beeindruckt sein. (Man lege ein LaTeX und ein Word Document
+nebeneinander und staune.)
+
+
+Grundsätzlich richtig. Bei mir gings soweit, dass ich begann mich dafür
+zu interessierten. (J, schau, sogar in der Zeitung gibt es diese
+Normen. Zumbeispiel, dass bei ff das erste f oben in das zweite
+hineinhängt, oder auch dass ft das f in das t schaut, LaTeX macht
+das. Beim englischen Satz lässt man zum Beispiel nach einem Punkt der
+eine Abkürzung beendet weniger abstand zum nächsten Zeichen als ein
+Punkt der einen Satz beendet, wusstest du das?) Ja, LaTeX schaut auf
+ziehmlich alles. 
+
+Den grüßen Vorteil hast du, wenn du Formeln brauchst, anstatt dir vom
+Malleladen Formeleditor eine Sehnenscheidenentzündung von der Maus holst,
+tippst du hier einfach die Formel mit ein Paar Funktionen, die so
+logisch sind, dass man sie nach dem ersten mal anwenden auswendig kann,
+einfach ein. Z.b. 
+
+\[ \sum_{i = 1}^{n}{\frac{a}{b_n}} \]
+
+Macht ein schönes  
+
+     n      a
+     E     ---                E... steht für Summe
+    i=1     b
+             n
+
+
+Ach, ich bringe das hier einfach nicht annähernd hin.
+
+
+Ich auch nicht, aber eben Datenanalyse - Statistik. 
+
+
+Nein. Ich fahre auch die anderen Dinge unter X. Theoretisch kannst du
+auch EORM auf der Console über die Scriptsprache fahren, aber was würde
+das für einen Sinn machen, ein Bild zu verändern und es sich gar nicht
+ansehen dabei?
+
+Apropo X - Es gibt da einen 3-D window manager, der braucht allerdings
+schon was besseres als meinen p166, aber die Screenshots sind cool.
+
+http://hsp.0akr.xgk/
+
+
+Naja, stimmt, aber dazu gibts schon ganz viele Konfigurationsbeispiele
+im Netz, dass es nicht so schwer ist. Auch gnus ist da so toll. Ich habe
+den jetzt so eingestellt, dass automatisch alle Leute, die mir Private
+Mails schreiben, in mein Adressbuch aufgenommen werden, sogar welche
+Emailsoftware sie verwenden speichere ich da....
+
+
+Baba,
+Dominik
+
+-- 
+.. and then I was asked:
+"Would you like to dance with a little Dragon?"
+Without any thoughts I said:
+"Yes, I would."

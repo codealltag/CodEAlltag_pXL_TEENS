@@ -1,0 +1,11 @@
+Am Mon, 8 Sep 2000 sendete Michel Oberste-Schemmann folgende Botschaft:
+
+
+Ist die besser als die Version die ich hier hatte? Da ist ständig der
+Zeichensatz spontan gewechselt wenn man ein anderes Fenster benutzt hat.
+Da ist mit putty doch lieber.
+
+Tschüs
+  Daniel
+-- 
+Notorisch Schreibfaul.

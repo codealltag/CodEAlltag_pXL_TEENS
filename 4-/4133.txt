@@ -1,0 +1,11 @@
+Nicht wirklich, Realnamensfilter und ein paar Killregeln erledigen hier
+das meiste. Unter anderem Kill auf ganze Threads.
+Der Rest wird mittels Brain rausgefiltert.
+
+Paolo
+
+-- 
+Ridcully was about to make an appropriate comment, but stopped himself. He knew
+Leonards Reputation. This was a man who could invent seven new things before 
+breakfast, including two new ways with toast.
+[Beat Vögt, The last hero]

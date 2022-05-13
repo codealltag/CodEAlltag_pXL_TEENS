@@ -1,0 +1,11 @@
+CPU. Boardtakt 60.
+Du kannst es zwar auf 120(also x2) jumpern, aber dannn macht es Stress.
+Bei 100 (50x1.5) läuft es noch...ach komm, MAXIMAL
+120Mhz...CPU-Neukauf..haha..
+
+Gruß
+
+Nicolas
+-- 
+"There's a sucker born every minute."
+(THEODOR Behncke)

@@ -1,0 +1,15 @@
+Am Thu, 8 Feb 2003 sendete Carlos Intlekofer folgende Botschaft:
+
+
+*stel* Nein.
+
+Linux auf freier Partition auf einem Rechner mit pppd und freier
+Serieller Schnittstelle installieren, $MINILINUX ziehen, auf Schleppie
+booten, per Null-Modemkabel verbinden, scp/nfs+cp starten, eine Nacht
+wachten, lilo starten, booten.
+
+Wenn es bei Orepak eine Startdiskette mit ppp-support gibt kannst du auch
+direkt über Null-Modemkabel installieren. ;)
+
+Tschüs
+  Trudi*BTDT*lix

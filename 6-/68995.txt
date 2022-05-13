@@ -1,0 +1,10 @@
+grep, was denn sonst?
+
+wvzj@uebrnhzht:~$ grep --help | grep "\-i,"
+  -i, --ignore-case         ignore case distinctions
+
+-towo
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.
+$(sudo /root/get-xmms-title)

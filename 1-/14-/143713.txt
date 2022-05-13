@@ -1,0 +1,11 @@
+Hmm... ein Perl-Script würde sicherlich auch funktionieren. Es müßte nur  
+eingehende News auf bestimmte Schlüsselwörter scannen und gegebenenfalls  
+eine bestimmte Headerzeile einfügen sowie bei ausgehenden News den  
+Newsreader-Header austauschen...
+
+Leo Rosskopp
+
+-- 
+Der Kommunismus ist NICHT an allem Übel der Welt schuld!
+                                             E-Mail: xayhtg@mvippwefkj.fp
+---> Offizieller Kämpfer wider Hinrich Isenhardt des Ordens von dtju <---

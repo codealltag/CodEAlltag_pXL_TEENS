@@ -1,0 +1,39 @@
+Solches tippte Henry Unterberg:
+
+X funktioniert hier erstaunlich schmerzfrei und out of the box. Warum
+wollte ich mich erneut mit einem Framebufferdevice beschäftigen von
+dem ich, außer, dass es mir schon mal um die Ohren geflogen ist, noch
+keine Resultate gesehen habe?
+
+
+Mag sein, dass imake stinkt, Probleme hat es mir noch nicht gemacht.
+
+
+Du bist entschuldigt ;-)
+
+
+Ich sehe, wir haben andere Anwendungsfälle.
+
+[...]
+
+[ ] Du warst schon mal mit einer Horde BWLer auf $Messe.
+(Qra Fgevpx hz qra Unyf avzzg zna qn tnam servjvyyvt.)
+
+[...]
+
+Gut, dann kann ich das bei Gelegenheit ja mal ins Spiel bringen.  Wir
+fahren momentan "Traffic-Shaping" indem man auf den Hub auf 10
+MBit/Halfduplex festnagelt (Kollisionsanteil seitdem zwischen 1-10%,
+vorher: 0).  Das hindert zwar irgendwelche merkbefreite Idioten nicht
+daran, sich munter mit Phantasie-IPs an den Limits vorbeizumogeln und
+intern Gigabytes zu managen, dafür liegt die Verfügbarkeit des Netzes
+für die anderen etwa in der Größenordnung der einer
+JIZE-Installation unter großer Last. Kommentar "mal schauen" und
+"wir kommen gut klar".
+
+Matt'nicht, dass man nicht schon vor Jahren Hilfe angeboten hätte'has
+-- 
+Udo Seifert -> <GPG-Key:http://cap.cbvkubak-gbysppk.uu/dzf.kacdp>
+Whatever that hurts -----> <http://cqt.zobqvevf-oqtebjv.qe/bnhoz.yzv5>
+----------> Wortschatz-Lexikon: <URL:http://lxajygibjq.ufb-owfjrhf.nz>
+<URL:http://kqsaysb.mdg-fepynpr.sa>   <URL:http://jxxa.wde-rnrrfcj.nj>

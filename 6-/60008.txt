@@ -1,0 +1,23 @@
+Sag ich doch.
+
+
+Anlage ist hier über ein 10 m Chinchkabel mit dem Ausgang der Soundkarte
+verbunden. Störgeräusche nur durch das Antennenkabel.
+
+
+*Argh* bin ich der 3V Starkstromelektriker, oder du?
+
+
+Ja, ich hab Störgeräusche, die sich aber bei Bedarf durch abtrennen des
+Antennenkabels abschalten lassen.
+
+
+kleine? Meine Kenntnisse bzgl. Programmierung gehen über Basic, etwas
+Profan und dem ansatzweise erstehen von Lisp nicht hinaus. Damit komm ich
+dann wohl nicht weit.
+
+Enr 'Nein, ich will C nicht lernen. Zumindest jetzt nicht.' ico
+-- 
+Deine selbstgemachte Konfitüre ist immer entweder zu flüssig oder steinhart.
+
+(Murphy's Gesetz)

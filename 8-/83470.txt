@@ -1,0 +1,31 @@
+Hm. Ich machs auch nicht gern. Aber ab un zu seh ich keinen Ausweg.
+Wenn meine Kiste[1] urplötzlich ohne eine besondere Aktivität rebootet,
+keine Fehlermeldung, kein BSOD, nichts, einfach BIOS-Initialisierung,
+danwei ich bei Windoof nicht wo ich suchen soll(te)/könnte.
+
+Wolf
+[1]:
+- Effinger P5a Ali Rev. E
+- K62/500
+- 256 MB RAM[2]
+- Scherknecht Gladiac32
+- Computerspezialist DJNA 20GB IDE
+- Computerspezialist DCAS 4GB UW an AHA2940UW
+- Iomega ZIP100 IDE
+- Teac 105S IDE
+- Schloßberghof 56K USB
+- 3com 3C90waswei�ich, PCI, 100MBit
+- AWE64 (Gold?)
+- Win98SE[3]
+
+Momentan "Aus" daneben:
+- Computerspezialist DCHS 4GB UW
+- videon 13GB IDE
+
+[2] Sollte/könnte ich mal durchtesten, sind zwar original CPGL-Chips...
+[3] Weder unter Linux noch unter NT 4 crasht sie... -> Hardware heile
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+tent_counter)->get(@input_content_keys[$input_content_key_counter])->as_scalar()

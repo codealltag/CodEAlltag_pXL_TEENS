@@ -1,0 +1,12 @@
+On Wed, 16. 11. 22, Adrian Tinkloh <hkudcye_cijirst@xfk.ps> wrote:
+
+["Nachschlüssel" bei PGP 5.x?]
+
+OK, "Nachschlüssel" ist nicht ganz der richtige Ausdruck - der Chef
+hat dabei kein Duplikat des ursprünglichen Schlüssels. Aber:
+
+
+Viele Größe,
+     Benjamin Ingenhütt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

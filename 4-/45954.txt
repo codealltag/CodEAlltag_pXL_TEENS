@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+besonders
+Einleitungszeile
+eindeutig,
+
+Dann streichen wir aber auch gleich die Emailadresse zusammen
+mit dem Realname und verlassen uns auf andere Methoden der
+Identifikation.
+-----BEGIN PGP SIGNATURE-----
+Version: GPGshell v2.45
+
+iQIVAwUBPUg7uHN3vYvPoXwxAQEJxw//bbL7qO6BTBaDT2fJamPXR3HwS7jN5NuT
+NaMW9MmM7uQJq+f1pTJ+gghBe9f+5XoUqqWfJq/1eTvHsiBXcYLw2RqCcWrsZyMB
+dccijCg506uuEpNqvRDIiZInTGcgUdWUydspjo5YiDLX/LOcMOi8cpqxQvsi4ERt
+BqCrxp9PcaIBZJXKc43j7adzu/EIWWGzddJaZmZTQ5Qp/7xfDFoXCssY0k/vkJQs
+kDpx8jS/W2iGDLSom3mooKKka3b7s8RStvkYwY0R57q5gLpbq5oybPSKxKNM09Tt
+OCeGA41aQtJQcfMZDPf3skD7j0idofkSk6FK5RzXGGNXJbgDgkXYYAjeBISApzBT
+COze6Vp1LtIxc8m+uyB//OMbU5igF2p44KhpxQOD4o/HMS37PfhkcB7vT7oVdY/n
+Y1eEf/o5s/dfhsL+9M8VgmRxhZGIsv4AHz183b7y4rcxX9QBSN1ZJz3YOR+IntvX
+qFq/4MUl5Qg+0o7t8/MkESTlhqK6LJduZgUma6bCv2RaOsOdEfJS16hM/YJVWwep
+WQshAPsRS5Qf/mTjkdODe3mftiE2+akQjLE5GXwz8QMoKYM7ftBJiWyTnJdB0Nqd
+y30ztOofXfZXqoNP8+Jnx8BZEc/YxQLYdFf7U9I1TonZI67RQBYT3HzuwgNVJ1VQ
+aTDsSYc8MJo=
+=fjT5
+-----END PGP SIGNATURE-----

@@ -1,0 +1,7 @@
+Knut zaps a wand of do nothing.
+
+Knut
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

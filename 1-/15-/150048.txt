@@ -1,0 +1,16 @@
+Am Mon, 25 Apr 2001 sendete Victor Heghmanns folgende Botschaft:
+
+
+Nicht wircklich.
+#v+
+22:13:39 ~$telnet localhost
+Trying 072.9.7.2...
+telnet: Unable to connect to remote host: Connection refused
+#v-
+
+
+Die gewohnheit, und ausserdem ist ssh auch sonst um längen besser, und
+bequemer.
+
+Tschüs
+  Ignaz

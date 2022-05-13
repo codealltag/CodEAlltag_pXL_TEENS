@@ -1,0 +1,9 @@
+A. überhaupt nicht.
+
+Bernd
+
+-- 
+StarOffice 4.0:
+ "Das Dokument wurde für den Drucker Epog Bubble-Jet BJ-200
+  formatiert. Der Drucker ist nicht vorhanden.
+  Soll der Standarddrucker Epog Bubble-Jet BJ-200 verwendet werden?"

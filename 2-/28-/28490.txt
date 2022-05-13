@@ -1,0 +1,8 @@
+Wenn Du in einer Informatik-Klausur erst die 4. Prüfung in Folge
+schaffst, bist Du hier wahrscheinlich flasch.
+
+mfg, 
+	Pasquale
+-- 
+Daus excuse #173:
+Recursive traversal of loopback mount points

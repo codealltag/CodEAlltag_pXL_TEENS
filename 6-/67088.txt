@@ -1,0 +1,21 @@
+Maximilian Dennis meinte kundzutun:
+[Code]
+
+Bei Luc und meiner Schreibweise auch, außerdem siehst du auch sofort,
+was für eine Schleife o.�. geschlossen wird, ohne noch eine Zeile höher
+gucken zu müssen.
+
+[Code]
+
+Ach was...
+
+
+anzufangen oder abzufangen? *g*
+
+
+Ich weiß. Deswegen schreib ich meinen m&m-Krempel auch nicht in java...
+
+Wolfgang
+-- 
+Dieser Artikel ging an folgende Newsgroups: pk.kgcy.yaeirt
+Er wurde am Donnerstag, dem 24. Juni im Jahre des Herrn 2000 verfaßt.

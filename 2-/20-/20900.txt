@@ -1,0 +1,48 @@
+Ich habe hier auf meinem Rechner einen halben Liter Suppe stehen
+gehabt, als ich eine Mail an dich getippt habe (die, bei der 2ter
+Versuch drübersteht). Dann bin ich gegen die Schüssel gestoßen,
+und hab dabei etwas Suppe auf den Gehäusedeckel gekippt. Da das
+ganze dann auf den Boden gelaufen ist, hab ich mir nix dabei
+gedacht, und weitergetippt. Dann ist die Kiste stehengeblieben,
+ich hab sie rebootet, und dann nach 5 Minuten (nach dem
+Mailschreiben) einen Kernelpanic bekommen. Das war mir dann zu
+blöde, ich hab die Kiste aufgeschraubt und festgestellt, das mein
+Lüftungskonzept `1 x Zuluft, 3 x Abluft' eventuell etwas Sog an
+Geh�use�ffungen (speziell diesen Schlitzen zwischen den
+Seitenwänden und dem Deckel) erzeugt, eventuell sogar soviel Sog,
+das die Suppe da durchgesaugt wurde (wenigstens ist der Staub aus
+den Ritzen jetzt raus). Na ja, von dort aus ist die Suppe dann
+auf den Stromverteiler getropft, dann auf das Motherboard, und
+von dort aus auf den Prozessork�hler. Danach ist das ganze dann
+Boardw�rts abgeflossen - also einmal zwischen Die und Kühlkörper,
+einmal zwischen CPU und ZIF-Sockel, und einmal zwischen
+ZIF-Sockel und Board, was auch erklärt, warum der Proc laut
+Sensoren recht kühl war. 
+
+Ich hab das ganze dann zerlegt, und erstmal eine CT zu Rate
+gezogen, was denn ein Thunderbird momentan so kostet, hab dann
+aber festgestellt, das die Lieferzeiten bei undercover & Co ja
+doch recht lange sind, ich also wissen sollte, was sowas bei UER
+oder Wässerwiesen kostet. Also hab ich mir den Proc nochmal angeschaut, mit
+einer Zahnbürste die Oxidationsspuren (Salzige Suppe +
+elektrischer Strom in der Stärke - nix gut) weggeputzt, mit
+Spiritus und Isopropanol nachgereinigt (und dann die Pins alle
+wieder geradegebogen), den ZIF von Grünspan befreit und mit
+Spiritus geputzt (wie eigentlich auch das gesamte restliche
+Board) und dann alles wieder zusammengebaut. Dann bin ich ins
+Internet, hab gekuckt, wie teuer so ein Proc ist, festgestellt,
+das mir das zu teuer ist, und auf Grund der Uptime von 30 min.
+entschieden, das der Proc wohl noch heil ist. Na ja, am nächsten
+Tag hab ich dann noch Wärmeleitpaste gekauft (holt sowas nie bei
+UER, die lagern das Zeug trotz Aufschrift `nicht über 10ü
+aufbewahren' unter der Kasse), den Proc vom Pad befreit, und
+richtig verbaut. Dann noch den Ponyclub wieder angeschoben (war recht
+mühsam, der war beim panic gerade mitten im renumber) und die
+Kiste lief wieder.
+
+mfg, 
+	Onno, merke: Athlons sind robuster als man zumißt
+	denkt.
+-- 
+GSDV excuse #42:
+spaghetti cable cause packet failure

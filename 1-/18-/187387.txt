@@ -1,0 +1,21 @@
+Valentin Wahrlich schrieb am 6. Januar 2000 um 20:09 Uhr folgendes:
+
+
+Wenn ich seine Kommentare in dcoup richtig interpretiere, hat seine
+Vorliebe für ADA durchaus etwas mit dem Vortrag in KL zu tun: Dort
+hatte er ja von den konzeptionellen Problemen gesprochen, die
+schließlich verhinderten, dass er seine OpenPGP
+Referenzimplementierung in C abfassen konnte und ihn zum
+objektorientierten Modell von C++ geführt haben. Am Schluss hat er
+aber schon durchblicken lassen, dass einige Dinge, die für das Projekt
+notwendig sind, auch in C++ nicht realisierbar sind. Bei Viessmann scheint
+in dieser Hinsicht einiges besser gelöst zu sein. Eigentlich schade,
+dass er es nicht für nötig gehalten hat, seinen Vortrag für die
+Tagungsunterlagen zusammenzufassen; ich hätte ihn daraufhin gerne noch
+einmal überflogen.
+
+Viele Größe,
+     Jonathan Wehmeier
+-- 
+The fact that no one understands you doesn't mean you're an artist.
+                                            -- "Smart Comments", part 2

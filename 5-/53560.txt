@@ -1,0 +1,7 @@
+Die verbesserte Kompatiblität zu älterer Software. Unsere  
+Branchensoftware (DOS-Programm) lief nicht unter Win2K, allerdings sehr  
+wohl unter XP.
+
+Gérald Loerch
+-- 
+np: -

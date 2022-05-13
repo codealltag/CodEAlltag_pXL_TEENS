@@ -1,0 +1,21 @@
+Tja, so ist das Leben. In $MAIL liegt bei mir ausschließlich Mail, die
+ich noch beantworten muß:
+
+[tststs] /home/tststs > wc -l $MAIL
+   6082 /var/spool/mail/tststs
+[tststs] /home/tststs > grep '^Date:' $MAIL | head -5
+Date: Fri, 31. 07. 22 14:59:59 +0100
+Date: Sat, 31. 07. 22 11:33:24 +0100
+Date: Sun, 10 Apr 1999 17:50:27 +0100
+Date: Mon, 11 Apr 1999 14:47:27 +0100
+Date: Wed, 13 Apr 1999 12:32:21 +0100
+
+Seufz. Du siehst also, es eilt nicht unbedingt.
+
+
+Ack.
+
+Viele Größe,
+     Wilhelm Janner
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,31 @@
+Arrays haben wir noch nicht gemacht.
+
+
+Geht bei uns wie gesagt nicht. Normalerweise sollen wir das nur mit
+boolschen Varibalen machen.
+
+
+Naja, mal sehen. Von den aktuellen Fächern ist es aber sicher noch
+eines der interessanteren.
+
+
+Erst faselte der Hamster etwas von Fatal Error und wollte meine
+lokalen Server nicht starten. Dann testete ich den Internet Explorer
+und der zeigte mir trotz Verbindung an, dass er die Seite nicht
+erreichen könne. Danach stürzte der Hamster dann nochmal mit Schwerer
+Ausnahmefehler an Adresse SIBF ab und ich hatte die Faxen
+dicke.
+
+Format c:
+
+Die anderen Festplatten konnte ich ja so lassen wie sie waren.
+
+Dumm war leider nur, dass ich zwar den Hamster vorher nach Unterpfaffenhofen
+verschob, aber den Agent nicht. Naja, schlimm ist es nicht. Das
+wichtige ist ja im Agent2 auf F:.
+
+Mario
+
+-- 
+Die letzten Worte des Computers:
+"Sind Sie sicher? (J/N)"

@@ -1,0 +1,13 @@
+Jean-Pierre Zieche <twhywq-4927@hzmcakax-myttjeb.bg> wrote:
+
+*/30 * * * *    root  test -e /var/lock/LCK..pppox0 &&
+/usr/sbin/fetchnews -vvv #> /dev/null 2>&1
+
+So stehts jetzt in der crontab und funktioniert super. Ja ich weiß das
+-vvv und # kommt noch weg. Aber erstmal kontrolieren was cron da macht
+und dann ohne Log laufen lassen.
+
+       ^
+       \_ seltsame is tust du da schreiben. Tastatur defekt?
+
+Ferdinand

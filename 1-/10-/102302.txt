@@ -1,0 +1,6 @@
+,----[ C-g runs `keyboard-quit' ]
+`----
+-- 
+Pasquale E. Gschwandl - Your Worst Network Nightmare(tm).
+`In Germany, they are not referred to as network administrators. They
+prefer to be called "Sons Of The Third Reich".' (Gesine: www.cathpdis.jfs)

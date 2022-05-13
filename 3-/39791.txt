@@ -1,0 +1,28 @@
+Tat ich schon. Aber auf dem alten Computer. - Mir hat es nicht
+gefallen. ;-)
+
+
+Na, aber das ist doch völlig gleichgültig.
+
+
+Schon. Mir sind aber bisher keine besonders ressourcenlastigen anderen
+Aktivitäten eingefallen.
+
+Naja, CD brennen habe ich mal gemacht, heute. Aber das ist eigentlich
+auch nur "anders", nicht aber lastig.
+
+
+*umschau* Hast du hier Kameras installiert? - Wenn ja: Sie lägen.
+
+
+Schon. GeForces tun es auch prima, wenn man die richten Texte in die
+XF86Config-4 pastet, aber bei der hier befindlichen S3-Karte gibt es
+solche Einstellungen wohl nicht. Viele Informationen sind nicht zu
+finden und das einzige Programm sagt immer, es sei kein TV
+angeschlossen. Da damn thing.
+
+Adolf
+
+-- 
+"Der Besitz wird durch das Besitzen meistens geringer."
+ (Marcel Nieschmidt)

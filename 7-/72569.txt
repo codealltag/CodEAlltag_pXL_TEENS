@@ -1,0 +1,53 @@
+Ihno Ingensiep meinte kundzutun:
+
+
+*g* Oder so.
+
+[snip]
+
+qmitho@fkjt:~ > grep editor .slrnrc
+set post_editor_command "post $s $d"
+qmitho@else:~ > cat `which post`
+if ( ! grep -q -- '^-- $' $1 )
+then
+echo >> $1
+echo Gernot >> $1
+echo "-- " >> $1
+echo -n "Dieser Artikel ging an folgende " >> $1
+echo -e `grep ^Newsgroup $1|sed -e 's/,/,\\\\n/'`>> $1
+echo Er wurde am `date +%A`, dem `date +%d`. `date +%B` im Jahre des \
+Herrn `date +%Y` verfaßt.>> $1
+fi
+vim $1 -c ":1,$ s/> />/g" -c ":1,$ s/>\([^>]\)/> \1/"\
+ -c "1,$ s/[> ]*\(\[[^0-9Xx_ ]*\]\)/\1/"\
+ -c ":1,$ s/^[^ ]* [^ ]* [^ ]*:$/MauroHedwig brabbelte in das Sabberl�tzchen:/"\
+ -c ":1,$ s/^Sebastian Raatjes [^ ]* [^ ]*:$/Und siehe, die Viviane sprach:/"
+qmitho@fkjt:~ >
+
+
+Szüllö szuld? *g*
+
+
+*grummel* Ack, in NGs mit großen Artikelzahlen oder beim suchen in allen...
+
+Obwohl, könnte auch klappen über key-bindings...
+
+
+Linux. Da gibbet nicht so ne doofe Beschränkungen. konsole.
+
+
+Tsja.
+
+
+[ESC] l <MID>
+
+
+*patsch*
+
+
+Frank Zeindlmeyer.
+
+Gernot
+-- 
+Dieser Artikel ging an folgende Newsgroups: dx.ovmy.gxaxgl
+Er wurde am Freitag, dem 12. Mai im Jahre des Herrn 2001 verfaßt.

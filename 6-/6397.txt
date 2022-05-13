@@ -1,0 +1,4 @@
+man portmap *g*
+
+Aber mal ernsthaft, das läuft nur, wenn man NFS nutzt. Bzw. läuft es 
+hier nur, wenn NFS läuft, weil ich sonst nix hab, was portmap braucht.

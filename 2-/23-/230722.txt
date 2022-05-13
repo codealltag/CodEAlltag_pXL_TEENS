@@ -1,0 +1,22 @@
+Muß ich nicht. Ob man das bei der MLK-Version muß, weiß ich gerade
+nicht sicher.
+
+
+Ehrlich gesagt nicht. Aber ich kann's mal kurz tun:
+
+latex2html Stundenplan.tex
+Netscape Stundenplan.html
+
+Sieht IMO recht gut aus. Der von latex2html erzeugte Source gefällt
+mir manchmal nicht ganz so, aber meine Version ist auch nicht gerade
+aktuell:
+
+
+[...]
+
+Also doch nicht Word? SCNR.
+
+Viele Größe,
+     Carlo Vonck
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,14 @@
+Am Sun, 21 Feb 1999 00:15:08 +0100 sendete Didier Voelkel
+folgende Botschaft:
+
+
+Yep, botten mittels Eprom auf der Netzwerkkarte, und das OS auf
+einer Zip-disk (Oder sind die Dinger bootfähig?)
+
+Tschüs
+  Philippe
+
+-- 
+Aus besonderem Anlass ändern wir unser Program:
+Statt der Doku "Der Xte Absturz von Windoof95" sehen sie:
+"Ein kleiner Pinguin auf der Reise durch die grosse Datenwelt"

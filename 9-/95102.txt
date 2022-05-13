@@ -1,0 +1,15 @@
+Theoretisch müsste das funktionieren, ja. Böse kann es aber werden, wenn du 
+zwei Switches über Uplink zusammengehängt hast.... Ob das in der Praxis dann 
+wirklich funktioniert oder überhaupt auch nur implementiert ist, ist eine 
+andere Frage.
+
+
+Dann kannst du mit ipf auf jeden Fall selber das File angeben, bei ipfw 
+weiss ich's nicht genau (das Ding ist einigermassen mühsam).
+
+
+Grundsätzlich ja.
+
+
+Für NFS nicht. Unter Win crasht ein Programm wenn eine SMB Resource down 
+geht im Normalfall nicht.

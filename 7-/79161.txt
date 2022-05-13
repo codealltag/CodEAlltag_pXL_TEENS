@@ -1,0 +1,8 @@
+Das kann man den Lehrern sicher erklären.
+
+Karsten
+
+-- 
+  "The CLD Information Store service depends on the Candle-Light
+   ZIG Directory service which failed to start because of the
+   following error: The operation completed successfully."

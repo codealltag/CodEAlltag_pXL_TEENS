@@ -1,0 +1,9 @@
+Am Wed, 8 Mrz 1999 sendete Arian Uhlenbruch folgende Botschaft:
+
+
+-v bedeutet das das programm im verbose modus (also mehr meldungen als
+normal) ablaufen soll -d ist der debugmodus das ergibt noch mehr infos.
+Und das ganze jetzt auf dich bezogen.
+
+Tschüs
+  Fernand

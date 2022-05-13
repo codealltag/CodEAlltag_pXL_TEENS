@@ -1,0 +1,7 @@
+Am Sat, 04. 03. 23 sendete Franz Kupperschmidt folgende Botschaft:
+
+
+s/Zug/entgegenkommende $1/
+
+Tschüs
+  Wolfgang

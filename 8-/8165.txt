@@ -1,0 +1,7 @@
+Dann musst du was mit der Bahn zu tun haben.
+
+Etienne
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+37: Fehlertolerant
+       Das Programm erlaubt keine Benutzereingaben.

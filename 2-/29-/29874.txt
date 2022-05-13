@@ -1,0 +1,11 @@
+So Bash-Skripte mit nur wenigen Befehlen, und dann (augenscheinlich) nur
+Datenmüll. Allerdings erzeugt dieses Skript aus dem 'Müll' dann
+libdecss...
+
+Was nicht passt, wird passend gemacht. Wenn der Treiber halt nicht
+compilen will, wird der wollend gemacht.
+mfg, 
+	Torsten
+-- 
+BOFH excuse #401:
+Sales staff sold a product we don't offer.

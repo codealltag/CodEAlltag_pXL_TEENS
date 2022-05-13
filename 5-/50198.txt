@@ -1,0 +1,9 @@
+Nützt ja auch so nix. Eine Bouncemeldung schicke ich den Spammern auch
+so per Auto-Reply. :-) 
+Außerdem ist der FQDN bei WGHG nicht so ohne Weiteres veränderbar,
+es nimmt halt immer den Domain-Teil der eingetragenen From-Adresse. Bei
+mir passt das praktischerweise zufällig; wenn man natürlich keine eigene
+Domain im From hat, wäre es nicht korrekt.
+
+
+thierry

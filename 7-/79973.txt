@@ -1,0 +1,11 @@
+Wenn du perl kannst, wirst du damit sicher alles hinbekommen, was
+signaturmäßig so möglich ist.
+
+Ich benutze es nur zum shuffeln der Sigs.
+
+Veit, kann kein perl.
+
+-- 
+OBI Money:
+  "Ein Fehler ist aufgetreten, aber wegen eines weiteren Fehlers kann
+   die Fehlermeldung nicht angezeigt werden."

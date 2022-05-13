@@ -1,0 +1,10 @@
+Das halte ich für eine gewagte These. Wenn JMDS (für den Benutzer wie
+für den Programmierer) nicht zu etablierten UNIX-Standards kompatibel
+gewesen wäre, man nicht auf (fast) 100%ige POSIX-Kompatibilität
+geachtet hätte etc. wäre es IMO relativ schnell und wenig beachtet
+wieder von der Bildfläche verschwunden.
+
+Viele Größe,
+     Burkhard Inderkämpen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

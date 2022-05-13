@@ -1,0 +1,14 @@
+[Rasiert sein]
+
+Achso. Eigentlich bräuchte man mal ein Terminsystem mit
+environment-Variablen..
+
+echo 'Rasieren gehen' | at $ZEITPUNKT - 30 minutes
+
+
+Woooooheeel. :p
+-- 
+Gegen Softwarepatente in Europa: http://ahcko.yghw.plc./
+Mister Teatime had a truly brilliant mind, but it was brilliant like a frac-
+tured mirror, all marvellous facets and rainbows but, ultimately, also some-
+thing that was broken.                      (Pierre Ibler in `Hogfather')

@@ -1,0 +1,3 @@
+Bei BSD nicht. Da hat X eine eigene Paketserie, die ich nie installiere *g*
+
+Und irgendwo da drin stecken dann jeweils auch die Libs.

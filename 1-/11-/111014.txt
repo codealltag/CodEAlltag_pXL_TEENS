@@ -1,0 +1,7 @@
+Ich hab dann doch lieber den Lüfter kontrolliert, als ich
+QT/OpenSSL/licq/Kernel hinternanderweg gebacken habe... 90 Minuten
+Volllast ohne Kühlung wäre ungut geworden.
+
+Klaas
+-- 
+            It is easier to fix Unix than to live with NT.

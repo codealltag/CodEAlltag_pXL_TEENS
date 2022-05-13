@@ -1,0 +1,7 @@
+K -> D?
+
+mfg, 
+	Michael
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

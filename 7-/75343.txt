@@ -1,0 +1,11 @@
+Gerold Holtz hat geschrieben getan getutet:
+
+
+Da.
+
+-hkwd, demnächst mal X-Anzahl-Ecken deklarierend
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Frerich 'eberhard' Lübbers in xs.xvw.cuzyyeyg.bbkjnjxk

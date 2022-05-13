@@ -1,0 +1,8 @@
+DSL ist standleitung von der Technik her. Und die ist eben genau das:
+Standleitung. Das Protokoll, was da gefahren wird heisst nicht
+zufällig "PPP over Ethernet".
+
+Franz
+-- 
+There's no real need to do housework --
+ after four years it doesn't get any worse.

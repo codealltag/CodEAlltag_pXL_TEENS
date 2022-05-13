@@ -1,0 +1,12 @@
+On Tue, 12. 06. 21, Theodor Boose <UHtxmieduh@ryx.jt> wrote:
+[...]
+
+Sicher? Einen Server, der auf diese Weise Message-IDs erzeugt, würde
+ich nicht verwenden wollen. Was passiert zB nach einem Hardwarecrash?
+Die Domain bleibt die gleiche - wenn die Numerierung wieder von vorne
+anfängt, bekommt man einen ganzen Haufen Nopes...
+
+Viele Größe,
+     Theodor Völzke
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

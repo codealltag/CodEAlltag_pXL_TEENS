@@ -1,0 +1,14 @@
+Und so sprach Henrik Bulterman:
+
+
+<http://trn.e3.xwo/WOD/> -- was Du damit machst, ist Dir freigestellt.
+<http://teb.r9opkiqwv.dgx/wvi/mtihssa.jed> enthaelt Beispiele.
+<http://orjpi.quxfqm.tlg/~muxxg/qi0/> ist ein Beispiel fuer das
+Zusammenspiel von XML, XSLT und XHTML.
+
+Gruss,
+Ignaz.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.o

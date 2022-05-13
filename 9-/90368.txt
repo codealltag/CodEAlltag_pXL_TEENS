@@ -1,0 +1,9 @@
+N. meine Schwester darf zwar die ISDN-leitung steuern, aber kennt das
+kennwort für root nicht. Ist auch besser so.
+
+Hint: man sudoers, Stichwort "NOPASSWD"
+
+Thierry
+-- 
+Das Leben ist eine durch Geschlechtsverkehr übertragene, mit Sicherheit
+tödlich verlaufende Krankheit.

@@ -1,0 +1,10 @@
+* Laurent Nahrstedt <tfiu@zqheylxf.rb>:
+
+[adaptive scoring]
+
+Das ist eh kein Problem. Dafür braucht man aber kein adaptive
+scoring. Das stört hier nur.
+
+Otto
+-- 
+cross veinless

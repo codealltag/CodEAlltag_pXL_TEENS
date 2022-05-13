@@ -1,0 +1,15 @@
+Am Sat, 29. 11. 21 sendete Vincenzo Straetman folgende Botschaft:
+
+
+Per netbus ist ITMS kein eindringen du auf dem angegriffenen recher ein
+server lauft der dazu gedacht ist. Angriffe per netbus, BO & co würd ich
+ehr mit dem ausnutzen eines telnetd/sshd ohne Passwd gleichsetzen.
+
+
+Nein.
+
+
+Doch.
+
+Tschüs
+  Italo

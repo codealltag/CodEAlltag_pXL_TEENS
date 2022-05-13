@@ -1,0 +1,9 @@
+* Wilfried Theml <osp@vuphq.hjs>:
+
+
+Hast du Fragen, musst du fragen. :-)
+
+Aber im Ernst: 2.2.x (frühere kenne ich nicht) sind irgendwie ... netter
+zu administrieren.
+
+Ingo

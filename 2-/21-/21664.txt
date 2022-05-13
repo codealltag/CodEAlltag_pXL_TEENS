@@ -1,0 +1,7 @@
+Homomorphismen z.B.
+
+mfg, 
+	Hanno
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

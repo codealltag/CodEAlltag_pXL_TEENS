@@ -1,0 +1,14 @@
+Und so sprach Edo Altemüller:
+
+
+Bei Wamod ist das nicht wirklich besser, wag ich mal zu behaupten.
+JEdenfalls brauch ich jedesmal ca. nochmal 70% der Zeit, um den
+Interpreter dazu zu bringen, die richtigen Typen zu verwenden.
+
+JKC scheint da angenehmer zu sein, wie ich grad lese. :)
+
+Gruss,
+Mathias.
+-- 
+Dies ist ein Posting aus Freilandhaltung und wurde nicht zu
+ueberhasteter Verbreitung genoetigt.

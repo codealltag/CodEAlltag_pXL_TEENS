@@ -1,0 +1,44 @@
+Das widerspricht jeglichen physikalischen Gesetzen. ;-)
+
+
+GRETE. 2000 wäre mir ja auch bedeutend lieber, aber...
+
+
+...ich habe das urkomische Problem, dass Win2K einfriert, wenn ich
+etwas downloade. Das passiert dann entweder überhaupt nicht [1], oder
+irgendwann während des Downloads. Also _nicht_ etwa am Anfang oder am
+Ende. Dabei spielt es keine Rolle ob ich einen Downloadmanager benutze
+oder das von Win selbst machen lasse und es spielt ebenso keine Rolle
+von welcher Seite ich ziehe.
+
+Beim News holen bestand das Problem nicht, sondern nur wenn ich mit
+dem Internet Explorer zog [2]. Jedoch kann ich den IE genauso gut
+schließen. Das ändert nichts an der Sache, dass einfach _alles_
+einfriert und ich nur noch über den Reset-Knopf wieder raus komme.
+
+Da jegliche Fehlermeldungen fehlen, kann ich nicht mal ein Problem
+vermuten. Ich wechselte bereits GraKa- sowie Modemtrieber. An beidem
+lag es schonmal nicht. Die anderen Komponenten in meinem PC wurde eh
+schon direkt mit Win2K-Treibern versorgt. Treiber dürften es dann IMO
+nicht sein.
+
+Sonnenland habe ich auch bereits bemüht, aber ebenso keine Lösung
+gefunden.
+
+Wenn jemand noch einen Tipp hat, auch wenn er noch so unlogisch ist,
+mir bitte sagen. *seufz*
+
+[1] Testweise lud ich mal das Missimo-Programm runter, was anstandslos
+    funktionierte. Dann dachte ich schon es hätte sich erledigt. Naja,
+    beim nächsten Versuch einen Treiber für meine TV-Karte 
+    runterzuladen schmierte es wieder ab. Irgendwann hatte ich so die 
+    Schna^WNase voll, dass ich wieder fdisk bemühte und '98 
+    zur�ckinstallierte. :-(
+[2] Was aber auch Glück sein könnte, da News laden ja nicht so lange 
+    dauert wie ein "normaler" Download.
+
+Louis
+
+-- 
+"Ich weiß nicht mit welchen Waffen sich die Menschen im 3. Weltkrieg
+bekämpfen werden, aber im 4. werden es Keulen sein." (Diedrich Jöckel)

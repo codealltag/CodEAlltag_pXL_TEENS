@@ -1,0 +1,11 @@
+Mein Code läuft, wenn ich den als laufend deklariere. Der fragliche
+Mensch hat Fibunacci nicht hinbekommen.
+
+
+"Jöhring" ist seit Jgst.6 ein eher unglücklicher Name.
+
+Jürg
+-- 
+Murphys Gesetz, allgemeine Form:
+Besteht irgendeine Möglichkeit, daß irgendwo etwas schiefgehen kann, so
+geschieht dies.

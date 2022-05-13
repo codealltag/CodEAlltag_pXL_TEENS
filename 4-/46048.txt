@@ -1,0 +1,19 @@
+Am Mon, 3 Sep 2001 sendete Siegfried Uhlenkotte folgende Botschaft:
+
+
+Für Spanungen die nicht Sinus oder S�gezahnf�rmig sind bestimmt. Für
+diese beiden hat man dann mal nachgerechnet das Ueff=Up/\sqrt{X}
+mit X gleich 2 (sinus) oder 3 (Sägezahn) ist. ;)
+
+
+Oder nachrechnenlassen. '\int sin(\omega * t)' ist nicht so szpaszig.
+
+
+Auswendiglernszwach.
+
+Tschüs
+  Klaas, es geht auch derohne, zwar etwas umständlicher, aber es geht.
+-- 
+Die Weisheiten des Ignaz Schnebele: #1
+
+Die Jup ist nicht zum schlafen da.

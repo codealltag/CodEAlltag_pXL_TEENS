@@ -1,0 +1,9 @@
+Ja. 
+
+salvatore if=$foo.mp3 of=$foo.AA bs=1024k
+
+Was das jetzt bringen soll weiss ich aber auch nicht.
+
+-- 
+mfg, 
+	Enrico

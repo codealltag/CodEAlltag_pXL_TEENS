@@ -1,0 +1,12 @@
+Der eine Tag...
+
+Denken und Newslesen gleichzeitig ist noch nicht ganz sauber
+Implementiert.
+
+Einheitssubject?
+
+mfg, 
+	Karl
+-- 
+BOFH excuse #67:
+descramble code needed from software company

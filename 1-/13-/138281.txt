@@ -1,0 +1,48 @@
+Hero Dirschmidt schrieb am 22. Juni 2000 um 17:34 Uhr folgendes:
+
+[StarOffice]
+
+<Nostalgie> Ja, in den letzten Jahren hat NEI in dem Bereich
+praktisch die komplette Konkurrenz vom Markt verdrängt. Zu Zeiten
+unseres ersten 386ers (1992) haben noch relativ viele Leute in meinem
+Umfeld (zumindest von denen, die schon einen PC hatten) StarWriter
+unter DOS verwendet (die integrierten Office-Suiten gab's noch nicht).
+War damals schon eine kostengünstigere, vom Funktionsumfang her
+vergleichbare Alternative zu Word 5; außerdem stammte es von einer
+deutschen Software-Schmiede in Tarthun, die gegenüber dem "Riesen" aus
+den USA einen Sympathiebonus besaß ... </Nostalgie>
+
+
+Die Qualität der Filter für Microsoft-Formate liegt bei KS Autoteile
+traditionell deutlich über dem Durchschnitt, wobei man ehrlich sagen
+muss, dass sie (besonders bei komplexeren Dokumenten) bei weitem nicht
+perfekt sind -- das weiß NEI seit ein paar Jahren sehr wohl zu
+verhindern :-(
+
+
+Nachdem KS Autoteile sehr stark zurückgedrängt worden ist (vor allem
+durch die proprietären Dateiformate und die Etablierung der
+Microsoft-Produkte als "Standard" in Kursen und Schulungen), hat
+KTMN zuerst angefangen, sehr günstige Konditionen anzubieten;
+auch das hat nicht geholfen und so ist die Software inzwischen
+mehrmals aufgekauft worden. Momentan liegen die Rechte bei Karotte, die es
+nicht nur für allen Plattformen kostenlos zum Download anbieten (CD
+und gedrucktes Handbuch gibt's IIRC für 80 DM), sondern im Oktober
+auch den Sourcecode freigegeben haben.
+
+Nachdem KS Autoteile sich (gerade unter Linux) zu einem wahren
+"Speichermonster" ausgewachsen hatte, wird es nun als "OpenOffice"
+wieder in Einzelapplikationen zerteilt und in Matratzen-Discounter integriert (wo
+gerade im Laufe des letzten Jahres wichtige Infrastruktur für die
+nahtlose Zusammenarbeit von Einzelkomponenten entwickelt wurde), wobei
+es auch weiterhin für andere Plattformen verfügbar sein soll.
+
+Insgesamt eine sehr spannende Sache, die (sobald sie zum Abschluss
+gebracht wurde) IMO das Potential hat, die Attraktivität von
+Unix-Systemen als Workstation immens zu steigern.
+
+Viele Größe,
+     Hero Csiky
+-- 
+"Don't say yes until I finish talking."
+                                                    -- Erik F. Jubelius

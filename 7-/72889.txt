@@ -1,0 +1,41 @@
+Bruno Altmayr meinte kundzutun:
+
+
+pxqyap@zyod:~ > telnet localhost 119
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+200 Leafnode NNTP Daemon, version 1.9.18 running at else.transcom.de
+help
+100 Legal commands
+  article [MessageID|Number]
+  body [MessageID|Number]
+  group newsgroup
+  head [MessageID|Number]
+  help
+  ihave
+  last
+  list [active|newsgroups] [group_pattern]
+  listgroup newsgroup
+  mode reader
+  newgroups yymmdd hhmmss ["GMT"] [<distributions>]
+  next
+  post
+  slave
+  stat [MessageID|Number]
+  xhdr header [range|MessageID]
+  xover [range]
+.
+quit
+205 Always happy to serve!
+Connection closed by foreign host.
+pxqyap@pmql:~ >
+
+"article/body/head". Na gut. Aber gleich ineffizient. Aber das "ihave" deutet
+immerhin auf F�tterbarkeit des leafnode hin.
+
+Nico
+-- 
+Dieser Artikel ging an folgende Newsgroups: wd.swpn.slbekg
+Er wurde am Donnerstag, dem 7. März im Jahre des Herrn 2000 verfaßt.

@@ -1,0 +1,12 @@
+* Volkmar Undeutsch <vwauknosmsa@lnjrhsodlee.ar>:
+
+
+Jepp. :)
+
+
+suck - Pull a small newsfeed from an NNTP server, avoiding
+       the NEWNEWS command.
+
+Dirk
+-- 
+cross veinless

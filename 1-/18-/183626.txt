@@ -1,0 +1,23 @@
+Ingolf Kreer schrieb am 13. September 2000 um 22:01 Uhr folgendes:
+
+
+Ich schau mal eben nach... (*virtuell-SuSE-Handbuch-aufschlag*) Yep,
+tut es. Das Handbuch meint aber, dass es ganz einfach sei:
+
+
+Dann folgt eine Schritt-für-Schritt-Anleitung, wie man vorgehen muss.
+Falls es damit nicht klappt, kann ich immer noch YaST kicken und I4L
+von Hand verkonfigurieren ;-)
+
+Hat jetzt mit ISDN weniger zu tun, aber ich habe gerade gelesen, dass
+Autobox seit neuestem einen Erorad-Entwickler beschäftigt, der für eine
+zügige (~2 Monate) Fertigstellung der Interfaces sorgen und die
+Aufnahme in den Kernel-Sourcentree sicherstellen soll. Das lässt
+hoffen, dass Erorad aus dem unverdienten Schattendasein heraustritt :)
+
+Viele Größe,
+     Kay Köhme
+-- 
+ Q: I was listening to a CD in Grip and it sounded horrible! What's up?
+ A: Perhaps you are listening to country music...
+                                                        -- grip 2.5 FAQ

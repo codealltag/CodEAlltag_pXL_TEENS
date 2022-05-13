@@ -1,0 +1,34 @@
+"Verboten sind Posting, deren Absender durch Anonymisierungsmaßnahmen für
+niemanden nachvollziehbar ist. [1] Dies betrifft insbesondere Postings,
+die über anonyme/pseudonyme Remailer und entsprechende Gateways abgesetzt
+werden. [2] Sie dürfen unter Einhaltung der Vorgaben in der
+Fremdcancel-FAQ durch jedermann gecanceled werden. [3] [4]"
+
+[1] Argumentationsmöglichkeit: Mißbrauch durch fehlende Möglichkeit, den
+betreffenden zur Rechenschaft zu ziehen / ziehen zu lassen.
+
+[2] Diese Formulierung ermöglicht das Vorgehen auch gegen andere Formen
+anonymen Postens, bspw. über Web2Mail/Web2News-Gateways, auf die durch
+anonymisierende (offene?) Proxies zugegriffen wird.
+
+[3] Alternativ: "Fremdcancel dieser Postings werden akzeptiert." Ist alles
+blöd, denn Fremdcancel sind nun mal *verboten*, und Akzeptanz und Toleranz
+kann man nicht vorschreiben; die ist da oder nicht.
+
+[4] Argumentationsmöglichkeit: Keine inhaltlichen Cancel, da formales
+Kriterium (--> Anon-Remailer).
+
+
+Und das ^^ dann hintendran; klingt von der Formulierung her IMHO besser.
+
+Ich halte das Verankern von Fremdcanceln in einer Charta allerdings weder
+für wünschenswert noch für mehrheitsfähig noch auch nur für erforderlich.
+Wer der Anwesenden kann den kein Killfile / keinen Pathexclude auf
+Anon-Postings setzen / sich setzen lassen? Filterausdr�cke auf Anfrage bei
+mir (hab' sie auch irgendwo geklaut).
+
+Dementsprechend würde ich mich an einem solchen Feku weder beteiligen noch
+dafür stimmen.
+
+Gruß,
+Ludwig

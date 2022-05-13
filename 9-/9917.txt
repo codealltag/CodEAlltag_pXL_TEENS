@@ -1,0 +1,7 @@
+Als ob Zeitsprung noch viel mit .se zu tun hätte.
+
+Ernest
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+50: Version x.1
+       Kostenpflichtiger Bugfix (Björn Ilenseer)

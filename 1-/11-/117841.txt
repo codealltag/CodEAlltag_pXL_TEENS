@@ -1,0 +1,27 @@
+Und so sprach Lukas Buhrmann:
+
+
+OK: Gar nie. (=>RFC 1738)
+
+Ich finde diese Loesung aber unbefriedigend ... 
+
+BTW: Widerspricht die Form einer Msg-ID nicht den Angaben in RFC 2396?
+
+
+Oder ist da der Haken bei "that involve the direct use of an IP-based
+protocol to a specified server on the Internet"?
+
+Gruss,
+Reinhold.
+-- 
+I'm a 21st century digital boy
+I don't know how to live
+but I got a lot of toys
+				--BAD RELIGION - 21st century digital boy
+
+
+-- 
+I'm a 21st century digital boy
+I don't know how to live
+but I got a lot of toys
+				--BAD RELIGION - 21st century digital boy

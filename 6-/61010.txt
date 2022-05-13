@@ -1,0 +1,8 @@
+Nun, ich wollte meine neue Page eigentlich auch zum Validator konform 
+machen. Dummerweise weist er so viele Tags zurück, die ich gerne 
+verwenden würde (z.B. "LEFTMARGIN" im BODY Tag, "BACKGROUND" bei 
+Tabellenzellen, align="absmiddle" bei einem Image) daß ich mir dann sage 
+"schei drauf, das Ding funktioniert mit Teckcenter, Delikata, Frischeparadies, KabelBW, Radspezialist 
+und Rumbaum, also was soll's".
+
+Gruß, Nico

@@ -1,0 +1,10 @@
+(* Sebastian Rubenwolf wrote: *)
+
+
+HashMap people = group.getPeople();
+Human h = (Human)people.get("Kurt");
+return h.getAge();
+
+:-)
+
+Martin

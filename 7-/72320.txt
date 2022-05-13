@@ -1,0 +1,16 @@
+Denk nach.
+
+post ist ein selbsgeschriebenes Script. Wenn du da Perl schreibst kein
+Problem.
+
+
+Linux?
+
+
+Hm?
+
+
+man gpm
+man mittlere\ Maustaste
+
+Karsten

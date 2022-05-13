@@ -1,0 +1,5 @@
+Ich kann nicht sagen, dass das unter W2K anders wäre... Stecke ich 
+meine unitex Maus an den USB Port, findet es die zwar, aber 
+benutzen scheint man sie nicht zu können und wenn ich meinen PDA 
+einstecke, kommt schon mal ein Instant Reboot (den Bluescreen 
+haben sie glaub abgeschafft).

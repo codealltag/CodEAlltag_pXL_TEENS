@@ -1,0 +1,10 @@
+Weil ls immer da ist, ll und la aber nur alias-Konstruktionen sind,
+die es nicht unbedingt gibt. Ausserdem will ich nicht darüber
+nachdenken müssen, ob eine Option schon gesetzt ist oder nicht, wenn
+ich sowas wie ein "ls -lSr" baue und was ich mir deswegen sparen
+könnte.
+
+Cornelius
+-- 
+Ein Freund ist ein Mensch, vor dem man laut denken kann.
+(Severin Czichos)

@@ -1,0 +1,10 @@
+Es gibt zwar gewisse Gerüchte, der amerikanische Geheimdienst habe
+eine Möglichkeit, PGP 5.0-Keys zu knacken, aber die sind IMO haltlos.
+Aber sind Deine Schlüssel tatsächlich mit PGP 5.0 generiert? Dann
+hätte der Mensch im Furtmair es eigentlich sofort ablehnen müssen, sie
+zu signieren...
+
+Viele Größe,
+     Onno Lütjens
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

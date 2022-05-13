@@ -1,0 +1,17 @@
+Laura Milke meinte kundzutun:
+
+
+NW.
+
+
+"Ev........" = "Ev.*"
+"E v . *" != "Ev.*"
+
+La dich in Bezug auf reguläre Ausdrücke lieber nicht auf einen Disput
+mit mir ein :-)
+
+Willibald
+Ich kenn nur Evangelion.
+-- 
+Dieser Artikel ging an folgende Newsgroups: gv.auxg.aqlldy
+Er wurde am Dienstag, dem 27. Februar im Jahre des Herrn 2001 verfaßt.

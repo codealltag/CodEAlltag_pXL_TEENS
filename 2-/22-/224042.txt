@@ -1,0 +1,32 @@
+Am 12. 10. 22 21:22:25 GMT sendete Pasquale Ueberholz
+folgende Botschaft:
+
+
+[X] Erzähl.
+
+
+Linux *g*
+
+
+Wen man zum händler geht sollte man eigentlich zumindestens so halbwegs
+wissen was man will, und das ist dann immer mein problem. Mich auchnoch
+damit zubeschäftigen ob diese festplatte jetzt 1ms schneller oder
+langsamer ist habe ich keine zeit/lust. Ich kaufe die hardware und die soll
+laufen mehr nicht.
+
+
+Jep.
+
+
+Auf was muss ich denn bei einem kauf von sowas achten? (ich habe in
+diese richtung erlich gesagt kaum ahnung, websites oder GMDH artikel
+sind sehr willkommen)
+
+
+Was heist deutlich (wielang braucht die SCSI wielang der parallel 
+ungefähr) Parallel ist eigentlich interessant da ich meinen Vater
+nicht zu einer netzwerk verbindung überredet kriege, und 'tar'en auf
+mehrere Floppy-disks es irgendwie auch nicht bringt.
+
+Tschüs
+  Cornelius

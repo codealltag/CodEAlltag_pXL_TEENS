@@ -1,0 +1,2 @@
+Warum nicht? Mut die faces (oder wie das heißt) für den
+entsprechenden Buffer ändern (und den richtigen Hook finden).

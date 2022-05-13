@@ -1,0 +1,10 @@
+[PATSCH]
+
+Jaja. Auch das hat so langsam an Witz verloren.
+
+Charles
+
+-- 
+Froese Development Environment:
+"Cannot detach from one or more programs: Der Vorgang wurde
+ erfolgreich beendet. Terminate them instead?"

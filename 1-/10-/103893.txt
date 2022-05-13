@@ -1,0 +1,10 @@
+Am Sat, 11. 02. 23 sendete Valerian Thomä folgende Botschaft:
+
+
+Man müsste doch auch per Macro die datei in /tmp speichern können und
+dann einen richtigen Editor(*duck*) drauflos lassen können?
+
+Tschüs
+  Patrick
+-- 
+Notorisch Schreibfaul.

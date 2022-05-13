@@ -1,0 +1,12 @@
+Am Tue, 14 Jun 2002 sendete Karlheinz Mauve folgende Botschaft:
+
+
+Tja...
+
+Tschüs
+  Valentino
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 01. 07. 21 Valentino Achteresch <hbramhqzgv@xepqwiajbc.rr>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/B3F9CD02 01. 07. 21

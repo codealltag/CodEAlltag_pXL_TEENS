@@ -1,0 +1,13 @@
+Eine ziemlich große Firma, von der man eigentlich zumindest schonmal was 
+gehört haben könnte.
+
+
+Die Tastenmatrix einer Bedienung zu simulieren ist nichts das Problem, ich 
+will aber etwa 4 Geräte fernsteueren, nicht nur eins.
+Heute hab ich mir die meisten Teile zusammengekauft, morgen oder 
+übermorgen fangen dann wohl die ersten Experimental-Aufbauten an. 
+Aber eigentlich sollte ich ja gerade an anderen Projekten basteln, werd 
+das Ganze insgesamt also wohl noch etwas zurückstellen müssen :-(
+
+
+So in etwa hab ich mir das gedacht.

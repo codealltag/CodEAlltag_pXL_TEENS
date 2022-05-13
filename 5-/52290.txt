@@ -1,0 +1,15 @@
+Oha.
+
+rlmwr@imxppx:~$ telnet news nntp
+Trying 135.008.7.1...
+Connected to xfygdo.pyxty.liqn.ie.
+Escape character is '^]'.
+200 tcdfo.cbze.in EBJES NNRP server INN 2.3.2 (20010120 prerelease) ready (posting ok).
+group bh.pugt.dgigla
+405 05638 9 34243 bh.pugt.dgigla
+
+Knapp davor. :)
+
+Peter
+-- 
+np: Marcel Olnhoff - American Pie

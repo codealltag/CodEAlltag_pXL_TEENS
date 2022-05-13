@@ -1,0 +1,12 @@
+Der Gedanke liegt nahe.
+
+
+Eben da verstehe ich das Problem nicht so ganz: Wenn ich ein
+beliebiges Widgetset nehme und ihm ein der VCL identisches Interface
+aufdrücke, kann es dem Programm doch eigentlich egal sein, ob es unter
+Windows oder Linux compiliert wird, oder nicht?
+
+Viele Größe,
+     Claudio Veseli
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

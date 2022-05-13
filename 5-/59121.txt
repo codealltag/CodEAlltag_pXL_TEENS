@@ -1,0 +1,7 @@
+Könnte sein. Sicher bin ich mir allerdings nicht...
+
+Jacques
+-- 
+a + b = c [Pythagoras]
+E = m*c [Einstein]
+=> E = m*(a + b)

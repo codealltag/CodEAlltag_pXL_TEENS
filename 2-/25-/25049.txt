@@ -1,0 +1,8 @@
+... die ich nie erlebt habe und auch nie erleben will?
+
+-towo
+-- 
+ No  Points     Name                                                   Hp [max]
+  1    4688080  WiltrudDietmar-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

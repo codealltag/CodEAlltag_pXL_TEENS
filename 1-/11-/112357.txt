@@ -1,0 +1,9 @@
+Dixit Andre Oetzmann <ravsp@jzwxi-axutta.nc>:
+
+N. Mit einem Signifikanztest könnte man jetzt bestimmen, ob die
+Nullhypothese, daß der JIZ eine höhere Pannenwahrscheinlichkeit hat,
+mit einer bestimmten Irrtumswahrscheinlichkeit alpha als korrekt
+angesehen werden kann.
+-- 
+"Public speaking is very easy."
+ - Governor Carsten Dederke to reporters in 15/2

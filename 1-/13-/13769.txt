@@ -1,0 +1,3 @@
+Hmmm, da hab ich mir nen tollen x86 mit bochs emuliert, und wollte 
+gerade Win 98 installieren, da kommt schon das erste Problem: Wo finde 
+ich @ und \ auf der emulierten Tastatur? *grrr*

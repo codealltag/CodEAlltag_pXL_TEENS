@@ -1,0 +1,17 @@
+Dietrich 'sSXP' Entsfellner <qFNT@grf.xlu> schrieb in im Newsbeitrag:
+78-61-99.62-74-09.gse.4271@xrww.gq...
+werden
+
+Das heisst nicht, dass es keinen ssh Client gibt. Das bedeutet bloss, das
+unter ssh keiner installiert ist.
+
+
+Wahrscheinlich da: das MS sowas wie einen Telnetclient mitliefert.
+
+
+Da könntest du dich aber täuschen. Aber frag ich mich in einem Monat
+nochmal, dann kann ich dir mehr dazu sagen...
+
+
+Nicht wirklich. Ohne GTTK sind die eh nicht viel wert und das prinzipielle
+Problem bleibt bestehen.

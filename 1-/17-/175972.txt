@@ -1,0 +1,10 @@
+Seit wann das ?
+
+
+Es waere besser (wegen der Eindeutigkeit), ist aber IIRC nicht zwingend
+  vorgeschrieben (es heisst ja FQDN, nicht U(nique)FQDN).
+
+-- 
+Gerhard
+"Am I human ?    Or am I just programmed to believe I am human ?"
+                                                 - Carsten Vaterl

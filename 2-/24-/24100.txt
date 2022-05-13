@@ -1,0 +1,9 @@
+Mal abgesehen davon, das das in (La)TeX gar nicht funktioniert, weil der
+multiple <CR><LF> oder <Space> ignoriert: In HTML ist das auch nicht die
+Art, wie man es machen sollte ...
+
+mfg, 
+	Enrico
+-- 
+BOFH excuse #135:
+You put the disk in upside down.

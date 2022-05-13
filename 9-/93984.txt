@@ -1,0 +1,23 @@
+Claus Coen hat geschrieben getan getutet:
+
+
+<cite
+src="bhekjgheighjdbnblkdzoiehdoiuwhjasnabX7276378@iris.rz.uni-konstanz.de">
+Erst kuerzlich war ich mit meinem Vater bei einem Kunden, dem hatte so
+ein Gieshof Dienstleister (ich glaube das ist ein Langzeitstudent
+oder so, manchmal treibt er sich noch an der Uni 'rum) eine webasierte
+Groupware und qmail (schreibt man da so? irgendwas total umstaendliches
+mit vielen Kommandozeilenkonfigurationen) als Mailserver installiert. Er
+hat sogar freiwillig auf sein Outlook verzichtet! Das ist
+verantwortungslos und wir empfehlen dem armen Mann, er solle diesen
+Dienstleister verklagen. Mein Vater versucht ihm eine Exchange-Loesung
+zu verkaufen (das einzig sinnvolle fuer den Betrieb des Kunden) und
+durch Menschen so wie den da oben wird das fast unmoeglich gemacht.
+</cite>
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Dietrich 'patrice' Krähenbühl in st.qmk.cnwrfqsu.znztlbme

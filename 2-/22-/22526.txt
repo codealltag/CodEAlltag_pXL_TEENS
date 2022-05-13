@@ -1,0 +1,7 @@
+Wieviel THC braucht man denn?
+
+mfg, 
+	Helmut
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old Nautilus cpu - insufficient processing power

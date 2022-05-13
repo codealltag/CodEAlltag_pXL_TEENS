@@ -1,0 +1,29 @@
+STATISTIK 09. 03. 22
+-=-=-=-=-=-=-=-=-=-
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   2969   52,43%  "Forte Agent"
+   2   1251   22,09%  "Gnus"
+   3    502    8,86%  "slrn"
+   4    273    4,82%  Fort Agent 1.8/32.548 (WIN32) (Windows/4.90.3000 (i6
+   5    236    4,17%  "Gravity"
+   6    221    3,90%  "Xnews"
+   7     62    1,09%  ehrlich registriertes Crosspoint, via NNTP
+   8     57    1,01%  "Microsoft Outlook"
+   9     44    0,78%  "Mozilla/NetScape"
+  10     22    0,39%  "Forte Free Agent"
+  11     21    0,37%  keiner angegeben
+  12      2    0,04%  Fort&eacute; Agent 1.8/32.548 (WIN32) (Windows/4.90.3
+          3    0,05%  andere
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Volkmar Peterßon.
+(Darstellung angepasst von Denis Rahnführer)
+Basierend auf den Feeds von:
+vdvwhnsq.wnarg.gg       btlr.wah.ear.dd         ezxz.iygbyzj.vb
+uome.ikvyb.rkj          nuzv.xkrytw.jx          ljta.a-iplpus.cl
+tbfe.rdw-syrlyeog.vt    nmuk.snu-qerlhzos.il    tzji.qhz-fcaqigpos.bq
+xnzkqmi.bsaeda.qfj.lq

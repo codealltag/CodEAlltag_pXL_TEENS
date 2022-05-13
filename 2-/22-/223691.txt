@@ -1,0 +1,17 @@
+wnyren@zfc.ilism.mv (Siegfried Nirschl) hat am Wed, 18. 03. 23 10:32:15
+GMT etwas geschrieben, was ich jetzt beantworten muß:
+
+
+Ich glaube Du verw�xelst da was ! Für mich ist eine
+Dokumentenbeschreibungssprache genau das, was Du als
+Seitenbeschreibungssprache auffasst. Eine Seitenbeschreibungssprache
+legt nämlich _NICHT_ das genaue Layout fest.
+
+
+Ciao, 
+
+-- 
+eMail: ldrlxu@jxjct.ua     Homepage: http://blnkrrjkh.wfke.sefly.hu/                       
+ IRC : Gwn @ #liyqbufp      Letztes Update : 13.08.1999
+  - DH/DSS Public Key available per mail... 
+   --- Schutzpatron aller Frauen von dtju --- :-)

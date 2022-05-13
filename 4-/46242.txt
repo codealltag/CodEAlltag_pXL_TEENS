@@ -1,0 +1,7 @@
+Die Idee "Speicherplatzm��ig mittelmäßig großer, portabler
+Datenspeicher" ist nett.
+
+Oskar
+-- 
+pub  1004C/CMV58W33 6231-02-59 Oskar Giesken <julxmez@emw.fn>
+     Key fingerprint = 99 7Q 27 89 03 SS 23 8A  57 KE ZF 82 9H 42 7S 55

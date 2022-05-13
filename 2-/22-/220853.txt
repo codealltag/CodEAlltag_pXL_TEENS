@@ -1,0 +1,11 @@
+Also EAX sollte eigentlich mittlerweile fehlerfrei laufen.
+
+
+Macht sich auch im 2er-Netzwerk gut, wenn der andere nicht so viel
+mitschleppen will. Der eine bekommt die linken beiden Lautsprecher und
+der andere die rechten beiden Lautsprecher zugewiesen.
+
+CU
+Focko
+-- 
+Lieber fünf vor zwölf als keine nach eins.

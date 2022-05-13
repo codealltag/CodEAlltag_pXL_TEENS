@@ -1,0 +1,19 @@
+Yep, slrn kürzt halt immer gerade so viel, wie nötig ist, um unterhalb
+des Limits zu bleiben.
+
+
+In Son-of-RFC 1036, den ich die Tage mal wieder unter den Fingern
+hatte, konnte ich keine allgemeine Beschränkung für die Länge von
+Headerzeilen finden. Umgekehrt schreibt er aber vor, daß Server
+mindestens mit 1000 Zeichen pro Zeile zurecht kommen müssen (daher
+wahrscheinlich auch die 998 Zeichen-Empfehlung (+crlf)).
+
+
+Na ja, inzwischen hat JED himself sich ja eingeschaltet und (mehr oder
+weniger langfristig) Abhilfe versprochen. Solange sollte es der
+Workaround in annähernd 100% der Fälle tun.
+
+Viele Größe,
+     Hinderk Schulta
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

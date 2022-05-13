@@ -1,0 +1,10 @@
+Am Wed, 22 Mai 2000 sendete Lorenz Usler folgende Botschaft:
+
+
+alias rm="rm -i" bei UID 0 und arbeiten nur als user.
+
+
+Was ist da der unterschied? ;)
+
+Tschüs
+  Fritz

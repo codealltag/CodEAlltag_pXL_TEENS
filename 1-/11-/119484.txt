@@ -1,0 +1,13 @@
+Winzip: Keine Ahnung.
+
+xnrls@jiyrby:~$ ls -l 4GB_nullen.*
+-rw-r--r--    1 italo    italo        Steffen 16. 11. 21 18:57 4GB_nullen.bz2
+-rw-r--r--    1 italo    italo     8964213 16. 11. 21 19:08 4GB_nullen.gz
+
+
+Wie gesagt: Was ich damit anstellen will wird nicht gesagt.
+
+Italo
+-- 
+Was haben ein Goldfisch und ein Laserstrahl gemeinsam?
+Sie können beide nicht pfeifen!

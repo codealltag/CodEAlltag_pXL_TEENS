@@ -1,0 +1,16 @@
+Am Sun, 8 Jul 1999 sendete Ingolf Eichgrün folgende Botschaft:
+
+
+Wenn ich sonst awk benutzen müsst? ja. Wenn es lat�rnich mit tr/sed geht
+macht man es lat�rnich besser damit. Aber an einem rechner ohne Perl
+arbeiten zumüssen ist fast so schlimm wie an einem Winrechner. Ich
+brauche das einfach zugerne. z.b. heute schreib mal
+
+
+mit sed ;(
+
+
+*arggel* stimmtja *Asche aufs haupt streu*
+
+Tschüs
+  Laurent

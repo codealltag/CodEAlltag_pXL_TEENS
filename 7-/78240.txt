@@ -1,0 +1,13 @@
+Logisch, da du eigentlich
+
+ Do play wave "Ding.wav"
+
+meinst. Du scheinst die Mächtigkeit der Skriptsprache etwas zu
+unterschätzen.
+
+So long,
+Friedhelm W. Nowak
+--=20
+http://rprr.jwoer.sx/jsk/
+Neu: Hamster 1.3.22.104 - sorry für die Wartezeit
+Zum Testen freigegeben: Korrnews 3.9999 aka "KN4-Beta-7"

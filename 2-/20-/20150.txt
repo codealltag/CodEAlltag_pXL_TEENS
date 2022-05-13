@@ -1,0 +1,7 @@
+Er sollte es rekursiv machen. Das, was er abgeliefert hatte war aber
+kein Fibunacci.
+
+Severin
+-- 
+Das ist wie mit Geld: da redet man auch nicht drüber, das hat man.
+-thh in <dtj.020722232355.random-8844@dragonfly.akallabeth.de>

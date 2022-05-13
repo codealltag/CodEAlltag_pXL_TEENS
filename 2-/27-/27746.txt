@@ -1,0 +1,23 @@
+Adrian Riedhammer meinte kundzutun:
+
+
+*Hier* nicht... bin grad sogar dabei, den Emailausgang von hier nach
+draußen "etwas" aufzubohren... *g*
+
+
+Hm. Wo anmelden? Costa la quanta?
+
+
+Sagen wir es so: Ich hätte schon gerne From:,Reply-To:,Date: (soweit
+gesetzt),Subject:,In-Reply-To:,References: und ähnlich interessante
+Header unverändert weitergegeben.
+
+Nicht so wie pvtqjt.e-ggvhsi.nx, der das From: auf die eingestellte
+Webmailadresse umschreibt... Und wenn die eben nicht eingestellt ist
+steht als Emailadresse im From eben die TOI-Anschlußkennung als
+Emailadresse...
+
+Oskar
+-- 
+Wörter des Tages
+12.11.2003: Körstgens - Massenvernichtungswaffen - Peez

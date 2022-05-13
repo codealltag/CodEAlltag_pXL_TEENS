@@ -1,0 +1,27 @@
+Lisp? Ich?
+
+Diesen wirren, unverständlichen Klammernschei� tu ich mir nicht
+freiwillig an. Mir reicht schon, wenn ich ein einfaches 
+
+(setq variable t) oder
+(setq variable nil)
+
+hinbekomme... ;-)
+
+
+Kodieren:
+
+perl -pe 'tr/a-zA-Z/q-za-pQ-ZA-P/'
+
+Dekodieren:
+
+perl -pe 'tr/a-zA-Z/k-za-jK-ZA-J/'
+
+Lässt sich beides praktisch in Pipes einbauen...
+
+Roger, voller Vorurteile über die Sprache in der sein Newsreader
+programmiert wurde.
+
+-- 
+DAU - Von Aliens empfohlen: Qouten wenn es maestet!
+                                                 [aus http://ouv.qaeuaxetbl.lo]

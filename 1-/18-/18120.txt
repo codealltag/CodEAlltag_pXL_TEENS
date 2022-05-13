@@ -1,0 +1,8 @@
+Hmm. Ist Prog 1 das, was landläufig auch `Java für Wiwis' heißt?
+Sowas haben wir nämlich garnicht.
+
+mfg, 
+	Pascal
+-- 
+BOFH excuse #395:
+Redundant ACLs.

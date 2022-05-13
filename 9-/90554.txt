@@ -1,0 +1,6 @@
+Logischerweise wird zuerst der Cache im RAM entsorgt, alles andere
+wäre massiv arnoootisch.
+
+Lars
+-- 
+Dann habe ich geheiratet, da ging DAS nicht mehr. [Benno]

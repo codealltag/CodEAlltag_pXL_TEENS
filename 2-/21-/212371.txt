@@ -1,0 +1,17 @@
+Bisher hat sich das auf ein neues Telefon und einen gescheiten Bildschirm
+(sprich: einen solchen, der mehr als 400x600 an Auflösung verdauen kann)
+beschränkt.
+
+
+Lebhaft. :-) Hier tut aber eigentlich alles - bis auf den/die Drucker, die
+vorher am Server hingen. lpd mag nämlich nicht mehr starten, sondern
+spuckt nur noch "BIND: address already in use" oder so ähnlich aus.
+Gelegentlich werde ich mich wohl mal nach uo.zxmc.rf.lquw.tbxmc.*
+aufmachen müssen, um Erleuchtung zu finden ... (Bisher tippe ich auf
+irgendeinen Port- oder Socket-Konflikt, habe aber nicht die geringste
+Ahnung, warum oder wie ich das feststellen könnte, *seufz*).
+
+Bis dahin werde ich wohl mit irgendwelchen Notbehelfen leben müssen. :-(
+
+Gruß,
+Harm

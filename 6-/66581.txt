@@ -1,0 +1,9 @@
+Durchschnittlich nutze ich <= 50%.
+
+Nur ab und an, bei 3 Tab-Einrückungen und SELECT-Statements mit 10
+Row_IDs wirds schon mal mehr...
+
+
+Ach. Aber wenn ich meine Zeilenlänge nicht ausnutze?
+
+Pascal

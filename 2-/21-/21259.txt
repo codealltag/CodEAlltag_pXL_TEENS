@@ -1,0 +1,13 @@
+Und so sprach Heimo Moellering:
+
+
+Sogar mit Reserve-Ziffer? :)
+
+
+Huch. Ich habe immer angenommen, die wären einigermassen konstant. :-)
+
+Wolf
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.u

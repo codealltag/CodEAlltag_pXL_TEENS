@@ -1,0 +1,48 @@
+Solches tippte Emanuel Oppacher:
+
+Beschämend gering. THERES.
+
+
+NEIN!!!1, das kann ich nicht auch noch zitieren. *sinnkrise* Wo ist mein
+Augenarzt, wenn ich ihn schon mal brauche?
+
+
+Das Geld wäre wenigstens mal gut angelegt...
+
+
+a) kenne Ausnahmen... b) klar, aber das ist unabhängig von a).
+
+
+Nicht mehr lang, weil's dann ja keine Diskettenlaufwerke mehr geben
+soll ;-)...
+
+
+*horror* und das dann noch mit kritischen Daten womöglich? Aber Du
+hast ja recht. Seit SirCam weiss man sowas ja noch genauer.
+
+
+Hm,
+\newcommand{\MYKOPFZEILE}{...}
+\nexthead{\MYKOPFZEILE}
+\pagestyle{headings}
+
+Ja, das ist echter Luxus...
+
+
+Dann braucht man auch keine CI, wenn man schon CD nicht versteht oder
+auch nur willens ist, es verstehen zu wollen. Just my 2ö...
+
+
+Eine Einführung, was man mit Metapost in TeX und ConTeXt alles schönes
+anstellen kann. Das ganze kann bei Tümmers,
+deren Website <URL:http://ksk.witqki-arq.brn> just heute down zu sein
+scheint, für frei als ca. 2 MB großes PDF runtergeladen werden.
+
+
+Jawohl! never surrender!
+
+
+Und Serge Ulbert Artikel zu briefkopf.sty in der TeXnischen Komödie?
+<URL:ftp://ftp.dante.de/tex-archive/macros/latex/contrib/supported/koma-script/contrib/briefkopf/>
+
+Simon

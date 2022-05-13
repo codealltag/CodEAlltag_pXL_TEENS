@@ -1,0 +1,35 @@
+Am Sun, 16 Okt 1998 12:51:04 +0200 sendete Luc Rischmüller
+folgende Botschaft:
+
+
+------
+NAME
+       screen - screen manager with VT100/ANSI terminal emulation
+
+SYNOPSIS
+       screen [ -options ] [ cmd [ args ] ]
+       screen -r [ [pid.]tty[.host] ]
+
+DESCRIPTION
+       Screen is a full-screen window manager that multiplexes  a
+       physical  terminal  between  several  processes (typically
+       interactive shells).  Each virtual terminal  provides  the
+       functions  of  a DEC VT100 terminal and, in addition, sev-
+       eral control functions from the ANSI X3.64 (ISO 6429)  and
+       ISO  2022  standards  (e.g. insert/delete line and support
+       for multiple character sets).  There is a scrollback  his-
+       tory buffer for each virtual terminal and a copy-and-paste
+       mechanism that allows moving text regions between windows.
+------
+
+Screen erlaubt es dir ganz einfach, auf einer console (tty) mehrere
+virtuelle consolen laufen zu lassen zwichen denen du dann hin und her
+schalten kannst. Aber das eigentlich interessante ist, das du die
+entstandenen consolen auch vom terminal lösen kannst. so kannst du dich
+also auslogen ohne das der gestartete prozess beendet wird. Das ist z.B.
+dann ganz nützlich wenn du einen server hast aucf den du nur per ssh
+zugreifst und du den über nacht zeitaufwendige aufgaben erledigen
+lassen willst. (z.B. kernelbacken.)
+
+Tschüs
+  Oliver

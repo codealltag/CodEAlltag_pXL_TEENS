@@ -1,0 +1,16 @@
+Ich war bis vor zwei Monaten auch USB-Gegner. Aber dann schaffte ich mir  
+nacheinander ein Joypad, eine neue Digitalkamera und ein ZIP-Laufwerk an.  
+So schlecht ist USB eigentlich gar nicht - zwei freie Interrupts mehr.
+
+
+Die läßt sich bei Bedarf aushebeln. Allerdings bin ich eher Befürworter  
+einer Verschmelzung von Browser und Betriebssystem.
+
+
+Das kann ich aber nicht bestätigen.
+
+Eckhard Unkauf
+
+-- 
+Das Leben ist ein Witz und ich bin die Pointe.
+---> Offizieller Kämpfer wider Ronald Volkertz des Ordens von dtju <---

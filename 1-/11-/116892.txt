@@ -1,0 +1,10 @@
+Am Fri, 10. 06. 22 sendete Lenia Hoemann folgende Botschaft:
+
+
+Hast du das problem eigentlich gelöst? Laut RFC 1036 sollte das
+eigentlich IMHO gehen.
+
+Tschüs
+  Volkmar
+-- 
+Notorisch Schreibfaul.

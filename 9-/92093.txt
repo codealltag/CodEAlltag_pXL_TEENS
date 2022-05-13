@@ -1,0 +1,32 @@
+Das wollte ich hören. :-)
+
+
+Exakt beschrieben.
+
+
+fetchmail -vvvv sagt (versucht aufs wesentliche zu kürzen):
+
+[...]
+
+(Ich frage mich was das da soll...)
+
+
+(Und dann gleich dreimal.)
+
+                           ^^^^
+(Auch recht seltsam, wie ich finde.)
+
+
+Gefällt mir nicht so recht. Vor allem die beiden letzten Zeilen.
+
+
+telnet localhost 25 sagt, dass dort Postfix läuft. Wegschicken kann
+ich ja auch fast problemlos.
+
+
+Hm, was muss ich telnet sagen, damit es sowas macht?
+
+Pierre, DAU
+
+-- 
+Nichts zu tun ist besser als mit viel Mühe nichts zu schaffen.

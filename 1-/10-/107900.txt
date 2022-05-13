@@ -1,0 +1,10 @@
+Und so sprach Richard Vietrich:
+
+
+Also bei mir versagte regelmaessig das Threading aufgrund zu hoher
+Postingzahlen. Das Threading ist allgemein ein bisschen ... kaputt.
+
+Gruss,
+Harm.
+-- 
+.  . _ ___ _  _  _

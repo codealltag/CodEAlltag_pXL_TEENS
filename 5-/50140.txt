@@ -1,0 +1,11 @@
+Kai Wegerle apparently wrote exactly the following:
+
+
+[_] Du weit, was "*." in einer Regexp bedeutet.
+
+Siegfried
+-- 
+Dein Informationssystem wird stets in der 
+richtigen Datenbank nach den falschen Daten suchen.
+
+(Murphy's Gesetz)

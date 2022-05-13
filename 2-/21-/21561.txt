@@ -1,0 +1,10 @@
+Und so sprach Ana Vaut:
+
+
+Ja.
+
+Focko, man fdisk and friends.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.z

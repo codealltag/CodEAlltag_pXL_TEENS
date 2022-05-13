@@ -1,0 +1,12 @@
+* Heinrich Freiberger <nkma@vyvipmck.nj>:
+
+
+Gruppenliste? Die holst du doch vom Server deines Providers.
+
+Die Daten kann man sicher übernehmen, wenn du Gnus als offline-Reader
+einrichtest. mbox versteht Gnus nämlich (so habe ich meine mails
+übernommen).
+
+Luca
+-- 
+cross veinless

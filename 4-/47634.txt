@@ -1,0 +1,13 @@
+Isz auch zuerst Weide. F12, arrow up, F3, ssh yggdrasil, su -c
+'fetchnews', F1, M-x gnus, de.talk.jugend, a, post, C-c C-c, Alt-Tab,
+Alt-Up, su -c 'fetchnews', C-d, C-d, alt-tab. So ungefähr. :)
+
+
+Meep ja nimmer.
+GRLW und Kosmetikstübchen.
+
+-jean-luc
+-- 
+*rls*
+Das kann ich aber besser!
+- Hildegard und jean-luc auf der JUP V

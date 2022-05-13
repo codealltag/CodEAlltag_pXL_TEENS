@@ -1,0 +1,30 @@
+Joachim Prünner schrieb am 26. Juni 2000 um 20:19 Uhr folgendes:
+
+[UTF-8 - RFC2279]
+
+So what? Selbst die aktuellen MIME-RFCs (die -- wenn man sich nicht
+auf reines 7bit beschränken will -- momentan wohl die einzige
+Alternative zu UTF-8 darstellen) sind erst "draft standard" und damit
+streng genommen Zukunftsmusik, an die sich - noch - keiner halten
+muss.�
+
+
+Nun ja, irgend etwas *muss* man als Referenz benutzen, wenn man
+Newsreader schreibt und sogar der Status von RFC 1036 ist unbestimmt
+(und nicht etwa "Standard", auch wenn einige gern so tun). Als
+Programmierer von Usenet-Software muss man im Moment eigentlich vor
+der Implementation sämtliche einschlägigen RFCs, Son-of-RFCs und
+Drafts konsultieren und versuchen, mittels gesundem Menschenverstand
+zu entscheiden, was davon am wahrscheinlichsten funktioniert (und auch
+in ein paar Jahren noch funktionieren wird).
+
+Viele Größe,
+     Joachim Intven
+
+[1] Wer sich für Details interessiert: "Draft Standard" ist eine Stufe
+höher als "Proposed Standard" -- bei ersterem wird "widespread
+testing" empfohlen, bei letzterem "implementation and testing by
+several groups"; es ist also durchaus legitim und im Sinne des RFCs,
+UTF-8 bereits "im echten Leben" auszuprobieren.
+-- 
+A fool must now and then be right by chance.

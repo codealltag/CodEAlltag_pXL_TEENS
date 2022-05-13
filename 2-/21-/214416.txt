@@ -1,0 +1,10 @@
+Das steht Dir frei. So wie ich es verstehe, geht es den Leuten dort
+hauptsächlich darum, daß niemand dazu gezwungen wird, auf PGP 5
+umzusteigen, weil DSS-Keys die Oberhand gewinnen. Wenn Du von jeder
+Sorte einen Schlüssel hast, können 2.6.x-Benutzer mit Dir weiterhin
+problemlos PGP-verschlüsselte Nachrichten austauschen.
+
+Viele Größe,
+     Volkert Munster
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

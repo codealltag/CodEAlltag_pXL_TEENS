@@ -1,0 +1,13 @@
+* "Sergio Riss" <rdrt@wpeydjjz.no>:
+
+
+Ich würde mir an deiner Stelle oben genannte Datei ansehen. Dort sind
+alle wichtigen Dinge zusammengestellt -- man muss das Rad ja nicht
+nochmal erfinden.
+
+Ansonsten hilft dir das manual zu bbdb -- `C-h i' und dann nach bbdb
+suchen.
+
+Jakob
+-- 
+cross veinless

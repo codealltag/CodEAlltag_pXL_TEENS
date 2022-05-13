@@ -1,0 +1,12 @@
+Veit Rodenbeck hat geschrieben getan getutet:
+
+
+Meide dieses Ding namens "CS" und nimm das nach den HL-Patches
+mitgeliefete TFC.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ernst 'winfried' Riedlinger in qh.nuw.kgaulllx.azlbcsuv

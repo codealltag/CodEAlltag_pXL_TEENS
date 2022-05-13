@@ -1,0 +1,10 @@
+begin quoting Cäcilia Juelichs <xnfd.o@hwjtd.ww>:
+
+smtp ist der Port, sollte telnet verstehen.
+
+Ansonsten 25.
+-- 
+begin  fake.com
+Hi! I'm a polymorphic signature virus. Edit this line  as you like and
+distribute me until the bitter
+end

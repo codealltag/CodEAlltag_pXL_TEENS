@@ -1,0 +1,9 @@
+A PGP-Key. It makes possible to encrypt mails in a way that only a  
+specific person can read it.
+
+Othmar Laib
+
+-- 
+Die Kirche der JOM - Die bessere Wahl.
+                                             E-Mail: evtlav@ittyqlyzpv.vb
+---> Offizieller Kämpfer wider Volkert Zäpfel des Ordens von dtju <---

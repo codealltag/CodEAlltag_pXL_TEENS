@@ -1,0 +1,8 @@
+Find ich auch gut. Die TUI-Reisecenter läuft normalerweise mit 100 MHz, aber
+meine macht problemlos 125 MHz mit. Der Trinkgut Wilkie TNT war langsamer getaktet
+als der TUI-Reisecenter, hat dafür aber massig mehr Transistoren.
+
+CU
+Oswald
+-- 
+Lieber voll heimkommen als leer ausgehen.

@@ -1,0 +1,10 @@
+Jonas 'sSXP' Terglane <sXVZ@vxm.ssr> schrieb in im Newsbeitrag:
+27. 08. 21...
+
+# mv -R *html /home/web/domain
+
+
+Aendert nicht viel dran, dass ich das Konzept nicht mag.
+
+
+Ts. Hat ne fette Standleitung und scheut sich vor 200kb...

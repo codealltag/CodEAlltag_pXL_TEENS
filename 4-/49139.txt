@@ -1,0 +1,11 @@
+Hallo Sven Jacobtorweihen
+
+
+Mehr nicht?
+
+MfG Valerius
+
+-- 
+Fachbegriffe der Informatik einfach erklärt
+320: Softwarewartung 
+     Flags putzen, Strukturen nachrichten und Variablen mit l auffüllen. (Ralf Uellendahl)

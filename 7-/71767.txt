@@ -1,0 +1,19 @@
+(* Joachim Rövemeier wrote: *)
+
+
+Wenn du mir einen _vern�nftigen_ Editor gibst, der validen Code 
+produziert _und_ übersichtlich ist - sofort.
+
+Dreamweaver war ja schön und gut bisher, aber sobald du anfängst dich 
+vom alten HTML-Ballast wie <FONT> und Konsorten zu lösen büßt das ganze 
+einiges an Qualität ein - da kann ich dann auch direkt UltraEdit nehmen.
+
+
+Naja wenn ich die Seite irgendwann mal mit JAXP weiterverarbeiten will 
+komme ich da gar nicht drum herum.
+
+
+Na ich bin jetzt eher soweit mir mal PHP anzutun, das scheint auch ganz 
+nette Funktionen zu haben (Kennt jemand ein _gutes_ Tutorial?)
+
+Erhard

@@ -1,0 +1,14 @@
+Gemessen vom BIOS-Piep bis zum Login-Screen des MH Videotheken Betriebsges./Apah bedienbar[1]
+ist. Inklusive Passworteingabe.
+Inklusive BTW der Initialisierung aller SCSI-Komponenten des Rechners.
+Dabei werden auf allen SCSI-Laufwerken bootfähige Partitionen gesucht. 
+
+Bodo
+
+
+[1] Rein im Sinne von "es reagiert auf Kommandos ziemlich direkt"
+
+-- 
+Will ich DAS wirklich? *denk*
+Nee, lieber nicht.
+[Prof. Hi]

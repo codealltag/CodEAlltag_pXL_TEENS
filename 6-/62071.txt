@@ -1,0 +1,14 @@
+Und so sprach Wolfgang Dörscher:
+
+
+Also ich habe mir damals das 8.1-ISO gezogen, und das tut
+einwandfrei. :)
+
+
+Hab ich mit potato auch gemacht, ging gut (im Gegensatz zum dselect &
+Krempel Zeug). NetBSD installiere ich sowieso immer ueber FTP.
+
+Gruss,
+Andreas.
+-- 
+Summer is a moving creature and likes to go south for the winter.

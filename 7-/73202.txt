@@ -1,0 +1,11 @@
+Carlos Arweiller hat geschrieben getan getutet:
+
+
+Script, nacheinander aufrufen.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Vincenzo 'dirk' Ahrenz in tn.udx.xpzcyhnv.xasqtpzp

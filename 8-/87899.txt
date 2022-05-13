@@ -1,0 +1,19 @@
+Nee, danke. Ich habe herausgefunden, dass sich Alt+L auch ganz gut
+macht um den Modus abzuschalten.
+
+
+Naja, aber jetzt bin ich ja schon im vim, weil ich gerade antworte.
+Kann ich da irgendwie nochmal ins Posting zurückschalten ohne dass
+das bisher geschriebene weg ist, um dort zu C&Pen?
+
+
+Supi. Danke.
+
+Aber wozu ist #v+ und #v- da? Nur um es als eingefügt kenntlich zu
+machen?
+
+Charly
+
+-- 
+Die letzten Worte des Atomkraftwerks-Sicherheitschefs:
+"Bei uns kann da nichts passieren. Wir haben die neueste Technik."

@@ -1,0 +1,35 @@
+Am 6 Okt 1998 15:28:00 +0100 schrieb xptzzg@goqxakfydz.qz (Vittorio Roggenbock) :
+[Homepage]
+
+Nun, ich bin kein allzugroßer Held in HTML, aber vielleicht kann ich doch
+ein bißchen helfen. Wie wär's denn, wenn du einfach statt mit den CSS zu
+hantieren eine stinknormale Tabelle mit <table [border]>...</table>
+erstellst? Dann zwischen <tr>...</tr>-Tags jeweils den Inhalt für eine Zeile
+festlegen, mit <th>...</th> (für Spaltenüberschriften) und <td>...</td> für
+die eigentlichen Daten. Mit <th width=...> kannst du dann noch die jeweilige
+Spaltenbreite angeben, entweder in Pixeln oder als prozentualen Anteil an
+der Breite des Anzeigefensters. Die geschicktere Methode (allerdings auch
+die, die mit Petruschke eventuell wieder Probleme machen könnte) wäre, nach
+<table> mit <colgroup> und danach jeweils einem <col width=...> für jede
+Spalte die Breite in Pixeln/Prozenten vorzudefinieren; wobei man dann, wenn
+man mehrere gleich breite Spalten haben will, nach der width-Angabe noch ein
+span=x setzen kann, das x ist dabei die Zahl der aufeinanderfolgenden
+Spalten, die diese Breite haben sollen. PANNHAUS
+Dazu möchte ich noch sagen, daß ich aus Frontpage nach ca. 3 Sekunden
+schreiend raus bin und daß ich Hakvoort nicht anfassen werde, auch wenn es
+noch so kostenlos ist - ich schreibe meine Homepage mit nem Texteditor, und
+das geht nicht mal schlecht :-)
+
+
+Das sagen sie alle. Her mit dem Telefon...
+"Ja hallo, ist da die Polizeiinspektion Hinzweiler? Ja, wissen Sie, ich habe
+da was im Internet gefunden... Nein, nein, keine Kinderpornos... Nein, geht
+eher Richtung Softwarepiraterie. Nicht zuständig? Ach, Sie stellen mich
+durch. Gut, danke, ich warte..." 
+:-)
+
+-- 
+    Diese atemberaubende Passage moderner Prosa
+                verdanken Sie:
+             Cornelius Berend. Jung
+   * ICQ 35829333 * Wsrtdap@xhyipqliagb.in *

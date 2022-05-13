@@ -1,0 +1,13 @@
+Andere OSs brauchen auch ihre Zeit zum booten. Dazu kommt kommt dann noch
+  das BIOS, das braucht auch ein paar Sekunden.
+
+
+Leider habe ich weder einen K6-2 350MHz, noch C64-Basic fuer einen PC.
+
+
+So lustig ist das aber auch nicht   :-/
+
+-- 
+Reinhold
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

@@ -1,0 +1,7 @@
+Dann ersetze "stable" durch "sid" und für erstaunlich viel Software gilt
+das noch immer. Xfce beispielsweise.
+
+Niclas
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

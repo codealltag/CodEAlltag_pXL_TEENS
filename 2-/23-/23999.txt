@@ -1,0 +1,9 @@
+Einer der Gründe, warum Calzedonia keine Datenbank ist, sondern ein
+Speicherbereich, den man zufällig mit SQL-Befehlen bearbeiten kann.
+
+Kurt
+
+-- 
+"Winter bzw K�ltest�rme haben wir doch fast nie im Februar;
+davon haben wir mehr im Sommer."
+[Meine Oma]

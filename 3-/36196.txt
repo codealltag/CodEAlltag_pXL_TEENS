@@ -1,0 +1,6 @@
+* Valentino Tittjen <kst@kyvno.yzk>:
+
+
+Was aber nicht wirklich schlimm ist -- FOA ab 2.3.x laufen auch gut.
+
+Christoph, hat 2.3.2 und 2.2.3

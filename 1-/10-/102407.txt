@@ -1,0 +1,8 @@
+Gut ja, einfach weiss ich nicht, ich bin ja am DNS-Server
+gescheitert...
+
+Thorsten
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

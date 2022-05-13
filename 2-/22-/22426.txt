@@ -1,0 +1,7 @@
+Der arme Affe.
+
+mfg, 
+	Dieter
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

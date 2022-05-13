@@ -1,0 +1,12 @@
+Und so sprach Karlheinz' 'Kasimir Orter:
+
+
+Also einige tolle Dinge gibt's schon. Wie schon erwähnt zum Bleistift
+anständige OO-Sachen (pass by reference ist schon wünschenswert) oder
+auch eine konforme DOM-Implementierung. Ausserdem soll's wohl auch
+brauchbare XML- und XSL-Extensions auf Basis von libxml geben, was
+wirklich toll wäre. ;-)
+
+Edgar
+-- 
+... and furthermore ... I don't like your trousers.

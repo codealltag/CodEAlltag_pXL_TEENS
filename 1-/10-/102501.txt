@@ -1,0 +1,6 @@
+Darf man das einfach so machen? Nein, oder?
+
+Lukas
+
+-- 
+Löscht alt.binaries.*!

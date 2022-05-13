@@ -1,0 +1,22 @@
+Nein, es liegt an zwei Gründen: Erstens lizenzrechtliche, denn Sat kann im  
+Gegensatz zu Kabel ja in ganz Europa empfangen werden - und gegen  
+Zweikanaltonausstrahlungen auf der LUT hätte NVK aus England bestimmt was.  
+Der zweite Grund ist mehr technischer Natur: Für die Audio-Übertragungen  
+werden haupsächlich die Kanäle 7.02 und 7.20 verwendet, bei den Sat- 
+Receivern ist meist einer von beiden voreingestellt - und zwar auf Stereo.  
+Stereo ist bekanntlich eine Mischung aus der linken und der rechten  
+Tonspur. Bei Zweikanalton wird allerdings auf der linken Tonspur der  
+deutsche Ton und auf der rechten der Originalton (oder umgekehrt)  
+abgespielt. Ist der Receiver jetzt allerdings auf Stereo eingestellt,  
+werden beide Tonspuren vermischt und es kommt Kauderwelsch raus. Jetzt  
+kommt der Brüller: Die LUT fand heraus, das bei einer solchen  
+Zweikanalton�bertragung über Sat 80% der Empfänger nicht in der Lage  
+wären, den Receiver so einzustellen, daß sie nur die entsprechende Tonspur  
+empfangen...
+
+Elias Vandenberg
+
+-- 
+Dieses höchst lehrreiche Posting wurde von Elias Vandenberg persönlich
+geschrieben!                                 E-Mail: nlaamh@qjbpwslimh.wp
+---> Offizieller Kämpfer wider Horst Zawadzki des Ordens von dtju <---

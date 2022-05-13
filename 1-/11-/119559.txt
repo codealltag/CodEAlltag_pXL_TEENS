@@ -1,0 +1,14 @@
+Die Ergebnisse :-)
+
+dd if=/dev/zero ibs=1M count=4096 | bzip2 > testfile.zip
+
+ergibt:
+
+kxast@cerahj:~$ ls -l testfile.zip 
+-rw-r--r--    1 roger    roger        Klaas 13. 11. 21 18:04 testfile.zip
+
+Hau "Nein, was ich mit 4GB Nullen in einem Zipfile will, sage ich
+nciht" ke
+-- 
+Guck dir mal den Unterschied an, so nen grossen hattest du noch nie!
+[Isabella zu Theo]

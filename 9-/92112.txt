@@ -1,0 +1,16 @@
+Muss das wirklich sein? Das muss ich dann ja auch wieder einstellen
+*heul*. Es soll _alle_ Mails in ein Verzeichnis tun und braucht nicht
+darauf zu achten woher der Kram kam oder wohin er soll. Ich bin ja eh
+der einzige User hier in der Wohnung.
+
+
+mail_spool_directory ist /var/spool/mail und möglicherweise noch
+/$user dahinter (ich kann gerade nicht nachgucken). Da landen die
+Mails allerdings nicht.
+
+Angelo
+
+-- 
+"Wenn du immer tust, was du schon immer getan hast, wirst du immer
+bekommen, was du schon immer bekommen hast."
+                                                      [Harm Hofmyster]

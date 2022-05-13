@@ -1,0 +1,14 @@
+Am Thu, 27 Apr 2000 sendete Onno Chrysostomus folgende Botschaft:
+
+
+Hast du ein glück, ich steh mit den dingern immer auf kriegsfuss.
+
+
+da sollte eigentlich 'pgp -f' zum entschl�seln und 'pgp -feast <userid>'
+zum verschlüsseln reichen. (ist aber beides ungetestet.
+
+
+Das ist ja auch zusehr vom hadiko betroffne ;)
+
+Tschüs
+  Georges

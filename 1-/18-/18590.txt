@@ -1,0 +1,7 @@
+Am Wed, 06. 01. 23 sendete Christian 'Claus Vocht folgende Botschaft:
+
+
+Es war IIRC explizit ULONG_MAX als Obergrenze angegeben.
+
+Tschüs
+  Ludwig

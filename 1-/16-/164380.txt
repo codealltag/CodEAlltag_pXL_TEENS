@@ -1,0 +1,11 @@
+Kurt Teicht schrieb am 21. November 1999 um 15:47 Uhr folgendes:
+[...]
+
+Und das ist IYO ein Argument dagegen, die Konfig-Dateien in ein
+eigenes Verzeichnis zu legen?
+
+Viele Größe,
+     Ignaz Treixler
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

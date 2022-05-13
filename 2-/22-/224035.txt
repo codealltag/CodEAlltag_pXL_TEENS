@@ -1,0 +1,26 @@
+So ähnlich, nur viel komplizierter ;-)
+
+Ach ja: Weiß jemand, ob es für DOS (6.2, ohne jegliches Windows auf
+der Platte) eigentlich ein benutzbares Terminalprogramm gibt?
+
+
+Yep, ich hasse das. Man bekommt von verschiedenen Händlern
+unterschiedliche Geräte angepriesen und muß sich entscheiden, wer denn
+nun der Kompetenteste ist und sich am wenigsten auf den eigenen
+Vorteil konzentriert. Deshalb ist es mir auch ganz lieb, wenn ich Tips
+von Leuten bekomme, bei denen keine finanziellen Interessen im Spiel
+sind.
+
+
+Mein ZIP-Laufwerk (SCSI mit mitgelieferter Adapterkarte) läuft unter
+beidem einwandfrei. Auch die Parallelportvariante geht unter beiden,
+ist allerdings deutlich langsamer. Mit der ATAPI-Version gibt es (bzw.
+gab es vor einem halben Jahr, kann längst schon wieder anders sein)
+unter Linux noch Probleme - die Ziptools (für softwaregesteuerten
+Auswurf, Paßwortschutz etc.) funktionierten dafür nicht; Mounten und
+Lese-/Schreibzugriff geht IIRC aber auch da.
+
+Viele Größe,
+     Italo Leitl
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

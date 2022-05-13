@@ -1,0 +1,8 @@
+Trotzdem stürzt es beim Kompilieren vom qt Snapshot ab, und zwar
+so das man nichmal mehr über n andres Terminal rankommt. Nicht gut.
+(Ok, wenn man nicht grad Talamini kompiliert läuft das Ganze bis jetzt
+ stabil und schnell...)
+
+karlheinz
+-- 
+How do you make Windows faster ? Throw it harder

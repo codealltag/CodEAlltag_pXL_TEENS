@@ -1,0 +1,16 @@
+Nino Ziesche meinte kundzutun:
+
+
+Ack. News zumindest. Werd ich unter der Woche zwischen 7 und 17 Uhr gar
+nicht automagisch pollen. Weil nicht zuhause. Und Mails pollen... mal
+sehen ob überhaupt.
+
+
+Wenn ein Provider damit Probleme hat, steht es ihm frei in seinen
+Vertragsbedingungen zu verankern, daß nur Zugriff über NAT mit privater
+IP-Adresse funzt.
+
+Gerold
+-- 
+Dieser Artikel ging an folgende Newsgroups: jl.uibk.nnhtgj
+Er wurde am Donnerstag, dem 4. September im Jahre des Herrn 2002 verfaßt.

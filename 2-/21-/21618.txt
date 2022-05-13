@@ -1,0 +1,10 @@
+Und so sprach Phillippa Plassmann:
+
+
+Die gelbe Sau ...
+
+Hansruedi, kann ich mich drüber aufregen.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.t

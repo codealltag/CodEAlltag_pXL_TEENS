@@ -1,0 +1,12 @@
+So lange? Komik...
+
+Vor allem hab ich das erst sogar in news/out.going schon geändert und
+dann später bemerkt, dass es ja doch nicht geändert rausgegangen ist.
+*Das* ist erstmal seltsam!
+
+Udo
+
+-- 
+INSTALL:
+"Die Anwendung wurde unerwartet beenden.
+ Starten Sie die Anwendung erneut."

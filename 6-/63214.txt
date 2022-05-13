@@ -1,0 +1,24 @@
+Philippe Raitmeier <kmltge_45-00@jvoo.ekudwr.tz>:
+
+
+In der Tat. Da bist du in einer von mir gelesenen Gruppe aufgetaucht.
+
+
+yrsty@uennej:~$ ls -lha | grep .bbdb$
+-rw-rw-rw-    1 hedy     hedy        2.5M Mai  1 18:50 .bbdb
+
+Soviel habe ich übrig.
+
+
+Mal angucken.
+
+
+,----[ .gnus ]----
+`--------
+
+,----[ .emacs ]----
+`--------
+
+Tut bei mir.
+
+Luc

@@ -1,0 +1,9 @@
+Manchen Leuten sollte man wirklich eine selbstaktualisierentes
+Kotstueck via Active Desktop einbinden, welches ihnen mitteilt,
+welches ihrer Programme den nun mal ein Update noetig haette.
+
+-to'w00t. Blocksatz.'wo
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.
+$(sudo /root/get-xmms-title)

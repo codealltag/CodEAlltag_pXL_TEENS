@@ -1,0 +1,25 @@
+Am Fri, 25 Nov 2001 sendete Thorsten Zukschwerdt folgende Botschaft:
+
+
+Und meine auf simpel.
+
+':'                 -> ex mode
+'1,$'               -> Befehl auf Zeile 1 bis Ende anweden.
+'s/Domian/Domain/g' -> Dürfte ja bekannt sein.
+
+
+Damit meinst du was genau?
+
+
+aptm sollte das können. Allerdings habe ich weder gvim noch eine
+scrollmaus. ;)
+
+
+Jep.
+
+
+Ja. Sowohl intern (innerhalb eines oder zwischen verschiedenen Buffern)
+als auch extern (per X oder gpm). 
+
+Tschüs
+  Fabio

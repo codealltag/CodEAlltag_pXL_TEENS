@@ -1,0 +1,5 @@
+Wieso? Weil das Board neuere ATX-Spezifikationen entspricht, für die das
+alte Netzteil mangels deren (->Spezifikationen) nicht dimensioniert
+werden konnte?
+
+Ben

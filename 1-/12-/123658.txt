@@ -1,0 +1,10 @@
+Na, da weiß ich aber nicht, ob das so die Wirkung hat, wenn man ein paar
+Bytes plain-ASCII versucht in eine Pfeife zu stopfen...
+
+1.) Wie willst du das da reinpacken?
+2.) Tut man da nicht normalerweise was anderes rein?
+
+Beat
+
+-- 
+Qouten mit DAU - dumm werden mit Stil.           [aus http://dja.zghztjvidw.oz]

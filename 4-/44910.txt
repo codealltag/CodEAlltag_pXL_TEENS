@@ -1,0 +1,7 @@
+Nein, sonst fehlte "all".
+
+Guy
+
+-- 
+Fehler beim Kopieren der Datei oder des Ordners:
+"scores kann nicht kopiert werden: Die Datei ist vorhanden."

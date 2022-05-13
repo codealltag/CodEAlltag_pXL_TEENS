@@ -1,0 +1,7 @@
+Hm, Masquerading lief bei mir out of the box. Womit ich momentan
+Probleme habe, ist Samba. GM Electronic 2000 sagt "Zugriff verweigert",
+obwohl bei den Shares
+ read only = no
+und
+ writeable = yes
+gesetzt ist ...

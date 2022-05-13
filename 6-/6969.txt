@@ -1,0 +1,25 @@
+OK, der Hamster braucht etwas, wenn man viele große Gruppen dabei hat.
+
+
+Quick PowerOn SelfTest ist aber aktiviert?
+
+
+Mein alter Rechner ist von 1998 und der konnte schon UDMA.
+
+
+Meine Installation ist von 2000 (Update) und ist schneller da:
+Der Speicher (512MB) ist gecheckt, bevor der Monitor da ist.
+64 Sekunden nach dem Einschalten ist die grafische Oberfläche bzw. 
+das Login da, wobei allein ca. 14 Sekunden fürs SCSI-BIOS drauf 
+gehen.
+Nach weiteren 40 Sekunden hört die Platte auf zu rden, die 
+Sanduhr ist weg und der Hamster hat Ruhe gegeben.
+
+Das schnellste Windows, das ich hatte, war ein Win95, das nach 
+'Windows wird gestartet' 25 Sekunden brauchte, bis alles geladen
+war.
+
+Du solltest wirklich mal nach dem UDMA gucken bzw. überprüfen, ob 
+Windows nicht in sowas wie 'Kompatibilitätsmodus' läuft.
+
+Gabriel

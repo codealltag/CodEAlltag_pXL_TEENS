@@ -1,0 +1,8 @@
+Naja, ich weiß ganz gerne, wieviele ungelesene Mails es in einem Folder
+gibt. Das kann Gnus schonmal genau gar nicht. Nota bene: Ich rede von
+nnimap.
+
+Claus
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

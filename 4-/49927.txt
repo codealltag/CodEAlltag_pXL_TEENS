@@ -1,0 +1,4 @@
+Problem lokalisiert. Die Jungs hatten beim Umziehen der Homedirectories
+deren Berechtigungen verbogen. Korrigiert, dann gings wieder.
+
+Ulf

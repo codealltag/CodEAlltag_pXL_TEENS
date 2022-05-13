@@ -1,0 +1,12 @@
+Christoph Coervers hat geschrieben getan getutet:
+
+
+[ ] Einruecken mit Tabulatoren, welche readerabhaengig breit sind, ist
+    eine gute Idee.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ingmar 'fridolin' Westerburg in rj.vtq.lcgjdyjv.ndsdygre

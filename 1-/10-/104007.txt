@@ -1,0 +1,9 @@
+Ich hab meine Postings lange mit vim verfasst, weil der nunmal auf der
+AC-Cosmetics eingestellt war, den vim nehme ich auch nachwievor, wenns
+kleinere Sachen sind, die ich editieren will. Wenns was grösseres wird
+bevorzuge ich dann doch den (X)Emacs, wegen des IMHO schöneren
+Syntaxhighlightings. 
+
+Kurt
+-- 
+                  Weird enough for government work.

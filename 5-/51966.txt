@@ -1,0 +1,6 @@
+Weil es leicht zu Fehlern führt. Da das aber ein Problem der
+Client-User-Kommunikation ist, ists kein Bug.
+
+Paolo
+-- 
+Schild in einer indischen Kneipe: "Toiletten am Ende des Ganges"

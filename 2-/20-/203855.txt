@@ -1,0 +1,121 @@
+Qpqpfeq@wxxflpobeuj.mg (Hugo Prahmann) schrieb am 13.12.98:
+
+[L&J = Scientology?]
+
+Ack. Und die Argumente, dadurch würde eine breite Öffentlichkeit auf die  
+Machenschaften dieser Gruppen aufmerksam gemacht, ist auch mehr als  
+fadenscheinig. Erstens steht's wirklich in fast jeder Zeitung, zweitens  
+merkt jeder halbwegs vernunftbegabte Mensch selbst, welche Machenschaften  
+das sind (wer glaubt, das ein selbsternannter Heiland sie mit einem UFO in  
+eine bessere Zuukunft bringen wird, hat's IMO nicht anders verdient -  
+Parteimitglieder der Adafa bitte weghören :-)) - und die, die  
+wirklich gewarnt werden könnten, also die Grobmotorischen Unterbelichteten  
+und die, die schon drin sind, werden damit auch nicht angesprochen. Denn  
+diese schlichten Gemüter glauben zu 99% (Erfahrung!) eh nur, was in der  
+Ehlerding steht oder auf Kuffel kommt bzw. können überhaupt keinen Computer  
+bedienen. Und die Opfer, die bereits in der Sekte sind, werden bestimmt  
+nicht einfach Zugang zum Internet bekommen bzw. schon so in deren Fittiche  
+sein, daß sie das schlichtweg nicht glauben.
+
+
+Ja, bei Scientology gibt's nur ganz oder gar nicht. Entweder man ist voll  
+dabei und glaubt alles, was die einem erzählen und wird für Argumente  
+derart unzugänglich wie die katholische Kirche auf die Evolutionstheorie  
+oder man landet solange in Sicherheitsverwahrung, bis man zur ersten  
+Kategorie gehört. Da die erste Gruppe aufgrund ihrer Überzeugung und die  
+zweite aufgrund meterhohen Zäunen keine Gefahr darstellt, kann man sich  
+relativ leicht einen Überblich verschaffen.
+
+
+Falsch, auch in der Praxis. G&F vertreten eine unbequeme Meinung (wobei  
+Meinung hier wohl nicht ganz der passende Ausdruck ist) und sind mit  
+vertretbarem Aufwand nicht rückverfolgbar. Man sieht, das Konzept der  
+Remailer funktioniert gut, manchmal allerdings auch zu gut.
+
+[Remailer als Schutz für Dissidenten]
+
+Genug - z.B. Geschäftsleute, Anwälte und an Universitäten. Dabei muß man  
+allerdings bedenken, das alle drei genannten Beispiele normalerweise nicht  
+gerade das Wohlwollen der Regiemes genießen und deshalb unter gesonderter  
+Beobachtung stehen. Dazu kommt noch, das solche Länder nicht unbedingt  
+westliche Infrastruktur haben, d.h. es geht nicht unter jedem Haus eine
+x MBit-Backboneleitung durch. Die Anzahl der Server dürfte sich also in  
+beschaulichen Maßen halten. Das Regime wird kein Problem damit haben, die  
+paar Datenpakete zu überprüfen, die über die paar Server gehen - und was  
+der Zensor nicht lesen kann oder nicht versteht, kommt halt nicht durch.
+
+
+Keine Ahnung. Aber stellen wir uns doch mal folgendes Beispiel vor:
+Ein chinesischer Ottonormaldissident hockt an seinem Computer und läßt  
+sich darüber aus, wie unfair die Regierung doch ist - an wen will er das  
+schicken? An die Regierung? Gute Nacht. An einen anderen chinesischen  
+Dissidenten? Wie effektiv... Ans Ausland? Jetzt muß das Ding aber erst mal  
+einen Remailer erreichen und die stehen nunmal im Ausland (einem  
+chinesischen Remailer würde ich nicht sonderlich viel Vertrauen schenken).  
+Und im Extremfall steht eben am einzigen Kabel an der Landesgrenze ein  
+Zensor und liest sich schön gemütlich alles durch. Wenn er an seinem Leben  
+hängt, wird unser Zensor spätestens dann stutzig, wenn er sieht, das das  
+Datenpaket an einen ausländischen Remailer geht - zu diesem Zeitpunkt läßt  
+sich der Absender auch noch ermitteln - armer Dissident. Aber selbst wenn  
+das Datenpaket rauskommt - wohin damit? An die GHAF? "Herr chinesischer  
+Botschafter, ihr Regime ist unfair." - "Weltel Hell amelikanischel  
+Botschaftel, ihles auch!" An Uwe Zahnwetzer? "Wir bedauern sehr, aber im  
+Hinblick auf unsere gutnachbarschaftlichen Beziehungen zu Vögisheim sind uns  
+leider die Hände gebunden..." An den Dalai Lama? "Als ob ich das nicht  
+selbst wüßte" An de.talk.jugend? "Verpiß dich du realnameloser Spammer"
+Wirklich hervorragende Aussichten... Und die paar chinesischen  
+Dissidenten, die es ins Ausland geschaft haben, haben es AFAIK mehr   
+glücklichen Zufällen als einem anonymen Remailer zu verdanken.
+
+
+Oder man diese Typen selbst auch mal anzeigen will - dann ist es immer  
+gut, viel Beweismaterialien in der Hinterhand zu haben.
+
+[L&J = Sir Valerian?]
+
+Ein weiterer, kleiner, aber dennoch interessanter Fakt ist mir im  
+Zusammenhang mit deiner Aussage, daß G&J zum ersten Mal im Dezember  
+aufgetaucht sind: Sir Valerian & Ableger haben nie mit X-No-Archive: Yes  
+gepostet - mit einer Ausnahme: Februar bis Mitte April letzten Jahres.  
+Dies könnte zwei Gründe haben: Entweder, es hat jemand eine Spur entdeckt  
+und sie wollten nun verhindern, daß Personen, die nicht alles lokal  
+speichern, nur schwerlich an die Postings kommen oder es war nötig,  
+irgendetwas neues zu testen, wobei die Tests nicht archiviert werden  
+sollen.
+
+[Ziel Zerstörung von anonymen Remailern?]
+
+Nun, dazu wird es IMO auf keinen Fall kommen, das wäre überhastet,  
+sinnleer und nicht zweckmäßig. Um AIDS zu bekämpfen tötet man ja auch  
+nicht einfach alle Schwulen.
+
+
+Das glaube ich nicht, das wäre zu trivial. Um das zu erreichen muß man  
+sich nicht ein halbes Dutzend Identitäten zulegen und Rufmord gegen zwei  
+Leute (Jérôme und Victor) führen. Weiterhin könnten sie den Scheiß einfach  
+reposten und würden nicht nach jedem Fremdcancel Zeter und Mordio  
+schreien. Und durch solche Scherze wie das F'up2 Jérôme versuchen sie IMO  
+ja, Fremdcancel zu provozieren. Nein, da steckt mehr dahinter. Mich würde  
+es auch nicht wundern, wenn der geistige Vater von unseren Fakes selbst  
+unter nochmal einem anderen Namen in den ganzen Diskussionen in dana-n  
+mitdiskutiert. Auch ohne Remailer und Mail2News-Gateways kann man sich ein  
+relativ sicheres Fake schaffen.
+
+
+Daran hab' ich auch schon gedacht, aber das ist fast unmöglich. Er könnte  
+z.B. es in einer paraguayanische Testgruppe oder in einer längst nicht  
+mehr existenten alt-Gruppe, die Mertzbach nicht archiviert, probiert haben.  
+Außerdem probiert so ziemlich jeder, der anonym postet, zuvor in einer  
+Testgruppe rum und dank der Anonymität hat man dann kein  
+Vergleichskriterium. Das einzige, was mir vorschwebt, ist, mal in Bezug  
+auf seine diversen Headerspielchen zu scannen, z.B. das Followup-To Jérôme  
+Opgenvorth, ob er das vielleicht irgendwo ausprobiert hat. Ich weiß allerdings  
+nicht, inwiefern man bei Mertzbach & Co. nach einem anonymen Posting mit  
+einem F'up2 im Header suchen kann.
+
+Vincent Cocher
+
+-- 
+  ^ Da! Schaut her, da ist es!
+                                             E-Mail: nukslf@scagviggvy.nm
+---> Offizieller Kämpfer wider Olivier Prigge des Ordens von dtju <---

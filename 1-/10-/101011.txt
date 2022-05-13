@@ -1,0 +1,15 @@
+* Ingo Stolte <sjotcbwoslvjcs@zgm.rgh>:
+
+
+Das ist nicht _so_ schwierig.
+
+
+Hat jemand eine Ahnung, wie lange man de.*!de.alt.dateien.* halten kann,
+wenn man ~800Mb für den Spool hat?
+
+
+Wenn ich mal Zeit habe, mache ich das. Olivier wollte auch.
+
+Vito
+-- 
+cross veinless

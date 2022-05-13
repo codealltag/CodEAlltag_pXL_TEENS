@@ -1,0 +1,7 @@
+Das sagt mir nun überhaupt nichts, aber da es sich um ein Buch
+handelt, wundert's mich auch nicht.
+
+Rudolf
+
+-- 
+cat .signature

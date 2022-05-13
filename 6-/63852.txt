@@ -1,0 +1,6 @@
+Das macht es bei mir auch. Alt ist Mod1 und AltGr Mod3.
+
+Nicolas
+
+-- 
+cat .signature

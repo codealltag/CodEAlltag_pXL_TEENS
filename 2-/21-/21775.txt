@@ -1,0 +1,22 @@
+Am Thu, 29 Nov 2002 sendete Ullrich Ottmar Oelbracht folgende Botschaft:
+
+
+Aber dafür richtet man lieber 40 partitionen a 25 MB ein?
+
+
+Träumer. ;)
+
+
+Meinst du nicht es wäre etwas unsinnig (auf dem selben Rechner) alle
+artickel eine Gruppe mittels Client in den Speicher zu laden und dann zu
+durchsuchen?
+
+
+Ja. Langsam, Leise, undeutlich.
+
+Tschüs
+  Niko
+-- 
+Die Weisheiten des Ullrich Jup: #5
+
+Winkis Chilli rockt.

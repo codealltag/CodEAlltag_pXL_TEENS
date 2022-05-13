@@ -1,0 +1,6 @@
+Aber nicht ohne FIFO Puffer sonst gibt's ständig nen Carrier-Loss.
+
+CU
+Ivano
+-- 
+Lieber voll heimkommen als leer ausgehen.

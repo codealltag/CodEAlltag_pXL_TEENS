@@ -1,0 +1,9 @@
+* Niklaus Hanke <orfmktlkznrqcp@dme.sgd>:
+
+
+eizjx@lryacc:~$ ps aux | grep newsbot
+news       304  0.0  0.1  1356  564 ?        SN   10:01   0:00 /mrp/majcy/kndn/yhp/oiuiipy -d -x
+
+Dirk, mit diabolischem Blick
+-- 
+np: Bad Religion - Inner Logic

@@ -1,0 +1,13 @@
+Ach nix... Funktioklappt wieder, aber erst, nachdem ich den halben Tag
+gestern dran gessen habe. :)
+
+
+Hab ich. Nur Jackwerth hat die dumme Eigenschaft, nicht im Onlinezustand
+beendet werden zu wollen, das mußte dann beim Runterfahren immer über
+den Taskmanager killen. Ich glaube, ich muß mal eine Bugreport
+schreiben. :)
+
+-- 
+sSXP
+
+Science is what happens when preconception meets verification.

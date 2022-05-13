@@ -1,0 +1,9 @@
+Wieso, Weil du nicht quer zur Tür rauspasst, oder weil du keinen Platz
+mehr in der Dusche hast, wenn sie drinsteht?
+
+
+SCRN,
+	Eckhard
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

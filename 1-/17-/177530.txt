@@ -1,0 +1,18 @@
+Waldemar Hellmann schrieb am 24. Juni 1999 um 19:32 Uhr folgendes:
+
+
+slrn versucht nicht, den Text dazwischen in irgend einer Form zu
+interpretieren (zum Beispiel wird *dies* farblich / durch Fettdruck
+(je nach Terminal) hervorgehoben,
+#v+
+*dies*
+#v-
+jedoch nicht). Ist halt für Sourcecode und so Zeug, wo entsprechendes
+Highlighting sinnfrei ist.
+
+Viele Größe,
+     Heinrich Ohrtmann
+-- 
+"I loathe people who keep dogs. They are cowards who haven't got the
+guts to bite people themselves."
+                                                   -- Luigi Ostmeier

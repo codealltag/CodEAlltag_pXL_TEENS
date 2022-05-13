@@ -1,0 +1,9 @@
+Muß es das denn sein? Bei mehr als 26 FPS erkennt das Auge keine
+Einzelbilder mehr, sondern eine Bewegung. Von daher erscheinen mir
+50FPS völlig übertrieben, denn das bleibt immer noch eine Bewegung,
+die dadurch auch nicht schärfer wird.
+
+Raphaël
+
+-- 
+            The dark ages were caused by the Y1K problem.

@@ -1,0 +1,2 @@
+? 3Com Xjack Karten können die Antenne in der Karte verstauen, damit sie 
+beim Transport im PCMCIA Slot bleiben kann.

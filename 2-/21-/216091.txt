@@ -1,0 +1,27 @@
+Wenn Du im Moment
+
+  a) ein wenig Platz auf der Platte
+  b) ein paar freie Nachmittage / Abende / Wochenenden
+  c) eine gewisse Frustrationstoleranz
+
+hast - warum nicht? Bei mir würde es im Moment wohl an b) und
+teilweise an c) scheitern, aber ich habe die Umstellung ja schon
+hinter mir :-)
+
+
+LILO (Vorsicht bei NT!). Bei DOS / Win 9x geht auch loadlin.exe,
+Bootdiskette müßte immer gehen (ist aber natürlich nervig).
+
+
+Das Ding ist vor und bei der Installation ganz praktisch, danach kann
+man es weitgehend vergessen. Davon, in einer RLWL-Newsgroup Fragen zu
+stellen, die darin beantwortet sind, ist aber abzuraten ;-)
+
+
+Die Installation geht sinnigerweise mit CD 1 los, später fragt YaST
+schon nach, wenn es eine andere CD braucht...
+
+Viele Größe,
+     Detlef Schnekenbühl
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

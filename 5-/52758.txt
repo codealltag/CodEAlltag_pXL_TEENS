@@ -1,0 +1,8 @@
+tcvnc@qfoyin:~$ ls -l /proc/uptime 
+-r--r--r--    1 root     root            0 Aug 27 20:34 /proc/uptime
+
+
+Sebastian,
+ den Versuch jetzt auch nicht mehr erwartend
+-- 
+               I believe the technical term is "Oops!"

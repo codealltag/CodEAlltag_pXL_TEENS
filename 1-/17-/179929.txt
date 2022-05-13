@@ -1,0 +1,19 @@
+Benno Rudloffs schrieb am 23. Dezember 1999 um 21:33 Uhr folgendes:
+
+
+Nun ja... es ist ein Wrapper um metamail und mutt; wenn für /bin/sh
+und die beiden angesprochenen Programme brauchbare Portierungen
+existieren, ist es kein Problem, sonst wird's wohl ziemlich haarig -
+ist zwar alles open source aber AFAIK relativ komplex.
+
+
+Stimmt, ich brauch's auch nur alles Jubeljahr einmal.
+
+Viele Größe,
+     Dietrich Renfordt
+
+P.S.: Eventuelle Followups wenn's geht dieses Mal auch per CC:, ich
+bin ab sofort für mindestens eine Woche in Urlaub.
+-- 
+If you're happy, you're successful.
+                                               -- random fortune cookie

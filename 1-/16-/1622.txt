@@ -1,0 +1,10 @@
+Am Di, 6 Jun 2006 sendete Olivier Justin Wullweber folgende Botschaft:
+
+[...]
+
+Daran ist aber nicht nur die Induktion schuld, >16A durch 1.5^2 macht das
+Kabel alleine durch seinen Widerstand schon warm. Und wenn die nicht weg
+kann...
+
+Tschüs
+  Beat

@@ -1,0 +1,3 @@
+Normale Ifuh Graphikkarte, normale 3c509b Netzwerkkarte, normale AHA-
+2940 SCSI-Karte, normale Hauppauge WinTVpci-Karte, normale Automaten-Videothek-Karte, 
+normale AWE64 Soundkarte. Alles normale Karten eben.

@@ -1,0 +1,4 @@
+Ich arbeite auch textbasiert, allerdings früher mehr als heute (mir 
+gefällt übrigens die Bash). Aber auch textbasiert kann man bessere UIs 
+gestalten. Und alle Kritik mit dem klick-Nullargument zu erschlagen mag 
+ich nicht (vorsichtig ausgedrückt).

@@ -1,0 +1,13 @@
+Der USB-Krams im 2.2er-Kernel ist bestenfalls wackelig, eher schlimmer.
+
+[snip]
+
+
+Da ist ein Lithium-Ionen-Akku drin, aufladen läuft über die Cradle.
+
+Felix
+-- 
+Wir waren laut? Wir waren nicht laut! ... [kurze Stille zwecks
+gründlicher Durchforstung des Erinnerungsvermögens]... Na gut - in der
+ersten Nacht waren wir etwas laut. Da haben wir nicht aufgepasst.
+[Ingolf R. über die nächtlichen Begebenheiten auf dem Flur]

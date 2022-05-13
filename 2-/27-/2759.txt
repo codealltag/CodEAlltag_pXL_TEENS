@@ -1,0 +1,14 @@
+*nick* Aber es kommt noch schlimmer, er war jetzt einen kompletten tag
+offline.  
+
+
+Sowieso. Internetkenntnisse sind aber trotzdem ein Erziehungsvorteil.
+
+Olaf, sollte die alte HFOD mal putzen, wenn er sie denn schon nutzen
+mag. 
+
+-- 
+Karsten:~$ whoami
+root
+Karsten:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Ingo Germerdonk]

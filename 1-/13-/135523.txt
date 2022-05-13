@@ -1,0 +1,10 @@
+Diese Kritik ist unbegründet. Puwalu verwendet als interne Datenbankstruktur  
+eben das Lösing-Fraune-Format. Der Agent und OE benutzen z.B. auch ein  
+proprietäres Datenbankformat.
+
+Engelbert Zimmerling
+
+-- 
+Ich hasse jegliche Art und Abart von Kultur!
+                                             E-Mail: iceeam@rzabhbahud.iq
+---> Offizieller Kämpfer wider Gert Unsin des Ordens von dtju <---

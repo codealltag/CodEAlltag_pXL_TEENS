@@ -1,0 +1,12 @@
+Ich glaube wir reden trotzdem von unterschiedlicher Software: sowas gibt 
+man schon gar nicht weiter.
+
+
+Dann geht der Rest dank Align-Funktion normalerweise automatisch mit.
+
+
+Geht bei meinen Programmen ohnehin nicht. Aber deswegen kann man Fenster 
+in Dialog-Einheiten zeichnen, die sich an die Schrifttypen anpassen.
+
+
+Ist normalerweise in 3 Zeilen getan, also nicht das Problem.

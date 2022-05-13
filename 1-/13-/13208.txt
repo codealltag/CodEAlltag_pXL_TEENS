@@ -1,0 +1,13 @@
+Nicht wirklich. Ich will die eigentlich da haben wo ich sie habe, egal
+wo mein Rechner gerade steht.
+
+
+(setq gnus-secondary-select-method '((nnimap "mail")
+(nnimap-nov-is-evil t))) 
+
+tut hier recht gut, das hatte was (lies: Da war was, aber frag mich
+nicht was...) mit der Geschwindigkeit zu tun.
+
+Arne
+-- 
+"Logmans war ein Optimist."

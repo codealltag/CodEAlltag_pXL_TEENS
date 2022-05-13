@@ -1,0 +1,5 @@
+Ich vermute, daß ps vielleicht etwas kleiner ist. Da ich aber keine 
+Dateien zum Vergleich habe, bleibt's beim Vermuten. ps<->pdf 
+Konvertierungen zählen nicht, die werden in beide Richtungen immer 
+mächtig aufgebläht (und sehen, mit meinem GS gemacht, ziemlich 
+beschissen aus).

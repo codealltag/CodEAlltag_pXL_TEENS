@@ -1,0 +1,15 @@
+Peter Dreifürst <hroytfm@karft.dpwp.sx> writes:
+
+[MPEGs von .. irgendwas]
+
+Dann aber auch nur wieder 'vielleicht'.
+
+
+Also, andere Vorschläge?
+
+-towo
+-- 
+Any site should be designed so that it's usable as a dead file tree with
+no server-side smarts. Any sort of active pages or search engines should
+be an add-on, not essential.
+- Gerard Lages, in the Monastery

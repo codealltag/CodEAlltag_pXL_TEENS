@@ -1,0 +1,9 @@
+^Z drücken, um das gerade laufende Programm anzuhalten, drauflos-
+tippern, 'fg' eingeben, wenn Du fertig bist. Alternative unter X
+(WindowMaker): Mausklick rechts, in dem erscheinenden Men Klick auf
+"xterm" gehen, weiterarbeiten.
+
+Viele Größe,
+     Otmar Veser
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

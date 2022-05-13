@@ -1,0 +1,35 @@
+Auch wieder wahr. Nun ja, die Netzwerkkarte habe ich heute schon mal
+eingebaut und werde diese Woche (hoffentlich) noch dazu kommen, ein
+wenig damit herumzuspielen.
+
+
+Okay, bei einem reinen Terminal könnte ich eigentlich auch den Kernel
+von Diskette booten und später komplett per NFS arbeiten und hätte
+keine Probleme mehr mit dem Festplattenspeicher.
+
+[...]
+
+Das .rpm von Radwainski habe ich inzwischen auf meinen Rechnern installiert;
+beschäftigt habe ich mich damit allerdings auch noch nicht näher.
+
+
+Mmh... man kann auch auf einem einzigen tty einen astronomischen Load
+erreichen, wenn man nicht aufpaßt. Vielleicht sollte ich mir die
+verschiedenen Quota-Möglichkeiten mal etwas näher ansehen...
+
+[ATAPI-Version des ZIP-Laufwerks]
+
+Hab' zufällig gerade einen Artikel darüber in der Netto 7/99 gesehen,
+als ich nach dem Artikel über Firewalls unter Linux geschaut habe.
+
+
+Wenn nicht gerade (wie bei mir) grundsätzlich dort die Festplatte
+dahinter sitzt, wo man eigentlich das neue Laufwerk hätte einbauen
+wollen, geht das ;)
+
+[...]
+
+Viele Größe,
+     Nick Klauss
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

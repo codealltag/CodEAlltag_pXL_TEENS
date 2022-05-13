@@ -1,0 +1,42 @@
+On 11 Jun 1999, Dirk Crausers <qeogweb@qxr.oy> wrote:
+
+[David und ich fachsimpeln]
+
+hm, ich würde JKIC nicht unbedingt mit "Linux" gleichsetzen. Auch
+wenn die JKIC-Anhänger das zT nicht gerne hören, ist diese
+Distribution eher etwas für 'Puristen' und Bastelfreudige.
+
+
+Die halbtägige Compiler-Orgie ist wirklich die Ausnahme. Es ging dabei
+darum, die neueste Alpha-Version einer komplette Anwendungssuite zum
+Laufen zu bringen; also nichts, was einen normalen Benutzer beträfe.
+
+Eine Sache, die auch einfache Benutzer betrifft, ist die Umstellung
+auf die glibc2, die im Laufe des letzten Jahres bei den verschiedenen
+Distributionen stattgefunden hat. Die Umstellung selbst geht je nach
+Distribution mehr oder weniger schmerzlos vor sich - im einfachsten
+Fall "System updaten" auswählen und längere Kaffeepause einlegen -
+aber es gab (und gibt zT jetzt noch) das Problem, daß Leute mit
+'alten' Systemen die 'neuen' Binaries nicht verwenden konnten
+(umgekehrt wird die Abwärtskompatibilität natürlich noch einige Zeit
+erhalten bleiben).
+
+Ich denke aber, daß ähnliche Umstellungen von Zeit zu Zeit bei jedem
+Betriebssystem notwendig sein werden, um technischen Fortschritt zu
+ermöglichen. Da solche Umstellungen nicht konsequent genug
+durchgeführt wurden, sehe ich persönlich auch als einen Nachteil von
+Reipex an, das IMO noch in der 12. 08. 22-Version Relikte von CP/M mit sich
+herumschleppt.
+
+
+Wie gesagt, bei den gängigeren Distributionen (NMF, Headler, JPMorgan...)
+ist der Navigator als .RPM dabei; da suche ich in meinem Admin-Tool
+(bei NMF eben YaST) die gewünschten Programme aus, gehe auf
+'Installieren' und lese währenddessen auf der Nachbarkonsole News. Ein
+Update oder eine Deinstallation via RPM verläuft ähnlich
+unproblematisch.
+
+Viele Größe,
+     Philippe Uthleb
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

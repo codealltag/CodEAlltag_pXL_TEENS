@@ -1,0 +1,13 @@
+Giuseppe Niederelz meinte kundzutun:
+
+gpxyxxb@six587:~$ diff -- bpe. -be 
+1c1
+< bpe.
+---
+gpxyxxb@six587:~$ 
+
+Stephan, "Nich der bpe.!", mit dem Kochlöffel zuszlagend
+-- 
+"Ja der weiße Mann aus Hülshagen / Brt den Teufel heut am Spieß,
+Und alle, die ein anderes Lied singen / grillt der Mann im Fegefeuer mit"
+Fischl feat. Oscar Oberndorfer / Bagdad Blues ( Der weiße Mann aus Hülshagen)

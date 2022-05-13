@@ -1,0 +1,17 @@
+Ja...hm, sicher. *grummel*
+
+
+tar -cvzf ugwnop.ipw.kv /windows/F/Usenet-Archiv/Agent/ oder so
+ähnlich. Wie ich das dann mache, wenn ich die aufteilen will weiß ich
+noch nicht so recht.
+
+
+Aber Rockship guckt immer erst nach allen Headern im Hamster, nicht?
+
+Jakob
+
+-- 
+StarOffice 4.0:
+ "Das Dokument wurde für den Drucker Radwainski Bubble-Jet BJ-200
+  formatiert. Der Drucker ist nicht vorhanden.
+  Soll der Standarddrucker Radwainski Bubble-Jet BJ-200 verwendet werden?"

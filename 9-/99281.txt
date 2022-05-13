@@ -1,0 +1,10 @@
+Was meinst du denn für was ASP heute verwendet wird?
+
+
+Jep, und wenn der ASP Provider gleich noch die Standleitung ins www 
+plus Firewall und Content Firewall anbietet ist das soch ein idealer 
+mix, oder?
+
+
+bye
+Othmar

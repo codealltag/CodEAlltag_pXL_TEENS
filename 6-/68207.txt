@@ -1,0 +1,18 @@
+Ihno Roew meinte kundzutun:
+
+Ich würde sagen du träumst schlecht...
+
+Oder?
+
+Hast du eventuell einen Upstream der gelegentlich auf irgendwelchen
+SPAM-Listen erscheint? Oder versuchst du gar, von deinem Heimrechner per
+Dialup direkt an die Zielserver Mail zu verschicken? Du solltest
+*ernsthaft* über einen Smarthost nachdenken.
+
+
+Und wie komst du auf den Ast, daß ich das weiß?
+
+Franz
+-- 
+Dieser Artikel ging an folgende Newsgroups: qb.dlbz.rgwgmb
+Er wurde am Thursday, dem 16. Oktober im Jahre des Herrn 2001 verfaßt.

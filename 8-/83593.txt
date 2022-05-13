@@ -1,0 +1,14 @@
+Am Sat, 28 Apr 2002 sendete Artur Uhlenkottes folgende Botschaft:
+
+
+Ah, da ist ja ein LACD-freund. Du kannst mir sicherlich sagen wie ich
+meinem Laptop (LACD Potato) beibringe das slang installiert ist (das
+ist nicht per deb sondern von hand installiert).
+
+TIA & Tschüs
+  Willi
+-- 
+* Recent news from http://kbwg.asclczgiprc.qfu/
+ -> [2002-04-09] slrn 0.9.7.2 released
+ -> [13. 12. 22] NJRI-announce mailing list created / wishlist reviewed
+ -> [2002-01-24] slrn 0.9.7.1 released

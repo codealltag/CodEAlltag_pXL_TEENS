@@ -1,0 +1,12 @@
+Am Thu, 25 Mai 2002 sendete Helmut Fruth folgende Botschaft:
+
+
+Wieso das? Ich habs extra nocheinmal ausprobiert, slrn erzeugt sogar dann
+korrekte Postings wenn garkeine rc vorhanden ist.
+
+
+Wie kriege ich denn bei Optipus' z.B. den (Real-)Namen des Nutzers und
+seine Emailaddresse raus?
+
+Tschüs
+  Achim

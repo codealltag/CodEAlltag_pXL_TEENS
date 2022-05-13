@@ -1,0 +1,18 @@
+\begin{math}
+sim(d_j,q) = \sum\limits_{i=1}^{t} w_{i,q} w_{i,j}
+log[\frac{|D_|r,i|}{|D_r|-|D_{r,i}|} \div
+{\frac{n_i-|D_{r,i}|}{N-|D_r|-(n_i-|D_{r,i})}}]
+\end{math}
+
+war noch einer der einfacherern Ausdrücke...
+
+
+Wie gesagt: ich trau dem Highlighting nicht wirklich.
+
+
+Such dir halt gegen 1. und 2. einen Schutz, und 3. wird schon nciht
+passieren :-)
+
+Ulfert
+-- 
+Schild in einer indischen Kneipe: "Toiletten am Ende des Ganges"

@@ -1,0 +1,10 @@
+Also sprach Nikolaus Auf-Dem-Kampe <fueoxb@vtapakjmmp.pl>:
+
+
+Ja. Aber wer nicht wenigstens einmal kurz auch nur den Beginn der
+inn.conf anschaut, gehört getreten.
+
+Und wenn man nur ein bißchen Standard-UUCP will, ist man mit Hilfe von
+dcsn, dcu und gn.u sehr schnell soweit, daß alles funktioniert.
+
+Detlef

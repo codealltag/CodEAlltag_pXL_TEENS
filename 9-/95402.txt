@@ -1,0 +1,7 @@
+xfree-common ist IIRC Basissystem, und mehr ist da dann auch nicht
+drauf, jedenfalls kann ich lokal an dem Rechner XEmacs nur auf der
+Konsole laufen lassen.
+
+Louis
+-- 
+Ich äußere mich nicht mehr [A.L.]

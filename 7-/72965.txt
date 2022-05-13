@@ -1,0 +1,23 @@
+Weil ich ja nicht weiss, wann die Securityupdates rauskommen? Ich war
+schon ein paar Mal schneller als die Mails, die über die Updates
+informieren sollen.
+
+
+Doch. Die liegen so etwa am weitesten weg von dem, was ich derzeit will...
+
+
+Das wäre langweilig.
+
+
+Ich würde eher auf Mitte 2002 spätestens tippen, IIRC sollen die
+Zyklen kürzer werden.
+
+
+2.2 kommt mit Kernel 2.2 und XFree 3.3.6, 3.0 wird mit 2.4
+(vermutlich, 2.6 erwarte ich nicht vor 2003) und 4.X kommen...
+
+Sandro
+-- 
+Eine Freundin zur anderen:
+"Du, Dein Freund hat mir vorhin im Park ein Rotschwänzchen gezeigt."
+"Nanu, sollte mein Lippenstift nicht keucht sein?..."

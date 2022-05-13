@@ -1,0 +1,7 @@
+Die Signatur kann man sich kleiner oder in einer anderen Schrift anzeigen
+lassen, dasselbe für die Permanent angezeigten Header oder auch für
+verschiedene Quotingebenen.
+-- 
+'Der Mensch kann wohl tun, was er will,
+aber er kann nicht wollen, was er will'
+  -Altmeier

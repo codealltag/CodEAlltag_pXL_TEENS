@@ -1,0 +1,9 @@
+Unangemessene Härte, ich gehe in Berufung!
+
+Carl
+
+-- 
+Eduard:~$ whoami
+root
+Eduard:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Knut Delventhal]

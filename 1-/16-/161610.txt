@@ -1,0 +1,10 @@
+Fridolin Imhorst schrieb am 09. November 1999 um 01:00 Uhr folgendes:
+[...]
+
+RFC 2044 lesen hilft. Wenn der Usefor-Draft in der aktuellen Form
+durchkommt, wird für Header-Zeilen BTW alles außer UTF-8 "deprecated".
+
+Viele Größe,
+     Fridolin Rolwes
+-- 
+A truly wise man never plays leapfrog with a unicorn.

@@ -1,0 +1,9 @@
+* Burkhard Bretzel <bdng@jadgidlp.in>:
+
+
+Hast du bei Gnus überhaupt keine Farben oder nur kein Highlighting der
+Quote-Ebenen?
+
+Norman
+-- 
+cross veinless

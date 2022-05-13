@@ -1,0 +1,22 @@
+Ein Interpreter wandelt kein Code in Maschinensprache um, er interpretiert 
+ihn während der Ausführung (wie der Name schon sagt).
+
+
+Es geht um den Java Byte-Code, nicht um den Source.
+
+
+Denk Dir hier den gleichen Satz wie eben.
+
+
+Und nochmal ;-)
+
+
+Geschwindigkeit.
+
+
+Ich bin keine Java Programmierer. Aber alle Java Programmierer die ich 
+kenne jammern über die doch recht mangelhafte Portierbarkeit. "Luft es 
+auf einer Plattform, läuft es auf jeder Plattform" is' nicht.
+
+
+Es klingt langsam und �berfl��ig, so to say.

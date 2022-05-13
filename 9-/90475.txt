@@ -1,0 +1,12 @@
+Und so sprach Nick Knofflock:
+
+
+Hm, ... *sigh* modulare Kernel ... das Modul heisst glaubs
+"ip_masq_icq" und sollte irgendwo (mindestens im Sourcecode)
+aufzutreiben sein.
+
+Gruss,
+Dario.
+-- 
+                          Afroshop - the meta project
+                         <URL:http://nda.zbyzzgdfx.vn/>

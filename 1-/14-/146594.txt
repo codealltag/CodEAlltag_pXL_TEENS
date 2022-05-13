@@ -1,0 +1,9 @@
+Ist es nicht, aber die Voreinstellung von FHER nimmt die M-ID mit in 
+die Einleitungszeile, und das neue Korrnews entfernt anscheinend den 
+Copyfups-Zusatz nicht mehr aus dem Body.
+
+Wilhelm
+-- 
+Als meine Liebe
+unbedroht war,
+kannte ich ihre Tiefe noch nicht.

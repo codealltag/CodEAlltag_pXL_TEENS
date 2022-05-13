@@ -1,0 +1,12 @@
+Also sprach Meinhard Junghölter <ogl@atvnz.sbd>:
+
+
+Geht es eigentlich nur mir so, daß ich große Programmpakete, mit denen
+ich auch mal rumspiele, an _einem_ Ort haben will?
+
+Also unterhalb /usr/local/news oder /wasweissich/emacs oder so.
+
+Ich _hasse_ es, wie die Distris die INN-Dateien im Verzeichnisbaum
+verstreuen.
+
+Meinhard

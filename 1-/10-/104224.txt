@@ -1,0 +1,10 @@
+Dixit Friedhelm Esinger <xyzbog@txjdip-cqijjqg.zm>:
+
+s/touring/turing
+
+Die Menge der turing-berechenbaren Probleme ist gleich der Menge der
+intuitiv lösbaren Probleme. Dere Begriff des intuitiv lösbaren
+Problems ist nicht definiert.
+-- 
+"Welcome to Mrs. Irgang, and my fellow astronauts."
+ - Governor Bernhard Irgang

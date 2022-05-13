@@ -1,0 +1,41 @@
+Ich habe mich tatsächlich dazu durchgerungen, die Festplatte
+auszubauen, weil mir ganz einfach keine andere (halbwegs elegante)
+Möglichkeit einfiel, überhaupt Linux darauf zu bekommen (der Rechner
+kann nur von Festplatte oder 5,25"-Diskette booten, das
+CD-ROM-Laufwerk ist ein proprietäres Singlespeed-Modell).
+
+
+Ich hätte es gerne so eingerichtet, daß er wenigstens das
+3,5"-Laufwerk als A: anspricht und davon bootet, habe aber keine
+Möglichkeit dazu gefunden.
+
+
+Bisher habe ich keine Spiele drauf und wenn da nicht mindestens mehr
+Arbeitsspeicher rein kommt, sehe ich auch keine große Chance darauf,
+daß ich in dieser Richtung weit komme.
+
+                                                  ^^^^^
+Eben. Wie gesagt, ich werde beim Updaten von Komponenten des Rechners
+eine Shell brauchen, auch wenn ich remote arbeite. Mmh... welchen
+Vorteil hat es eigentlich, zu diesem Zweck ftp zu benutzen?
+
+
+Der Rechner ist im Moment *grundsätzlich* zu sehr belastet ;-) Er
+braucht fünf Minuten zum Booten und nach dem Einloggen noch mal
+eineinhalb Minuten, bis die ssh-Verbindung zu meinem PC steht.
+
+Wenn man das hinter sich hat, kann man aber sehr zügig arbeiten, da
+kann man wirklich nicht meckern. Ist eigentlich auch nicht anders zu
+erwarten, schließlich muß er dann nur noch ein paar Bytes hin- und
+herschaufeln.
+
+Nur wäre es natürlich schon nicht schlecht, wenn ich die "Anlaufzeit"
+noch etwas drücken könnte - ich habe heute schon versucht, ein wenig
+mehr RAM reinzutun (von meiner Soundkarte), aber der Rechner wollte
+ihn nicht. Kann es sein, daß man die alten (30-poligen) SIMMs immer
+gleich im Viererpack bestücken muß?
+
+Viele Größe,
+     Gerold Oehmcke
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

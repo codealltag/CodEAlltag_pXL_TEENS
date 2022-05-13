@@ -1,0 +1,8 @@
+Hm, lohnt sicher nicht mehr. Sie liest ja doch nicht mehr mit. :-/
+
+Leon
+
+-- 
+Gienger ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

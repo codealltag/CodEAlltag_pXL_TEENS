@@ -1,0 +1,9 @@
+Am Mon, 15 Jan 2003 sendete Ulfert Kleisner folgende Botschaft:
+
+
+Nicht wirklich, die Stecker dafür sind ja verpolsicher. Aber irgendwie
+will der BIOS nicht. Entweder erkennt er das 3.5" nicht, oder das 5.25"
+nicht oder beides nicht, oder so.
+
+Tschüs
+  Charles

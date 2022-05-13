@@ -1,0 +1,22 @@
+Es schrieb lapsiqk_sbzrxen # vvn.rm folgendes:
+
+Ich auch nicht. Wer einen RAID braucht, dem werden 10000er SCSI-Seagtes  
+mit 5.2ms gerade recht kommen- Ausserdem kostet ein (x Controller mal eben  
+2 PCI-Steckplaetze, 4 IRQs und 600 DEM und dann kann man auch gleich einen  
+SCSI-UW RAID basteln...
+
+
+Nana, mal nicht uebertreiben. Ein VMER RAID0/1 mit 16MB RAM kostet  
+"nur" 400DEM mehr als ein normaler 2940UW.
+
+
+Was hast Du gegen Babybrowser? :-)
+
+   *$ $*
+   \___/
+
+Ausserdem muss man dann auch einen zusaetzlichen Controller einbauen, um  
+auch 50polige interne und externe Devices benutzen zu koennen...
+-- 
+
+Ciao, Andre

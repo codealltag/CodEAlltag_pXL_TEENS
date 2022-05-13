@@ -1,0 +1,7 @@
+Was macht eigentlich set VARIABLE = Value?
+
+Renato, scheinbar nichts :-(
+
+-- 
+  "Beim Speichern der Änderungen ist der folgende Fehler aufgetreten:
+   Der Vorgang wurde ausgeführt."

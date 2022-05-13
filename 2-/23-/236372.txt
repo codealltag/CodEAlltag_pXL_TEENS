@@ -1,0 +1,9 @@
+Das gefährliche wäre nur es als /automatischen/ Umbruch zu machen, sprich 
+als ein Umbruch der beim Senden immer gemacht wird. Das dumme Ding hat 
+aber keine Ahnung was umgebrochen gehört oder nicht. Sonst vehunzt es mir 
+noch die schön gequotete ASCII-Graphik, die toll formatierte Tabelle etc.
+Eine Art Menüpunkt "jetzt Umbrechen, mit dem Ergebnis kannst Du machen was 
+Du willst" ist da schon eher sinnvoll und realisierbar.
+
+-- 
+Die GEMA-Gebühren für dieses Posting werden automatisch abgebucht

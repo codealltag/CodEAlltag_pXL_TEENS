@@ -1,0 +1,12 @@
+Und alles andere mir.
+
+
+Weil beim Korrigieren nichts geändert wird.
+
+Nur wenn ich <td> in eine neue Zeile schreibe, nach der nichts mehr
+kommt, wird </td> ergänzt.
+
+Gilbert
+
+-- 
+Sigfile wurde geschrottet. :-(

@@ -1,0 +1,8 @@
+Am Sat, 13 Dez 1999 sendete Enno Csallner folgende Botschaft:
+
+
+vi unterscheidet zwichen dem "insert" und dem "command" modus. sonnst
+könntest du ja auch keinen ':' tippen.
+
+Tschüs
+  Mehmet

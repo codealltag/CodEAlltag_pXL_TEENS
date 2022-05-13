@@ -1,0 +1,9 @@
+Solches tippte Benjamin Götzl:
+
+Natürlich so:
+cat >myfile.tex
+$Content *tippsel*
+<CTRL>+D
+latex myfile.tex
+
+Johannes -- sich an M. Driftschröers gestrigen Worten labend

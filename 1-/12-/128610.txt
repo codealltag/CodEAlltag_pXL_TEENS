@@ -1,0 +1,12 @@
+* Ralf Krähenbühl <fdjo@dasfubku.iy>:
+
+
+Das ist dein HOME-Verzeichnis.
+
+
+Du musst es setzen. Am besten über eine batch-Datei, mit der du Yesi
+(oder was du hast) startest.
+
+Gebhard
+-- 
+cross veinless

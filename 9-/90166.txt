@@ -1,0 +1,12 @@
+* Vincent Frieß schrieb: *
+
+
+Weil das sowohl dem Design als auch dem Benutzerinterface zuträglich sein 
+*kann*, wenn man es sparsam und an der richtigen Stelle einsetzt.
+
+Ich denke da z.B. an die Weblog-Kommentierungstools Dotcomments, 
+Reblogger oder Blogvoices. Wie she das denn aus, wenn so was Fullscreen 
+aufgehen würde?
+
+-- 
+   :: bf ::

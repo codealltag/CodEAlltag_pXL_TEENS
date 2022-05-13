@@ -1,0 +1,8 @@
+Am Sun, 04 Jun 2000 sendete Gerold Otto Craft folgende Botschaft:
+
+
+Eben irgendwie muss ich meine perlkentnisse ja ausnutzen.
+btw: s/(^\S*\s\S*\s\S)\S\S(.*)/$1tt$2/g ist noch besser ;)
+
+Tschüs
+  Ingo

@@ -1,0 +1,7 @@
+Am Mon, 19. 04. 22 sendete Samuel Vomfell folgende Botschaft:
+
+
+Für dich nicht umbedingt. Aber locking über nfs ist nicht trivial afaik.
+
+Tschüs
+  Edouard

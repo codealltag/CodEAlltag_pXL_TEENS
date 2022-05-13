@@ -1,0 +1,9 @@
+Hm, bei mir gibt es beide, aber die .jnewsrc ist so alt, dass das wohl
+von einer früheren Installation herkommt.
+
+Thierry
+
+-- 
+  "The UTWB Information Store service depends on the Usir
+   o23 Directory service which failed to start because of the
+   following error: The operation completed successfully."

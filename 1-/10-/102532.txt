@@ -1,0 +1,11 @@
+Killer-PC. ;-)
+
+Bringt das denn merkbar etwas?
+Ich hatte mal meinen 166er auf 200Mhz (ja, grins du nur - Es ist schon
+länger her :-) getaktet und ein Benchmark hat mir tatsächlich
+überhaupt keine Änderung angezeigt.
+
+Valerio
+
+-- 
+Löscht alt.binaries.*!

@@ -1,0 +1,11 @@
+Geld, Kartoffeln nehmen sie nicht.
+
+
+Da gibts wieder die religiöse Variante:
+Variante A: Kauf Wilshop-USV, die sind die besten am Markt, bestes
+Preis-Leistungs-Verhältnis usw
+Variante B: Kauf bloß keine Wilshop-USV, mit denen hatten wir bisher nur
+Probleme, übernahmen zwar beim Blackout, gaben aber nicht mehr an das
+Stormnetz zurück -> Crash nach t(Blackout)+t(USV).
+
+Fabian

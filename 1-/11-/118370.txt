@@ -1,0 +1,14 @@
+Aber ungefähr so. Ich hätte mal besser noch erwähnt, dass es sich um
+einen unelastischen Stoß handelt.
+
+     (m1-m2)*V1 + 2*m2*V2   (o-2*o)*1m/s  
+V1'= -------------------- = ------------  usw. :-)
+            m1 + m2            o + 2*o     
+
+
+Verständlich.
+
+Hubert
+
+-- 
+Löscht alt.binaries.*!

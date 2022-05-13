@@ -1,0 +1,6 @@
+Ja, das tut er. Man kommt zwar trotzdem nur über das Webinterface rein,
+kann aber einige IRC-Steuerbefehle wie \c benutzen und so z.B. alles
+schön buuunt aussehen lassen.
+
+
+-füchtemeier

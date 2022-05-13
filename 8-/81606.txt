@@ -1,0 +1,5 @@
+Schade eigentlich... Kann slrn zum siggen ein Programm aufrufen und dann
+aus einer bestimmten Datei die sig lesen?
+
+Eckhard
+[1] *grmpf* Muß mir endlich die .slrnrc vornehmen...

@@ -1,0 +1,12 @@
+Am Fri, 21 Jun 2001 sendete Waldemar Nowas folgende Botschaft:
+
+                                                     ^^^
+
+Also wenn ich den Abschnitt richtig verstehe sind 1 und 2 durchaus
+erlaubt. Nur der Punkt könnte problematisch werden.
+
+Tschüs
+  Urban
+-- 
+Hier sollte eigentlich ein netter Satz aus "Programming Perl" stehen,
+aber leider finde ich ihn nicht wieder.

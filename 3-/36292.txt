@@ -1,0 +1,16 @@
+Udo Rawiel <xsh@dif-ngj-bdnpb> wrote on 29 Nov 2001: 
+
+
+[Liste]
+
+Hier sind nochmal 185 die du hinzufügen kannst:
+
+$i=185;while($i--){$j=10;while($j--)echo chr(rand(40,120));echo" 
+(in@valid)\n";}
+
+Die sind garantiert alle dafür, wenn ihr's nicht glaubt fragt sie halt
+einfach!!!!!!111
+
+
+-- 
+AVR-Tutorial, Forum, über 300 Links: http://mno.cezvowpojqkamps.npz

@@ -1,0 +1,16 @@
+Ben Buskühl hat geschrieben getan getutet:
+
+
+R := { Mensch | Mensch&elem;Vollnkirchen, Alter(Mensch) >= 50 }
+
+Selbst meine Mitschueler, die teilweise alles andere als sprachbegabt
+sind, sagen das richtig.
+
+Und einzigste benutzen sie immerhin auch nicht :)
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Bernd 'axel' Raue in hq.mby.gychwmid.dciugdpn

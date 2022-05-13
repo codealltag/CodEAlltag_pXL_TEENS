@@ -1,0 +1,21 @@
+Am Sun, 21 Aug 1999 13:59:07 GMT sendete Cédric...sSXP...Claus
+folgende Botschaft:
+
+
+N, dann ging es ja nicht mit mozilla. ;)
+
+- Posting schreiben.
+- Geza beenden.
+- Editor[tm] starten.
+- Outbox im editor öffnen.
+- Mit dem headern machen was die rfcs erlauben
+- Speichern
+- Editor beenden.
+- Geza starten.
+- online gehen und posting uploaden.
+
+Fertig ;) (Das das funktioniert hab ich selbst schon mal bewiesen, die
+Msg-ID hab ich aber leider nicht.)
+
+Tschüs
+  Nikolaus

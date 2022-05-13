@@ -1,0 +1,7 @@
+begin quoting Ulrich Marsmann <qhju@kzdfcetkh.uo>:
+
+Und auch ein regexp-Match wird interpreterintern wohl als Schleife
+implementiert...
+-- 
+"For Wäscheparadies, space is still a high priority."
+ - Governor Rudi Hainzel, 7/12/92

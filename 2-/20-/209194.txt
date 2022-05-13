@@ -1,0 +1,29 @@
+Mauro Fillbrandt schrieb am 26. Januar 1999 um 19:33 Uhr folgendes:
+[...]
+
+Du hast mich gerufen? :) Yep, es existiert ein Patch für slrn und
+slrnpull, mit dem es nicht nur wie bisher möglich ist, Gruppen
+komplett herunterzuladen oder durch Killfiles eine Vorauswahl zu
+treffen, sondern (wie in Agent und co) erst die Header zu ziehen und
+von Hand auszuwählen, welche Artikel man lesen möchte. Der Vorteil
+gegenüber bestehenden Lösungen wie BTE ist die enge Verzahnung
+mit dem Newsreader (schon im Headerfenster kann man anhand eines Flags
+erkennen, ob ein Artikel mit oder ohne Body vorliegt und ob er zum
+Download markiert wurde).
+
+Das Problem, das slrnpull unter Windows hat, bleibt dabei jedoch das
+alte: Durch das Speichern der News als "traditional spool" geht
+aufgrund konzeptioneller Mängel im FAT-Dateisystem viel Platz verloren
+und Zugriffe in größeren Newsgroups werden mit der Zeit recht träge.
+
+Sollte sich trotzdem jemand dafür interessieren; ich kann gerne den
+entsprechenden URL heraussuchen. AFAIK sucht der Autor noch
+verzweifelt Beta-Tester (es scheint sich die Einsicht durchgesetzt zu
+haben, daß es auch ohne UUCP in den meisten Fällen günstiger ist,
+sofort alle Artikel einer Newsgroup zu ziehen).
+
+Viele Größe,
+     Niko Füssel
+-- 
+The fact that no one understands you doesn't mean you're an artist.
+                                            -- "Smart Comments", part 2

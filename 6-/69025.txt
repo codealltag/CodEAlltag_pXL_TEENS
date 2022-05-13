@@ -1,0 +1,9 @@
+* Emilie Bäuerl <tncd@awtc.vr>:
+
+
+Wenn du mir ein sicheres Zeichen für die Erkennung der Threads, die du
+nicht liest, nennst, lässt sich das einrichten.
+
+Klaas
+-- 
+np: Moba - Am I Evil?

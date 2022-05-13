@@ -1,0 +1,11 @@
+Nope. Kaputtes reverse resolving, tippe ich mal.
+
+         ^^^^^^^^^^ wq-jk.ae, oder?
+
+Ist es. Zum einen ist das plötzlich mein Hostname, nachdem ich in
+deinem DNS gelandet bin, und zum anderen ist dank der
+Erzeugungsmethode recht sicher, dass das ganze eindeutig bleibt.
+
+Nicolas
+-- 
+                   It's not a bug, it's tradition!

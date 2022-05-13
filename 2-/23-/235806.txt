@@ -1,0 +1,27 @@
+Ewald Pennigsack wrote:
+[wget Features]
+
+Ob TelePort das bietet weiß ich nicht. Ich hab das bisher nur benutzt weil 
+WebSnake nicht richtig mit dem Proxy im CZGD zurechtkam. Bzw war's ein 
+richtiges Dilemma:
+Gab man WebSnake eine Adresse außerhalb des Hadikos an, dann hat es die 
+Seite gelesen, ist den Links gefolgt und hat alles geladen. Ich wollte 
+aber dummerweise eine lokale (selbsterstellte) Seite abgrasen lassen in 
+der ich alles hineingeschrieben hatte (z.T. automatisch erzeugt), was ich 
+wollte. Aber sobald das Ding ein lokales Projekt als Ausgang nahm kam es 
+irgendwie nicht mehr durch das Proxy. Die einfache Lösung wäre natürlich 
+mein Dokument auf ein Server außerhalb es creHAARtiv zu spielen, aber das 
+ging natürlich auch nicht, Proxy...
+Das war etwa das mit dem ich mich damals zwischen 3 und 4.30 Uhr Nachts 
+rumge�rgert hab ;-)
+hm, wieso erzähl ich das eigentlich? Ach ja, nur deshalb hab ich dann 
+halt TelePort ausprobiert, bei dem alles auf Anhieb funktioniert hat. Da 
+ich den Fehler mit WebSnake erst an mir selbst gesucht hab hab ich das 
+Programm ziemlich intensiv untersucht und glaube mich daran erinnern zu 
+können daß es sämtliche geforderten Features beherrscht.
+
+
+Du glaubst gar nicht wie schnell ich klicken kann. ;-)
+
+-- 
+Die GEMA-Gebühren für dieses Posting werden automatisch abgebucht

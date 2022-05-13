@@ -1,0 +1,11 @@
+Ingo Brucher hat geschrieben getan getutet:
+
+
+Nichts, nichts..
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- René 'charly' Zschögner in fu.uer.moskivor.khmgvlyu

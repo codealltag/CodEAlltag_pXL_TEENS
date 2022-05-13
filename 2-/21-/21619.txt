@@ -1,0 +1,11 @@
+Und so sprach Valerio Herlitz:
+
+
+Bei uns gibt's den "Landesindex der Konsumentenpreise". Ich denke, da
+wird dann einfach ne Standardgr�sse eingesetzt.
+
+Gernot
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.n

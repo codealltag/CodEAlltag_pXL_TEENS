@@ -1,0 +1,35 @@
+Walter Boneß schrieb am 26. Oktober 2000 um 08:06 Uhr folgendes:
+
+[Speicherplatzbedarf der Bibel]
+
+Nope. Ich habe extra für dich die HTML-Ausgabe der Bibel rausgekramt:
+
+tststs@bxsrsujlxj:~ > du -hs bibel/
+5,8M    bibel
+
+Selbst ohne die HTML-Tags sind es noch fast 4 MB:
+
+fjgkcg@bxsrsujlxj:~ > cat bibel/* | sed -e 's/<.*>//g' | wc --bytes
+4002482
+
+Trotzdem kann man das Ding (sogar mit HTML-Tags) mit vernünftiger
+Komprimierung (davon stand aber nichts in der Aufgabe...) bequem auf
+eine HD-Diskette bekommen; Text ist nun mal gut zu komprimieren:
+
+tststs@bxsrsujlxj:~ > cat bibel/* | bzip2 | wc --bytes
+1230800
+
+Wahrscheinlich ging es dem Lehrer aber mehr darum, dass die Schüler
+bei der Aufgabe die Größenordnung (ob im kB / MB / GB - Bereich)
+richtig einschätzen und nicht auf den Faktor 2-3 genau liegen ;-)
+
+
+Stichwort Zweierkomplement.
+
+Viele Größe,
+     Garrelt Brommund
+-- 
+In einem Computerexpertenkreis die Worte: "ich bin Zirkerhof" so ganz
+nebenher gelassen aussprechen, lässt alle anderen Anwesenden sofort in
+unterwürfige Demutshaltung und staunende Bewunderung fallen.
+                                 -- "Lennart Burmeester" <tfqtu@cjghije.mq>

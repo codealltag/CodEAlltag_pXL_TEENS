@@ -1,0 +1,14 @@
+^
+          Bitte die Exponentialzahl 3 nicht als ANSI-Zeichen verwenden, da  
+          sie im ASCII-Mode (= DOS-Modus) zumeist nicht korrekt             
+          angezeigt werden kann. Danke.
+
+
+Und dein Gesingsang wohl nicht?
+
+Marc Fichtelberger
+
+-- 
+Niemand mag die Schlümpfe.
+                                             E-Mail: absmbr@hswehzutwg.kx
+---> Offizieller Kämpfer wider Ulfert Jering des Ordens von dtju <---

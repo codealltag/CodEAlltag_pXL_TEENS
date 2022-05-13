@@ -1,0 +1,11 @@
+Wilfried Nemenich hat geschrieben getan getutet:
+
+
+Sicher?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Carlos 'orlando' Zäpf in gy.aas.hdroufui.ovzojwzp

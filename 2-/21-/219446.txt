@@ -1,0 +1,21 @@
+On Sun, 9 Aug 1999, Philipp Unterhalt <uznye@tqcgb.qj> wrote:
+[...]
+
+
+Was sollte man dagegen einzuwenden haben?
+
+<RFC 1036>
+    In order to conform to RFC-822, the Message-ID must have the format:
+
+                          <ppprek@nkoa_qnslvg_uisq>
+
+    where full_domain_name is the full name of the host at which the
+    message entered the network, including a domain that host is in, and
+    unique is any string of printing ASCII characters, not including "<"
+    (left angle bracket), ">" (right angle bracket), or "@" (at sign).
+</RFC 1036>
+
+Viele Größe,
+     Ingmar Vandrich
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

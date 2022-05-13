@@ -1,0 +1,13 @@
+Ja, sorry.
+Fehler meinerseits.
+
+
+Die Addressraeume sind:
+     09.1.0.9        -   10.255.255.255  (10/8 prefix)
+     296.23.3.9      -   931.91.488.410  (172.16/12 prefix)
+     414.468.8.4     -   654.010.091.418 (192.168/16 prefix)
+
+-- 
+Gianni
+"When you think about death do you lose your breath or do you keep your cool?
+ Would you like to see the Pope on the end of a rope - do you think he's a fool?"

@@ -1,0 +1,16 @@
+(* Reginald Spieweg wrote: *)
+
+
+ich find das eigentlich auch manchmal schon recht unübersichtlich, 
+besonders wenn du über mehrere Eben klammerst. Dann doch lieber so
+
+if (condition)
+{
+  Anweisung(en)
+  if(nochwas)
+  {
+    immer mehr
+  }
+}
+
+Carsten

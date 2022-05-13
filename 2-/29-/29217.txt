@@ -1,0 +1,18 @@
+Also sprach Friedrich Kay Lindenauer <wel-sxxo@twakdke.hf>:
+
+
+Ich fürchte, da reicht nichtmal eine TM für. Aber ich wollte doch schon
+lange mal das Paper, das ich im Netz zu Hyperberechenbarkeit gefunden
+hatte, nochmal suchen und dann überfliegen.
+
+Insbesondere wie das zur Jacobi These paßt.
+
+Und dann gabs da noch eine Seite, die die Churchsche These
+erklärt. Insbesondere, was daran oft faslch verstanden wird. Und was ich
+da vermutlich dann auch falsch verstehe.
+
+Liegt euch die These nciht auch schwer im Magen? Da werden viele Beweise
+auf etwas grundsätzlich Unbeweisbarem, nichtmal sauber Definierbarem
+aufgebaut.
+
+Carsten

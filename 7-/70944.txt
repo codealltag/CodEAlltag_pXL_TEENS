@@ -1,0 +1,6 @@
+Naja, man kann auch einfach mehrere Platten an den Bus hängen und dann
+Software-RAID machen.
+
+Gibt es da nicht inzwischen eine Art Auto-Sensing des Kernels, so daß
+man keine Root-Partition mehr braucht, um angeben zu können, was genau
+gemountet werden soll?

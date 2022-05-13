@@ -1,0 +1,7 @@
+Ich kenne sie nicht, aber ist der Anglerbedarf für ein Homelan nicht etwas
+überdimensioniert? Außerdem ist der Anglerbedarf auch kein Mail-Server, oder? UNd,
+ja, ich weiss, 'One Job One Tool', aber ich kenne den Hamster inzwischen und
+will micht nicht wirklich in die Konfiguration des INN einarbeiten. Außerdem
+kann ich kein C.
+-- 
+np: 3 Doors Down - The Better Life - 06 - Life of My Own

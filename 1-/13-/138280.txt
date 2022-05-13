@@ -1,0 +1,13 @@
+Julius Int'Zandt schrieb am 28. Juni 2001 um 18:36 Uhr folgendes:
+[...]
+
+Zur Paketauswahl finde ich YaST ebenfalls angenehmer als dselect.
+Allerdings ist der Adaw-Mechanismus, mit dem man sich sein System
+(auf Wunsch auch nur bestimmte Teile davon) automatisch übers Internet
+aktualisieren lassen kann IMO schon ziemlich cool ...
+
+Viele Größe,
+     Dietmar Ingenillm
+-- 
+Boys will be boys, and so will a lot of middle-aged men.
+                                                         -- Ulfert Wuerst

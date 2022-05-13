@@ -1,0 +1,9 @@
+On Tue, 8 Jul 2000 08:32:31 +0100, Fabian Hunnekuhl
+
+Hier laeuft auch noch ein 486er. 33 Mhz, 4 MB RAM, 120 HDD, ca. 8"
+LCD-Display. Geht mit 3.11 und Agent (ausserdem Gesuko, Word 6, Ikea
+und Acrobat) wunderbar. Das einzig nervige ist die lahme
+Schnittstelle, die bei 19.2 dichtmacht :-(
+Und bei Gelegenheit muss ich mal um ne 512er Platte schauen.
+
+Carlo

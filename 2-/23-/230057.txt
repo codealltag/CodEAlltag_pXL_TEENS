@@ -1,0 +1,66 @@
+On Fri, 3 Jun 1998, Gunter Grohnerth <CXhcloucxq@cuh.iup> wrote:
+
+[LaTeX-Beispiel]
+
+Gut erkannt. TeX selbst ist ein Satzsystem - es ist möglich, damit
+sehr überzeugende Ergebnisse zu erreichen, aber während man an einem
+Text arbeitet, möchte man sich nun nicht unbedingt Gedanken um die
+Details des Textsatzes machen müssen. Deshalb gibt es LaTeX - ein
+Makropaket dafür.
+
+In ihm sind die setzerischen Regeln eingebaut, so daß man nur noch
+angeben muß, was die Überschrift sein soll, was man hervorgehoben
+haben möchte etc. Der Rest (Erstellung von Inhaltsverzeichnissen,
+korrekte Plazierung von Fußnoten, Berechnung der Seitenzahlen,
+Literaturverweise und all das) funktioniert automagisch.
+
+Das hat den Vorteil, daß innerhalb des Dokuments ein einheitliches
+Layout entsteht, das auch einfach global geändert werden kann (kann
+man unter Word problemlos in einem bestehenden Dokument alle
+Hervorhebungen von Kursiv auf Unterstrichen umstellen?). Außerdem
+kennt man als normaler Autor gar nicht all die setzerischen Regeln,
+was man der überwiegenden Zahl von Texten, die mit
+(WYSIWYG-)Textverarbeitungen erstellt wurden, dann auch ansieht.
+
+[...]
+
+Das ist zB unter LaTeX nicht so ohne weiteres möglich. Darüber, ob man
+es nun als Nachteil sehen soll, daß es solche "intuitiven" Lösungen
+verbietet, kann man sich natürlich streiten.
+
+
+Es gibt WYSIWYG-Aufsätze für LaTeX (Ebebe heißt das Ding glaub' ich).
+Allerdings gibt man damit wesentliche Vorteile von LaTeX wieder aus
+der Hand.
+
+
+Vielleicht bin ich einfach zu unbegabt im Umgang mit Computern, aber
+wenn ich in Word 97 vor einem Wald von Icons stehe, deren Funktion
+sich mir nicht erschließen will, kommt mir das alles andere als
+vertraut vor. Ich muß meistens einige Zeit suchen, bis ich gefunden
+habe, was ich suchte.
+
+Für jemanden, der sich da schon mal durchgebissen hat, in seinem Word
+alle Funktionen kennt, die er braucht, und die restlichen 95%
+erfolgreich ignoriert, ist es aber natürlich erst einmal eine
+gewaltige Umstellung.
+
+
+Gerade das ist etwas, was ich persönlich an LaTeX genieße. Bei einer
+anderen Textverarbeitung weiß man nie so genau, von wo bis wo eine
+Formatierung denn nun geht, muß uU scrollen, um eine Fußnote zu
+Gesicht zu bekommen... Bei LaTeX sehe ich mit einem Blick, woran ich
+bin (wobei man dafür IMO wirklich einen Editor mit Syntax-Highlighting
+verwenden sollte, der also Befehle, Kommentare etc. farbig darstellt).
+
+
+Eine Vorschaum�glichkeit gibt es an verschiedenen Stellen: Aus der
+dvi-Datei kann man zB mit dvi2tty den Text extrahieren und auf der
+Konsole darstellen, mit xdvi kann man (grafisch) schon ziemlich genau
+das Layout überprüfen. Außerdem gibt es Programme, um die endgültige
+(druckerspezifische) PostScript-Datei am Bildschirm zu betrachten.
+
+Viele Größe,
+     Gunter Zuber
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

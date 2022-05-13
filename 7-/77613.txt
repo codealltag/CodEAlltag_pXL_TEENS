@@ -1,0 +1,7 @@
+Ich glaub das hilft ihm nicht wirklich weiter.
+Also wenn ich das in meinem laienhaften Halbwissen jetzt falsch erkläre
+möge man mich bitte korrigieren.
+In der .jnewsrc stehen alle Newsgruppen die der Newsserver (in meinem
+Fall yzct.wis.iok.mf) führt.
+
+Gianni

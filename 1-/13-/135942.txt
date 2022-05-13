@@ -1,0 +1,11 @@
+Am Fri, 06. 09. 22 20:18:25 +0100 schrieb Enrico Zimdahl
+<gjquqqs294535@ybxccy.qq-j.sc>: 
+
+
+Rupert
+
+-- 
+Da ich eine einheitliche Darstellung von Datum/Zeit bevorzuge, habe 
+ich die Voreinstellung in der zugehörigen ini-Datei geändert. 
+Und zwar auf ein grenzgeniales "dd.mm.yy hh:ss".
+Ernest Friderich in Oelmuehle nach seinem Date-Header gefragt

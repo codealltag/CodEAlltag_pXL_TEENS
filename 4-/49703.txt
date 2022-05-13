@@ -1,0 +1,11 @@
+Hallo Victor Nielaender
+
+
+NAK, IMO ist die OOP in Delphi um einiges einfacher als in C++ und Java.
+
+MfG Victor
+
+-- 
+Arzt: Ab sofort keinen Alkohol mehr, keine Zigaretten, keine Frauen, keine
+Parties, keine Reisen, kein Fleisch, und vor allem eins: Sie müssen
+wieder mehr Freude am Leben finden.

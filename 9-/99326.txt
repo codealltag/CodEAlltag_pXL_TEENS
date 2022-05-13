@@ -1,0 +1,2 @@
+Wie, wenn nicht mit SMTP Auth oder SMTP-after-POP, wollen die denn 
+entscheiden, ob du Kunde bist?!?

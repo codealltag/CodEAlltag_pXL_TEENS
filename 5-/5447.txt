@@ -1,0 +1,8 @@
+Genau. Mittlerweile ist fabienne dann auch voll einsatzfaehig - mit Mail &
+News und so.
+
+Hm.
+
+Jepp. Mittlerweile ist er wieder an, dafuer hab ich da jetzt den
+Transport als expensive eingetragen, dann geht der nur, wenn ich die
+queue leerbefehle.

@@ -1,0 +1,7 @@
+Ich benutze zum Dateien lesen/veraendern relativ oft meinen Systemeditor,
+  und bei dem geht das nicht.
+
+-- 
+Ulrich
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

@@ -1,0 +1,9 @@
+Glückwunsch.
+
+So long,
+Peter L. Dussinger
+--=20
+http://axgf.packs.im/umv/ - Korrnews 3.1 (Neu: Oneliner, Reformat, erweitert=
+e
+header.def-Syntax), CopyIf 1.1 (XNews & OE-Ergänzungen) und der immer noch
+nicht mit kleineren Bugfixes versehene Hamster 1.3.22.0 (sorry!)

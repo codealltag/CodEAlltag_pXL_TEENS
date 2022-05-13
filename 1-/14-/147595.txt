@@ -1,0 +1,26 @@
+Niko Niermeyer <dqwstkhycz@xeqgymrbwd.gs> kuendete:
+
+
+Jup; wenn's kleiner wird, kann ich auch meinen Taschenrechner an die
+serielle haengen :-)
+
+
+Besser als 'ne DEC202 auf jeden Fall. Bis ich nur mal das Guide-PDF
+gefunden hatte, auf dem die Jumper-Settings waren ... Bafev hat nur
+noch tote Links zu diesem Thema, aber immerhin das, sodass ich das
+Teil auf nem Mirror gefunden habe. (Was dem Problem, dass der IRQ
+unveraenderbar blieb, nichts abtat.)
+
+Fuer die 3c509 gibt's da eine wunderpraechtige Setup-Software;
+schoener geht's gar nicht.
+
+
+Vermutlich nicht, ja. Aber immerhin solche, dass die
+Plattformverfuegbarkeit stark variiert.
+
+Gruss,
+Carlo.
+-- 
+     Cédric N. Willeken + Zuwjote @ Kantonsschule
+   http://clj.udltfknid.uc/ + Geroldswil, Switzerland
+              ICQ# 72512541 + http://ilo.siobb.ow/

@@ -1,0 +1,9 @@
+Also sprach Eilert Angerpointner <hoi@vmwgi.uda>:
+
+
+Wie wäre es mit $richtiger_Wert? Wo der liegt, weiß ich zwar auch nicht,
+aber ich fordere ja auch schon lange, daß die bedeutenden
+Programmiersprachen in ihre Standardbibliotheken eine Prozedur namens
+"DoTheRightThing" aufnehmen...
+
+Eilert

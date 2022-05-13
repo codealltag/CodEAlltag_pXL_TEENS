@@ -1,0 +1,24 @@
+Keine Ahnung, wie der Hamster nummeriert, leafnode zumindest macht das
+aber willkürlicher als einem lieb sein kann. Aber ich brauche auf
+allen Computern hier die gleiche Nummerierung um durch simpeles
+newsrc-Kopieren überall News lesen zu können. Auf PC1 gelesene
+Postings sollen auf PC2 auch gelesen sein. :-)
+
+
+Videoland ist ja kein offline-Reader. Und dieser Schlepptop soll halt,
+verständlicherweise, möglichst unabhängig sein.
+
+
+Kann er. Nur muss ja irgendwas den Spool füllen. Das macht slrnpull
+ja. :-)
+
+
+Ach, so etwas großes brauche ich immer noch nicht.
+
+Reinhold
+
+-- 
+Word 6.0:
+"Am Dokument wurden zuviele Änderungen vorgenommen, das Dokument kan
+ nicht gespeichert werden. Bitte Speichern Sie ihre Arbeit und öffnen
+ Sie das Dokument erneut."

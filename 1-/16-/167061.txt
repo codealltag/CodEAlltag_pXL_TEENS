@@ -1,0 +1,12 @@
+Bernard Düvel <odnxmxn.kurfu@azf.wo> schrieb in im Newsbeitrag:
+k232nlhp75aieie4oywh61dcqak4lef8un@5ps.hiw...
+
+MTBF musst du schon bei gleichen Anforderungen messen. Und ja, ich habe
+Server mit IDE, laufen alle ohne Probleme. Und das Geld, das für SCSI
+draufgegangen wäre, kann ich für andre Dinge brauchen...
+
+
+Dann waren's keine wichtigen Daten.
+
+
+Hmm... Kriegst du HörGut NICs günstig?

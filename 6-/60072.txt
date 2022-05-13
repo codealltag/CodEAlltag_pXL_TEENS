@@ -1,0 +1,4 @@
+Laesst sich bestimmt damit regeln, dass Franzoesisch seine eigenen
+Regeln nicht gerade richtig einhaelt.
+
+-towo

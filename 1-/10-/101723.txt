@@ -1,0 +1,8 @@
+Konkret heißt das, dass ESC und Alt die Metataste darstellen, aber Alt
+gleichzeitig "A-" ist, was auch immer das nun wieder ist. Oder nicht?
+
+Dominik,
+Alt+x gnus funktioniert jedenfalls
+
+-- 
+Udilap hasst mich.

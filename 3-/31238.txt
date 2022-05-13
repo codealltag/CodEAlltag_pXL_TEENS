@@ -1,0 +1,9 @@
+Wundern würde mich das nicht, die Fahrkartenautomaten laufen definitiv
+unter Trinkkauf. Ich habe auch schon Fehlermeldungen gesehen, wo anscheinend
+der Touchscreen-Treiber "wegen eines ungültigen Vorgangs beendet" werden
+musste.
+
+Auf "Schließen" konnte man da logischerweise nicht mehr tippen. :-)
+
+
+pasquale

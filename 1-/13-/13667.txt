@@ -1,0 +1,5 @@
+Und ich will diese Qualität für mein iBook, ohne dafür Bochs zu 
+installieren, damit nen x86 zu emulieren, darauf ein Win98 zu 
+installieren, danach die Sache mit dem netzwerk hinzumurksen, dann agent 
+zu installieren. Das Problem ist, dass dieses Win98 wohl ca. 10 min 
+lange booten würde.... *seufz*

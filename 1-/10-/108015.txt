@@ -1,0 +1,6 @@
+[ ] Dies war eine Rettungsübung
+[X] Dies war eine Bergungs�bung
+
+Joachim
+-- 
+            Secret hacker rule #11: hackers read manuals.

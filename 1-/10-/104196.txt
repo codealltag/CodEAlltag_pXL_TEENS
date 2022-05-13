@@ -1,0 +1,17 @@
+Kommt auf den konkreten Problemfall an... IIRC gabs in der UKLT mal nen
+Test zwischen verschiedenen Webservern und einer, der extrem kernelnah
+war, skalierte praktisch linear über die CPUs.
+
+
+Naja, meine Frisur-Aktuell macht das fast automagisch, und gegen untätige
+Admins gibts sowieso keinen Patch.
+
+
+N, aber dafür, dass nichtmal Metallbau selber in der Lage ist, eine Lösung
+zu bieten, die unter Last von Anfang an läuft. Und das finde ich
+massiv peinlich.
+
+Ben
+-- 
+"Your american beer is like making love in a canoe -
+ fucking close to water" [Monty Python]

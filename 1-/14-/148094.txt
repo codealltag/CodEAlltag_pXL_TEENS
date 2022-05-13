@@ -1,0 +1,7 @@
+Mach folgendes:
+Rechtsklick auf Arbeitsplatz -> Eigenschaften -> Leistungsmerkmale ->
+Virtueller Arbeitsspeicher -> Voilä!
+
+Axel
+
+--

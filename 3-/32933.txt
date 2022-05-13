@@ -1,0 +1,6 @@
+Computational Science ist eine Naturwissenschaft. Computer Science 
+sollte nicht allzuviel mit Mathe zu tun haben. Informatik trifft es 
+schon  besser weil es darum geht, Informationen zu "verarbeiten". Dass 
+man dabei schlussendlich nur 0/1 rumschiebt ist eigentlich egal, zumal 
+man XXX Layer von Abstraktion darüber hat (und ja, auch Assembler ist 
+immer noch ziemlich abstrahiert).

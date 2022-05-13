@@ -1,0 +1,14 @@
+Am Sun, 29. 09. 22 sendete Ernst Jörn Möcklinghoff folgende Botschaft:
+
+
+aja.
+
+
+Wo ist der schiedunter?
+
+
+Das liegt ja dann wohl eher an den treibern, die devfs ihrer devs nicht
+melden...
+
+Tschüs
+  Willy

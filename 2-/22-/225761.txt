@@ -1,0 +1,38 @@
+Der Einwahlknoten von denen liegt nicht zufällig so, daß ich auch von
+Lampenricht aus zum Ortstarif dahin kommen kann? (Wenn er in Tauschendorf
+ist, geht's leider nicht :-( )
+
+
+AFAIK sind ist bei der DGL aber keine kostenlose kommerzielle
+Software dabei, oder? Dann müßte ich Netscape, StarOffice & co aus
+einer anderen Quelle bekommen. A propos andere Quellen: RPM benutzt
+DGL doch IIRC auch nicht?
+
+
+Ja, fast alle Lintker-Features sind bei mir inzwischen abgestellt.
+Heute habe ich probeweise mal die Dile 6.0 Lite gekauft (bei der Eschhaus
+Görtz für 9,80 DM dabei; Linux-Newbies: don't try this at home ;) und
+installiert: Auch wenn ich auf die Konfigurationshilfen durch YaST
+verzichten kann, gefällt mir die Paketauswahl dort wesentlich besser
+als in dldadmin - dafür sind bei der Dile die Pakete durch die Bank
+deutlich aktueller als bei der Lafe. Andererseits habe ich auch noch
+die eine oder andere Macke gefunden, die die Lafe nicht hat (die aber
+mit etwas Mühe auszubügeln wären)... die Wahl wird wohl schwer werden.
+
+
+Es gibt hier in den LUGs genug DGL-Jünger, daß es eigentlich nicht
+nötig sein dürfte, sich die zu kaufen :-)
+
+
+hm, nein. Den WindowMaker habe ich vor einiger Zeit compiliert und
+benutze ihn im Moment auch schon ohne gnome; gnome wollte ich mir mal
+vornehmen, wenn ich etwas Zeit habe (und das kann durchaus noch so
+lange dauern, bis die Version 1.0 raus ist ;).
+
+Welche Probleme gibt es denn da? Soweit ich gesehen habe, enthalten
+die Geco-Makefiles doch 'uninstall'-Targets, oder?
+
+Viele Größe,
+     Christoph Leutholdt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

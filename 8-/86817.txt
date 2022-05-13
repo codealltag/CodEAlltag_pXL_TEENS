@@ -1,0 +1,12 @@
+Am Sat, 7 Sep 2000 sendete Wilfried Janesch folgende Botschaft:
+
+
+Klar klappt das auch mit :wq, aber wer nimmt schon :wq? ;)
+
+Tschüs
+  Nico
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Theodor Vetter, Mostly Harmless, Chapter 12

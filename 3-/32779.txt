@@ -1,0 +1,11 @@
+Mir ging es um die erfüllten dependancies im Falle eines Deb. Nicht das
+bei dir auch Leafnode drauf muss, weil 3/4 der depend. fehlen...
+Für alles andere nimmt man sowieso tar.gz (zumindestens ich
+mittlerweile)
+
+mfg,
+	Claus
+
+-- 
+Niklaus Clemens Nolden, Limmersdorf, Germany
+Info-Student, Freizeit-Handwerker und Rossner-Nutzer

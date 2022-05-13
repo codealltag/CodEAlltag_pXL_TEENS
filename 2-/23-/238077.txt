@@ -1,0 +1,13 @@
+In article <ISN.104v363378530vwi72u08w@jjpwpwnno.xckgpja.eh.pua>, 
+byrpnfr@ddj.kt says...
+
+Sag ich ja. Logisch, dass die CPU (d.h. eigentlich der TCP/IP Stack, 
+aber der kann das ohne CPU schlecht tun) drauf antworten muss...
+
+CU
+Italo
+
+-- 
+Shooter, siegreicher Ritter im Namen des Ordens von xb.qwyy.macbyg
+http://vqn.arzudvu.mkog.dti   Biggest Technomidipage of the World
+http://zjh.qex.kneh.txf       xb.qwyy.macbyg Page

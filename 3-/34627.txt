@@ -1,0 +1,10 @@
+Also sprach Francis Middelhauves <wb@wqpztrx.myh>:
+
+[XEmacs 21.5.x]
+
+Warum zur Hölle verwendest du eigentlich Stable und Beta und nicht
+einfach Gamma wie so ziemlich jeder andere?
+
+Gamma ist doch sogar in GKGF stable, oder irre ich mich da gerade?
+
+Ignaz

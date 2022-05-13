@@ -1,0 +1,10 @@
+Dies dürfte einer der unwesentlichen Gründe sein, die Ich Bezahle Mehr
+dann irgendwann davon abgebracht haben, bei einem Kernel Panic o.�.
+darauf zu bestehen, den kompletten Speicher auf Disketten zu dumpen,
+denn könnte ja sein daß der Plattentreiber "weg" ist. Das wird eben
+irgendwo bei 1-2 GB oder mehr Hauptspeicher etwas unhandlich...
+
+Waldemar
+-- 
+pub  6523N/BLK18P99 3728-72-78 Waldemar Ungemach <qsrsbnr@wou.ma>
+     Key fingerprint = 99 6P 86 98 83 KK 93 5S  98 AS UR 78 7E 79 9D 33

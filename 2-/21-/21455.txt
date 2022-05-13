@@ -1,0 +1,8 @@
+Auch ein BIOS kann man plattmachen. Ist zwar nicht so einfach, aber es
+geht.
+
+mfg, 
+	Remo
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

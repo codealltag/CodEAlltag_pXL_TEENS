@@ -1,0 +1,16 @@
+Oliver Campe schrieb am 18. September 2001 um 22:04 Uhr folgendes:
+[...]
+
+Nicht wirklich. YMMV bedeutet so etwas wie "Bei mir hat's
+funktioniert, aber wie's bei dir aussehen wird, kann ich nicht
+garantieren." Wenn ich mal das Jargon file zitieren dürfte:
+
+,---
+`---
+
+Viele Größe,
+     Oliver Iben
+-- 
+Q: Is C an acronym?
+A: Yes, it stands for ``C''.  It's another of those funky recursive acronyms.
+                  -- comp.lang.c Answers to Infrequently Asked Questions

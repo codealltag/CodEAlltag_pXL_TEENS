@@ -1,0 +1,8 @@
+Ich habs bisher nur ein einziges Mal geschafft, dass der RAM unter
+Telis Finanz nicht gereicht hat, und das war ein fieses Speicherleck im
+vim... Und solange ich noch ungenutzen RAM habe, ists sinnfrei, auf
+Platte auszulagern.
+
+Ingo
+-- 
+Gravity is a myth, the Earth sucks.

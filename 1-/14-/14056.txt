@@ -1,0 +1,6 @@
+Q schnippst und Ende.
+-- 
+Ah, the beauty of DSAI. Hundreds of volunteers worldwide volunteering
+their time inventing and implementing new, exciting ways for software
+to suck.
+- Leopold Jupe, in the Monastery

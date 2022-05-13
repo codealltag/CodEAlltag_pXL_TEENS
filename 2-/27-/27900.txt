@@ -1,0 +1,19 @@
+Am Sat, 07. 06. 21 sendete Eduard Alfred Dussing folgende Botschaft:
+
+
+*wuff* *wuff*. Nein. Wenn dann "f(x): R -> N". Mit x \in (R\N) definiert
+als das m:=max{n \in N | n < x} Würfe abgeschlossen sind, und der m+1te
+Stein gerade (x-m)*(Wurfstrecke) zurückgelegt hat. (Der Werfer wartet
+immer bis der letzte Wurf abgeschlossen ist bevor er einen neuen Stein
+wirft.
+
+(Ursprünglich wollte ich auch N->N nehmen, aber ich hatte keine Lust zu
+überlegen ob da auch der Limes für definiert ist. (Obwohl eine Funktion
+N -> N ist ja eigentlich nur eine Folge mit (a_n = f(n)) also würde das
+auch passen.))
+
+
+Frühsport.
+
+Tschüs
+  Ivo

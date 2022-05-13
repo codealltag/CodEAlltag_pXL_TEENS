@@ -1,0 +1,12 @@
+Und so sprach Valerian Overschmidt:
+
+
+OK, das kann ich nachvollziehen. Ich hab auch immer die tolle
+Kinesiologie-Wundersteinchen-Esoterik Sendung gehoert. :-)
+
+Gruss,
+Mike.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.f

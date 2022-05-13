@@ -1,0 +1,3 @@
+Genau. Das ist die vierte Handlung, die ich bei einer neuen Unix Kiste 
+vornehme nach der Installation des Basesystems (1. bash installieren, 2. julius 
+draufknallen, 3. inetd rauskicken).

@@ -1,0 +1,8 @@
+Solches tippte Johannes Löchel:
+
+Für ein RAID sollte das ein Kinderspiel sein, wenn ich mich da recht
+an Implementierung von Datenbanksystemen erinnere. Die Frage ist:
+macht der Bus bei $verwendeter\ Hardware das zuverlässig mit. Für
+Werte aus @PC\ von\ der\ Stange habe ich da so meine Zweifel...
+
+Hilmar

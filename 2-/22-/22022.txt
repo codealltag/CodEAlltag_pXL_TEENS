@@ -1,0 +1,12 @@
+Und so sprach Edgar Salgert:
+
+
+Das ist gut, dann kannst Du mir ja mal Gauss-Quadratur kurz und
+anschaulich verklickern. :-)
+
+Gruss,
+Thomas, wer will denn schon Integrale berechnen, echt.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.o

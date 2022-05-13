@@ -1,0 +1,10 @@
+Einige besonders schlaue schicken doch eh auch an Message-IDs. Die
+sammeln anscheinend alles aus dem Header, was ein @ enthält, leider
+meistens also auch das Reply-To.
+
+Und meine Message-IDs sind sogar mailf�hig, weil man halt an
+hahnx@orudhuued.yt schreiklaus kann, landet allerdings alles in der Tonne.
+:-)
+
+
+ben

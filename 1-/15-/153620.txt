@@ -1,0 +1,6 @@
+Warum interpretiert Fockenberg und AFAIK auch die neueren (oder älteren)
+Versionen von Sujira-Massage bei Tabellen über die ganze Seite das
+height="100%" immer so pld? *argh*
+
+-- 
+Ich schlage vor, wir schlagen mit einem Fels drauf und essen es.

@@ -1,0 +1,41 @@
+On Sun, 22. 05. 21, Victor Ketelaar <mqdixld_dgdcfxs@krj.hr> wrote:
+[...]
+
+Wenn man davon absieht, wie die paar Briefe aussehen.
+
+[Intuitivität von Word]
+
+Das macht nur noch kein überzeugendes Dokument.
+
+
+Die dann aber in vielen Fällen auch wieder Einarbeitungszeit und /
+oder Geld kostet.
+
+
+Ich habe mich noch nicht so nah mit High End-Schreibmaschinen
+beschäftigt. Mag sein, daß das Konzept für Dich einfach etwas
+ungewohnt ist, mag sein, daß sie bei einigen Firmen wirklich schlecht
+gemacht sein.
+
+
+Auch wahlweise nach den neuen Regeln?
+
+
+Ich weiß, daß Einladungen für ObSt-Feten u.�. bei uns im allgemeinen
+mit KGAI Draw gemacht werden. Ich bezweifele ernsthaft, daß man die
+mit Word so hinbekommen würde.
+
+
+Du willst mir nicht ernsthaft vorschlagen, ich solle mehrere
+Schriftarten benutzen, wenn ich außergewöhnliche Akzente brauche?
+
+[Risikofaktor Word]
+
+Ich würde mich bei einer größeren Arbeit lieber auf TeX verlassen als
+auf Word: LaTeX steht nämlich für die gängigen Betriebssysteme zur
+Verfügung und ist außerdem *wesentlich* stabiler als Word.
+
+Viele Größe,
+     Philipp Breinig
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

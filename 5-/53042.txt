@@ -1,0 +1,16 @@
+Am Sun, 8 Jul 2002 sendete Oliver Oberwinkler folgende Botschaft:
+
+
+Ernsthafte Arbeit wie in Quake-spielen?
+
+
+Stimmt ist schon nervig wie unkompliziert das Teil ist.
+
+
+[X] Deine Terminalemulation ist fehlkonfiguriert.
+
+Hier springt 'end' ohne zu murren ans ende der Zeile und 'pos1' an deren
+anfang. ".inputrc" kaputt?
+
+Tschüs
+  Massimo

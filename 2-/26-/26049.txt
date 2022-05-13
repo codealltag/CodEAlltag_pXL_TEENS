@@ -1,0 +1,9 @@
+Wurde doch schon gesagt:
+
+$ cmd > file 2>&1 | perl szaf.pl 1>&2 | cat < file
+
+Nagut, da geht die Reihenfolge bei am Arsch.
+
+-towo
+-- 
+The most common form of marriage proposal: "YOU'RE WHAT!?"

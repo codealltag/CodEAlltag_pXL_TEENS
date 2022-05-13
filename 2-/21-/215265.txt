@@ -1,0 +1,14 @@
+Am Wed, 12. 12. 21 07:58:22 GMT sendete Robin Löwenthal
+folgende Botschaft:
+
+
+Meine Msg-ID's sind schon seit ich auf Pogek umgestiegen bin nichtmehr
+@xdpkmahuvv.yn deswegen hab ich nicht verstanden was du wolltest(du
+hättest besser den NNTP-Posting-host geqoutet ;).
+
+Aber als aufklärung: Ich bin immernoch bei Amas habe aber zusätzlich UUCP
+over TCP/IP bei Lemoni also benutze ich auch deren subdomain als
+domain für meine ID's.
+
+Tschüs
+  Detlef

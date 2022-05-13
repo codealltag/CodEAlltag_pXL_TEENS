@@ -1,0 +1,6 @@
+Hey, ein Kandidat fuer die Farsleben-Mini-Jup     :-)
+
+-- 
+Angelo
+I saw `cout' being shifted "Hello world"
+times to the left and stopped right there.

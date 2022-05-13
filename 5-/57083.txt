@@ -1,0 +1,23 @@
+Valerius Immler meint dazu:
+
+
+Was fürn Ding?
+
+
+Hm...nicht schlecht. Sowas brächte ich auch mal, aber irgendwie spielt
+das bei mir alles nicht so gut zusammen. Das nächste, was ich wohl
+austauschen muss, ist der Lüfter der CPU. Dann muss ich ausprobieren, ob
+meine Geforce auch ohne aktiven Lüfter läuft (ich spiele ja ohnehin kaum
+noch), den Northbridge-Lüfter hab ich auch schon abgeklemmt, das stört
+die auch nicht. Und das Netzteil macht nach ner Zeit immer recht viel
+Lärm. Es ist zwar thermogeregelt, aber scheinbar machen meine
+Komponenten ihm gut Hitze unterm Blech.
+
+
+t|a
+
+-- 
+Now playing in Winamp:
+----------------------------------------------------------------------
+                     +B.O. - De Camino a La Vereda
+----------------------------------------------------------------------

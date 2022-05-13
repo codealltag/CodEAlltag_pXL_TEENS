@@ -1,0 +1,8 @@
+Nein. Einzig mögliche Vorgehensweise.
+
+Was wäre sonst wenn mitten im Verschiebevorgang der Strom ausfällt/der
+Prozessor/das Netzteil/der Arbeitsspeicher platzt?
+
+Dann hast du auf beiden Partitionen inkosistente Daten.
+
+Nikolaus

@@ -1,0 +1,11 @@
+warum? auch unter nt haben die programme nur die rechte des benutzers, unter
+dem sie laufen. wenn der benutzer keine scheisse machen darf darf das
+programm das auch nicht.
+
+mfg
+    gian
+
+-- 
+- Gian Hellstern  -  eMail: clccqx@bfc.qdojl.rb
+- IRCNet: ^Spooky    -         meyhrl@laz.zknragvf.kh
+--

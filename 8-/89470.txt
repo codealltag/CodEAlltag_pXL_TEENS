@@ -1,0 +1,17 @@
+Hallo !
+
+Paul Pretzell wrote :
+
+
+Och Lisp hat irgendwo was interessantes - hab nur vor lauter Klammern 
+noch nicht entdeckt wo..
+
+Aber zu den Klammern gibt's eine netten Kommentar von einem alten Prof 
+von mir :
+
+Student "Da fehlen zwei Klammer am Ende!"
+
+Prof "Ja wirklich ? Da kann gut sein, da können auch noch mehr fehlen, 
+da blickt doch eh niemand mehr wirklich durch."
+
+René

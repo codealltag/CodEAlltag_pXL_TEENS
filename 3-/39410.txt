@@ -1,0 +1,16 @@
+Per dpkg will es sich nicht updaten lassen. Aber ich kenne mich damit
+eh noch nicht so besonders aus, dass ich das Problem auf den
+Paketmanager schieben würde...
+
+
+H, nee. :-)
+
+
+Ich bleibe weiter dran.
+
+Hinrich
+
+-- 
+"Wenn du im Recht bist, kannst du dir leisten, die Ruhe zu bewahren;
+ und wenn du im Unrecht bist, kannst du dir nicht leisten, sie zu
+ verlieren." (Herwig Ziesch)

@@ -1,0 +1,9 @@
+Klar. Ich glaube dir und nun gucke ich mal, was man hier so essen
+könnte.
+
+Renato
+
+-- 
+INSTALL:
+"Die Anwendung wurde unerwartet beenden.
+ Starten Sie die Anwendung erneut."

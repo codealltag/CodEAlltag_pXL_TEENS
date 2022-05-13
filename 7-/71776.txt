@@ -1,0 +1,13 @@
+(* Hinrich Raap wrote: *)
+
+
+Nein, du verallgemeinerst.
+Es gibt viele Leute, die nicht nachdenken, wenn Sie Frames einsetzen, 
+weil ihnen das Webauthoring-Tool die ganze Arbeite abnimmt. Das sagt 
+aber nichts über die Einsatzfähigkeit von Frames aus.
+
+Müssen wir aus den Autos das ABS wieder ausbauen, nur weil die meisten 
+Leute sich darauf verlassen und keine Ahnung mehr haben, wie man sich in 
+gefährlichen Situationen verhält?
+
+Gerhard

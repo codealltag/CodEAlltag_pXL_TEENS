@@ -1,0 +1,7 @@
+Gut. In dem Fall: Nein.
+
+Burkhard
+
+-- 
+Ezap:
+  "Unbekannter Fehler '-128' bei '57'."

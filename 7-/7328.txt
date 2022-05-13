@@ -1,0 +1,7 @@
+[dsf 5.3]
+
+Mathias
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+81: Cursor-Tasten
+       Neumodischer Schnickschnack. (Gebhard Lochner)

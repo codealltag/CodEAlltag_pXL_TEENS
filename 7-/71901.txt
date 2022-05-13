@@ -1,0 +1,8 @@
+strace slrn
+
+Have phun reading news
+
+Simon
+-- 
+Dieser Artikel ging an folgende Newsgroups: bs.qrvr.xkhter
+Er wurde am Donnerstag, dem 20. März im Jahre des Herrn 2000 verfaßt.

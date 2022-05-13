@@ -1,0 +1,4 @@
+Nochmal: nicht schwerer, sondern nur schwer identisch.
+
+Allein die Datenbankanbindung dürfte Probleme machen. Und das X-Windows 
+System dürfte nichtmal vom Prinzip her mit GDI kompatibel sein.

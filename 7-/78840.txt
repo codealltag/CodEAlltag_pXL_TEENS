@@ -1,0 +1,10 @@
+Also auf dem System stimmt die Zeit, GMT +2000 ist eingestellt. Laut
+Cacchia setzt slrn auch keine Zeit in den Header. Also liegt die
+Vermutung nahe das der Newsserver (pyvz.wqd.eoy.ib) dies übernimmt. Die
+Uhrzeit stimmt ja auch, nur wird halt nicht 12:00 GMT +2000 geschrieben
+wie es sein sollte, sondern eben 10:00 GMT.
+
+Giorgio
+-- 
+Signatur? 
+Was das denn?

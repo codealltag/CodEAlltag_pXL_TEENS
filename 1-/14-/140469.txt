@@ -1,0 +1,27 @@
+Jörg Brintz schrieb am 18. September 2001 um 18:46 Uhr folgendes:
+
+
+Cursortasten, Page up / down, Home und End funktionieren bei jed (uU
+muss man es noch auf die Terminal-Emulation abstimmen); bei den
+Tastenkürzeln hat man die Auswahl zwischen verschiedenen Schemata (ich
+bevorzuge Emacs-like), kann sie wie gesagt aber auch völlig frei
+wählen. Wenn man will, kann man am Anfang noch die Menüs verwenden und
+erst mit der Zeit die Tastenkombinationen lernen (die stehen auch
+immer bei den Einträgen).
+
+
+Zum einen gibt's das Editor-intern; zum Austausch mit anderen
+Programmen kann man zusätzlich das "globale" Clipboard unter X bzw.
+den gpm auf der Konsole verwenden.
+
+[...]
+
+Falls auf der Maschine irgend ein Unix, VMS, 32bit-Windows, OS/2 oder
+DOS läuft, stehen die Chancen gut (wobei momentan nicht ganz klar ist,
+wie lange es den DOS-Support noch geben wird).
+
+Viele Größe,
+     Jörg Gritzmacher
+-- 
+"Don't say yes until I finish talking."
+                                                    -- Fred P. Kellerhohn

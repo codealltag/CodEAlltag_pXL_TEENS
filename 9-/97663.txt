@@ -1,0 +1,12 @@
+Hab ich auch schon ne Zeit lang gemacht - brauch ich aber im Moment 
+nicht. Bin dabei meine Linux Firewall/Proxy/Router aufzubauen. Mir 
+fehlen aber noch n paar Teile.  
+
+bye
+Tobias
+
+-- 
+A real programmer should process the following tasks in their life:
+1. Implement a tree
+2. Build a house from own sources.
+3. Spawn a child

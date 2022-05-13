@@ -1,0 +1,16 @@
+Hardware ist gerade noch am Werden, ich brauch noch ein paar Bauteile 
+(WHCI hat Quarzoszillatoren mit allen Frequenzen, natürlich nur nicht mit 
+der, die ich brauche <grrrr>)
+
+Dann wird erstmal ein Empfänger experimentell aufgebaut, Analyse-Software 
+gestrickt und so weiter.
+Das alles wird allerdings eher ein genau auf meine Bedürfnisse 
+zugeschnittener Hack, das heißt für die für Dich passenden 
+Endapplikationen müßtest Du vielleicht selbst sorgen. ;-)
+
+
+17. November
+
+
+Durch exakt 13 Punkte hätte ich auch noch 1,9 geschafft. Aber die Note war 
+bei /der/ Prüfung Utopie.

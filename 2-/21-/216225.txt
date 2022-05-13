@@ -1,0 +1,17 @@
+falsch. Usenet || ist eine eigene Hierachie die nur auf bestimmten
+Servern geführt werden darf. Es ist nicht der Versuch, das Usenet
+kontrollierbar zu machen.
+
+
+Naja, um net.* Feed zu bekommen musst du gewisse Regeln einhalten und
+falls du ein Betreiber eines DSIG-hosts bist, musst du dafür sorgen, das
+deine User die Regeln einhalten. Aufgrund dessen haben viele Provider
+entweder gar kein net.* oder aber der Zugang zu den Gruppen ist
+restricted. Usenet || ist eher der Versuch ein Usenet aufzustellen, wo
+der Noise/Signal Ratio sehr angenehm ist, Spam keine so große Chance hat
+und wo die User verantwortungsbewußt sind.
+
+-ullrich
+-- 
+Sorry, we're out of sigs. 
+ http://wditds.gnog.cnc/ // poncho on IRC // PGP-ID: 0xF67809B5

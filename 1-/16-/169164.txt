@@ -1,0 +1,5 @@
+Das höchste was ich mir vorstellen kann ist daß die beiden Prozessoren 
+vielleicht über ein gemeinsames Speicherfenster verfügen, über die sie 
+Daten austauschen können. Genaueres kann man nur mit Betrachten der 
+Platine sagen. Ansonsten dürfte die Sache nicht viel anders sein als ein 
+gänzlich separater Rechner.

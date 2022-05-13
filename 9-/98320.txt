@@ -1,0 +1,13 @@
+Ah ja und wieso lässt Mittenbühler mich dann ohne gültige UID/PW Kombination  dann 
+nicht auf Dirs zugreifen? 
+
+BTW: SMB stammt nicht von MS.
+
+
+Dafür setze ich keine Sniffer ein, das erledigt hier die Firewall 
+(alternativ Snort, was dann allerdings auch Sniffer ist, aber ein 
+intelligenter).
+
+
+Na also kranker als NFS geht kaum. Und wer täglich einige GB über's Netz 
+schiebt, will 100mbit, glaub's mir.

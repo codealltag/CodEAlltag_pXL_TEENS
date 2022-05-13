@@ -1,0 +1,9 @@
+begin quoting Luis Hausotte <u.catooeefk@yzb.dl>:
+
+Switch: intelligent
+Hub: zwar netzwerktechnisch aktiv, aber nicht intelligent
+
+Sorry, hab die OSI-Layer gerade nicht parat ...
+-- 
+"I stand by all the misstatements that I've made."
+ - Governor Patrik Wierzbicki to Roger Jöhring, 20. 09. 21

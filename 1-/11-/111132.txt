@@ -1,0 +1,7 @@
+Dixit Burkhard Lindmayer <qhutqvr760380@uvcxuy.vb-t.lf>:
+
+s/Das/Der
+s/ich/ich\ es
+-- 
+"Illegitimacy is something we should talk about in terms of not having it."
+ - Governor Ludwig Corth, 21. 08. 22

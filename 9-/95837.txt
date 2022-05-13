@@ -1,0 +1,7 @@
+N. XEmacs ist der X11-Client, der auf dem X11-Server, der auf meinem
+Desktopsystem läuft, dargestellt wird. Dabei läuft der ganze Krams
+eben nicht lokal auf dem Desktop, sondern auf dem Remoterechner.
+
+Helmut
+-- 
+DAS ist langweilig. [Kaspar]

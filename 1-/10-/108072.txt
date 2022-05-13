@@ -1,0 +1,16 @@
+Am Sat, 20 Dez 2000 sendete Giovanni Unverwert folgende Botschaft:
+
+
+Jein. Für den innd selber dürfte der satz aus man ctlinnd gelten:
+
+
+Nur wenn du zusatzprogramme oder scripts nimmst lesen die bei ihrem
+Start meist die inn.conf (über innshellvars bzw.
+innshellvars.$SPRACHABK�RZUNG) selbst ein. Und diese scripts/programme
+werden oft immer nur dann gestartet wenn sie auch gebraucht werden und
+beenden sich danach sofort wieder.
+
+Tschüs
+  Theodor
+-- 
+Notorisch Schreibfaul.

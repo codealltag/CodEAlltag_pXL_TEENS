@@ -1,0 +1,8 @@
+Kommt alles. Nimmst du normales CVS oder eins der Tools?
+
+mfg, 
+	Valentino
+-- 
+BOFH excuse #80:
+That's a great computer you have there; have you considered how it would work
+as a BSD machine?

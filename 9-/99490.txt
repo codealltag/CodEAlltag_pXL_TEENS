@@ -1,0 +1,17 @@
+Grob vereinfacht: Die Anwendung (z.B. eine Textverarbeitung) ist nicht  
+bei dir installiert, sondern beim ASP-Anbieter. Du kannst über einen  
+Clienten oder idealerweise einem Browser von jedem Ort darauf zugreifen  
+und Dokumente zentral speichern. Die Vorteile liegen an der  
+Ortsunabhängigkeit - du kannst in Obermieming genauso arbeiten wie in  
+Ochsenfeld, einzige Voraussetzung ist ein Internetzugang. Zudem müssen  
+Updates nur an einem einzigen Standpunkt installiert werden und nicht auf  
+jedem Notebook, jeder Workstation. Natürlich hat das Prinzip auch einige  
+Nachteile: Du vertraust deine Daten Dritten an - von Industriespionage  
+bis totalem Datenverlust ist alles möglich.
+
+Angelo Geismayr
+
+-- 
+Mehr Sicherheit für unsere Kinder! Verbietet das Internet!
+
+---> Offizieller Kämpfer wider Willibald Reuel des Ordens von dtju <---

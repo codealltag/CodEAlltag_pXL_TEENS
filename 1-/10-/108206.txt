@@ -1,0 +1,11 @@
+Dixit Winfried Unterseher <qakxbwm969673@bfkyoc.ud-b.ms>:
+
+Quatsch, sowas geht auf Anhieb.
+
+<t-online>Abdul, du weit, daß Du für DSL die Frühstücksladen-Software
+brauchst?</t-online>
+-- 
+Wie jagt man einen Elefanten - Teil 2:
+C- Programmierer bestimmen zuerst mit sizeof() die nötige Speichermenge
+für einen Elefanten, versuchen diese zu allozieren, vergessen dabei das
+Ergebnis abzuprüfen und schießen dann mit wilden Pointern auf den Elefanten.

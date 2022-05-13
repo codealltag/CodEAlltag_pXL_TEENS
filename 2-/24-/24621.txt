@@ -1,0 +1,7 @@
+Falls CD-Rom-LW, habe ich hier ein Knoppix. Ansonsten Diskette. Und
+danach per Netz. So mache ich das jedenfalls.
+
+Jörn
+
+-- 
+            It is easier to fix Unix than to live with NT.

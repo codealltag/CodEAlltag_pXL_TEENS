@@ -1,0 +1,20 @@
+[X] Useneter sind berechenbar.
+
+Wieso wuste ich nur schon beim schreiben das dieser Einwand von dir oder
+Stefano kommen _muste_?
+
+Mir ging es eigentlich mehr um das reine Funktionieren(Ok war ein
+bisschen blöd formuliert.). Das ganze funktionert ja auch mit Telnet wie
+auf der Party bewiesen. Das die Passwörter dabei unverschlüsselt
+übertragen werden ist ja das problem des Nutzer.
+
+
+Eben.
+
+
+Ich glaube im zweifelfalle wird mir `man ssh wohl auch weiterhelfen.
+
+BTW: Ist ssh nicht nur ein aufsatz auf Telnet?
+
+Tschüs
+  Oswald

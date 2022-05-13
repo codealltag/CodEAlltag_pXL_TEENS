@@ -1,0 +1,12 @@
+* Manuel Zschucke <ypkbri@yjrxuz-bvyeule.dr>:
+
+
+Verstehe. Ich dachte, du willst die Solitaire-Grafiekn für die Symbolleiste
+oder so übernehmen.
+
+Gnus stellt den Summary-Buffer textisch(sic!) dar -- da wirst du nur
+schwer Grafiken einfügen können.
+
+Stefan
+-- 
+cross veinless

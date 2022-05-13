@@ -1,0 +1,6 @@
+Die Gleichstrom-Effektivspannung bei Wechselstrom ist 70% der
+Gesamtspannung.
+
+-towo
+-- 
+The power of pessimism: an optimist is never happily surprised.

@@ -1,0 +1,7 @@
+* "Erich Kräften" <zzkq@hbvyttzy.eo>:
+
+
+Der _Kernel_ unterstützt ja schließlich smb (ich habe es ja mit
+eingebaut).
+
+Beat

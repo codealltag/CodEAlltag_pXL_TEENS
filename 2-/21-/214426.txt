@@ -1,0 +1,10 @@
+Ich weiß wie gesagt bis heute nicht, was da passiert ist. Theoretisch
+wäre es aber möglich, daß einfach das Byte falsch gesetzt war, das den
+Typ der Partition angibt - das zu korrigieren ist eine Sache von ein
+paar Sekunden + Reboot. Zumindest das hätte ich überprüft, wenn mir
+nur irgend etwas an den Daten gelegen hätte.
+
+Viele Größe,
+     Ulrich Capl
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

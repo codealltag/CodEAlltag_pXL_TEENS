@@ -1,0 +1,3 @@
+NTFS will ich auch nur Read-Only unter Linux lesen.
+-- 
+np:

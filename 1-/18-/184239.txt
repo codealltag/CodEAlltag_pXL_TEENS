@@ -1,0 +1,26 @@
+Ich wiederhole nochmal die Aufgabe:
+"b) Rechne die Dezimalzahl 7634578 ins Hexadezimalsystem um."
+
+Da steht rein gar nichts von einem Computer.
+
+
+Schon, aber dadurch wird 1 und 1 trotzdem nicht 3 ;-)
+
+
+Du fährst bei der Aufgabe ein künstliches Limit ein, das nirgendwo 
+angegeben wird. Wer sagt denn daß der Rechenbereich nicht 32 bit beträgt?
+
+
+Kapier ich nicht. Wo ist der Unterschied vom Dezimal- zum 
+Hexadezimalsystem? Das wir das Dezimalsystem benutzen ist 
+schließlich willkürlich, hätten wir 16 Finger...
+
+
+Aber woher beziehst Du Dein Limit? Du kannst doch nicht sagen "Hey, beide 
+Zahlen sehen nach 16-Bit aus, also limitiere ich den Rechenbereich der 
+Aufgabe mal darauf".
+
+
+Ist doch alles eh nur eine Frage der Darstellung. Ich finde FFFFFFFF an 
+manchen Stellen halt eindeutiger als 4294967295. Aber dem Computer ist 
+das doch Jacke wie Hose.

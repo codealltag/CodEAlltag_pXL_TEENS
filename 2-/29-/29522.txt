@@ -1,0 +1,24 @@
+Am Sat, 04 Okt 2003 sendete Ignaz Jungbär folgende Botschaft:
+
+
+Ich würde mal behaupten das die meisten Grössen im 18. Jh deutlich
+weniger über die Grundlagen wussten als ein durschnittlicher Student
+heute.
+
+
+Sondern wer?
+
+
+über was für Produkte redest du?
+
+
+Sicher? Ich musste für ein Projekt in der 13. eine Motoransteuerung (ind
+dem Falle 9V Legomotoren) über einen PC (WHGZ-io-Karten). Leider waren
+die dinger von der Schaltleistung so schwach das man selbst minirelais
+nicht damit Ansteuern konnte, also musste eine
+Transitoren-verst�rkerschaltung vor die Relais. Da kommt richtig freude
+auf beim Basteln. Und das man mal irgendwas mit dem PC schalten muss soll
+schnell genug vorkommen.
+
+Tschüs
+  Renato

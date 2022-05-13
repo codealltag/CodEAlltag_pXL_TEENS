@@ -1,0 +1,17 @@
+Hinrich Clauß schrieb am 26. März 2000 um 03:26 Uhr folgendes:
+
+
+Ginge schon (würde zB vom slrn mit meinem Patch auch korrekt
+interpretiert), ist aber deprecated. Im Usefor-Draft steht:
+
+
+Zu gut Deutsch: quoted-printable (im Body) muss vermieden werden, wenn
+es für seinen Einsatz keine schwerwiegenden technischen Gründe gibt.
+Gegen UTF-8 spricht laut den aktuellen Drafts dagegen nichts.
+
+Viele Größe,
+     Hinrich Lewerken
+-- 
+ Q: I was listening to a CD in Grip and it sounded horrible! What's up?
+ A: Perhaps you are listening to country music...
+                                                        -- grip 2.5 FAQ

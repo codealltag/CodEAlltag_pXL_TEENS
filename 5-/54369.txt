@@ -1,0 +1,16 @@
+Am Thu, 16 Jan 2003 sendete Denis Montagne folgende Botschaft:
+
+
+Ja.
+
+
+Ich will wahrscheinlich genau einen K6-233. Schneller kann mein Board
+nicht (vermute ich, kennt wer nee webseite wo man herausfinden kann
+welche CPUs mit welchen maximalen taktraten etc für welche sockets
+produziert wurden?) und der K6-166 ist für Nähtruhe etwas lahm.
+
+
+*nachschau* Das wären DIMMs nicht? Die kann ich leider nicht gebrauchen.
+
+Tschüs
+  Henri

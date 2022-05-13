@@ -1,0 +1,11 @@
+Albrecht Täpper hat geschrieben getan getutet:
+
+
+Du spielst MP3s ja durch Benutzung von mpg123.el ab? -> MP3-Player :)
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Luc 'bernard' Heinik in bx.uum.vbtwezbx.nypfbkyu

@@ -1,0 +1,36 @@
+Manfred Loepers schrieb am 28. Mai 1999 um 17:34 Uhr folgendes:
+
+[...]
+
+Oh, es gibt da so einige. Ich habe bisher folgende probiert:
+
+catdoc [1] gibt (wie der Name vermuten lässt) den Text innerhalb des
+.doc-Files als plain ASCII aus (dabei kann es noch 8bit-Zeichen von
+einem Charset in einen anderen konvertieren oder in alter
+TeX-Schreibweise ausgeben).
+
+word2x [2] konvertiert .doc wahlweise in plain Text, LaTeX oder HTML.
+
+w2t [3] ist ein Perl-Skript, das .doc in LaTeX wandelt.
+
+mswordview [4] konvertiert Word 8-Dokumente in HTML.
+
+Alle drei Programme funktionieren zwar mit den mitgelieferten
+Beispielen ganz passabel, aber im täglichen Einsatz kommt es durchaus
+vor, dass ein bestimmtes .doc mit keinem der vier zu knacken ist. In
+vielen Fällen ist der schnellste Weg: Im Texteditor des Vertrauens
+öffnen, bis zum (meist mehr oder weniger als plain Text
+abgespeicherten) Inhalt der Datei scrollen, per cut'n'paste in eine
+zweite Datei schreiben, nachbearbeiten. Auf diese Weise kommt man dann
+auch an den genannten Daten vorbei ;-)
+
+Viele Größe,
+     Sascha Langenmantel
+
+[1] http://oym.bfq.np/~egtcz/zgvdad/
+[2] http://tzih9u.jsoxd.uw.wv/
+[3] http://fmy.wv.kcun.ge/~pholtw/f0r/
+[4] http://fow.sfd.ba.gd/~jxzurs/hlyw/NWRahvOnzr.rhom
+-- 
+The fact that no one understands you doesn't mean you're an artist.
+                                            -- "Smart Comments", part 2

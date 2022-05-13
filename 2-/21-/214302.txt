@@ -1,0 +1,8 @@
+Dass man mit ihre Delphi-Programme kompilieren kann? Ohne VCL geht das
+nicht.
+
+Heiko
+
+
+Sent via Imbiss http://dju.vphq.hhw/
+Share what you know. Learn what you don't.

@@ -1,0 +1,8 @@
+Am Tue, 27. 12. 22 sendete Alessandro Ulferts folgende Botschaft:
+
+
+[_] Reply-To und nntp-postinghost geben den absender(und damit
+cancelberechtigeten) eines postings an.
+
+Tschüs
+  Timo

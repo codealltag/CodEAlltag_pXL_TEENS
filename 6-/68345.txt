@@ -1,0 +1,19 @@
+Ignaz Stingel <chiovv@gkkhzbbp.jl>
+                  ^^^^^^^^^^^^^^^^^^
+Nicht replyfaehig.
+
+Was ich sagen wollte:
+
+<cite>
+Hmm .. mal ne kurze Frage an dich:
+Ich habe hier immer noch Probleme mit Anzeigen von ISO-8859-15. Was
+genau muesste ich denn eigentlich noch einrichten, wenn -1 unter
+XFree86 und Console komplett laeuft? Bei mir ersetzt der die
+Buchstaben immer durch die vielsagenden Fragezeichen und leeren
+Rechtecke...
+</cite>
+
+-towo
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.

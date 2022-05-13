@@ -1,0 +1,12 @@
+* thjldvmvsq@tchjlxuvur.wv (Cfiyv Zschaubitz):
+
+
+`M-q'.
+
+
+Ich brauche nicht mal was markieren. XEmacs erkennt, wo eine Zitatebene
+anfängt und wo eine anderen endet. Praktisch.
+
+Beat
+-- 
+cross veinless

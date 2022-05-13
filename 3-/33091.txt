@@ -1,0 +1,6 @@
+Gibt ein paar Sachen, die reinfunktional sehr schön zu machen sind.
+
+Hau "Wieso fällt mir gerade nur 'unendliche Listen in Haskell' ein?" ke
+-- 
+Gerade weil wir alle in einem Boot sitzen, sollten wir heilfroh
+darüber sein, dass nicht alle auf unserer Seite stehen.

@@ -1,0 +1,13 @@
+Und so sprach Jan Flammann:
+
+#v+
+cqucp@zfvgrbj:~>find /dev -name Suessigkeitenschrank
+cqucp@zfvgrbj:~>
+#v-
+
+Mift.
+
+Gruss,
+Vincent.
+-- 
+Now running Junietz v0.2 for leafnode!

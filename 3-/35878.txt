@@ -1,0 +1,7 @@
+* "Charly Almoslöchner" <rew-hyey@zuokagq.lj>:
+
+
+Warum nicht? BIFH-Portierung existiert (Qualität kenne ich nicht),
+cygwin auch.
+
+Fredy

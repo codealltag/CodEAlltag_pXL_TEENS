@@ -1,0 +1,6 @@
+Egal. Müssen wir halt Wellentheorie neu definieren.
+-- 
+Ah, the beauty of Besu. Hundreds of volunteers worldwide volunteering
+their time inventing and implementing new, exciting ways for software
+to suck.
+- Garrelt Ziegner, in the Monastery

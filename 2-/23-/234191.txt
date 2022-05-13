@@ -1,0 +1,10 @@
+Ach ja, _anstelle_ der Maus ein Modem? Das wird sicher immer lustig.
+Meine Meinung: Entweder einen PS/2-Port für die Maus plus einem COM-Port
+für Modem oder einen COM/PS/2-Port für Maus und das Modem als PCMCIA.
+
+Gruß,
+
+Franz
+-- 
+"There's a sucker born every minute."
+(HENDRIK Franzmeier)

@@ -1,0 +1,54 @@
+*nick*
+ca. 1,5*A4 für das Stadtparlament oder so.
+ca. 1,5*A3 für den Kreistag.
+
+
+Jo, aber die Möglichkeiten die man hat sind geil.
+
+a) Einzelnen Kandidaten Stimmen geben
+Entweder:
+[X][_][_] bis [X][X][X]
+Oder:
+[1][_][_] bis [3][_][_]
+Oder auch:
+[X][1][_]
+[2][1][_]
+[1][X][1]
+usw
+
+b) (langweilig) Liste ankreuzen
+Alle freien Stimmen werden der Reihe nach auf die Kandidaten der Liste
+verteilt, bis alle weg sind oder jeder drei hat.
+
+Wird spaßig in Verbindung mit
+
+c) Kadidaten aussstreichen
+Man kann einzelne Kandidaten streichen. Sollte bei b) er an der Reihe sein,
+wird er übersprungen.
+
+Richtig geil ist:
+
+d)_Man_ _kann_ _alles_ _gleichzeitig_ _machen_!
+
+e)_Man_ _kann_ _Kandidaten_ _von_ __allen__ _Parteien_ _gleichzeitig_
+_w�hlen_!
+
+Z.B.: 
+Partei A:
+- Liste anreuzen
+- Listenposition 26: ------ (Kandidat ausstreichen) [1][X][_]
+- Listenposition 85: Kandidatenname [3][_][_]
+Partei B:
+- Listenposition 1: ------ (Kandidat ausstreichen) [3][_][_]
+- Listenposition 2: Kandidatenname [X][X][1]
+- Listenposition 3: Kandidatenname [X][2][_]
+- Listenposition 4: Kandidatenname [1][1][1]
+
+Und so weiter. Viel Spaß. Zum Glück kriegt man den/die Wahlzettel früh
+genug vorher, so daß man sich zuhause schonmal ein Häkelmuster ausdenken
+kann.
+BTW: Den Musterwahlschein darf man ausgefüllt als Vorlage mitnehmen.
+
+Se"Das ist _wahr_"bastian
+-- 
+Lukas und Gabriel spielen im Bett mit der Stange.

@@ -1,0 +1,11 @@
+Und so sprach Viktor Engbers:
+
+
+/me findet The Hellacopters cool. ;)
+
+Gruss,
+Enno.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.m

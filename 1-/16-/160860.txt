@@ -1,0 +1,16 @@
+Ulrich Fligge schrieb am 17. August 1999 um 15:50 Uhr folgendes:
+
+[...]
+
+Dann hat man ja eigentlich keinen Grund, das Programm selbst zu
+compilieren...
+
+
+Bei Gnus musste man es IIRC erst aktivieren, als ich mir den mal
+angesehen habe. "Normale" UNIX-Reader neueren Datum sollten das aber
+doch wirklich machen, oder?
+
+Viele Größe,
+     Victor Ferk
+-- 
+After a number of decimal places, nobody gives a damn.

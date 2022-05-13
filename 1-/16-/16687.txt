@@ -1,0 +1,18 @@
+Willibald Föhr heeft geschreven:
+
+
+Also zuerst einmal hätte ich gerne.... Ach das erfüllt mir ja eh
+keiner... ;-(
+
+
+Doch, aber das könnte schwer werden. ;-)
+
+
+*seufz* Ich wollte vielmehr wissen, in welchem Kontext diese Aussage
+entstand. 
+
+August 'Seine Fragen in Zukunft präziser stellend.' ico
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - VBH, 06. 07. 22

@@ -1,0 +1,6 @@
+Diedrich Hofmann <dkqhror@qvk.py> schreibselte:
+
+
+s/M/H/;
+-- 
+np: Kathleen Onnenga - Skater Boy

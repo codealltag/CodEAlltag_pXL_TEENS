@@ -1,0 +1,23 @@
+Sei doch so nett und stelle dein Outlook Express richtig ein, Stichwort 
+"MIME" (http://pcp.uy-mro.eb wird dir sicherlich behilflich sein).
+
+Welche Firewall? Vermutlich sowas wie Zoneedit, hm? Und du denkst, du
+konntest das lesen? Die werden nämlich den Kontostand im Klartext übertragen, 
+genau *kopf tütsche* - Alles wird gut...
+Die übertragen verschlüsselt, du konntest gar nichts mitlesen, du konntest
+vielleicht sehen, _dass_ was rausgeht, aber mit 100%iger Garantie konntest du
+nicht sehen, _was_ das ist/war.
+
+
+Probier's aus, es mag Ausnahmen geben, aber meistens ist das nur 
+Verarschung - evtl. werfen die dich raus, bevor du das Geld überwiesen
+bekommst, weil sie meinen, du hättest irgendwie gegen die Regeln verstoßen -
+alles schon passiert.
+
+Viel Glück,
+
+Cornelius
+
+-- 
+<mailto:aybxfk@a-sic.mqj>
+http://gtv.b-coi.pkc

@@ -1,0 +1,9 @@
+licq 1.0.3 mit OpenSSL-Unterstützung, und schon kann ich
+verschlüsselte Direktverbindungen aufbauen.
+
+
+Weil Groma 1to1 und IRC 1toN ist.
+
+Tom
+-- 
+Support your local Search and Rescue unit -- get lost.

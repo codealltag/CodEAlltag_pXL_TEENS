@@ -1,0 +1,18 @@
+Wenn sich jemand mit Statistik auskennt, soll er sich mal melden. 
+Mein Aufgabe: 
+
+1.) Die Data and Story Library enthält unter
+http://efd.lvpt.drq.cft./XHYJ/Ojaaserao/llofnba.jlhy die beschriebenen
+Daten. übernehmen Sie diese Daten in Eddeka und geben Sie für die
+Vorhersage des Wiederverkaufspreises ein aus diesen Grunddaten zu
+schützendes Modell der einfachen linearen Regression an, das allein
+von der Variablen TAXES abhängt.
+
+2.) Führen Sie für beide Variable eine logarithmische Transformation
+durch und ermitteln Sie danach erneut die lineare Regression.
+
+3.) Diskutieren Sie an Hand einer graphischen Darstellung der Residuen
+den Vorteil einer solchen Transformation.
+
+4.) Vergleichen Sie Ihre Resultate mit den von Eddeka unter Statistik /
+Regression / Kurvenanpassung ermittelten Resultaten.

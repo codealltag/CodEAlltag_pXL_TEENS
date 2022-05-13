@@ -1,0 +1,16 @@
+Am Sun, 5 Jun 2002 sendete Werner Ingenlath folgende Botschaft:
+
+
+*PA*zurückhalt*
+
+Erwähne bloss nicht das Wort Segfault. Weisst du wie nervig es ist wenn
+man 3  Stunden programmiert, denkt man hätte alles bedacht, und dann
+segfault die ganze Scheisse ohne das man den Fehler findet?
+
+Tschüs
+  Noël
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Didier Dreiwes, Mostly Harmless, Chapter 12

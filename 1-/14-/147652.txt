@@ -1,0 +1,11 @@
+Echt super die Seite, echt. Ist jemand weiter als bis zu dem Werbebanner  
+und dem "Warning: MySQL Connection Failed: Can't connect to local MySQL  
+server through socket '/tmp/mysql.sock' (2) in frameset.php3 on line 10"
+gekommen?
+
+Bernhard Bormuth
+
+-- 
+Dieses höchst lehrreiche Posting wurde von Bernhard Bormuth persönlich
+geschrieben!                                 E-Mail: akymcp@crryykftpb.pv
+---> Offizieller Kämpfer wider Nicolas Altenidiker des Ordens von dtju <---

@@ -1,0 +1,12 @@
+Ingo Bürgle wrote in gn.xwfr.jfsdde:
+
+
+Die Funktion aus der ich mir einige Lispschnippels ausgeborgt hatte, hieß
+my-citation-line. Daher auch mein Wahl des Namens.
+
+Richard
+-- 
+Dein Informationssystem wird stets in der 
+richtigen Datenbank nach den falschen Daten suchen.
+
+(Murphy's Gesetz)

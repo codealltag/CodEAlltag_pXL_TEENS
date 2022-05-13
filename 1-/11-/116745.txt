@@ -1,0 +1,8 @@
+Unsere Affäre muss glaubwürdig dementierbar bleiben, habe ich dir
+gesagt.
+
+Willi
+-- 
+Wie jagt man einen Elefanten - Teil 3:
+LISP-Programmierer bauen einen Irrgarten aus Klammern und hoffen,
+dass sich der Elefant darin verirrt...

@@ -1,0 +1,8 @@
+(* Jens =?iso-8859-1?q?Ungermanns?= wrote: *)
+
+
+Eine HTML-Tabelle möchte ich mir idealerweise eigentlich nicht jedesmal 
+selber zusammenschreiben sondern wenn's geht mit ein paar Mausklicks 
+zusammensetzen lassen.
+
+Reinhard

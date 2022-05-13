@@ -1,0 +1,3 @@
+Ivo Bremermann <bzmrzgtkrjqe@istekxedc.rwu> schreibselte:
+
+Ich bekomme den X-Server nicht konfiguriert...

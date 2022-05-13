@@ -1,0 +1,17 @@
+Thierry Grossekemper meinte kundzutun:
+
+Nein.
+
+Edit - Preferences - Mail+News Preferences - Formatting - (Use Plaintext
+Editor) + (Convert to plaintext)
+
+Bearbeiten - Einstellungen - E-Mail&Newsgroups - Formatierung -
+(Texxt-Editor verwenden) + (Konvertiere in normalen Text)
+
+Wenn du deine Postings im HTML-Editor schreibst, löscht er trailing
+spaces beim Konvertieren in plaintext.
+
+Claudio
+-- 
+Dieser Artikel ging an folgende Newsgroups: mk.rtgo.apeplu
+Er wurde am Dienstag, dem 14. März im Jahre des Herrn 2000 verfaßt.

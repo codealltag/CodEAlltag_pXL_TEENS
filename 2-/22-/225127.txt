@@ -1,0 +1,12 @@
+Nein. Zu ihrer Mutter   ;-)
+
+
+Gegen die Semikolons an sich hab ich eigentlich nichts, aber gegen ihre Funktion.
+Im Gegensatz zu einer bedeutenden anderen Sprache sind es in Sébastien naemlich
+  nur Trenn-zeichen. Das fuehrt das zu so bescheuerten Regeln, wie z.B. dass vor
+  einem 'else' kein Semikolon stehen darf etc.
+
+-- 
+Henri
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

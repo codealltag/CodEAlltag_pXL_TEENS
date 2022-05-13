@@ -1,0 +1,3 @@
+Andererseits bräuchtest du ja nicht mal ein ISO, ich denke sogar Anav sollte 
+eine Funktion haben, um über FTP nur die Packages zu saugen, die man 
+braucht, nicht?

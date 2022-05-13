@@ -1,0 +1,9 @@
+[Carclass G5]
+
+Theorethisch schon. IIRC sind Carclass M68K-Procs Big-Endian.
+
+mfg, 
+	Dirk
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

@@ -1,0 +1,8 @@
+Ne danke.
+Als nur bedingt-religioeser Mensch fuehle ich mich von Altaeren nicht
+  so besonders angezogen.  :)
+
+-- 
+Theo
+if(!exit(1))
+  fprintf(stderr, "exit call failed.\n Program will continue.\n");

@@ -1,0 +1,17 @@
+Ah oui, merci. Könnten sich Mod-Mitglieder ihre Schlüssel nicht  
+gegenseitig signieren oder herrscht da zuwenig Vertrauen oder zuviel  
+Angst vorm großen, bösen Eugen? Für PGP-Neulinge ist es nämlich etwas  
+erschreckend, wenn jede Signatur als "invalid" bezeichnet wird.  
+Apropos: Ironischerweise wurde die Fake-Signatur vom eigenmächtig  
+geposteten Karnickel-RfD von meinem PGP als gültig erkannt...
+
+Und wo wir schon bei der lustigen PGP-Fragestunde sind: Mit welchem  
+Programm erzeugst du eigentlich deinen X-PGP-Sig-Header? Willibald  
+Jörgens xpgpsig, pgpsign oder was ganz was anderem?
+
+Volkmar Mainka
+
+-- 
+Zum beliebigen Einsetzen: :-) :-) :-) :-) :-) :-) :-) :-) :-) :-)
+                                             E-Mail: eobopb@qcowzpjbon.qd
+---> Offizieller Kämpfer wider Emmerich Isendahl des Ordens von dtju <---

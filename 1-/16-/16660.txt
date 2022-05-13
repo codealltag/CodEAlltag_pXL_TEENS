@@ -1,0 +1,20 @@
+Bodo Vollhart meinte kundzutun:
+
+
+*wrrr*
+
+Nene, Grobsortierung nach Datum mache ich per Scoring, alte Artikel
+erhalten weniger Pluspunkte, und ansonsten gilt:
+
+v+
+% Sorting options
+set sorting_method 12
+set custom_sort_by_threads 1
+set custom_sort_order "Score,lines"
+v-
+
+Etienne
+-- 
+"Ja der weiße Mann aus Neddenaverbergen / Brt den Teufel heut am Spieß,
+Und alle, die ein anderes Lied singen / grillt der Mann im Fegefeuer mit"
+Pachel feat. Torsten Lienhöft / Bagdad Blues ( Der weiße Mann aus Neddenaverbergen)

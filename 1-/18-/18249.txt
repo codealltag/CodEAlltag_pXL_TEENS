@@ -1,0 +1,8 @@
+Am Sun, 16. 12. 21 sendete Patrick Urs Hündgens folgende Botschaft:
+
+
+install:
+	cat README
+
+Tschüs
+  Ulla*eg*lix

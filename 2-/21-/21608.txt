@@ -1,0 +1,7 @@
+Wenn ihr ein Raumschiff habt, dann gerne auch das.
+
+mfg, 
+	Karl
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

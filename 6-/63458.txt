@@ -1,0 +1,18 @@
+"CD rein und starten lassen" war das, was ich mit der JPZ-CD
+gemacht habe. Und da bin ich dann schon in dem unsinnigen grafischen
+Installer gelandet. Da fällt mir ein, den müsste ich mal auf den
+Server loslassen; MediaLicht ist damals an der GraKa gescheitert...
+
+
+Es ist ohne weiteres möglich, eine Auswahl anzubieten, wo man den
+Krams denn gerne hinhaben möchte.[1] Und dann nachzufragen, ob die
+Partition, die soeben ausgewählt wurde, denn auch formatiert werden
+soll kann nicht so schwer sein...
+
+Dietmar
+[1] Auch das hat Mandrake schon nicht sauber geschafft, ich hab hier
+drei in Frage kommende Partitionen (/boot ist etwas klein...), und mir
+wurden nur zwei angeboten...
+
+-- 
+DAS macht mir keinen Spaß! [Cordula]

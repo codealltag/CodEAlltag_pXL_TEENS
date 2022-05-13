@@ -1,0 +1,12 @@
+Nicht wirklich. Ich hab den gerade gelöst, nach physikalischen
+Gesichtspunkten. Koasten: 41300$ ohne Optimierung. 
+
+
+Ich hab ne Kombinationslösung... Erstmal die normalen Gitter, und an
+den Stellen, wo die Brücke bricht, dann einen passenden Bogen
+obendrüber.
+
+Enrico
+-- 
+            Give a man a fish and you feed him for a day;
+     teach him to use the Net and he won't bother you for weeks.

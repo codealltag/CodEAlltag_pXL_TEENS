@@ -1,0 +1,7 @@
+Darf IIRC nicht mehr verschrieben werden.
+
+mfg, 
+	Nils
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

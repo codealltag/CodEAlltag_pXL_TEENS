@@ -1,0 +1,10 @@
+Wieso sollte ich für ein Notebook eine spezielle implementation
+brauchen?
+
+
+Von der einen Offline-Implementation, die ich erleiden durfte, war eine
+unbrauchbar. Und das war die von Netscape 4.irgendwas für Windows...
+
+Giuseppe
+-- 
+      ...and that is how we know the Earth to be banana-shaped.

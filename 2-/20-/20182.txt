@@ -1,0 +1,6 @@
+440.
+mfg, 
+	Valerius
+-- 
+BOFH excuse #306:
+CPU-angle has to be adjusted because of vibrations coming from the nearby road

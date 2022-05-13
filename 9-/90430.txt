@@ -1,0 +1,6 @@
+Nope. 'dpkg --purge xmms' (War glaub ich so, ich hab seit ner Ewigkeit
+nix mehr deinstalliert...) entfernt rückstandsfrei...
+
+Reiner
+-- 
+Ich äußere mich nicht mehr [L.L.]

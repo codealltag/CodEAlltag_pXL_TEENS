@@ -1,0 +1,21 @@
+pamewj@udu.wl (Gmidno Fritzen) wrote in
+<fvbk72xpef.1qs.gfxmtc@navwofkyve.msobuv.fdci.ecj>: 
+
+
+Mit S bei Edaba gehts. (Singleusermode oder wie heisst das?) Aber wenn 
+Ehrig normal hochfaehrt, steht das System beim Login praktisch. Er 
+versucht immer wieder den Screen aufzumachen, aber das klappt nicht, 
+und er versuchts nochmal. Naja, kommt halt davon, wenn man nur eine 
+halbkompatible Grafikkarte hat... ;)
+
+[inittab]
+
+Danke! :)
+Ist uebrigens SuSe.
+
+Karsten
+-- 
+
+Der Traum meines Lebens verdämmert.
+Aber die wilden Lilien
+blühen und leuchten wie immer.

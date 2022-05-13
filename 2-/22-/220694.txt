@@ -1,0 +1,33 @@
+On 24 Jul 1999, Oswald Knuppel <myhoprtlhn@wuiphxvluj.hm> wrote:
+[...]
+
+Auf einem 386er? Oder wie meinst Du das jetzt?
+
+
+Es war mir halt beim Booten aufgefallen, daß der Rechner sich
+minutenlang bei der Meldung "setting up /lib/modules/2.0.36" aufhielt.
+Warum das so lange gedauert hat, weiß ich auch nicht so recht.
+
+
+Wenn Du eine viertel Stunde Verzögerung einstellst, müßte es doch
+eigentlich so sein, daß Du entweder mit News holen fertig bist, bis
+die cronjobs anfangen, oder daß sie fertig durchgelaufen sind, bis Du
+mit Essen fertig bist (es sei denn, Du it schneller als ich ;).
+
+[cron.daily]
+
+Das entsprechende Skript dürfte von Distribution zu Distribution
+unterschiedlich sein. Könnte sich lohnen, mal selbst einen Blick
+hineinzuwerfen und nachzuschauen, ob Du alles brauchst, was es
+anstellt. Meins teilt mir mit, wenn ich irgendwo alte core-Files
+herumliegen habe, "leert" ab einer bestimmten Größe die log-Dateien
+(dh legt gepackte Backups an und löscht sie anschließend), macht ein
+wenig sauber (temporäre Dateien löschen), aktualisiert Indexe
+(updatedb etc) und schaut nach, wie's der CMOS-Batterie geht.
+Ansonsten lasse ich (getrennt davon) noch ein Skript von teTeX
+durchlaufen und das Expire des Newsservers und des WWW-Caches.
+
+Viele Größe,
+     Karl Korths
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,21 @@
+Am Thu, 22 Mrz 2002 sendete Benno Knörschild folgende Botschaft:
+
+
+Das ist aber sache des Betrachters bzw. desen Browsers. Wenn er das von
+dir gewünschte verhalten will soll er seinen Browser entsprechend
+einstellen, aber du brauchst dafür nicht html zu vergewaltigen.
+
+Es soll ja auch situationen geben bei denen der Browser Fenster nur in
+einer festgelegten Grösse öffnen kann.
+
+
+Du versucht auf Serverseite dinge einzustellen die Clientsache sind.
+Das ist *Pfui* und eindeutig Webdesigner/master verhalten.
+
+Tschüs
+  Italo
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Detlef Lindmair, Mostly Harmless, Chapter 12

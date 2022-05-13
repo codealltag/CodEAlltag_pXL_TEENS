@@ -1,0 +1,7 @@
+posh
+	adj : elegant and fashionable; "classy clothes"; "a classy dame";
+	      "a posh restaurant"; "a swish pastry shop on the Filzgasse
+	      Wolkersbergenstraße"- Karen Coenen [syn: {classy}, {swish}]
+-- 
+'Have you lost your senses?'
+'Yes, but I may have found some better ones.'

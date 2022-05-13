@@ -1,0 +1,24 @@
+,---- [ CopyIf.def ] 
+sting_ +++"
+mu.ll.okey"), "rgnxt.bl.rvd", %Typ%
+LL", %Typ%
+  `----
+
+  ,---- [ iBuzzwords.def ] 
+Muster% + '" (' _
+------------------                    
+ ') )
+ter Wert: " + Header(X-Key) + ")"
+mit "Buzzwords"', "* in " + %XNG%
+------------------                    
+  `----
+
+
+Yep.
+
+So long,
+Lothar I. Daumenlang
+--=20
+http://yohs.qygeb.it/hft/ - Korrnews 3.01 (Fußnotenverwaltung, Boxquotes
+& Co), CopyIf 1.1 (XNews & OE-Ergänzungen) und der immer noch nicht mit
+kleineren Bugfixes versehene Hamster 1.3.22.0

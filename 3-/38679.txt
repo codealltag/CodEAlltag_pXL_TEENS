@@ -1,0 +1,10 @@
+"Haben Sie dieses Posting nun *wirklich* gelesen? (J/N)"
+"Haben Sie den Inhalt dieses Postings für wertvoll erachtet? (J/N)"
+
+John,
+so, z.B..
+
+-- 
+Internet Mail:
+"Die markierten Nachrichten konnten nicht gelöscht werden.
+ Nicht genügend Speicherplatz."

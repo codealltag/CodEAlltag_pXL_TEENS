@@ -1,0 +1,9 @@
+Schade, mein XP 2000+ mit 512 MB DDR schafft das ganz gut, und meine Radeon
+8500 ist mit 1024x768 32 Bit maximale Details auch nicht überlastet (wobei
+das bei der Vollversion evtl. ein wenig anders aussehen dürfte, die
+hochdetaillierten Texturen sind bei der Demo ja nicht dabei, sonst wäre der
+Download auch ein _bischen_ zu gross.
+
+tschau, Benjamin
+-- 
+np: Alien Ant Farm - Smooth Criminal

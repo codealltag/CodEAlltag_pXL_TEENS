@@ -1,0 +1,29 @@
+Am 08. 07. 21 19:29:35 GMT sendete Henry Mönninghoff
+folgende Botschaft:
+
+
+Trotzdem sollte dann niemand mal ausversehen übers kabel stolpern ;)
+
+
+Wie knapp ist der platz den? Meiner erfahrung nach (bei mir von RH4.2 ->
+5.2, und bei meinem Vater gerade von Duta 5.2(?) -> 6.1) brauchen die
+Distris mit jedem update mehr HD space. zumal bei Duta 6.1 kernel 2.2.5
+bei der ja dann auch erstmel kompiliert werden will.
+
+
+Wenn das dein Hauptrechner wäre, an dem du täglich newsliest, wäre das
+sicherlich einfacher a du halt einiges nebenbei machen kannst.
+
+
+Wer benutzt die Installation denn noch und für was? wen ein update nicht
+umbedingt nötig ist würd ich damit warten (eventuell ein paar kleinere
+dinge (kernel 2.0.36 etc) updaten aber sonst laufen lassen).
+
+
+Es gab ein Problemchen aber das ging mir auf den keks. Wenn ich bei
+einem neuem ./configure aufgerufen habe hat das immer genau die flachsen
+(die alten) slrn-libs gefunden. Und da ich vor ein paar wochen slrn
+des�ftern dadurch gejagt habe ...
+
+Tschüs
+  Oliver

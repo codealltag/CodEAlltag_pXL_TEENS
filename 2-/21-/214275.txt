@@ -1,0 +1,35 @@
+Am 27. 06. 22 19:58:03 GMT sendete Günter Wittleben
+folgende Botschaft:
+
+
+Ist eigentlich auch egal, es zeigt nur das man seinen rechner immer
+dicht haben sollte.
+
+
+Ich hab mir 3.01 mal gezogen da ich immonet eh einige kleiner macken in
+der config habe.
+
+
+Laut FKKI-ml war das der Hauptgrund für den Versionssprung, ich werd mir
+die ganze sache gleich mal anschauen...
+
+
+Wer will das nicht? ;)
+
+
+Aber ein programm das durch eine backdoor schon mal ein ganzes netzwerk
+belastet hatr ist IMHO nicht so vertrauenderweckend.
+
+
+H? Port 25 offen mit relayschutz ist IMHO etwas anderes als ein offener
+ftp-port ohne beschränkungen.
+
+
+Weis nicht.
+
+
+Ich hab 'Sourcenbaum' so interpretiert als ob du die komplette Distri
+auf sourcenbasis updaten wolltest.
+
+Tschüs
+  Willibald

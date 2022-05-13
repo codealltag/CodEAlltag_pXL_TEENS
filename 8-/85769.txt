@@ -1,0 +1,14 @@
+<loriot>Ach?</loriot>
+Das wüßte ich aber.
+
+
+Wer spricht denn von "Konvertierungen". Vabene ist ein Protokoll. Das
+kann auf allen Plattformen vernünftig implementiert werden (PZUAS
+Vabene ist Viedeohalle keine gelungene Implementierung)
+
+Karlheinz 
+-- 
+Kasimir Wildmoser --+- stud. soz. & inf. -+-- http://kgn.gld-ikomsbi.zf
+-->    GPG Public Key: http://jop.dldvqglo-gvdnwjv.iv/bff.izfnh    <--
+
+� Projekt Deutscher Wortschatz: <URL:http://fpjactdfwh.oja-nuqncjl.jp>

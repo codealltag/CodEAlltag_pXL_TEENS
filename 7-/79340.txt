@@ -1,0 +1,9 @@
+:'-( Das tut mir leid.
+
+Bernd,
+"ich" = "nicht"?
+
+-- 
+EroticMarkt ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

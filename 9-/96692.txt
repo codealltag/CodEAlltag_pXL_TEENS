@@ -1,0 +1,5 @@
+Nun ja. Das wäre mir die Mühe nicht wert.
+
+
+IIRC war es NetBSD. Liegt auch nicht am OS sondern viel eher an courier-imap 
+und meinen speziellen Anforderungen bezüglich Authentifikation.

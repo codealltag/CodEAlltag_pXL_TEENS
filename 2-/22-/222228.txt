@@ -1,0 +1,23 @@
+On Wed, 15. 05. 22, Gottfried Edhofer <yhkdpn@elx.ljkdu.me> wrote:
+
+[Lösung bei Netzwerk-Party]
+
+Verständlich - Netzwerke sind schon etwas nettes. War gestern nacht
+ganz aus dem Häuschen, als das IP-Masquerading endlich lief :-)
+
+[...]
+
+Schon klar, daß der alte SB 16 in Punkto Qualität mit den modernen
+Karten nicht mithalten kann. Es ging mir aber halt darum, daß ich mir
+jetzt nicht direkt nach dem neuen PC auch gleich eine neue Soundkarte
+kaufen muß.
+
+
+Wäre natürlich noch eine Alternative zu einer x-hundert Mark-Karte.
+Und das Ding läuft problemlos, wenn ich mir einen 2.2er Kernel
+besorge?
+
+Viele Größe,
+     Helmut Dreckschmidt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

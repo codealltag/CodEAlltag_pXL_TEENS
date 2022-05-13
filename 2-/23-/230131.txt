@@ -1,0 +1,14 @@
+In <VCR.1196946hf756745394a752@irazbufdmeam.fh.us.tva>, Tom Meilhammer
+schrieb/wrote:
+
+                ^^^^
+Au ... das ist happpig.
+
+BTW, ist es normal daß die win386.swp schon nach dem Starten 15MB groß
+ist ? Ich hab 32MB RAM und es laufen Courage + NC-Scheduler.
+
+cu,
+Wilhelm
+-- 
+ICQ : 9250847 - Homepage : http://zfuv.ci/wq
+Gebildet ist wer weiss, wo er findet, was er nicht weiss.

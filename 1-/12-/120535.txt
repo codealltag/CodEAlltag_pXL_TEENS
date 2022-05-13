@@ -1,0 +1,15 @@
+Soweit ich weiss beschreibt doch der Codec die Komprimierung der
+Videodaten, oder nicht? Und es gibt Codecs die AVI als "Container"
+nutzen, und somit wird eine AVI-Datei erzeugt, wenn man den Codec
+nutzt. Das meinte ich.
+
+
+Ich kenne mich nicht genug damit aus um Unfehlbarkeit in dem bereich zu
+beanspruchen.
+
+Norbert
+-- 
+Dort, wo gar nichts wachsen sollte, und nur Stein vom Berge rollte,
+hab drei Blumen ich gepflanzt, und mit Wünschen nachts umtanzt,
+hab bei Vollmond sie gegossen, drei mal in die Luft geschossen,
+sie mit meinem Blut genährt - daß die Liebe ewig währt

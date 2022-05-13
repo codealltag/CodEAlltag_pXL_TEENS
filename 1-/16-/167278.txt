@@ -1,0 +1,11 @@
+Gerard 'sSXP' Anglsperger <mVRW@xos.waa> schrieb in im Newsbeitrag:
+34-98-48.61-66-79.wmx.5128@cwnf.by...
+
+Heutige Clients sind teilweise noch deutlich mächtiger. Siehe XNews und
+Gravity. Mittlerweile hat sogar OE brauchbare Filter (da hapert's IMHO
+primär mal an der Bedienung per Tastatur...).
+
+
+s.o. Vielleicht wird JVW sogar ein sehr brauchbarer Newsreader, V5 ist auf
+jeden Fall auf gutem Wege (HTML ist auch schon standardmässig
+ausgeschaltet).

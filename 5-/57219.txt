@@ -1,0 +1,6 @@
+Stimmt. Was mir jetzt noch fehlt ist der wegfallende Score auf die
+zweite Antwortebene, sofern keine anderen Regeln greifen.
+
+Ulf
+-- 
+Wenn DAS jeder machen würde... [Leopoldine]

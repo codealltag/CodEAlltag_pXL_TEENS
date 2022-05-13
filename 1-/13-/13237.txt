@@ -1,0 +1,16 @@
+Stark vereinfacht, sicher. Allerdings werde ich zunehmend vorsichtiger,
+was Argumentieren mit RFCs betrifft. Nach ganz strenger Textexegese wäre
+nämlich entweder ein gesetztes To, ein gesetztes Cc oder auch ein
+gesetztes oder leeres Bcc notwendig. Und weitere solche Scherze wie
+notwendige Received-Zeilen oder MIME-Verbot. Zum Glück nimmt niemand
+RFCs derartig ernst. ;-)
+
+
+Nein, das ist nur eine Idee der Hörluchs-Jünger. Andere Systeme wie
+beispielsweise Symbolics haben stets eine möglichst maximale
+Integration, im Prinzip bis hinein ins Betriebssystem, angestrebt.
+
+Benno
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

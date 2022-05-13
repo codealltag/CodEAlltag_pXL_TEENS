@@ -1,0 +1,12 @@
+Ich muss einen kaptten Zufallszahlengnerator around würken, ich muss
+ne Hardwarebastelei vorbereiten, die Übungen ansonsten auch noch
+fertig machen, und morgen der Tag ist auch komplett weg. )Ich hab
+eigentlich nichtmal die Zeit, dieses Posting zu schreiben.
+
+
+Schön. Und jetzt solltest du mal nach der Bezeichnung im Netz suchen,
+ob der Chip unterstützt wird.
+
+Georges
+-- 
+"We wouldn't call it code if it would be easy to understand"

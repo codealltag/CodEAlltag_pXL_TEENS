@@ -1,0 +1,27 @@
+Am Wed, 13. 08. 21 sendete Dieter Ingenbleck folgende Botschaft:
+
+
+#v+
+felix: ~$wc news/score/*
+     70     181    1732 news/score/base
+    118     331    3301 news/score/base.bak
+     53     107     899 news/score/dtju
+     65     313    3232 news/score/faqs
+      8      12     168 news/score/plain
+    107     211    2527 news/score/poster
+    113     220    2603 news/score/poster.bak
+     78     135    1289 news/score/subjects
+    103     210    2079 news/score/tech
+     38      66     494 news/score/test
+    753    1786   18324 total
+felix: ~$
+#v-
+
+Anscheinend.
+
+Tschüs
+  Uwe
+-- 
+Die Weisheiten des Sascha Stefan: #9
+
+Auf das Jup Hoch folgt das RL Tief.

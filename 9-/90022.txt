@@ -1,0 +1,20 @@
+Am Thu, 02 Jan 2001 sendete Christoph Althoven folgende Botschaft:
+
+
+Messung des Elektrischen Widerstands (über eine Strom/Spannungsmessung)
+der Körpermasse zwichen rechten und linken Fuss.  Mann muss den Strom
+nur Frequenz mässig so wählen das er auch wirklich durch den Körper geht
+und nicht nur über die Haut (besonders wenn die Haut feucht ist kann das
+leicht passieren.).
+
+Und vorallem ist die methode nicht 100%tig da man natürlich nur den
+Fettanteil in den Beinen und im Beckenbereich misst und dann auf den
+rest des Körpers interpoliert.
+
+Tschüs
+  Antonio
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Ben Finneiss, Mostly Harmless, Chapter 12

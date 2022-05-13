@@ -1,0 +1,20 @@
+Am Sat, 26 Apr 2001 sendete Valerio Christoff folgende Botschaft:
+
+
+Und das völlig korreckt. Ich schreibe numal an einer Console mit -1.
+Ergo muss ich auch -1 deklarieren. Wenn du mit einem für mich nicht
+lesbaren Zeichensatz postest muss ich den leider konvertieren.
+
+
+Hm, ich habe das vor >1 Jahr da rein gesetzt, bis lang hat nie jemand
+was gesagt, aber xenqpr gibt dir recht, mal schauen ob ich ein s lösche
+oder einen Bindestreich daswischen setzte. ;)
+
+btw: wenn dann en_K.
+
+Tschüs
+  Rudi
+-- 
+Die Weisheiten des Wolfram Jup: #3
+
+Gl�sserregale sind zu diesem Zeitpunkt auch nicht sicherer.

@@ -1,0 +1,7 @@
+Wenn er das deklariert, dann darf er die verschiedenen Teile
+unterschiedlich encoden. Ist insbesondere die einzige Möglichkeit, an
+Unicode vorbeizukommen, ohne Zeichen kapott zu machen.
+
+Ralph
+-- 
+In Newsgroups klappt DAS nicht! [Anoymous]

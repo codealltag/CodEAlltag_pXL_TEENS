@@ -1,0 +1,11 @@
+999 Zeichen - |References: |, also irgendwas um die 987 zeichen
+inklusive "<" und ">". Sinnvollerweise sollte man aber nicht über die
+500 Zeichen gehen, es gibt immernoch kaputte INNs da draussen, die bei
+512 Zeichen anfangen zu shreddern.
+
+Fernand
+-- 
+Blink your eyes, and the world you see next did not exist when you closed them
+Therefore the only appropriate state of mind is surprise. the only appropriate
+state of the heart is joy. The sky you see now, you have never seen before.
+The perfekt moment is now. Be glad of it       (Tim Poker, Thief of Time)

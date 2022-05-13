@@ -1,0 +1,11 @@
+* Gerd Burgardt <gohhxq@kmpips-ondlblr.gr>:
+
+
+Ich will einen Newsserver. INN unter Windows? Also bleibt nur Linux.
+
+Wie es mit der uptime ist, kann ich nicht beurteilen. Wieviel schafft
+2000 denn so?
+
+Nils
+-- 
+cross veinless

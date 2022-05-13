@@ -1,0 +1,20 @@
+Naja, zumindest bei den bekannteren Sachen kann ich mir das denken.
+
+
+Naja, versuchen tue ich's, auch wenn der Erfolg lange auf sich warten läßt 
+;-)
+
+
+Win NT läuft auch auf Alpha etc, aber trotzdem glaub ich nicht daß ich mal 
+etwas portieren müßte (zumal ich keinen Alpha habe ;-)
+Assembler benutzt man aber meistens sowieso nur wenn's nötig ist. Sich den 
+Push-Button in Assembler zu programmieren ist blödsinnig.
+
+
+Könnte auch der Untergang vom K7 sein. Der Hauptvorteil vom K6 etc war daß 
+er weitgehend mit den älteren Boards kompatibel ist. Jemand der für einen 
+K7 gleich ein neues Board braucht überlegt sich vielleicht 2 mal ob er 
+dann nicht gleich zu einem Celeron o.�. greift.
+
+-- 
+Die Mutter aller Sigs

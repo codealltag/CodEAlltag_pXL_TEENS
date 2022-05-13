@@ -1,0 +1,14 @@
+Nick Sutterluti schrieb am 29. Dezember 2000 um 23:47 Uhr folgendes:
+[...]
+
+Ja, bitte. Ich bastele gerade an einer UTF-8-Unterstützung für den
+slrn und ein paar mehr Postings, an denen ich das testen kann, sind
+sicher nicht schlecht. <eg>
+
+Viele Größe,
+     Nick Jaenicke
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

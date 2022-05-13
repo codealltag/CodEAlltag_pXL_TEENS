@@ -1,0 +1,15 @@
+Am Mon, 9 Jul 2001 sendete Udo Miedanner folgende Botschaft:
+
+
+Macht dann ca. 300 MB Newsspool aus, das sind bei mir (234 MB cnfs) 83d.
+(ok dtju hat einen eigene zusätzlichen spool das sollte aber auch nicht
+viel ausmachen.)
+
+
+Ok dann weniger ;)
+
+
+Das braucht ja alles keinen besonderen Plattenplatz
+
+Tschüs
+  Nico

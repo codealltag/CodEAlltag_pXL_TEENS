@@ -1,0 +1,7 @@
+Relativ. 3x5m, 1,80 hoch.
+
+mfg, 
+	Mathias, leseszaf
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

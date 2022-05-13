@@ -1,0 +1,33 @@
+"Noch" ist gut -- zunehmend.
+
+Bekanntlich lassen sich E-Mails und alle anderen Texte zum. von den
+beteiligten Postmastern lesen (auch wenn die das natürlich nicht dürfen) -
+und von jedem, der auf die beteiligten Rechner zugreifen kann. Und - mit
+etwas mehr Aufwand - von jedem Rechner, über den die Datenpakete laufen --
+und zum. das sind viele, viele, viele. Das kann man mit PGP sehr einfach
+und effektiv verhindern.
+
+Dabei muß es noch nicht mal um Geschäftsgeheimnisse und böse Absicht
+gehen. Es genügt ja, wenn man mit Freund(in) Liebesschwüre austauscht oder
+die gemeinsamen Erlebnisse der letzten Tage oder Nächte (Stichwort
+"Händchenhalten" :-) ) austauscht und durch ein temporäres Netzproblem
+oder einer Tippfehler bei der Adresse die Mail bounced. Dabei geht häufig
+eine Kopie an die Admins (Postmaster) der beteiligten Systeme (um evtl.
+Fehler zu beheben), und häufig ist da acuh der Mailbody (also der Inhalt)
+ganz oder teilweise dabei. Supersache, das. Genauso, wenn Rechner von der
+ganzen Familie oder WG benutzt werden.
+
+Außerdem wird die Signierung mit PGP zunehmend wichtig. Es gibt ja sonst
+keine Möglichkeit, nachzuweisen, daß eine bestimtme Mail tatsächlich von
+dem genannten Absender kommt. Oder ob ein Programm-Update tatsächlich vom
+Hersteller unverändert per Mail verteilt wird, oder das ein Virus ist. PGP
+ersetzt Unterschriften nicht nur, es ist auch viel sicherer.
+
+Dazu kommt, daß mittels PGP oder ähnlichen Verfahren natürlich auch
+Datenströme verschlüsselt werden können -- Online-Banking, E-Commerce, ...
+
+Verschlüsselung und Signierung wird in einer zunehmend technisierten und
+vernetzten Welt auch zunehmend wichtiger.
+
+Gruß,
+Ludwig

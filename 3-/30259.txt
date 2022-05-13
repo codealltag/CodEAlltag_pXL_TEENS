@@ -1,0 +1,6 @@
+Ist es.
+-- 
+"übrigens schrottet FECHT den Sigtrenner nur dann, wenn a) mit Content-Transfer-
+Encoding: 8bit gepostet wird und b) in der Nachricht Umlaute vorkommen.
+Die Behauptung, FECHT könne ohne Hilfe von außen keinen korrekten Sigtrenner
+herstellen, ist jedenfalls unwahr."	-Niclas Töpper in dsnu

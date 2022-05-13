@@ -1,0 +1,13 @@
+*g* Kenne ich.
+
+
+Nein, eher "Wenn der Lüfter auf 7V liefe, würde der kern immernoch
+genügend Kühlung abbkommen. Tut er aber nicht, deswegen sinds jetzt 9V
+Versorgungsspannung"
+
+Wilfried
+-- 
+Manchmal muss man, um zu siegen
+Freunde morden und verraten;
+man muss lägen und betrügen
+man muss sen böse Saaten. [SVBWAY TO SALLY, Die Schlacht]

@@ -1,0 +1,13 @@
+Solches tippte Pierre Zippolt:
+
+Das ist richtig. Und zu einem anderen Zweck als PHP.
+
+
+Mein typischer Arbeitsalltag besteht zu einem größeren teil aus dem
+extensiven Gebrauch von Kommandozeilentools, die sich gegenseitig mit 
+Datenströmen füttern. Perl ist da guter Kleber und es wäre lästig hier
+tausend kleine Skriptchen screiben zu müssen anstatt einfach perl -ne
+'irgendwas' tippen zu können. ;-)
+
+Mp,
+  Programm und Dokumentation steht in ~/.bash_history

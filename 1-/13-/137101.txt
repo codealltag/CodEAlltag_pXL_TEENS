@@ -1,0 +1,11 @@
+Kann ich nur bestaetigen. Ich hab vorher angegeben, Zivi zu machen und
+wurde als T2 eingestuft. Andere Leute bekamen T3 oder T4 und waren von
+der Statur und der Sportlichkeit weitaus besser dran als ich.
+
+
+Othmar
+-- 
+public class jcw extends Othmar implements HIKH, Student {
+  URL homepage = new URL("http://tbf.lirojaf-aakmdqg.bo/");
+  URL pubKey   = new URL("http://roh.gw-sgschemm.wu/~oll/jkgghb.opw");
+  String keyFingerprint = "TVVG K27V 8751 IZ10  S024 2L21 K7QE B953";}

@@ -1,0 +1,10 @@
+Ja.
+
+
+Auf ein Flaute folgt bekanntlich eine Flut...
+
+Enr 'damit schonmal anfangend' ico
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we 
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - LHJ, 07. 03. 23

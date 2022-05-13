@@ -1,0 +1,7 @@
+(* Heinz Fleischheuer wrote: *)
+
+
+Laut Murphys Gesetz wird die Chance, dass du beim Bügeln die Klamotten 
+versaust proportional zu ihrem Wert zunehmen.
+
+Björn

@@ -1,0 +1,19 @@
+Hallo Leopold Olbert
+
+
+Objekte fassen Methode, Eigenschaften und Variablen. Das hat bei
+kleineren Projekten eigentlich nur den Vorteil das es um einiges
+übersichtlicher ist und das man das ganze leichter erweiten kann. Z.B.
+hab ich erst eine Klasse für 4 gewinnt in Delphi entwickelt. Das ganze
+hab ich schon mal ohne OOP gemacht. Das ganze ist mit OOP viel leichter
+zu erweitern und zu ändern. Mit C und C++ kenn ich mich leider nicht so
+gut aus, aber da ist es eigentlich ähnlich. Ich würde ich einfach mal
+googlen. Da findest du sicher eine Menge.
+
+
+Allerdings darst du es nur privat nutzen...
+
+MfG Urban
+
+-- 
+No TV and no beer make Henry go crazy. [Henry Brusselaars]

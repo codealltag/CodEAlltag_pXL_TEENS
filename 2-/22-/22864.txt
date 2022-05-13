@@ -1,0 +1,10 @@
+Hmmm. Moment.
+Also, du kannst auf jeden Fall einen neuen User namens 'pcbg' anlegen,
+und dem dann von Hand UID und GID 0 geben. root ersetzen möchte ich hier
+im Livebetrieb nicht probieren.
+
+mfg, 
+	Ingmar
+-- 
+Gernoth excuse #393:
+Interferance from the Van Ecker Belt.

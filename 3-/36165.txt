@@ -1,0 +1,9 @@
+* Roberto Kleinwort <lxflrpqengoglx@esx.fpj>:
+
+
+Eine gewisse Streuung muss aber schon sein, sonst kann man die fakes zu
+leicht aussortieren.
+
+Ingolf
+-- 
+np: -

@@ -1,0 +1,8 @@
+Und "Reh" ist dir auch zu lang ?
+
+
+regards Ulfert
+
+--
+home:gover> find . -name \*.vbs -exec rm -f {} \; -print | tee /dev/null
+! Use the vi a linux powertool !

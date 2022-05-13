@@ -1,0 +1,10 @@
+Er ist wunderbar leicht zu bedienen und logisch aufgebaut. Mir fehlte
+eigentlich keine Funktion.
+Aber eine Macke hat er: Rechne damit mal 2 hoch 3. Wenn man = drückt
+kommt 8 heraus. Wunderbar. Aber wenn man dann - 8 drückt sollte
+eigentlich 0 herauskommen...
+
+CU
+Bernhard
+-- 
+Ich war Atheist, bis ich merkte daß ich Gott bin.

@@ -1,0 +1,10 @@
+(* Nick Roithmeyer wrote: *)
+
+
+Ach das will ich gar nicht mal sagen. Wenn es ein paar nette und 
+interessante Zitate sind, dann finde ich das durchaus interessant und 
+unterhaltsam. Aber wenn nur Blödsinn drinn steht (wie beispielsweise 
+irgendwelcher C-Code, der übrigens logisch auch Blödsinn war *g*) weiss 
+ich nicht, was das ganze eigentlich soll.
+
+Dominik

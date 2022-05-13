@@ -1,0 +1,7 @@
+Singleplayer geht. Multiplayer wird sehr schnell sehr zäh.
+
+Erik
+-- 
+a + b = c [Pythagoras]
+E = m*c [Einstein]
+=> E = m*(a + b)

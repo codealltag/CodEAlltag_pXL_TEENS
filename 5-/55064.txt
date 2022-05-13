@@ -1,0 +1,11 @@
+Sorry Claudio, ich habe beim x-post Mist gemacht, ist jetzt ein eigener 
+Thread hier :o)
+Aber mein Server schickt mir zumindest die References...
+
+Die Diskussion hat schon recht lebhafte Züge angenommen und findet in 
+schule.internet.technik statt!
+
+Ludger
+
+-- 
+initscr(); - Segmentation Fault

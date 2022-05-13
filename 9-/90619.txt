@@ -1,0 +1,7 @@
+Wenn du die Verknüpfung von zwei Regexps zu einen neuen zulässt, dann
+sollte das auf den ersten Blick zutreffen.
+
+Friedhelm
+-- 
+Erstes Postulat des Iso-Murphysmus:
+Dinge,die nichts anderem gleichen, sind einander gleich.

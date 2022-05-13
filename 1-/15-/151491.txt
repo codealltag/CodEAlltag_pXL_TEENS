@@ -1,0 +1,11 @@
+Remmer Brunthaler <fdlmxr@zsegpyaotn.by> kuendete:
+
+
+rm -r ist auch nicht ungefaehrlicher. Und unmount gibt's auch nicht.
+
+Gruss,
+Urs.
+-- 
+     Ulfert C. Tuschl + Rhigyva @ Kantonsschule
+   http://eib.naotklumh.cd/ + Obergoldbach, Switzerland
+              ICQ# 94048989 + http://ayu.nzhec.nb/

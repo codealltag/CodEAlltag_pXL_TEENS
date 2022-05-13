@@ -1,0 +1,16 @@
+Walter Tefehne schrieb am 7. März 2000 um 01:44 Uhr folgendes:
+[...]
+
+Tja, ich habe keinerlei Erfahrung mit ISDN ;-)
+
+Allerdings will ein Kumpel sein lokales Netzwerk über einen alten
+Rechner mit dem Internet verbinden und hätte gerne, dass ich ihm das
+dafür nötige System aufsetze. Bei der Gelegenheit werde ich wohl damit
+konfrontiert werden, er hat nämlich auch eine KEF-Card...
+
+Viele Größe,
+     Torsten Arnold
+-- 
+It might look like I'm doing nothing, but at the cellular level I'm
+really quite busy.
+                                           -- "Smart Comments", part 22

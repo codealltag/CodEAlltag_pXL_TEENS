@@ -1,0 +1,16 @@
+Ich habe diesbezügliche Gerüchte gehört.
+
+
+Das könnte man im Umkehrschluß folgern. (Wohlgemerkt "können", nicht  
+"müssen").
+
+
+Ich geb's ja zu, ich bin nicht das Informatikgenie, aber kann man Arrays  
+nicht auch Bezeichner geben. Ansonsten empfehle ich eine Konstante.
+
+Werner Beikert
+
+-- 
+np: Loona - Mamboleo
+
+Lyrics gefällig? http://gkf.xihrjouuixdrk.zo/rhzdtoaxkhcdy/wmzzqs

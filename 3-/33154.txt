@@ -1,0 +1,13 @@
+Also sprach Ulfert Jähnchen <rtzbm@erujh.qkdn.uv>:
+
+
+Maschinerie? Du meinst Hardware? Kein Problem, leichter als für C.
+
+Lies SICP. Die machen in Scheme einen Compiler, der Scheme in eine
+Assembler für eine Registermaschine übersetzt. Der Code wird dann auf
+einer in Scheme simulierten Registermaschine ausgeführt...
+
+Nein, so viel Zeit und Lust, das alles nachzuvollziehen, hab ich dann
+doch nicht.
+
+Enno

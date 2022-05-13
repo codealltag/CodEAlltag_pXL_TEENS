@@ -1,0 +1,8 @@
+Der Konverter muß sowieso Umbrüche machen (spätestens nach 76
+Zeichen). Dann dürfte es eigentlich keine Probleme mehr mit dem
+Newsreader geben.
+
+Viele Größe,
+     Wilhelm Langnäse
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

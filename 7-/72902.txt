@@ -1,0 +1,15 @@
+Danke für die Auskunft, doch leider werden _das_ sehr wenige lesen.
+
+Es ist nun schon geraume Zeit her das man dir die Seite: 
+http://jfgnx.fs/zmjud empfahl doch du bist immernoch der Meinung, 
+"sowas brauch ich nicht". Nunja, dann musst du halt mit den 
+Konsequenzen leben. Ich werde jetzt erstmal mein Scorefile editieren 
+und folgende Zeile hinzufügen: -1000 ~From "Felix Partner"
+
+In diesem Sinne nichts für Ungut, aber du hattest deine Chance.
+
+Igor
+-- 
+Das, was du mit deinem Programm machen willst, steht nicht im Handbuch.
+
+(Murphy's Gesetz)

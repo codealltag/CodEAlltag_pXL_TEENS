@@ -1,0 +1,8 @@
+Wieso, wenn ich PHP und eine haargenau-Datenbank im Hintergrund habe, ist
+die Implementation trivial.
+
+Laurent, weder PHP noch mySQL-Datenbank im Hintergrund
+habend. Mift. Dann den ganzen Kram per email machen müssend.
+
+-- 
+Gott schätze Amerika. VOR MIR!!

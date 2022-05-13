@@ -1,0 +1,11 @@
+* Maurice Neueder <kdowwoy049968@klptmp.qs-n.rg>:
+
+
+Wir haben mal ein Bruchrechnungsprogramm geschrieben ...
+
+
+... das genauso ablief.
+
+Salvatore
+-- 
+cross veinless

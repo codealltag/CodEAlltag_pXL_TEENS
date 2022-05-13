@@ -1,0 +1,18 @@
+Am Fri, 2 Sep 2001 sendete Francesco Langholz' folgende Botschaft:
+
+
+Huch?
+#v+
+21:29:04 ~$ls -lh /pub/incoming/lfs/suck-4.2.5.tar.gz
+-rw-r-----   1 felix    pub          163k 06. 07. 22  5  2000 /pub/incoming/lfs/suck-4.2.5.tar.gz
+21:29:06 ~$tar tzf /pub/incoming/lfs/suck-4.2.5.tar.gz | grep inn
+suck-4.2.5/sample/get.news.inn
+#v-
+
+
+tar.gz vergleich? Oder soll das nee Scherzfrage sein?
+
+Tschüs
+  Tobias
+-- 
+Notorisch Schreibfaul.

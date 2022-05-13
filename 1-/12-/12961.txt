@@ -1,0 +1,9 @@
+Soferne die Variable $anderes_weibliches_wesen nicht NULL zurückliefert.
+
+Gert Ramge,
+Array anstatt Variable wäre natürlich vorteilhafter ...
+
+-- 
+np: Erich Vennefrohne - Light my Fire
+
+Lyrics gefällig? http://yml.uwgyargukwvgq.za/kzibaaekacaeb/xwspmh

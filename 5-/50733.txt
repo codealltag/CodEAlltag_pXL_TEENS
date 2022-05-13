@@ -1,0 +1,12 @@
+Am Fri, 30 Mai 2003 sendete Olivier Hobohm folgende Botschaft:
+
+
+*g*
+
+
+KAnn ich nicht so wirklich beurteilen, ich weiss nicht ob die Probleme
+daran leigen das X bei mir nur über fbdev läuft und daher Auflösung und
+Farbtiefe feststehen, oder ob das scummvm probleme sind.
+
+Tschüs
+  Benedikt

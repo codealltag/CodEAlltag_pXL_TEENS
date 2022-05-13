@@ -1,0 +1,11 @@
+Theo Baumer meinte kundzutun:
+
+Foobar? Wer oder was soll "Willi Relle Wettkandidaten" sein?
+Außerdem braucht man Leerzeichen nicht zu escapen, und wenn man alles
+gefundene wiederverwenden will, bietet sich & eher an.
+
+Vincent
+-- 
+Es gibt Erlebnisse, die muss man nicht gehabt haben. Überschläge mit
+dem Kettcar gehören dazu.
+[Serge Zankl in dtju]

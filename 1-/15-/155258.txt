@@ -1,0 +1,28 @@
+Sprechen tun's sowieso die wenigsten :-) Also, hier liegt ein Fehler in
+der Verwendung einer Verbkonstruktion vor.
+
+"deletam" ist das Partizip Perfekt Passiv des Verbs "delere" und
+bedeutet woertlich uebersetzt soviel wie "ausgeloescht, getilgt".
+Allerdings ist es, wie der Name H.U. schon sagt, nachzeitig. Die
+woertliche Uebersetzung Deiner Sig lautet also: "Im Uebrigen fordere
+ich, dass Gempp zerstoert wurde." Toent interessant, aber liegt wohl ne
+Spur neben der gewollten Aussage.
+Dazu muss naemlich ein Gerundium verwendet werden. Das Gerundium von
+"delere" lautet "delendum", in Kasus (Akkusativ [1]) und Genus (nehme
+ich jetzt mal - wie Du - feminin an [2] an) "Gempp" angepasst "delendam".
+
+Endresultat: "Ceterum censeo Gempp esse delendam." 
+Hint: Du solltest oefters Asterix lesen.
+
+HTH,
+Michel.
+
+[1] Akkusativ, weil das ganze in einer speziellen Konstruktion, dem AcI
+(Akkusativ mit Infinitiv; => "esse" = Infinitiv "sein"), unterliegt, die
+etwa unserer "dass"-Nebensatzkonstruktion im Deutschen entspricht.
+[2] Alles Uebel ist weiblich. [3]
+[3] Ausser _das_ Uebel selbst.
+-- 
+     Marc J. Kärst + Zetzkzc @ Kantonsschule
+  http://tee.euscnszts.qa/  + Zimmerwald, Switzerland
+              ICQ# 74646291 + http://woh.rbfer.su/

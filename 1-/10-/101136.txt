@@ -1,0 +1,5 @@
+Es ging eher darum, daß höheren Ebenen alle dieselbe Farbe hatten.
+
+Hab's trotzdem mal gesetzt.
+
+Was genau macht gnus-cite-max-prefix?

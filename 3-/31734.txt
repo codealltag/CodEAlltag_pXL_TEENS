@@ -1,0 +1,24 @@
+* Onno wrote: *
+
+
+Natürlich ist es möglich in VB struktueirt zu programmieren, da sind wir 
+uns wohl alle einigen. Aber das Design der Sprache macht es einem mehr 
+als leicht und verleitet gerade dazu genau dies eben nicht zu tun. Mal 
+als Beispiel: Variant als Datentyp ist einfach nur Mist - es mag ja 
+tatsächlich irgendwo Ecken geben wo es ganz prima hineinpasst aber wenn 
+du da keine andere Lösung findest dann hast du einen Fehler im Design 
+gemacht. Unter jeder anderen Sprache müsstest du dir da das Design 
+nochmal ansehen und genau überlegen "Was habe ich jetzt hier falsch 
+gemacht?" Unter VB schnappst du dir eine dreckige Lösung, die im Moment 
+funktioniert aber alles andere als sauber, performant und übersichtlich 
+ist.
+
+Es muss nicht immer C(++) sein, aber VB im speziellen ist wirklich nur 
+für's Oberflächen klicken gut und für alles andere... nicht wirklich.
+
+
+Aber auch nur weil du eine zusätzliche Abstraktionsebene benutzen 
+kannst, nämlich gerade DirectX. Da machst du in VB praktisch nichts 
+anderes als verkapselt irgendwelche C-Routinen aufzurufen.
+
+Oliver

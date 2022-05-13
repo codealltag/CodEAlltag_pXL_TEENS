@@ -1,0 +1,14 @@
+Hehe, das tut. Danke. Aber ich hab nochmal bissel recherchiert, und nun
+die von Bernhard gepostete [1] Syntax- und Parenthighlightingeinstellung
+übernommen. 
+
+BTW, man kann ja sogar einstellen wie langer der Cursor weghüpfen
+soll. Man sagt also nicht umsonst ein Konfigmonster. ;-) 
+
+Noël
+
+Footnotes: 
+[1]  <rellxsixrv.306tjhvkch.moz@gmnlteyhqj.fpwsp.zat>
+-- 
+Mehr Zeit fürs Lesen bedeutet weniger Zeit fürs Schreiben.
+(Timo Thurmer während einer Postingflut)

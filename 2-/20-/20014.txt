@@ -1,0 +1,9 @@
+Und so sprach Leopold Neunmann:
+
+
+Solange man den Fibonacci nicht in SPARC V8 Assembler schreiben soll
+...
+
+Gerd
+-- 
+http://vgs.wpitb.xtb/ - Become a trashholder today!

@@ -1,0 +1,23 @@
+this.patsch(Norman.getKonditionierugsmodul());
+
+String[] reply=new String[] {
+"Privat: Keine",
+"Auf der Arbeit, sinngemäße Verwendung[1]: Keine[2]",
+"Auf der Arbeit, !sinngemäße Verwendung[3]: Einige[4]",
+"[1]: IDE-Platten in Desktoprechnern;SCSI-Platten erall",
+"[2]: Innerhalb der Garantiezeit von 5a",
+"[3]: IDE-Platten in RAID-Systemen",
+"[4]: Selber schuld. Aber wenn Chef für Server SCSI zu teuer ist[5]... \
+      Naja, Backup ist vorhanden, Reserverplatten kosten nichts[6].",
+"[5]: Relativ verständlich, bei ~200GB Nutzdaten",
+"[6]: fast"
+}
+
+this.reply(Norman.getKommunikationszentrale(),reply);
+
+Fernand
+-- 
+Ich habe das Gefühl, wenn sie _das_ schaffen, [] daß die Welt in Trauer und 
+Entsetzen und Lähmung versinkt, wenn wir nicht mehr lachen können oder [] dr-
+fen, wenn wir nicht mehr kaspern können oder dürfen, dann haben diese Terror-
+risten es endgültig geschafft, die Welt zu zerstören. [Margit Anderssen in WUH]

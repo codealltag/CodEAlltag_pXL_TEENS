@@ -1,0 +1,11 @@
+Der Offline-Mode existiert nur unter karte4you, und hat bei mir nicht
+einmal funktioniert. Jeweils beim Modus-Wechsel Bluesrceen.
+
+Hartwig: Unbrauchbar
+
+Carlo
+-- 
+Wie jagt man einen Elefanten - Teil 2:
+C- Programmierer bestimmen zuerst mit sizeof() die nötige Speichermenge
+für einen Elefanten, versuchen diese zu allozieren, vergessen dabei das
+Ergebnis abzuprüfen und schießen dann mit wilden Pointern auf den Elefanten.

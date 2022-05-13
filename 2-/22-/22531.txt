@@ -1,0 +1,7 @@
+Wie?
+
+mfg, 
+	Florian
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old compuStore cpu - insufficient processing power

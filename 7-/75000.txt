@@ -1,0 +1,21 @@
+^^^^^^^
+Baeh!
+
+[...]
+
+
+... also ich versteh das nicht, dass man Platten fuer mp3 braucht...
+
+h210 ralf tmp > df -h
+Filesystem            Size  Used Avail Use% Mounted on
+....
+nce10:/home/ftp/pub/linux/debian
+                      8.4G  7.8G  267M  97% /debian
+bla:/daten/mp3        124G   92G   32G  74% /mnt/bla
+blubb:/home/music      14G  6.2G  7.1G  47% /mnt/blubb
+
+[Namen geaendert, aber der Redaktion bekannt, oder so]
+
+Hmmm, Wohnheimnetze sind toll.
+
+Valentin

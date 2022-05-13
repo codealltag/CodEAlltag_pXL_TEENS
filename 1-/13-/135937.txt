@@ -1,0 +1,13 @@
+Am Fri, 12. 08. 22 14:56:54 +0100 schrieb Otto Ziegelmayr
+<dhxhnv@zjmgqlaqdmm.ig>: 
+
+
+zu der Frage bin ich auch schon irgendwie in meinem Gehiorn gekommen.
+Judom��ig hab eich nämlich null Ahnung
+Oskar
+
+-- 
+Da ich eine einheitliche Darstellung von Datum/Zeit bevorzuge, habe 
+ich die Voreinstellung in der zugehörigen ini-Datei geändert. 
+Und zwar auf ein grenzgeniales "dd.mm.yy hh:ss".
+Bernhard Engelschalk in H&D nach seinem Date-Header gefragt

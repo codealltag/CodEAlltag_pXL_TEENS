@@ -1,0 +1,7 @@
+Aber solche Termine kann man doch nachmittags machen.
+
+Stefan
+
+-- 
+Microsoft Entwicklungsumgebung:
+"Eine Ausnahme von Typ 'Unbekannte Ausnahme' wurde nicht behandelt."

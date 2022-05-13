@@ -1,0 +1,8 @@
+Ich dachte wir reden von Hardware-Plattformen. Also x86, MIPS, Alpha.
+
+
+So gesehen gibt es Win 3.1, Win95, Win98, Win NT 3.5, Win NT 4, Win CE... 
+alle haben ihre Eigenheiten.
+
+
+Das glaubst aber auch nur Du.

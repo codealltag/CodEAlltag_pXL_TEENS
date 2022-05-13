@@ -1,0 +1,19 @@
+Also gut...
+
+
+steht bei mir im Sigfile als eine Zeile, und da, wo ich nen
+Zeilenumbruch haben will, füge ich dann eben ein "^M" ein. Das wird
+auch korrekt ausgewertet, sonste waren das da oben keine vier Zeilen,
+sondern eine extrem lange...
+
+"^H" wird dagegen offenbat nicht ausgewertet...
+
+
+Abundzu ganz nett :-)
+
+Philipp
+-- 
+Wie jagt man einen Elefanten - Teil 2:
+C- Programmierer bestimmen zuerst mit sizeof() die nötige Speichermenge
+für einen Elefanten, versuchen diese zu allozieren, vergessen dabei das
+Ergebnis abzuprüfen und schießen dann mit wilden Pointern auf den Elefanten.

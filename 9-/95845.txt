@@ -1,0 +1,11 @@
+Keine Ahnung. Hast du vielleicht exim_install  vergessen?
+
+
+Jepp.
+
+Kasimir
+
+-- 
+Q: How does a Unix guru have sex?
+A: unzip;strip;touch;finger;mount;fsck;
+  more;yes;fsck;fsck;fsck;umount;sleep

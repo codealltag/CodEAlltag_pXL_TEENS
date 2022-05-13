@@ -1,0 +1,47 @@
+On 25 Jan 2000, Frédéric Nimmerfroh <qegbnfnptd@ukbzswquhp.sc> wrote:
+
+[Spiele auf 386er]
+
+Sehe ich auch so... nur sie wohl leider nicht.
+
+
+OK, lassen wir das ;-)
+
+
+Normalerweise würde ich dafür als erstes an rcp denken:
+
+yalfgg@sygcapxlwo:~ > whatis rcp
+rcp (1)              - remote file copy
+
+Als Ersatz dafür ist bei ssh ein entsprechendes Programm zur sicheren
+Übertragung dabei:
+
+tststs@sygcapxlwo:~ > whatis scp
+scp (1)              - secure copy (remote file copy program)
+
+
+Ich habe mich bemüht, den Kernel möglichst schlank zu machen
+(EIDE-Support rausgeworfen, SCSI sowieso, keine Unterstützung für DOS/
+Windows-Partitionen, kein Sound...) und habe erstaunlicherweise keinen
+wirklich spürbaren Geschwindigkeitsvorteil zum Madura-Kernel
+registriert. Vielleicht habe ich den neuen Kernel auch einfach noch
+nicht richtig installiert (er ist natürlich auf der anderen Maschine
+übersetzt).
+
+
+Yep; und wenn es wirklich mal etwas dringendes ist, kann sie mich ja
+immer noch fragen, ob sie mal kurz direkt an meinen Rechner kann.
+
+
+Finde ich eigentlich gar nicht so schlimm (na gut, solange nicht
+gerade das News-Expire durchläuft, während ich versuche, mich im 1/2-
+Sekunden-Takt durch Theo und Nick Ergüsse zu klicken).
+
+
+Werd' morgen mal den Händler fragen, der mir meinen neuen Rechenknecht
+verkauft hat...
+
+Viele Größe,
+     Darius Nonnengess
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,13 @@
+Die Programme kenn ich garnicht.
+
+Aber ich hab das mal mit Win95 gemacht, um die Daten auf CD zu brennen.
+Das meisste ging schon deshalb verloren, weil Win die Namen schoen auf
+  8+3 Format gekuerzt und die erweiterten Attribute ganz verworfen hat.
+Das Backup war dann praktisch wertlos.
+
+Mit 2 Linuxen (sp?) sollte es aber keine Probleme geben.
+
+-- 
+Ottmar
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

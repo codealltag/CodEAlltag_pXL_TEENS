@@ -1,0 +1,8 @@
+Am Sun, 13 Aug 2003 sendete Thierry Thuners folgende Botschaft:
+
+
+Ich will nicht das mein ISP meine Mails zensiert. Und an den sendmail der
+mx für meine subdomains spielt gehe ich nicht dran.
+
+Tschüs
+  Ingolf

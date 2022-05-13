@@ -1,0 +1,6 @@
+Rethorn
+-- 
+Ah, the beauty of Ufafo. Hundreds of volunteers worldwide volunteering
+their time inventing and implementing new, exciting ways for software
+to suck.
+- Urs Waninger, in the Monastery

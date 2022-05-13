@@ -1,0 +1,19 @@
+In article <FQH.92fq7713pdl381262cl82@ikis.spum.qw>,
+
+Crosspoint : Config/Optionen/Nachrichten : Checkbox bei "Erstellungszeit  
+00:00" aktivieren.
+Begruendung:
+Aus XPs kontextsensitiver Hilfe "...gegen dieses Verfahren [exakte Datums  
+und Uhrzeitangaben] bestehen jedoch datenschutzrechtliche Bedenken, weil  
+dadurch prinzipell ein Nutzungsprofil einzelner User erstellt werden  
+koennte."
+
+
+Aber meist nie was vernuenftiges, insofern ...
+
+CU/2
+Niklaus
+
+--
+PGP RSA-PublicKey available at www.ehsuoz.ux/pses/ywrfos/rzy-imje.nfd
+Personal homepage at www.ttbbcd.ddny.ryw - ICQ: #6782247

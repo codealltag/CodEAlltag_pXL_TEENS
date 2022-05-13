@@ -1,0 +1,17 @@
+* Andre Thorsten schrieb: *
+
+
+Schön sieht es trotzdem IMHO nicht aus, weil das Satzzeichen exakt mit 
+einem Space Abstand zum vorherigen und zum nächsten Satz steht, also 
+quasi ein Trenner zwischen zwei Sätzen, ohne zu irgendeinem wirklich 
+dazuzugehören:
+
+"Gestern war schönes Wetter ! Heute ist beschissen"
+                          ^^^^^^
+Finde ich sehr merkwürdig, diesen Übergang. Zumindest in 
+Festbreitenschrift.
+
+-- 
+:: bf ::    "Why do stars fall out of the sky - Everytime you walk by?
+            Just like me, they long to be... Close to you"
+                                     [Frieda Valeria Bündgens: Close To You]

@@ -1,0 +1,12 @@
+* "Alexandre Kossack" <lgkw@koswhjrx.gg>:
+
+
+Nein, direkt eingebacken.
+
+Aber ich habe das Problem gelöst. Man sollte ganz einfach `smbfs'
+installieren -- dann tut es auch. Und ich kann Musik übers Netzwerk
+hören. *freu*
+
+Aber die Fehlermeldung ist trotzdem irreführend.
+
+Dario

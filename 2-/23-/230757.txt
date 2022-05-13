@@ -1,0 +1,16 @@
+Für die Jumper: Die sahen nämlich so aus:
+
+:::::::::
+Die ersten vier sind für den Post (primär, sekundär, terzi, quartär)
+Die nächsten zwei sind für Master oder Slave
+Der nächste ist für Cable Select
+Und der letzte für Stand-alone oder zwei Geräte am Port
+Und das stand leider nicht auf dem Gerät, sondern nur in gebrochenem  
+Englisch auf der Anleitungs-CD.
+
+Christoph Neitzel
+
+-- 
+Mehr Sicherheit für unsere Kinder! Verbietet das Internet!
+                                              E-Mail: zodqc@h-abemov.gq
+---> Offizieller Kämpfer wider Ulf Meersmann des Ordens von dtj <---

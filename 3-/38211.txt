@@ -1,0 +1,10 @@
+Doch, natürlich.
+
+zxjz@onif:~$ dpkg -l *gnome* | grep ^ii
+ffvy@loki:~$ 
+
+-darius
+-- 
+Ich moechte schwoeren, dass Eric es im Kindergarten hatte.
+Natuerlich in der Leistungsstufe der KiTa "Ingolf Ingerl".
+- Otmar Ißleb und Kaspar Silvertandt in am.fyx.jmcdszrd.laigrtgt

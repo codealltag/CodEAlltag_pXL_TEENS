@@ -1,0 +1,8 @@
+Beim Agenten muss ich das nicht, da werden die Threads doch sofort im
+Fenster angezeigt.
+
+Paolo
+
+-- 
+Die letzten Worte des Nachtwächters:
+"Ist da jemand?"

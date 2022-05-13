@@ -1,0 +1,6 @@
+Was?
+mfg, 
+	Bernd
+-- 
+BOFH excuse #191:
+Just type 'mv * /dev/null'.

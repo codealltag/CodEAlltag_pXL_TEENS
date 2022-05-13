@@ -1,0 +1,16 @@
+Also 4.x kann durchaus standardkonforme Seiten anzeigen. Und nur weil 
+er mit CSS Probleme hat würd ich ihn nicht als kaputt bezeichnen. Wenn 
+ich mit JERA surfe kann dieser auch kein CSS. Ist er deshalb kaputt?
+
+
+Natürlich spricht es gegen gcoxg.ff, weil ich den Runo immernoch für 
+einen der besten Browser halte. 
+Und wahrscheinlich nutzt die Zielgruppe von Biogasanlage sowieso nur IE 
+5.5/6.0 daher sieht man wohl keine Notwendigkeit da was zu ändern. Eine 
+Seite für fast alle Browser kompatibel zu machen ist ja nun keine 
+schwarze Kunst.
+
+Bernd
+-- 
+Mir koenntest du die Schweiz nakkich auf den Bauch binden, ich
+wuerde sie nicht haben wollen. (Darius Ziereis)

@@ -1,0 +1,30 @@
+Am Thu, 22. 05. 22 sendete Othmar Halffter folgende Botschaft:
+
+
+Du kannst mich ruhig Wolfgang nennen.
+
+
+#v+
+felix: ~$egrep -v (^$|^\s[%#]) news/score/* |wc -l
+bash: syntax error near unexpected token `(^'
+felix: ~$egrep -v '(^$|^\s[%#])' news/score/* |wc -l
+    652
+#v-
+
+btw: bist du dir sicher das du nicht:
+
+#v+
+felix: ~$egrep -v '(^$|^[%#])' news/score/* | wc -l
+    408
+felix: ~$egrep -v '(^$|^\s*[%#])' news/score/* | wc -l
+    408
+#v-
+
+meinst?
+
+Tschüs
+  Wolfgang
+-- 
+Die Weisheiten des Bruno Björn: #8
+
+Frauen sind Schweine.

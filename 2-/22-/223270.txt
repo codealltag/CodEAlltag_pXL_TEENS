@@ -1,0 +1,3 @@
+Hilfreich wäre vielleicht die ShellAPI Unit in die uses Zeile aufzunehmen 
+;-)
+Hab ich vergessen zu erwähnen.

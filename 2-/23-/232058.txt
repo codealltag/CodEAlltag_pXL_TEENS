@@ -1,0 +1,8 @@
+Es schrieb fzqwmpu # nkl.td folgendes:
+
+
+Ist er ja auch (mit 132MB/s). Aber der Cache ist mit den 132MB/s immerhin  
+~10x so schnell wie eine Platte.
+-- 
+
+Ciao, Nico

@@ -1,0 +1,13 @@
+Und so sprach Detlef Eberlein:
+
+
+*fortrenn* :)
+
+
+Hm, OK. *notier* Man muss ja auch die Contra-Punkte sammeln. ;)
+
+Sandro
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.f

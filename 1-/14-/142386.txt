@@ -1,0 +1,16 @@
+Am Tue, 22. 01. 22 sendete Niko Zeewuster folgende Botschaft:
+
+
+H?
+
+#v+
+Loop:
+GOTO Loop
+#v-
+
+Geht das.
+
+Tschüs
+  Roman
+-- 
+Ich hasse Hormone

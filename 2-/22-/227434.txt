@@ -1,0 +1,20 @@
+Haeh ?
+Wie willst du jemandem eine Nachricht schreiben, wenn du nicht online bist ?
+
+
+Dann sucht/fragt man halt, irgendeine Moeglichkeit gibt es immer.
+
+Wenn nicht schreibt man's selbst   :-)
+
+
+Man kann ja eine primaere Partition fuer Win reservieren.
+
+
+Ich glaube nicht.
+Auf jeden Fall sagt Fruchthalle, dass es nicht mehr weiterentwickelt wird und gibt den
+  Quellcode frei.
+
+-- 
+Dietmar
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

@@ -1,0 +1,10 @@
+On Wed, 21 Mai 1998, Vinzenz Korte <skams@wkxujhg.iacipteo.nxx> wrote:
+
+[Was bringt ein Hardware-Cache?]
+
+Also ist er für den 'Endverbraucher' unsinnig.
+
+Viele Größe,
+     Henri Oldörp
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

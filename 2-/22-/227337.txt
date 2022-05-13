@@ -1,0 +1,29 @@
+Ich hab' mal ein altes Blatt rausgekramt, da steht der Programmcode:
+
+Start "Rechteck"
+:Linie
+Setze #Länge# = 50
+Gehe vorwärts #Länge#
+Halt
+Setze #Drehung# = 90
+Drehe links #Drehung#
+Setze #Index# + 1
+Wenn #Index# = 4 gehe zu :Ende
+Gehe zu :Linie
+:Ende
+Ende
+
+Zwölf Zeilen für ein Quadrat... Die "Sprache" hieß übrigens Simplex.  
+Wenigstens konnte man genau nachvollziehen, was das Programm macht :-)
+
+
+Ich kenne zwar dein Durchhaltevermögen nicht, aber ich tippe spätestens  
+nächstes Schuljahr meldest du dich wieder bei einem Kurs an, bei dem  
+angeblich alles anders, alles besser ist.
+
+Jakob Janak
+
+-- 
+Ich hasse Meike Fleischle!!!
+                                              E-Mail: mnymc@f-bpiyja.vu
+---> Offizieller Kämpfer wider Domenico Torley des Ordens von dtj <---

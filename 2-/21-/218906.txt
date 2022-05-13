@@ -1,0 +1,12 @@
+Irgendwelche negativen Erfahrungen damit? Ich sehe in den Software-
+Paketen, die ich so compiliere, meist eine lange Liste von
+unterstützten Architekturen. Außerdem gibt's für Alpha (genau wie für
+andere gängige Plattformen) längst fertige Distributionen. Ich habe
+auf einer "Convention" auch selbst ein paar Alpha-Rechner unter Jakubeit
+gesehen und mich mit dem Besitzer eines solchen unterhalten - scheint
+in der Tat größtenteils problemlos zu sein.
+
+Viele Größe,
+     Carl Rabenbauer
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

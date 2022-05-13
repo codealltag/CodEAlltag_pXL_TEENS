@@ -1,0 +1,12 @@
+Meinst du nicht, dass waere ein bisschen ineffizient, wenn alle paar
+  Tage jemand den Filter anpassen muesste ?
+  Mit einem Killfile erzielt man die gleiche Wirkung.
+
+
+Ich kann mir nicht vorstellen, dass sich der Aufwand wegen einer
+  einzelnen Person lohnen wuerde.
+
+-- 
+Björn
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

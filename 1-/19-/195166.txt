@@ -1,0 +1,14 @@
+Beat Steinhaus schrieb am 2. Mai 2000 um 11:31 Uhr folgendes:
+
+[Schwiegermutter?]
+
+Trotzdem... irgendwie hatte ich Dich im Hinterkopf noch mehr mit ONS
+als mit LAG in Verbindung gebracht ;-)
+
+Viele Größe,
+     Stephan Holsteiner
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

@@ -1,0 +1,5 @@
+Hm. *grübel* Könnte stromfresserische RTC sein, Bausteine für WOL/WOM...
+Fe ler im BIOS, der ständig Strom drauf verschwendet die CPU-Temperaur
+zu messen... Wr erstmal alles was mir einfellt.
+
+François

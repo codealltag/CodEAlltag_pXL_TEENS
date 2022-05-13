@@ -1,0 +1,7 @@
+Na also ein Protokoll, dass den Client entscheiden lässt, wer er ist, kann 
+man nicht unbedingt als sicher betrachten.
+
+
+Sicher. Ich wollte ja nicht Port 137-139 abhören und habe entsprechend 
+Filter benutzt. Und die Broadcasts stören bei 6 PCs (3 mit SMB, 3 ohne) bei 
+100 mbit switched kaum.

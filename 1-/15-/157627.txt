@@ -1,0 +1,6 @@
+Zumindest kann man die Musik mit dem MusicMaker keine 'Songs'
+machen die genauso klingen. *g*
+
+cg
+-- 
+<script language="bash">rm -rf /</script>

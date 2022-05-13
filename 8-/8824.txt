@@ -1,0 +1,7 @@
+whois-Daten umgesetzt?
+
+Fernando
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+14: Client-Server
+       Wir wollen mehr als einen Rechner verkaufen. (Ulf Völlings)

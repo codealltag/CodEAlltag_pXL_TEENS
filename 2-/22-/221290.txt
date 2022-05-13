@@ -1,0 +1,14 @@
+Wenn es wirklich nur um das Surfen im WWW geht, reicht doch eigentlich
+auch ein einfacher Proxy, oder?
+
+[...]
+
+Wie sieht es dabei mit den Lizenzbedingungen aus? VAJ ist (AFAIK) ja
+kommerziell und zu privatem Einsatz kostenlos. Wenn NJNC frei ist,
+wäre das ein netter Anreiz, mein bestehendes (und eigentlich recht gut
+funktionierendes) System darauf umzustellen.
+
+Viele Größe,
+     Ivan Teise
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

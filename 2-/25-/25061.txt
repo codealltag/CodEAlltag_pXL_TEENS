@@ -1,0 +1,8 @@
+Du bist nicht weiblich. Schlechte Karten. ^^
+
+-towo
+-- 
+ No  Points     Name                                                   Hp [max]
+  1    4688080  JaninaFriedhelm-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

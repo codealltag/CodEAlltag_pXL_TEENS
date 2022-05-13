@@ -1,0 +1,10 @@
+Was kommt morgen?
+
+
+Tue ich das? Hm.
+
+Nikolaus
+
+-- 
+MAH:
+  "Unbekannter Fehler '-128' bei '57'."

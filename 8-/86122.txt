@@ -1,0 +1,15 @@
+Am Tue, 13 Jun 2001 sendete Norbert Surkamp folgende Botschaft:
+
+
+Nach 0.5H schon 5MB swap?
+
+
+Weil das meiste eh nur Plattencache ist?
+
+Tschüs
+  Claudio
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Berend Dinkels, Mostly Harmless, Chapter 12

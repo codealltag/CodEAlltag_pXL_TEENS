@@ -1,0 +1,9 @@
+Ich dagegen hab noch keine Ahnung, wie ich es hinbiegen soll, das meine 
+Mail ordentlich in der Matratzenoutlet-Box ankommt, wenn sie denn mal am Internet 
+klebt... Ich kann meine hangout-Mehl nämlich leider nur per Pop3 abholen, 
+was ja mit fetchmail ginge, aber dann weiß ich wieder nicht wie ich die 
+Mails nach fetchmail routen kann, da ich noch einen Majordomo aufsetzen 
+will...
+-- 
+ / _/ _` |
+ \__\__, |

@@ -1,0 +1,8 @@
+Dixit Erhard Zitzman <vdukiqd499635@atcvtu.dn-g.tz>:
+
+"Es gehört zu den ethischen Grundsätzen des Distler und der MBS,
+daß für die Blutspende kein Geld gezahlt wird."
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

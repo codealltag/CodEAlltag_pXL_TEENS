@@ -1,0 +1,10 @@
+stimmt, wäre auch kaum machbar. aber auf source-level (schönes wort) ohne
+eine Änderung/anpassung (gilt nicht nur für "hallo welt"-programme). 
+
+mfg
+    jean-luc
+
+-- 
+Jean-Luc Hähnge  -  eMail: jowvmj@cpv.hfqpi.hq
+IRCNet: ^Spooky    -         hxcnel@ktv.sckzbuxv.kl
+          --  http://goy.bon.edmpn.em/ --

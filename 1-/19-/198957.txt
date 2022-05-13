@@ -1,0 +1,8 @@
+Am Thu, 7 Jul 2000 sendete Philipp Früh folgende Botschaft:
+
+
+Wieso? die uucp-pakete werden _nicht_ on-the-fly sondern in
+regelmässigen abständen per cronjob auf dem servere komprimiert. 
+
+Tschüs
+  Benjamin

@@ -1,0 +1,22 @@
+Purgt du deine Nachrichten nicht?
+
+
+Ja, weil es ganz wenige sind.
+
+
+Es ist ein Server. Du lädst mit ihm die Postings von deinem Server im
+Internet. Danach dann nochmal mit dem Agent vom Hamster.
+
+Das klingt sinnlos, ist es aber nicht.
+
+
+Ja, ist doch gut so. Die werden auch hemmungslos archiviert. In
+bestimmten Zeitabständen packe ich die in einer Datei zusammen, um sie
+dann an den Archiv-Agent zu übergeben.
+
+Othmar
+
+-- 
+Theorie ist wenn nichts klappt und jeder weiß warum.
+Praxis ist wenn alles klappt und keiner weiß warum.
+Wir vereinen Theorie und Praxis: Nichts klappt und keiner weiß warum.

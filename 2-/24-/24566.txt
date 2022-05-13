@@ -1,0 +1,9 @@
+random hört auf, Daten zu schaufeln, wenn er merkt, das der Entropiepool
+dem Ende zu geht (Die Zufallszahlen fangen dann an zu tröpfeln). urandom
+hört nicht auf, und wird, wenn der Pool leer ist vorhersagbar.
+
+mfg, 
+	Ivan
+-- 
+BOFH excuse #340:
+Well fix that in the next (upgrade, update, patch release, service pack).

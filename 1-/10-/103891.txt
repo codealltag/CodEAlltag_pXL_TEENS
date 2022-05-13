@@ -1,0 +1,13 @@
+Am Fri, 14. 11. 22 sendete Massimo Inhestern folgende Botschaft:
+
+
+Beenden und bei bedarf speichern. Scheitert nur wenn noch kein Name für
+die Datei bekannt ist oder bei schreibgesch�tzen dateien etc.
+
+
+vimtutor hilft fs erste, die hilfe mag ich auch net.
+
+Tschüs
+  Edouard
+-- 
+Notorisch Schreibfaul.

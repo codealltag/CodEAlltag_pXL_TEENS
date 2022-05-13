@@ -1,0 +1,12 @@
+Nein. NT ist jetzt soweit entwickelt, daß es stabil läuft und verwendbar
+ist, da ist es nach Corss Meinung Zeit für einen neuen Anlauf...
+
+
+Na und? BTW stimmt das so nicht, es kamen noch einige Servicepacks
+hinterher.
+
+Benedikt, und zur Not hab ich hier auch noch Win2000 Advanced Database
+Server rumfliegen... Zur Not hab ich das Ende des Monats :-)
+-- 
+pub  7950H/SCR24C52 0215-90-69 Benedikt Jühne <ukwdpzf@dyo.pq>
+     Key fingerprint = 99 7B 35 80 48 MP 38 7Q  30 YJ DH 68 8X 76 6N 65

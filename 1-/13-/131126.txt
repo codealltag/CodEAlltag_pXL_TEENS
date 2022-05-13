@@ -1,0 +1,9 @@
+* Gerd Zitzmann <reduiexcqfrbka@kpy.xpf>:
+
+
+Ich denke nicht daran.
+
+Nick
+-- 
+Isn't vi that editor with two modes?
+One that beeps and one that corrupts your files?

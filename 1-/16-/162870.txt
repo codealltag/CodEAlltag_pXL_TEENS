@@ -1,0 +1,17 @@
+Alwin Kumbrink schrieb am 3. April 2000 um 11:23 Uhr folgendes:
+[...]
+
+XML bedeutet *Extensible* Markup Language -- ein wesentlicher
+Unterschied. Es handelt sich dabei eben /nicht/ einfach um eine
+erweiterte HTML, sondern um eine Auszeichnungssprache, die mittels
+eigener DTDs beliebig erweiterbar ist und an eigene Bedürfnisse
+angepasst werden kann. Dadurch eignet sie sich nicht nur zum
+Webdesign, sondern ebenso für Datenspeicherung und -austausch. Viele
+Amed-Programme (das bekannteste ist wohl der Excel-Clone gnumeric)
+nutzen dies bereits und ich gehe davon aus, dass XML zu einem
+bedeutenden Standard wird.
+
+Viele Größe,
+     Ingo Kapfelsperger
+-- 
+All true wisdom is found in signature files.

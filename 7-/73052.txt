@@ -1,0 +1,9 @@
+Trotzdem vermute ich immer noch, dass Papa Ivan den eingerichtet
+hat. Hamster, sowie AD-Account.
+
+Patrice
+
+-- 
+MUIJ ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

@@ -1,0 +1,11 @@
+Und so sprach Hartmut Clases:
+
+
+Die, die Dir schon die ganze Zeit unauffaellig folgen.
+
+Gruss,
+Sandro, vorsicht ein dreikoepfiger Affe.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.f

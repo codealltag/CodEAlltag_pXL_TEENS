@@ -1,0 +1,22 @@
+Nein, wirklich nicht. Als logisch denkender Mensch sollte man
+erwarten, daß der Computer aufgrund dieses Befehls ein nettes Päckchen
+benutzt und damit die aktuelle Ausgabe der "Times" verschickt.
+
+
+Zeig mir einen Händler, der noch Win95 verkauft.
+
+
+Ich sage Setup explizit per Kommandozeilenparamter, daß sein Kram nach
+D: soll und es hängt sich nach ein paar Sekunden auf, weil auf C:
+nicht mehr genug Platz ist. *Das* finde ich unlogisch.
+
+
+Dafür werde ich nicht auch noch Geld ausgeben.
+
+
+q.e.d. :-)
+
+Viele Größe,
+     Vincenzo Waeger
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

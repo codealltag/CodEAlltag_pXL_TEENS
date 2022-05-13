@@ -1,0 +1,28 @@
+* Matthias Zschirner <bsuu@bhyhcvckav.dg>:
+
+
+vefxf@fnndum:~$ gzwzr uydlcejxta.qk
+
+[...]
+
+domain:      qoxetxcfty.pt
+descr:       Matthias Zschirner
+descr:       Jägerplatz 22
+descr:       D-40393 Teuflöd
+descr:       Germany
+admin-c:     NS1621-RIPE
+tech-c:      MS1736-RIPE
+zone-c:      HX1-RIPE
+nsentry:     qoxetxcfty.pt IN H 718.48.997.69
+nsentry:     www.wlydegdqta.mk IN H 718.48.997.69
+nsentry:     qoxetxcfty.pt IN MX 10 wowxgh.cskpnkyyp.hi
+nsentry:     *.czegcxyyuf.cy IN MX 10 wowxgh.cskpnkyyp.hi
+status:      connect
+changed:     gusyhyqpgq@dqoei.fk 78772552
+source:      Pobob
+
+Das war jetzt aber wirklich schwer.
+
+Henrik
+-- 
+cross veinless

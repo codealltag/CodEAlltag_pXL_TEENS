@@ -1,0 +1,39 @@
+Und so sprach Tino Nahrgang:
+
+
+Hmja, schon uebler. Trotzdem: Wenn Du's nicht hinkriegst, lern einfach
+den PROLOG-Kram, da gibt's auch eine Aufgabe zu, die ich dann
+weggelassen habe.
+
+
+Hm. Ich "konnte" damals Charly und Mammenga.
+
+
+Hm, die Mathe-/Physikstudis, die ich kenne, haben immer ueber C(++)
+abgejammert. :) - Ich find Oberon eigentlich nicht schlecht, fuer
+didaktische Zwecke wenigstens. Klar will niemand damit produktive
+Systeme bauen (von ein paar Freaks mal abgesehen), aber ich fand's
+eigentlich - nach einer Angewoehnungsphase - recht angenehm.
+
+Sprachen lernen kannst Du auch noch spaeter - bei mir sind seit
+Oktober C (Sysprog), Java (Vernetzte Systeme) und ML (Info 3)
+dazugekommen. Naja, und SPARC V8 Assembler. :)
+
+
+Das seh ich nun definitiv nicht so. Ich wuerde es auch machen, wenn
+ich nacher Zuckerbaecker Dr. Clausjürgens waere; schliesslich interessieren
+mich einige Dinge schon vertieft. Nur beginnt das halt wirklich
+fruehestens im 3. Semester; Sysprog und VS sind echt interessant.
+
+
+Viel mehr erwartet man von Info 1 wohl auch nicht, soll ja
+Einfuehrungscharakter haben.
+
+
+Als Vorwarnung: Indizes gibt's auch jede Menge. :)
+
+Gruss,
+Benno.
+-- 
+Dies ist ein Posting aus Freilandhaltung und wurde nicht zu
+ueberhasteter Verbreitung genoetigt.

@@ -1,0 +1,20 @@
+Rainer Iblacker hat geschrieben getan getutet:
+
+
+Leuthe, was hast du noch mal gesagt?
+
+
+..
+
+-towo
+
+P.S.:
+apt-get install banner
+/usr/games/banner PATSCH
+
+Ursprung gefunden! :)
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Niko 'ulf' Pauss in lj.tpv.bmowzzrw.tjlvaxqe

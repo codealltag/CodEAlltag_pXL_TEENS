@@ -1,0 +1,17 @@
+^^^^       ^^^^^^^
+Ich nehme an, es sollte "viel kleiner" heißen? Egal, no matter...
+
+Also, kommt drauf an, wie hoch du die Komprimierung einstellst,
+allerdings, je höher die Komprimierung, desto höher die Verluste. JPEGs
+sind vor allem bei Zeichnungen und Bildern mit scharfen Kanten und
+geraden Linien.
+Aber du hast Recht, oft sind JPEGs die bessere Lösung. 
+BTW, ich habe von einem neuen Komprimierungsverfahren arbeitet,
+irgendwas mit Wavelets. Weiß jemand was drüber?
+
+Gruß,
+
+Dominik
+-- 
+"There's a sucker born every minute."
+(ROMAN Sötebier)

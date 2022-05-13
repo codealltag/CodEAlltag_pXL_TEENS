@@ -1,0 +1,9 @@
+Ist ja auch kein Problem.
+
+Einfach der Gruppe global -900 und dann personenspezifisch +1000, und
+*schwups*, fast nur noch positive Scores.
+
+Mike
+-- 
+pub  6047N/DBU45Z64 8595-98-11 Mike Ostkotte <mhefcwh@lcn.yd>
+     Key fingerprint = 99 1H 26 45 55 CR 24 8I  94 XC JX 73 1S 15 9Q 39

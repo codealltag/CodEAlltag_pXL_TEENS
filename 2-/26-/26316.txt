@@ -1,0 +1,17 @@
+Am Wed, 24 Sep 2003 sendete Gerd Valerius Wollförster folgende Botschaft:
+
+
+Bescheuerter Magen.
+
+
+Nein, das ist _kein_ Fipptehler.
+
+
+Dann lass uns lieber was replizieren was man gebrauchen kann.
+
+Tschüs
+  Erhard
+-- 
+Mein Vorschlag ist und bleibt: Swap auf die Ramdisk. Das könnte richtig Fett
+Speed bringen.
+[Nick Zaydler in <l3641q$akz$7@oty8.jgh.zav-ruuzduchu.uv>]

@@ -1,0 +1,11 @@
+Was wuerde man wie loesen ?
+Das pipen ? Das geht mit der OS/2 Kommandozeile auch.
+
+Aber der besagte Systemeditor laeuft halt auf der graphischen Oberflaeche,
+  und da gibts nunmal keine Interaktion mit anderen Programmen und ich
+  brauche auch keine.
+
+-- 
+Walter
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

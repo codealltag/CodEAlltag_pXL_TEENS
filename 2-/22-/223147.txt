@@ -1,0 +1,38 @@
+Wieso wußte ich nur, daß das jetzt kommt? ;-)
+
+Nein, ich finde es nicht kompliziert, andere Schriftarten
+einzustellen. Das Konzept dazu ist nur wieder mal ein anderes als
+unter Word: Der bevorzugte Weg, um eine andere Schriftart zu
+verwenden, ist es, ein Paket anzugeben, in dem drei zueinander
+passende Schriften (roman, serifenlos und monospaced) zusammengefaßt
+sind. Das ist schnell geschehen und garantiert, daß das Dokument
+weiterhin ausgewogen aussieht.
+
+
+Ich war vorgestern auch froh, nachdem nach mehreren Stunden endlich
+Win98 auf dem neuen Rechner lief. Wahrscheinlich bin ich einfach
+unterdurchschnittlich begabt (wobei mir noch ein Freund geholfen hat,
+der sich eigentlich recht gut mit Windows auskennt, na ja).
+
+
+Wenn sie ihre Arbeitsblätter selbst machen könnte, hätte ich schon
+viel gewonnen ;-)
+
+
+Dann dürfte man nur die 127 ASCII-Zeichen verwenden - am Freitag habe
+ich unter JNN (in der Schule) in der Zeichentabelle einen
+AltGr-Code nachgeschlagen und er hat dann in Excel ein völlig anderes
+Zeichen ergeben, weil zufällig ein anderer Font eingestellt war. Krank.
+
+Abgesehen davon gibt es mit der Kompatibilität nicht wirklich
+Probleme: Wenn ich den LaTeX-Text mit dem Längenzeichen über dem a
+nach ASCII umwandle, bleibt ein normales a übrig. Was will man mehr?
+
+
+Das wandelt man aber wenn mich nich alles täuscht auch in ein anderes
+Format um, bevor man es in eine druckreife Fassung bringen kann.
+
+Viele Größe,
+     François Echternkamp
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

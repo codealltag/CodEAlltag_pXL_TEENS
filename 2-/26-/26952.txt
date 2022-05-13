@@ -1,0 +1,11 @@
+Christofs 'Clemens' Valke meinte kundzutun:
+
+
+Hm. Frag mal bei $REPLACEMENTHARDWARE.VENDOR nach, ob seine $BOX RFC3514
+unterstützt.
+
+Dietmar
+-- 
+Gregor findet meine Signtur doof, deswegen hat er mich beim
+FMLB verpetzt, und der hat jetzt meine .signature zensiert,
+dieser .-%$�$%CARRIER LOST

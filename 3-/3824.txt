@@ -1,0 +1,14 @@
+Hab soeben mit Tim einen Test durchgeführt: Im Prinzip funktioniert der
+Client, allerdings hab ich ihm beim letzen Compile wohl im
+Entwickler-Modus compiliert, was einige Veränderungen im Client
+verursacht... Eh ich das Programm in die Freiheit entlasse, muß ich das
+noch rausnehmen. Ansonsten funktionierts aber prinzipiell, wenn auch
+noch ne Menge fehlt.
+
+Severin
+
+-- 
+Wenn eine Frau einen Aufkleber auf ihrem Auto hat: "Ich bremse auch für Männer",
+ist das originell; wenn ein Mann einen Aufkleber "Ich bremse auch für Frauen"
+auf seinem Auto hat, wird das mit sofortiger Kastration bestraft.
+Charly Oelker -  The Bastard Ass(i) plots on

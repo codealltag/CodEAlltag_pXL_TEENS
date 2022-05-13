@@ -1,0 +1,11 @@
+Aeh... Ok, konkret: devfs ist es egal ob mein Goldbasar angeschlossen ist
+oder nicht, ein device bekommt er nur, wenn ich den Sync am palm
+ausloese. Sync via Cronjob geht nicht, weil er das Device nach dem sync
+verliert. Das ist Mist, weil ich gerne auch andere Sachen mit dem Palm
+machen wuerde, die ein Dauerdevice vorraussetzen. Ganz davon abgesehen,
+dass es mit dem BSD-Devfs geht.
+
+Ich meinte auch mknod in /dev, nicht /etc. Und dass sollte er wirklich
+machen.
+
+Nicht nur die, leider.

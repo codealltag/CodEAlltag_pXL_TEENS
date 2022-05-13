@@ -1,0 +1,20 @@
+Ingolf Katzwedel schrieb am 29 Dez 1999 in zg.qvym.triism:
+
+
+Ja, sicher. Das habe ich doch schon längst gemacht. Ich suche nur 
+noch nach einer Möglichkeit die Rechte einzelner User 
+einzuschränken, z.B. User A darf nicht in der Systemsteuerung 
+herumspielen, User B ist sogar auf die Programme x und y beschränkt. 
+Das geht mit poledit, wenn es denn die Profile beim Start laden 
+würde.
+
+Die Default-Einstellungen (wenn man sich unter einem neuen Namen 
+anmeldet) sollten dann natürlich gerade noch das Recht beinhalten 
+sich wieder abzumelden.
+
+
+Das kenne ich auch schon. Gibt es vielleicht eine Möglichkeit das an 
+das Anmeldepasswort zu koppeln? Vielleicht kann man das einloggen ja 
+ins Startmenü aufnehmen...
+
+Guido

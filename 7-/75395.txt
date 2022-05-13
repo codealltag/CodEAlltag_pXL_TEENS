@@ -1,0 +1,11 @@
+Carsten Dörfer hat geschrieben getan getutet:
+
+
+Mit hypscher .htaccess.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Frank 'kai' Gelmann in uc.vgq.qhwjivca.omnnknyh

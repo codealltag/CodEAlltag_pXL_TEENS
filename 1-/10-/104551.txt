@@ -1,0 +1,13 @@
+Und so sprach Enno Fander:
+
+
+Das ist der Punkt. Wozu jedesmal maechtig Module laden, wenn ich nur 3
+oder 4 Funktionen brauche?
+
+Gruss,
+Leander.
+-- 
+Can I leave and close my eyes for one more night
+Can I pay to be set free of all this pain
+That makes me bleed
+                                                --ANGEL DUST - Bleed

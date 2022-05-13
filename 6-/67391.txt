@@ -1,0 +1,7 @@
+(* Antoine Burggraef wrote: *)
+
+
+(cons ("aber" (cons ("richtig" (cons ("lisp" (cons ("wird" (cons 
+("viel" (cons ("zu" (cons ("lang" nil))))))))))))))
+
+(cons "Christian" nil)

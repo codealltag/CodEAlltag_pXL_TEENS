@@ -1,0 +1,13 @@
+Das ist sicher richtig, aber gerade bei Effekten, die auf längere
+Samples angewendet werden oder bei Rauschfiltern ist ein schneller
+Prozessor schon angenehm.
+
+
+Ein klassisches Netzwerkspiel im Wing Commander-Stil aber nur mit
+Poligonen. Liegt AFAIK bei jeder Novell Netware bei. Das haben wir immer
+in der Schule auf den 386ern gezockt.
+
+CU
+Diedrich
+-- 
+Lieber voll heimkommen als leer ausgehen.

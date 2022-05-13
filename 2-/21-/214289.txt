@@ -1,0 +1,30 @@
+Am Sun, 05. 09. 21 15:29:36 +0200 sendete Emmerich Holzheimer
+folgende Botschaft:
+
+
+*g* manchmal hast was gutes in den unixgruppen aufzupassen ;)
+
+                                 ^^^^^^^^^
+
+Dadrann wirds haken, ich weis leider nicht wo mwmz@vvojkga seinen
+rechner stehen hat.
+
+
+Auf einer normalen kiste die sich (von diskette)rebooten lässt dauert das
+normalerweise mit geeigneten werkzeug keine 5 minuten.
+
+
+Für mich schon, denkste ich hab lust die teile von de.* die ich kriege
+von hand zu pflegen?
+
+
+ICh denke du hast eh nur einen suckfeed?
+
+
+Wie kommst du bei controlverarbeitung auf FCs?
+
+
+1-2 Punkte in inn.conf, mehr ist das nicht.
+
+Tschüs
+  Walter

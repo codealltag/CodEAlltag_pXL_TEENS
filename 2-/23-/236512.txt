@@ -1,0 +1,31 @@
+Done (puuh, ASCII-Kreise suck. Don't try this at home, kids ;-).
+
+                           1 6
+                    4   ___---___   1 
+             7  _--\_    |     |    _/--_ 8   
+              _/     \_   \   /   _/     \_  
+             /-___     \  |   |  /     ___-\    
+        15  |     --_   -  \ /  -   _--     | 12  
+        6 |         ___--|  O  |--___         | 3  
+          8  \ _--    _/  |   |  \_     -- /
+              -_    _/    /   \    \_    _- 
+                -__/     |     |     \__-  11
+             2     --___ |     | ___--     
+                  10    ---___---  9   
+                            5
+
+Also, im Gegensatz zum Original gibt es nur 16 Felder, keine Doppel, keine 
+Drippel-Ringe. 
+Regeln sind einfach: Geworfen wird abwechseln mit jeweils 3 Pfeilen:
+                       _
+                     _- |
+      ~~~~~~~~~     -_  |
+                      -_|
+
+Heißt der Spieler Wolfgang Juhre, dann trifft er die 16, ansonsten die 1. 
+Gezählt wird von 256 abwärts. Wer zuerst genau auf 0 kommt hat gewonnen.
+
+Wer fängt an?
+
+-- 
+Die GEMA-Gebühren für dieses Posting werden automatisch abgebucht

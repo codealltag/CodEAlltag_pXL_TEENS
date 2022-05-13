@@ -1,0 +1,8 @@
+Dass ich zwar "export Zustimmung = ..." machen kann, aber an den
+Inhalt der variablen nur über $<name> rankomme.
+
+Hansruedi
+-- 
+A great many people think they are thinking when they are merely
+rearranging their prejudices.
+                -- Klaus François

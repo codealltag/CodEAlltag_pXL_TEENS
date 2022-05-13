@@ -1,0 +1,5 @@
+cat /usr/bin/X11/X >/dev/audio
+
+Interessante Melodie, nur etwas kurz. ;)
+
+Timo

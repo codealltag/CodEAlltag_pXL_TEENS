@@ -1,0 +1,19 @@
+Gregor Ramacher meinte kundzutun:
+
+
+Und?
+
+Ok, besser so:
+
+#!/bin/bash
+mkdir temp.$$
+mv * temp.$$
+mv temp.$$ old
+
+
+Je tiefer das Verzeichnis, desto älter.
+
+Jérôme
+-- 
+Dieser Artikel ging an folgende Newsgroups: ya.ryjl.rmmolf
+Er wurde am Mittwoch, dem 17. Dezember im Jahre des Herrn 2001 verfaßt.

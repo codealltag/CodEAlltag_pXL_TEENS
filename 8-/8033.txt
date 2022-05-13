@@ -1,0 +1,5 @@
+Solches tippte Berthold Heinick:
+
+Etwas Net::NNTP, etwas zählen über Hashes, den Rest macht Graphviz. :-)
+
+Wiebke

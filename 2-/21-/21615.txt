@@ -1,0 +1,11 @@
+Und so sprach Irmtraud Emrich:
+
+
+Nein, aber ich hab immer noch volle.
+
+Gruss,
+Ingolf, seit gut 2.5 Jahren. :)
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.e

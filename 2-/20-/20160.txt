@@ -1,0 +1,9 @@
+Das kommt auf die Definition von 5 an. Wenn das eine Menge ist... 
+Hier hat in einer Vorlesung sich auch schonmal was zusammendefiniert,
+daß |{...}| = 1/3 war. Das war auch korrekt, nur leider haben die
+meisten eben jene nebensatzdefinition nicht mitbekommen.
+
+Hansruedi, war ne lustige Vorlesung mit einem beinahe heulenden Dozenten.
+
+-- 
+Das Tieferlegen der Festplattenk�pfe erhöht keineswegs die Zugriffszeit!

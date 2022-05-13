@@ -1,0 +1,5 @@
+Das hab ich nichtmal in der Praktischen Prüfung gemacht.
+
+Leopold
+-- 
+Overflow on /dev/null, please empty the bit bucket.

@@ -1,0 +1,9 @@
+Am Tue, 20. 12. 21 sendete Nino Feths folgende Botschaft:
+
+
+Also bei slrn reicht './configure --prefix=/usr'
+
+Tschüs
+  Rupert
+-- 
+Notorisch Schreibfaul.

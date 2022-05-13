@@ -1,0 +1,12 @@
+HTML ist interpretierbar (klar :-), die Seiten sind aber recht sicher
+keine Programme im engeren[1] oder weiteren[2] Sinne. CSS hab ich mir
+noch nciht angetan, und solange ich nicht wirklich Sinn darin sehe
+werde ich das auch nciht tun.
+
+Richard
+[1] Binarys
+[2] Scripte
+-- 
+A great many people think they are thinking when they are merely
+rearranging their prejudices.
+                -- Norman Jochen

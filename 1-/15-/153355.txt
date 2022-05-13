@@ -1,0 +1,78 @@
+"Ignaz Matews" <qcvvongej.xposxspze@vjqctvris.gr> schrieb im
+Newsbeitrag
+
+den
+
+So ein wirrwar. Also gut, ich kenne nur den Navigator. Danke für die
+Aufklärung.
+
+Gestaltung der
+
+Also ein modernes Produkt, muss schon modern aussehen. Und schon mal was von
+der Bildschirmarbeitsverordnung und der in dieser vorgeschriebenen
+Erwartungskonformität gehört? Außerdem war das ja nicht als Hauptargument
+gedacht.
+
+
+Was, du hast doch nicht etwa Linux (hatte ich auch mal, jetzt Win95 mit IE
+4+5) oder Unix?
+Nee, ich meine nur statt irgendwelche Meldungen in der Statusleiste oder im
+Arbeitsbereich anzuzeigen, kommt wenn der Navigator irgend etwas nicht
+findet oder keine Verbindung besteht, gleich ne Msg-box. Das war aber auch
+kein wichtiges Argument, aber so was läppert sich dann zusammen.
+
+z. B.
+
+Wenn du das sagst...
+
+
+Die zusatzfunktionen hätte man nämlich auch in DIV's bringen können.
+
+aber
+Ja, aber außer mit Layern, hat der IE damit keine Probleme und ist
+wesentlich fehlertoleranter.
+
+
+Wie gesagt, das ist beim IE seltener.
+
+
+Na was denn, mansches unterstüzt NS überhaupt nicht, da gib's auch keine
+(Syntax-)Alternativen
+
+sein
+
+Les' mal meine anderen Postings im Thread.
+
+
+Ja, aber ich nimm online-by-call. Und wenn ich für jeden Newsserver (hab'
+mehrere) nen anderen ISP brauch...
+
+
+Bei anderen gehts doch auch. Qrk.dc ist einfach mal zu langsam und manchmal
+geht die Verbindung auch ganz schief. Sicherlich kann das auch an mir, MAKE
+oder den Provider liegen, aber wenn ich erst die ganze Welt verändern muss,
+um meine Mails zu bekommen. Andere haben mit RKJB auch Probleme.
+
+So, hiermit seh' ich die Sache für gegessen. über solche Themen lässt sich
+nur streiten, da gibt's keine einheitl. Meinungen. Und eh ich hier noch
+Flames ernte....
+Im Prinzip sind alle Browser gleich gut (schlecht), nur dass KALZ halt
+kompatibel ist (das liegt aber eher an den Web-autoren, die sich nur auf
+einen Browser konzentrieren) und der NS mehr abstürzt als Windows.
+
+Das PC-Magazin 2/2001 (noch bis Samstag im Handel, am Montag kommt 3/2001)
+hat ne Leser-Diskussion über Browser. Da höre ich von
+Piwinski:
+"der Communicator enthält alle wichtigen Internetprogramme" (IE wohl
+nicht...?),
+"Systemdateien werden nicht überschrieben" (ich als Radserveice-Nutzer bin dankbar
+für den ActiveDesktop und den WSH (das muss man auch nicht mit IE
+installieren)),
+"ILoveYou in Outlook..." (das liegt nicht an MAKE, sondern eigentlich am WSH
+und dass manche Leute einfach alles öffnen)
+
+Und wer nun schneller ist und JavaScript besser unterstützt, da scheiden
+sich die Geister, obwohl alle sich bei ihrer Meinung ganz sicher sind. Naja,
+wie gesagt das wird wohl immer eine Streitfrage bleiben.
+Was ich noch vergessen habe: KALZ hat DOM, ActiveX und JScript, ist aber auch
+nichts nütze..

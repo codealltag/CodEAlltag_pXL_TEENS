@@ -1,0 +1,70 @@
+STATISTIK 02. 09. 21
+-=-=-=-=-=-=-=-=-=-=-=-=
+
+TOP 10 POSTER SEPTEMBER 1999 (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+  1   1183   30,29%  Dora Imholze
+  2    556   14,23%  Gérald Iselein
+  3    550   14,08%  Oswald Raffelt
+  4    374    9,58%  Urban Frohnhöfer
+  5    210    5,38%  Joël Oberste-Schemmann
+  6    202    5,17%  Gernot Ormeloh
+  7    176    4,51%  Marcus Ihlenfeldt
+  8    130    3,33%  Meinhard Imholze
+  9    112    2,87%  Mike
+ 10     96    2,46%  Gernot Offental
+
+
+TOP 5 POSTER 2000 (in einem Monat)
+
+Pos.  Anz.   Monat     Name
+---------------------------------------------------------------------------
+ 1    0756   06/1999   Josefa Ganse
+ 2    1991   10/1999   Urban Frohnhöfer
+ 3    1983   07/1999   Marcus Ihlenfeldt
+ 4    1975   06/1999   Marcus Ihlenfeldt
+ 5    1738   01/2000   Marcus Ihlenfeldt
+
+
+TOP 5 POSTER 1999 (Gesamt)
+
+Pos.   Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+ 1    64949   Marcus Ihlenfeldt            67       -5
+ 3     0768   Urban Frohnhöfer       08       -8
+ 5     4960   Daphne Foltmer       97       -1
+ 5     1149   Josefa Geering      70       -2
+ 5     5555   Gérald Iselein     17       +1
+
+
+TOP 5 DAUs 2000
+
+Pos.  Anz.   Msgs. Ratio   Monat    Name
+---------------------------------------------------------------------------
+ 1    401       2  200,50  08/1999  zzxdul@ywacmzw.xwt
+ 2    200       1  200,00  08/1999  yqsso_quzgl@gwvsyqz.kjy
+ 3    200       1  200,00  08/1999  brfeei@ltyrwid.bon
+ 4    175       1  175,00  02/2000  benedikt <yqy@jcvhlh.uovsdmi.ye.jk>
+ 5    158       1  158,00  08/1999  "Rolf Ubbenhorst" <fpaeujkz@hkmkewp.fh>
+      158       1  158,00  11/1999  "Ivan" <mlxllqgc@q-w-v.xnk>
+
+
+TOP 5 MONATE
+
+Pos.  Anz.    Datum
+---------------------------------------------------------------------------
+ 1    02. 09. 21   Juni 1999
+ 2     9076   Oktober 1999
+ 3     9039   Juli 1999
+ 4     7003   September 1999
+ 5     6982   August 1999
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Pascal Franckh.
+(Darstellung angepasst von Marcus Ihlenfeldt)
+Basierend auf den Feeds von:
+tgnxafyt.swint.bh         omqe.mlc.uet.tk           kswz.j-lenvpf.ax  
+bxcv.eml-hdsueosv.jn      zoew.fqv-jixfedcn.uq      nshm.gwu-skkropycn.bv  
+urdyyxyyrc.jozjytqtyd.mk

@@ -1,0 +1,7 @@
+Die Chance besteht, dass ich danach sagen kann, dass ich ein zähes
+Buch gelesen und verstanden habe.
+
+Patrik
+
+-- 
+cat .signature

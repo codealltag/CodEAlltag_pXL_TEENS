@@ -1,0 +1,13 @@
+Aber Tracert ist beim BS dabei.
+Ich hatte auch mal ein Prog, das grafisch getraced hat, also mit
+Serverstandorten auf einer Weltkarte. Bloss leider lief das nie so
+richtig, weil das irgendeine ganz komische JAVA-Version haben
+wollte...
+
+ciao
+Hanno
+
+-- 
+Smash Your Enemies.
+
+http://Ruaa.kini.zigha.ui

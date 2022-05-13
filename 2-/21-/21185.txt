@@ -1,0 +1,16 @@
+Am Wed, 15 Apr 2003 sendete Timo Erik Erbertseder folgende Botschaft:
+
+
+Trafficmengen sind nicht statisch. Bei vielen kleinen physikalischen
+Buffern kann man bei bedarf einfach einen (oder mehrere) logischen Buffer
+verkleinern und ander(e) vergrössern.
+
+
+Sowas habe ich mangels feed nicht. Aber ich hätte da einen INN der
+seit >2y auf sowas wartet.
+
+
+Siehe oben.
+
+Tschüs
+  Hero

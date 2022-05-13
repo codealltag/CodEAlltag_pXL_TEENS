@@ -1,0 +1,8 @@
+Hab eben mal ein wenig damit rumgespielt und gemerkt daß das PureTec CGI 
+wohl unbrauchbar ist. Die erste Seite kann ich ja noch nach meinen 
+Wünschen gestalten, aber die "gesendet" Seite oder eventuelle 
+Fehlerseiten leider nicht. Schon daß die in Deutsch gehalten sind passt 
+einfach nicht.
+Naja, bleibt eben erstmal alles so wie's ist, auch nicht so schlimm.
+
+Waldemar

@@ -1,0 +1,39 @@
+Ist für einen Durchschnitts-Rechner heutzutage auch zu teuer, im
+Vergleich gesehen. 
+
+
+Ist inzwischen die Regel.
+
+
+SCSI funktioniert. Es hatte schon vor Jahren Features, die mit IDE erst
+kürzlich hinzugekommen sind. Ich kann mich noch lebhaft an die Anfänge
+der IDE-CD-Brenner erinnern, wo man den Rechner in der halben Stunde,
+die er mit dem Brennen einer solchen CD beschäftigt war, ja nicht
+anrühren durfte. Ein kleiner Wackel an der Maus und schon brach der
+Datenstrom ab und der Rohling war unbrauchbar. In der Zeit, als die
+ersten 4fach-IDE-Brenner rauskamen, brannte ich bereits 6fach und konnte
+nebenbei wirklich noch arbeiten. Ohne BurnProof. Zerschossene Rohlinge
+hatte ich kaum. 
+Ich hab hier zwischendurch einmal zwei CDs gleichzeitig ausgelesen,
+diese zu MP3 encodet, diese direkt auf ZIP-Diskette weggeschrieben und
+nebenbei noch ne CD gebrannt. Alle beteiligten Geräte hängen am selben
+Bus. Und BurnProof ist nicht einmal angesprungen. Das ich sowas kann und
+dabei noch normal arbeiten, dafür finde ich SCSI toll. 
+SCSI-Platten bringen auch vernünftige Meldungen, ob sie nun dabei sind,
+kaputtzugehen oder nicht. Der SMART-Kram, der auf IDE-Platten zu finden
+ist, ist nichts dagegen (Nicht wirklich standardisiert). Sobald der
+SMART-Status auf failed springt, wird dir der Ausfall innerhalb von 24
+Betriebsstunden prophezeit. Also im Prinzip nur, daß die Platte soeben
+verstorben ist.
+
+SCSI ist Voodoo. Verdammt cooles Voodoo, aber Voodoo.
+
+Bei einigermassen akzeptablen Preisen für SCSI-Peripherie kämen mir
+keine Rechner mit IDE ins Haus.
+
+Reinhard
+
+-- 
+"Winter bzw K�ltest�rme haben wir doch fast nie im Februar;
+davon haben wir mehr im Sommer."
+[Meine Oma]

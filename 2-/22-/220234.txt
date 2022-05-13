@@ -1,0 +1,21 @@
+DVD läuft auch ohne extra DVD-Beschleunigung wenn du mehr als 300 MHz
+hast. Kannst eben nichts mehr nebebei machen, aber wer macht das schon
+beim Fernsehen.
+
+
+Also schneller auf alle Fälle. Und da der TNT2 von der Struktur fast das
+gleiche wie der TNT ist, kann man die alten Treiber fast unverändert
+weiterverwenden.
+
+
+Die Unterstütung fehlte und ein paar Features. Aber beides ist jetzt
+mehr als genug vorhanden. Auf alle Fälle eine gute Alternative zum
+Rage128.
+
+
+Da ich nur PCI habe, wird mir fast nichts anderes übrigbleiben. :-/
+
+CU
+Lorenz
+-- 
+Lieber Mitglied als ohne.

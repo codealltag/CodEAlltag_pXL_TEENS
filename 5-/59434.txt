@@ -1,0 +1,12 @@
+Thorsten Ramaekers hub folgendes in die Tasten:
+
+
+Ja, und makehistory (-i und -o iirc, aber eins von beiden brauchte man 
+nicht)
+
+el TruBlu
+
+-- 
+Fachbegriffe der Informatik:
+   45: IRQ
+          Internet Relay Quak (Lars Kerschenlohr)

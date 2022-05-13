@@ -1,0 +1,9 @@
+Aus welchem Grund auch immer gab Willy das Szlauszaf bekannt:
+
+
+Belasse es dabei. Ein hündisches einfügen in die .gnus ist wesentlich
+nervenschonender, ausserdem macht es ein späteres ändern einfacher.
+
+Justin
+-- 
+Statistik ist die mathematische Form der L

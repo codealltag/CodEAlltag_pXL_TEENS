@@ -1,0 +1,27 @@
+On Sun, 03. 01. 23, Lothar Majs <bbmaqtm@zdf.cr> wrote:
+
+[...]
+
+<SCNR> Klar, ist ja auch alles über OFNL... </SCNR>
+
+
+Damals hatte ich beim Agent noch das gleiche Verzeichnis als Daten-
+und Downloadverzeichnis. Ich wollte Dateien von dort löschen und hatte
+SHFileOperation gefunden, was mir dafür brauchbar erschien. Da es
+nicht so recht klappen wollte (inzwischen weiß ich wieso: VPLK
+hat vergessen zu erwähnen, daß der pFrom-String mit zwei #0-Zeichen
+terminiert werden muß), habe ich ein wenig damit rumprobiert. Ich kann
+nicht sagen, ob ich noch zusätzlich Mist gebaut habe oder ob der
+einzige Fehler war, nur ein #0-Zeichen zu verwenden; jedenfalls war
+irgendwann mein komplettes Newsarchiv verschwunden, und ich durfte die
+nächste Entdeckung machen: Obwohl ich FOF_AllowUndo gesetzt hatte, war
+es nicht im Papierkorb gelandet - das Flag funktioniert wohl nur, wenn
+man den gesamten Pfadnamen angibt (nicht daß Microsoft einem das
+verraten würde). Natürlich zeugte es nicht gerade von höchster
+Intelligenz, in einem solchen Verzeichnis mit einer Löschfunktion zu
+experimentieren, aber ohne die Doku-Bugs wäre mir das nicht passiert.
+
+Viele Größe,
+     Michel Nemez
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

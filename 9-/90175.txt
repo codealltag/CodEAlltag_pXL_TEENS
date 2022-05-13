@@ -1,0 +1,9 @@
+* Gianni Niesz schrieb: *
+
+
+Fragen wir mal anders: Gibt es *überhaupt* einen Newsreader, der mit 
+Umlauten keine Probleme hat? :-)
+
+-- 
+   :: bf ::  ...fühlt sich gerade in seiner These bestätigt, dass
+             alles außer 7-bit US-ASCII potentiell Probleme macht

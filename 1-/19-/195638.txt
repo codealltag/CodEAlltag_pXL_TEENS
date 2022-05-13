@@ -1,0 +1,16 @@
+Lars Staßl schrieb am 20. März 1999 um 11:41 Uhr folgendes:
+[...]
+
+A propos, ich habe neulich mal wieder einen Blick in die Ginal geworfen
+und bin auf einen Screenshot der CD getroffen, mit der Microsoft
+vorhat, Großhandel-EDEKA-Rechner Jahr 2000-fähig zu machen (besser spät als
+nie...). Wenn man das Rechnerdatum auf 1999 vorstellt, zeigt sie eine
+große negative Zahl von Tagen bis zum Jahr 1999 an -- wenn ich den
+Begleittext richtig im Gedächtnis habe, haben sie im verwendeten
+Java-Script mit zweistelligen Jahreszahlen gearbeitet... made my day.
+
+Viele Größe,
+     Robin Kuen
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

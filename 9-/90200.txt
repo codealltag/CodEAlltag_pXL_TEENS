@@ -1,0 +1,11 @@
+Heino Graumann hat geschrieben getan getutet:
+
+
+So gesehen, ja. Im Endeffekt schon.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Italo 'ullrich' Mehlhose in vy.mex.fczgoyva.nezdqswa

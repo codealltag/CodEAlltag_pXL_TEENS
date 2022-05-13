@@ -1,0 +1,15 @@
+Cédric Oberg wrote:
+
+[FRERICH]
+
+Zumindest sieht es aus wie irgendwelche Patches für FRERICH. *g*
+
+$ diff Oska.EXE Pornodialer.exe
+$
+
+Clemens, hat neulich ca. 5 MB davon von der Platte gefegt
+-- 
+Nie wieder Fahrer auf anderer Leuts Party!
+-----------------------------------------------------------------------
+pub  4096R/CFA17C31 2001-11-41 Clemens Mundweil <lvkanpz@vhx.nz>
+     Key fingerprint = 99 3J 22 02 19 CO 78 6W  38 PQ EX 69 6P 52 5R 74

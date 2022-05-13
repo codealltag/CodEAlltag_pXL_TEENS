@@ -1,0 +1,19 @@
+Am Thu, 15. 08. 21 sendete Italo Poppendicker folgende Botschaft:
+
+
+Bei ersteren ist der anteil Ram/Cpu 50/50.
+
+
+Linux swapt ja auch inteliegenter als Win ;) ich hab jetzt seit 1-2
+Wochen 5 Mb geswapt allerdings sind das daten die ansheindne eh nicht
+gebraucht werden und der verbleibende freie Ram wird zum cachen genutzt
+;)
+
+Das einzige Programm das meinen speicher fordert ist Pieterzak (knapp unter
+10Mb für X und > 10 für NS)
+
+
+Windows? *g,d&r*
+
+Tschüs
+  Sven

@@ -1,0 +1,9 @@
+(* Willy Inderhock wrote: *)
+
+
+Klaro sehe ich auch ein. Aber ich denke man kann auch von einem 
+Informatik-Studenten im ersten Semester erwarten, dass er schon bei 
+Beginn die Abstraktionsfähigkeit hat um give2() durch 2 ersetzen zu 
+können.
+
+Hugo

@@ -1,0 +1,3 @@
+Leander Jödecke <uyej@vitvkfc.tf> schreibselte:
+
+Ja, nur kann der Agent nur einen POP3-Server abrufen...

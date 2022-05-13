@@ -1,0 +1,8 @@
+War es nicht egal, ob man GMT oder Local Time angab? Ausserdem würde
+ich eher darauf tippen, dass deine Zeitzone auf dem ganzen System
+nicht stimmt...
+
+Fernando
+-- 
+1788 wurden erstmals die Menschenrechte als Gesetz verabschiedet.
+Keiner weiß, wo sie sich heute aufhalten.[Denis Fäskorn]

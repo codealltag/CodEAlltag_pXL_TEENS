@@ -1,0 +1,7 @@
+Ja. Wobei sich mir der tiefere Sinn $echo $PHP_SELF noch nicht  
+erschlossen hat. [1]
+
+Rudolf Rudloff
+
+[1] Nein, ich weiß schon, was es bewirkt. Nur ist mir nicht ganz klar,    
+    welchen Vorteil es in diesem Kontext bringt.

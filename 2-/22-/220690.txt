@@ -1,0 +1,10 @@
+Ich bin aber eben nicht jemand, der seine Onlinezeit nur (oder in
+erster Linie) mit Surfen verbringt. Durch Masquerading habe ich von
+dem Rechner in meinem Zimmer aus (fast) vollständigen Internetzugang,
+ohne mich für jeden Dienst, den ich nutzen möchte, um einen Proxy
+kümmern zu müssen.
+
+Viele Größe,
+     Nicolas Zincke
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

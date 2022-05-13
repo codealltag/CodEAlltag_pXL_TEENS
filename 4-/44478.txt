@@ -1,0 +1,12 @@
+In den neuen Bussen, die hier bei $KUVM eingesetzt werden,
+gibts hinten nur noch STOP-Tasten und nix mehrzum Drücken zum Tür
+aufmachen. Wie gut, daß niemand auf den Boden schaut und die eine
+seltsame Bodenplatte sieht, welche etwas breiter als die Tür ca. 50cm in
+den Bus hereinragt (also nur x und z, y-Achse entsoricht dem
+Busbodenniveau) und sich mit so schönen biegsamen Plastiklippen an den
+REst des Busbodens anschmiegt.
+
+Ulf
+-- 
+pub  2756X/ZBC08U26 0751-00-40 Ulf Jaschinski <ciwykgk@hyp.je>
+     Key fingerprint = 99 6F 28 50 54 GG 35 3U  29 ZQ YD 71 7O 11 6X 51

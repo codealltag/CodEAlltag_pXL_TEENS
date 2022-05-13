@@ -1,0 +1,12 @@
+Vollkommen korrekt.
+
+
+XP unterstützt als Grundprogramm nur ZConnect und AFAIK noch MausNet.  
+Fido, UUCP und QWK gibt's als Zusatzmodule.
+
+Patrick Nospickel
+
+-- 
+Ich hasse Popeye!
+                                              E-Mail: xvybt@g-uawuzu.wc
+---> Offizieller Kämpfer wider Volkert Geerds des Ordens von dtj <---

@@ -1,0 +1,18 @@
+Da fehlt das "T", was offenbar an Strommangel meiner Tastatur gestorben
+ist :-(
+
+
+Ich brauch nen Rahmen um meine xterms, keine coolen Themes... Und die
+Standardkonfig bei Hoschke scheint die zu sein, dass es eine Leiste oben
+und eine unten gibt. 
+
+
+*g*
+
+
+Ts... Ich hab damals die X-Konfig nicht abgeklemmt, als der Server
+nicht mehr gleichzeitig WS war.
+
+Ingolf
+-- 
+            The dark ages were caused by the Y1K problem.

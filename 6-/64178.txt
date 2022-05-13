@@ -1,0 +1,8 @@
+Die nette konsole. Irgendwie scheint sie ohne Umino nicht zu laufen,
+oder etwa doch?
+
+Gian,
+warum hat xterm nur so unschöne Farben? :-(
+
+-- 
+cat .signature

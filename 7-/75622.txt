@@ -1,0 +1,8 @@
+Nicht zufällig mit irgendwelcher perverser Netzwerk-HW aka "Museums-Shop"? Da
+hab ich auch so ein Exemplar kennenlernen dürfen, In Senderichtung
+400kb/s, in Empfangsrichtung volle 100MBit. Die Karte wurde gegen eine
+Realtek8139-basierte ausgetauscht...
+
+Noël
+-- 
+      ...and that is how we know the Earth to be banana-shaped.

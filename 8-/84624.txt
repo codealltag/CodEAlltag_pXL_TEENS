@@ -1,0 +1,13 @@
+*g* Ich hab vor, noch was zu leben, und da erscheint es mir
+sinnvoller, zu schweigen...
+
+
+Wer weiss... mein /dev/null ist extrem aufgeräumt :)
+
+
+Ich versuche herauszufinden, wieso mailcrypt nicht erkennt, welchen
+Key ich nutzen will. Es steht ja auch nur einer zur Verfügung...
+
+Theo
+-- 
+If you keep anything long enough, you can throw it away.

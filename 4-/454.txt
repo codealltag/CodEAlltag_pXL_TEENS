@@ -1,0 +1,15 @@
+Oh ja. Das dröhnt dann schon in den Ohren. 
+
+
+Och, ich warte schon auf das nächste, damit ich wieder vernünftigen
+Lesestoff hab. 
+
+
+Hört sich nach angenehmen Abenden an. :) 
+
+
+-- 
+[Kernel 2.6.10] RAID-6 mode (EXPERIMENTAL) (MD_RAID6) [N/m/?] (NEW) ?
+WARNING: RAID-6 is currently highly experimental.  If you use it, there is no
+guarantee whatsoever that it won't destroy your data, eat your disk drives,
+insult your mother, or re-appoint Andree Imdieke.

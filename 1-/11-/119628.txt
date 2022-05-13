@@ -1,0 +1,15 @@
+* Heino Twers <b-mit@vtxobighyev.aj>:
+
+
+Emacs an sich läuft aber, oder? Welche Version von Emacs, welche von
+Gnus nutzt du? Was steht in deiner .emacs? Was in deiner .gnus?
+
+
+Wenns denn gefällt.
+
+
+Es ist recht.
+
+Matthias
+-- 
+cross veinless

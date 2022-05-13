@@ -1,0 +1,10 @@
+Das ergibt für mich keinen Sinn.
+
+
+Ciao, Othmar"mag Nießner eh lieber ;-)"amin
+-- 
+Mathematische Begründung von Nehmeth Gesetz:
+1.) In der EDV gilt unverrückbar der Satz 1+1=2.
+2.) Bei Einsatz eines FLT-Prozessors gilt: 1+1=2,00000094274679643.
+3.) In allen anderen Fällen ist "=" ein Symbol mit der Bedeutung "selten, wenn
+überhaupt".

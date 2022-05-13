@@ -1,0 +1,13 @@
+^^^^^^^^^^ Wieso hab ich da eben hanswurst gelesen?
+
+
+Hm. Hab heut morgen hier (DA) ne Karre mit NE gesehen... fehlt nur
+noch das A[1].
+
+Konrad
+[1] Hilfe, die Lohmer kumme!
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+tent_counter)->get(@input_content_keys[$input_content_key_counter])->as_scalar()

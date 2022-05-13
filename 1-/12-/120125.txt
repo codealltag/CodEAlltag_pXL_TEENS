@@ -1,0 +1,15 @@
+Und so sprach Lukas Oberdorfer:
+
+
+touch(1): touch - change file access and modification times
+
+Cool. Einen Decoder fuer ASCII-Art-Filme koennte man aber auch
+etwas weniger umstaendlich beschreiben.
+
+Gruss,
+Chr "BTW: Waer doch mal 'ne Idee ..." is.
+-- 
+I'm a 21st century digital boy
+I don't know how to live
+but I got a lot of toys
+				--BAD RELIGION - 21st century digital boy

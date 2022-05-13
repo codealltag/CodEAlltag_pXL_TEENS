@@ -1,0 +1,16 @@
+*lach* Ich wollte da schon immer mal weiter daran arbeiten, das
+scheiterte aber immer wieder daran, daß ich dann ja neu booten müsste
+und auf mein Linux verzichten müsste. Und darauf habe ich dann immer
+irgendwie keine Lust. Stellt mir jemand nen Rechner zu Verfügung, auf
+dem ich einigermassen entwickeln kann? Miditower oder so würde mir schon
+reichen. 
+
+dann brächte ich nur noch nen KVM-Umschalter, der funktioniert. 
+
+Jonathan
+
+-- 
+Twelve people lived under Misbegot Bridge and in al life of luxury, although
+luxury is not hard to archive when you define it as something to eat at least
+once a day and _especially_ when you habe such a broad definition of
+'something to eat'.                                [Dennis Brinkema, The truth]

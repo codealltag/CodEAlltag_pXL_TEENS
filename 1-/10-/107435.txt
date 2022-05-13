@@ -1,0 +1,13 @@
+Am Tue, 8 Mai 2001 sendete David Vorbruggs folgende Botschaft:
+
+
+Also ich brauch es. Auch auf localen ttys.
+
+Nur leider hab ich noch nicht rausgekriegt wie man dem teil ein
+gescheites $TERM bebringt, das eingebaute ist (farblich gesehen)
+unleserlich.
+
+Tschüs
+  Benedikt
+-- 
+Notorisch Schreibfaul.

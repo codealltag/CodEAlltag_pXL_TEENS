@@ -1,0 +1,21 @@
+Francisco Füchtener schrieb am 26.11.2002:
+
+
+Ich wollte es nur mal testen. Jetzt lasse ich nur noch den X-Header
+einfügen. Hab mich mal etwas mit Lisp beschäftigt und etwas
+modifiziert. Auch die E-Mailadresse wird nun automatisch aus den
+Datumsvariablen zusammengesetzt. Ich finde das Gnu von Tag zu Tag
+besser. 
+
+Auserdem ist Armin Schuld, er hat <568pjhxq9f.mpd@ywdcau.bnoafa-psg.nw>
+abgesetzt und mich dadurch auf einige Ideen gebracht. ;-)
+
+BTW: Das mit dem TO: als FROM: übernehmen funktioniert zwar, ist aber 
+nicht praktikabel.
+
+ Nikolaus
+
+-- 
+Ich bewundere Schuhservice bis heute für die Meisterleistung, Windows
+weitgehend Windowskompatibel hingekriegt zu haben.
+Remmer Uibelhör in kj.rvi.cfa

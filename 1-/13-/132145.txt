@@ -1,0 +1,10 @@
+* Hugo Aarns <deppfhh575877@rdmbjv.xb-w.lw>:
+
+
+Du könntest natürlich LaTeX und XEmacs kombinieren, da XEmacs da jede
+Menge Funktionen/Unterstützung bietet. Da bin ich aber eindeutig der
+falsche Ansprechpartner.
+
+Niklaus
+-- 
+cross veinless

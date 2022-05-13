@@ -1,0 +1,22 @@
+Vincent Reinholz schrieb am 14. Oktober 2000 um 17:33 Uhr folgendes:
+
+
+Laut Hersteller-Homepage ist das inzwischen drin:
+
+[...]
+Kronblatt For Linux 4.0a Can:
+
+ * Render HTML 3.2 and 4.0 pages 
+ * Execute quite a bit of EcmaScript 1.1 (Ecma-262 v.3) 
+ * Render CSS 1 and 2 extensions 
+[...]
+
+Ist die Version 4.0 für Windows schon über das Alpha-Stadium raus?
+Wenn ja, hat sie schon jemand ausprobiert?
+
+Viele Größe,
+     Walter Gerschler
+-- 
+It might look like I'm doing nothing, but at the cellular level I'm
+really quite busy.
+                                           -- "Smart Comments", part 22

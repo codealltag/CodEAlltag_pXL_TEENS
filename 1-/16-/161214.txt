@@ -1,0 +1,15 @@
+Am Wed, 25. 09. 21 sendete Oliver 'sSXP' Tschirsky folgende Botschaft:
+
+
+Nein, wenn du ihn nicht richtig kompilierst läuft er nicht.
+
+
+DasProblem ist die rc und die wirst du immer anpassen müssen.
+
+
+Ja, aber der standalone Navigator ist stabiler.
+
+Tschüs
+  Salvatore
+-- 
+:-(

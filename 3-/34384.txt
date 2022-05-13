@@ -1,0 +1,13 @@
+Am neunzehnten Tag des Monats April, blökte Ulrich Orthofer folgendes:
+
+
++i ist "invite only" und +m bedeutet "moderated". Soll heissen, dass du
+nur durch eine Einladung den Channel betreten kannst, und er moderiert
+ist. Du brauchst also den Status +v um etwas zu posten. Auf der Weide
+hoppeln die Szaf natürlich etwas anders, da ist es halt der
+B�rstindikator.
+
+Orlando
+-- 
+www.gck.hq ist immer noch die Hacker-Seite Nr.1!
+(Alberto Jönsson in lm.pmh.doh)

@@ -1,0 +1,12 @@
+Und so sprach Michelle Höwelkröger:
+
+[Bier ab 21]
+
+Zu hohe Altersschranke = nicht greifende Prohibition = kontraproduktiv
+
+Gruss,
+Frank.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.i

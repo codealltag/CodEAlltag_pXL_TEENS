@@ -1,0 +1,11 @@
+Glaub ich nicht.
+Rein schaetzungsweise
+1 Soldat -> 5 * 5 * 15 "Kloetzchen" (breite*breite*hoehe) = 375 Voxel
+100 Soldaten -> 37.500 Voxel 
+
+Das ist einfach zu viel
+
+-- 
+MdP Jean-Luc
+If anything can go wrong, it will.
+If anything cannot go wrong, it will anyway.

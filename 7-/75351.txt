@@ -1,0 +1,20 @@
+Am Tue, 16. 04. 22 sendete Oswald Zöpfchen folgende Botschaft:
+
+
+Backdoor gefahr.
+
+
+Ich halte es eigentlich für sinnvoll das immer zumachen.
+
+
+Es geht ja nicht nur um das eigene überprüfen, nur bei signierten
+Sourcedistributionen ist die wahrscheinlichkeit das man eine Backdoor
+nicht mitkriegt (durch jemanden der überprüft) deutlich niedriger als
+bei bins.
+
+Tschüs
+  Luis
+-- 
+Die Weisheiten des Nicolas Jup: #3
+
+Gl�sserregale sind zu diesem Zeitpunkt auch nicht sicherer.

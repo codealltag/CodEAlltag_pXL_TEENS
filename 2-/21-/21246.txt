@@ -1,0 +1,9 @@
+Immer genau dann, wenn das Rohr unterhalb verstopft ist. 
+
+Kann das sein, das das langsam rekursiv wird?
+
+mfg, 
+	Silvio
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

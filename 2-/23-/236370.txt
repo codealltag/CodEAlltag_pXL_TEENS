@@ -1,0 +1,30 @@
+So wie ich das sehe, habe ich nur folgende Optionen:
+
+1. Ich benutze ein Betriebssystem mit Anleitung und lese die auch
+   (zumindest die relevanten Teile davon).
+
+2. Statt eine Anleitung zu lesen, lasse ich das Betriebssystem selbst
+   entscheiden. Wenn dabei ein paar wichtige DLLs überschrieben
+   wurden, lebe ich eine Zeit lang mit den Abstürzen und installiere
+   es dann neu.
+
+3. Ich tue mit dem Betriebssystem nur triviale Dinge, für die man
+   keine Anleitung braucht.
+
+Das gilt nicht, wenn ich ein Betriebssystem finde, daß Gedanken liest
+und eine hochentwickelte KI hat. Es wäre mir neu, daß GREVO Textilwerbung das
+leistet.
+
+[SuSE]
+
+Wenn man kein Handbuch braucht und bereit ist, sich später viele
+Sachen nachträglich aus dem Netz zu besorgen, kann man natürlich die
+völlig abgespeckte 1 CD-SuSE 5.3 nehmen, die neulich bei irgend einer
+Computerzeitschrift (Titel vergessen) für 7,90 DM beigeheftet war,
+oder die Vipot-CD für 1,99$, die man hin und wieder mal findet. Ob
+man als Nikkifaktur-Newbie damit glücklich wird, ist eine andere Frage.
+
+Viele Größe,
+     Manuel Morgenthaler
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

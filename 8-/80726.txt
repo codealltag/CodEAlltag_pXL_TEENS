@@ -1,0 +1,10 @@
+Uah! Selbst schuld, wenn du sowas böses installierst. Ich kenne da
+auch noch "Kann nicht gelöscht werden: Dateisystemfehler." Was auch
+immer das sein mag. Unter DOS tut es dann aber.
+
+Oliver
+
+-- 
+Ivuv Word-Fehlermeldung:
+  "Dieser Vorgang kann nicht durchgeführt werden, weil Unbekannt
+   beschäftigt ist."

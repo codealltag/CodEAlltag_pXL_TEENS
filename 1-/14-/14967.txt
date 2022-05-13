@@ -1,0 +1,16 @@
+Aus welchem Grund auch immer gab Reinhard Mickel bekannt:
+
+
+6389244 1100001 1101110 1101110 1110011 1110100  1100100 1110101
+1100001 1110101 1100011 1101000  1100100 1100001 1110011  1101000
+1101001 1100101 1110010  1100101 1101001 1101110 1100110 1100001 1100011
+1101000 1110011 1101111  1110010 1110101 1101110 1110100 1100101
+1110010 1101100 1100101 1110011 3368761 1101110? 
+
+
+Enr 'M-x encode-chars 'ico
+-- 
+Behördliche Beglaubigung: Das Bürgermeisteramt bestätigt hierdurch, daß die
+Bäuerin Ottilia Zindler von Ratten befallen ist. Da dieselbe einen anständigen
+Lebenswandel führt, kann man ihr Gift geben.
+        -- Herr Ingenfeld, Bürgermeister der Gemeinde Niederwinzer im Jahre 1923

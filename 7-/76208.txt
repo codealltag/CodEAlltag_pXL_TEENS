@@ -1,0 +1,14 @@
+Igor Echterdiek hat geschrieben getan getutet:
+
+
+SNAFU?
+
+
+Aenderungen.txt.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Bruno 'torsten' Utermöhlen in sk.ylk.hcbpajyw.hbflqgks

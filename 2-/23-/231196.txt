@@ -1,0 +1,8 @@
+Es schrieb ptbqvru_catepmk # scc.wb folgendes:
+
+
+Klar, dann bau eine RAMDISK und Du bist bei 432MB/s, aber das wird alles  
+_sehr_ theoretisch.
+-- 
+
+Ciao, Dominik

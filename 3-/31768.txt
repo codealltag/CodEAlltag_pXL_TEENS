@@ -1,0 +1,21 @@
+Benedikt, das schwarze sind die Buchstaben, das weiße das unterliegende
+Papier, und man muß sie vor dem Lesen aufklappen. Lesen geschieht dann
+sinnvollerweise von oben links nach unten rechts. Wobei zuerst die
+oberste Reihe zu lesen ist, dann die nächste, etc. Ich habe dir das
+mal aufgemalt:
+
+Start----------------------------------------------------------->|
+ '
+ V
+Start Reihe 2 -------------------------------------------------->|
+ '
+ V
+...usw
+
+Ist es jetzt klarer geworden?
+
+Wolfgang, der Benedikt gerne einen Einführungskurs gegeben hätte, wenn er
+denn dies gewußt hätte.
+
+-- 
+            0 and 1. Now what could be so hard about that?

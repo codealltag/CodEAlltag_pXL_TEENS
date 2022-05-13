@@ -1,0 +1,11 @@
+Und die haben gefuttert und dann gesoffen? Ich hatte die Filme
+anders in Erinnerung.
+
+patch -p1 -R denkerpatch denker
+
+
+mfg, 
+	Valentin
+-- 
+BOFH excuse #395:
+Redundant ACLs.

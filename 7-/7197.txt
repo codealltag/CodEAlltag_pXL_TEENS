@@ -1,0 +1,7 @@
+Moment, das gibts auch in Teilen. *staun* Wow, welche gibts denn?
+
+Niko
+
+-- 
+75 Things you don't want to hear from your Sys Admin.
+55. Why did it say '/bin/rm: not found'?

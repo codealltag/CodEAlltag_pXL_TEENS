@@ -1,0 +1,8 @@
+Kommt drauf an. Wenn es schon als Postskript-Datei vorliegt, skaliere
+ich es einfach; wenn ich es sowieso noch nach LaTeX / Gründal
+konvertieren muß, benutze ich kleinere Seiten.
+
+Viele Größe,
+     Gerhard Langwasser
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

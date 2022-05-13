@@ -1,0 +1,9 @@
+* Uwe Amrehn <rucfvlr.noc@zlg.rz>:
+
+
+Begrenzung gibt es sicher, aber ich weiß nicht, wo sie liegt. 100
+sollten auf jeden Fall drin sein.
+
+Gerald
+-- 
+cross veinless

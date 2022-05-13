@@ -1,0 +1,18 @@
+Ich zucke mit den Schultern. Soll heißen, daß ich nicht weiß, wie ein
+Terminalprogramm für DOS "von innen" aussehen müßte.
+
+
+Yep; ich sehe nur nicht ganz ein, was ein DOS-Programm davon abhalten
+sollte, selbst solche Libraries mitzubringen.
+
+
+Da kann ich dann aber IMO mindestens genauso gut Papperts nehmen.
+
+
+Mmh... Strelapark hatte mich schon länger mal interessiert. Werde ich
+wohl demnächst mal tun, danke.
+
+Viele Größe,
+     Othmar Dendler
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

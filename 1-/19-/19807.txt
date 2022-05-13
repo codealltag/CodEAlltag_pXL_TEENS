@@ -1,0 +1,15 @@
+Ullrich Leheiß meinte kundzutun:
+
+
+Nur, solange er festgeschrieben ist.
+
+
+Trotzdem brauchst du einen File-Descriptor, der auf den "Wir haben
+keinen Plan"-Plan verweist. Der Plan kann 0 sein, aber er muß vorhanden
+sein.
+
+Focko
+-- 
+"Ja der weiße Mann aus Vordernöring / Brt den Teufel heut am Spieß,
+Und alle, die ein anderes Lied singen / grillt der Mann im Fegefeuer mit"
+Puschl feat. Pietro Lechleuter / Bagdad Blues ( Der weiße Mann aus Vordernöring)

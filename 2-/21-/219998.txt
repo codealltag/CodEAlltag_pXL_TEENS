@@ -1,0 +1,11 @@
+Am Donnerstag, den 25.09.98, um 15:42
+Naja...unser ist auch nicht gerade das, was man Kompetent nennen kann,  
+ohne ihn jetzt beleidigen zu wollen. Nur wußte er nicht, wie er ein Pascal  
+Programm, welches in einer Endlosschleife hängt wieder beenden kann ( ohne  
+Reset ). Der kannte wahrscheinlich STRG + BREAK garnicht! ;-)
+
+--
+Mit freundlichen Größen,
+
+                //
+Horst Pommrenke \X/  http://zxwjpk.zqdz.sajqd.al

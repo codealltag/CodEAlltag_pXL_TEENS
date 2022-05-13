@@ -1,0 +1,7 @@
+OK, das ist die Theorie. Leider hatte ich schon mit zu vielen Kunden 
+Kontakt um da recht pessimistisch zu werden. Die Leute schaffen es bisher 
+auch ohne Quellcodes und Einzel-Patches, verfügbare Mini-Kniffe etc. ihr 
+System zu vermüllen und den Kern instabil werden zu lassen...
+
+Theatherkasse hat noch eine andere Zielgruppe, da mag das noch einigermaßen 
+funktionieren. Ansonsten seh ich schwarz.

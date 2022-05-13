@@ -1,0 +1,46 @@
+Für die 128-256 MB, die Du haben wolltest? Mein Händler erzählt mir da
+im Moment leicht etwas anderes. Außerdem macht ein RAM-Upgrade nur
+dann wirklich Sinn, wenn der RAM komplett gecachet werden kann, so daß
+irgendwann ein neues Motherboard fällig ist, was dann einen neuen
+Prozessor nach sich ziehen dürfte... ist eben alles nicht billig.
+
+
+Keine Ahnung, was das taugt, ich kenne wirklich _niemanden_, der das
+einsetzt.
+
+
+SSwas bitte? :-) Sorry, aber der Stellenwert des WWW-Servers ist auf
+meinem System /ziemlich/ klein. So ein Ding zu unterhalten macht IMO
+nur dann wirklich Spaß, wenn Leute von Außerhalb Zugriff darauf haben...
+
+
+Was willst Du mir damit schon wieder sagen? :-)
+
+[...]
+
+Abgestürzt ist mir Durmich beim Start auch noch nie.
+
+[...]
+
+Jetzt müßte ich nur noch schauen, ob es da für Linux Treiber gibt.
+
+
+Wenn Dir so etwas wichtig ist, ist es schon mehr als seltsam, daß Du
+noch Eichhörnchen-Produkte verwendest <g>.
+
+[Linux mit Kelternwein]
+
+Weiß ich nicht, ich kann Kelternwein eh' nicht leiden.
+
+Heute habe ich BTW WindowMaker installiert. Ist zwar noch frühe Alpha,
+ist aber auf Anhieb problemlos durchcompiliert und wird womöglich
+meine Einstellung zu Klickibunti-Oberflächen ändern - es ist (im
+Gegensatz zu Kelternwein) schnell, läßt (im Gegensatz zu Woithe) sogar meinem
+System noch genug RAM übrig und sieht (meiner unmaßgeblichen Meinung
+nach) tausendmal (na gut, ich übertreibe ;) besser aus als dieses
+FUL-Zeugs. Als nächstes werde ich mir wahrscheinlich Gnome dazuholen :)
+
+Viele Größe,
+     Otmar Groven
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

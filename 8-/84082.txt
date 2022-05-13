@@ -1,0 +1,35 @@
+(* Hanspeter Bartling wrote: *)
+
+
+Was wir gemacht haben:
+
+1. VL : Programmierung
+Wirklich interessant und da hab ich wirklich was für den Beruf von 
+mitgenommen. Ist schon interessant zu sehen, wie man plötzlich 
+programmiert wenn man das ganze Konzept mal strukturell komplett 
+durchgearbeitet hat einen logischen Aufbau bekommt. 
+Das war das, was ich eigentlich auch machen wollte.
+
+BTW hab ich selten so gelacht wie zu dem Zeitpunkt, als wir ziemlich am 
+Anfang über funktionales programmieren belehrt wurden und wir in einer 
+Gleichung die Zahl 2 nicht so einsetzen durften sondern eine Funktion 
+namens give2() schreiben mussten, die genau das tat, was man von ihrem 
+Namem schon erwarten dürfte.
+
+2. VL : Lineare Algebra
+*schauder* Pure Mathematik mit allem was dazugehört (inkl. leicht 
+senilem Prof) - ich bewundere jeden, der das rafft und womöglich sogar 
+noch genießt.
+
+3. VL : Analysis für Informatiker
+Nur der Name hat wirklich etwas mit Informatik zu tun, der Inhalt ist 
+wie (2) schon pure Mathematik.
+
+Tja und da sich diese Verteilung auch in den weiteren Semestern nicht 
+großartig geändert hätte und ich eigentlich kein Mathematiker werden 
+wollte hab ich dann eben umgesattelt.
+
+
+Bio?
+
+Pascal

@@ -1,0 +1,5 @@
+Wenn sharity nicht so mühsam wäre, würde ich SMB auch unter Unix einsetzen. 
+NFS gehört verboten.
+
+
+Hat aber auch gedauert.

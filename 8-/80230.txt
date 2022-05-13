@@ -1,0 +1,9 @@
+Wenn das mit dem Dateisystemfehler kommt wird das damit auch nichts.
+
+Luciano
+
+-- 
+  "Dieses Programm stellt SCSI-Kennung gebrauchten auf Ihrer Anlage fest,
+   und empfiehlt einen erhältlichen Kennung, anschließen ein NEUES
+   Laufwerk. Keine Notwendigkeit starten dieses Programm, falls Sie neues
+   Laufwerk nicht an schließen."

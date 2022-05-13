@@ -1,0 +1,3 @@
+NT hat ein Posix-Subsystem. Inwieweit das aber was bringt weiß ich nicht. 
+Schließlich hat es auch noch Überbleibsel eines OS/2-Subsystems von dem 
+ich recht wenig merke ;-)

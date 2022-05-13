@@ -1,0 +1,23 @@
+Am Sat, 23 Feb 2002 sendete Martin Holzvogt folgende Botschaft:
+
+
+Ganz einfach. Mails aus mls gehen an locale_ng-suffix. Ein Director der auf
+"-suffix" matcht. dieser schaut nach ob in einer datei (plaintext) ob
+locale_ng erlaubt ist (blanko Directoren geht bei exim nit). Wenn ja,
+wird die mail, mit entsprechenden optionen, an das M2N gate geschickt.
+
+
+Alles was an locale_ng@subdomain geht wird gepostet.
+
+
+Dafür missbrauchst du den Filter? Das geht mit:
+'localpart:     |/usr/bin/procmail /etc/procmailrc.mls'
+in /etc/aliases einfacher (das /etc/procmailrc.mls ist optional).
+
+
+Das hat sich bei mir als zu unzuverlässig erwiesen.
+
+Tschüs
+  Niclas
+-- 
+Notorisch Schreibfaul.

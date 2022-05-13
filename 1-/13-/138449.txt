@@ -1,0 +1,12 @@
+Und so sprach Focko Kornelius:
+
+Ja. Unfaehige DNS-Admins im UUnet Backbone. *grml* Denen werd' ich mal
+erzaehlen ... Naja, OK, ich kenne mich mit A-Records und dergleichen
+auch nicht besonders aus, aber das ist ja auch nicht mein Job.
+
+Gruss,
+Luis.
+-- 
+Am I strong enough to be weak?
+
+			       JTF - Burning Rain

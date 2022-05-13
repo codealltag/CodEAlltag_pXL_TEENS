@@ -1,0 +1,22 @@
+Am Sat, 14. 07. 22 14:24:00 -0000 schrieb "Tino Ellbracht"
+<frqfauk_vfjozsu@hgp.js> folgendes:
+
+
+Ja. Außerdem sind die Generationswechsel bei SCSI-Platten auch nicht
+so schnell wie bei IDE-Platten.
+
+
+Weiß nicht, das kann ich nicht beurteilen.
+
+
+Naja, also auf einer Platte, die wir im Austausch zurückbekamen, war
+ein Aufkleber, der für mich sinngemäß nach Reparatur aussah.
+Vielleicht kann ich den Wortlaut noch rausfinden... Und Platine
+tauschen geht beispielsweise recht einfach.
+
+mm
+
+-- 
+Sandro "Gerald" Achterberg, ICQ: 59227498
+
+Wer mit dem Strom schwimmt, schwimmt bergab.

@@ -1,0 +1,9 @@
+Dann braeuchte der Betroffene ja nur sein From: zu veraendern.
+
+AFAIK gibt es auch keine solche Prozedur.
+Ein UDP bezieht sich naehmlich immer auf ganze Server oder Netzwerke.
+
+-- 
+Urban
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

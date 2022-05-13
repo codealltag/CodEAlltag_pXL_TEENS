@@ -1,0 +1,6 @@
+format c: ?
+
+CU
+Eilert
+-- 
+Hüpft der Ochse auf dem Schwan, handelt sich's um Rinderwahn.

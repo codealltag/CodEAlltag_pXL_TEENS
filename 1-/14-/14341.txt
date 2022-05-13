@@ -1,0 +1,8 @@
+Es gibt Sachen, die muss ich einfach nicht ausprobieren.
+
+Heiko
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Darius Kloevekorn in
+<oagx3k3gj6.3g4.ziydcnr.zvykzo@nya.qhh.kv-agozquws.ro>]

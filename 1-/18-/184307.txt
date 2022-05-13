@@ -1,0 +1,11 @@
+Weil kein extra Zeichen dafür angegeben werden muß. Die erste Stelle
+drückt sowohl das Vorzeichen als auch einen zahlenmäßigen Wert aus.
+
+
+Das ist ein anderer Vorteil.
+
+-- 
+sSXP
+
+All men are mortal.  Socrates was mortal.  Therefore, all men are
+Socrates. -- Ulf Scheinfuß

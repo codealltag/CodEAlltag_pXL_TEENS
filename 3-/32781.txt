@@ -1,0 +1,3 @@
+Tja, deswegen benutzt man entweder BSD und Ports oder Gentoo. Wobei die 
+BSDs deutlich schneller up and running sind als Wullhörn. Und Tevi 5 
+RC2 wird heute gerade noch getestet.

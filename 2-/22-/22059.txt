@@ -1,0 +1,9 @@
+N. Wenn das Rohr oberhalb des Loches verstopft, steht das Wasser
+garantiert nicht an der Stelle des Loches.
+
+
+mfg, 
+	Volkmar
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

@@ -1,0 +1,6 @@
+Nur peripher.
+
+Carsten
+-- 
+BOFH #305:
+IRQ-problems with the Un-Interruptable-Power-Supply

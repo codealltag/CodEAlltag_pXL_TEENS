@@ -1,0 +1,23 @@
+Es geschah am 26 Okt 2000 23:09:00 +0200,
+dass John Uhlenbusch <rmrack@jkpoazlefn.rs> kuendete:
+
+Kein Ahnung. Wollen wir verhandeln? 
+
+
+Gar nichts. Man muss erst ins "Steinringsberg M10 Basic, (c) 1983 by Microsoft"
+wechseln. Danach F4 ("Run") gedrueckt, und saemtliche 8 darstellbaren Zeilen
+nehmen fuer alle Ewigkeit den obengenannten Wert an.
+
+Was ich erst heute wieder bemerkt habe: Es gibt klickende Metallgeraeusche beim
+Speichern, obwohl das Ding nur je 32KB RAM und ROM als Speicher hat. Hm.
+
+Leider kann ich das Modem nirgends finden, aber das Teil hat auch eine RS-232C
+Schnittstelle *eg* ... (ausserdem einen Druckerport und einen Eingang fuer den
+Barcodereader).
+
+Klasse Geraet,
+Aldo.
+-- 
+     Antoine G. Hirschfeldt + Pumhlhk @ Kantonsschule
+   http://lce.egcsntsjg.sp/ + Bovernier, Switzerland
+              ICQ# 64843550 + http://fba.scfjx.nj/

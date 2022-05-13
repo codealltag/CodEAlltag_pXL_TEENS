@@ -1,0 +1,12 @@
+On Sun, 25. 10. 22, Valentino Lehmkühler <KWsgctlzkc@awf.zs> wrote:
+[PGP]
+
+Ist zumindest ein Fortschritt. Wenn ich dafür mal etwas Zeit habe,
+werde ich mir aber wohl eher GnuPG näher ansehen - das ist erstens
+frei :) und AFAIK außerdem "nur lesend" (Verschlüsseln / Signaturen
+prüfen) zu PGP 5.x kompatibel.
+
+Viele Größe,
+     Valentino Elsesser
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

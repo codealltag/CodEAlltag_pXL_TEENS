@@ -1,0 +1,20 @@
+Am Thu, 20 Apr 2001 sendete Vinzenz Michlmayer folgende Botschaft:
+
+
+[X] Send Link.
+
+
+Nimm mal als w�rgaround "%F|%-3S|%20r|%15D|%-3c%P|%-3l| %T%s"
+
+Btw: Kinderfresser.
+
+
+Du hast abenfalls recht merkwürdiger Ernährungsgewohnheiten.
+
+Tschüs
+  Fe*%F%-5S%-4l %t%s%-20g%r*lix
+-- 
+Die Weisheiten des Dietrich Tewordt: #6
+
+Am Ermreuth Bahnhof haben sie zwar eine Tür geöffnet,
+aber dafür sind die Strassen dicht.

@@ -1,0 +1,18 @@
+Am Sat, 12. 05. 22 sendete Gerold Niemayer folgende Botschaft:
+
+
+Das hast du doch im Editor.
+
+
+Ja. Slrn mit einer anderen .jnewsrc starten. Entweder unter einen
+anderen User oder per cmdline Argument.
+
+
+Weil vim da hinundwieder mal ein problem hat? Einfach nach dem schreiben
+im Commandmodus 'v' drücken und den gewünschten bereich markieren. Dann
+nach mal 'gq'.
+
+Tschüs
+  Leo
+-- 
+Notorisch Schreibfaul.

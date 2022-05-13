@@ -1,0 +1,4 @@
+Schon ok. Wenn ich die Zeit hätte würde ich lieber heute als morgen mir 
+die Sourcen eines Win32-slrn o.�. schnappen und daraus etwas brauchbares 
+basteln (mit meinen eigenen Rules hard-coded, so daß ich selbst für diese 
+x-antwortet-auf-y Sachen nicht den Body bemühen muß).

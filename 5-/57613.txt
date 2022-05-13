@@ -1,0 +1,16 @@
+Ingo Zöller sah sich genötigt am 7. zu schreiben:
+
+[...]
+
+Nein eigentlich nicht, nur sollte eine Einleitungszeile auf bestimmte
+Worte enden, damit die Variable "gnus-cite-attribution-suffix" matcht.
+Damit die Einleitungszeile in der Farbe des Zitats dargestellt wird, und
+man mit einem Tastendruck die einzelnen Zitatebenen ausblenden kann.
+
+
+Hab ich aus dk.* IIRC kann aber auch no.* gewesen sein. Keine Ahnung.
+
+Pius
+-- 
+Abstimmung ist das falsche Verfahren zur Wahrheitsfindung.
+(Alexander Schlicksupp in vc.puf.loh)

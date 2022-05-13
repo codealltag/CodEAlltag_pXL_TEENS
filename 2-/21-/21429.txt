@@ -1,0 +1,11 @@
+Und so sprach Lars Krumkühler:
+
+
+Ich bin ja kein Menschenfeind. Ausserdem habe ich schon schlimmeres
+gemacht.
+
+Ingmar, Kaffine installiert, z. B. :)
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.f

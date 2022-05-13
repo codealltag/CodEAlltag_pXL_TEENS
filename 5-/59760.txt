@@ -1,0 +1,9 @@
+Wellenwiderstand. Nix spezifischer ~. Den spezifischen hat ein leitender
+Stoff, in Abhängigkeit von Länge und Querschnitt. Ist aber bei
+Hochfrequenz irrelevant im Vergleich zu kapazitiven und induktiven
+Wirkungen.
+
+Normales Video-Kabel hat 75 Ohm, alles andere ist AFAIK
+anwendungsspezifisch.
+
+Willy

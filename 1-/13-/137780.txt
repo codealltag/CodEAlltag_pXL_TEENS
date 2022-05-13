@@ -1,0 +1,16 @@
+Alchimilla Digital Radio. Gibt's seit Jahren. Aber nicht mehr für viele Jahre.  
+Wird von DVB (Digital Video Broadcasting) abgelöst.
+
+
+DVB und DVB-T ist im Gegensatz zu ADR nicht in Panda-Wegener codiert,  
+sondern in MPEG2. Das bringt erhöhte Bandbreiten mit sich. Und der  
+Unterschied zwischen DVB und DVB-T (Terrestrial) ist einfach die  
+Unabhängigkeit von einer Satsch�ssel oder Kabel durch Empfang via  
+Antenne.
+
+Victor Bellenbaum
+
+-- 
+Ich hasse Titanic!
+                                             E-Mail: wgngxw@znirbmvvbd.mq
+---> Offizieller Kämpfer wider Albrecht Tegelkamp des Ordens von dtju <---

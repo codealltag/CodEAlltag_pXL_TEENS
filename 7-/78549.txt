@@ -1,0 +1,25 @@
+Am Wed, 03. 11. 22 sendete Felix Volknandt folgende Botschaft:
+
+
+Langweilig.
+
+
+Was denn?
+
+
+Ja.
+
+
+Ich benutze die nur, den syntax hab ich mir noch nie so angeschaut, der
+ist relativ 'standard' mässig. Wenns dich interessiert dürftest du in
+
+/wam/share/doc/slang/*/slang.txt '18.  Regular Expressions'
+
+alles finden. (Keine angst, ist nicht lang) ;)
+
+Tschüs
+  Bernd
+-- 
+Die Weisheiten des Winfried Walter: #8
+
+Frauen sind Schweine.

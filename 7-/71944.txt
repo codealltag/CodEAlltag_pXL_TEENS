@@ -1,0 +1,14 @@
+Und so sprach Elias Unterdörfer:
+
+
+Nein, da waere es eigentlich wahrscheinlicher, dass kommt
+
+# mount -t msdos /dev/wd0f /mnt/dos && rm -rf /mnt/dos/WINDOWS
+
+
+Bin schliesslich auch stolz darauf.
+
+Gruss,
+Chr *kicher* is.
+-- 
+Remember the... the... uhh.....

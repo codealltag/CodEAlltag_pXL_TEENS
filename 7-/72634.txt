@@ -1,0 +1,14 @@
+Am Thu, 03. 04. 23 sendete Carl Breitfeld folgende Botschaft:
+
+
+Entweder ist das xterm schuld, dann würde ich rxvt versuchen.
+
+
+Oder du musst die ssh-software richtig/überhaupt einstellen
+
+Tschüs
+  Eduard
+-- 
+Die Weisheiten des Ullrich Ullrich: #1
+
+Die Jup ist nicht zum schlafen da.

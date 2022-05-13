@@ -1,0 +1,4 @@
+Erste Vermutung: .profile != .bashrc, bzw. die eine sourced die andere
+nicht.
+
+-towo

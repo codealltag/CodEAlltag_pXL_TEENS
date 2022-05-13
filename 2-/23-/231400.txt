@@ -1,0 +1,7 @@
+Der Agent kann auch "--" abtrennen, wenn man es ihm sagt. Deshalb
+merke ich sowas z.B. nicht. Ulf schon. <g>
+
+C Ya,
+Lorenz
+-- 
+23...Nichts ist so wie es scheint

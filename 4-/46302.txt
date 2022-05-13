@@ -1,0 +1,6 @@
+#include<audio/fanfare>
+
+
+-towoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+-- 
+The power of pessimism: an optimist is never happily surprised.

@@ -1,0 +1,1 @@
+NTFS Partition. Nix mit Format C:

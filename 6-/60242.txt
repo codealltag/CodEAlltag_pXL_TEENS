@@ -1,0 +1,48 @@
+Die Ära der JEB ist an mir vorbeigegangen... ich hab meinen Lebtag
+keinen live gesehen. Allenfalls einen Amiga 500 hab ich mal zu Gesicht
+bekommen...
+
+
+Meine Einstiegsdroge, weiß nicht, entweder war es der BASIC-Interpreter
+für so einen komischen Möchtegern-TV-Computer, oder der Olivetti M24
+meines Vaters, damals ein 8086.
+
+
+Uii! Der von meinem Vater hatte sogar eine Speichererweiterung auf IIRC
+1MB oder so drin... War eine Karte in FMRO proprietärem
+16-Bit-Erweiterungsslot für ISA, in voller Baulänge...
+
+
+Die waren damals[tm] nig, weil man in einem das Betriebssystem haben
+mußte, während auf dem anderen die Applikation gestartet wurde. Wenn
+dann di Applikation ohne Zugriffe auf die command.com lief, konnte man
+das zweite Floppylaufwerk (damals schon so neumodische 5,25"-Dinger)
+verwenden um abzuspeichern.
+
+
+Jep, irgnedwann kriegte der dann eine Festplatte, 40MB, montiert *auf*
+einer eigenen Steckkarte mit integriertem Festplattencontroller!
+
+
+Den hatte unserer IIRC schon von Anfang an.
+
+
+Irgendwann schleppte mein Vater mal einen REcher aus der Firma an,
+komische Kiste, das. Lief damals unter OS-9 oder OS-9000, irgend sowas
+unixoides jedenfalls. Mein Vater erklärte mir, daß das einfacher wäre,
+weil da alle Befehle des Betriebssystems nur 2 Buchstaben haben oder so
+damit man sie schneller tippen kann. Ich fand das ziemlich doof, damals.
+
+
+[X] SEND Computerteile!!!12 :-) Vor allem Festplatten und Mainboards,
+die K6-233 und PC-66 SDRAM verkraften kann ich brauchen :-)
+
+
+Mein Vater hat sich da einen 486SX geholt, mit 170MB Festplatte. Wir ha
+uns immer gefragt, was man mit soviel Plattenplatz machen soll...
+Das war die Zit, da fing mein Vater an, so komische Sachen zu machen, er
+*partitionierte* die Festplatte. Der Sinn dessen blieb mir irgendwie
+verschleiert, mir wäre das zu gefährlich, was, wenn der eine Teil davon
+kaputtgeht???34
+
+Fredi

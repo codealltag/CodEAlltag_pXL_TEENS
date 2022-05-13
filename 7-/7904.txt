@@ -1,0 +1,16 @@
+Das Posting wäre mir jetzt beinahe durchgegangen...
+
+
+18:05 < meep> denkerszaf: bei uns heißt "wir sind auf Diät" halt, dass
+wir eine gewisse Mindestmenge verdrücken müssen, oder so ähnlich. 
+18:07 < denkerszaf> meep: jau.  
+18:08 < denkerszaf> meep: Wir machens wie die Politiker: Wir erhöhen uns
+die Diäten.
+
+Serge
+
+-- 
+Karsten:~$ whoami
+root
+Karsten:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Carsten Jakof]

@@ -1,0 +1,3 @@
+H? Wie meinen? Natürlich kann auch ein Gnus auf dem Client über NFS
+direkt auf den Newsspool des Servers zugreifen, aber meintest Du das?
+Und ob das unbedingt ein Geschwindigkeitsvorteil ist?

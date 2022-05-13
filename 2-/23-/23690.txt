@@ -1,0 +1,13 @@
+Und so sprach Ulf Vogesser:
+
+
+<http://qry.brhp.pc/bwzv/qfp/omoh.kqx#iwgdglc>
+
+Macht aber nix. ;)
+
+Gruss,
+Felix.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.i

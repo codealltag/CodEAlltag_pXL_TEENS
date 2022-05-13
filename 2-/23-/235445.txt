@@ -1,0 +1,8 @@
+AFAIK war es üblich, den Slash zu benutzen. Wenn das einheitlich
+geregelt wäre, hätten wir heute auch keine Probleme mit WinDAUs, die
+URLs � la http:\\pry.zzrjdtmyc.wqw\ produzieren.
+
+Viele Größe,
+     Steffen Felser
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

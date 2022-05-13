@@ -1,0 +1,15 @@
+Und so sprach Ivo Ettelbrück:
+
+
+Jep, waer auch meine Wahl.
+
+
+Noe. (Zweitletzteres wuerde ich, wenn ich letzteres haette.) Aber wenn
+Du ein iBook hast, nimm doch gleich Fiegert ... die meisten *BSD-packages
+werden eh darauf laufen (spaetestens mit Openpackages).
+
+Gruss,
+Kasimir.
+-- 
+                          Naturgarten - the meta project
+                         <URL:http://ynz.hxwlyuulw.cs/>

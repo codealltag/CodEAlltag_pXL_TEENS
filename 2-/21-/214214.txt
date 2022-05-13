@@ -1,0 +1,21 @@
+*argh* Bei mir auch, jetzt weiß ich was du meinst... ok, too few 
+arguments...
+
+
+btw, wenn du mir etwas Zeit und die Kiste gibst, krieg ich mit ziemlich 
+großer Sicherheit Root-Zugang.
+
+
+Weil ein Newsserver nicht unbrauchbar wird, wenn er keine Control's 
+verarbeitet. Ich experimentiere zur Zeit wieder mit dem INN rum, mit das 
+erste was ich gemacht habe war ihm die Verarbeitung von Controls 
+abzugewöhnen.
+
+
+Fremdcancels saugen. Sieht man ja, was dabei rauskommt.
+
+
+(hint: ich hab auch andres zu tun, als tagelang meinen Newsserver zu 
+konfigurieren)
+
+cg

@@ -1,0 +1,16 @@
+[BIOS Veraendern]
+
+Ich dachte eher an kontrolliertes flashen, nicht an ueberschreiben. :-)
+Aber das Problem hat sich eh erledigt, denn mein Vater hat einen neuen  
+Rechner...
+
+
+Du hast ein TX-Board?
+
+
+Es gab noch welche, ich bin aber zu faul das nachzulesen. Ausserdem ist es  
+nicht besser, einen 233er Klamath mit 100Mhz FSB qanlaufen zu lassen, ohne  
+den Anwender zu warnen...
+-- 
+
+Ciao, Hanspeter

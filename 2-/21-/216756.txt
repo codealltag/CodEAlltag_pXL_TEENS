@@ -1,0 +1,24 @@
+Samu Brüchle schrieb...
+
+
+Bariumhydroxid und Oxalsäure? Ziemlich unkonventionelle
+Kombination...
+Also, falls es als Neutralisation deklariert war, würde ich
+sagen:
+(1) Ba(OH)2 ---> Ba[2+] + 2 OH[-]
+(2) C2H2O4 + 2 H20 ---> C2O4[2-] + 2 H30[+]
+(3) 2 OH[-] + 2 H3O[+] ---> 4 H20
+=====================================
+(1) + (2) + (3) =
+(4) Ba(OH)2 + C2H2O4 ---> BaC2O4 + 2 H20
+
+hm... es war doch eine Neutralisation, oder? :-)
+
+
+Ach so. Mut ja ein richtiger Chemiestreber sein :-)
+
+--
+   Diese atemberaubende Passage moderner Prosa
+                         verdanken Sie:
+                   Ulf David. Pgwtdli
+                - Ymmveft@dzzlfwicbba.se -

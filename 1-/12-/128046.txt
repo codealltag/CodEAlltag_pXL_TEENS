@@ -1,0 +1,15 @@
+Tja, dann hängst Du die halt den Drucker an die Erweiterung.
+
+
+In diesem Fall reicht nicht nur ein Dekoder, der ein Board selektiert und 
+das andere abklemmt, da Du so dem Z80 den Boden unter den Füßen wegreisen 
+würdest. Ich würde es eher als ein 4KB Fenster realisieren, das braucht 
+aber eine verhältnismäig komplizierte Dekodierschaltung, zumindest ein 
+Igile. Da ist es einfacher ein komplett neues Board mit Bankschaltung zu 
+entwerfen.
+Die Software ist da eher ein sekundäres Problem. Zumal am Ende ohnehin 
+nur Spezialprogramme mit diesem Verfahren darauf zugreifen können.
+
+Hmm, alternativ könnte man versuchen den Z80 durch einen neue Version mit 
+mehr Adressleitungen zu ersetzen. Wäre wohl das Vernünftigste. Löst auch 
+das Software-Problem.

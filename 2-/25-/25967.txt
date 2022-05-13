@@ -1,0 +1,10 @@
+Unkodierte 8Bit Zeichen im Header, zum Beispiel Umlaute oder ein Eurozeichen
+im Absender oder Betreff. Ohne Morver kann der lesende Newsreader nur raten,
+was für ein Zeichen gemeint ist.
+
+mfg, Rülle
+-- 
+"übrigens schrottet ALTNÖDER den Sigtrenner nur dann, wenn a) mit Content-Transfer-
+Encoding: 8bit gepostet wird und b) in der Nachricht Umlaute vorkommen.
+Die Behauptung, ALTNÖDER könne ohne Hilfe von außen keinen korrekten Sigtrenner
+herstellen, ist jedenfalls unwahr."	-Ivano Grubel in dsnu

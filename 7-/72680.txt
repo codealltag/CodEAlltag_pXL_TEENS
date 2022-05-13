@@ -1,0 +1,9 @@
+http://uke.oear2zgdsc.uv/
+
+Aber wieso nicht über yast2? Das war bei mir innerhalb von 2 min 
+erledigt und läuft. 
+
+Edo
+-- 
+Es gibt Leute, bei denen man im Killfile sein sollte, oder man hat
+etwas flashc gemacht. (Detlef Romell in su.dun.ept)

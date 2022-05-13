@@ -1,0 +1,3 @@
+H? Wer sudo benutzt, muß doch wohl das Recht haben, der User zu
+werden, als der er etwas ausführen will, sprich, er muß entweder root
+sein oder das Paßwort haben?

@@ -1,0 +1,15 @@
+In article <sjtx5rfdf8.1o.cepfin@xqzvlno.nve1811.gdkgub.rd>, Eilt
+
+hatte ich damals auch. jetzt nutze ich reiserfs, und meine 30gig sind in
+~5-10 sekunden durchgecheckt nach 'nem crash. 
+
+mfg
+    knut
+
+ps: ja, mein linux crasht durchaus mal wenn ich 2.4 und ein paar wilde
+patches anteste.
+
+-- 
+Knut Spies  -  eMail: dcsykl@yaz.rabyv.wp
+                             oxyuyj@yzh.fmgkzkqj.kq
+          --  http://acm.ykm.wpvfj.ah/ --

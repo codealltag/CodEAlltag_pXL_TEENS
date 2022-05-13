@@ -1,0 +1,17 @@
+Bei uns geht das eher so ab:
+
+Lehrer: "Wir haben noch keine Homepage. Kann einer sowas?"
+Schüler: "Ja, ich. Ich habe schon eine eigene Seite gemacht."
+Lehrer: "Okay, willst du die Schulhomepage machen?"
+Schüler: "Ja, meinetwegen."
+
+Lehrer kann es dann aber nicht besser als Schüler und das darf
+normalerweise nicht sein. Dadurch findet Lehrer gut, was Schüler
+gemacht hat, auch wenn es noch so scheiße ist.
+
+Urs
+
+-- 
+Lebensgrün ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

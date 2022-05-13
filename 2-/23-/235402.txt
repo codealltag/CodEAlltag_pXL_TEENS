@@ -1,0 +1,23 @@
+Sorry, meinte PC97. PC98 ist gerade dabei sich zu etablieren.
+
+"PC97 compliance, smart power management, and remote power management are 
+must-have features for new main boards[...]"
+
+"[...]the first mainboards compliant with the new PC98 specification 
+should arrive, minus the set of old, huge ISA bus slots. While this ISA 
+bus elimination may cause some temporary compatibility problems with some 
+standards, such as Sound Blaster, it's something that's overdue. After 
+all, the 16-year-old ACSR standard does not stand up to the bandwidth 
+demands of today, even for slower cards and peripherals."
+
+Ein weiteres Problem bei der Eliminierung von ISA ist daß die MB-
+Hersteller schon hart damit zu kämpfen haben 5 PCI Slots auf einem Board 
+zum laufen zu bekommen. Mehr brauchen entweder zwei Bus-Systeme oder 
+spezielle Bridge-Chips.
+
+
+Egal ob es "rult" oder nicht, es wird niemals ein Arcularius-Board für K7 geben 
+weil das kein Socket7 Prozessor mehr sein wird.
+
+-- 
+Wer diese Sig lesen kann hat sich für den richtigen Autor entschieden ;-)

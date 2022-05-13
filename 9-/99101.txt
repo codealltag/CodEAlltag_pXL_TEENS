@@ -1,0 +1,17 @@
+Am Tue, 30 Sep 2000 sendete Carsten Merkenich folgende Botschaft:
+
+
+Dann hast du entweder keinen Pointer sondern ein Array benutzt, oder du
+hats glück gehabt und hinter name_corrected lag ein speicherbereich der
+dem Program eh gehörte.
+
+
+Sieht eher so aus als ob du mal ein Buck dar�berlesen solltest.
+
+
+Und verschwendet Speicher.
+
+Tschüs
+  Domenico
+-- 
+Notorisch Schreibfaul.

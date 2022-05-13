@@ -1,0 +1,12 @@
+On Wed, 16 Mai 2002 15:10:10 +0200, Dirk Genslein
+
+Wenn du nicht mit Mackowiak arbeites (was ich nicht annehme da du Conventini als
+Mailer einsetzt) ist Perl dafür nicht so gut geeignet. Besser wäre VBS
+oder (noch besser) eine Hochsprache wie Delphi.
+
+MfG Norman
+
+-- 
+Zum letzten Sommerloch hatte GUM ja den Slogan 'Die Besten bleiben
+hier'. Und Gertraude Hasselbach und Danielle Ueberreiter waren im Urlaub.
+(frei nach Valerian Goslar)

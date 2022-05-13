@@ -1,0 +1,11 @@
+Und so sprach Ivan Vinzenz Kochert:
+
+
+Das ist eine philosophische Frage. :)
+
+Gruss,
+Nikolaus.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.j

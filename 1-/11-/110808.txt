@@ -1,0 +1,22 @@
+Tierteile:
+=========
+
+             lang kurz
+               \  /
+     Pfote   Schwanz
+        \    /
+         TIER
+        /    \
+     Fell     Maul
+      / \
+kuszelig sztruppig
+
+
+                 (c) Julius Schabath 2000
+
+
+Julius
+
+-- 
+Die letzten Worte des Bombenentschärfer:
+"Klar kannst Du das Kabel durchschneiden."

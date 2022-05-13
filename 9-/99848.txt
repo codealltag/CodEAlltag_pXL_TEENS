@@ -1,0 +1,4 @@
+Also ich habe noch kein configure angetroffen, dass in C++ implementiert 
+gewesen war. Das würde ja den ganzen Sinn vom configure umkehreren ;-).
+
+Wirklich schlimm sind Fehler währen den makes...

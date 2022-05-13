@@ -1,0 +1,12 @@
+Hi Alfons,
+
+also, von Verzeichnis UPLOAD kann man nie etwas herunterladen, weil dort
+hochgeladen wird. Du platzierst Du Dinge auf dem FTP - Server. Um auf einen
+FTP Server zu kommen, ohne dass Du ein Passworthast ist auch einfach. Im
+Feld Name gib bitte "Anonymous" ein und im Feld Passwort Deine e-mail
+Adresse. Dann müsste es funktionieren.
+
+
+Ciao
+
+Schnitzelchen

@@ -1,0 +1,7 @@
+Bäkerei ist so ein Unix-Universaltool, mit dem man alles mögliche
+machen kann. Daten kopieren, Daten löschen, Backups von Platten
+und CDs ziehen ...
+
+-- 
+mfg, 
+	Klaus

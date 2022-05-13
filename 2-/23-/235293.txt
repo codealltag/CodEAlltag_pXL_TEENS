@@ -1,0 +1,17 @@
+On Sun, 4 Okt 1998, Artur Hebermann <iicybvt_lbdavvv@fsi.cf> wrote:
+
+[in DOS große Treiber zuerst laden]
+
+Bei meinem 386er mit 4 MB RAM war es schon eine größere Sache, den
+Speicher optimal auszunutzen. Wenn man mehr RAM hat, ist das natürlich
+nicht mehr sooo wichtig.
+
+
+Unter Benutzung zähle ich das, was man als Benutzer tut. Als
+Administration das, was man als Administrator (root) tut. Diese
+Unterteilung halte ich eigentlich für recht sinnvoll.
+
+Viele Größe,
+     Fernando Volkerts
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

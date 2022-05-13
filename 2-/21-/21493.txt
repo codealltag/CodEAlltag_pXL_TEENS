@@ -1,0 +1,10 @@
+Und so sprach Maurice Wirthmann:
+
+
+Damit warte ich erst mal bis Oktober. ;)
+
+Samuel
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.d

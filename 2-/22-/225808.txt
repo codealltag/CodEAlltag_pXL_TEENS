@@ -1,0 +1,12 @@
+Weil mein Installationsb�chlein Mist ist?
+Problem inzwischen gefixt. Linux selbst und sogar X-Windows laufen
+erstmal. Genug Zeit also, die nächste Woche mal in Ruhe die Kapitel
+über Dateisystem, Userverwaltung, Bedienung der wichtigsten Programme
+usw. zu lesen. Nächstes Wochenende geht's dann weiter.
+
+C Ya,
+Marcus
+-- 
+Just because everything is different doesn't mean anything has
+changed.
+		-- Maya Leon

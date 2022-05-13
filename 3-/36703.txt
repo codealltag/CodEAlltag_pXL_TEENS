@@ -1,0 +1,9 @@
+Ansonsten schau ich mal, ob ich ihm eine besorgen kann. Allerdings
+wird das stündliche Filterwechseln unangenehm und dadurch die Nacht
+nicht sehr erholsam.
+
+Berend
+
+-- 
+75 Things you don't want to hear from your Sys Admin.
+55. Why did it say '/bin/rm: not found'?

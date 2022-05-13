@@ -1,0 +1,7 @@
+Am Wed, 02 Feb 2003 sendete Francis Klapperer folgende Botschaft:
+
+
+s/Netzwerk/Server-Netzwerk/ Und ausserdem ohne zusätzlich UID/Passwort.
+
+Tschüs
+  Cornelius

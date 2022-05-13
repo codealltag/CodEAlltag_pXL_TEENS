@@ -1,0 +1,14 @@
+Steffen Keller schrieb am 17. Oktober 2000 um 13:14 Uhr folgendes:
+
+[ctlinnd newgroup]
+
+Wenn ich eine "y"-Gruppe einrichte, gebe ich das ehrlich gesagt nicht
+ausdrücklich an; bei "m" (etwas anderes als die beiden habe ich bisher
+nicht gebraucht) natürlich schon, aber davon war im Ursprungsposting
+ja keine Rede :-)
+
+Viele Größe,
+     Francis Kutschenreiter
+-- 
+If you're happy, you're successful.
+                                               -- random fortune cookie

@@ -1,0 +1,9 @@
+(* Oskar Oelmüllers wrote: *)
+
+
+Fällt auch wieder raus. Wenn du einen größeren Einr�ckabstand als zwei 
+Spaces hast und ein paar Stufen drin bist, dann läuft dir der ganze Code 
+schon wieder rechts aus dem Fenster raus und/oder es gibt furchbare 
+Umbrüche. Ne, das ist keine wirkliche Alternative.
+
+Vincenzo

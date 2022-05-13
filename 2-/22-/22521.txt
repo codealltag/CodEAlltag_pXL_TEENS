@@ -1,0 +1,10 @@
+Wenn du mal auf einen anderen Spamblocker umsteigst, ist das schon
+sinnvoll, den alten Krams als Futter zu haben. Hat mir hier einen
+99% 'Reinheit' beschert, als ich von Spamassasin auf bogofilter
+umgestiegen bin.
+
+mfg, 
+	Pierre
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old Bionapf cpu - insufficient processing power

@@ -1,0 +1,18 @@
+RAM-Bausteine sind wie Aktien, vergiss das niemals.
+
+
+Preis
+^    _ _
++---|------|-----> Zeit
+  vorher  jetzt
+
+
+Dieser Graph verdeutlicht die Entwicklung der Preise im RAM-Bereich
+und wie du sehen kannst wird es demnächst wieder teurer werden.
+Am besten du kaufst dir gleich morgen 128 MB. ;-)
+
+
+Das Closed BattleNet. *g*
+
+-- 
+Einscannen von Preisen im Emig dauert *doppelt* so lange wie Eintippen!

@@ -1,0 +1,8 @@
+* Albrecht Uellendahl <jdusuaocfluzaf@lpa.llw>:
+
+
+Umlaute in Variablen?
+
+Sandro
+-- 
+cross veinless

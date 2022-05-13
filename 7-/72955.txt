@@ -1,0 +1,10 @@
+Eventuell gibts kurzzeitige Schwankungen zu Stoßzeiten.
+Aber wir haben schließlich das Jahr 2001 und nicht Anfang der 08. 12. 22 wo 
+Uniserver froh waren, wenn sie eine Anbindung von 64K hatten.
+
+Lennart
+-- 
+Das Küchengeschirr, das du in die Spülmaschine legst, 
+brauchst du eine Minute später für etwas anderes.
+
+(Murphy's Gesetz)

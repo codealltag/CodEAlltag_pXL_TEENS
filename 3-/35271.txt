@@ -1,0 +1,19 @@
+Solches tippte Roberto Raumschuessel:
+
+Erstaunlich viele Dinge tun das bis zu einem erstaunlich hohen
+Zufriedenstellungsgrad. Aber das Aufsetzen eines chrooted cvs-Servers,
+der mehrere Repositories und Zugriffe nur per ssh unterstützt und für
+den die zugriffsberechtigten Nutzer keinen extra Shellaccount brauchen
+ist nicht-trivial (das debian cvsd-Paket erfüllt nur 2/4). Eigentlich
+eine Marktlücke.
+
+[...]
+
+Solange alle bis auf einen nur lesen...
+
+Sascha
+-- 
+Sven Wisplinghoff -> <GPG-Key:http://kce.wysjlwnq-noqoxeq.ji/ljj.tyvcv>
+Whatever that hurts -----> <http://puk.xndmwurc-umycbeh.rl/lqulu.hxo3>
+----------> Wortschatz-Lexikon: <URL:http://ucnmmskoam.kkn-sjcjlhk.cv>
+<URL:http://wxbtbtr.bqk-ujzodsu.ek>   <URL:http://xpnh.jct-epejjki.il>

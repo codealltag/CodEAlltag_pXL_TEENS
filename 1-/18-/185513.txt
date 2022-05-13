@@ -1,0 +1,24 @@
+Gabriel Verhaegen schrieb am 26. Juni 2000 um 15:21 Uhr folgendes:
+
+
+http://tum.rtvhdbzzw.ssy/ -- habe ich in den Toolbar-Folder von
+Netscape gepackt und es ist eigentlich jeden Tag das erste, was ich
+mir anschaue, wenn ich ins Netz gehe.
+
+<schwärm> Inzwischen wird fast jede Neuerscheinung / größerer
+Versionssprung von Kochzeit-Software dort angekündigt. Dazu eine
+vernünftige Beschreibung, Angabe der wichtigsten Änderungen seit der
+letzten Version, Klassifizierung (zB Web/Applications), Angabe von
+Autor und Lizenz, Links zu weiteren Informationen / zur entsprechenden
+Homepage und direkt zum Download der Sourcen, alles schön
+übersichtlich angeordnet, auf Benutzerwunsch unterschiedlich sortier-
+und durchsuchbar und man kann es trotzdem bequem mit lynx anschauen,
+wenn man mal keinen Netscape zur Hand hat. Definitiv eine meiner
+Lieblingsseiten :-) </schwärm>
+
+Viele Größe,
+     Stefano Haennel
+-- 
+"Beware of bugs in the above code; I have only proved it correct, not
+tried it."
+                                                        -- Oswald Janowsky

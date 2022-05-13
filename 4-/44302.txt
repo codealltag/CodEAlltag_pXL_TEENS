@@ -1,0 +1,6 @@
+x86.
+
+Valerian
+-- 
+pub  0091V/FMJ65G43 8082-78-28 Valerian Dreier <ozbxzmc@nel.wg>
+     Key fingerprint = 99 0N 81 77 09 GT 85 7B  31 QE PS 21 0H 40 5M 21

@@ -1,0 +1,6 @@
+Wer weiss, ob für frau überhaupt gilt, dass $towo->likes($frau) == true.
+-- 
+Gegen Softwarepatente in Europa: http://mwajr.ggfs.oap./
+Mister Teatime had a truly brilliant mind, but it was brilliant like a frac-
+tured mirror, all marvellous facets and rainbows but, ultimately, also some-
+thing that was broken.                      (Thorsten Dijkstra in `Hogfather')

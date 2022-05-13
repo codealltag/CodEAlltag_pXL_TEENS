@@ -1,0 +1,10 @@
+Meiner ist momentan ein K6/2-400, hat 96MB RAM, laeuft unter Linux, und
+laedt beim Booten an Servern: DNS, Mail, News, IMAP, NFS, SAMBA, RSYNC,
+SAFT, Apache, MySQL, CupSYS, DHCP, LVM, Portmap, einen Identd und SSH.
+Als userspace-Software laeuft dann direkt eine Jukebox an, dazu dann
+noch diverser Kleinkram a la Netzwerkueberwachung. Und er bootet in
+unter drei Minuten. Und wartet 30 sec. am Bootprompt.
+
+Das sollte sehr einfach zu unterbieten sein, vor allem, da dein Rechner
+UDMA5 und 6 eigentlich direkt koennen sollte, und nicht erst die Treiber
+fuer Promise-Controller suchen muss.

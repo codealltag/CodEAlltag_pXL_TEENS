@@ -1,0 +1,7 @@
+Ist mir dann auch aufgefallen, beim PERWigwam...
+
+Hilmar
+-- 
+a + b = c [Pythagoras]
+E = m*c [Einstein]
+=> E = m*(a + b)

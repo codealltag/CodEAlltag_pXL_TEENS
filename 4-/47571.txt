@@ -1,0 +1,5 @@
+On Mon, 24 Dez 2001 14:27:26 +0200, Klaas Niermeyer
+
+'Türlich. Properties (oder Default Properties) (bekommst du wenn du
+mit der rechten maustaste auf die NG in der Liste klickst) -> Reiter:
+"Mark Read" -> "Do not mark any existing messages read"

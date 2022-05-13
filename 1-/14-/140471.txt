@@ -1,0 +1,18 @@
+Leander Zschäbitz schrieb am 04. Oktober 2000 um 18:46 Uhr folgendes:
+
+
+Tja, was tut man nicht alles aus Langeweile: Wir zB haben uns
+überlegt, dass man ja eigentlich die Geschwindigkeit des Lastenaufzugs
+bestimmen kann, wenn man die Höhe der Kacheln an der Schachtwand
+(geschützte 15 cm) und die "Taktfrequenz" kennt, die entsteht, wenn
+man (verbotenerweise) während der Fahrt mit dem Fingernagel einmal
+jede Kachel berührt (beim Versuch, die gleiche Frequenz 20 Sekunden
+lang durchzuhalten habe ich 64 "Anschläge" gezählt). Kommen knapp 2
+km/h raus.
+
+Viele Größe,
+     Leander Usslar
+-- 
+Q: Is C an acronym?
+A: Yes, it stands for ``C''.  It's another of those funky recursive acronyms.
+                  -- comp.lang.c Answers to Infrequently Asked Questions

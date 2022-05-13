@@ -1,0 +1,23 @@
+Pasquale Fußeder wrote:
+
+[Bei JavaScript liegt Source Code offen]
+
+
+Hey, weit du, es gibt sowieso für alles, was du dir nur denken kannst,
+ein Script: Auf diversen Pages, in Magazinen usw... Wenn ich nun ein
+Script schreibe, dass ein kleines Männchen über meine Page hüpfen lässt,
+oder wasauchimmer, mich stört es nicht, wenn das jemand klaut
+(wahrscheinlich werde ich sogar selber ein bisschen von anderen Scripts
+"abklauen", oder mir zumindest halt ein paar Elemente abgucken. Wie
+sollte man sonst JavaScript lernen(zugegebenermassen, es sieht nicht
+besonders schwierig aus). Oder vielleicht sogar, wenn ich was gutes
+finde, ein ganzes Script übernehmen (wenn dem Autor das recht ist, es
+gibt schließlich extra Listings dazu, s.o.) Von wegen "Rad neu
+erfinden..."
+
+Gruß,
+
+Markus
+-- 
+"There's a sucker born every minute."
+(VALENTINO Niederstadt)

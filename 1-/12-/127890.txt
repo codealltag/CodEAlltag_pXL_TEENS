@@ -1,0 +1,11 @@
+* Urban Märzendorfer <libpqix981874@ghduii.wu-j.ks>:
+
+
+589342 sagt Gnus, wann der Eintrag expiren soll. Keine Ahnung, in
+welcher Notation das ist, ich spreche kein Lisp.
+"s" ist ... wenn da "r" steht, bedeutet es regular expression
+AFAIK. Keine Ahnung, was das ist.
+
+Friedhelm
+-- 
+cross veinless

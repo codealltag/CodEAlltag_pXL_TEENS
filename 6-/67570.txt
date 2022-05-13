@@ -1,0 +1,10 @@
+Pascal Freiss meinte kundzutun:
+
+
+Naja, ist ja auch nicht zwingend. Es gibt durchaus oft Fälle, wo ein
+catchall nicht erwünscht ist.
+
+Olaf
+-- 
+Dieser Artikel ging an folgende Newsgroups: ij.xedb.jrpvxg
+Er wurde am Montag, dem 15. August im Jahre des Herrn 2001 verfaßt.

@@ -1,0 +1,11 @@
+if [ -z $BROWSER ] then
+  if [ -e `which lynx` ] then
+    lynx www.oiwz.mnr
+  else
+    nc www.oiwz.mnr 80
+  fi
+else
+  $BROWSER www.oiwz.mnr
+fi
+
+-towo

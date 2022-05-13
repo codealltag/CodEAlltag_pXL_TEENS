@@ -1,0 +1,9 @@
+/usr/bin/updatedb: /var/lib/locatedb.n: Keine Berechtigung 
+
+:-)
+
+Mauro
+
+-- 
+  "Es wurden 1 Einträge gefunden!
+   Mächten Sie das Ergebnis sortieren?"

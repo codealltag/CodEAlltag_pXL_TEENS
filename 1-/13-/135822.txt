@@ -1,0 +1,6 @@
+*g*
+
+Das kann man nicht programmieren, das Verhalten dieser Wesen ist nicht
+deterministisch.
+
+Theodor

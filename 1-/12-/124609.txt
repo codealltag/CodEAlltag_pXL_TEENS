@@ -1,0 +1,9 @@
+* Marcus Overbeck <iayyu@plaox-ibuahs.se>:
+
+
+In dcg wurde das vor kurzem diskutiert. Man konnte sich nicht wirklich
+einigen, was nach dcsn und was nach dcg gehört und wo man das trennt.
+
+Nikolaus
+-- 
+cross veinless

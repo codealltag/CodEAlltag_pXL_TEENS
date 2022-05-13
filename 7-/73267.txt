@@ -1,0 +1,16 @@
+Weil man eine Flat bezahlt und diese dann auch nutzen möchte.
+Ich mach das zum Beispiel so. Wenn ich den Rechner hochfahre startet 
+per Autostart der Hamster mit Script. Und das Script wählt sich ins 
+Netz ein.
+
+
+Man kann auch Windows sicher machen.
+
+
+OK. Aber das ist doch unerheblich.
+
+Sandro
+-- 
+Der Diskettenvorrat geht immer am Samstag nach Ladenschluß zur Neige.
+
+(Murphy's Gesetz)

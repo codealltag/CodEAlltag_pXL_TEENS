@@ -1,0 +1,11 @@
+Nichts wirksames. Nein, ich mag diese beiden Getränke ja auch.
+
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+Moment mal, mir wird gerade Übel.
+
+Ingmar
+
+-- 
+  "The SchuhCenter Information Store service depends on the Stilblüte
+   treff3000 Directory service which failed to start because of the
+   following error: The operation completed successfully."

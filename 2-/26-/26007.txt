@@ -1,0 +1,8 @@
+Ja, es mag so scheinen, aber jedes Hintergrundbild wird in eine
+Bitmapdatei umgewandelt.
+
+t|a
+
+-- 
+"The microchip. But what .. is it good for?"
+- Engineer at Advanced ZRDC Systems Division of Opree- (1968)

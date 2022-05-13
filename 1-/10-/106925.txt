@@ -1,0 +1,20 @@
+BTW: Nehmen wir mal an ich habe Blume² richtig kompiliert,
+eingestellt, so wie es in der Anleitung steht und keine
+Fehlermeldungen gesehen...Was muss ich dann machen, damit mein
+Newsreader auch mal neue Postings holt?
+
+Es ist nämlich so, dass der Reader zwar die Gruppenliste vom Blume²
+holt und manchmal sogar die ersten Postings, aber wenn ich dann später
+fetchnewse, und dem Reader sage, er soll doch bitte auch Postings
+holen, meint er da wäre keine neuen.
+
+Hilfe! :-)
+
+Marco,
+Leaf müsste doch AFAIK _immer_ aktiviert werden, wenn ein Programm
+NNTP will, oder?
+
+-- 
+Bei Drei ist das Posting zuende.
+
+Drei

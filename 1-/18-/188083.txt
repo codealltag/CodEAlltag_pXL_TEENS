@@ -1,0 +1,10 @@
+Nicht nötig, ist ganz einfach: Erstelle mal z.B. im DOS-Editor einen ASCII- 
+Rahmen und kopiere ihn dann nach Notepad, dann kommt sowas raus -  
+eindeutig ein Problem der Konvertierung zwischen ASCII und ANSI.
+
+Axel Schiffler
+
+-- 
+Sport ist Mord!
+                                             E-Mail: mzoiwf@nbmybssxyg.zm
+---> Offizieller Kämpfer wider Guido Illhardt des Ordens von dtju <---

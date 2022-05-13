@@ -1,0 +1,7 @@
+Pseudocode. Um Genauzusein, das ist die Exception, die geworfen wird,
+wenn der User in die Tischkante gebissen hat.
+
+Gottfried
+-- 
+Ich leide nicht unter Wahnvorstellungen,
+ich geniesse sie!

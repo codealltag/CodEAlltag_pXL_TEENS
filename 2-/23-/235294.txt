@@ -1,0 +1,15 @@
+Kommt natürlich darauf an, wie lange er mit seinem Produkt schon auf
+dem Markt ist. Das Risiko, daß irgendwann ein Konkurrent auftaucht,
+der billiger produzieren kann, geht aber eigentlich so ziemlich jeder
+Unternehmer ein, so ist das Leben.
+
+
+Ja, schon. Aber freie Software != kostenlose Software. (GPL: "When we
+speak of free software, we are referring to freedom, not price.") Die
+Begriffe werden leider häufig durcheinandergeschmissen (und es ist gut
+möglich, daß mir das auch hin und wieder passiert).
+
+Viele Größe,
+     Bodo Schnetzer
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

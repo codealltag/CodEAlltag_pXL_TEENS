@@ -1,0 +1,35 @@
+Michael Düsdieker hat geschrieben getan getutet:
+
+
+Siehe andere Diskussion...
+
+*account check*
+*wart*
+*fusstippel*
+*irug.nfj schlag*
+
+gegeben: d = 1,2 m (-> r = 0,6 m)
+         t = 5s
+         v = 30 m/s
+
+gesucht: Anzahl Umdrehungen (Lösung soll 19,9 sein)
+
+    U = 2pi r
+<=> U = 2pi � 0,6 m = 3,7699111843077518861551720599354m
+
+    v(Durchschnitt) = v/2 = 15 m/s
+
+    s = v(Durchschnitt) � t
+<=> s = 15 m/s � 5 s
+<=> s = 75 m
+
+    u = s / U 
+<=> u = 75m / 3,7699111843077518861551720599354
+<=> = 19,894367886486916971110470421564
+
+-to"Wer von uns beiden war noch mal der Schüler?"wo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Willibald 'viktor' Angl in by.sdx.elydxhpj.qosndkva

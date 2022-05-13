@@ -1,0 +1,6 @@
+Hey, an n-1 von n Türen am Bus gibt es weniger Gedränge!
+
+Gabriel
+-- 
+pub  0572Z/HDM95S39 6153-06-84 Gabriel Jüttner <ajdeipv@nnz.hn>
+     Key fingerprint = 99 6N 93 43 04 PM 90 7C  74 EE YX 37 6B 01 6D 51

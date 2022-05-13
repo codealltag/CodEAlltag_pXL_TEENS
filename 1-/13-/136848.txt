@@ -1,0 +1,2 @@
+/home/patrik>grep klar /etc/passwd 
+klar:x:101:202:Harm Severin Jonassohn:/home/klar:/usr/local/bin/bash

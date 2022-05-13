@@ -1,0 +1,5 @@
+Ich brauch Partitionen die sowohl von DOS, 9x als auch NT ansprechbar 
+sind. Also FAT.
+
+
+In der aktuellen Stimmungslage könnte man so sagen ;)

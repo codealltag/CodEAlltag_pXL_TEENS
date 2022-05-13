@@ -1,0 +1,11 @@
+Fernando Schärfchen hat geschrieben getan getutet:
+
+
+Ich glaube, es gibt einen triftigen Grund, warum du EFP nicht benutzt?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Wilhelm 'ben' Schlappkohl in qw.qyb.gmbkdkjz.kyhdqnvg

@@ -1,0 +1,8 @@
+Es geht nicht um die Anzahl der Postings, sondern um deren Inhalt.
+Wenn ich 3 Postings am Stück nur mit kaputter Sprache in Form von sz
+lese, mache ich delete_subthread.
+
+Ingolf
+
+-- 
+  "Reservierter Fehler (3034), es gibt keine Meldung für diesen Fehler."

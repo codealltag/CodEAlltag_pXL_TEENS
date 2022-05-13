@@ -1,0 +1,8 @@
+Das sind zwei verschieden Timing-Angaben von verschiedenen Vorgängen,
+was natürlich schnell in die Irre führt. SDRAM hat umgerechnet ca.
+40-50ns.
+
+CU
+Carl
+-- 
+Es gibt viel zu tun, fangt schon mal an.

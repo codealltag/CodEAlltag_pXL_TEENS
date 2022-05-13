@@ -1,0 +1,9 @@
+Das sieht gut aus.
+
+Engelbert,
+allerdings solltest du dann auch mal den dazu passenden Editor
+benutzen. :-)
+
+-- 
+  "Bitte warten Sie während Setup abgebrochen wird...
+   Dies kann mehrere Minuten dauern."

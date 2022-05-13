@@ -1,0 +1,8 @@
+Dann hast du immer noch die Möglichkeit dein Bierglas draufzustellen.
+
+Fernand
+
+-- 
+ZZVW ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

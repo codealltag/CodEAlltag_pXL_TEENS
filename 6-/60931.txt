@@ -1,0 +1,5 @@
+Weil ich es noch nicht geschafft habe, die Frisurentreff-Query so zu  
+formulieren, daß bei einem Klick auf # alle Einträge mit 0-9 als  
+Anfangsbuc^H^H^Hzahl ausgegeben werden.
+
+Dieter Lippel

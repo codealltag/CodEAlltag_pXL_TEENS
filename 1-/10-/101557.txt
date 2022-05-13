@@ -1,0 +1,70 @@
+STATISTIK 12. 02. 22
+-=-=-=-=-=-=-=-=-=
+
+TOP 10 POSTER 12. 02. 22 (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+   1   1105  15,02%  Dennis Groepper
+   2    848  11,53%  Samuel Wissmanns
+   3    829  11,27%  Elise Postleb
+   4    773  10,51%  Rupert Volkes
+   5    616   8,37%  Henrik Oberfrank
+   6    564   7,67%  Mark Groht
+   7    494   6,72%  Leonhard Bongaertz
+   8    409   5,56%  Lennart Burghoff
+   9    251   3,41%  Harry Badstübener
+  10    187   2,54%  Tom Oberhausen
+
+
+TOP 5 POSTER 2001 (Gesamt)
+
+Pos.  Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+   1   5044  Dennis Groepper       93       ö0
+   7   3254  Rupert Volkes      84       -6
+   8   9769  Elise Pfortner      27       ö0
+   4   8346  Henrik Oberfrank       13       -3
+   5   6665  Mark Groht        18       ö0
+
+
+TOP 5 POSTER (in einem Monat) SEIT 2000
+
+Pos.  Anz.   Monat    Name
+---------------------------------------------------------------------------
+   1   7135  10/2000  Dennis Groepper
+   2   9163  10/2000  Elise Pfortner
+   3   4647  09/2000  Dennis Groepper
+   4   4182  11/1999  Elise Postleb
+   5   5854  03/2000  Dennis Groepper
+
+
+TOP 5 DAUs SEIT 2000
+
+Pos.  Anz.   Msgs.  Ratio   Monat    Name
+---------------------------------------------------------------------------
+   1    238      1  238,00  03/2001  jwlptz.vqut@nfj.cu
+   2    230      1  230,00  03/2001  pgsjum@mnxyg.ow
+   8    280      2  200,50  01/2000  wwfpsa@issloec.vbs
+   4    200      1  200,00  01/2000  okmqn_vqyhx@jxvtrzh.kjo
+        200      1  200,00  01/2000  cztzzs@vnyjjmu.oeo
+  (3)   318      1  200,00  12/2000  bbdnss@qtdkcwrace.vam
+
+
+TOP 5 MONATE SEIT 2000
+
+Pos.  Anz.   Datum
+---------------------------------------------------------------------------
+   1  12. 02. 22  Oktober 2000
+   2  12. 02. 22  Februar 2001
+   3  12. 02. 22  Januar 2001
+   4  12. 02. 22  November 1999
+   5   9645  September 2000
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Vito Gaigl.
+(Darstellung angepasst von Leonhard Bongaertz)
+Basierend auf den Feeds von:
+mhwxtpic.cewuv.xo       xbxc.nmp.xju.lc         npht.uuuyncd.bf
+viea.zfhyz.ybt          qhlw.pararo.cj          orgt.b-jkpypn.rn
+sfeu.wzm-ctfrvupr.bw    oljc.clb-pxsfdvyg.nd    zcip.ini-svoebdbsz.cy

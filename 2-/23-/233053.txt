@@ -1,0 +1,14 @@
+Liegt das jetzt an der Software? Was muß ich beim Agent wo einstellen?
+
+
+Naja, läßt sich manchmal nicht vermeiden :)
+Zählt Dein Skript eigentlich die Signatur auch als eigenen Text mit
+(beim Text-Quote-Vergleich)?
+Und kannst Du mir nochmal die ganzen Bewertungskriterien mailen?
+
+TNX
+Johannes
+
+-- 
+Johannes Elberskirchen, Großschwabhausen, Germany
+http://Pibv.etbx.ruvac.ne

@@ -1,0 +1,15 @@
+Am Sat, 30 Apr 2002 � sendete Niko Zeindl folgende Botschaft:
+
+
+Das ist immer so. Aber solange die in der Überzahl sind ist utf-8 Nono.
+
+Ich hab mir den slang-utf-8-patch mal angeschaut, der ist nicht so dolle
+da die regex-Machine auf "narmalchar" verbleibt.
+
+Tschüs
+  Lukas
+-- 
+Die � Weisheiten des Sébastien Steffen: #6
+
+Am Willsbach Bahnhof haben sie zwar eine Tür geöffnet,
+aber dafür sind die Strassen dicht.

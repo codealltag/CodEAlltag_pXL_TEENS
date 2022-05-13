@@ -1,0 +1,51 @@
+Eigentlich sass ich ganz unschuldig da und starrte auf ein monotones
+und monochromes Terminal ('ls' ist das einzig brauchbare, spezielle,
+was Linux je hervorgebracht hat) und dachte, dass irgendwas nicht
+stimmt. Irgendwann, waehrend die schnucklige 386SX das Basispaket aus
+NetBSD-1.5 (yeah) entpackte, fand ich die Ursache meiner inneren
+Unruhe.
+
+Seit ueber einem Monat habe ich die Tasten 'slrn' nicht mehr beruehrt.
+Vor zwei Monaten waere mir das noch als surreal erschienen; und der
+Gedanke, waehrend mehreren Wochen nicht ans USENET zu denken
+(eigentlich hatte ich den Begriff auf der
+Denk-dran-Frequenz-Hierarchie schon auf die gleiche Stufe mit einem
+angeblich bei maennlichen Menschen mindestens einmal taeglich
+gedachten Wort auf eine Stufe gehoben) haette fuer mich die
+Wiedereinfuehrung, Neudefinition und Verfolgung der Ketzerei
+gerechtfertigt.
+
+Aber erstens kommt es anders, und zweitens fallen die RAM Preise.
+Waehrend einer viel zu langen Periode war ich durch die von mir
+besuchte Bildungsstaette in einer Art beansprucht, dass ich jede
+eigentlich freie Stunde mit Arbeit oder mindestens einem schlechtem
+Gewissen verbringen musste. Danach erfolgte noch der
+jungparlamentarische Ausflug auf die Insel, wo ich mir prompt eine der
+beruehmt beruechtigten Erkaeltungen holte (schliesslich sind ja auch
+Ferien).
+
+Schliesslich nahte das Christenfest (ich habe eine Aversion gegen
+Volksfester), von dem ich mich erst mal erholen musste. Dies erfolgte
+in Form einer ziemlich tollen, zweitaegigen Jam Session (URL und mp3s
+folgen, irgendwann).
+
+Bevor ich nun endgueltig zu tief ins Real Life und irgendwelche
+Silvesterparties falle (Gott oder sonstwer behuete), hielt ich es fuer
+angebracht, fetchnews auf die Marathonprobe zu stellen und nicht so
+sehr ueberrascht 18'000 dtju unreads zu erblicken (ich habe aus
+versehen die aktuelle .jnewsrc mit einem Backup aus dem Februar
+ueberschrieben, aber so habe ich immerhin den Zusammenhang ...).
+
+Als ich dann heute auch noch mit 'find' nach leeren Disketten im
+Zimmer suchen wollte, stellte ich fest, dass die Welt wieder in
+Ordnung war.
+
+Frohe Ostern,
+Knut.
+
+P.S.: Hallo, uebrigens. ;)
+-- 
+Give me your love - No time to loose / Baby come back run away all my blues
+Light up my life, don't waste the time / I know if you are back then you are
+mine
+                                                   --ACCEPT - No time to loose

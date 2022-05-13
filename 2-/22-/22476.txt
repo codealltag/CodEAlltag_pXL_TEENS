@@ -1,0 +1,13 @@
+Es war im März 2004 als Thorsten Coninx tippte:
+
+[Wie lang dar eine MID sein]
+
+Echt? Also dann bekommt derjenige der darauf antwortet aber Probleme mit
+seinem Referenceheader, denn der darf ja auch maximal nur 999 Zeichen lang
+sein.
+
+Engelbert
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we 
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - Foke, 20. 12. 22

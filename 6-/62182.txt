@@ -1,0 +1,19 @@
+Daphne Amesöder schrieb am 30.06.2001:
+
+
+Das ist nicht das gleiche. Wenn man gleich auf eine Seite, aufgrund
+nicht passendem Browser, umgeleitet wird auf der gesagt wird, "Laden sie
+sich bitte den ..", ist das extrem ärgerlich. Man gibt dem User ja keine
+Chance zu probieren ob sein Browser die Seite korrekt anzeigt.
+
+
+Stimmt! Es geht doch nix über Feinrippunterw�sche. ;-)
+
+
+Könntest du, wenn es eine Frage sein sollte, diese so formulieren das
+ich sie auch beantworten kann. Danke.
+
+ Ingolf
+-- 
+Es gibt Leute, bei denen man im Killfile sein sollte, oder man hat
+etwas flashc gemacht. (Patrice Rittermann in nc.gve.kpz)

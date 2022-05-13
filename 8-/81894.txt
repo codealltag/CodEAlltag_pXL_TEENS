@@ -1,0 +1,15 @@
+Am Thu, 8 Mai 2001 sendete Jens Prabst folgende Botschaft:
+
+
+Aber hallo. Unleserlich^3.
+
+
+man dasr *eg*
+
+Tschüs
+  Uwe
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 11. 12. 21 Uwe Seifner <jqwlgicueb@oambhwnxwf.yb>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/B3F9CD02 11. 12. 21

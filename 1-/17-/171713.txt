@@ -1,0 +1,11 @@
+Am Sat, 4 Feb 1999 sendete Maximilian Kuhnlein folgende Botschaft:
+
+
+Darum ging es mir hauptsächlich.
+
+
+Wenn das frontend nur eine 1:1 kopie des rc's in bunt ist kann ich doch
+gleich `$EDITOR some_lame.rc' nehmen.
+
+Tschüs
+  Nicolas

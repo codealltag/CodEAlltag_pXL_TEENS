@@ -1,0 +1,9 @@
+Meist ist es nicht die Feuerwehr sondern die Nachbarn die dann gleich 
+den Aufstand proben.
+
+Otmar
+-- 
+Das, was du mit deinem Programm machen willst, 
+wird erst in der nächsten Version des Programms implementiert.
+
+(Murphy's Gesetz)

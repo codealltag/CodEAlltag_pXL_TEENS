@@ -1,0 +1,11 @@
+Remmer Vagd hat geschrieben getan getutet:
+
+
+man Lichtquelle-hinter-$OBJEKT-plazieren
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ihno 'timo' Verstraeten in hu.mkl.exzsynba.rbvehqxj

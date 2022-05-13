@@ -1,0 +1,14 @@
+lol
+
+Du kannst auch sowas tippen:
+
+10 PRINT "HALLO WELT"
+20 GOSUB 10
+
+IIRC sollte das dann irgendwann aufhoeren
+  (wenn der Speicher aufgebraucht ist - bei 64k kann das dauern :)
+
+-- 
+Paolo
+  Dadurch, daß man einen anderen ins Irrenhaus sperrt,
+  beweist man noch nicht seinen eigenen Verstand.

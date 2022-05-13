@@ -1,0 +1,11 @@
+Wenn die Child-PID bei dir 0 ist, dann nein. Sonst schon.
+
+Nein. Ein Programm ist ein Stück Code. Ein Prozeß ist dieses Stück Code,
+während es ausgeführt wird. Du bist ja auch nicht eine Menge Wasser und
+ein paar Kilo Kohlenstoff, sondern ein Mensch.
+
+mfg, 
+	Justin
+-- 
+BOFH excuse #340:
+Well fix that in the next (upgrade, update, patch release, service pack).

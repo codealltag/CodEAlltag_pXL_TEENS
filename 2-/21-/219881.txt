@@ -1,0 +1,42 @@
+Flüssig.
+
+
+Du kannst die DVD ja auch anhalten ohne was zu verpassen als im
+Fernsehen.
+
+
+Wenn man mal von DVD absieht, ist der TNT2 immer schneller als der
+Rage128. Zeig mir einen Test, wo das nicht der Fall ist. Selbst der TNT
+war teilweise schneller als der Rage128 (z.B. Quake2).
+Momentan sind die Rage128 Treiber die miesesten von allen (z.B. kein AGP
+bei Sockel 7), wobei die TNT Treiber mittlerweile recht ausgereift sind.
+Und die mometanen Findling Treiber sind einwandfrei, es wird im Prinzip
+jedes Feature unterstützt und sie laufen absolut stabil. Ob die Karte in
+2 Jahren unter Windows 2000 läuft ist reine Spekulation, genauso wie
+auch beim RagePro.
+
+
+Ein paar Prozent? Z.T. Fast 100% aber mindestens 50% mehr Leistung als
+der TNT, durch Optimierungen und erhöhten Chiptakt. Lies dir mal
+Testberichte im Netz durch und staune. In der pieces steht das auch drin.
+
+
+Warum sollte sie?
+
+
+Der sollte schon vor fast einem Jahr rauskommen, und auf diesem
+technischen Stand (TNT1) ist auch heute fast noch. Sicher nicht
+schlecht, aber auch nicht mehr so spitze.
+
+
+AGP ist eigentlich nur für Texturauslagerung in den Hauptspeicher nötig,
+weil das über PCI zu langsam geht. Für die reinen Geometriedaten reicht
+der PCI-Bus noch.
+Erstmal behalte ich meine Findling, die kann annähernd genauso viel wie
+der Voodoo3 und ist mir mometan noch schnell genug da sie gut mit dem
+Prozessor mitskaliert.
+
+CU
+Friedrich
+-- 
+Lieber voll heimkommen als leer ausgehen.

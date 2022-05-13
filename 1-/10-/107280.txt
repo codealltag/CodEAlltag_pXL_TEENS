@@ -1,0 +1,14 @@
+Und so sprach Nino Wichmann:
+
+
+Dafuer hat gestern jemand das MAkefile gelobt. ;)
+
+
+cd /usr/pkgsrc/news/slrn/ && make && make install
+
+... jep. ;)
+
+Gruss,
+Günter.
+-- 
+.  . _ ___ _  _  _

@@ -1,0 +1,9 @@
+aviplay soll ja angeblich direkt funktionieren, aber mehr als eine
+Konsole mit einigen Informationen öffnet sich nicht. mplayer ließ sich
+nicht kompilieren. :-(
+
+Olaf
+
+-- 
+  "Beim Speichern der Änderungen ist der folgende Fehler aufgetreten:
+   Der Vorgang wurde ausgeführt."

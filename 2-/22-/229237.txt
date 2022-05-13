@@ -1,0 +1,7 @@
+Nur, damit keine Mißverständnisse aufkommen: Als DTP-Programm ist
+LaTeX ziemlich ungeeignet.
+
+Viele Größe,
+     Alexandre Völlmar
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

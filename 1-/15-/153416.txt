@@ -1,0 +1,13 @@
+Oha. Zwei Fragen:
+a.) Was kostet sowas?
+b.) Was passiert, wenn man
+    10 Print "Henrik Kreuthmayr ist doof"
+    20 Goto 10
+    eingibt?
+
+Henrik Kreuthmayr
+
+-- 
+Ich hasse Ottmar Stüllein!
+                                             E-Mail: xbnmif@cfewzklonx.jc
+---> Offizieller Kämpfer wider Reginald Jurchen des Ordens von dtju <---

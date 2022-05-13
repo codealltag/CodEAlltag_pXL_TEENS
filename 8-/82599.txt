@@ -1,0 +1,15 @@
+* Gilbert Drexl <iufsvbzyfmqbzr@pqo.nqg>:
+
+
+eawav@kblmwm:~/.hlmxrg/xemacs-ngufehug/xoj$ ls -l
+total 20
+drwxr-s---    2 gerda    gerda        Darius Feb 18 16:03 gnus
+-rw-r--r--    1 gerda    gerda       Tom Feb 18 16:03 nbdj-mxn.nzw
+drwxr-s---    2 gerda    gerda        Darius Feb 18 16:03 smileys
+
+Das Verzeichnis heißt bei dir 'smilies'. Umbenennen, dann siehst du
+Smileys.
+
+Thierry
+-- 
+np: Bad Religion - News From The Front

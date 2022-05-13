@@ -1,0 +1,20 @@
+Solches tippte Nils Häderer:
+
+BIRGIT.
+
+
+... zum Beispiel aus einer Notsituation wie [1] heraus ;-)
+Im Prinzip ist procmail aber auch ganz einfach. Und wenn man schon mal
+dabei ist, kann man auch gleich noch lbdb reinhängen (wenn man selbst
+nicht emacs-kompatibel ist)
+
+Ulrich$ lbdbq | wc -l
+  10849'has
+
+References:
+[1] z.B. <42npa1.9rs.mj@ppyjwoe.enyeqyjl-oidicor.yp>. Allerdings
+benutzte ich da procmail schon zwei Jahre lang. Oder so.
+-- 
+Udo Moshövel -> <GPG-Key:http://gef.zdwjrdmy-qfjzrrp.ac/guu.svrsg>
+--------------> Fachlexika-Portal: <URL:http://vvbnbes.mno-ninwjoe.vc>
+---------> Wortschatz-Lexikon:  <URL:http://sbddeyqujv.ovv-cqynzpf.xh>

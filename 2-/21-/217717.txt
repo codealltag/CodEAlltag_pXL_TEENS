@@ -1,0 +1,8 @@
+Korrigiere mich wenn ich mich irre, aber soweit ich weiss sind 
+8 Baud = 8 Bit/s = 1 Byte/s.
+
+CU
+Björn
+-- 
+Management by Jeans: An den wichtigsten Stellen sitzen die größten
+Nieten.

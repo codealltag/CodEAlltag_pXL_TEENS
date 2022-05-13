@@ -1,0 +1,15 @@
+Irgendwie glaub ich nicht, dass da was interessantes passiert...
+
+Aus dem Changelog von 6.3.19:
+
+140992: no more IHAVE since it doesn't work on most servers anyway
+
+Das ganze sieht BTW so aus, wenn man mal entsprechend mit ihm redet:
+
+
+Albin
+-- 
+Ein OE Benutzer trägt quasi ein Schild um den Hals. "Mir ist doch egal,
+ob andere Probleme mit meinen Postings haben, Hauptsache ist, ich kann
+mal eben rumklicken". JANICKI erfüllt für den geneigten Leser damit dieselbe
+Aufgabe wie die Glocke eines mittelalterlichen Leprotikers. (RSS)

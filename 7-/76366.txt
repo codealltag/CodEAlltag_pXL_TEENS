@@ -1,0 +1,32 @@
+Am Fri, 27. 09. 22 sendete Mathäus Nowarra folgende Botschaft:
+
+
+*rgs*
+
+#v+
+felix: ~$grep crontab /etc/ppp/ip-up
+    crontab -u root /root/cron/online
+felix: ~$su
+Password:
+root: /home/felix#cat /root/cron/online
+SHELL=/bin/bash
+
+*/15 * * * * /usr/sbin/scripts/akn+m >> /var/log/poll 2>&1
+3 */1 * * * /usr/sbin/scripts/aktime >> /var/log/poll 2>&1
+*/15 * * * * /usr/sbin/scripts/akuucp
+root: /home/felix#cat /root/cron/offline
+SHELL=/bin/bash
+
+# nix is.
+root: /home/felix#exit
+felix: ~$grep crontab /etc/ppp/ip-down
+crontab -u root /root/cron/offline
+felix: ~$
+#v-
+
+Tschüs
+  Tino
+-- 
+Die Weisheiten des Berthold Jup: #5
+
+Winkis Chilli rockt.

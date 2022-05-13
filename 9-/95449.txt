@@ -1,0 +1,4 @@
+<kleinlich>
+*meep* 
+Weder Linux noch BSD sind UNIX. Beide sind POSIX kompatible Unixderivate. 
+</kleinlich>

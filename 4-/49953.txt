@@ -1,0 +1,12 @@
+Hallo Bernhard Tannhoff
+
+
+Naja[tm], zumindest in PHP ist es so...
+
+MfG Oscar
+
+-- 
+"Near Letter Quality" heißt, daß ein Drucker etwas auf's Papier bringt, das
+so ähnlich wie Buchstaben aussieht.
+
+(Murphy's Gesetz)

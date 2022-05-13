@@ -1,0 +1,7 @@
+Ich vergebe Plus- und Minuspunkte für Postings, und die Regeln dafür
+stehen in den Scorefiles. Alles, was eine negative Summe hat, wird
+automatisch als gelesen markiert.
+
+Jérôme 
+-- 
+So auf Kommando geht DAS nicht! [Georg]

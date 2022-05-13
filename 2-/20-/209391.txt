@@ -1,0 +1,46 @@
+"Pretty Good Privacy", ein bekanntes Verschlüsselungsprogramm.
+
+Der Verschlüsselungsalgorithmus selbst basiert darauf, daß sich große
+Primzahlen zwar leicht miteinander multiplizieren, die Zahl aber nur
+schwer wieder in ihre Primfaktoren zerlegen läßt. Bei geeigneter
+Schlüssellänge ist die Codierung mit bekannten Mitteln nicht in relevanter
+Zeit zu knacken - auch durch staatliche Stellen mit entsprechenden
+personellen und finanziellen Ressourcen nicht. Daher beliebt nicht nur bei
+Firmen und Privatanwendern für schätzenswerte Daten, sondern auch bei
+Paranoikern, die glauben, staatliche Stellen seien hinter ihnen her, weil
+Regierungen ja grundsätzlich böse [tm] sind, und bei Straftätern. Aus
+letzterem Grunde (auch wg. der militärischen Wichtigkeit von
+Verschlüsselungssystemen) durfte PGP eigentlich nicht aus den USA
+exportiert werden -- man hat aber dennoch Schlupflöcher dafür gefunden.
+Außerdem kommt immer wieder eine sog. "Kryptoregulierung" ins Gespräch.
+Damit sind Vorschriften gemeint, die starke Verschlüsselungen entweder
+verbieten oder die Hinterlegung des Schlüssels bei einer staatlichen
+Stelle fordern.
+
+PGP ist darüber hinaus ein unsymetrisches Verschlüsselungssystem, d.h. es
+gibt zwei Schlüssel: einen privaten (geheimen) und einen öffentlichen. Den
+öffentlichen Schlüssel kann (und soll man) beliebig verbreiten. Mit diesem
+Schlüssel kann man Daten an den Besitzer des Schlüsselpaares
+*ver*schlüsseln; *ent*schlüsseln lassen sie sich dann nur noch mit dem
+passenden privaten Schlüssel. Das macht die Anwendung von PGP sehr bequem:
+man muß mit seinem Partner nicht irgendwelche Paßwörter austauschen (mit
+der Folge, daß dann alle Kenner dieses Paßwortes die Kommunikation
+mitlesen können), sondern kann seinen öffentlichen Schlüssel über das Netz
+bekannt machen. Wichtig ist nur noch (für den Absender), zu überprüfen, ob
+der Schlüssel auch wirklich dem gehört, dem er zu gehören scheint -- wie
+man das macht, führt hier aber etwas weit.
+
+Aus dem Zwei-Schlüssel-System resultiert noch eine andere, zum. IMHO noch
+wichtigere Möglichkeit: mit dem privaten Schlüssel lassen sich Texte
+signieren (quasi elektronisch unterschreiben). Diese Unterschrift ist
+ebensowenig zu fälschen wie die Verschlüsselung zu brechen ist, und sie
+läßt sich jederzeit mit dem öffentlichen Schlüssel kontrollieren. Damit
+läßt sich also besser als mit jeder Papier-Unterschrift die Herkunft eines
+Textes beweisen. So werden bspw. Control-Messages im Usenet zur
+Einrichtung neuer Gruppen etc. signiert; wenn ein Newsserver vor
+Ausführung des Befehls die Signatur kontrolliert, kann er sichergehen, daß
+die Control-Nachricht kein Gag ist, sondern wirklich von einem befugten
+stammt.
+
+Gruß,
+Hugo

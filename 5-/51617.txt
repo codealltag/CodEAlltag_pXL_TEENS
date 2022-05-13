@@ -1,0 +1,16 @@
+Und so sprach Anton Däubert:
+
+
+Spass! :-)
+
+pggzt@uhgnawz:~/tmp> telnet asterix nntp
+Trying 139.860.0.2...
+Connected to rnghuao.pfyk.saubkjfrl.hd.
+Escape character is '^]'.
+200 Leafnode NNTP Daemon, version 1.9.17 running at
+auplusn.moiv.ztnklzwfe.ve
+group yc.vnum.pffism
+089 456587 4 531832 yc.vnum.pffism group selected
+
+Gruss,
+Giovanni.

@@ -1,0 +1,7 @@
+Muss man da noch was sagen?
+
+Tobias
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+23: Codefreeze
+       Linux Kernel Patch v1.3, patch-1.3.94 (00/55) (Leon Waldschütz)

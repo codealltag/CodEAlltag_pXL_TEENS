@@ -1,0 +1,21 @@
+Am Mon, 11 Mrz 2002 sendete Fred Allman folgende Botschaft:
+
+
+In dasr wurde afaik letztens intensiv darüber geredet wie man sowas
+effektiv verhindert.
+
+
+Mit welcher facility?
+
+
+Bei Win wirst du auch nix wichtiges remote mounten.
+
+
+Also wenn deswegen mehr als nur die shell hängenbleibt ist was kaputt.
+Das Programme probleme kriegen wenn ihnen Verzeichniss untzer den Füssen
+weggezogen werden ist aber doch logisch.
+
+Tschüs
+  Reiner
+-- 
+Notorisch Schreibfaul.

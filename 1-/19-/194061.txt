@@ -1,0 +1,29 @@
+D:\>mem
+
+
+    654336 Byte Gesamtspeicher
+    654336 Byte verfügbar für DOS
+    631296 gr��tm�gliche Programmgröße
+
+   2473984 Byte EMS-Speicher
+   2097152 Byte freier EMS-Speicher
+
+   2031616 Byte XMS-Speicher
+   2031616 Byte verfügbarer XMS-Speicher
+         0 Byte zusammenhängender EMS-Speicher verfügbar
+           DOS resident im HMA (High Memory Area)
+           HMA (High Memory Area) in Benutzung
+
+D:\>ver
+
+Version 4.00 des Operating System/2 wird verwendet
+
+D:\>
+
+
+Wenn ich den CAPI-Treiber rauswerfe, haette ich noch 608 B mehr...
+  :-)
+
+-- 
+Berend
+"It is better to die on your feet than to live on your knees."

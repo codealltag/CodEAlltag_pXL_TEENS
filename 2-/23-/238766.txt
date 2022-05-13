@@ -1,0 +1,28 @@
+Das kommt wirklich darauf an, was man machen will.
+
+Ich will einen falsch deklarierten Artikel lesen? Unter Windows setze
+ich mich hin, exportiere den Artikel, wurschtele darin herum und
+importiere ihn wieder. Unter Linux pipe ich ihn an Metamail und lese
+ihn ganz einfach. Benutzerfreundlich.
+
+Ich will 100 Dateien in ein anderes Format konvertieren? Unter Windows
+setze ich mich bei den meisten Programmen ein Stündchen hin, öffne
+jede Datei einzeln und speichere sie neu ab. Unter Linux schreibe ich
+eine kleine FOR-Schleife hin, schicke den Job in den Hintergrund und
+lese in der Stunde News. Benutzerfreundlich.
+
+Ich will eine Statistik über die Poster in de.talk.jugend erstellen?
+Unter Windows gehe ich im Netz nach einer Software suchen, die das
+kann und mit meinem Newsreader kompatibel ist. Wenn es so etwas gibt,
+lade ich es herunter und hoffe, daß sie funktioniert und nicht
+virenverseucht ist. Schließlich und endlich komme ich irgend wann
+einmal an die gesuchten Daten. Unter Linux gehe ich nach
+'/var/spool/news/de/talk/jugend/', hänge ein paar Standardbefehle
+hintereinander und bekomme das Gesuchte geliefert. Benutzerfreundlich.
+
+Soll ich weitermachen? :-)
+
+Viele Größe,
+     Raphael Isernhagen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,2 @@
+Ich würde mal annehmen, das heute wohl so ziemlich aller Usenettraffic 
+über TCP/IP Netzwerke geht, insofern wohl schon.

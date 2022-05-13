@@ -1,0 +1,4 @@
+Erst vor kurzer Zeit (ein paar Jahrhunderte) haben die Banken ein Feature 
+eingeführt, mit dem man Geld von einem Konto zu einem anderen übertragen 
+kann. 
+Heute nennt man das z.B. "Überweisung".

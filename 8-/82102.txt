@@ -1,0 +1,12 @@
+Am Tue, 26 Jan 2001 sendete Jörn Ull folgende Botschaft:
+
+
+Eben, drum ists ja auch kein ISP.
+
+Tschüs
+  Wolfram
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 02. 09. 21 Wolfram Tempelhahn <fpqhovfzld@mlidbbapxw.bo>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/B3F9CD02 02. 09. 21

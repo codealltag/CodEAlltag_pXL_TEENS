@@ -1,0 +1,10 @@
+Also gut. Ich kann ein While-Programm schreiben, das die
+Steine-Werf-bis-getroffen-wird - Funktion berechnet, also ist f(x)
+rekursiv.
+
+Oder anders.
+mfg, 
+	Viktor
+-- 
+BOFH excuse #432:
+Borg nanites have infested the server

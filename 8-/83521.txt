@@ -1,0 +1,21 @@
+Interessiert mich auch... (höhere) Handelsschule? Hatte sowas ^
+erst im zweiten Durchgang 10-12.
+
+
+H? Anscheinend bin ich da durch meinen häufigen Schul(system)wechsel
+prima dazwischen durchgeh�pft... Naja bis jetzt hab ich ein Ratio von
+7 Bewerbungen, 3 Vorstellungsgesprächen, 1 Ausbildungsplatz und 1 Job.
+Und das ohne in der Schule je Bewerbungen geschrieben zu haben.
+
+
+Ack.
+Kommen(kamen) aber auch in der BS (zumindest im IT-Bereich) aber auch zu
+kurz im Sinne von Anfang 10, aber später nicht mehr wiederholt wenns
+"Richtung neuer Arbeitgeber/Wahres Leben[tm]" geht.
+
+Ralf
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+tent_counter)->get(@input_content_keys[$input_content_key_counter])->as_scalar()

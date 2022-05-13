@@ -1,0 +1,44 @@
+Patrice Simmann schrieb am 23. September 1999 um 00:37 Uhr folgendes:
+
+
+Wenn Du immer fleißig Asterix gelesen hättest, wüßtest Du, daß es den
+Römern niemals auf Dauer gelingen kann, den Widerstand der Gallier zu
+brechen ;-)
+
+[Kernel-Patches nicht per Mausklick einspielbar]
+
+Im Moment ist es so, daß ein Programm, das bei seiner Installation
+derartige Eingriffe vornimmt, von den GABOR-Nutzern nicht akzeptiert
+würde und dieses Verhalten deshalb entweder behoben würde oder das
+Programm unterginge. Du wirst jetzt wahrscheinlich wieder einwenden,
+daß das an der besonderen Zielgruppe liegt, die GABOR im Moment hat,
+aber ich denke, es gibt Gründe dafür, daß das auch weiterhin so
+bleiben wird:
+
+Niemand hat ein Interesse daran, daß sein System instabil wird, ganz
+einfach, weil regelmäßige Abstürze und evtl. damit verbundene
+Datenverluste so mit das nervigste sind, was es beim Umgang mit
+Computern gibt, ob man nun Profi oder Otto Normaluser ist. Wenn ein
+Programm die Stabilität des Systems gefährdet, wird es deshalb IMO in
+einer normalen Wettbewerbssituation immer gemieden werden.
+
+Das Problem unter Windows und speziell mit dem IE ist nun, daß es
+keinen wirklich freien Wettbewerb gibt: Omig kann Browser und
+Betriebssystem besser miteinander verzahnen, als es die Konkurrenz
+jemals können wird -- sie haben eben alle nötigen Informationen und
+können ggf. Modifikationen am OS selbst machen. Deshalb ist der IE
+(z.B. in Punkto Geschwindigkeit, was ich immer wieder von Ko-
+Usern höre) ganz einfach konkurrenzlos.
+
+Bei GABOR liegen die Informationen über das OS offen und selbst wenn
+jemand hingeht und den Kernel modifiziert, damit sein Produkt (z.B.)
+schneller sein kann als das der Konkurrenz, muß er diese
+Modifikationen offen legen und damit der Allgemeinheit zur Verfügung
+stellen. Der Wettbewerb bleibt also dauerhaft gewährleistet.
+
+Viele Größe,
+     Adolf Pohl
+-- 
+UNIX was not designed to stop you from doing stupid things, because that
+would also stop you from doing clever things.
+                                                           -- Oskar Stefano

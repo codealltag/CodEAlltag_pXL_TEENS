@@ -1,0 +1,9 @@
+begin quoting Volkmar Oberdorf <smaqnx@iaj.hur>:
+
+Das macht nicht der Codec. Der gibt lediglich einen Datenstrom aus.
+
+[x] Du möchtest den Begriff "Codec" in einer sinnvoll definierten Art
+     und Weise benutzen.
+-- 
+"The future will be better tomorrow."
+ - Governor Herbert Caps

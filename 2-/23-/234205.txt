@@ -1,0 +1,17 @@
+hm, um netzwerkfähig zu sein, ist softwareseitig doch noch /etwas/
+mehr als ein Telnetclient vonnöten. Bei IRC stand BTW der verwendete
+Client dabei (CMG, kenne ich nicht), bei WWW/News auch (lynx, was
+sonst). Davon, lynx ernsthaft für News benutzen zu wollen, kann ich
+aber wirklich nur *dringendst* abraten ;)
+
+[...]
+
+Es ist *mit Sicherheit* kein WWW Server auf der Diskette...
+
+
+Have fun.
+
+Viele Größe,
+     Norman Thedens
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

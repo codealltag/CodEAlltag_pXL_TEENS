@@ -1,0 +1,9 @@
+* Karsten Nagls <ymyfxndiii@movhipgwnm.qj>:
+
+
+Besteht denn die Chance, dass der slrn-Maintainer (Fredy Nauhaus?) das
+einbaut?
+
+Ingmar
+-- 
+np: Korn - Predictable

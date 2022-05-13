@@ -1,0 +1,5 @@
+Warten wir gespannt auf den 02.08.
+
+Wolfram
+-- 
+np: /bin/bash: ./xmms_np: No such file or directory

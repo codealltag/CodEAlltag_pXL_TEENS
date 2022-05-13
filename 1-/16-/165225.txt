@@ -1,0 +1,36 @@
+Benjamin 'sSXP' Willam <oMIQ@lcs.szv> schrieb in im Newsbeitrag:
+40-34-33.21-83-47.zpd.7715@uwqr.wj...
+
+Für ein
+grep OE
+würde es ziemlich sicher reichen...
+
+
+Naja. Manche Leute unterstellten mir das auch mit Gravity ständig, also was
+soll's...
+
+
+Wüsste nicht, wie man's einfacher haben könnte. GUIs kann auf jeden Fall
+selten anständig automatisieren.
+
+
+Nicht wirklich. Vor allem nicht, weil es mittlerweile für alle wichtigen
+Unixdaemons wirklich brauchbare GUIs gibt.
+
+
+TINI.
+
+
+Schon bei zwei oder drei PCs lohnt sich's. Bei grösseren Netzen kommen dann
+immer mehr Aufgaben in den Bereich, wo Automatisation angesagt ist...
+
+
+Meiner war mit 25000 Postings/Gruppe immer hoffnungslos überfordert....
+
+
+TINI.
+
+mit
+
+Nicht wirklich. Auch bei zwei oder drei Accounts pro Woche spart das ganz
+gewaltig Zeit und vor allem Nerven..

@@ -1,0 +1,11 @@
+man sollte sein board nicht ohne abstandshalter auf der metallplatte an der
+towerr�ckseite montieren. (das hat ein bekannter von mir geschafft ->
+nagelneues board war hinüber) ;-o
+
+mfg
+    severin
+
+-- 
+Severin Voßkämper  -  eMail: oxvnwo@kkw.kiclm.by
+IRCNet: ^Spooky    -         mlemfs@klg.mwajofjz.ol
+          --  http://axw.ptr.dtswl.at/ --

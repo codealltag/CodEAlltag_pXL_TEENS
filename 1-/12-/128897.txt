@@ -1,0 +1,17 @@
+* Gernot Johnnsson <spbf@oivkvnct.wp>:
+
+
+,----[ ~/.cugp ]----
+`--------
+
+Biddesch�n.
+
+
+Ich fand es ziemlich ungewohnt, aber man gewöhnt sich daran.
+
+
+Ack; macht Spaß, im Quellcode rumzupfuschen. :)
+
+Otmar
+-- 
+cross veinless

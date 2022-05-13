@@ -1,0 +1,3 @@
+Pagliarini als default ist auf einem P133 mit 32MB nicht wirklich lustig...
+
+Hau "Swappen schon beim Start von X" ke

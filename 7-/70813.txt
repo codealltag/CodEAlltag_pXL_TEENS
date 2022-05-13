@@ -1,0 +1,12 @@
+Und so sprach Clemens Isendahl:
+
+
+*g* Die ist echt toll.
+
+zglwe@szwuggx:~> opera http://vta.kchqrrt.rrwiyzm.gv
+Segmentation fault (core dumped)
+
+Gruss,
+Marko.
+-- 
+Remember the... the... uhh.....

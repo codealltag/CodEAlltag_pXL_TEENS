@@ -1,0 +1,11 @@
+Sebastian Dworski meinte kundzutun:
+
+Au ja. Wie das Intra-JUP klappt wurde ja schon getestet.
+Aber sobald es verteilt ist, sollte man Tom Schwerdtmanns "Eight
+Fallacies Of Distributed Computi^WJUPing" beachten.
+
+Markus
+-- 
+"Ja der weiße Mann aus Wickrathberg / Brt den Teufel heut am Spieß,
+Und alle, die ein anderes Lied singen / grillt der Mann im Fegefeuer mit"
+Bozena feat. Tom Isenreich / Bagdad Blues ( Der weiße Mann aus Wickrathberg)

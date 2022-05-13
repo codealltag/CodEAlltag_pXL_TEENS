@@ -1,0 +1,18 @@
+Muß am Betriebssystem liegen:
+C:\XP>make love
+
+Microsoft (R) Program Maintenance Utility   Version 1.50
+Copyright (c) Zisler Corp 1987-93. All rights reserved.
+
+MAKE : fatal error V6696: don't know how to make 'love'
+Stop.
+
+C:\XP>_
+
+Remmer Schelpeper,
+wie der Herr, so is G'scherr
+
+-- 
+Der Pessimist hat immer recht.
+                                             E-Mail: fyecya@kxqmsgsmcg.so
+---> Offizieller Kämpfer wider Maximilian Imker des Ordens von dtju <---

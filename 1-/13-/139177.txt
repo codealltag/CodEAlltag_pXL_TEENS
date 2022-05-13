@@ -1,0 +1,6 @@
+Energiemonitor. Hab ich seit ~1/2 Jahr für eine Langzeitmessung vor 
+meinen PC geschaltet. Zeigt von der Netzspannung über den aktuellen 
+Verbrauch bis zu den geschützen Kosten für d/m/y alles an.
+
+
+Muß ich vielleicht mal nachmessen. Ich vergess' das aber immer...

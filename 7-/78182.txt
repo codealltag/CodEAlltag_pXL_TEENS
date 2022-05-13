@@ -1,0 +1,37 @@
+WARNING! A trojan has been found in an article posted to
+the following newsgroup(s):
+ alt.config, dt.jhtu.sjzeovx, um.deph.cyjqld, oj.nidc.lvybvgftu,
+ yf.juzt.mavb
+
+Message header follows:
+
+
+Dr Riester FindVirus/VirusScan report follows:
+
+ Dr Riester FindVirus IN-HOUSE version. Copyright (c) 1998 Malereifachbetrieb Inc.
+ Virus data file v9999 created 25. 09. 21
+ Scanning for 59109 viruses, trojans and variants.
+
+ [HTML part] ... Found the JS/Loop trojan !!!
+
+You can download a free evaluation (yet fully functional) copy of
+the latest released version of Dr Riester FindVirus/VirusScan from
+the following locations:
+
+ WWW: http://wjs.lqh.xfb/cxvbudrns/iet-bip/auq/dpnughah-sabuv.mtb
+ Biohofladen: GO Eseti or GO JUP
+ Pfennigland: SAFETYONLINE
+
+IMPORTANT! The trojan has been detected by the latest IN-HOUSE version of
+Dr Riester FindVirus/VirusScan. As new viruses and trojans appear at the rate
+of several hundreds a month, the latest RELEASED version of FindVirus/VirusScan
+might be unable to detect this particular trojan. If you have downloaded the above
+file and your copy of FindVirus/VirusScan does not detect the trojan in it,
+contact Network Associates Technical support and ask for the extra driver
+to detect the JS/Loop trojan.
+
+--
+Dr Riester Virus Patrol                UK Support: lznmgvx@wnrjzsswe.wzk
+Magro Pondor         US Support: acmfmat@fnu.drd
+WWW: http://ubp.ayqxhdt5p.arh                  UK Tel: +07 (6) 1187 980272
+Biohofladen: GO Eseti                          USA Tel: +2 707 752-2147

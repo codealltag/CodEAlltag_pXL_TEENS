@@ -1,0 +1,23 @@
+Solches tippte Vincent Freriks:
+
+Völlig. $Bekannter von $Bekanntem betreibt so einen Forenserver mit
+ca. 20.000 Foren. Alles perl + flat-text Files.
+
+
+Auch das geht problemlos ohne Zettelkasten. überhaupt habe ich in
+letzter zeit erfreulich oft Probleme mit Standardtools wie grep und
+etwas Hirnschmalz gelöst, anstatt komplizierete Datenbanken mit
+reinzubauen, die dann hundertmal langsamer waren.
+
+
+Zu viel Zeit? ;-)
+
+
+Es lohnte sich...
+
+Reiner
+-- 
+Roberto Zumwald -> <GPG-Key:http://sim.slqkewrm-hdhzytj.em/wox.aggik>
+Whatever that hurts -----> <http://aab.iasodzdy-csqiuso.es/cyzqf.hfq9>
+----------> Wortschatz-Lexikon: <URL:http://qofnlagxht.uoj-slzryje.gd>
+<URL:http://fofjqum.duy-uxhomhd.mm>   <URL:http://foht.vtp-lngnctp.ar>

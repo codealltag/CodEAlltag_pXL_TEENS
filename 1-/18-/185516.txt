@@ -1,0 +1,22 @@
+Lars Lenhardt schrieb am 13. Januar 1999 um 19:41 Uhr folgendes:
+
+[quick and dirty]
+
+Ich will ja gar nicht bestreiten, dass es 'quick and dirty'-Programme
+auch unter Linux gibt. Besonders gut leiden kann ich entsprechende
+Software trotzdem nicht und meide sie eigentlich, wann immer es
+möglich ist (d.h. ich schaue mich in dem Fall erst nach einem
+alternativen Projekt um, bevor ich Patches schreibe und einschicke).
+
+
+Tja, aber wie deckst du die Situationen ab, wenn der Benutzer hingeht
+und das Fenster vergrößert? Oder für die Buttons / Labels eine andere
+Schriftart/grüße nimmt? resize-Event abfangen und darin
+Pixelschieberei betreiben und den entsprechenden Code bei jeder
+Änderung der Oberfläche anpassen?
+
+Viele Größe,
+     Ingolf Ueberdick
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

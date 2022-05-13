@@ -1,0 +1,9 @@
+Er hätte noch die Möglichkeit, auf sigs zu verzichten wenn er keine
+Zusatztools installieren darf...
+
+
+Hm. http://ds-mem.gs sei Henning ans Herz gelegt. Da steht auch wie man
+die Zeilenbreite breit machen kann und dann von Hand die Umbrüche macht
+und so KQ vermeidet.
+
+Valerius

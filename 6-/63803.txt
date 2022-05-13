@@ -1,0 +1,13 @@
+Und so sprach Ingo Vomend:
+
+
+#v+
+IF Bedingung THEN
+   Anweisungen
+END
+#v-
+
+Gruss,
+Chr "Oberon-Style" is.
+-- 
+We are crazy!

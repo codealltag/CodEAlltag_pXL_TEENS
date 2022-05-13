@@ -1,0 +1,48 @@
+Olaf Römlinghoven schrieb am 19. August 1999 um 14:09 Uhr folgendes:
+
+["Dummes" Verhalten bei Menschen; Beispiel: ein Arbeitnehmer verliert
+infolge überzogener Lohnforderungen seinen Arbeitsplatz]
+
+
+Nehmen wir an, Du bringst den Arbeitnehmer in Deinem Beispiel dazu,
+"über seinen Tellerrand zu schauen" und sich "klug" zu verhalten. Du
+machst ihm verständlich, daß ein Arbeitgeber nur dann Arbeitsplätze
+beibehalten (und möglicherweise sogar neue schaffen) kann, wenn die
+Kosten für den Faktor Arbeit nicht so groß sind. Folglich steckt er
+seine Lohnforderungen zurück.
+
+Der Arbeitgeber macht sich nun daran, sein angeschlagenes Unternehmen
+wieder in den Bereich der schwarzen Zahlen zu bekommen. Dazu ist es
+nötig, die Effizienz seiner Produktion zu erhöhen - kein Problem,
+schließlich kann er mit dem eingesparten Geld Investitionen tätigen,
+um Abläufe zu optimieren (Einsatz von Technologie - bessere Maschinen,
+Computer etc.).
+
+Nach wenigen Jahren macht das Unternehmen dank des "klugen" Verhaltens
+von Arbeitgeber und -nehmer wieder kräftig Gewinn. Der Arbeitnehmer
+ist allerdings seinen Job los, denn durch den Einsatz der neuen
+Technik ist seine Arbeitskraft in dem Betrieb überflüssig geworden.
+Das Resultat ist (für ihn) exakt das gleiche, wie wenn er (aus Deiner
+Sicht) "dumm" handelt.
+
+Für mich stellt sich damit die Frage, ob die Probleme, denen wir heute
+begegnen, tatsächlich damit zu lösen sind, daß man an die "Klugheit"
+des Einzelnen appelliert; ob im Moment die Möglichkeiten des
+Einzelnen, mit seinem Verhalten seine eigene Zukunft zu bestimmen,
+überhaupt ausreichend sind, oder ob wir einen (ich weiß, der Ausdruck
+jetzt ist sehr abstrakt) gesellschaftlichen Wandel brauchen, um die
+momentanen Probleme lösen zu können.
+
+So ein Wandel kann natürlich nicht von einer Regierung beschlossen
+werden; trotzdem ist deren Arbeit IMO ein wichtiger Faktor dabei.
+Leider hat sich die momentane Regierung als unfähig erwiesen, in
+dieser Hinsicht echte Änderungen durchzuführen. Ob das mit einer
+konservativen Regierung besser würde, wage ich ebenso zu bezweifeln.
+
+Viele Größe,
+     Christof Ilinseer
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

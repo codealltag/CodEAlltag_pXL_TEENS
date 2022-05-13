@@ -1,0 +1,12 @@
+Am Thu, 25 Jun 2001 sendete Erich Mitak folgende Botschaft:
+
+
+Wenn ich aber erstmal überlegen muss welche englische Fehlermeldung
+gemeint ist, oder ich mir nur denke "So hätte ich das aber nie
+übersetzt" kann man zumindest mal kritisch nachfragen. Und diese
+Lokalisierung taucht ja leider auf da auf wo man se nicht vermutet.
+
+Tschüs
+  Robin
+-- 
+Brezelstube-Light, Milch-Light, Light-Käse, Leitkultur.

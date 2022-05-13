@@ -1,0 +1,11 @@
+Netwerke können einen echt in den Wahnsinn treiben. Bei mir war das
+Problem, dass IIRC der Workgroup-Name bei allen gleich sein musste,
+aber so genau weiss ich das auch nicht mehr. Als Subnet-Mask hatte ich
+255.255.255.0 eingetragen, aber es könnte sein, dass du diesen Eintrag
+gar nicht brauchst, aber sicher ist sicher.
+
+CU
+Ingo
+-- 
+Lebe so als sei jeder Tag dein letzter - 
+eines Tages wirst du recht haben.

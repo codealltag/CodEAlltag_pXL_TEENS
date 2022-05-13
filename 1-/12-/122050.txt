@@ -1,0 +1,8 @@
+Wenn ich das so richtig sehe, macht der Regex auf den Teil ohne das
+"Re:" oder "RE:"  (oder Andere Kombinationen aus den vier
+Buchstabenvarianten) und trifft dann zu, wenn der restliche Text im
+Subject keine Kleinbuchstaben enthält.
+
+Mario
+-- 
+Lass DAS, Tanja wird schon ganz rot.[Oswald]

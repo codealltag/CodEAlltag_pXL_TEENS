@@ -1,0 +1,10 @@
+N, logisch das. Du hast bestimmt in den Einstellung unter "Seriell/IR"
+dort "IR" eingestellt. Stell es mal auf Cradle, dann müsste es tun.
+Musst es halt nur wieder umstellen wenn du via IR per Handy ins Netz
+willst.
+
+Thomas
+-- 
+Schwarze Löcher entstanden, als Gott eine Division durch Null durchgeführt hat. 
+übrigens: Der Vatikan hat jetzt für seine Marine sechs Kirchenschiffe bestellt. 
+Und am 8. Tag sagte Gott: Okay Heiko, Du kannst jetzt übernehmen!

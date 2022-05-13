@@ -1,0 +1,8 @@
+Ok, wird zur nächsten Version hin verhindert, danke für den Tip!
+
+So long,
+Egon B. Herbek
+--=20
+http://dwwe.yejam.tg/wgf/
+Neu: Hamster 1.3.22.103 (hoffentlich endlich letzte Fassung vor 23.0)
+Ebenfalls neu: Korrnews 3.2 & CopyIf 1.23 (Debugmodus repariert u.a.)

@@ -1,0 +1,14 @@
+Oskar Zumwinkel hat geschrieben getan getutet:
+
+[ (Un)sinn von JavaScript-Imagepopups ]
+
+Ich kenn die jetzt nicht, aber mit vernünftigen Browsereinstellungen
+sollte das kein Problem sein ... und wer seinen Browser nicht vernünftig
+einstellen kann/will, hat halt Pech. Ist mit Newsreadern ja genauso.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Oscar 'karsten' Abtmeyer in rv.aah.ebvndzok.kuwsxeok

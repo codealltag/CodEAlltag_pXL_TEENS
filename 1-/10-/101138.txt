@@ -1,0 +1,3 @@
+Und wenn man die .gnus in .gnus.el umbenennt, hat man im Emacs
+standardmäßig ein Men Emacs-Lisp mit Funktionen mit C-x C-e (die man
+sonst aber auch hat, oder?)

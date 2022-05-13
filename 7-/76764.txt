@@ -1,0 +1,10 @@
+Aleco ist irgendwie ...fies. Frisst Speicher ohne Ende, frisst
+Performance ohne Ende, frisst Platz ohne Ende auf dem Monitor, frisst
+Platz ohne Ende auf der Platte.
+
+
+crontab.
+
+Hubert, hat das ganze über Lockfile und crontab gelöst.
+-- 
+There's no future in time travel

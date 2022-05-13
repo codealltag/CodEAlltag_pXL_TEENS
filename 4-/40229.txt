@@ -1,0 +1,9 @@
+Ich hab ca 50 NGs, im minmierten Zustand hab ich auch nur 1,3 MB, aber wenn
+ich Online - Alle Server wähle, werden diese NGs auch von 3 Servern geholt,
+und dazu kommt eine semi-binaries lastige, private Talk NG mit so 800-900
+Postings am Tag. Dann kriege ich 26MB Speicherlast.
+-- 
+"Son, a woman is like a beer. They smell good, they look good, you'd step
+over your own mother just to get one! But you can't stop at one. You wanna
+drink another woman!"
+  -Valerian Bartelmeß

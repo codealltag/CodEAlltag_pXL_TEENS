@@ -1,0 +1,37 @@
+Marc Inderdühnens <nwpnyoo@sch.iu> wrote:
+
+[X-Server und nur Probleme]
+
+Bei mir flimmerte es nur, kommentarlos.
+
+
+Same here. Na gut, zu meiner ersten Reuterpassage Haifischbar Installation hab ich mir
+schon mal das Handbuch angeguckt, aber wenn man einmal so anfängt,
+dann macht man alles nach dem Buch und begreift am Ende doch nix. Und
+das ist nicht der Sinn des Ganzen.
+
+
+Naja, wenn ich noch soviel Zeit hätte, die Guhl wirklich _komplett_ zu
+lesen, dann würde ich mit der Zeit was anderes machen, nur nicht Guhl
+lesen. <g> Ein Teufelskreis. :)
+
+
+Warum ne Verbesserung einer Krücke benutzen, wenns einen Benz dafür
+gibt? :)
+
+
+Gut, da kann natürlich alles andere abstinken. Aber der WinCommander
+ist auch sehr schnell, wahrscheinlich liegt es daran, das sein Kern
+noch zu 16Bit Zeiten entwickelt wurde. Und eine so reibungslose
+FTP-Integration wie beim WinCommander liefert wirklich kaum ein Tool.
+Beispielsweise nutze ich im Dasobe, wenn ich Files verschieben will, die
+ich vorher unter Linux irgendwie bearbeitet, gezogen, Benutzerrechte
+geändert oder sonstwas habe, immer Win und den WinCommander, weils
+einfach geht und elegant. Ist eine Lebenseinstellung, dieser
+Commander. :)
+
+
+-- 
+sSXP 
+       "Eine Spezies, die das 20. Jahrhundert überlebt hat,
+       die geht nicht unter." -- Historiker Geutebrück, 82

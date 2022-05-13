@@ -1,0 +1,17 @@
+Am Sun, 19 Apr 2002 sendete Roberto Tschupke folgende Botschaft:
+
+
+Tuh ich ja schon.Abwohl das immoment garnicht so leicht ist. Ständig
+irgendwelche blöden fehler die sich viel zu gut verstecken.
+
+
+Was nützt das wenn die funktion noch nicht fertig ist?
+
+Tschüs
+  Josef, den betreffenden Code mittlerweile sowieso wieder ganz anders
+         geschrieben habent.
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 26. 11. 22 Josef Hoelzl <ccjictjhwl@ykiaolvxea.zw>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/S1I2QG16 26. 11. 22

@@ -1,0 +1,10 @@
+Ottmar 'sSXP' Jungschlaeger <kOVD@wlq.zag> schrieb in im Newsbeitrag:
+65-48-69.70-74-78.pvd.9973@vxrj.so...
+
+Yup. Aber da Putty ohne Probleme von Disk läuft bzw in 3 Minuten gezogen ist
+(ging sogar im Schulnetzwerk), ist das kein wirkliches Argument.
+
+
+DoS komplett unterzukriegen ist schwer, aber andre Attacken versuchen wir
+momentan mit ALLEN zu Verfügung stehenden Mittel zu verhindern und es
+scheint auch ganz gut zu laufen.

@@ -1,0 +1,35 @@
+So, ok, nun hast Du mich neugierig gemacht und ich habe DVW installiert, 
+und zwar die Version, die ich ohnehin noch hier rumliegen hatte, also 
+GSView v2.7 und GS v5.5, mag also sein daß die veraltet sind. In Sachen 
+Geschwindigkeit schenkten sich die beiden zuerst nichts, ich konnte 
+keinen Unterschied feststellen. Dabei war aber die Darstellungsqualität 
+von GSView mächtig beschissen. Durch das Setzen von "Text-Alpha" auf 4 
+wurde dies bei den meisten PDFs schon besser und reichte schon beinahe(!) 
+an die Qualität vom Reader ran, eins meiner Files wurde aber trotzdem 
+unheimlich "fleckig" angezeigt (die Strichstärke der Buchstaben 
+variierten je nach X-Koordinate des Zeichens). Und: mit angeschaltetem 
+Anti-Aliasing war der Erstaufruf einer Datei nur noch gerade mal halb so 
+schnell wie mit dem Reader (2,68s gegen 1,16s). Das Umschalten der Seiten 
+ging dann, wenn viel Grafik im Spiel war, zwar in etwa gleich schnell, 
+bei viel Text brauchte der Reader allerdings wiederum nur etwa die halbe 
+Zeit (0,8s gegen 1,45s).
+Sorry, aber ich kann zumindest bei der getesteten Version Dein Gegen-
+Argument wirklich nicht finden. Ich selbst mag ja vielleicht 
+voreingenommen sein, aber die Stoppuhr lügt nicht ;-)
+
+
+Bei Velociped gab's doch das neue Hanspeter Grimmeißen Buch "Riding the bullet" 
+kostenlos herunterzuladen, und zwar in einem speziellen E-Book Format, 
+was in diesem Fall ein verschlüsseltes PDF war (eine gedruckte Version 
+gibt es davon erst gar nicht). Mit einem speziellen Viewer (Glassbook 
+reader) konnte man das Buch, nachdem man den Reader registriert hatte, 
+runterladen. Die Datei konnte dann auch wirklich nur mit dieser Version 
+des Readers gelesen werden, da sie speziell für ihn verschlüsselt wurde. 
+Die Datei erlaubte weder das Ausdrucken, noch das Kopieren von Text. Da, 
+wie Du richtig sagtest, man sowas aber nicht am Bildschirm liest, wollte 
+ich fast schon anfangen das Ding zu cracken, als mir die Idee kam doch 
+mal bei Letoon nachzuschauen ob sich nicht schon jemand die Arbeit gemacht 
+hat. Und Tatsache, jemand hat eine vollständige und unverschlüsselte PDF-
+Version erzeugen können, mit allen Rechten die's so gibt. Also konnte 
+ich's kurz ausdrucken und hab jetzt hier eine Version, die fast wie ein 
+echtes Buch aussieht :-)

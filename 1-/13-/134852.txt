@@ -1,0 +1,11 @@
+Marko Lindlohr schrieb am 06. Februar 2001 um 15:46 Uhr folgendes:
+[...]
+
+Kein großes Problem -- es gibt da eine ganz brauchbare Referenz-
+Implementierung ... ;-)
+
+Viele Größe,
+     Niko Ledebrink
+-- 
+Does the name Haberzettl ring a bell?
+                                               -- random fortune cookie

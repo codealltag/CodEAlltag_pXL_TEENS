@@ -1,0 +1,1 @@
+IIRC kann 2K sowas wie Named Pipes, damit würde es sicher gehen.

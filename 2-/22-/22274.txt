@@ -1,0 +1,17 @@
+Und so sprach Greta Nemenich:
+
+
+Hier (jaja :)) beginnt fuer die meisten mit 16 die Ausbildung in einem
+Betrieb, d.h. die Leute kriegen eine Lehrstelle mit Vertrag (ziemlich
+aehnlich einem Arbeitsvertrag) und arbeiten einen gewissen Teil ihrer
+Zeit fuer den Betrieb.
+
+
+Das hat IMHO alles einen gemeinsamen Grund.
+
+Gruss,
+Julius.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.r

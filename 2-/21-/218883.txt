@@ -1,0 +1,21 @@
+Das war meine MiroConnect 34, im Prinzip ein DSP der alles (Sound,
+Modem,Fax, Wavetable) aber nichts richtig konnte. 
+Friede ihrer Asche.
+
+
+Und was ist beim C64? 
+
+
+Tja, manche Firmen bauen Chips mit zig-Millonen Transistoren die
+einwandfrei laufen, und machen bekomme halt nicht mal gescheite
+Port-Chips hin. Hast du dann aufgegeben?
+
+
+Keine Ahnung. Habe selber ein internes 56k Modem und so lahm ist der
+ISA-Bus nun auch nicht als dass es da Probeme geben könnte auch ohne
+irgendwelche Puffer.
+
+CU
+Reiner
+-- 
+Mach deine Augen zu! Was du dann siehst, gehört dir.

@@ -1,0 +1,7 @@
+Cash, oder per Überweisung?
+mfg, 
+	Hansjörg
+-- 
+BOFH excuse #154:
+You can tune a file system, but you can't tune a fish (from most tunefs man
+pages)

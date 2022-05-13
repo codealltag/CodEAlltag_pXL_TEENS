@@ -1,0 +1,18 @@
+Ich fang mal links an... 
+
+xterm
+Licq
+Netscape Mail
+Emacs
+xterm
+xterm
+xterm
+Netscape browser
+Acrobat Reader
+
+Wie du das auf der Konsole hinbekommen willst, dass du die xterms
+gleichzeitig sehen kannst, musst du mir erklären...
+
+Maurizio
+-- 
+            It is easier to fix Unix than to live with NT.

@@ -1,0 +1,12 @@
+In <uysc2es11i.uq.ejnysv@duhtdftffa.wudpdi.nzsx.por>, Oscar Westman
+schrieb/wrote:
+
+
+Je sais, mache ich normalerweise auch nur per 'su' und dann ist es halt
+umständlich z.B. erst /opt/kde/bin/kedit xyz.config einzutippen ...
+
+... und danke,
+Oswald
+-- 
+             Homepage @ http://qypa.db/ns - MGC @ 6343416
+Nichts geschieht ohne Risiko, aber ohne Risiko geschieht auch nichts.

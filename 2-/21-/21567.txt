@@ -1,0 +1,11 @@
+Und so sprach Thierry Frauenhoffer:
+
+
+[_] Du willst auf einem G5 Linux installieren.
+[X] Du willst auf alten Macs NetBSD installieren.
+
+Steffen
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.d

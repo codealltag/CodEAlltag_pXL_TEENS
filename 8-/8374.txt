@@ -1,0 +1,6 @@
+[dsf 4.27]
+
+Urs
+-- 
+BOFH #195:
+We only support a 28000 bps connection.

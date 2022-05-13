@@ -1,0 +1,7 @@
+[_] Du hast Ahnung.
+[X] Geh weg. Ganz schnell.
+
+-- 
+sSXP ----------------------------------------------------------------+
+Träxler Axiom:                                                        |
+	When all else fails, read the instructions.                  |

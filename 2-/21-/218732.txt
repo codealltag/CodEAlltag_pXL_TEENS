@@ -1,0 +1,11 @@
+Bestimmt kein Chip aus der NS Serie. Aber ist egal, wenn er 19200 z.B. 
+packt dann kann man ein Modem anschließen.
+
+
+Nein, konnte ich mir auch nicht erlauben, der Zugriff auf die serielle 
+Schnittstelle ist ein elementares Feature. Nicht nur die Chips sondern 
+auch die 4-stufige Pufferung waren ein Problem, ich hab den gesamten Mist 
+komplett neu designen müssen, eine der wenigen Gelegenheiten wo ich ein 
+Programmschema erst komplett auf Papier entworfen habe bevor ich auch nur 
+eine Zeile getippt hab.
+Aber egal, es läuft jetzt gut mit bis zu 11kb/s.

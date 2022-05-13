@@ -1,0 +1,12 @@
+Ist ja schon gut.
+Die meissten Proggis ueberpruefen halt (wenn sie ueberhaupt ueberpruefen)
+  daraufhin ob ein Punkt da ist. Das hat den Nebeneffekt, dass auch IP-Nummern
+  durchgehen obwohl es (IMHO) auch kein 'FQDN's sind.
+Manche Server pruefen sogar, ob die Domain existiert
+Als ich mal eine phantasie-domain benutzt habe, war ploetzlich mein Postfach
+  voll, weil sich irgendein Newsserver bemerkbar machen musste.
+
+-- 
+Kai
+"When you think about death do you lose your breath or do you keep your cool?
+ Would you like to see the Pope on the end of a rope - do you think he's a fool?"

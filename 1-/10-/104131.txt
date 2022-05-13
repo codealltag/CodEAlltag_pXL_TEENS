@@ -1,0 +1,12 @@
+Alles andere verdient nicht wirklich die Bezeichnung "Test für die zu
+erfüllende Aufgabe"
+
+Es ist sinnlos, einen Server, der 24/7 am netz sein soll, meinetweden
+2 Stunden am Tag im leerlauf laufen zulassen, wenn im Einsatz hunderte
+von Mails pro Minute abgearbeitet werden sollen. _irgendwie_ ist das
+zwar ein Test, aber der ist nictmal wert, gemacht zu werden.
+
+Urban
+-- 
+"Your american beer is like making love in a canoe -
+ fucking close to water" [Monty Python]

@@ -1,0 +1,16 @@
+Am Tue, 28. 12. 22 sendete Felix Bürkele folgende Botschaft:
+
+
+Alles ganz logisch, gell?
+
+
+Dann is ja gut.
+
+
+Set den automagischen umbruch auf 72 zeichen. Den aktuell eingestellten
+Wert kannst du mit ':set tw' abfragen.
+
+Tschüs
+  Maurice
+-- 
+Notorisch Schreibfaul.

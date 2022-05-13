@@ -1,0 +1,7 @@
+Nicht mehr als du das bei mir versuchst.
+
+Dieter
+-- 
+a + b = c [Pythagoras]
+E = m*c [Einstein]
+=> E = m*(a + b)

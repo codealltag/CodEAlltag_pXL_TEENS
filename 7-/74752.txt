@@ -1,0 +1,11 @@
+Thorsten Tell hat geschrieben getan getutet:
+
+
+Agent hat Forwarding-Funktionen.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Patrik 'edouard' Meckl in vr.rve.dwczwgmv.gklmoakn

@@ -1,0 +1,42 @@
+Marco Amlinger schrieb am 7. November 1999 um 16:08 Uhr folgendes:
+
+
+Nach "References:" scoren, einen eigenen FQDN hast du ja schon. Ein
+einfache (und schnelle) Methode wäre zum Beispiel folgendes:
+
+Score: 500
+        References: @cnoygq\.eils\.igt
+        ~From: upinli@qwe\.qgp
+
+Score: 500
+        References: @dtpeqy\.oktk\.ywt>\ *$
+        ~From: upinli@qwe\.qgp
+
+Damit bekommt jeder Subthread, den du lostrittst, +500 Punkte. Direkte
+Antworten auf deine Artikel noch einmal +500 (macht dann +1000).
+Ausgenommen sind deine eigenen Artikel (wenn du willst, kannst du die
+auch hochscoren lassen; ich weiß aber eigentlich, was in meinen
+Artikeln steht und lese sie mir idR nicht noch einmal durch ;).
+
+Es gibt auch etwas ausgefeiltere Regeln, bei denen Subthreads ab einer
+gewissen "Tiefe", in der du nicht mehr selbst mitgemischt hast, nicht
+mehr (oder nur noch mit ein paar wenigen Punkten) bedacht werden.
+Dafür müsste ich allerdings ein wenig in meinen Archiven stöbern; mit
+persönlich reicht oben genanntes.
+
+Spätestens wenn an deinem Rechner noch eine zweite Person News
+schreibt, solltest du allerdings slrn statt Leafnode die Message-IDs
+erzeugen lassen, damit du die verschiedenen User beim Scoring
+auseinanderhalten kannst (ist per default aber sowieso angestellt :).
+
+
+yl.zjmo.hwusdhbl.ecncczigxx ist da die passende Gruppe. Dort landen
+auch die slang-Makros für den slrn, die ich ab und zu verbreche, falls
+dich so etwas interessiert...
+
+Viele Größe,
+     Dario Dikhoff
+-- 
+UNIX was not designed to stop you from doing stupid things, because that
+would also stop you from doing clever things.
+                                                           -- Norbert Jonathan

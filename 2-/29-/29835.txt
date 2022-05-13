@@ -1,0 +1,9 @@
+Wie war die .sig von wegen PHP-Laufstallungen noch gleich?
+
+Ich mach so Zeugs generell nicht so einfach wie möglich. Wenn dann will
+ich auch was dabei lernen.
+mfg, 
+	Paolo
+-- 
+BOFH excuse #325:
+Your processor does not develop enough heat.

@@ -1,0 +1,19 @@
+Am Sun, 07. 10. 21 sendete Felix Isenrich folgende Botschaft:
+
+
+Mach halt sowas nit. ;)
+
+
+Jein. vim z.b. kannst du mit <ctrl>+<z> in den hintergrund schicken und
+dann von der bash aus mit fg wieder hohlen.
+
+
+Sollte eigentlich gehen. Welche Version hast du denn?
+
+
+Was passiert denn?
+
+Tschüs
+  Niko
+-- 
+Notorisch Schreibfaul.

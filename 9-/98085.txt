@@ -1,0 +1,26 @@
+Am Sun, 20 Jun 2001 sendete Niclas Potters folgende Botschaft:
+
+
+Ich rede von der Clientseite. Bei nfs erfolgt die Authentifizerung ja
+nunmal über die ip.
+
+
+Von whem den sonnst? Heist ja nicht umsonst "MSG-Shop Netzwerk"
+
+
+Es geht ja auch nicht ums sniffen. Simples loging auf welche Ports
+zugegriffen wird.
+
+
+Loging per Firewall ist viel zu aufwendig.
+
+
+Doch SMB.
+
+
+Klar. Er will aber auch ein vernünftiges protokoll.
+
+Tschüs
+  Gunter
+-- 
+Notorisch Schreibfaul.

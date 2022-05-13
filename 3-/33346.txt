@@ -1,0 +1,10 @@
+Also sprach "Maximilian Notdurfth" <tlje.sgzmcso@var.fsc.pc>:
+
+
+Das alles werde ich am Ende des nächsten Semesters für die
+Theorie-Prüfung lernen. Wobei ich denke, daß ich die Aussagenlogik
+schnell wieder draufhaben werde. Die Prädikatenlogik, insbesondere die
+Herbrand-Theorie ist da deutlich unangenehmer. Und Prolog muß ich
+nächstes Semester in Syntax I eh wieder lernen...
+
+Niklaus

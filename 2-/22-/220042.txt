@@ -1,0 +1,7 @@
+hm, was steht da drin? Meine momentane Sammlung geht leider nur bis
+RFC 2485 (Januar 1999).
+
+Viele Größe,
+     Eberhard Metschnabl
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

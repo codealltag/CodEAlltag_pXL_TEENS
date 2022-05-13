@@ -1,0 +1,35 @@
+Und so sprach Ulrich Jenjahn:
+
+
+Also hat sie sich offenbar doch nicht entschieden.
+
+
+Nachvollziehbar.
+
+
+Das finde ich dann wieder etwas seltsam. Ich denke schon, dass ihn
+sowas treffen wird.
+
+
+Es ist ihre Entscheidung. Sie scheint ja zu wissen, was Du für sie
+empfindest (oder wenn nicht, lass es sie wissen). Sie zu bedrängen
+halte ich aber für eine schlechte Idee.
+
+
+Vielleicht hat sie Angst, dass er ernsthaft Schaden nimmt, wenn sie
+ihn verlässt (und sie kennt ihn ja wohl nicht schlecht).
+
+Die Beziehung von den beiden hat, falls sie sich denn tatsächlich lieber
+von ihm lossagen würde, eh nicht viel Zukunft. Aber vielleicht ändert
+sie ihre Meinung ja auch, und dann solltest Du das akzeptieren.
+Vielleicht merkt einer von ihnen oder beide aber auch, dass es so
+nicht weitergeht, und dann hast Du wieder alle Chancen.
+
+Lass etwas Zeit vergehen - vielleicht änderst ja auch Du Deine
+Meinung.
+
+Detlef
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.r

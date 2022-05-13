@@ -1,0 +1,16 @@
+Berend Kameier meinte kundzutun:
+
+
+Hm. Ich sollte mir einen Bot aufsetzen, der auf jeder X-No-Archive: Yes-
+Posting mit einem Vullquote antwortet.
+Unfair? Nein, Usenet. Unhöflich? Ja. Höflichkeit ist optional. Liest den
+Bot noch jemand? Nein, aber seine Postings werden archiviert. Ach ja...
+weiteres Feature: [^a-zA-Z] im Namen durch den gel33teten Buchstaben
+ersetzen, damit die Suche nach dem Namen auch ja klappt.
+
+Roger, in mir schlummert jede Menge Potential, es ist besser, wenn
+ich es nicht freisetze.
+-- 
+Sascha findet meine Signtur doof, deswegen hat er mich beim
+Eurozone verpetzt, und der hat jetzt meine .signature zensiert,
+dieser .-%$�$%CARRIER LOST

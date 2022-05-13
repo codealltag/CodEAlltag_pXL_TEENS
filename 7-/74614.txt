@@ -1,0 +1,12 @@
+Gutherzige Schüler haben sie hingestellt, böse Schüler haben sie
+kaputt gemacht. So die Legende.
+
+
+Wohl schon zu versifft.
+
+Ivan
+
+-- 
+  "The TMZC Information Store service depends on the TRF
+   Zeug Directory service which failed to start because of the
+   following error: The operation completed successfully."

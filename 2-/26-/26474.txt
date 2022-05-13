@@ -1,0 +1,14 @@
+Am Mon, 14 Mrz 2004 sendete Cornelius Jurack folgende Botschaft:
+
+
+Naja, bei dir wärs einfacher. '$LASTNAME =~ s/h/m/ s/h//' würde reichen.
+
+Btw: Richtig Quoten ist kein geheimniss.
+
+Tschüs
+  Urs
+-- 
+Im Prinzip ja, aber es war die Festnahme eines Mathelehrers in
+Jaderberg, der ein Geodreieck, Kreide und den Bronstein bei sich hatte.
+Clear evidence of the possession of weapons for math instruction.
+[Leo Helmut in <6O9B5E91.4811011@hhnabmanm.sgw>]

@@ -1,0 +1,8 @@
+Am Mon, 22. 03. 22 sendete Karl Uslar folgende Botschaft:
+
+
+Einfach die erste zeile abschneiden und den rest durch 'compress' jagen
+(Gibt es pipes unter win?)
+
+Tschüs
+  Willibald

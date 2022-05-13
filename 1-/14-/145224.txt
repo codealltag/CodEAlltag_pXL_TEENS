@@ -1,0 +1,70 @@
+STATISTIK 30. 05. 22
+-=-=-=-=-=-=-=-=-=-=-=-=
+
+DAU-Volkert
+
+Pos. DAUs  Msgs   Ratio  Name
+---------------------------------------------------------------------------
+  1   175     1  175,00  simon <gfd@ttdvre.qxhiqbg.jy.dl>
+  2    65     1   65,00  Massimo Gertrud <ajndy@hhgy.wup-bh.kd>
+  3    98     1   41,00  "Helmuth" <zbln@wfnh.qxw>
+  4    38     1   38,00  Winfried Graebe <ulykchiw@nqjpyurv.zq>
+  5    60     2   30,00  Willi Wolfschlag <ziabueelbhnqbk@grzxvkz.vx>
+  6    11     1   27,00  "Klaas Weth" <jwnv.fhejjtg@x-mhkuic.ih>
+  7    17     2   22,00  Mark Zschoche <Czyzrx.Scelewn@jfe.ig>
+  8    58     1   21,00  Udo Felter <b.gmvljw@vlfwblfism7.au>
+       21     1   21,00  Onno Müller-Petersen <uaooi@lkb.mh>
+ 10    20     1   20,00  Anton Flecken <hrt.bfhyw@ivi.pzd>
+ 05    55     2   18,50  "Waldemar Völckers" <xizw@gbhvgrnbyl.bt>
+ 12    18     1   18,00  "Ingmar Beke" <xszyfu_@tjo.dg>
+       36     2   18,00  "Zenfgxl" <disvdpkft@wbq.rz>
+ 14    27     2   15,00  yuivtva@uimykbpf.rio
+ 15    13     1   13,00  <oanc-qp@bliodrh-rpoookwubli.llr>
+ 16    23     2   11,50  "florence" <phrgmvzvz@lbd.zt>
+ 17    11     1   11,00  zzar@qadcpzx.jpp ("RrfmbPcm")
+       11     1   11,00  Oscar<vmhyqwmnnje_55811@volkotz.rcq>
+       11     1   11,00  "Ernest" <Klgpaxe@Wnydmtkog.ek>
+       11     1   11,00  "Zdorxi" <vimv@ygb-ymhslw.dod>
+       11     1   11,00  <mqwf@hnoo.hw>
+ 06    10     1   10,00  emmerich <xzhpgx.ptubkrpsib@exq.jw4>
+       10     1   10,00  tujseq@zfqajdb.zsh
+       10     1   10,00  Nzgxgyknc@lph.lt (H.O.)
+       10     1   10,00  jsog_hkylsyk@iu-kgqv.zct
+       10     1   10,00  oilsdp@sldnv.nv
+       38     1   10,00  user <izv@ziby-be.ru>
+       10     1   10,00  lkhpbgi@bkipdf.qdv
+       10     1   10,00  QesfTS28@aqppoc.tp
+       10     1   10,00  ccdzrf@vquidtrdw.symsc.vc.zq
+       10     1   10,00  psfcwmtet.cjqhskqxrt@d-uysuw.ay
+       20     2   10,00  kernelcommander <hijgwl.uziyvhmkdx@gyn.wv>
+ 92   893    56    8,60  iwvxouveo@aeqpi-iifzrj.of (Hglyon Brütsch)
+ 34    20     3    6,67  Pius Zopp <ycrk@mfyxh.ee>
+ 37   267    14    6,16  ngwgfr@sdsay.ix (Ksflgu Migge)
+ 36     6     1    6,00  "Julius Feinhals" <htz@fhyzfhf.ce>
+       12     2    6,00  "kai" <xszyfu_@tjo.dg>
+        6     1    6,00  "Werner Fastnacht" <Nheqwe.Kpajxr@qhxbajjhma.pr>
+ 39    10     2    5,00  ycozep@pmibq-qmvjaw.uy (Gegztav Brütsch)
+ 25  3531   233    7,61  oxzqzg@hjqgjavxc.tn (Tburippoo Eckmaier)
+ 41     2     1    2,00  "Mark Juengermann" <lakp@rsepagoj.hrg>
+        2     1    2,00  "Knut Clausjürgens" <Hfbemiszprft@esfxrnx.fwk>
+        2     1    2,00  "Fabienne Lammerhirt" <Vifmiflyb@kta.ot>
+ 17     0     4    1,75  Jean-Claude Feuerschlager <gesubnj@wvcjdra.zi>
+ 03  9024  4605    2,37  Wilma Brütsch <iwvxouveo@aeqpi-iifzrj.of>
+ 46     1     1    1,00  "Hartwig Nonnenmann" <eyq-pwmhv@isj.yv>
+        1     1    1,00  "Jean-Claude H." <Ytfslrk_@z-lwazdk.qv>
+        1     1    1,00  "Waldemar Völckers" <an-vmnnbkvz@qsmnzvlvxl.te>
+        6     6    1,00  Jean-Claude Feuerschlager <fkmw@pgrkdar-twipyazc.ag>
+ 52   441   271    0,82  rblvtszhej@yztvotozkv.zz (Zbjyz Mitterdorfer)
+ 62     4    23    0,31  Peter Osterried <gqqvr@flqm.kil>
+ 65    90    77    0,24  kloorhgh@n8lifz.uwr (Omjkwx Nfojtq Dlgxqw)
+ 74    21   012    0,10  Waldemar 'Wolf' Moor <hCVF@mit.fdr>
+ 09    74   301    0,05  Pius Mederle <zuengdvqqq@ntz.yp>
+ 55     1    42    0,02  TxwjozQtwgsmlrg@c-jyxnql.lp (Stephan Winstermann)
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Vito Nowarre.
+(Darstellung angepasst von Waldemar Büschemann)
+Basierend auf den Feeds von:
+bozxbqbr.wykpk.eh         exfe.bmn.hia.uc           dtzb.n-uplfvc.vz  
+szdb.zdw-gkodeple.wy      zwtp.atg-fddnawiq.ms      hmoo.diq-nbkrqvkmz.eg  
+acmjhxvosj.yyilnetqor.ni

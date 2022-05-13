@@ -1,0 +1,5 @@
+Ich hole News aber nicht mit einem Newsreader, sondern mit einem 
+Newsserver.
+-- 
+  / _/ _` |
+  \__\__, |

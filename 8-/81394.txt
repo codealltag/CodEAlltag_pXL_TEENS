@@ -1,0 +1,9 @@
+Weertdine Eycken meinte kundzutun:
+
+
+$ ls ./next_jup/include
+!Bier    Essen               Wiltrud   Trudi       Unterkunft
+Alkohol  Jede_Menge_dtjuler  Albin  Angenend
+$ 
+
+Albin

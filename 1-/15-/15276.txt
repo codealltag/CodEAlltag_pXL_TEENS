@@ -1,0 +1,9 @@
+Bei mir sinds zwei Tage, das reciht schon um üblicherweise >500
+Exemplare auf dem Server liegen zu haben.
+
+
+Hier per procmail-Filter auf den Spamassassin-Header.
+
+Lennart
+-- 
+         The computer revolution is over. The computers won.

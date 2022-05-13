@@ -1,0 +1,13 @@
+Am Tue, 25. 10. 21 sendete Nick Bullermann folgende Botschaft:
+
+
+Wieso das nicht? Wenn Standartfunctionen benutzt werden die dafür
+berüchtigt sind sticht das direkt ins Auge. Und sonnst ist das mit dem
+restlichen Sourcecode des Programmes genauso schwierige wie das
+überprüfen eines neuen Programmes. Wenn man den Code schon etwas kennt
+sogar noch leichter.
+
+Tschüs
+  Bodo
+-- 
+Notorisch Schreibfaul.

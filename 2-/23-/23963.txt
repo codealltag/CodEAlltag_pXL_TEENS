@@ -1,0 +1,11 @@
+Dann ist das ja in Ordnung.
+
+Wenn ich den Erwische...
+
+Ja.
+
+mfg, 
+	Sébastien
+-- 
+BOFH excuse #191:
+Just type 'mv * /dev/null'.

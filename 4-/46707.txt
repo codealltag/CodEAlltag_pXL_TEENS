@@ -1,0 +1,12 @@
+if ($equippedweapon{class} = sniperrifle) {
+        send('Half-Life', 'bind mouse1 "say *schnipp*; +attack"');
+}
+
+
+BrabbelbrabbelbrabbelSzo-ki?
+
+-towo
+-- 
+"Anyone can speak Troll," said Alex dismissively, "all you have to do is point
+and grunt."
+- from "Harry Potter and the Goblet of Fire"

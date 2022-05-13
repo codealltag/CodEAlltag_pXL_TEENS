@@ -1,0 +1,7 @@
+Keine Ahnung, bin kein Hacker.
+Aber wenn es die API nicht gaebe, waere es ja nicht moeglich ein System fernzusteuern.
+
+-- 
+MdP Philippe
+If someone says "I want a programming language in which
+  I need only say what I wish done," give him a lollipop.

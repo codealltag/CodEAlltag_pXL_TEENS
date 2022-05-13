@@ -1,0 +1,14 @@
+Und so sprach Leopold Allerborn:
+
+
+Ja, Interpreter / Compiler und so. Mit dem ganzen Lazy-Evaluation-Kram
+etc. pp. eher nicht trivial, wenn ich das richtig verstanden habe.
+
+
+Ebend.
+
+Gruss,
+Tom.
+-- 
+Dies ist ein Posting aus Freilandhaltung und wurde nicht zu
+ueberhasteter Verbreitung genoetigt.

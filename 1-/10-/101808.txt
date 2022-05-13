@@ -1,0 +1,14 @@
+begin  Pietro Wältermann text:
+
+
+Args ...
+
+Frage: Wie stelle ich es bei Gnus ein, daß er nur das markierte
+quoted?
+
+Und welche Tasten sind bei XEmacs bitteschön cut, copy und paste?
+-- 
+Wie jagt man einen Elefanten - Teil 2:
+C- Programmierer bestimmen zuerst mit sizeof() die nötige Speichermenge
+für einen Elefanten, versuchen diese zu allozieren, vergessen dabei das
+Ergebnis abzuprüfen und schießen dann mit wilden Pointern auf den Elefanten.

@@ -1,0 +1,11 @@
+Willi Grothof hat geschrieben getan getutet:
+
+
+Liegt wohl daran, dass ich ein 'o' verschluckt habe.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ferdinand 'lukas' Duitscher in at.jmd.kdbzhoyi.dusdkrwm

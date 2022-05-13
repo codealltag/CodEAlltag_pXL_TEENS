@@ -1,0 +1,12 @@
+* Cornelius Rüsbüldt <jreh@wyfxdixi.wn>:
+
+
+,--------
+`--------
+
+Wenn du Gnus offline betreibst (agent-like), kannst du die Nachrichten
+sicher auch löschen.
+
+Vincenzo
+-- 
+cross veinless

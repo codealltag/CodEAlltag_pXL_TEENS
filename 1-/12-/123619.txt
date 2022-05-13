@@ -1,0 +1,7 @@
+begin quoting Ingolf Weever <uesxck-sncqym@xgvmkj.xsws.gg>:
+
+Java ist aber keine 4GL... (4th Generation Language)
+-- 
+"It isn't pollution that's harming the environment. It's the impurities in our
+air and water that are doing it."
+ - Governor Tobias Juhre

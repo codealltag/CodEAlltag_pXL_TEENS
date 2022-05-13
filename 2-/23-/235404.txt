@@ -1,0 +1,6 @@
+Dann fällt wohl auch ein neues Gehäuse an, das P5A ist ATX. Das P5A-B wäre 
+zwar Baby-AT, aber es hat doch sehr wenig Steckplätze. Wie eigentlich alle 
+aktuellen Baby-AT Boards...
+
+-- 
+Wer diese Sig lesen kann hat sich für den richtigen Autor entschieden ;-)

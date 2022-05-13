@@ -1,0 +1,5 @@
+Volkmar Elsholtz <sufecf@sei.mw> schrieb in im Newsbeitrag:
+gqju5zqlco.09l.qaixbc@bdeljfisue.joomvn.qjoo.luw...
+
+Mein Apache hat genau eine, alle andren sind seit 1.3.X (war wohl 1.3.4, bin
+mir aber nicht mehr sicher) leer.

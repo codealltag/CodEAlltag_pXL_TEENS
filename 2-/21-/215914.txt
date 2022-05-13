@@ -1,0 +1,25 @@
+On 04. 04. 22, Julian Fischl <bebqnlqygf@lccexllpnt.un> wrote:
+
+[Outlook Express und PGP]
+
+awcxwd@sbuhxdynsp:~ > rgrep -l '^X-Newsreader.*Outlook\ Express'
+/var/spool/news/de/talk/jugend/ | xargs grep '^From:' | cut -d ':' -f 3
+    314  "Kaspar Grothaus" <Wwqdlwb@gdskqnydqfz.sbnauu.mh>
+     68  "Elke Falten" <magnqe.bslfcssyl@xrrwf.pw>
+     51  ReapbtI@n-ogsoro.mz (Edhstx Füssgen)
+     26  Rakcxs.Hzfopvy@h-kmauui.co (Dieyee Janetzki)
+     19  "Friederike Füssgen" <EsrpauQ@hls.xk>
+     18  "Pascal Leß" <hhwqulcq@twjo-ou.wm>
+[...]
+
+BERND ;-)
+
+
+Diskutieren wir nicht gerade den Einsatz von PGP, um eben diesen Bot
+sicher zu machen? Wie auch immer - wir zerbrechen uns den Kopf über
+etwas, was annelies (hoffentlich) erspart bleiben wird: Die Moderation.
+
+Viele Größe,
+     Wolf Fetköther
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

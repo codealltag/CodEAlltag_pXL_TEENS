@@ -1,0 +1,11 @@
+Hmm. Für den ZX glaube ich nicht. Sollte allerdings nicht schwierig sowas 
+zu basteln sein ;-)
+
+
+Zweite Speichererweiterung wird schwierig, der verwendete Z80 hat ja nur 
+einen Adressraum von 16KB. So muß man mit Bank-switching arbeiten, was 
+mit zwei autarken Erweiterungen nicht einfach ist.
+Drucker kommt darauf an, solange er über die I/O Ports angesprochen wird 
+(und davon gehe ich aus) kommt er sich mit dem Speicher nicht ins Gehege. 
+Mein Nadel-Drucker hat den Bus soweit ich weiß sogar gleich 
+durchgeschleift, so daß man noch andere Sachen anschließen konnte.

@@ -1,0 +1,14 @@
+In article <747x82$dmkg$0@nn-ikkfkg.xa>,
+
+
+Ja, blöd nur, wenn die Atomraketen so programmiert sind, daß sie sich
+vorsichtshalber auf den Weg in die USA machen, wennn ein Computerfehler
+auftritt. Es könnte ja eine Manipulation der Amerikaner sein. An Y2K hat
+ja im kalten Krieg niemand gedacht.
+
+Also hoffentlich hat da jemand die Zeile
+ON ERROR COUNTDOWN...
+mit einem REM versehen;-)
+
+-- 
+Written with Pluto on an Acorn StrongARM Risc PC 233 MHz running RISC OS 4

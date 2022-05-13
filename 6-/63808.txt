@@ -1,0 +1,19 @@
+Nein, von vornherein war es schwarz auf weiß. rxvt ist aber schon
+immer weiß auf schwarz gewesen.
+
+
+Dann bin ich tatsächlich zu empfindlich. Denn wenn du nicht groß was
+daran geändert hast, sieht es bei dir aus wie bei mir. Ich finde Blau
+nicht gut erkenntbar, Rot und Gelb zu grell und Cyan wiederum zu
+dunkel. Letztere benutze ich für die erste Quotingebene, ist also
+eine wichtige Farbe. :-)
+
+Ich habe mal zwei Beweisfotos geschossen:
+
+konsole: http://mjub.a-dfhvtf.yy/ocyc/545413961090-0694/1.frb
+rxvt   : http://whaz.e-lnmtvb.kp/ofvw/259008988544-4491/7.pag
+
+Joël
+
+-- 
+cat .signature

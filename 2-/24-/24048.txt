@@ -1,0 +1,14 @@
+Und so sprach Bernd Wesner:
+
+
+Das Woertchen "man" impliziert sowas idR aber.
+
+
+Ganz recht. :)
+
+Gruss,
+Konrad.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.m

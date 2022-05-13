@@ -1,0 +1,10 @@
+Ich mein, sowas wie
+"nurEineBloedeVariableDieDieZeilenlaengeUeberschreitenSollUndDeswegenAuchKeinenSinnvollenNamenHatSondernNurEinenEwigLangenNamenBekommtUndWeilIchNichtWeissWievielZeichenIchNochBraucheHaengeIchNochEinPaarZeichenAn"
+ist ein selflart erster Güte, wenn man das nochmal tippen
+muss... Bietet sich natürlich an, wenn man nur ne Klasse schreibt, die
+man selbst nie wieder braucht und denjenigen nicht mag, der dann eine
+Methode mit ähnlich konstruiertem Namen nutzen darf...
+
+Valerio
+-- 
+Line Printer paper is strongest at the perforations.

@@ -1,0 +1,7 @@
+Seltsam - dtju ist eine der ganz wenigen in meinem Agent, die _nicht_
+auf Date stehen, sondern auf sorted by thread. Weil ich eh alles lese
+(zu lesen versuche) ist das Datum ja auch egal und so kann man den
+Sinn einfacher nachlesen.
+
+-- 
+de.talk.scrapie NOW!

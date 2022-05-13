@@ -1,0 +1,8 @@
+* Jürgen Neuhäusler <jhxjtpp743653@xunaup.uj-b.fv>:
+
+
+Ein bisschen Zauberei in der .gnus und ein kleines externes Programm.
+
+Rupert
+-- 
+np: Red Hot Chilli Peppers - Blood Sugar Sex Magik

@@ -1,0 +1,17 @@
+Ich hab inzwischen nachgesehen: es stimmt.
+
+
+Schon klar.
+Aber die Maschine ist fast 20 Jahre alt.
+Damals galten fuer Netzwerke noch andere Masstaebe
+  ('Standard' waren so um die 300 bps).
+
+
+Keine Ahnung.
+Rein theoretisch schon, aber die praktische Umsetzung (in Assembler :)
+  ist wieder was anderes.
+
+-- 
+Walter
+  Dadurch, daß man einen anderen ins Irrenhaus sperrt,
+  beweist man noch nicht seinen eigenen Verstand.

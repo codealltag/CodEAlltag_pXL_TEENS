@@ -1,0 +1,56 @@
+Am 07. 12. 22 22:08:34 GMT sendete Carlo Wunstorf
+folgende Botschaft:
+
+
+Mein vater hatdamit ca 2-3 jahre gearbeitet. Wen man sich an die
+lahmheit gewöhnt hat gehts eigentlich (wenn man nicht gerade wie ich 
+die Festplatte aufräumen will.)
+
+
+Als reine console für deinen rechner sehe ich da eigentlich kein problem,
+auf dem rechner muss ja eigentlich nur ein shell und ssh/telnet laufen.
+Und eventuelle consolen spiele sollten entweder recht genügsam sein,
+oder deine schwester muss die halt bei dir laufen haben.
+
+
+Ich habs sie hier (nach kurzen test) auch noch nicht richtig laufen.
+allerdings laufen 90% der spiele trotzdem.
+
+
+Das löst sich ja alles stück für stück machen. Wenn ihr denn alten rechner
+behaltet (ist doch so, oder?) kann deine schwester diesen doch sicherlich
+noch ein paar wochen zum spielen benutzen kann. Also brauchst du am anfang
+(wenn dein neuer läuft) ihren rechner nur soweit zuhaben das sie sich bei
+dir einlogen kann. Alles andere kann dann nach und nach konfigt werden.
+
+
+Scheint so ja.
+
+
+Yep. + noch eine andere sollte also irgendwie festzustellen sein.
+
+
+Auch egal den SCSI-controler werd ich auchnoch unterkriegen.
+
+
+Ja das wars. (Das kommt wenn man den Satz beim schreiben 10 mal umstellt.)
+
+
+Ich bevorzuge bis jetzt auch etwas internes, da die externen wenn man
+sie nicht braucht nur im weg rumstehen.
+
+
+Soviel soll es bis jetzt eigentlich nicht werden. ich will halt /etc
+teile von /home und die sourcen die ich selten benötige (die bis jetzt
+getart in /usr/src rumliegen) extern sichern/auslagern. Höchsten die
+aurum aktion auf der win partition könnte einige MB bringen.
+
+
+Dafür hab ich mehrer verschiedene medien, was mir vom sortieren her
+lieber ist.
+
+
+Das schon, aber bevor sich jemand beschwert... Aber so ist auch gut.
+
+Tschüs
+  Tino

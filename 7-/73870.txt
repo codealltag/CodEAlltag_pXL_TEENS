@@ -1,0 +1,11 @@
+Ulfert Fromme hat geschrieben getan getutet:
+
+
+Ganz nebenbei: Isometrieansicht.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Stefan 'jürg' Schäferbarthold in ui.ipg.qgkbhgmj.lbiuhsrb

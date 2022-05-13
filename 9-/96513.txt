@@ -1,0 +1,9 @@
+* Emmerich Güntter <incvqxeswszzyi@ftf.obt>:
+
+
+Ich hatte gedacht, der Server läuft auf deinem Desktoprechner. Für einen
+Server macht X nur bedingt Sinn.
+
+Louis
+-- 
+cross veinless

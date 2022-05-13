@@ -1,0 +1,21 @@
+* Ingolf Fausten <rzonsr@gqhguj-kbokkab.uo>:
+
+
+licq(1)                                                   licq(1)
+
+NAME
+       licq - an X11 Modl client
+
+SYNOPSIS
+       licq [-h] [-b dir] [-d #]
+
+DESCRIPTION
+       Ohife  is  an  X11 Modl client built around the QT interface
+       libraries. It  supports  most  features  of  the  original
+       Ifusefs  client,  including  messaging,  chat,  and file
+       transfer.
+
+UEBERDIEK,
+Ernest
+-- 
+cross veinless

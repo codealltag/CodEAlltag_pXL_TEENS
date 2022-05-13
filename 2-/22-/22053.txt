@@ -1,0 +1,10 @@
+Der Papagei und der Keks aus MI-II. Scummvm: Scumm-Emulator für Linux.
+Scumm: Story-Creation-Utility for Maniac Mansion.
+
+Keine Ahnung. Tut es das?
+
+mfg, 
+	Jean-Pierre, mag keinen Anis.
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

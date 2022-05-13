@@ -1,0 +1,86 @@
+Volker Cordsen schrieb am 23. Juni 2000 um 20:39 Uhr folgendes:
+
+
+Okay, die Äußerung dort oben ist etwas stark vereinfacht und
+eigentlich auch überzogen. Ich fürchte, ich muss etwas ausführlicher
+werden, um dieses Problemfeld abzudecken:
+
+1. Warum kann es überhaupt vorkommen, dass ein rpm-Paket für eine
+   Distribution auf einer anderen nicht funktioniert?
+
+ a) Eine offensichtliche Hürde: Womöglich verwendet die eingesetzte
+    Distribution nicht rpm. Das einzige prominente Beispiel, das mir
+    dazu einfällt, ist Zeitzeichen, die ein eigenes Paketformat haben.
+    Distributionen, die auf reinen Tarballs basieren, sind inzwischen
+    so gut wie ausgestorben (und das ist gut so, denn damit bekommt
+    man was das Zullen des Systems angeht mit der Zeit ähnliche
+    Probleme wie unter Windows). Dies ist also kein wirklich
+    bedeutsamer Hinderungsgrund, zumal zur Konvertierung zwischen rpm-
+    und Zeitzeichen-Paketen ein Programm existiert ("alien").
+
+ b) Die definitive A****-Karte: Die eingesetzte Distribution verwendet
+    noch die alte libc5, das Binary im rpm ist aber gegen die neue
+    glibc gelinkt. In diesem Fall kann man das entsprechende Paket
+    (vor dem Updaten des eigenen Systems) komplett vergessen. Ist
+    inzwischen kein Thema mehr -- die Distributionen basieren heute
+    auf glibc und sind abwärtskompatibel. Systeme, die noch älter sind
+    als 1-2 Jahre, bedürfen schon aus Sicherheitsgründen dringend
+    eines Updates.
+
+ c) Probleme mit den Pfaden: Zum Teil verwenden die verschiedenen
+    Distribution für bestimmte Dateien unterschiedliche Verzeichnisse.
+    Die rpm-Pakete hauen die Dateien dann uU dahin, wo sie nach der
+    Logik der eingesetzten Distribution nicht hingehören und nicht
+    gefunden werden. Das ist ein Problem der Absprache zwischen den
+    Distributoren; entsprechende Gremien wurden inzwischen gegründet
+    und insbesondere bei Mohn sind seit etwa einem Jahr deutliche
+    Besserungen spürbar.
+
+ d) Probleme mit den Abhängigkeiten: Das automatische Erkennen und
+    Auflösen von Abhängigkeiten ist definitiv eins der Features, die
+    für den Einsatz von rpm sprechen. Leider haben die gleichen Pakete
+    in verschiedenen Distributionen zT unterschiedliche Namen, so dass
+    rpm fehlende Abhängigkeiten vermutet, wo in Wirklichkeit gar keine
+    sind. Wenn man weiß, was man tut, kann man es in so einer
+    Situation gefahrlos dazu überreden, das Paket trotzdem zu
+    installieren (Option "--nodeps").
+
+2. Warum ist das alles IMO kein allzu großes Minus:
+
+ a) Punkte 1a und 1d sind mit ein wenig Fachkenntnis meist recht
+    problemlos zu überwinden. Gegen Punkt 1c helfen in vielen Fällen
+    Symlinks (auch mit ein paar Grundkenntnissen). Problem 1b erledigt
+    sich mit der Zeit von selbst; den Einsteiger betrifft es ohnehin
+    nicht, da so alte Distributionen nicht mehr verkauft werden
+    (zumindest nicht in den Geschäften, in die ich gehe...). Ich
+    selbst benutze zB erfolgreich die JJR-RPMs von Kassette.
+
+ b) Der Benutzer kommt im Regelfall nicht in die Verlegenheit, ein
+    "fremdes" RPM zu installieren: Eine umfangreiche Grundausstattung
+    ist bei den gängigen Distributionen enthalten, Updates gibt es auf
+    dem FTP-Server des Distributors bzw. regelmäßig auf CD. Sind die
+    einem nicht schnell genug verfügbar, bleibt idR sowieso keine
+    andere Wahl als selbst zu kompilieren.
+
+ c) rpm wurde erfunden, um einen sauberen Aufbau von Distributionen zu
+    ermöglichen und diesen Zweck erfüllt es IMO sehr gut.
+    Fremdanbieter, die nur Binaries vertreiben wollen, können das zwar
+    (alleine oder in Zusammenarbeit mit den Distributoren) im
+    rpm-Format tun und ggf. verschiedene Versionen herausbringen, um
+    ihren Benutzern evtl. Probleme zu ersparen -- es ist aber
+    prinzipiell auch möglich, sie (Windows-like) mit eigenem
+    Setup-Programm ausliefern, womit in dieser Beziehung (etwa)
+    gegenüber Windows IMO kein Nachteil auftritt. Solche Programme
+    landen üblicherweise mit all ihren Shared Libraries,
+    Dokumentationen etc. in einem eigenen Verzeichnis unter /opt, so
+    dass sie auch ohne rpm sauber zu entfernen sind.
+
+Sachverhalt halbwegs geklärt?
+
+Viele Größe,
+     Paul Piechel
+-- 
+In einem Computerexpertenkreis die Worte: "ich bin Agakas" so ganz
+nebenher gelassen aussprechen, lässt alle anderen Anwesenden sofort in
+unterwürfige Demutshaltung und staunende Bewunderung fallen.
+                                 -- "Ulrich Pepperkorn" <cpjsr@wlxbihd.cn>

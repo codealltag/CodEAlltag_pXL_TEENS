@@ -1,0 +1,10 @@
+* Giorgio Ohlhafer <l-nks@ntgfclxgtac.kh>:
+
+[Bekannte]
+
+Ich würde in so einem Fall auf "Fwd:" im Suject matchen lassen. Das hat
+zumindest bei mir kaum false positives.
+
+Carlos
+-- 
+cross veinless

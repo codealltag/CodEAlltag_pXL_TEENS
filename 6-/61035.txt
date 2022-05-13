@@ -1,0 +1,5 @@
+Jetzt hat er es ja auch gefixt. Kurrer hat den relativen "?" Link nicht 
+auf die HTML Seite selbst sondern auf das übergeordnete Verzeichnis 
+bezogen. Manuel gefixt hat der Link natürlich funktioniert.
+
+Hartmut

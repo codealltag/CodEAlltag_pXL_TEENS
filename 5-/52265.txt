@@ -1,0 +1,15 @@
+Paul Lindpaintner wrote:
+
+[T€DI-Boards]
+
+
+Hatte ich bisher eins, IIRC das T€DI-5164. Ist irgendwann
+unbegreifbarerweise gestorben, hatte ständig Probleme damit (Hab ich die
+IDE-Ports deaktiviert bootete das Board nicht mehr, mit anderem BIOS
+konnte ich die IDE-.Ports deaktivieren und immer noch booten, allerdings
+erkannte er dann den AHA2940UW nicht mehr als bootbar an...)
+
+          ^
+Da las ich eben ein n.
+
+Jörn

@@ -1,0 +1,10 @@
+In dtju, hoffentlich. Wie soll ich den die nächtlichen Code-Sessions
+hier nennen?
+
+Na ja, normalerweise sollte ein 2.5.X-Kernel laufen, oder?
+
+mfg, 
+	Fritz
+-- 
+BOFH excuse #340:
+Well fix that in the next (upgrade, update, patch release, service pack).

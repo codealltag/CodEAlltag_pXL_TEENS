@@ -1,0 +1,7 @@
+kurt lese aus Datei $foo.mp3 und schreibe in Datei $foo.AA, lese immer 1024K
+am Stück und schreibe die auch.
+
+Thierry, und geh dabei nicht Belos
+
+-- 
+Life is a sexually transmitted disease.

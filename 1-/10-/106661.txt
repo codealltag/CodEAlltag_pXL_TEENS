@@ -1,0 +1,4 @@
+Am Thu, 2 Jun 2000 sendete Norbert Kohlleppel folgende Botschaft:
+
+
+Segmentation fault; Core dumped.

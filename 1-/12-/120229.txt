@@ -1,0 +1,11 @@
+begin quoting Valerius Lakamps <gi@xummrwb.jro>:
+
+Das das Kürzen nicht notwendig war und daher auch nicht zulässig.
+RFC1036 äußert sich nur sehr nebulös[1] darüber, wann Kürzen zulässig
+sein könnte.
+
+[1] um genau zu sein gar nicht.
+-- 
+Wenn die Idel, Herr Schlagbaum, zum Thema Rechtsradikalismus im Internet fordert,
+das Material zu verbieten oder zu filtern, dann werfe ich Ihnen vor, die 
+Probleme nicht sehen zu wollen.    [Pasquale Griesen in Iheb 20/2000, S. 104]

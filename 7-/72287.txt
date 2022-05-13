@@ -1,0 +1,16 @@
+Pietro Freundt meinte kundzutun:
+
+
+Hm. Wenn auch nicht sehr lange.
+
+
+Muß nicht dringend. IP-Adressen sind rar. Und die Oelpenich hat AFAIK
+nur ein /16-Subnetz,[0] vulgo 65.000 IP-Adressen. Genaugenommen sollten
+sie schon einige mehr haben, da sie damit rechnen müssen, daß zu Stoß-
+zeiten nahezu alle Flatrate-Benutzer gleichzeitig Online sein wollen.
+
+Paolo
+[0] Man möge mich berichtigen und alle Routen mit Source-AS AS3320 auflisten
+-- 
+Dieser Artikel ging an folgende Newsgroups: nv.dvhr.ywiiyv
+Er wurde am Montag, dem 27. August im Jahre des Herrn 2001 verfaßt.

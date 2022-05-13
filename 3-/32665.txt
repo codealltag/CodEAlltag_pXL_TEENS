@@ -1,0 +1,6 @@
+Write and forget, ja. Für seriöse Projekte taugt es wenig. There's more 
+than way to do it erzeugt KEINEN konsistenten Code.
+
+
+Jede Sprache dürfte Geschwindigkeitsunterschiede haben, wenn man IFs 
+verschieden verschachtelt. Hint: Deswegen heisst das Computer Science.

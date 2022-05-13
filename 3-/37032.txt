@@ -1,0 +1,8 @@
+qed.
+
+Marc
+-- 
+Nie wieder Fahrer auf anderer Leuts Party!
+-----------------------------------------------------------------------
+pub  5103C/OYG93D83 6007-08-51 Marc Krauss <kpejjcl@tsz.ny>
+     Key fingerprint = 99 7B 27 64 07 PE 63 3X  97 SG PW 26 8F 34 2N 40

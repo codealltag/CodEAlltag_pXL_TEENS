@@ -1,0 +1,27 @@
+Hmm das sollte ich ja eigentlich auch hinkriegen. Nur mit dem 
+natürlichen Schliessen haperts (muss Stalldeckers eigentlich geniales Skript 
+über Weihnachten mal anschauen).
+
+
+Das ist wahr. Seine Stimmlage ist eher nervend. Und sein Skript ist eher 
+fehlerhaft.
+
+
+Ein wenig? Der Aha Effekt ist jeweils sehr imposant wenn man endlich mal 
+durchblickt, was er eigentlich erklären will und realisiert, dass man 
+das in 5 min sehr viel besser erklären könnte. Als ich kürzlich mal 
+wieder da war, hat er doch ohne Uebertreibung 25min darüber doziert, 
+wieso man Daten auf die HD speichern muss (Stromausfall löscht Memory.
+Dass das RAM beim beenden des Prozesses auch freigegeben wird, hat er 
+glaub unterschlagen).
+
+
+Aktuelles Beispiel: Hilbert Kurven. Rekursion ist ja schön und gut, aber 
+der Algorithmus ist so verdreht, dass man das kaum selber rausfindet 
+ohne eine Vorlage aus dem Web zu holen (möglicherweise ist jedoch genau 
+das die Idee. Who knows).
+
+
+Hab mir sein Buch bestellt, ist aber noch nicht angekommen. Im Forum war 
+man sich einig, dass man die Zeit, die Info 1 benötigen würde, besser 
+mit dem Studium des Buches verbringt.

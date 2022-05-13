@@ -1,0 +1,23 @@
+Den Organisation-Header kann ich auch ganz schnell ändern, nur vergesse  
+ich danach immer, ihn zurückzustellen oder edidiere das Posting nochmal...
+
+
+Nope.
+
+
+Ist auch ne' FAQ: Mein geliebtes MTI unterstützt leider nur UUCP,  
+Fido und JPZ-Connect. aber kein NNTP. Für NNTP-Übertragung gibt's UKAW,  
+UKA_PPP und VSoup, die News von NNTP-Newsservern saugen können und sie ins  
+UUCP bzw. Z-Connect-Format konvertieren. Für den Posteingang benutze ich  
+UKAW (VSoup scheint mit dem Hamster inkompatibel zu sein), für den  
+Postausgang VSoup (eigentlich wollte ich das auch auf UKAW umstellen, aber  
+never touch a running system). Dummerweise ist ZMUN ein äußerst  
+mitteilungsbedürftige Stück Software und fügt eine zweite X-Newsreader- 
+Zeile ein, obwohl es eigentlich ja nur die News saugt.
+
+Urs Daiber
+
+-- 
+Maximilian Balecke übrigens auch!
+                                             E-Mail: dhijjb@bppprdgkwq.kz
+---> Offizieller Kämpfer wider Vittorio Füchtmann des Ordens von dtju <---

@@ -1,0 +1,14 @@
+Charles Tripler schrieb:
+
+[...]
+
+Klingt nur leider nicht danach. Wir machen dann doch noch eher
+einfachere Sachen, nur müssen wir dauernd irgendwelche Struktogramme
+zeichnen. Damit kommt irgendwie niemand klar. 
+
+Wenn man doch wenigstens mal IF und WHILE benutzen dürfte...*seufz*
+
+Dirk
+
+-- 
+Löscht alt.binaries.*!

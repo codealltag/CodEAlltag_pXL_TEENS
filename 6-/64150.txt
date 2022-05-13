@@ -1,0 +1,16 @@
+Könnte ich, aber ich tu's mit Win+F4. Habe ich gemacht, bevor die
+Win-Taste hier noch nicht funktionierte.
+
+
+Das ist seltsam. Schau doch mal nach dem Programm xkeycaps, oder so
+ähnlich. Damit kann man seine Tasten recht einfach umstellen.
+Allerdings funktionierte es bei mir nur unter purem X, also ohne
+Windowmanger richtig.
+
+Es erstellt eine .Xmodmap, die man dann irgendwie einbinden muss.
+Steht aber dabei, wie man das macht, IIRC.
+
+Patrick
+
+-- 
+cat .signature

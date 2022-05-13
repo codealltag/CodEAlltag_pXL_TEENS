@@ -1,0 +1,21 @@
+Mein erster Gedanke war, der Webmaster ist völlig inkompetent. Naja 
+dann schaute ich ins Impressum....
+Also meine Seiten z.B. sind auch validiert und werden im Netscape 2.0 
+und 4.x ordentlich angezeigt. Das CSS nicht korrekt dargestellt wird 
+stellt aber nicht unbedingt ein Problem dar, die Seite ist lesbar und
+das ist doch das wichtigste.
+Schließlich sollte man die Seiten nicht nur nach Standard schreiben 
+sondern auch mal in diversen Browsern testen bevor man sie hochlädt.
+
+
+über welche Sprechen wir jetzt? abelm.na hat durchaus Probleme mit 
+RGI.
+
+
+Ok dann sieht sie eben in einem Browser etwas anders aus als im 
+anderen, doch ist das immernoch besser als zu sagen: "Ich unterstütze 
+den Browser x nicht lade dir doch bitte IE 5.5...."
+
+Gernot
+-- 
+Noe, jetzt nicht mehr. Jetzt bin ich trotzig. (Germaine B. Dinkgräve)

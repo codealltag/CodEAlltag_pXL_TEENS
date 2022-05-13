@@ -1,0 +1,19 @@
+* Francesco Meger <psytkmmpxic@thwieowuxas.nk>:
+
+
+Drücke bitte das nächste Mal `C-g' (also Strg festhalten und dann
+g). Das killt den aktuellen Prozess.
+
+
+Und warum tut man sowas?
+
+
+Manual lesen. Stichwort gnus-agentize. Ich würde gerne helfen, nutze das
+aber nicht.
+
+
+s.o.
+
+Heribert
+-- 
+cross veinless

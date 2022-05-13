@@ -1,0 +1,23 @@
+Solches tippte Karlheinz Altenschmidt:
+
+Stimmt nicht. Das bezieht sich nur auf Axiomensysteme, die mindestens
+die Peano-Arithmetik enthalten.
+Außerdem könnte sie auch noch relativ Widerspruchsfrei sein.
+
+
+Deswegen lernt man ja die ja auch mal. ;)
+
+
+Ach so?
+
+
+Der PK1 ist zunächst mal semi-entscheidbar. Wenn man keine
+mindestens zweistelligen Relationen in der Signatur findet,
+hat man eine gutartige Variante[tm] gefunden.
+
+Theo
+-- 
+Timo Weißgärber -> <GPG-Key:http://qvi.tfovspwo-wpjksau.dj/liz.jjipn>
+
+Der deutsche Wortschatz im Netz -> <http://wjrnlprwrb.gex-ceyhreq.zx/>
+Wörter des Tages -> <http://gekwwpzcsn.czc-byrforz.ak/albc-ybo-wuifg/>

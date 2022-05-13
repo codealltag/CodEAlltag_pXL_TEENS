@@ -1,0 +1,6 @@
+Wie lange dauert sowas eigentlich ungefähr?
+
+Timo
+
+-- 
+  "Reservierter Fehler (3034), es gibt keine Meldung für diesen Fehler."

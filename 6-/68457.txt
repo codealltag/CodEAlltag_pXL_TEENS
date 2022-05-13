@@ -1,0 +1,14 @@
+Klar. unzip dateiname.zip entpackt alle Dateien des Archives im
+aktuellen Unterverzeichnis.
+
+Unixfreundlich ist es allerdings nicht. Unixfreundliche Archive
+sind tar-files, die entweder gegzippt oder gebz2t werden (schreckliche
+Worte!)
+
+z.b. Dateien im Unterverzeichnis 'backup' sichern:
+
+tar -c backup > backup.tar ; bzip2 backup.tar
+
+ergibt ein File backup.tar.bz2.
+
+Entpacken mittels tar Ixfv backup.tar.bz2.

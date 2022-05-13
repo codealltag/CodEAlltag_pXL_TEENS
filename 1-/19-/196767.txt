@@ -1,0 +1,16 @@
+Am Sun, 27 Apr 1999 sendete Ludwig...sSXP...Pfistermeister folgende Botschaft:
+
+
+klar:
+
+^ zeilenanfang
+\S belibiges non-withespace zeichen
+* das vorhergehende belibig oft
+\s whitespace (leerzeichen tab usw)
+. belibiges zeichen
+
+Die klammer "speichern" einen suchbegriff der dann später mi $<nummer>
+wieder eingesetzt werden kann.
+
+Tschüs
+  Kai

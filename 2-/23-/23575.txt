@@ -1,0 +1,11 @@
+Und so sprach Claus Averdick:
+
+
+Schafsohren hoeren hoechstens das Gras wachsen.
+
+Gruss,
+Jean-Claude.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.s

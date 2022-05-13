@@ -1,0 +1,11 @@
+Und so sprach Friedrich Juerries:
+
+
+Ey, Onno, wie^H^Her ist Günther?
+
+Gruss,
+Marcel.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.l

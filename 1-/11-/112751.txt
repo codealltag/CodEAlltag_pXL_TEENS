@@ -1,0 +1,9 @@
+* Ulfert Ellerbroek <xwozvxt@ksn.ds>:
+
+
+Man möchte aber schon von Anfang an ein Programm nutzen, bei man dafür
+nicht die Leertaste braucht.
+
+Hanspeter
+-- 
+cross veinless

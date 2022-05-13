@@ -1,0 +1,26 @@
+STATISTIK SEPTEMBER 2002
+-=-=-=-=-=-=-=-=-=-=-=-=
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   2014   34,74%  "Forte Agent"
+   2   1925   33,20%  "Gnus"
+   3    897   15,47%  "slrn"
+   4    404    6,97%  "Mozilla/NetScape"
+   5    201    3,47%  keiner angegeben
+   6    137    2,36%  OpenXP/32 v3.8.7pl6 (Win32) beta @ 26. 12. 22f
+   7    134    2,31%  "Xnews"
+   8     39    0,67%  "Gravity"
+   9     30    0,52%  OpenXP/32 v3.9.3 (Win32) alpha @ 26. 12. 22f
+  10     15    0,26%  "Microsoft Outlook"
+  11      2    0,03%  andere
+
+
+Statistik basierend auf den Ergebnissen von Frisco 2.0.3.0
+(Darstellung angepasst von Philipp Sondersorg)
+Basserend auf den Feeds von:
+ywqj.xno.jnu.mc         bjnu.mpvarkn.ze          lcsb.vzzac.gm
+ptwt.qsxeqy.yv          gjoh.h-imjlsy.uj         pmwn.vgp-fafdfzqs.gk
+aouz.iey-rmpehidse.rw

@@ -1,0 +1,31 @@
+Am Tue, 24 Dez 2001 sendete Henry Wallbrunn folgende Botschaft:
+
+
+Hm, da fällt mir gerade ein: 'ln -s vim emacs' in /usr/bin/.
+
+*tippeldietipp*
+
+#v+
+19:27:05 /usr/bin#emacs
+~                        VIM - Vi IMproved
+~
+~                            version 6.0
+~                      by Waldemar Formanski et al.
+~           Vim is open source and freely distributable
+~
+~                Help poor children in Uganda!
+~        type  :help iccf<Enter> for information
+~
+~        type  :q<Enter> to exit
+~        type  :help<Enter>  or  <F1> for on-line help
+~        type  :help version6<Enter> for version info
+#v-
+
+Gefällt mir *g*
+
+Tschüs
+  Eugen
+-- 
+Die � Weisheiten des Carlos Christian:
+
+Vorstand Raus.

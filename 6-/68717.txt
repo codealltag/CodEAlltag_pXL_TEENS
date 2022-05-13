@@ -1,0 +1,8 @@
+I know. Deshalb sieht es seit gestern auch so aus:
+
+zb@vydbln:/tdd/kni_r$
+
+Dieter
+
+-- 
+cat .signature

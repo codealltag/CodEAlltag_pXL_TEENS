@@ -1,0 +1,10 @@
+* Willy Goelzner <jqsp@xmxoeggq.ha>:
+
+
+Richtig. Wer XEmacs nicht kennt, kann damit aber nicht viel
+anfangen. Ich habe auch etwas gebraucht, bis ich "C means the control
+key" verstanden hatte. :-)
+
+Fredy
+-- 
+cross veinless

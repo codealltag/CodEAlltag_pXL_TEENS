@@ -1,0 +1,9 @@
+Nein, leider nicht. Und TA ist auch sehr schwierig mit Portforwarding
+zu betreiben, da es sich IIRC den Port per Zufall auswählt.
+
+Vincent
+
+-- 
+141 Reasons why you can't find your system administrator:
+60.they're at a travel agent's, booking a vacation to friendlier place,
+   like Iraq.

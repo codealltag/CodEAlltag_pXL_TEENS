@@ -1,0 +1,4 @@
+Ja Danke für die Hilfe aber ich habs inzwischen selber hinbekommen. in
+der Konsole einfach mit  'slrn -h rpas.ofz.vrs.ue' starten.
+
+Aldo

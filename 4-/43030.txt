@@ -1,0 +1,18 @@
+Hm, dann sind wir ja doch nicht so schlecht dran. In der Bibliothek
+stehen sagenhafte drei frei zugängliche Computer.
+
+Ich muss es unbedingt schaffen endlich von dort eine Verbindung zum
+hier befindlichen sshd hinzukriegen, um mit den Kisten auch mal was
+Produktives zu tun.
+
+Bisher ging's leider noch nicht. Die hängen alles über einen Proxy-
+Server im Netz und irgendwie...ach, keine Ahnung, warum's nicht tut.
+
+
+Den würdest du wirklich mit in die Schule nehmen?
+
+Herwig
+
+-- 
+"Das Leben hat keinen Sinn, außer dem, den wir ihm geben. Es ermutigt
+ den Menschen nicht, noch demütigt es ihn." (Didier Zink)

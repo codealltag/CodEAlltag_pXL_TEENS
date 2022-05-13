@@ -1,0 +1,17 @@
+Gut erkannt.
+
+Deine Signatur wird übrigens erst dann richtig abgetrennt, wenn Du sie
+mit "-- " (Anführungszeichen weglassen und das Leerzeichen hinter den
+zwei Strichen nicht vergessen) einleitest. Das macht dann gleich einen
+optisch viel schöneren und professionelleren Eindruck. Die
+Zeilenanzahl war aber o.k. *]
+
+Gabriele
+
+*] Jne vpu thg? ;-)
+
+-- 
+-Gabriele Löbnitz
+"Die Stadt schläft ein... die Mafia wacht auf... die Spannung steigt."
+
+-Karsten

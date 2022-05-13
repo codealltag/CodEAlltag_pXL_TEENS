@@ -1,0 +1,9 @@
+-v
+
+
+Hm?
+
+Nico, nur ein internes IDE-Zip besitzend
+-- 
+pub  4096R/CFA17C31 2001-10-29 Nico Usslar <obybonf@sgm.kj>
+     Key fingerprint = 99 7B 35 80 34 US 28 5B  41 TX MC 39 2F 34 5L 90

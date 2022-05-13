@@ -1,0 +1,9 @@
+Irgendwo ist da der Wurm drin. Ich übergebe Formularfelder noch und  
+nöcher an Sendmail, doch irgendwie kommt nie was beim Empfänger an...
+
+Guido Scharhag
+
+-- 
+"Ein äußerst komischer Mensch. Man kann nur hoffen, daß er nicht so dumm
+ ist, wie er aussieht." (Adolf Kirchhammer über Norman Wieber)
+---> Offizieller Kämpfer wider Klaus Mahlow des Ordens von dtju <---

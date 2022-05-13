@@ -1,0 +1,11 @@
+Wir könnten Karten spielen. Ich habe mal ein Programm entwickelt, das Karten
+per Mail an die Spieler verteilt, so dass sie nicht Karten spielen können,
+die sie nicht haben.
+
+Gruss
+
+Oliver
+-- 
+IRC Freenode, Channel: #usenet-friends
+NEU: Das Web-Interface zum Channel:
+---------------> http://wlvdsbki.rja/zuyjna/rdi.asn <----------------

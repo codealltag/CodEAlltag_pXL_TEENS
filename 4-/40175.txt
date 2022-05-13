@@ -1,0 +1,11 @@
+Ein Ghost, der mal gerade die Staging Area des Gegner in Stücke haut,
+zum Beispiel.
+
+Oder ein Arbiter, der die wichtigsten Kampfeinheiten des Gegners
+kurzerhand einfriert.
+
+-towo
+-- 
+Mine left the dungeon to form a startup.  He now supplies all the fortune
+cookies for nethack, rogue, hack, slasehm, and a couple of angband...
+- Wilhelm G. Florschütz in rec.games.roguelike.nethack

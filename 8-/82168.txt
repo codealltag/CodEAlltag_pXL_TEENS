@@ -1,0 +1,13 @@
+Carsten Daems hat geschrieben getan getutet:
+
+
+Es mag viele Informationen haben, aber heisst das, dass man sich diese
+alle auf einmal zu Gemüte führen muss, wenn man schon mit der großen
+Menge nicht klarkommt?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Valerian 'oskar' Conrady in ho.aim.ykftpxom.niamoxcz

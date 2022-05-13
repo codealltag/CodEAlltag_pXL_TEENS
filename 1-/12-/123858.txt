@@ -1,0 +1,7 @@
+Das Ende kommt auch so frueh genug - da muss ich doch nicht auch 
+  noch drauf zugehen.
+
+-- 
+Pasquale
+if(!exit(1))
+  fprintf(stderr, "exit call failed.\n Program will continue.\n");

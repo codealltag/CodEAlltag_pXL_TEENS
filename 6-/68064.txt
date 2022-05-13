@@ -1,0 +1,8 @@
+Nimm <1d/2d> den Zivi...
+
+Joachim
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Gérard Pohlmann in
+<zstb5u4ry4.5k1.mqhhcic.lyigje@tqa.eti.ba-dvgggczr.fc>]

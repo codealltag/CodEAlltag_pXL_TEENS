@@ -1,0 +1,12 @@
+Stefan Ulf hat geschrieben getan getutet:
+
+
+Sehr intelligenter DOCTYPE.
+DTD/xhtml1-transitional.dtd: File or directory not found
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Daniel 'knut' Jeuther in pv.bmy.sxxyiuwq.kaytyger

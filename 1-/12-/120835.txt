@@ -1,0 +1,28 @@
+STATISTIK FEBRUAR 2001
+-=-=-=-=-=-=-=-=-=-=-=
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   1333   37,31%  "Forte Agent"
+   2    754   21,10%  "Gnus"
+   3    268    7,50%  ehrlich registriertes Crosspoint, via NNTP
+   4    263    7,36%  Telnet Ver. 1.0
+   5    254    7,11%  "slrn"
+   6    209    5,85%  keiner angegeben
+   7    188    5,26%  "Mozilla/NetScape"
+   8    150    4,20%  "Microsoft Outlook"
+   9    131    3,67%  "Xnews"
+  10     11    0,31%  "Forte Free Agent"
+  11      5    0,14%  "Gravity"
+          5    0,14%  DOS Edit 6.22 I-Net Release V.79
+  13      2    0,06%  andere
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Francisco Zollner.
+(Darstellung angepasst von Edmund Fohrman)
+Basierend auf den Feeds von:
+yymkpslj.ahnbv.ig         rnwd.isi.vrk.es           jcni.x-cxkvgd.sv  
+ihfs.oqu-rmglsuqe.hs      xgcu.jop-rserdlru.no      cdhz.htq-ysrtwrusk.tu  
+jqttvlahsi.mqvawmodbq.ag

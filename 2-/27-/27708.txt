@@ -1,0 +1,10 @@
+Das letzte mal ist hier ne zentrale DB plattgegangen, als kanpp 400
+statt 8.000 Clients drauf waren. Jetzt soll dem nächsten Anlauf ein
+L. vorausgehen. Mitten in meiner Installationsorgie...
+
+
+Ja. Sogar in zwei Versionen.
+
+Friedhelm
+-- 
+Today is the tomorrow you worried about yesterday

@@ -1,0 +1,15 @@
+* ftqv@wypclorqaqg.xp (Fgzzalaxi Tagtnc):
+
+
+Da kann ich dann doch nicht mithalten. Zumal meine Workstation
+
+ewbgw@nptrwt:~$ uptime
+  5:49pm  up  7:03,  3 users,  load average: 0.06, 0.19, 0.17
+ewbgw@edoras:~$ uname -mrs
+Linux 2.2.18 i586
+
+eh jeden abend abgeschaltet wird.
+
+Lukas
+-- 
+8

@@ -1,0 +1,10 @@
+Ich habe gar kein Beduerfnis nach einem neues Dateisystem.
+
+Und ein paar Jahrzente dauert das auch nicht.
+AFAIK hat vor kurzem jemand in ein paar Monaten ein IFS fuer einen FTP-Server
+  entwickelt, also z.B. F:\ statt ftp://ahp.zubuiroh.sb/.
+
+-- 
+Jean-Claude
+"When you think about death do you lose your breath or do you keep your cool?
+ Would you like to see the Pope on the end of a rope - do you think he's a fool?"

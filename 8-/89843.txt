@@ -1,0 +1,8 @@
+* Ignaz Vallbracht <uuotgow543604@vpdtij.od-h.dg>:
+
+
+Unter Windows war das default, ja. Unter Musiktreff drücke ich Ctrl+Space,
+und kann dann mit den Pfeiltasten markieren. Das kann man aber auch
+alles konfigurieren.
+
+Pascal

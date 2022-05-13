@@ -1,0 +1,9 @@
+* Jens Osten <olhw@saaxjtcr.fh>:
+
+
+Weil es in hamster.* eine Realnamespflicht gibt. Und man nicht
+crossposten darf, wenn man nicht fupt.
+
+Ottmar
+-- 
+cross veinless

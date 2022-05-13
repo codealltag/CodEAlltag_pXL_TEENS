@@ -1,0 +1,14 @@
+Am 4 Jul 1999 18:38:07 GMT sendete Dennis Toennesen
+folgende Botschaft:
+
+[/opt/kde/bin als root nicht im path]
+
+Was war nochmal rekursion?
+
+
+AFAIK ja, Bin mir zwar nicht sicher wie aber es sollte schon gehen.
+schliesslich hab ich die X-verzeichnisse auch im path obwohl ich sie nie
+selber gesetzt habe.
+
+Tschüs
+  Cornelius

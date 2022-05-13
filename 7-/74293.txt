@@ -1,0 +1,12 @@
+Solches tippte Stefano Opferkuch:
+
+Seit heute früh so gegen 10 kommt ca. jede Minute 1 Mail an, die
+letzte war grad um 20:54. Umfang zwischen 250k und 1M. Titel der
+Dokumente sind teils schon nett "Bilanz 2000", "Wahrenausfuhr
+Ausland", "Daten", "Ingenieurbüro" etc... weniger fein ist, dass der
+Role Account an den der Müll geht offenbar mehrfach im Adressbuch
+steht, so dass alles in achtfacher Ausfertigung kommt.
+
+Wolf,
+  das Problem inzwischen mit procmail erschlagend und belustigt
+  weiter verfolgend.

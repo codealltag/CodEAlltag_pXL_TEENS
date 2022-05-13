@@ -1,0 +1,13 @@
+nachdem ich "the debian-way of life" kenne, muss ich sagen: Freiwillig
+keine andere Distri mehr. "apt-get update && apt-get upgrade" und
+fertig ist das Security-Update...
+
+
+Das letzte grosse, was ich mitbekommen habe, war der Wurm, der
+schlecht gewartete RH-Systeme befiel. Und dass Bind mal wieder ein
+Loch hatte...
+
+Fabio
+-- 
+"Your american beer is like making love in a canoe -
+ fucking close to water" [Monty Python]

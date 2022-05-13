@@ -1,0 +1,22 @@
+IMHO nicht schwieriger als manch andere Programme.
+
+
+Genauergesagt eigentlich nur 2, die .xemacs und ein .gnus, und wenn du
+willst musst du die auch nie anfassen sondern kannst alles mit  
+M-x customize regeln.
+
+
+*g* OK, den Qu�lcode muss man sich nun auch nicht unbedingt antun.
+
+
+Mhm...
+
+
+*seufz* Dein armes Gnu tut mir jetzt schon leid...
+
+Ben
+-- 
+Nachdem der Unterzeichnete durch seine demnächstige Verheiratung mit der 
+Gütlerstochter Francesca Theismann von hier ein schönes Stück Rindvieh hereinbekommt,
+bittet derselbe um Erweiterung seines Ziegenstalls für die erheiratete Kuh.
+    -- Luipolt Schoetensack (Ortspolizist) an den Gemeinderat in Jussenweiler im Jahre 1976

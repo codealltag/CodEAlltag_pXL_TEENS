@@ -1,0 +1,13 @@
+Tut mir leid, ich kann nicht anders. Es ist so: Crosspoint schafft es  
+nicht, einen Header zu erzeugen, bei dem die E-Mail-Adresse und die Msg-ID  
+vom cis.dfn-Newsserver akzeptiert werden. Ich muß mit einem externen  
+Filter die Teile des Headers modifizieren und da setzt es die zeit auf  
+amerikanische Zeit. Und bevor ich 0900 pm im Header hab', doch lieber  
+garnix.
+
+Jens Ziehm
+
+-- 
+Mehr Sicherheit für unsere Kinder! Verbietet das Internet!
+                                              E-Mail: icfvl@v-wzhgil.bb
+---> Offizieller Kämpfer wider Ivan Geringk des Ordens von dtj <---

@@ -1,0 +1,13 @@
+Nicht gut? dann stimm halt mit NEIN...
+
+
+Der Unterschied ist IIRC der, dass der Switch exklusive Verbindungen
+zwischen den Rechnern herstellt, während der Hub alles, was auf einem
+Port reinkommt, auf alle anderen Anschüsse kippt... Und wenn ich mich
+nich sehr irre, muss ein Switch wissen, welcher Rechner wo
+hängt... Haben alle Rechner werschiedene IPs, nur um mal den fehler zu
+nennen, der mich hier bald in den Wahnsinn getrieben hat...
+
+Edwin
+-- 
+In Newsgroups klappt DAS nicht! [Anoymous]

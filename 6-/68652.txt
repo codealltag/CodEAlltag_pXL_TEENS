@@ -1,0 +1,10 @@
+Zur Kenntnis genommen, THX.
+
+Hmpf .. gregor soll nun endlich mal das Script ausfuehren und den Output
+in der Signature anzeigen; muesste ich mir da jetzt den entsprechenden
+Hook fuer raussuchen?
+
+-towo
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.

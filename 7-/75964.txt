@@ -1,0 +1,5 @@
+Das kommt anscheinend auf den video output driver an. Mit '-vo x11'
+laeuft es wie von dir beschrieben, '-vo xv' bringt aber richtiges
+Fullscreen.
+
+Joseph

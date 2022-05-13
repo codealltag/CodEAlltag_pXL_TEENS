@@ -1,0 +1,9 @@
+Wenn es um Newsreader geht, müßte slrn für TEI das können - der
+Artikel einzeln in eine Datei geschrieben und es gibt eine
+Möglichkeit, vor dem Posten automatisch ein Filterprogramm
+(Rechtschreibprüfung, PGP etc.) dr�berlaufenzulassen.
+
+Viele Größe,
+     Domenico Altfelix
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

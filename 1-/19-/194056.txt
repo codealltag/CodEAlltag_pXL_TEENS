@@ -1,0 +1,12 @@
+Nein. Der Treiber ist nur für DirectShow und erlaubt den schnelleren
+Zugriff auf DVD-Medien. Aber DVD-Integration in den Mediaplayer dürfte
+wohl in weiter Ferne liegen...
+
+
+Hmmm... Zu faul... Mal sehen, irgendwann demnächst...
+
+C Ya,
+Stefano
+-- 
+The trouble with being punctual is that people think 
+you have nothing more important to do.

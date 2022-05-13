@@ -1,0 +1,9 @@
+Es gibt auch keine Texteditoren, die .doc drucken können. So what?
+
+
+Warum sollte das ein HTML-Interpreter nicht können?
+
+Viele Größe,
+     Bernhard Hügelmann
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

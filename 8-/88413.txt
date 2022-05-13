@@ -1,0 +1,6 @@
+Jein... IIRC gibts ne Java-Version, die dann auch unter Linux laufen
+sollte...
+
+Othmar
+-- 
+            It is easier to fix Unix than to live with NT.

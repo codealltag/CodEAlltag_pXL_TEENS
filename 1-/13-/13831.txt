@@ -1,0 +1,9 @@
+Das Argument hat jetzt ungefähr die Güteklasse eines Streites des Stiles:
+`Stimmt ja gar nicht!'
+`Stimmt ja wohl!'
+`Stimmt nicht!'
+`Stimmt doch!'
+-- 
+Legacy (adj): an uncomplimentary computer-industry epithet that
+              means 'it works'.
+- Manfred Inderheggen

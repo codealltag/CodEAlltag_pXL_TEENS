@@ -1,0 +1,11 @@
+On Sat, 27 Sep 1998, Michel Pöttger <ulynbxb_mayblqr@bnn.jx> wrote:
+
+[YaST "shreddert" Partition?]
+
+Mmh - an welcher Stelle greift YaST schreibend auf eine Partition zu,
+ohne daß Du es ihm erlaubst?
+
+Viele Größe,
+     Johann Nienhysen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

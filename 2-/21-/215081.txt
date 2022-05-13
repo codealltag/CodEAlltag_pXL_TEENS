@@ -1,0 +1,22 @@
+Am 31. 05. 21 19:37:56 GMT sendete Ullrich Cunradi
+folgende Botschaft:
+
+
+chmod: too few arguments
+Try `chmod --help' for more information.
+
+
+rm: remove `./felix', overriding mode 0750? y
+rm: ./felix: Permission denied
+
+
+;-p
+
+
+Wenn er wie du gesagt hast kein feeding kann, fehlt wohl z.B. sendme
+ihave und co.
+
+Btw: wie sieht es mit Controls aus?
+
+Tschüs
+  Eilert

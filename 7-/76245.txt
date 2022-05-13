@@ -1,0 +1,8 @@
+So, nun würde sich eine Digitalkamera mal lohnen...
+
+Robin
+
+-- 
+Güssgen ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

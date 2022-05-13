@@ -1,0 +1,11 @@
+Und so sprach Edmund Urban Unverdorben:
+
+
+Eine Vorladung zum Candle Light Dinner?
+
+Gruss,
+Abdul, resistance is futile, you'll be dated!
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.a

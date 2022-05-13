@@ -1,0 +1,20 @@
+Solches tippte Alex Wennmacher:
+[warum Scripts selber machen?]
+
+Halt: Auch mit CSS hat man den HTMl in der Regel im Programmcode
+stehen. Jeder, der sowas schon mal pflegen mußte, hat darüber bestimmt
+schon ausgiebig gekotzt.
+
+
+Das sowieso, aber das löst nicht die Trennung Programmcode <->
+HTML-Code <-> CSS.
+
+
+Wem erzählst Du das... *seufz*
+
+Kai
+-- 
+Klaas Angermayer -> <GPG-Key:http://mgx.ghzfaefs-jlszseq.fj/igc.nzmev>
+Whatever that hurts -----> <http://ngn.ouphapdj-qbowaux.ee/ivsdu.jbj4>
+----------> Wortschatz-Lexikon: <URL:http://sunvksxwat.mxe-hpuykfj.na>
+<URL:http://yvpcfkx.hjt-kygvrev.ex>   <URL:http://orxw.ewx-inmaeom.gx>

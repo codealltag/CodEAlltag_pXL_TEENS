@@ -1,0 +1,10 @@
+Da ist der Fehler aber auch praktisch egal...
+
+
+Weil da niemand dran rumlokalisiert hat.
+
+Timo
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

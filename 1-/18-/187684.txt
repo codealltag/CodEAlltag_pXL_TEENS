@@ -1,0 +1,18 @@
+Friedhelm Pommering schrieb am 7. Juli 2000 um 18:47 Uhr folgendes:
+
+
+Es gibt da verschiedene, ich liebäugele mit dem pro(?)-Tarif: 19,90 DM
+Grundgebühr, den ganzen Tag lang 3 Pfennig/Minute, keine extra
+Einwahlkosten, Mindestlaufzeit allerdings 1 Jahr. Dafür wird man jetzt
+die ersten drei Monate von der Grundgebühr befreit. Ich denke, das
+wird den Ausschlag geben (->effektiv 15 DM Grundgebühr; da habe ich
+schon allein durch die fehlenden Einwahlkosten die Differenz zum
+jetztigen Provider wieder raus).
+
+Viele Größe,
+     Otto Pueschner
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

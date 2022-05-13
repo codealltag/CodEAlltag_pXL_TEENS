@@ -1,0 +1,22 @@
+Aha. Eigentlich praktisch.
+
+Was müsste ich eigentlich tun, um z.B. den leafnode wieder zu
+"deinstallieren"? Die Dateien sind doch recht verstreut im System,
+oder?
+
+
+Richtig. Immer wieder ein Abenteuer. 
+So installiert man vielleicht auch nicht soviel Müll auf seinem
+System...
+
+Mittlerweile könnte ich durchaus schon über Gnus auf Linux posten.
+XEmacs und Gnus laufen, wie sie sollen. :-) E-Mail-Holen-und-Senden
+ist aber noch nicht eingestellt und ich müsste noch die vielen Gruppen
+irgendwie sortieren oder in Unterordner ("Lesen!" - "Nicht unbedingt
+lesen" - "Ignorieren") bringen.
+
+Manuel
+
+-- 
+Die letzten Worte des Bergsteigers:
+"Siehst Du, genau so muss man den Knoten machen!"

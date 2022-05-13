@@ -1,0 +1,18 @@
+Dann könnte man sich aber immernoch das ganze Prosting holen und dieses 
+auf Reply-to scannen und auswerten. Ich seh da kein Problem.
+
+
+Es bezog sich eher darauf das er gezielt Reply-to bespamte und das From 
+verschonte.
+
+
+So selten nun auch wieder nicht. Es gibt viele die verwenden ihre 
+Domain bzw. eine Subdomain dafür und ein catchall deckt dies mit ab. 
+(Bei mir ist es zum Beispiel so.)
+
+Sandro
+
+-- 
+Freiheit bedeutet Verantwortlichkeit. Das
+ist der Grund, weshalb die meisten Menschen sich vor ihr fuerchten.
+- Arnold Manfred Czybulka

@@ -1,0 +1,12 @@
+"Wir haben einen Sieger! Wir haben einen Sieger!"
+
+
+Wenn mein Name dort zu lesen ist, heißt das ja lange noch nicht, dass
+ich auch in unmittelbarer Nähe bin...
+
+Edgar, dircproxy nutzend.
+
+-- 
+NNJ ImageReady:
+"Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+ should not have been."

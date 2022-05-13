@@ -1,0 +1,10 @@
+Vorab: alle teile als Ungelesen markieren (M-u)
+
+Einen Teil anzeigen lassen, Mousebutton3 draufklicken, warten, bis die
+vier Teile zusammengesetzt sind, dann sollte dir ein einziger
+MIME-Teil angezeigt werden. Den kannst du dann wie ein normales
+Attachment abspeichern.
+
+Cédric
+-- 
+Sage mir, daß ich schön bin. Ich belge Dich dann auch.

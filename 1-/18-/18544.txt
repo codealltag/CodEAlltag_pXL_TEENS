@@ -1,0 +1,9 @@
+GSSK ist ein Zusatztool für den Agenten. Geschrieben mit
+Delphi. Ihc hab mir mal den Source dazu angeschaut, der verwendet in
+Delphi anscheinend Perl. Das müsste sich doch umsetzen lassen, hm?
+
+Giuseppe, Source bei Gelegenheit nochmal ausgraben werdend
+
+-- 
+interpunktion und orthographie sind stellenweise frei erfunden. eine 
+uebereinstimmung mit geltenden regelungen waere rein zufaellig.

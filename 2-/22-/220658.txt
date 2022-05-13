@@ -1,0 +1,57 @@
+Wie hoch schaetzt du deine Lebenserwartung ein ?  :->
+
+
+Dann solltest du neben der fettebeute auch mal andere Zeitschriften
+  aufschlagen. Ich hab sowas bisher nur in der Flugbörse gelesen. Die hatten
+  mal 2-3 mehr oder weniger gute Artikel.
+
+
+IIRC hat zumindest einer davon Klangarten-BIOS.
+Ich kann das aber jetzt nicht ueberpruefen.
+
+
+Wieso ?
+Wie willst du denn auf einen Fehler aufmerksam machen ?
+Durch Selbstentzuendung des Chips ?
+
+
+Solche Geraetschaften werden weitaus sorgfaeltiger geprueft, aber ein
+  Programmierer denk oft nicht daran, dass seine Software in 20 Jahren
+  noch benutzt werden wird.
+
+
+Es sind sogar aeusserst viele Cobol-Programme im Umlauf.
+Viele sind noch aelter.
+
+
+Die sichern sich ihren Lebensunterhalt, indem sie ihre alten Programme
+  korrigieren. Arbeitsplatzsicherung.
+
+
+1989 ? Nein.
+Da gab es IIRC schon Festplatten >60 Mb.
+
+
+Ich meine, zuerst waere die Idee irgendwo in Asien aufgekommen.
+Bei China oder Criewen in der Ecke.
+
+
+Notiz: Die naechsten beiden Jahre nicht mit Vanderlooy fliegen  :-)
+
+
+Es steht nicht in einem Programm.
+Aber wenn z.B. 10 Unterprogramme 10 verschiedene Fehler melden. Und 10
+  groessere Programme ebenfalls verschieden darauf reagieren, dann ist
+  es sehr schwierig vorherzusagen, was am Ende passiert.
+
+
+???
+Wie kommst du darauf ?
+
+
+Was stand denn da ?
+
+-- 
+Wolfram
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

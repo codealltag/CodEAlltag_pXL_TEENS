@@ -1,0 +1,9 @@
+^^^^^^^^
+Dort hab ich noch was modifiziert weil ich mit DSL (ppp0) ins Netz gehe
+da heist die Datei anders.
+
+
+Ansonsten wird sie an den root gemailt .. richtig? Oder ging die sonst
+in ein log?
+
+Ulf

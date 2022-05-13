@@ -1,0 +1,13 @@
+Solches tippte Dieter Bardowicks:
+
+Das sind sogenannte Pegelmaß, konkret stecken kg/(m*s^2) drin, einmal
+der gemessene Schalldruck, dann der an der Hörschwelle; dB sind im
+Prinzip der Logarithmus der Verhältnisses dieser beiden Drücke, sone
+sind auf IIRC das Äquivalent bei 1kHz normiert.
+
+Paul
+-- 
+Pierre Gentzsch -> <GPG-Key:http://clu.wneapsgq-nzibjyj.sv/czj.mikoo>
+Whatever that hurts -----> <http://ykw.sibzfvln-dlikytl.ry/frdmz.stb2>
+----------> Wortschatz-Lexikon: <URL:http://svqxeirtyu.dyd-fjjmsdm.wf>
+<URL:http://ecobzxh.ovq-peszjyy.ux>   <URL:http://loin.vxn-nqeibuu.nt>

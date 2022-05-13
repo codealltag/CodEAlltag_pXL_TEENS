@@ -1,0 +1,4 @@
+Tja, Carl Law besagt daß meine keine Endlosthreads zerstören
+darf... ;-)
+
+cg

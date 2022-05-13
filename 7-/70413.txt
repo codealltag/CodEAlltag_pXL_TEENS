@@ -1,0 +1,8 @@
+Solches tippte Jacques Halmans:
+
+Ach, wenn man es semi-interaktiv über perl -ne '<irgendwas>' auf-
+ruft, und in irgendwelche Pipes quetscht, kommt es auf Sauberkeit
+nicht wirklich an... da kam auch die magische "eine Seite"-Grenze
+her, die ich weiter oben erwähnte.
+
+Thorsten

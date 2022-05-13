@@ -1,0 +1,22 @@
+* Jérôme Racherbäumer <fyjheklvnuv@alhnzgpmppx.ce>:
+
+
+Array definieren, Zensuren eingeben und dort einlesen lassen. Array
+durchsuchen, und if 6 then sitzengeblieben. Wenn keine 6, Anzahl der 5en
+minus Anzahl der 3en. If > 0 ... you see?
+
+Keine Ahnung, ob man das so in Pascal überhaupt machen kann, ich habe
+das zu lange nicht mehr gemacht. 
+
+
+Ich finde überhaupt nicht.
+
+
+Haben wir auch gemacht. Tröste dich.
+
+
+Passt schon. Warum musstest du das denn?
+
+Olivier
+-- 
+cross veinless

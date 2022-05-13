@@ -1,0 +1,26 @@
+[Völlig neuen Thread angefangen; ich habe keine Lust, jedes Mal die
+References zu reparieren...]
+
+On 18 Apr 1999, Nicolas Caks <Ixk.Yxjrl@zvw.od> wrote:
+[...]
+
+Entschuldige, aber die Mehrzahl der mir bekannten Newsreader ist bei
+korrekter Handhabung in der Lage, brauchbare Postings zu erzeugen.
+Wenn Venezia das nicht kann, fällt es mir äußerst schwer, es als einen
+der besten Newsreader zu akzeptieren...
+
+
+Die erste Message-ID gehört zum Ausgangsposting des Threads und ist
+daher für die Zuordnung zum richtigen Thread wichtig. Die letzten drei
+Message-IDs sollen stehen bleiben, damit das Posting innerhalb des
+Threads auch dann noch richtig eingeordnet werden kann, wenn der Feed
+nicht vollständig ist, d.h. Postings fehlen.
+
+
+Son-of-RFC 1036, dort stehen auch noch ein paar weitere Regeln, die
+man beim Kürzen der "References:" beachten sollte.
+
+Viele Größe,
+     Maik Christiansen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

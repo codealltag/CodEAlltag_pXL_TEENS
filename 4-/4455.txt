@@ -1,0 +1,10 @@
+Ziemlich. Ich war im Juni 2000 das erste Mal im Internet, von daher
+habe ich gute Chancen, nicht gemeint zu sein.
+
+Didier
+
+-- 
+Mathäus:~$ whoami
+root
+Mathäus:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Francis Volkenandt]

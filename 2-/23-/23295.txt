@@ -1,0 +1,8 @@
+Ich hab einfach meinen 'showascii' umgebaut, das war also relativ wenig
+Arbeit.
+
+mfg, 
+	Carlo
+-- 
+MVM excuse #24:
+network packets travelling uphill (use a carrier pigeon)

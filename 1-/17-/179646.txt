@@ -1,0 +1,10 @@
+Huh, das UUCP-Modul, das bei Klemt dabei ist, unterstützt selbst kein UUCP- 
+over-IP, aber da gibt's entsprechend andere. Ich werd' mich mal  
+schlaumachen.
+
+Ronald Rückbrodt
+
+-- 
+Wählt Zukunft! Wählt die EPG.
+                                             E-Mail: clqgyc@ugyyeuujpq.bd
+---> Offizieller Kämpfer wider Karsten Iseken des Ordens von dtju <---

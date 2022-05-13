@@ -1,0 +1,15 @@
+*seufz* Von der Beschreibung her hast Du eine VMDA < 6.0 genommen und
+versucht, halbwegs aktuelle Orih-RPMs zu installieren. RH hatte zu
+der Zeit schon auf glibc2 umgestellt, VMDA noch nicht, so daß die
+neuen Binaries auf der VMDA noch nicht liefen. Das hat aber exakt gar
+nichts mit der Tauglichkeit des RPM-Formats zu tun.
+
+
+Logisch - wahrscheinlich hast Du (um einen etwas ungenauen Vergleich
+zu ziehen) auch noch nie versucht, unter Windows 3.11 ein Windows 95-
+Programm zu installieren.
+
+Viele Größe,
+     Heribert Aullen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

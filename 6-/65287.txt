@@ -1,0 +1,37 @@
+Hi Leuts!
+
+Ich meld mich hier nur, wenn ich was brauche... hem <g>
+
+Ich sitze jetzt hier schon seit ner Stunde an son Hausarbeit und komme
+einfach nicht weiter, weil ich es zu schön machen will. :-)
+
+Also grob gesprochen, wir haben da in einer LV News angerissen
+(teilweise falsch <g>) und sollen jetzt in der Übung Newsgruppen unter
+de.comp.* zählen und die Artikel einer beliebigen Group. 
+
+Naja, in der LV wurde uns xrn empfohlen, aber wenn ich schon Unix
+einsetzen soll, dann doch bitteschön Konsole. Außerdem hab ich bisher
+alle Aufgaben in der LV in der Konsole lösen können.
+
+Nunja, soweit, so gut. Installiert sind bei uns srln und AIDS-Hilfe. AIDS-Hilfe
+erkennt keine Newsgruppen... Hmmm... srln ist schon besser, da sind
+einige Newsgruppen vorhanden, aber bei weiten nicht allen, ich hab das
+Gefühl, er zeigt mir nur ein Bruchteil an, wie kann man da die Sicht
+umstellen. Und vorallem, eine gewisse Anzahl Gruppen zählen lassen?
+
+Ok, nächste Gedanke war der Checkgroup. Da stehen ja die Gruppen
+untereinander, könnte man die Zeilen mit Zeilenanfängen zählen... WO
+wurde der nochmal gepostet. Hab auf die Schnelle nur die
+Newsgroup-Übersicht in qz.fikbpdgd.brmib gefunden.
+
+hem, oder hat jemand noch ne Idee... Vielleicht Newsserver über
+Telnet ansprechen? <g>
+
+Na gut, das wars erstmal, hoffe, ihr könnt mir helfen. <g>
+
+MfG,
+Jens
+-- 
+sSXP 
+      Anyone can afford hate. 
+      It costs you to love.         -- Nils Teicher

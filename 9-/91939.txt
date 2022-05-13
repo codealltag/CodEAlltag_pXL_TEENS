@@ -1,0 +1,9 @@
+((not
+   ("from" "\\(^\\|\\s-\\|\\s(\\|\"\\)[-a-z߰'A-Z-�]\\{2,\\}\\(\\s-.*\\s-\\|\\s-+\\)[-a-z߰'A-Z-�]\\{2,\\}\\(\\s-\\|\\s)\\|\"\\|$\\)" R))
+  -1000))
+
+tuts bei mir recht zuverlässig
+
+Ottmar
+-- 
+"Wir haben einen vorläufigen Erschießungsbefehl gegen Sie."

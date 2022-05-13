@@ -1,0 +1,4 @@
+Ach, muß man nun schon automatisch auf verschiedene Speicherungs-
+Verfahren eingehen? Cool, dann gelten ja sämtliche Angaben von ca. 1MB 
+bis unendlich als richtig. Ich kann Texte schließlich auch aufblühen. 
+Oder als Bitmap speichern.

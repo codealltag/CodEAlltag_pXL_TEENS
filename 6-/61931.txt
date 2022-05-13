@@ -1,0 +1,9 @@
+Seltsame Einstellung. Es soll Leute geben, die _keinen_ Musiksender
+schauen und trotzdem gute Musik hören.
+
+#ifndef NOT_TOLERANT_TO_MINOR_FLAME
+cout << "Du willst <cite> nutzen. cite kennt die Attribute src und
+style."
+#endif
+
+-towo

@@ -1,0 +1,6 @@
+*seufz* Keine Klammern wäre in Java nett, weil ich dann nicht mehr mir
+anderthalb verschiedenen Präferenzen für Klammern arbeiten müsste...
+
+Otmar
+-- 
+Mach dich mal gross und nuetzlich. [Veit wollte in Giovannis Windschatten]

@@ -1,0 +1,24 @@
+Die einzige 'Unix'-Gruppe die ich lese ist ssl... ;-)
+
+
+Fragt ihn halt, ob er ihn dir übers Wochende leiht...
+
+
+Eben. Ich hab n Tool mit dem sich e2fs-Drives in Windows lesen und 
+schreiben lassen, auch /etc/shadow...
+
+
+Und ich will es von Hand pflegen, und nicht andre an meinen Rechner 
+lassen...
+
+
+Kann sich ja mal ändern...
+
+
+Control: cancel <X@Y.Z>
+Sieht für mich nach control-verarbeitung aus...
+
+
+Und 1-2 Tage um die entsprechenden Docs durchzuarbeiten...
+
+cg

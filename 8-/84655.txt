@@ -1,0 +1,11 @@
+Ludger Ploeckl hat geschrieben getan getutet:
+
+
+man 8 Assoziation
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Antoine 'fred' Inthoff in qt.hgn.gxjhfgjr.bgnlzdwi

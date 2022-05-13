@@ -1,0 +1,9 @@
+Sie wollen wirklich das Pferd? Nicht lieber den Maulwurf?
+
+
+Heut' ein buffer overflow, morgen DoS, übermorgen Armageddon.
+
+-towo
+-- 
+Peeling off to attack now , sir!
+- Werner K. Gellhaus in alt.fan.pratchett

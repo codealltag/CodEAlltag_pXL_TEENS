@@ -1,0 +1,3 @@
+Nein, ich encode im Hintergrund, das kostet ne Menge Rechenzeit.
+
+Fred

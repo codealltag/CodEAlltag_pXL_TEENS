@@ -1,0 +1,9 @@
+Ich weiss zwar nicht genau, was bei dir dargestellt wird, aber bei mir
+ist das ein Seitenwechsel, der Text wird also erstmal nur bis zum Ctrl-L
+gezeigt, der Rest erst nach dem nächsten "Space".
+
+Matthias
+-- 
+Lieber Gott, mach mich hart
+Für diese Welt
+Und täte den Verstand, der mich quält

@@ -1,0 +1,10 @@
+Dann mußt du schon ein wenig mehr Arbeit investieren...
+Erstmal listest du dir alle Dateien unterhalb von / auf und wählst dir
+zufällig eine davon. Auf die lässt du dann den Link zeigen.
+towo kann dir da sicher mit einem perl-script helfen. 
+
+Ottmar, wieder ein Problem weniger.
+
+-- 
+Documentation is like sex: when it is good, it is very, very good;
+and when it is bad, it is better than nothing.   - Beat Gerhard

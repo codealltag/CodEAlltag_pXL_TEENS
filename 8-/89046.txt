@@ -1,0 +1,15 @@
+Der vi(m) hat mehrere Modi, in denen man nur mit den
+"Schreibmaschinentasten" auskommt. Der (x)emacs hat für Funktionen
+Ctrl, Meta usw. Beides ist gewöhnungsbedürftig. Mir gefällt das
+vi(m)-Konzept besser, anderen das (X)emacs-Konzept. -- (X)emacs würde
+sich auch nicht lohnen für mich, weil er nicht überall vorhanden ist,
+wo ich mich zum Arbyten hin'ssh'en darf ;-) Außerdem mag ich "iab"s...
+
+Clemens
+der jetzt schon seit drei Wochen geduldig einem Mobe-Index beim 
+Wachsen zusehen muss ;�(
+-- 
+Carl Merzmann --+- stud. soz. & inf. -+-- http://lfk.etq-ipmjwxu.bk
+-->    GPG Public Key: http://xai.xgxevoax-bybiuwy.zu/cvs.tjtkv    <--
+
+� Projekt Deutscher Wortschatz: <URL:http://tysphcingu.ryd-euzqmth.zz>

@@ -1,0 +1,28 @@
+Inga Zwicknagel hat geschrieben getan getutet:
+
+
+Sch�lerkrankheit.
+
+
+Nisz dieses Otto! Es iszt zu putzig!
+
+
+if mood = gut then print "Schade" else print "Glück gehabt"
+
+
+Ich trinke nicht.
+
+
+N!
+
+
+Wegen der Frage, ob die Golchert im Spiel ist, bin ich albern.
+
+Interessant, dann bin ich ja ein richtiger Partykracher.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Clemens 'theodor' Votz in ic.rhn.perhkrbz.wtlqbbjk

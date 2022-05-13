@@ -1,0 +1,9 @@
+* "Veit Wiehl" <rjrz@rhvvlqyu.uc>:
+
+
+Meint er die Zitatebenen und die Ebenen in der Darstellung eines
+Threads? Da ist der Agent ja auf 15(?) begrenzt.
+
+Joachim
+-- 
+cross veinless

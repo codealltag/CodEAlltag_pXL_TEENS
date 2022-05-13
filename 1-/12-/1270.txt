@@ -1,0 +1,11 @@
+*reknuddel* Mein Arbeitslinux bootet zuverlässig. Der Testserver bootet
+nicht mehr, warum habe ich noch nicht rausgefunden. Aber da der eh
+demnächst ausgetauscht wird ist mri das erst einmal wurst. 
+
+Rudi
+
+-- 
+[Mensengespr�che]
+Er: Wie nennt sich dies hier? *zeig*
+Ich: Texashacksteak.
+Er: Ist das *zeig* das Fleisch?

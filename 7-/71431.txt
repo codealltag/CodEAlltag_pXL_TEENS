@@ -1,0 +1,13 @@
+Auch mir macht es bisher wenig Spaß mit denen zu spielen. Sind alle zu
+gut. :-)
+
+
+Kann man bei UT eigentlich Strafe-Jumps machen? Weiß das hier jemand?
+
+Thierry,
+das wäre nämlich etwas, was man erklären könnte...
+
+-- 
+Frizör ImageReady:
+  "Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+   should not have been."

@@ -1,0 +1,7 @@
+Was mich an den dailywtf von heute erinnert: "Setzen sie alle Bits einer
+Zahl auf Null." Die Lösung war kreativ.
+
+Roland
+
+-- 
+              To boldly go where I surely don't belong.

@@ -1,0 +1,14 @@
+p = mv
+v = at
+a = F/m
+
+ => p = mat
+<=> p = Ftm/m
+ => p = Ft
+
+What's so hard about that?
+
+-towo
+-- 
+"It's the little touches that make a future solid enough to be destroyed"
+- August W Theurkauf

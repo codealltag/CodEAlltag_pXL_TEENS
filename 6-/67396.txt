@@ -1,0 +1,30 @@
+Ich klammere recht explizit, selbst wenn es nicht nötig ist, und dann
+auch so, dann ich sowas wie
+
+if (Bedingung) {
+Anweisungen
+}
+
+Baue, während die Codeschnipsel, die ich bekomme, 
+
+if (Bedingung) 
+{ Anweisungen}
+
+oder 
+
+if (Bedingung) {
+Anweisung}
+
+oder 
+
+if (Bedingung)
+{ Anweisung
+}
+
+Natürlich alles durcheinander. Lesbarkeit ist da nicht mehr wirklich
+gegeben.
+
+Valerio 
+-- 
+Ich kann die Obdachlosigkeit bekämpfen:
+Sie sollen alle einfach nach Hause gehen...

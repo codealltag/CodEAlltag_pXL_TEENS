@@ -1,0 +1,13 @@
+On 12 Jan 2000, Domenico Beyermann <drfgcc@qfxgc.jr-csj.rm> wrote:
+[.signature-File]
+
+Genau das.
+
+
+Schlecht - auch wenn der Sigtrenner "-- " nicht unbedingt glücklich
+gewählt ist, ist er laut RFC Standard.
+
+Viele Größe,
+     Tino Rothensee
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,27 @@
+Und so sprach Johannes Motz:
+
+
+Kurz gesagt: Sie schaffen es nicht, fuer die IP# aus ihrem
+Kunden-NAT-Pool Reverse-Lookup einzurichten. Aber wer braucht schon
+DE-IRC, gewisse FTP-Server oder einen eigenen MTA ...
+
+Hingegen versteht es Signore Buonaiuto [1] ausgezeichnet, diese
+Problematik zu zerstreuen.
+
+
+Naja, als ISP sollte man das einigermassen im Griff haben. Aber wenn
+man schon die DNS-Maschinen auf Uril setzt, dann gute Nacht ...
+
+
+Dinge wie NAT nerven sowieso gewaltigst (wenn man es nicht bewusst
+selbst einsetzt). Ich finde, das ist ein kastrierter Anschluss.
+
+Gruss,
+Chr "Gibt viel Korrespondenz" is.
+
+[1] Supporter. Ironie des Schicksals?
+-- 
+I'm a 21st century digital boy
+I don't know how to live
+but I got a lot of toys
+				--BAD RELIGION - 21st century digital boy

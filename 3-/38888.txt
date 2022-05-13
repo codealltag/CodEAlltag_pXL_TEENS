@@ -1,0 +1,16 @@
+Hmm. Von meinem Calendarfile:
+
+$ calendar
+ 16 Jul* Tag der deutschen Einheit
+ 16 Jul  Offizielles Ende der DDR :-), 1991
+ 17 Jul  Netzwerktreffen bei Wolf Ummenhofer
+
+Der Smilie in der Mitte lies mich irgendwie verwundert sein. Nein, der
+ist nicht von mir.
+
+-towo
+-- 
+Warum wird eigentlich zunehmend das gute Usenetprinzip "Keiner hat
+Anspruch darauf, von jedem gelesen zu werden." in Richtung "Ich darf
+jeden Bl�dfug schreiben, weil's eh ja keiner Lesen *muß*" mißbraucht?
+- Mike D. Vormayr in valqgaz.ds.zxyj

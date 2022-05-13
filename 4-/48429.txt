@@ -1,0 +1,9 @@
+Hab ein bisschen mit den Zeichensatzeinstellungen rumexperimentiert,
+nützt aber nix. Dabei aber festgestellt, dass die wirren Zeichen
+durchaus wechseln, wenn man die Nachricht mehrmals öffnet. Nach dem
+Zufallsprinzip tauchen da dann einzelne Buchstaben wie B, P oder �
+zwischen den Kästchen auf, beim nächsten öffnen sind es andere
+Buchstaben an anderer Stelle. Sehr merkwürdig.
+
+
+willy

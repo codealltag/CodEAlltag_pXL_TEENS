@@ -1,0 +1,5 @@
+\c soll ein normaler IRC-Steuerbefehl sein? Achja, Microsoft hat ja
+auch Standards durchgerungen, also Herr Zurborn pusht gerade
+mIRC-Colorcodes als Standards?
+
+-towo

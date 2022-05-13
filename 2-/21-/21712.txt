@@ -1,0 +1,7 @@
+Gnq0: Australien.
+
+mfg, 
+	Willy
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

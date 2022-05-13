@@ -1,0 +1,7 @@
+Nein, wir wollen kein Redundant Array of Amnesiac Brains, sondern ein
+reines Redundant Array of Brains. ;)
+
+-towo
+-- 
+"Unix was the first OS where you could carry the media and system
+documentation around in a briefcase. This was fixed in BSD4.2."

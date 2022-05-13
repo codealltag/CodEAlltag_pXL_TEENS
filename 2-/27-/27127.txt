@@ -1,0 +1,13 @@
+Am Wed, 06 Mai 2002 sendete Darius Carstens folgende Botschaft:
+
+
+Grmml, ich habe hier jede menge Disketten, nur irgendwas in der Kombi
+"Diskette-Laufwerk-Amiga/UAE" ist immer zickig.
+
+Tschüs
+  Volker
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 29. 05. 21 Volker Wockenfuß <iyuljglxqn@fndsjfnbiv.rf>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/B3F9CD02 29. 05. 21

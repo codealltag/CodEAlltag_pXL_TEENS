@@ -1,0 +1,18 @@
+Heino Isenhuth <oyfqwnhbuvmaku@zts.cct> schreibselte:
+
+
+Ich hab das nun auch mal eingerichtet und scheint soweit ganz gut zu
+funktionieren. Aber doch etwas gewöhnungsbedürftig das ganze. Meine
+ganzen schönen HTML Newsletter werden nicht mehr richtig angezeigt ;-(
+
+BTW: Hat Gnus ein begin end Bug? Wenn ich z.B:
+als Text in eine E-Mail schreibe, wird es bei mir als Anhang
+angezeigt. Ist das normal?
+
+ Claus
+
+-- 
+Alle Soldaten riechen nach Wasser
+... die vom Heer nach Grundwasser
+... die von der Marine nach Seewasser
+... und die von der Luftwaffe nach Rasierwasser

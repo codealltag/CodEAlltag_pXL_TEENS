@@ -1,0 +1,5 @@
+Kommt halt drauf an, was Du damit machst. Verwendest Du die Domain
+nur fuer eine Webpraesenz, mag das ja gutgehen, aber was ist, wenn
+Du mal schnell ein paar Eintraege in Deiner Zone aendern musst?
+
+Christoph

@@ -1,0 +1,21 @@
+Allerdings. Die ganze Welt schaut auf diesen Hanswurst in Rübke, dabei
+verübt da jemand in Trips viel ungeheuerlichere Dinge.
+
+
+Schön, sozusagen der Sylviane-Zumwald-Manager 1.0.
+Wie wär's mit einer neuen Version in Basic:
+
+10 FOR patsch% = 1 TO 50
+20 Zahl = RND(1)
+30 IF Zahl <= .33 THEN PRINT "Kai Abd-El-Jaleel ist viel besser als LDC"
+40 IF Zahl > .33 AND Zahl <= .66 THEN PRINT "Sylviane ist doof"
+50 IF Zahl > .66 THEN PRINT "*PATSCH*"
+60 SLEEP (1)
+70 NEXT patsch%
+80 INPUT "Hast du's jetzt endlich kapiert? [j/n]",antwort$
+90 IF antwort$ = "n" THEN GOTO 10
+100 ELSEIF antwort$ = "j" THEN GOTO 140 
+110 ELSE PRINT "Bitte nur j/n!"
+120 ENDIF
+130 GOTO 80
+140 PRINT "Als geheilt entlassen. +++ DPM v1.1 (c) 1999 by M.Wisotzki +++"

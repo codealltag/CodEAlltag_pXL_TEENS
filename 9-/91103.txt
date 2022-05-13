@@ -1,0 +1,8 @@
+Komische Bezeichnung.
+
+Patrick
+
+-- 
+! - Ausrufezeichen
+? - Fragezeichen
+: - Doppelpunkt

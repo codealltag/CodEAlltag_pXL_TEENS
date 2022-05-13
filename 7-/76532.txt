@@ -1,0 +1,28 @@
+Solches tippte Noah Intfeld:
+
+Wenn man es sich leisten will, dass seine $Post so aussieht wie mit
+einer Wald-und-Wiesen-Textverwurstung geschreiben, ja. -- OK, ich
+sehe ein: das Ablehnen von Kaminstudio Opfer-Produkten ist in diversen $Firmen
+Kündigungsgrund. Aber sowas weiss man vorher.
+
+Hm, Geschäft gehen, WinDOS kaufen, Wort kaufen, Platte neu
+partitionieren, WinDOS installieren, patschen, Wort installieren,
+patschen ...  vs. Text schreiben und in vorgefertigten TeX-Brief
+einfügen. Ich sehe: My mileage varies.
+
+
+Zugegeben, mir reicht ein personalisiertes scrlettr.
+
+
+OK, CIs kauft man normalerweise sowieso. Da kann man ja auch TeX-CI
+kaufen, ja sowas gibt's ;-) Aber YMV.
+
+
+Right. Ich denke da exemplarisch an das Dokument METAfun von Pragma...
+
+Wolf
+-- 
+[bxvkjc@nsy.zfu] {delays}: <Berthold Frericks:>  In acrobat 5.0 for
+Windows the maximum is 60 seconds - too little for lecture slides.
+<Patrice Philipp:> next time you phone the help desk, they will tell you
+that it's actually a feature, to prevent you from talking too long.

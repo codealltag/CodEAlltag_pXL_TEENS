@@ -1,0 +1,15 @@
+Am Thu, 15. 11. 22 sendete Ingmar Birck folgende Botschaft:
+
+
+Jetzt hab ich nochmal die Unterlagen rausgekramt. Es gibt da tatsächlich
+'BV'. Das ist der Pegel [L] an einer bestimmten Stelle. Und es gibt die
+Dämpfung [a] (zwischen zwei Stellen) welche in 'dB' angegeben wird.
+
+Wie das V Mathematisch an da dB kommt ist mir aber ein Rätsel.
+
+
+Jepa. Und ich musste den ganzen Kram extra in einer Bl lernen. Azimut,
+Elevation, Windlastberechungen, wer braucht sowas?
+
+Tschüs
+  Otto

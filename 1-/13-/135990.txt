@@ -1,0 +1,11 @@
+Jörn Isenbügel schrieb am 05. Juni 2001 um 13:17 Uhr folgendes:
+
+
+Sowohl unter "Internet" als auch unter "Intranet".
+
+Viele Größe,
+     Claudio Mackprang
+-- 
+Q: Why can't you compare structs?
+A: Compare them to what?  A summer's day?
+                  -- comp.lang.c Answers to Infrequently Asked Questions

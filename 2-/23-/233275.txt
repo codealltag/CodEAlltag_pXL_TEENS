@@ -1,0 +1,15 @@
+On 24 Feb 1999, Eilt Aselage <wflolzhrxl@kzjsevhgng.ck> wrote:
+
+[Rechner dichtmachen und ohne Paßwort arbeiten]
+
+Wer aus Versehen an der inetd.conf / seiner Firewall rumspielt, ist
+IMO selbst Schuld...
+
+
+...oder alle Passwörter in eine Datei stecken und dann mit PGP
+verschlüsseln, gell, Ivano? ;)
+
+Viele Größe,
+     Fabian Affeldt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

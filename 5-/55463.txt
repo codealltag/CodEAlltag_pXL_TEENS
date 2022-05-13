@@ -1,0 +1,6 @@
+Welche Voraussetzungen muß ich erfüllen? :o)
+
+Konrad
+
+-- 
+initscr(); - Segmentation Fault

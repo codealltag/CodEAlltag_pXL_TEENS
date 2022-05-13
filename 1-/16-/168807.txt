@@ -1,0 +1,7 @@
+David Dwornitzak <i.d.hxnah@lrk.cq> schrieb in im Newsbeitrag:
+02t33y26.5818428@zctz.sor-gbbpqljs.qk...
+
+Das liegt nach der Aussage zumindest zweier Entwickler nicht wirklich am
+UART Chip sondern viel mehr an der Dummheit der Entwickler bei Ambiana Beide
+behaupten, sie hätten ihre UART 8250 mit 115200 ohne Probleme benutzt. Muss
+mal fragen, ob die Treiber noch rumliegen.

@@ -1,0 +1,15 @@
+Thomas Joedeke schrieb am 24. März 2001 um 16:16 Uhr folgendes:
+[...]
+
+Der httpd hat gleich eine ganze Reihe Konfig-Dateien, da ist ein
+eigenes Verzeichnis (selbstverständlich unter /etc) IMO durchaus
+gerechtfertigt:
+
+tststs@starflower:~ > locate httpd.conf
+/etc/httpd/httpd.conf
+
+Viele Größe,
+     Pierre Valcke
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

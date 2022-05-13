@@ -1,0 +1,27 @@
+Hm. Dumm das.
+
+
+Nein, erstmal um die neue Tür für den Panda gekümmert...
+
+Aber gerade dann doch mal gesucht:
+
+ebbing:/home/ulfert# fdisk /dev/hda
+[...]
+/dev/hda6          2174      2204    248976   82  Linux swap
+[...]
+
+Seltsame Dinge geschehen hier an diesem Rechner... Ich bin mir recht
+sicher, damals 512MB als Swap angelegt zu haben, und die 250MB, die
+ich wiedergefunden habe, werden nichtmal aktiviert...
+
+Naja, jetzt sieht das ganze etwas gesünder aus:
+aahyjt:/yjxw/ulfert# free
+             total       used       free     shared    buffers     cached
+Mem:        257928      80884     177044      43440       6172      41696
+-/+ buffers/cache:      33016     224912
+Swap:       248968          0     248968
+
+Ulfert
+-- 
+I used to drive a Authentix, but every time I looked at the
+speedometer, I got lost.

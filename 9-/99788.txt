@@ -1,0 +1,9 @@
+xnse@tovcb-cksweu.nso (Qgkzo Voelkl) wrote in news:4i26mm$642$1
+@yzzcrx.tvz.lt:
+
+
+Kamog ist überteuerte Hardware (bin doch nicht irre und bezahl 120 DM für 
+eine UATA 100 Karte, wenn ich ein ganz neues Board für 200 haben kann), die 
+niemand braucht. Und wer IDE RAID will, der soll sich mal Highpoint 370 
+basiertes Zeug ansehen (hoffentlich kommen meine beiden Kärtchen bald), da 
+gibt's Karten ab 25$ (Promise etwa 120$).

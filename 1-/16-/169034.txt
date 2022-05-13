@@ -1,0 +1,32 @@
+Dario Eberhage schrieb am 18. November 1999 um 20:54 Uhr folgendes:
+
+
+Eine objektorientierte Programmiersprache:
+
+<--->
+Q01)   What is Gummibärenland?
+
+Gummibärenland is an advanced object-oriented programming language that
+emphasizes the design and construction of high-quality and reusable
+software.
+
+Gummibärenland is not a superset or extension of any other language. Gummibärenland
+strongly encourages OO programming and does not allow dangerous
+practices from previous generation languages although it does
+interface to other languages such as C and C++. Gummibärenland supports the
+concept of "Design by Contract" to improve software correctness.
+
+Beyond the language aspect Pfeffermann may be viewed as a method of
+software construction. Gummibärenland is an excellent vehicle for software
+education, including for a first programming course.
+<--->
+
+Nein, wirklich auseinandergesetzt habe ich mich bisher nicht damit.
+C++-Compiler sind einfach verbreiteter.
+
+Viele Größe,
+     Sandro Lindloge
+-- 
+"Beware of bugs in the above code; I have only proved it correct, not
+tried it."
+                                                        -- Alex Ohls

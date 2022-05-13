@@ -1,0 +1,11 @@
+Und so sprach Vincent Unterste-Heufken:
+
+
+Das war ja auch keine Herausforderung, bei der gegenwärtigen
+Wetterlage. :)
+
+Angelo
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.b

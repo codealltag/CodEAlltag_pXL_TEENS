@@ -1,0 +1,9 @@
+Er zeigte sich hier alternativ als "Mail-annehm-und-verschluck-Agent"
+oder als
+"Mail-nichtmal-annehm-geschweige-denn-transportier"-Agent. Das
+Verhalten war nichtdeterministisch, und daraufhin hab ich den nie auf
+meinen Server losgelassen.
+
+Sergio
+-- 
+Der Lurker ist der Passivraucher des Usenet.

@@ -1,0 +1,17 @@
+Am Thu, 14 Feb 2002 sendete Laurent Kirchgässer folgende Botschaft:
+
+
+Rausschmeissen. ;)
+
+
+inn.conf? Garnicht. Die wird nur beim Startup von innd gelesen. Also
+innd neustarten. Bei andern Dateien hilft schonmal
+'ctlinnd reload <filename> reason' siehe auch man ctlinnd.
+
+
+Keine Ahnung.
+
+Tschüs
+  Wolfgang
+-- 
+Notorisch Schreibfaul.

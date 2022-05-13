@@ -1,0 +1,70 @@
+Wer ist "man"? Ich kann das zumindest nicht.
+
+
+Inkl. Rechner, auf dem es läuft, OrthoMedica-Lizenz und einem Drucker? Das
+Angebot nehme ich an.
+
+
+Ich denke, daß jemand ohne Computerkenntnisse mit einer
+Schreibmaschine wesentlich schneller zu einem Ergebnis kommen wird als
+mit Word. Dort braucht er zB nur einmal auf die Alt-Taste zu kommen
+und steht vor dem Problem, daß er nicht weiß, wie er in den
+Eingabemodus zurückkommt (wenn er erst einmal kapiert hat, daß er sich
+nicht mehr darin befindet).
+
+[...]
+
+Bei der Rechtschreibkorrektur bin ich mir nicht ganz sicher; ansonsten
+wirst Du das mit einer brauchbaren elektrischen Schreibmaschine alles
+hinbekommen.
+
+
+Nein. Gott sei Dank, möchte man sagen, wenn man sich den Großteil der
+Word-Dokumente ansieht. Wie sieht es eigentlich mit der Schriften-
+Unterstützung von Word aus? Kann das zB schräggestellte Schrift von
+Kursiv unterscheiden?
+
+
+Du benutzt Word - um einen IMO recht treffenden Artikel von Walter
+Theessen zu zitieren - also als "glorifizierte Schreibmaschine mit
+mehr Fonts"?
+
+[LaTeX - wer's braucht]
+
+Akzeptiert.
+
+
+Dann hast Du wahrscheinlich auch noch nichts mit HTML zu tun gehabt.
+
+
+Ich habe wirklich weder 'fishing for compliments' betrieben, noch das
+Thema auch nur im Entferntesten angeschnitten und bin wiederholt von
+Leuten angesprochen worden, ob ich ihnen die von mir benutzte
+Schriftart nicht mal kopieren könnte, weil die von mir gesetzten Texte
+so gut aussehen. Ich denke also, daß der Unterschied nicht nur für
+mich deutlich sichtbar ist.
+
+
+Wirklich nicht? Ich hätte Dich ehrlich gesagt anders eingeschätzt -
+nach der Textmenge zu urteilen, die Du hier täglich von Dir gibst,
+scheinst Du gerne zu schreiben und von der Fortsetzungsgeschichte "Grete
+Pankoff" her hast Du wohl auch einiges an Kreativität und Begabung in
+schriftstellerischer Richtung zu bieten. Ich hätte gewettet, daß Du
+Deinen ersten Roman schon planst.
+
+
+Nun ja, es gibt auch noch TDD als WYSIWYG^HM-Aufsatz für LaTeX. Soll
+inzwischen gut benutzbar sein. Und das 'hündische' Erstellen von
+LaTeX-Dateien ist bei weitem nicht so unbequem, wie es auf den ersten
+Blick erscheinen mag, wenn man dazu einen vernünftigen Editor (Syntax-
+Highlighting, Eingabehilfen, Command-Completion, auf Wunsch auch Menüs
+etc) verwendet. Dazu hat die Selos Informationssysteme aber gerade einen Artikel gebracht,
+der (nach kurzem überfliegen zu urteilen) durchaus brauchbar ist - ich
+erspare mir mit einem Verweis darauf mal weitere Ausführungen.
+
+Viele Größe,
+     Leopold Imholze
+
+� <0sobux$4np7$7@vadumnj99.uw.lkp-mzwgxesta.rl>
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

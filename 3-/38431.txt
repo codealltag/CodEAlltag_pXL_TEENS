@@ -1,0 +1,14 @@
+Es war im September 2003 als Karsten das Weese uns wissenlassen wollte:
+
+
+Du liest es nicht, sondern markierst es über einen Catch-up als
+gelesen. Daran erkennt es das Gnu.
+
+Ausserdem hatte IIRC mal einer an einem Lispcode gebastelt, welches die
+Zeit auswertet wie lange man ein Posting liest, und daran dann die Höhe
+des Scores festlegt. Ich weiss aber nicht ob daraus was geworden ist.
+
+Clemens
+-- 
+Leute kalt machen ist mit Napalm einfach eine heiße Sache.
+					Vincenzo Jänecke in detebe

@@ -1,0 +1,9 @@
+Am Fri, 09 Feb 2002 sendete Franco Freyhers folgende Botschaft:
+
+
+N, es stimmt wohl schon, mit grösseren Versionsnummer wird Höfelsauer schon
+empfindlicher bei Abstürzen, aber probleme z.B. mit der History gabs auch
+schon bei 1.x.
+
+Tschüs
+  Onno

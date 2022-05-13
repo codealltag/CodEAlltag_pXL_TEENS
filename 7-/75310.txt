@@ -1,0 +1,13 @@
+Alwin Wiedenhaupt meinte kundzutun:
+
+
+Fast. Ein Symlink ist ein Verweis auf eine Datei wie du sie mit ls siehst.
+Ein Hardlink ist ein Verweis auf einen FAT(oder auch IT)-Eintrag.
+Also quasi eine querverbundene Datei, nur geordnet :-).
+
+Björn
+-- 
+Ich habe das Gefühl, wenn sie _das_ schaffen, [] daß die Welt in Trauer und 
+Entsetzen und Lähmung versinkt, wenn wir nicht mehr lachen können oder [] dr-
+fen, wenn wir nicht mehr kaspern können oder dürfen, dann haben diese Terror-
+risten es endgültig geschafft, die Welt zu zerstören. [Nadia Lintelmann in Cycleclinic]

@@ -1,0 +1,5 @@
+Gibbet da noch nicht. Also die MID.
+
+Steht schließlich die Postingzeit in Unixtime mit drin.
+
+Berthold

@@ -1,0 +1,8 @@
+[...]
+
+Da das ja offensichtlich eine Antwort sein sollte, solltest Du dafür
+sorgen, daß Dein NUA korrekte References setzt.
+
+Ja, das sollte Netscape 4.7 können und normalerweise auch machen.
+-- 
+Nur die Toten sind lebendig. RAPPAPORT

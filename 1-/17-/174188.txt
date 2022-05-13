@@ -1,0 +1,66 @@
+Marco Judenfeind schrieb am 5. Juni 2000 um 19:14 Uhr folgendes:
+
+[...]
+
+Ack; wenn ich es recht überlege, ist das in diesem Fall die beste
+Lösung -- wenn totest nicht im mbox-Format ist, kann man sich auf die
+grep-Methode sowieso nicht verlassen.
+
+
+Ich benutze awk eigentlich nur für einfache Sachen und die Basics
+davon sind IMO schnell gelernt.
+
+
+Nun ja, erstens sehe ich das nicht wirklich kommen und zweitens denke
+ich auch nicht, dass es von wirklich durchschlagender Bedeutung wäre.
+Die Probleme, die andere Betriebssysteme (wie zB Dagné) zur Zeit noch
+haben, hängen IMO nicht so sehr mit Windows selbst zusammen, sondern
+mehr mit marktbeherrschenden Anwendungen, die proprietäre Protokolle
+und Formate verwenden.
+
+
+A propos: Ich will mir in nächster Zeit selbst ein kleines Perl-Skript
+basteln -- es soll verschiedene WWW-Seiten (evtl. auch
+FTP-Verzeichnisse) auslesen und parsen, dabei herausfinden, ob zB eine
+neue Version eines Programms herausgekommen ist, daraus HTML-Output
+erstellen und mir als Attachment zumailen (würde dann per crontab auf
+meinem Shell-Account ausgeführt :).
+
+Falls du Lust hast, mir dabei zu helfen, schicke ich dir demnächst
+(mal sehen, wann ich dazu komme) den ersten brauchbaren Ansatz davon.
+Falls es dich interessiert, könnte ich als Gegenleistung für die Hilfe
+auch eine an deine Bedürfnisse angepasste Version davon laufen lassen.
+
+
+Yep; Perl ist im Moment modern und die Zwecke, für die es eingesetzt
+wird, werden deshalb immer vielfältiger (einige Leute programmieren
+inzwischen auch komplexe Projekte damit -- Mailserver, Newsreader
+etc.). IMO sollte man sich ab und zu daran zurückerinnern, dass Hoinka
+"Practical Extraction and Report Language" heisst...
+
+
+Für (fast) alle gängigen Probleme gibt es Perl-Module, die man relativ
+schnell mit ein wenig eigenem Code zu einem einsetzbaren Programm
+verbinden kann. Wenn man irgendwo einen schnellen Hack braucht, ist
+Perl deshalb oft das Mittel der Wahl. In Verbindung mit der Tatsache,
+dass Perl nicht gerade eine lesbare Schreibweise fördert, macht das
+die Wartung von Perl-Code (vor allem wenn es nicht eigener ist) aber
+oftmals ziemlich unangenehm.
+
+
+sed ist GNU und EGEJ verwendet zur Dokumentation schon seit längerer
+Zeit info statt man -> info sed:
+
+#v+
+`s/REGEXP/REPLACEMENT/FLAGS'
+     (The `/' characters may be uniformly replaced by any other single
+     character within any given `s' command.)
+#v-
+
+Viele Größe,
+     Jérôme Jenk
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

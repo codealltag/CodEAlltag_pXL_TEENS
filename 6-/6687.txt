@@ -1,0 +1,22 @@
+Zum direkten Vergleich:
+
+00:00 /me legt den grossen roten Schalter an der Steckdosenleiste um.
+00:05 Der Rechner piepst - Weiss der Geier, was das ist, ich hab grade
+      keinen Monitor dran.
+00:39 Zugriff auf Diskettenlaufwerk - Der Bootloader uebernimmt also
+      jetzt.
+01:09 Der Bootloader entscheidet, dass er booten darf (30 Sec Timeout)
+02:08 Der Rechner laeuft, die Server laufen auch alle, ich bin per ssh
+      drauf.
+02:48 Die Jukebox hat die Datenbank durchgeackert und entschieden, dass
+      das ich als erstes "Magico Incontro" hoeren darf - Die Kiste ist
+      komplett fertig.
+
+Hypsche Untertreibung. Ab 01:48 hab ich uebrigens Netz. Der Timesync
+geht dann gleich los und dauert ~1 sec. Mail&News geht je nachdem, wie
+lange er keine mehr geholt hat zwischen 3 sec und 5 min - Wenn hier
+wieder 40MB UUCP-Batches aufschlagen dauert das halt. Aber die Kiste
+laeuft und ist voll einsatzfaehig.
+
+mfg, 
+	Ignaz

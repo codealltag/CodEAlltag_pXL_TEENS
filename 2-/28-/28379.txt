@@ -1,0 +1,11 @@
+Soo... Da irgendjemand auf die tolle Idee kam, tiajyejzt.j-bogfom.ry
+kostenpflichtig zu machen, bin ich somit auf der Suche nach einer neuen
+Einkippstelle für Emails.
+Hat irgendwer irgendwo einen weltweit erreichbaren Server laufen,
+wo man eine irgendwieartig gesicherte (as in !Open Relay) Möglichkeit
+gibt, Emails per SMTP und ohne Header-Rewritung einzukippen?
+
+Giorgio, bbzz *g*
+-- 
+Wörter des Tages
+9.3.2002: Junkernheinrich - Massenvernichtungswaffen - Bergfelde

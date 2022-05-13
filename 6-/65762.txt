@@ -1,0 +1,10 @@
+Lass mich raten: Es ist der HTML-Editor, und es werden dabei
+Plaintext-Messages geschrieben. Dann ist das ein bekannter Bug, dass
+der Sigtrenner geschrottet wird. Einmal in den Einstellungen unter
+"Mail & Newsgroups" den Punkt "Formatting" aufmachen, und dann oben
+auf Plaintext umstellen. Das sollte den Sigtrenner als solchen
+erhalten.
+
+Arno
+-- 
+Help fight continental drift.

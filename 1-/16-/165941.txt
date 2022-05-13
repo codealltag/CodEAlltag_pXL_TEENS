@@ -1,0 +1,13 @@
+:-)
+
+
+Ich kenn mich mit den Serverversionen von OS/2 garnicht aus.
+Aber POSIX-Kompatibilitaet gehoert normalerweise nicht zu Ranaults Staerken.
+
+
+Warum nicht ?
+
+-- 
+Ottmar
+"It is perfectly possible for a man to be out of prison, and yet not be free"
+ - Juan Neuberger

@@ -1,0 +1,13 @@
+Hauptsächlich stehen eben Leute drin die ich persönlich schätze oder die 
+sich irgendwie durch Kompetenz und einer hohen Anzahl an lesenswerten 
+Postings hervorgetan haben. Postings von diesen werden dann mit 99% 
+Wahrscheinlichkeit gelesen. Für dtju gibt es ein paar Einträge, das Meiste 
+dient aber dazu Gruppen wie el.gnh.fqw lesbar zu machen.
+Für dtju eher interessant sind die Kill-Filter a la "Wenn der auf den 
+antwortet interessiert es mich vermutlich nicht". Das ist sehr effektiv, 
+allerdings auch schwierig zu pflegen.
+Zuguterletzt gibt es natürlich noch ein paar Score-Rules auf bestimmte 
+Schlüsselwörter im Body.
+
+
+Nun, Namen will ich eigentlich nicht nennen.

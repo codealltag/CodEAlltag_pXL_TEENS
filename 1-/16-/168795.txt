@@ -1,0 +1,9 @@
+Oskar 'sSXP' Hübschen <uUGR@ydh.ynq> schrieb in im Newsbeitrag:
+04-35-44.52-81-26.mwk.3426@geyj.hu...
+
+Dann bleib ich lieber bei PuTTY... Das emuliert das Linuxterminal
+einigermassen anständig (wenigstens kann man damit, im Gegensatz zu CRT,
+YaST benutzen).
+
+CU
+Niels

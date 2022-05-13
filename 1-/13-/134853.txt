@@ -1,0 +1,14 @@
+Gerd Albaum schrieb am 29. Januar 2000 um 18:39 Uhr folgendes:
+
+
+Die Aussage "Dieser Satz kein Verb." enthält genau den Fehler, den sie
+bemängelt. Dabei fällt mir übrigens ein nettes (ebenfalls uraltes)
+Paradoxon ein: "Diser Satz Beinhaltet genau vier Feler."
+
+Viele Größe,
+     Orlando Achterkamp
+-- 
+Q: Why does everyone say not to use gets()?
+A: Because they're trying to spoil your fun. gets() can make an otherwise
+   droll and predictable program a lot more exciting.
+                  -- comp.lang.c Answers to Infrequently Asked Questions

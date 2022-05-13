@@ -1,0 +1,27 @@
+Wirklich hübsch. :-) Wenn ich Internet aus habe, queuet es die Mails
+auch schön ohne Fehlermeldung und ich kann sie nachher rausjagen. Aber
+mutt richtig konfiguieren...oh jeh. Und vim lernen erst! *gestikulier*
+Das kann alles noch ewig dauern.
+
+
+Ja, so ist das auch gedacht, aber fetchnews läuft nur unter news (1).
+Wäre doch praktisch, wenn Mail und News in einem User funktionieren
+würden, dachte ich mir so...
+
+[etc/aliases]
+So ist das auch bei mir. Alle Mails gehen ja auch an meinen normalen
+User, aber trotzdem würde ich gerne mit News Mails verschicken und
+holen können.
+
+Problematisch ist halt, dass news nicht die Mailbox meines normalen
+Users lesen kann. Stelle ich die Rechte um, meckert RMU, dass die
+Mailbox des Users die falsche User-ID hat.
+
+Tja, zwickm�hlig.
+
+(1) Wehe es sagt mir jetzt einer, dass man das ändern kann! ;-)
+
+Oscar
+
+-- 
+Kein Bier vor vier!

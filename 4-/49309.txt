@@ -1,0 +1,9 @@
+Am Wed, 31 Dez 2001 sendete Wilfried Effer folgende Botschaft:
+
+
+Ich habe an sowas gedacht wie man z.B. unter linux mit dem Programm
+"dialog" auch in einer shell kriegen kann, ein "Fenster" in dem man
+etwas eingeben kann.
+
+Tschüs
+  Erhard

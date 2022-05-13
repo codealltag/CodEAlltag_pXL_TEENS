@@ -1,0 +1,11 @@
+Gerne. Probier mal 
+
+set signoff_string "Niko" (oder "\nChristoph", wenn es denn noch
+eine Leerzeile sein soll.) 
+
+in der .slrnrc. Dann müsste er den immer dran hängen.
+
+Oscar
+
+-- 
+Esst Fastfood!

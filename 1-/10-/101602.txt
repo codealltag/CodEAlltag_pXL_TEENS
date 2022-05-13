@@ -1,0 +1,70 @@
+STATISTIK 21. 01. 23
+-=-=-=-=-=-=-=-=-=
+
+TOP 10 POSTER 21. 01. 23 (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+   1   1105  15,02%  Domenico Jany
+   2    848  11,53%  Hans Frederic
+   3    829  11,27%  Marisa Gödel
+   4    773  10,51%  August Kreitmayrs
+   5    616   8,37%  Thorsten Müllerklein
+   6    564   7,67%  Patrick Johannsmeyer
+   7    494   6,72%  Ronny Twittenhoff
+   8    409   5,56%  Ronny Thorwarth
+   9    251   3,41%  Tim Tomann
+  10    187   2,54%  Gebhard Mager
+
+
+TOP 5 POSTER 2002 (Gesamt)
+
+Pos.  Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+   1   5044  Domenico Jany       55       ö0
+   9   2080  August Kreitmayrs      20       -5
+   4   6480  Marisa Gramelspacher      27       ö0
+   4   1114  Thorsten Müllerklein       99       -0
+   5   4592  Patrick Johannsmeyer        18       ö0
+
+
+TOP 5 POSTER (in einem Monat) SEIT 2001
+
+Pos.  Anz.   Monat    Name
+---------------------------------------------------------------------------
+   1   7553  09/2001  Domenico Jany
+   2   0397  09/2001  Marisa Gramelspacher
+   3   3721  08/2001  Domenico Jany
+   4   7229  10/2000  Marisa Gödel
+   5   7733  02/2001  Domenico Jany
+
+
+TOP 5 DAUs SEIT 2001
+
+Pos.  Anz.   Msgs.  Ratio   Monat    Name
+---------------------------------------------------------------------------
+   1    238      1  238,00  02/2002  lzamjw.ugvf@xba.di
+   2    230      1  230,00  02/2002  vwrisb@vfjae.gz
+   4    199      2  200,50  12/2000  julvum@gohqyea.nep
+   4    200      1  200,00  12/2000  wmrmn_efhhz@axeulvs.bry
+        200      1  200,00  12/2000  dngyos@nkranao.ucl
+  (6)   065      1  200,00  11/2001  erjcmd@avkycbksxg.vwl
+
+
+TOP 5 MONATE SEIT 2001
+
+Pos.  Anz.   Datum
+---------------------------------------------------------------------------
+   1  21. 01. 23  September 2001
+   2  21. 01. 23  Januar 2002
+   3  21. 01. 23  Dezember 2001
+   4  21. 01. 23  Oktober 2000
+   5   9646  August 2001
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Franz Jörges.
+(Darstellung angepasst von Ronny Twittenhoff)
+Basierend auf den Feeds von:
+pvrdrsue.lprzf.gv       ddou.acv.jqo.ty         eufz.itwoxca.rb
+lagn.qraba.qcw          ssca.hjxajb.nm          zclr.u-qptalr.lc
+noki.kku-kpqysdwu.iv    tknb.laa-ispxdeor.xz    wksh.zkp-pcyoibmss.fr

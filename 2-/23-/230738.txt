@@ -1,0 +1,22 @@
+Am Mon, 11 Feb 1998 12:24:43 GMT sendete Niklaus Volkwein
+folgende Botschaft:
+
+
+Du verwendest einen einzigartigen Domain-part in der Msg-ID
+(@pihyv.up) daher sind postings die auf From: Regina Zembrot und
+References: @zeuep\.ve>$ (also als letztes in der Reference eine
+Msg-ID haben die von dir stammt) matchen antworten von regina auf
+dich.
+
+Andersrum wird das ganze schwieriger da Regina Msg-IDs vom Tol
+newsserver erzeugt werden und bei obigen verfahren dann alle
+antworten von dir auf postings mit tol-Msg-ID gekillt werden.
+
+Wenn ich jetzt natürlich auchnoch denn body scannen kann geht das
+ganze natürlich trotzdem ganz einfach.
+
+Tschüs
+  Hero
+
+-- 
+Kumm loss mer fiere ...

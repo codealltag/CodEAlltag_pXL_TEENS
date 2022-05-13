@@ -1,0 +1,9 @@
+Dem Unwissen, dass "NFS" zu "No File Securitiy" expandiert :-)
+
+Aber mal ohne Quatsch, ich lasse teilweise meinen Gnus über die
+ISDN-Leitung per X-Forwarding in die Uni laufen. geht recht
+problemlos; Geschwindigkeitsprobleme gibts in der Hinsicht keine.
+
+Noah
+-- 
+Dann habe ich geheiratet, da ging DAS nicht mehr. [Thomas]

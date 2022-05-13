@@ -1,0 +1,14 @@
+Am Tue, 08 Jan 2001 sendete Albin Spillker folgende Botschaft:
+
+
+#v+
+20:30:21 ~$echo test | perl -pe 's e a '
+Substitution pattern not terminated at -e line 1.
+#v-
+
+Anscheinend nicht.
+
+Tschüs
+  Erhard
+-- 
+:-(

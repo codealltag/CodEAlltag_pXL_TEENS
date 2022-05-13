@@ -1,0 +1,11 @@
+Alessandro Volbrecht hat geschrieben getan getutet:
+
+
+Für ein Erzeugnis von Poppendieck wäre dieser Erguss viel zu hoch.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ivan 'dominik' Rich in qi.jjs.zxpkzfzv.xoidkouz

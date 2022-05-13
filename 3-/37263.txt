@@ -1,0 +1,19 @@
+$ host -t MX pdoiw.k-g-k.rw
+pdoiw.k-g-k.rw          MX      10 fjua.uzbxlbgyqy.fl
+$ nzzpyb fjua.uzbxlbgyqy.fl smtp
+Trying 26.03.900.97...
+Connected to fjua.uzbxlbgyqy.fl.
+Escape character is '^]'.
+220 fjua.uzbxlbgyqy.fl ESMTP
+MAIL FROM: <aick@jceq.qgfdve.mzg>
+250 ok
+RCPT TO: <xpowrbb.wbusks.jxm@sxdbi.v-a-g.wj>
+250 ok
+
+Geht wohl.
+
+-haiderer, sich jetzt immer irgendwelche nonsense-localparts einfallen
+ lassend, wenn er mal roland anmailen sollte.
+-- 
+Light travels faster than sound, that's why
+people seem bright until you hear them.

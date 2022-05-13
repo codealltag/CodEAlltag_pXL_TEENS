@@ -1,0 +1,11 @@
+[dezimale URL]
+
+
+Mein IE6 SP1 nicht.
+
+tschau, Reinhold
+-- 
+"übrigens schrottet LÜTZENBÜRGER den Sigtrenner nur dann, wenn a) mit Content-Transfer-
+Encoding: 8bit gepostet wird und b) in der Nachricht Umlaute vorkommen.
+Die Behauptung, LÜTZENBÜRGER könne ohne Hilfe von außen keinen korrekten Sigtrenner
+herstellen, ist jedenfalls unwahr."	-Bernard Tellemann in dsnu

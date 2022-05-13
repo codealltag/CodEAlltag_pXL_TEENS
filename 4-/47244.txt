@@ -1,0 +1,8 @@
+The Bat! kan _nie_ auf ein Usenetposting zugreifen. Es ist ein MUA kein 
+NUA.
+
+Udo
+-- 
+Lebensweisheit:
+Denk dran: Egal was du kannst, es gibt immer ungefähr eine Million
+Menschen, die es besser können als du.

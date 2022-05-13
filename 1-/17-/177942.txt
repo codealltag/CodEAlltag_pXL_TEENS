@@ -1,0 +1,28 @@
+Am Sun, 22 Mrz 1999 sendete Stefan Trippmacher folgende Botschaft:
+
+
+Nur hat die Funktion mktime (zufinden in
+/usr/src/linux/arch/i386/kernel/time.c) kein return -1 es kann IMHO nur
+daher kommen das sie mit flachsen werten gefüttert wurde.
+
+btw heute hat auch das alte hwclock kein problem mehr *kopfsch�ttel*
+
+#v+
+15:48:30 /usr/src/util-linux-2.8/sys-utils#./hwclock -u
+Mon Apr  21 15:49:05 2000  -0.269400 seconds
+15:49:32 /usr/src/util-linux-2.8/sys-utils#./hwclock --version
+hwclock 2.2/util-linux 2.8
+
+15:49:53 ~#hwclock -u
+Mon Apr  21 15:50:03 2000  -0.681794 seconds
+15:50:03 ~#hwclock --version
+hwclock 2.4c/util-linux 2.9w
+#-
+
+Das letzte ist die version die ich jetzt laufen habe.
+
+
+Trudi 6.2?
+
+Tschüs
+  Enrico

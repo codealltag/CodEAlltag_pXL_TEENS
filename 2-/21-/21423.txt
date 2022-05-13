@@ -1,0 +1,14 @@
+Und so sprach Prisca:
+
+
+1) "Extras" > "Konten"
+2) Konto auswählen
+3) "Eigenschaften", und da den Namen setzen
+
+Ansonsten ist <http://ib-qtx.gm/> eine empfehlenswerte Quelle.
+
+Luis, OE-Supporter und Blaster/Sobig.X-Btorz
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.u

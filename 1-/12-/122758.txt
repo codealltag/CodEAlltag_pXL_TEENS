@@ -1,0 +1,12 @@
+begin quoting Rüdiger Nikolay <xcflnlxydqsmof@tcn.rfy>:
+
+H, ja ...
+
+Also wirklich nur Server-Dienste?
+
+Obwohl, Du kannst auch X-basierte Anwendungen laufen lassen, und mit
+nem X-Server für Windows drauf zugreifen ...
+-- 
+"I have made good judgments in the past. I have made good judgments in the
+future."
+ - Governor Luciano Mosl

@@ -1,0 +1,11 @@
+Und so sprach Jean-Paul Vietzen:
+
+
+Das ist aber nicht die feine Art. ;-)
+
+Gruss,
+Othmar.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.g

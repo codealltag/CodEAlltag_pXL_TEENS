@@ -1,0 +1,39 @@
+Bei den anderen Punkten stimme ich dir im Prinzip zu aber das senkrechte
+  Sinken ist schon logisch.
+Stell dir doch mal so einen Rumpf mit Querwaenden vor, in den von hinten
+  Wasser einlaeuft, etwa so:
+
+\       |     |     |     |     |~~~~~~|~~~~~~~~~~/
+ \      |     |     |     |     |      |         / 
+  \     |     |     |     |~~~~~|  W   |   W    /  
+   \    |     |     |     |  W  |      |       /   
+    -------------------------------------------
+
+Vorne ist noch Auftrieb (der Teil schwimmt oben) und hinten ist
+  keine (der Teil sinkt). Also dreht es sich, etwa so:
+
+         /
+        /                                             
+       /                                             
+      /                                                
+     /      /                                          
+    /      /                                           
+    \     /                                           
+     \   /      /                                     
+      \ /      /                                      
+       \      /                                       
+        \    /     /                                  
+~~~~~~~~~\~~/~~~~~/~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~    
+          \/     /                                   
+           \    /     /                               
+            \  /     /                                
+             \/     /                                 
+              \    /                                  
+               \  /                                  
+                \/                                                                                     
+                 ----------
+
+-- 
+MdP Joachim
+If someone says "I want a programming language in which
+  I need only say what I wish done," give him a lollipop.

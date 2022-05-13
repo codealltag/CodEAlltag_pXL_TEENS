@@ -1,0 +1,27 @@
+Einer-, D-komplement, Gleitkomma, Interger, ...
+Hängt eigentlich alles nur an der Darstellung des Vorzeichens, aber
+dafür gibts einfach viel zu viele Darstellungen... :)
+
+
+Wie kommst du zu dieser Auffassung? Meiner Ansicht nach wären es
+selbstverfreilich 16 Bit, sonst würdest du das zusätzliche Bit ja
+angeben.
+
+
+Das ist noch harmlos, Pippikram, wie Orlando sagen würde. Logik und
+Mathe, das ist wirklich schwer. Leider bildet das die Grundlage für
+den ganzen Rest. Zumindestens theoretisch, praktisch mußte nur
+irgendwie durch die Prüfungen kommen. :)
+
+BTW für MMT habe ich mit einem Anderen ne kleine Satireseite erstellt,
+die ich aber eigentlich nicht öffentlich ausstellen dürfte, da sie
+einige Lügen enthält, die mir im Zweifelsfall das Genick brechen
+könnten. Ich habe sie aber mal auf meinem Webserver
+http://v65v2w.vf7.ws-irlugcc.lb/ gestellt, der Port ist nur zehnmal
+größer, als er eigentlich sein sollte.
+
+-- 
+sSXP
+
+Don't worry over what other people are thinking about you.  
+They're too busy worrying over what you are thinking about them.

@@ -1,0 +1,18 @@
+Eindeutig ein Kriegsverbrechen.
+
+
+Könnte man bestimmt mit einem schönen, kleinen Script lösen. Bis wir einen  
+Freiwilligen finden, möchte sie sich bitte mit folgender Batch-Datei  
+beschäftigen:
+
+@echo off
+:start
+echo *PATSCH
+goto start
+
+Berend Unsorg
+
+-- 
+Mehr Sicherheit für unsere Kinder! Verbietet das Internet!
+                                             E-Mail: edoaio@fhupunorum.va
+---> Offizieller Kämpfer wider Pierre Frielinghausen des Ordens von dtju <---

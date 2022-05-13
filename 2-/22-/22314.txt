@@ -1,0 +1,21 @@
+Und so sprach Dorothee Leuthäuser:
+
+
+Mit zehn habe ich alkoholhaltige Getraenke auch nicht gemocht, heute
+schon. Ich finde, dass die (bei uns) gesetzliche Schranke von 16
+Jahren fuer Niederprozentiges vielleicht ein bis zwei Jahre zu hoch
+liegt (die war vor zwanzig Jahren oder so vielleicht noch passend).
+
+Fuer Sachen mit mehr als 5-6% Vol.-Prozent find ich 18 als Schranke in
+Ordnung.
+
+
+Es sagt ja auch niemand, dass man ab einem gewissen Alter trinken soll
+oder muss.
+
+Gruss,
+Pasquale.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.k

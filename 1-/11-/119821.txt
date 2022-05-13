@@ -1,0 +1,16 @@
+Leider gibt's keine. Emacs schmiert einfach so ab (Standbild, aber mit
+Strg+Alt+Esc zu beenden), wenn ich Gnus starten will.
+
+
+Auch nicht so schlimm. Zur Zeit nutze ich ausschließlich Bahnland. :-)
+
+
+Nach einer genauen Beschreibung des Problems werde ich irgendwann
+nochmal suchen und dir dann evtl. eine E-Mail schreiben, wenn's recht
+ist.
+
+Mathias
+
+-- 
+"The future will be better tomorrow."
+[Governor Bernhard Piefer]

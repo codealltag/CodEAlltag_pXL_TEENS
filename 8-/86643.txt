@@ -1,0 +1,4 @@
+Such mal in ux.utae.odjshocp.newsreader oder gnu.emacs.gnus!
+
+Ich habe die passende Funktion aus dem Code kopiert und in meiner
+.gnus neu definiert (mit der Überprüfung auskommentiert).

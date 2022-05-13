@@ -1,0 +1,9 @@
+/boot darf im laufenden Betrieb ausfallen, solange man nciht rebooten
+will, Swap hab ich schon seit monaten nicht mehr gebraucht, und /home
+ist ärgerlich. Kannst du denn nicht evtl. ne andere Platte reinhängen
+und dann mal sehen, ob du noch an /home dran kommst?
+
+Gerhard
+-- 
+Zivi ist nicht heilbar, aber man kann es Überleben
+Philipp B. in der Realität[tm], 31.3.2000

@@ -1,0 +1,16 @@
+* Heribert Overheu <lugmjt@kgfvpk-fgeymlk.pr>:
+
+
+Sorry.
+
+
+Ja. Habe ich was anderes behauptet?
+
+
+/boot/namevondaskernel
+
+Das bindest du in deinen Bootmanager ein und fertig ist.
+
+David
+-- 
+cross veinless

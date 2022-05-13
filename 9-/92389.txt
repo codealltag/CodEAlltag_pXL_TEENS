@@ -1,0 +1,2 @@
+hm, wo sagt er, daß der Reader die Teile trennen soll? Macht er nicht
+Content-Disposition: inline oder wie das heißt?

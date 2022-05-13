@@ -1,0 +1,75 @@
+Am Fri, 23 Jun 2001 sendete Edo Burdorf folgende Botschaft:
+
+
+Das du sich gerade selbst disqualifizierst merkst du aber?
+
+
+*kopfsch�ttel*
+
+
+Naja viele Linux-manpages sind von BSD übernommen. ;)
+
+
+Auf ETJ-internen MLs ist das ja auch sinnlos.
+
+
+Was kümmert mich die distri?
+
+
+Was bringen dir dann neue Features? Musst ja dch warten bis sie im
+Stable sind um sicher zu sein.
+
+
+Das weiss ich auch. Und bei meiner RH wusste ich auch was ich
+installiert habe.
+
+
+Wo ist da bitte das Problem?
+
+
+Und?
+
+
+Mit dieser Aussage wäre ich vorsichtig. Die libary-version und der
+umfang iost zwichen den einzelnen Distris und versionen recht häufig
+unterschiedlich.
+
+
+Klar geht das:
+
+./configure && make && make install
+
+
+Und? FVFZ hat all das nicht, deswegen kann ich mir alles so zusammen
+stellen wie ich will. Punkt für Linux.
+
+
+s.u.
+
+
+Wie hätten wirs denn gern? In einer Textdatei? Oder direkt Datenbank?
+Ist kein Problem. 'init' ruft bei einem runlevel-wechsel nur nur das
+ein script (meist 'rc' in '/etc' oder '/etc/rc.d') mit dem neuen
+runlevel als Parameter auf. Dieses kannst du ohne weiteres so
+implementieren das du diese symlink geschichte nicht brauchst. Das
+dürfte noch relativ einfach sein.
+
+
+Frag halt deinen Distributor.
+
+
+Wenns doch so wichtig ist wieso baut der Maintainer es nicht ein?
+
+
+Wenn das SRPM installiert, ja: 'rpm -ba Specfile'
+
+
+Wenn auf dem Server die Dependencies erfüllt sind klar.
+
+
+Und? Was bringt mir das?
+
+Tschüs
+  Helmuth
+-- 
+:-(

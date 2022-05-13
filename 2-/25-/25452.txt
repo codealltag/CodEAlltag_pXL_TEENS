@@ -1,0 +1,14 @@
+Das lässt dir doch genügend Auswahl.
+
+[lfs]
+War mir zu nervig. Braucht man X -> in die Uni, ziehen. Braucht man 
+Latex -> in die Uni, ziehen. Braucht man was kleines, das man von 
+Zuhause ziehen kann -> n+1 Dependancies.
+
+und auch später. Wenn man was dazubraucht.
+
+mfg, 
+	Noël
+-- 
+KÜS excuse #152:
+My pony-tail hit the on/off switch on the power strip.

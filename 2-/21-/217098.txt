@@ -1,0 +1,11 @@
+tststs@rjlfshfzpb:~ > grep 'Cached' /proc/meminfo 
+Cached:       64748 kB
+
+Obwohl gerade X, Netscape und solche Sachen laufen, sind zusätzlich
+noch knapp 23 MB unbenutzt und stünden ebenfalls als Cache zur
+Verfügung (wenn es denn nötig wäre).
+
+Viele Größe,
+     Gunter Rübmann
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

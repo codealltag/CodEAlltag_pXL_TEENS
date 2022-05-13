@@ -1,0 +1,15 @@
+Okay, nachdem mir nun wirklich alle hier davon abgeraten haben, werde
+ich das Ding liegen lassen wo es ist.
+
+
+Wenn ich nun versuche eine Mail von meinem Mailprogramm an z.B. mein
+installiertes Exim zu senden, muss ich diese ja sicherlich an
+localhost senden. Aber jetzt kann ich wahrscheinlich nicht davon
+ausgehen, dass diese auch im Exim ankommt, weil ja noch sendmail dort
+rumhängt...Was tun? (Ich vermute mal sendmail killen wäre die Lösung.)
+
+Marko
+
+-- 
+Die letzten Worte des Gleisarbeiters:
+"Nein, der Zug führt auf dem Nebengleis."

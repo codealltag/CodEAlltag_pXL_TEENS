@@ -1,0 +1,7 @@
+Und daher sage ich: Esst mehr Karotten!
+
+Thierry
+
+-- 
+Cocon:
+  "Unbekannter Fehler '-128' bei '57'."

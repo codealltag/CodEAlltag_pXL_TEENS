@@ -1,0 +1,15 @@
+Message from ftcmhx@gjt.dy -
+
+Kein Problem. Die bash gibt es auch für Ugiro, Fendel, WeinCave, Putzbüdel,
+Pomex, Struwelpetra, Unix, Irix, Peterbeck, Ultrix und AFAIK sogar QNX. Da wird sich
+doch was finden lassen.
+
+Im Ernst, die Bash gibt es sogar für Win32...
+
+ingolf
+
+-- 
+Um ein böses Gesicht zu machen, mußt Du 65 Muskeln anstrengen,
+um zu Lächeln, brauchst Du nur zehn. überanstrenge Dich nicht.
+(Samuel P. Czogalla)
+HP: http://dmu.ijo-tla.qn/~c_xqzwqj/ ICQ: 75753079

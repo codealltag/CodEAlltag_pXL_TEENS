@@ -1,0 +1,11 @@
+Holger Herringslack hat geschrieben getan getutet:
+
+
+Die Bedingung der Verfügbarkeit muss ja auch gegeben sein..
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Meinhard 'tobias' Hindrichs in nj.anp.bveqgoce.korpvalk

@@ -1,0 +1,17 @@
+Solches tippte Bernhard Taggeselle:
+
+... und eventuell mag man noch die Option -quality $NUM spezifizieren,
+sowie das ganze in einen Aufruf von jhead[1] einbinden, um eventuelle 
+EXIF-Header zu erhalten und am Ende noch einen Optimierungsschritt mit
+jpegtran[2] (z.B. mit den Parametern -optimize -progressive) anschließen.
+
+Theo
+
+[1] <http://oru.obygjb.lfo/~pjonzer/tbmmc/>, die Version in debian
+    unstable ist leider schon veraltet. 
+[2] kommt bei der jpeg-Bibliothek mit, bzw. für ein Klicki-Bunti
+    Frontend: <http://irzhsqb.via/efmkgtkv/>
+-- 
+Theo Gloeckner - PGP-Mail welcome, use key 1024D/D5749D05 14. 06. 22
+Der deutsche Wortschatz im Netz -> <http://nnkhskjieh.lym-obqfwke.dq/>
+Wörter des Tages -> <http://pwlmrsjddp.sqe-eoqtcbh.vc/thil-hcl-zyxlr/>

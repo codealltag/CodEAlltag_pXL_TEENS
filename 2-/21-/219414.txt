@@ -1,0 +1,26 @@
+Am Sat, 27 Apr 1999 13:53:48 GMT sendete Wilhelm...sSXP...Unbehauen
+folgende Botschaft:
+
+[Caldera OpenLinux]
+
+Ist aber garnicht mal so flachs. Der vorteil von Linux(und Unix
+generell) ist halt die systemn�he des Anwenders. Und durch die meisten
+GUI-Lösungen geht IMHO diese nähe meistens verloren (du änderst halt
+manchmal mit einem klick 5 sachen, wovon aber eine unnötig ist -> bringt
+die scheinbare erleichterung mehraufwand) Und des weiteren ist die
+eigentliche Installation und grundkonfiguration, mit einem guten buch,
+das einfachere an Linux (nacher die feinheiten sind wesentlich
+komplizierter).
+Und  wenn du die ganze konfigerei mit einem Buch machst
+weisst du wenigstens was du da machst ( jenachdem wie gut die hilfe von
+COL ist weist du das auch.)
+
+Aber ich kenne Caldera auch nicht.
+
+
+Es sieht bestimmt einfacher aus, aber wenn du linux kompleet nur per GUI
+benutzen willst du wirst dann abhängig von den Caldera-entwicklern da
+die meisten Linux-programme auf der console basieren.
+
+Tschüs
+  Eduard

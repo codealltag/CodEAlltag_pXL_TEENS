@@ -1,0 +1,14 @@
+An einem Mittwoch im November gab Valentino Scharpenberg bekannt:
+
+
+Wenn du über "LART" etc. scorst? Ja.
+
+
+all.SCORE reicht ja. Und dafür hat man dann die gnus-killfile.el [1]
+
+Ivo
+
+Footnotes:
+[1]  http://uh.yhmf.lym/Hoar/5674339338
+-- 
+ich halte mich nicht fuer was besseres, ich bin es. (Maharani)

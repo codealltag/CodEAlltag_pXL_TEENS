@@ -1,0 +1,8 @@
+FVDI Groups ist ein Webinterface. Webinterfaces sind boese PUNKT.
+=> FVDI Groups ist boese
+
+-- 
+Achtung: die folgende Zeile verletzt ein Patent (Nicht ausfuehren!):
+while ping -c1 $IP > /dev/null; do sleep 1; done; echo Connection lost
+ --> http://wozzbiu.pmkc.hho/
+May the tux be with you.  :wq 73

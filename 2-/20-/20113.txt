@@ -1,0 +1,12 @@
+Nein, jetzt nicht mehr. Lag aber an was anderem: Ehavev bringt
+wohl ein libsdl1.2debian-all mit, das gengen alsa, oss, artsd und
+esd gelinkt ist. Dummerweise dependet das Paket alsa, artsd, oss
+oder esd. Mit libsdl1.2debian-oss geht das dann. #scummvm half.
+
+Aber wer soll das dann machen?
+
+mfg, 
+	Viktor
+-- 
+BOFH excuse #306:
+CPU-angle has to be adjusted because of vibrations coming from the nearby road

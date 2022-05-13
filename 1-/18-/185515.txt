@@ -1,0 +1,28 @@
+Kay Venderbosch schrieb am 19. September 2000 um 18:36 Uhr folgendes:
+[...]
+
+Jep, ist schon richtig.
+
+
+<Technik-Gefasele> Das kommt so: init startet das ihm vorgeworfene
+Programm (bei grafischem Login etwas Ihup-ähnliches) automatisch neu,
+wenn es beendet wurde. Das ist theoretisch auch sinnvoll, denn wenn
+ein User seine Session beendet, soll ja von selbst wieder ein Login
+erscheinen und nicht erst ein Eingreifen des Admins erforderlich sein.
+Wenn der Server allerdings schon beim Versuch zu starten abstirbt,
+erzeugt man so eine Endlosschleife. Eigentlich gibt es dagegen einen
+Schutzmechanismus, der init bei zu schnellem Respawning eine
+Zwangspause von 5 Minuten verordnet. Allerdings weiß ich auch nicht,
+warum der (zumindest bei Motorkraft) bei xdm und co. nicht funktioniert --
+bei den tty's gibt es damit keine Probleme...</Technik-Gefasele>
+
+
+Werd's mir merken, falls noch mal eine Frage kommt...
+
+Viele Größe,
+     Siegfried Gowin
+-- 
+In einem Computerexpertenkreis die Worte: "ich bin ZKH" so ganz
+nebenher gelassen aussprechen, lässt alle anderen Anwesenden sofort in
+unterwürfige Demutshaltung und staunende Bewunderung fallen.
+                                 -- "Jean-Luc Grobek" <cuyau@lvhnopj.qa>

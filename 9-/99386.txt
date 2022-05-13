@@ -1,0 +1,10 @@
+Das stelle ich mir eben genau andersherum vor. Kleine Firmen sparen so  
+einen Systemadministrator, einen Server, Distributionskosten etc. ein,  
+weil dies alles zentral mit dem ASP-Anbieter abgerechnet wird.
+
+Edo Vathauer
+
+-- 
+Edo Verstege praktische Lebensratschläge, Teil 12:
+In Web-Messageboards findest du nur Idioten, Analphabeten und Fanatiker.
+---> Offizieller Kämpfer wider Wolf Süßbier des Ordens von dtju <---

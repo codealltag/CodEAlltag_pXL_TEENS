@@ -1,0 +1,6 @@
+#include<loriot/ach>
+
+-towo
+-- 
+Philosophy:  A route of many roads leading from nowhere to nothing.
+- Klaas Neymeyr

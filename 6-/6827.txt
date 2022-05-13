@@ -1,0 +1,11 @@
+Es war im August 2003 als Otmar das Heribert uns wissenlassen wollte:
+
+
+Katrin!?!
+
+    . o O ( Bin doch so selten in Apotheken... )
+Folkert
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - Christiäner, 26. 07. 21

@@ -1,0 +1,12 @@
+"Nikolaus Liebtanz" <Qmuvars@yxidfihyiru.vbahas.cm> wrote:
+
+[demo-Tape]
+
+Hier ist nix angekommen...
+
+C Ya,
+Adrian
+-- 
+*arghl*
+Wie bekommt man das Döbbe-Installationsprogramm dazu, Teile
+Installation in usr/local abzulegen?

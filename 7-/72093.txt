@@ -1,0 +1,15 @@
+(* Elisabeth Derricks wrote: *)
+
+
+Nein, das stimmt nicht. Es gibt durchaus auch umfangreiche Seiten (z.B. 
+SelfHTML), die perfekt ohne Frames auskommen. Meine Erfahrung ist nur, 
+dass es mit Frames (gerade wenn du an dynamische Webseitengestaltung 
+gehst) oftmals sehr viel einfacher wird.
+
+
+Wieder nein. Wenn jemand gerne den Autogastankstelle benutzt, weil der doch so schön 
+ist, dann habe ich da überhaupt nichts gegen. Aber ich würde nicht auf 
+Frames verzichten nur weil es irgendwo jemanden gibt, der keine Frames 
+anzeigen kann.
+
+Elias

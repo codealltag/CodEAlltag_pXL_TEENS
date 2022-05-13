@@ -1,0 +1,20 @@
+Von Ottmar Obkirchner las ich:
+
+[$anderes_weibliches_wesen]
+
+[ ] Du kennst PHP gut.
+
+
+Ich weigere mich zwar normalerweise sowas zu erklären, aber für dich mach
+ich mal eine Ausnahme:
+Wenn $anderes_weibliches_wesen ein Array ist, dann kann es zum Beispiel
+dadurch mehrdimensional werden, daß sich $anderes_weibliches_wesen[$x] und
+$ego zu nah gekommen und gemeinsam $neues_menschliches_wesen produzien. Und
+das ist dann teuer.
+
+manuel
+-- 
+�� Oberster Verteidiger des Ordens der Dunklen Mankopf von de.ALL [tm]  ��
+#   LOAD"SIGNATURE",8,1                                                #
+#   SEARCHING FOR SIGNATURE                                            #
+#   ?FILE NOT FOUND ERROR                                              #

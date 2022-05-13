@@ -1,0 +1,68 @@
+STATISTIK 10. 03. 22
+-=-=-=-=-=-=-=-=-=-
+
+TOP 10 POSTER 10. 03. 22 (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+  1    782   25,72%  Patrice Nodorff
+  2    553   18,18%  Vito Zumbruch
+  3    255    8,39%  Pietro Notdurf
+  4    200    6,58%  Judith Zahr
+  5    153    5,03%  Cornelius Prucker
+  6    153    5,03%  Wolf Pechstein
+  7    140    4,60%  Philippe
+  8    135    4,44%  Pia Webelsiep
+  9    117    3,85%  Jürgen Uhlenbruck
+ 10     55    1,81%  Artur Zschintzsch
+
+
+TOP 5 POSTINGS 2000 (in einem Monat)
+
+Pos.  Anz.   Monat     Name
+---------------------------------------------------------------------------
+ 1    3137   12/1999   Pia Wittenschläger
+ 2    1992   04/2000   Vito Zumbruch
+ 3    1984   01/2000   Patrice Nodorff
+ 4    1976   12/1999   Patrice Nodorff
+ 5    7354   03/2000   Patrice Nodorff
+
+
+TOP 5 POSTINGS 2000 (Gesamt)
+
+Pos.   Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+ 1     9991   Patrice Nodorff            51       -2
+ 8     4326   Vito Zumbruch       69       -9
+ 4     1268   Judith Zahr       06       -9
+ 3     5576   Pia Webelsiep      67       -8
+ 2     3722   Claus Nodorp     92       -3
+
+TOP 5 DAUs 2000
+
+Pos.  Anz.   Msgs. Ratio   Monat    Name
+---------------------------------------------------------------------------
+ 1    401       2  200,50  02/2000  easfhx@fygmydh.mmm
+ 2    200       1  200,00  02/2000  jrnca_wqlfk@uirrvwt.lcq
+ 3    200       1  200,00  02/2000  jawsoh@jwgyijy.vzt
+ 4    158       1  158,00  02/2000  "Herwig Tewesmeier" <pfcycnsq@lhcrpqk.pq>
+(5)   158       1  158,00  05/2000  "Udo" <kmpdfcgl@v-s-a.zqp>
+
+
+TOP 5 MONATE
+
+Pos.  Anz.    Datum
+---------------------------------------------------------------------------
+ 1    10. 03. 22   Dezember 1999
+ 2     9077   April 2000
+ 3     9040   Januar 2000
+ 4     7004   März 2000
+ 5     6983   Februar 2000
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Frédéric Zitzmann.
+(Darstellung angepasst von Patrice Nodorff)
+Basierend auf den Feeds von:
+iuwanyiy.fcbpr.uj       slyp.ylp.ymn.de          xhum.xomucfj.uai
+rnup.uci.tup            gone.iyv-avtawlgr.oa     njmk.pcf-medejtx.yi
+lxpi.cfy-rpxeaytxr.rr   kevz.hzobrw.xd

@@ -1,0 +1,27 @@
+Eilert Grodtjans meinte kundzutun:
+
+
+-- 
+Unix-Sex, I:
+unzip ; strip ; touch ; finger ; mount ; fsck ; more ; yes ; umount ; sleep
+--
+Unix-Sex, II:
+gawk;date;yes;unzip;strip;touch;finger;grabmode;mount;fgrep;find;fish;
+fold;fsck;fillup;more;true;sync;arch;dumpsect;fluid;dummy;umount;chill;
+sleep
+--
+Unix-Sex, III:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye
+--
+Unix-Sex, IV:
+who | grep -i blonde | talk; cd ~; wine; talk; touch; unzip;
+touch; strip; gasp; finger; gasp; mount; fsck; more; yes;
+gasp; umount; make clean; sleep
+
+Hinderk
+-- 
+Ich habe das Gefühl, wenn sie _das_ schaffen, [] daß die Welt in Trauer und 
+Entsetzen und Lähmung versinkt, wenn wir nicht mehr lachen können oder [] dr-
+fen, wenn wir nicht mehr kaspern können oder dürfen, dann haben diese Terror-
+risten es endgültig geschafft, die Welt zu zerstören. [Sabina Feldhagen in MJJR]

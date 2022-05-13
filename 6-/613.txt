@@ -1,0 +1,5 @@
+Tim Neser bietet doch bis auf DSL-Zugänge und UUCP wirklich alles
+an... insbesondere einen durchaus gut angebundenen und
+funktionierenden Newsserver.
+
+Tim

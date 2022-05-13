@@ -1,0 +1,6 @@
+Die Datei in der slrn ein Follow-Up (also die Antwort auf ein Posting) 
+abspeichert. Liegt normalerweise im /home/user Verzeichniss. 
+
+Georg
+-- 
+Sämtliche Schwäne in Zweifelsheim sind Eigentum der Königin.

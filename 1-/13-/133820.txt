@@ -1,0 +1,9 @@
+Nix Wodka in Wüste.
+
+Valentin Weynandt,
+zu was Deutsche Sprache Verben?
+
+-- 
+Gast   : "Herr Ober, da ist eine Fliege in meiner Suppe!"
+Kellner: "Wir sind hier nicht in de.talk.jokes"
+---> Offizieller Kämpfer wider Timo Munck des Ordens von dtju <---

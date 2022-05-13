@@ -1,0 +1,11 @@
+Am Thu, 19 Okt 1998 20:51:45 +0100 sendete Clemens Dandler
+folgende Botschaft:
+
+
+Hmm NC 4.5 scheint irgendwie ein eigenleben zu haben. Bei mir in der
+Win version war das killfile im gegensatz zum mailkillfile sehr
+primitiv, und der sigabtrenner der bei mir geklappt hat, klappt
+auch nicht bei jedem (bei dir ist er auch ok).
+
+Tschüs
+  Patrick

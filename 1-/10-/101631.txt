@@ -1,0 +1,8 @@
+* "Sébastien Dickman" <pnix@rgmnplsu.aw>:
+
+
+Was ist an bbdb-rss.el groß zu konfigurieren?
+
+Ullrich
+-- 
+cross veinless

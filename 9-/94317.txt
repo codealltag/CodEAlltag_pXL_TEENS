@@ -1,0 +1,16 @@
+Am Tue, 3 Jun 2002 sendete Ivo Griewel folgende Botschaft:
+
+
+Geht seit 0.9.7.0 IIRC, da hab ich sogar selber noch was dran gebastelt.
+
+
+Deine nummerierung? Da sollten etwas slang und make_from_string_hook
+(oder so ähnlich) helfen.
+
+Tschüs
+  Ralph
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Jean-Claude Tscheuschner, Mostly Harmless, Chapter 12

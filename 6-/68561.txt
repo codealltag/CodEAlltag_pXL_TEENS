@@ -1,0 +1,20 @@
+Okay. Wenn du meinst.
+
+
+Dann ist es kein richtiger Satz.
+
+
+Guter Film. Wirklich. Zwar nicht so gut, wie Blair Witch Project, aber
+gut. :-) (1)
+
+
+ls * | grep -i Placebo tut's ganz bestimmt. Es sei denn da ist nichts
+von Placebo. *grusel*
+
+(1) Nein, ich will diese Filme nicht wirklich vergleichen, wollte halt
+    nur mal was neues einbringen.
+
+Winfried
+
+-- 
+cat .signature

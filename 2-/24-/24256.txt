@@ -1,0 +1,7 @@
+Und was bringt es? Nix, weil man ja am Feiertag nicht flexen darf.
+
+mfg, 
+	Ingmar
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

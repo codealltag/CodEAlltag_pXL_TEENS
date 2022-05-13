@@ -1,0 +1,7 @@
+Hallo !
+
+
+Firmeninternes Servlet, dass die _gesamten_ Funktionalitäten von PHP 
+und Konserten bietet und noch eine ganze Reihe mehr :-)
+
+Sebastian

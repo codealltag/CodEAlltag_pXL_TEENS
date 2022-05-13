@@ -1,0 +1,9 @@
+Rufst du Korrnews
+(a) mittels Skript
+(b) automatisch durch Hamster nach Nutzung des Assistenten auf
+
+Falls b:
+Was steht in deiner hamster.ini im actions-Abschnitt?
+
+So long,
+Ignaz G. Dehnert

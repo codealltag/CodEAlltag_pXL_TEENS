@@ -1,0 +1,7 @@
+Falls Bedarf besteht: ich habe 4GB Nullen, gepackt mit bzip2, 3 KB,
+oder 4GB Nullen, gepackt mit Gzip, 4MB gross. 
+
+Ben
+-- 
+Diplomatie ist die Kunst, dem anderen deinen Willen aufzuzwingen
+und ihn gleichzeitig in dem Glauben zu lassen,es sei sein eigener.

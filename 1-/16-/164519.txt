@@ -1,0 +1,5 @@
+Christoph Merkl <qlfepi@ivl.ji> schrieb in im Newsbeitrag:
+uxmj6u4ox6.439.budqyy@mnspjcxfho.atmtyj.hclu.qev...
+
+ARGH. GCC 2.9.2 hat auf dem K5166 fast ne Stunde gedauert... Der K6-2 450
+hatte es dann in knapp 15min, IIRC.

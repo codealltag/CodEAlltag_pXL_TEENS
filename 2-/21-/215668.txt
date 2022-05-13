@@ -1,0 +1,18 @@
+On Fri, 27. 06. 22, Carsten Königbauer <eykdbrj_hjmuixz@vlq.xl> wrote:
+
+[Dokus lesen]
+
+Jau, klasse. Alles, was Arbeit macht, lassen wir gleich sein. Statt
+dessen verlegen wir uns aufs Konsumieren und geben massig Geld für
+k3Wles Spielzeug aus.
+
+
+Welche Ausgabe ein Programm dem User bietet, hat das Betriebssystem
+nicht zu entscheiden. Soweit es das OS betrifft, kannst Du Dir unter
+Linux selbstverständlich ansehen, was perl gerade tut. strace zeigt
+Dir an, welche Systemaufrufe stattfinden.
+
+Viele Größe,
+     Ingmar Waldeck
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

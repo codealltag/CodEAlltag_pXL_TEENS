@@ -1,0 +1,15 @@
+Walburga Uttenweiler schrieb am 25. Juli 2000 um 14:43 Uhr folgendes:
+
+
+Soweit ich mich an den Agent erinnere, gibt es da im "File"-Men einen
+Eintrag (müsste "Compress folders" oder so heißen), den man ausführen
+muss, bevor der Speicherplatz von gelöschten Daten tatsächlich
+freigegeben wird.
+
+Viele Größe,
+     Stefano Gutjar
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

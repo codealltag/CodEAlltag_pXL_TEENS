@@ -1,0 +1,7 @@
+Die sollen ja auch nicht gummiartig sein, sondern knusprig.
+
+Valerio 
+
+-- 
+75 Things you don't want to hear from your Sys Admin.
+55. Why did it say '/bin/rm: not found'?

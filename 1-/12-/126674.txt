@@ -1,0 +1,6 @@
+Der nächste InVino kommt bestimmt.
+
+Knut
+
+-- 
+Löscht alt.binaries.*!

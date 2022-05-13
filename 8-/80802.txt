@@ -1,0 +1,7 @@
+Dann erreiche ich den Bahnhof nicht.
+
+Nikolaus
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

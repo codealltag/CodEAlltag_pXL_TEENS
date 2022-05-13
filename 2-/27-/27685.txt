@@ -1,0 +1,33 @@
+Ignaz Ißbrücker meinte kundzutun:
+
+
+Mails.
+
+
+Pft. Waren noch nicht mal meine. $SYSTEM hatte gehustet, deswegen waren
+die temporär bei uns gelandet. "Spammen" tat zu der Zeit wer ganz
+anderes... Konnte man prima am Logfile sehen... *g* Während wir 25.000
+Mails von Absender X versuchten loszuwerden, kippte dieser schon wieder
+zigtausend neue ein...
+
+
+Soll so komische dateien im Internet geben, die gaanz viele haben
+wollen. Und damit man die gaaanz vielen geben kann, baut man mehr als
+einen Downloadserver. Und damit die nicht unter verschiedenen
+IP-Adressen erreicht werden, baut man $BLACKBOX davor, die eine externe
+IP hat und alle Anfragen darauf inern auf $ganzviele Server verteilt.
+Und wenn diese Blackbox eben gerade dabei ist, mit 100MByte/sec[1] ein
+bestimmtes Softwarepaket an $viele User auszuliefern, und dann eben aus
+Gründen von alt und dann doch irgenwie überlastet die Grätsche macht...
+
+Oskar
+[1] Nota bene: Das Ding hat als Uplink einen 1-Gbit/s-Port...
+    Nein, die externe Leitung aus dem Kopfsache war nicht dicht. Wieso fragst
+    du? Ja, mit der passenden Hardware hätten wir sie wohl wirklich
+    dicht gekriegt. Nein, es lohnt sich nicht, für ein derartiges
+    Ereignis da doppelt/dreimal so viel Hardware hinzustellen, wenn sich
+    die existierende Hardware sonst langweilt.
+-- 
+Es gibt Erlebnisse, die muss man nicht gehabt haben. Überschläge mit
+dem Kettcar gehören dazu.
+[Dennis Interwies in dtju]

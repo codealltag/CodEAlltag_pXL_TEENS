@@ -1,0 +1,13 @@
+(* Uwe Bergweiler wrote: *)
+
+
+Wie soll das denn gehen?
+
+document.write("<HTML><HEAD> ... ">
+
+oder wie?
+Das halte ich für ein Gerücht, denn das impliziert, dass diese Leute 
+sich wenigstens halbwegs mit dem auskennen, was sie da tun. Und in 
+diesem Fälle lässt man die Finger von solchen Verrücktheiten.
+
+Lorenz

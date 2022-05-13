@@ -1,0 +1,13 @@
+Hansruedi Andreasson schrieb am 21. Januar 2001 um 19:33 Uhr folgendes:
+
+
+Kann ich nicht wirklich beurteilen (nachdem wir den ganzen Nachmittag
+in der Projektgruppe vor den Sun-Kisten gesessen hatten, habe ich
+Abends keine Lust mehr gehabt, großartige Experimente anzustellen).
+Auf Anhieb konnte ich damit jedenfalls weder mutt noch s-lang
+compilieren.
+
+Viele Größe,
+     Kasimir Antenbrink
+-- 
+A fool must now and then be right by chance.

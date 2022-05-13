@@ -1,0 +1,9 @@
+Es ging um Wavetable - *RAM*. Selbst wenn ich zur Ansteuerung bei der
+MIDI-Wiedergabe keine speziellen Treiber brauche - ich brauche auf
+jeden Fall beim Systemstart einen speziellen Treiber, um die
+entsprechenden Daten dort reinzuschaufeln.
+
+Viele Größe,
+     Bernd Jannson
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

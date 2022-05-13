@@ -1,0 +1,7 @@
+Brauchst du vielleicht eine Brille?
+
+mfg, 
+	Cédric
+-- 
+BOFH excuse #359:
+YOU HAVE AN I/O ERROR -> Incompetent Operator error

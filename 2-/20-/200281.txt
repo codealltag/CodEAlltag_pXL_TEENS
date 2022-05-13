@@ -1,0 +1,17 @@
+Ja, mit denen habe ich auch schon totale Kills einzelner Personen 
+verwirklicht, sprich killen der Postings inklusive Replies darauf. Im 
+Extremfall sehr angenehm (bei Trolls und Antworter, die's nicht lassen 
+können z.B.). Natürlich gibt es auch gewisse "Positiv-Filter", die derarte 
+gekillte Postings unter bestimmten Umständen dann doch wieder durchlassen.
+
+Gravity ist hier im Bezug auf seine Filtereigenschaften schon nicht 
+schlecht, allerdings habe ich so schöne Filter-Regeln im Kopf die sich 
+leider nur in einer richtigen Programmiersprache umsetzen lassen, weil sie 
+dann doch wieder zu komplex sind. Deshalb bedauere ich auch so daß es 
+Gravity nicht als Source gibt ;-)
+
+
+Der Download von Messages läuft parallel, die Leitung bleibt also 
+ausgelastet. Danach werden die Regeln einmalig angewendet und das Ergebnis 
+(Score, Read/Unread) gespeichert. Das kann schon etwas Zeit brauchen, aber 
+lieber verschwende ich Rechenzeit als meine eigene Zeit.

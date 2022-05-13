@@ -1,0 +1,21 @@
+Willkommen im Club ;)
+
+
+Ich habe es auf einer zweiten Platte, das ist immer noch am sichersten ...
+
+
+Ich hatte vorher die 6.0Evaluation. Das Update tut leider nicht so wie es
+sollte, danach waren 300MB _mehr_ belegt, z.B. sind die alten Kernel-Sourcen
+noch da oder die alte sdb ... wieso ? :(
+Ich überlege jetzt ob ich nicht nochmal alles runterschmei�e, allzu viel ist
+ja noch nicht konfiguriert und bis ich herausgefunden habe, was denn jetzt
+alles noch in alter Version auf der Platte liegt ...
+
+
+Jaja, ich kenne da auch einige "Experten" ... :)
+
+Michel
+-- 
+Homepage @ http://ocrm.hh/tk - NGC @ 5843597
+Die Freiheit ist die Pflanze, die schnell waechst, 
+wenn sie einmal irgendwo Wurzeln geschlagen hat.

@@ -1,0 +1,10 @@
+Prinzipiell nicht, wenn sie nicht stehenbleiben, sondern vom Newsreader
+richtig kodiert werden. Da Outlook Express, das offenbar nicht tut ...
+Dito für den From:-Header.
+
+Aus ebendiesen Grund ist es übrigens eine nette Geste, generell Umlaute in
+den Headern zu vermeiden, auch wenn die eigene Software das kann - man
+weiß nämlich nie, wer (mit welcher Software) antwortet.
+
+Gruß,
+Olaf

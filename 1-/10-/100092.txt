@@ -1,0 +1,12 @@
+Rechte für das freigegebene Verzeichnis eingestellt?
+
+Masquerading funktioniert nun auch endlich. Nach ewig langer Zeit habe
+ich nun rausbekommen wie ich es schaffe, dass das direkt beim Booten
+startet. :-)
+
+Hartmut
+
+-- 
+"Das Geld ist der allgemeine, für sich selbst konstruierte Wert aller
+Dinge. Es hat daher die ganze Welt, die Menschheit wie die Natur, 
+ihres eigentümlichen Wertes beraubt." [Valentin Juderjahn]

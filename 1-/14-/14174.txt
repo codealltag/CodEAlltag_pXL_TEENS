@@ -1,0 +1,8 @@
+Nicht wirklich. So hab ich einerseits ein /dev fuer die devices, die
+auch dann da sein sollten, wenn da *angeblich* nix dranhaengt...
+
+Meiner Meinung nach sollte ein devfs auch merken, wenn ich da devices
+reinbaue, die ich zum ansteuern brauche. Wenn ich mit devfs an meinen
+Wiemeler will, muss ich den erst auf Sync stellen, dann erstellt devfs den
+device, dann kann ich mit der Software syncen. Ideal waere, wenn die
+Software den Sync triggern koennte.

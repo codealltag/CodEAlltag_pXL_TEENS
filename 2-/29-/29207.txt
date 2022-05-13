@@ -1,0 +1,7 @@
+Realisiere ich das als DFA oder NFA? Typ 2 oder 3?
+Merkt man, dasz ich Info lerne?
+mfg, 
+	Waldemar
+-- 
+BOFH excuse #385:
+Dyslexics retyping hosts file on servers

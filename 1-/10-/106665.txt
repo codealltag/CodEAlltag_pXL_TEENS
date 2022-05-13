@@ -1,0 +1,11 @@
+Hm... netscape ist sowieso seltsam im zusammenspiel mit Leafnode. Hast
+du mal einfach mit irgendeinem anderen Client getestet?
+
+
+Doch. die Configdateien müssen IIRC news.news gehören, ansonsten tuts
+das nicht.
+
+Sandro
+-- 
+Guck dir mal den Unterschied an, so nen grossen hattest du noch nie!
+[Josette zu Beat]

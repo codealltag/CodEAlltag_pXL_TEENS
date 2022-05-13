@@ -1,0 +1,10 @@
+No manual entry^W^W^W
+
+igrc@nnri:~$ hasirem | grep g772OID6J                 
+tcp        0      0 tltz.ragjde.vnvyw:87200 i672FTC6W.ffd.g-kcs:ftp ESTABLISHED 
+tcp        0      0 nakt.hmaixn.anotm:80329 c641PPN1J.dtv.v-di:2011 ESTABLISHED 
+tcp        0  23800 fjix.uylubw.hebqx:83167 x047GKI5T.dzp.t-di:3474 ESTABLISHED 
+
+Hmm .. ne, das wird's bestimmt nicht sein.
+
+-towo

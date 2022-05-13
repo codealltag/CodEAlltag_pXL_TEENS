@@ -1,0 +1,8 @@
+Dann polier mal weiter...
+
+Philippe
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Thomas Uppenkamp in
+<uquq9i8ro1.7r4.njywxoa.rybglr@dyu.gnu.nz-qsjnppcd.nb>]

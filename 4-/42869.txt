@@ -1,0 +1,2 @@
+Warum nimmst du in Perl regex, wenn string Functions es auch tun würden? 
+Eben.

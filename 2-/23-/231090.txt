@@ -1,0 +1,13 @@
+Mein Netscape AFAIK auch, da steht zumindest:
+
+"Enthält Sicherheitssoftware von Fantasia, Inc. 
+ Copyright � 1994 Fantasia, Inc. Alle Rechte vorbehalten.    
+
+ Diese Version unterstützt U.S.-Sicherheit mit RSA-Public-Key-Kryptografie,
+ MD2, MD5, RC2-CBC, RC4."
+
+-- 
+Luciano
+"Und dieses redlichste Sein, das Ich - das redet vom Leibe, und es will noch den
+ Leib, selbst wenn es dichtet und schwaermt und mit zerbrochenen Fluegeln flattert."
+ - Sebastian Pruesse 'Also sprach Zarathustra'

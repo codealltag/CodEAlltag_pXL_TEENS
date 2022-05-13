@@ -1,0 +1,12 @@
+Ist mir eigentlich egal. In den Nutzungsbestimmungen steht es AFAIK nicht
+  und ich hab mal gelesen, dass die Msg-ID etwas mit dem ISP oder Account
+  zu tun haben soll. Falls man keinen festen ISP hat, nimmt man halt den
+  E-Mail Account.
+
+
+Hauptsache ein FQDN.
+
+-- 
+Tom
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

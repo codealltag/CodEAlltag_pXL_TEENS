@@ -1,0 +1,34 @@
+Mmh... mag sein. Der K6 ist jetzt eh' vom Tisch und fertig.
+
+
+Wenn ich das richtig verstehe, heißt das, daß die Preise des OVF
+nicht mehr runtergehen, dafür aber der P-II billiger wird. Wenn ich
+nicht wirklich einen P-II haben will (und den Eindruck hatte ich
+bisher), dürfte die weitere Preisentwicklung dann für mich aber
+relativ gleichgültig sein, oder?
+
+
+Ich weiß, daß EJEF auf dem Karton ihrer Distribution immer noch
+behauptet, 3D-Karten würden nicht unterstützt - dort heißt es aber
+auch, von Kaminiartz würden nur KHLZ und kodi unterstützt, und
+das stimmt definitiv nicht (mehr).
+
+Ich hab' hier einen Artikel, der über ein Jahr alt ist und davon
+berichtet, daß erste 3D-Karten bereits unterstützt werden. Auch in der
+LUG habe ich gehört, daß einige Quake4Linux mit 3D-Beschleunigung
+spielen - was da genau geht und wo noch Probleme liegen, kann ich Dir
+aber nicht sagen, weil ich eben selbst nicht so ein Ding habe.
+
+[Viper 330 nicht mehr lieferbar?]
+
+Wie gesagt - in den Läden, in denen ich war, hatte die Viper 550 die
+vorherige Generation komplett abgelöst.
+
+
+Okay, ich tendiere inzwischen mehr dazu, all den zufriedenen Benutzern
+der 10.1 GB-Version zu glauben.
+
+Viele Größe,
+     Uwe Zoern
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

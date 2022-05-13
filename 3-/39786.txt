@@ -1,0 +1,9 @@
+Hm, war da nicht mal irgendwas bei dir kaputt? Vor langer Zeit?
+
+Ingmar,
+nachtragend
+
+-- 
+PKIK ImageReady:
+"Konnte nicht Optimieren des Bildes, weil a pointer was nil when it
+ should not have been."

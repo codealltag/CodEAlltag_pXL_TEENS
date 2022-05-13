@@ -1,0 +1,21 @@
+Am Fri, 9 Sep 1999 21:48:10 +0100 sendete Nikolaus Nortrup
+folgende Botschaft:
+
+
+*Arrg* Nein, nicht ohne Punkt, sondern ohne sogenannten
+"Full-Qualified-Domian-name" das sie einen Punkt haben muss, ergibt
+sich daraus das wohl niemand eine sever auf einem TlD betreiben wird.
+
+
+Hast du einen lokalen Newsserver laufen? Sonst solltest du deine
+e.V. mal in den hintern treten das sie ihren newsserver richtig
+konfigen,da die Msg-Id bestimmt nichtz von OE stammt.
+
+
+Ja.
+
+Tschüs
+  Kay
+
+-- 
+Kumm loss mer fiere ...

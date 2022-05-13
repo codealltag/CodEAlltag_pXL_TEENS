@@ -1,0 +1,31 @@
+Hmm ja, der Smiley zwinkerte, verzog aber auch das Gesicht. Ich
+versuche jetzt mal, ganz ohne Smileys auszukommen, um Mißverständnisse
+zu vermeiden:
+
+
+Niemand wird gezwungen, Programmierer zu werden. Man kann auch nicht
+davon leben, Luft in Töten zu verkaufen, also suchen die Leute sich
+andere Jobs. "Rechtschaffende" Programmierer würden übrigens auch dann
+noch gebraucht und bezahlt, wenn alle Welt GPL-Software benutzen würde
+(Auftragsarbeiten, Support, Administration großer Systeme...).
+
+[...]
+
+Offensichtlich hat der Sharewareautor etwas überflüssiges produziert,
+wenn es ein ähnliches Produkt (noch dazu als Freeware) schon gibt. Das
+ist aber persönliches Pech - wer Gewinn machen will, muß sich
+(zumindest in unserer Wirtschaftsform) eben überlegen, was gebraucht
+wird, bevor er mit der Produktion anfängt.
+
+[...]
+
+Auch für einen Entwickler ist die GPL eine feine Sache: Er muß das Rad
+nicht ein zweites Mal erfinden. Wenn er in seinem Programm B einen
+komplizierten Algorithmus braucht, der in Programm A schon
+implementiert ist, darf er ihn - ganz legal - in sein Projekt
+übernehmen. IMO eine gute Sache.
+
+Viele Größe,
+     Orlando Tworeck
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

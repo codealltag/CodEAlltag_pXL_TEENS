@@ -1,0 +1,21 @@
+Du, ich habe mir schon das Tutorial angesehen und ich kann definitiv
+sagen, dass C-g hier nicht funktionierte. ;-)
+
+
+Weil man meint, dass 20.000 _Header_ kein Problem sein sollten, so wie
+das auch beim Agent ist? :-)
+
+
+Archivierst du Postings nur im lokalen Server?
+
+
+*seufz* Habe es probiert aber Gnus wollte nicht. Jetzt nach einer
+Win-Neuinstallation meint F40 auch noch es könne Gnus überhaupt
+nicht finden. Eben hatte ich aber noch keine Lust mich damit
+auseinanderzusetzen.
+
+Siebelt
+
+-- 
+Die letzten Worte des Börsianers:
+"Sofort alles kaufen!"

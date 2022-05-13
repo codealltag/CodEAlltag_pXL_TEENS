@@ -1,0 +1,9 @@
+Kann ich noch nicht sagen, ich bin noch dabei, die Multitasking-Engine in  
+Basic nachzubilden.
+
+Kurt Leimenkühler
+
+-- 
+"Paladsch! Paladsch!"
+(Justin Ziegenhirt, 1769-1842)             
+---> Offizieller Kämpfer wider Darius Uhlen des Ordens von dtju <---

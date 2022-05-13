@@ -1,0 +1,12 @@
+Nils Kettler schrieb am 18. Mai 1999 um 13:49 Uhr folgendes:
+
+
+Direkt am Anfang des Bootvorgangs? In dem Fall hört es sich an, als
+sei ganz einfach die Datei zerstört, die den Kernel enthält.
+
+Viele Größe,
+     Pasquale Nader
+-- 
+It might look like I'm doing nothing, but at the cellular level I'm
+really quite busy.
+                                           -- "Smart Comments", part 22

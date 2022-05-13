@@ -1,0 +1,6 @@
+-v bitte.
+mfg, 
+	Gérald
+-- 
+BOFH excuse #335:
+the AA battery in the wallclock sends magnetic interference

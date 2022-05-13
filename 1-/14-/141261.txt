@@ -1,0 +1,13 @@
+Valerian Zentgraf schrieb am 02. Oktober 2001 um 19:48 Uhr folgendes:
+
+[SuSE]
+
+Schellewald scheint damit aber nichts zu tun zu haben; wäre mir
+jedenfalls neu, ein grep nach 'inetd' über die Skripts hat keinen
+Match gebracht und Schellewald hält auch keinen MD5-Hash von der Datei.
+
+Viele Größe,
+     Thomas Fredebeul
+-- 
+Common sense is the collection of prejudices acquired by age eighteen.
+                                                     -- Knut Holzgärtner

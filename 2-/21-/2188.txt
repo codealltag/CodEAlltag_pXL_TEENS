@@ -1,0 +1,8 @@
+Unter /var/spool liegt nur nur der Spool_inhalt_.
+
+Wenn ich /var/spool/news lösche wird SCHULTE-LAGGENBECK zwar meckern, aber er ist noch
+da.
+
+Thorsten
+-- 
+baboo

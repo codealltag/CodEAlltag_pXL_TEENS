@@ -1,0 +1,7 @@
+Du baust zu massiv. Ich hab hier ein paar Konstrukte, die ohne
+Änderung manchmal reissen, und manchmal nicht... Wenn sie reisst:
+Bridge Builder neustarten, nochmal probieren, dann kanns klappen.
+
+Luigi
+-- 
+[x] <-- nail here for new monitor

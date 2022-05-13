@@ -1,0 +1,11 @@
+[_] Man kann Kopfhörer nicht zweckentfremden, sie in die Buchse fürs
+Mikro stecken und dann mit etwas lauterem Sprechen in den Lautsprecher
+einen Mikrofoneffekt erzielen.
+
+Bei richtigen Lautsprechern geht das wirklich nicht, zum einen haben die
+keinen Klinkenstecker und zum andern müßte man *verdammt* laut brüllen,
+um die Membran zum Schwingen zu kriegen. Und dann könnten wir einfach
+den Kopf aus dem Fester stecken und es uns per RL-Multicast live anhören
+statt auf vermurkste Konserven zurückzugreifen.
+
+Fabian

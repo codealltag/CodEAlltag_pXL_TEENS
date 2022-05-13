@@ -1,0 +1,20 @@
+Am Sat, 02 Jun 2000 sendete Maximilian Hoefert folgende Botschaft:
+
+
+a) vernünftige maus kaufen
+oder
+b) man gpm
+
+[Prompte]
+
+Das ist ja auch nur die Variante wenn ich mich von ausserhalb einloge.
+Und dann arbeite ich erh selten mit der bash.
+
+
+Das ist ein Variable wie jede ander auch. Readonla Variabeln sind sehr
+selten.
+
+Tschüs
+  Henrik
+-- 
+2757

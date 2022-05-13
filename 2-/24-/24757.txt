@@ -1,0 +1,8 @@
+War der jetzt flach oder war der gut?
+
+-towo
+-- 
+ No  Points     Name                                                   Hp [max]
+  1    4688080  MargretXandl-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

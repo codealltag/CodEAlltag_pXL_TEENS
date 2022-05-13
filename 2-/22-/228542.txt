@@ -1,0 +1,29 @@
+Hab' trotzdem keine Zeit.
+Und auch kein Geld fuer ein Buch.
+
+
+Portabel ist ja schoen und gut, aber ich programmiere jetzt schon seit einigen
+  Jahren und will statt Text endlich mal ein Fenster oeffnen  :-)
+
+
+Wenn man sich einfach selbst Software installieren kann geht das.
+  Bei uns geht's leider nicht mehr, da muss man sich fuegen :-(
+
+
+Virtuell. Man hat eine Art 'Spielfeld' in dem 'Kisten' liegen.
+In diesem Feld ist jetzt ein imaginaerer Roboter (ein <, ^, >, v, je nach
+  Blickrichtung), der verschiedene Kommandos versteht (vorwaerts, drehe_links...).
+Diese Programme koennen dann in Pascal-Systax zu 'Programmen' zusammengestellt
+  werden, so dass der 'Roboter' bestimmte Aufgaben ausfuehrt.
+
+Fuer Leute, die keine Ahnung vom Programmieren haben ist das ja sicherlich
+  sinnvoll, aber ich fand's einfach kindisch (dabei konnte ich zu der Zeit nur
+  Basic und ein bisschen Pascal).
+
+
+Viel Glueck.
+
+-- 
+Antonio
+"When you think about death do you lose your breath or do you keep your cool?
+ Would you like to see the Pope on the end of a rope - do you think he's a fool?"

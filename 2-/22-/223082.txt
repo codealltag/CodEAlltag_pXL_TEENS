@@ -1,0 +1,2 @@
+Was verstehst Du unter "Windows Kernel"? Der Microkernel von Windows NT 
+bringt es auf 380kb.

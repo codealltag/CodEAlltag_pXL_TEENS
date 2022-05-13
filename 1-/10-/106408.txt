@@ -1,0 +1,31 @@
+STATISTIK 23. 10. 21
+-=-=-=-=-=-=-=-=-=-=
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1   5107   48,22%  "Forte Agent"
+   2   2713   25,61%  "Gnus"
+   3    767    7,24%  ehrlich registriertes Crosspoint, via NNTP
+   4    686    6,48%  keiner angegeben
+   5    480    4,53%  "slrn"
+   6    423    3,99%  "Xnews"
+   7    153    1,44%  "Mozilla/NetScape"
+   8    105    0,99%  "Microsoft Outlook"
+   9     87    0,82%  "TIN"
+  10     37    0,35%  "MacSOUP"
+  11     11    0,10%  "Gravity"
+  12     10    0,09%  DOS Edit 6.22 I-Net Release V.79
+  13      6    0,06%  ehrlich registriertes Crosspoint
+  14      4    0,04%  "Forte Free Agent"
+  15      2    0,02%  "CrossPoint"
+  16      1    0,01%  andere
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Olivier Echensperger.
+(Darstellung angepasst von Thierry Schaetz)
+Basierend auf den Feeds von:
+qpnhgbrw.jmxde.bu       nvcy.sib.tpc.xq         nnke.elzkxvu.if
+lzxh.kqeha.vzs          lovz.elfvbh.dr          rsif.t-qfdmnc.gb
+hqae.xih-ijtendtw.yt    levb.owe-emhhwwjz.qp    giqg.sib-hhytchqhb.nb

@@ -1,0 +1,28 @@
+Salvatore Pirchner schrieb am 25. Oktober 2000 um 18:16 Uhr folgendes:
+
+[...]
+
+Selbst wenn bei der Deinstallation die entsprechenden Daten
+zuverlässig entfernt werden (was theoretisch durchaus möglich wäre),
+ist eine solche Datei zwangsläufig sehr groß. Folgen: Bei lesendem
+(beliebiger Programmaufruf) wie schreibendem (Änderung der
+Konfiguration) Zugriff müssen mehrere MB Text geparsed werden.
+Außerdem: Wenn einem beim Editieren ein Fehler unterläuft, läuft man
+Gefahr, damit gleich noch die Konfiguration von einem Dutzend anderer
+Programme zu schrotten. Getrennte Verantwortlichkeiten (für News, WWW,
+Mail...) werden gänzlich unmöglich.
+
+Das ist bei einer zentralen Konfigurationsdatei IMO nur dann zu
+umgehen, wenn man sie (um schnelle Zugriffe zu ermöglichen) in ein
+indiziertes Binärformat bringt und Zugriffe nur über ein Frontend
+erlaubt, womit man die Vorteile der einfachen, rein textorientierten
+Konfiguration aus der Hand gibt, ohne damit einen echten Fortschritt
+zu erzielen.
+
+Viele Größe,
+     Ernest Mollenkott
+-- 
+Every program has at least one bug and can be shortened by at least one
+instruction -- from which, by induction, one can deduce that every
+program can be reduced to one instruction which doesn't work.
+                                               -- random fortune cookie

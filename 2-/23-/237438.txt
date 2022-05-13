@@ -1,0 +1,10 @@
+Solange du nur "normale" Daten - sprich Formatierungen, Schriftgrößen,
+Absätze etc. - speicherst entstehen bei der Konvertierung nach RTF
+keinerlei Nachteile. Sogar Kopf- und Fußzeilen werden Korrekt
+übernommen.
+
+Paolo
+
+-- 
+Dieser Text wurde mit 100% chlorfreigebleichten,
+handelsüblichen, glücklichen Elektronen erzeugt.

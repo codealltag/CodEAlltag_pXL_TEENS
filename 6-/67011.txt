@@ -1,0 +1,7 @@
+(* Matthias Dworznik wrote: *)
+
+
+Ich habe links noch mein Klassen-Fenster liegen. Dadurch fallen schonmal 
+15% des Bildschirms weg.
+
+Carsten

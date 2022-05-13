@@ -1,0 +1,8 @@
+Solches tippte Ben Giesch:
+
+Komisch, die Dinger sind sehr trennscharf zwischen verteufelt und
+geliebt werrdend...
+
+Ulfert,
+  8139 Rev. 16 @home (teilt sich sogar brav den IRQ mit der mga400)
+  3c905B 100BaseTX [Cyclone] @Server (auch keine Probleme)

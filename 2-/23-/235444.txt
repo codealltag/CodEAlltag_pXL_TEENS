@@ -1,0 +1,17 @@
+Glückwunsch. Bei mir waren's mal 600 kB, auf einem anderen Rechner
+auch mal nur um die 560 kB...
+
+
+Ja, klar, der Benutzer kommt von alleine darauf, daß er große Treiber
+zuerst laden sollte und weiß natürlich auch von selbst, wie er
+rausbekommt, wie viel Speicher welcher Treiber braucht.
+
+
+Zum Beispiel INN / slrn installieren und richtig konfigurieren zu
+können, ist schon eine gewisse Leistung. Wie man hinterher News damit
+liest, kann man dagegen in ein paar Minuten erklären.
+
+Viele Größe,
+     Ingmar Katenbrink
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

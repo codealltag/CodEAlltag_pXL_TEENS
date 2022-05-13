@@ -1,0 +1,20 @@
+Am Mon, 25. 06. 22 sendete Olivier Rennke folgende Botschaft:
+
+
+Kommt darauf an. INN habe ich auch gerne unter /usr/news/, anderes (z.B.
+exim) habe ich gerne verteilt. Oder wenn ich nur mal was teste, dann will
+ich es auch gut wieder entfernen können.
+
+
+#v+
+felix: ~$ ls /usr/local
+ls: /usr/local: No such file or directory
+#v-
+
+Wozu braucht man /usr/local? ;)
+
+
+WAAAH.
+
+Tschüs
+  Roman

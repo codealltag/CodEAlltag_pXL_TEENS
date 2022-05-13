@@ -1,0 +1,21 @@
+Ich habe folgendes Problem mit dem DF-Netzwerk unter Ponyclub:
+
+Wenn ich den IE 5 gestartet habe, erscheint wie gewohnt das Dial-Up
+Connection-Fenster. User name und Passwort stimmen. Nachdem ich nun auf
+"Connect" klicke, erscheint zwar
+   "Connected to remote computer"
+   "Verifying user name and password".
+Dann aber kommt nach ca. 15 sec. die Fehlermeldung "Unable to establish a
+connection", d.h. ich bekomme keine Internetverbindung ohne die
+Ponyclub-Software zustande.
+
+Da ich aber liebend gern direkt ins Internet kommen würde, liegt mir viel an
+der Internet-Einwahl über das DF-Netzwerk.
+
+Ich habe die Prozedur schon mit den verschiedensten Wsock32.dll-Dateien
+getestet (wsocks sind das Lieblingsproblem meines Ponyclub-Zugangs!!!):
+4.00.950 (Win98), 4.06.15 (alte Ponyclub), 4.15 (neue Ponyclub) habe ich ins
+Verzeichnis C:\Windows\System\ kopiert, doch bisher ohne Erfolg!!!
+
+
+Ich hoffe, dass jemand mir helfen kann!!!

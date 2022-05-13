@@ -1,0 +1,7 @@
+/me hat mit ner RedHat 5.1 angefangen, und es war Scheisse. Der kernel
+hatte kein ISO9660 einkompiliert, Modul gabs auch nicht. Wer nicht von
+anfang an die Kernelquellen mitinstalliert, hatte verloren.
+
+Meinrad
+-- 
+                  Weird enough for government work.

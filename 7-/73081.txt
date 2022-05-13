@@ -1,0 +1,28 @@
+Am Mon, 26. 07. 22 sendete Vinzenz Pahl folgende Botschaft:
+
+
+#v+
+felix: ~$ps --no-headers -C bash | wc -l
+     10
+felix: ~$ps --no-headers -C rxvt | wc -l
+      0
+felix: ~$ps --no-headers -C X | wc -l
+      0
+#v-
+
+Dafür brauchts kein X.
+
+
+#v+
+felix: ~$ps --no-headers -C screen | wc -l
+      5
+#v-
+
+Viel netter. Und für slrn, musik und so brauchts eh keine shell.
+
+Tschüs
+  Otto
+-- 
+Die Weisheiten des Joël Jup: #5
+
+Winkis Chilli rockt.

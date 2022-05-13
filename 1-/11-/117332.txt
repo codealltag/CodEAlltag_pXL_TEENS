@@ -1,0 +1,17 @@
+* "Marc Grünter" <srnm.wryqa@zyv.qw.yk>:
+
+
+Ja eben. Darum bin ich auch nicht reingekommen. Und das ist auch gut so,
+schließlich bin ich kein Kunde. Du musst dich über die IP
+identifizieren, nehme ich an? d.h., du hast nur Zugriff auf den Server,
+wenn du auch über den ISP eingewühlt bist?
+
+
+Jepp.
+
+
+Bitte sie, ihrem Newsserver einen FQDN zu geben.
+
+Tino
+-- 
+cross veinless

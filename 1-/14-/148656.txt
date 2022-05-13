@@ -1,0 +1,27 @@
+STATISTIK 17. 06. 21
+-=-=-=-=-=-=-=-=-=-=-
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+ 1    1741   25,74%  "CrossPoint"
+ 2    1349   19,94%  "Forte Agent"
+ 3    1243   18,37%  "slrn"
+ 4    1029   15,21%  "Xnews"
+ 5     836   12,36%  Ausschau haltender Agent mit Mozarellageschmack
+ 6     195    2,88%  DOS Edit 6.22 I-Net Release V.79
+ 7     156    2,31%  "Microsoft Outlook"
+ 8      93    1,37%  "Mozilla/NetScape"
+ 9      71    1,05%  "MacSOUP"
+10      30    0,44%  keiner angegeben
+11      19    0,28%  "Gravity"
+12       3    0,04%  andere
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Elmar Oberste-Sirrenberg.
+(Darstellung angepasst von Kai Pfendler)
+Basierend auf den Feeds von:
+hnnhrqqh.hlihf.rt       nfmr.yuz.rht.dl          tdsw.umvtovu.mfa
+dklr.mnq.ofo            xojk.ajk-plvgwaja.nm     cuxk.gdw-picgvcr.ac
+uwyh.qni-hnzinzlyk.zy   hmmw.uknvbf.ny

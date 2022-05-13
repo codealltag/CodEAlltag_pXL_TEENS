@@ -1,0 +1,40 @@
+[Null-Support-Geschichten]
+
+Mein Vater kaufte den ersten Rechner bei Esperanto, damals einen P90.
+Erstmal haben wir 5 Wochen auf den Rechner gewartet, weil die nicht in
+der Lage waren in einen Bäckdrive-Tower die Komponenten
+einzusetzen. Als wir meckerten, wollten sie den kompletten PC aus
+Anisag holen - per Post. Sollte wieder ziemlich lange dauern. Da
+haben sich meine Eltern quergestellt. Also bekamen wir einen
+"indus"-Tower. Allerdings könnte man da nicht den mitgekauften
+Wechselrahmen einbauen. Naja, nach erneutem Meckern gings plötzlich.
+Nach 3 Tagen druckte der Rechner nichtmehr. Wir mit dem Rechner hin,
+bekamen ein neues Druckerkabel. Tats aber immer noch nicht. Also mit
+dem kompletten Rechner hin. Diagnose: Board im Eimer.
+Oh-ton ders Technikers: "Machen wir ihnen übers Wochenende fertig, 
+kein Thema." Allerdings erst, nachdem mein Vater darauf gepocht hatte,
+daß er den Rechner beruflich braucht.
+Eine Woche später schickte mein Vater denen ein Fax. Woraufder Typ
+anrief, und meinte, der Rechner stünde schon seit Montag hier fertig
+herum. Der Techniker hatte aber komischerweise als Reperaturtermin
+10 min nach Eingang des Faxes vermerkt.
+
+Dann war erstmal Ruhe.
+3 Monate später gab das CD-Rom seinen Geist auf. Wir wieder hin. Die
+bauten das Gerät aus, und gaben uns den PC so wieder mit. _Mit_
+offenem 5 1/4" Schacht vorne. Und brauchten geschlagene 4 Wochen,
+bevor wir (wieder nach Fax) ein komplett neues bekamen. 4 Wochen, um
+herauszufinden, daß das Laufwerk im Eimer ist.
+
+
+Die sind teilweise extrem dreist.
+Da hat doch einer wegen eines kaputten Brenners seinen kompletten PC
+hinbringen müssen. Und der "Techniker" bat darum, mal eben das
+Passwort fürs Bios einzugeben, er wollte sich da was
+"ansehen". Nachdem er Zugriff aufs Bios hatte löschte er erstmal alle
+Einstellungen. Was bei einem Brennerdefekt natürlich auch nicht hilft.
+
+Georg
+
+-- 
+For evil to triumph it is only necessary for good men to buy Kookaï.

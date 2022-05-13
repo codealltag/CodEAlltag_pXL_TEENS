@@ -1,0 +1,6 @@
+Nehmen ich ins Kino Ohrenstöpsel mit?
+mfg, 
+	Ulf
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

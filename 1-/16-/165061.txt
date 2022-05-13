@@ -1,0 +1,11 @@
+Massimo Eckhardt schrieb am 1. Januar 2000 um 22:13 Uhr folgendes:
+[...]
+
+Sorry, ich nix Perl. CPAN kennst du ja sicher schon.
+
+Viele Größe,
+     Arne Crause
+-- 
+UNIX was not designed to stop you from doing stupid things, because that
+would also stop you from doing clever things.
+                                                           -- Christoph Meinhard

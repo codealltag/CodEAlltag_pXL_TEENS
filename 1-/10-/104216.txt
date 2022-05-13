@@ -1,0 +1,18 @@
+Nunja...
+
+
+Okay, das ist wahr. Aber die Chance, dass mein System komplett in die
+Luft geschossen wird ist bei Open Source (bei dem ich ja eigentlich
+nur erstmal mit Vertrauen zum Autor des Patches) doch eher größer.
+Einen Wepe-Patch würde ich eher einfach mal so installieren als
+einen für mein OpenSource-OS.
+
+Das Problem ergibt sich nicht, wenn ich lange genug warte, bis
+vielleicht Fehler bekannt werden, aber direkt installieren, wenn der
+Patch rauskommt kann sicherlich tödlich enden.
+
+Folkert
+
+-- 
+Die letzten Worte des KFZ-Mechanikers:
+"Lass mal die Hebebühne ein Stück runter!"

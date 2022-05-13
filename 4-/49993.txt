@@ -1,0 +1,4 @@
+Thierry Olrogge <ojtd@tpuzegi.hu> schreibselte:
+
+
+Du meintest ".*"

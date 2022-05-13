@@ -1,0 +1,9 @@
+Jein - mindestens eine Fassung zwischendurch hatte damit wieder
+Probleme, und bis zur 3.9xxx konnten zwei, drei Funktionen nicht genutzt
+werden.
+
+
+Dabei sagt der Assistent sogar freundlich, was er wo ändert...
+
+So long,
+Jean-Claude U. Niessner

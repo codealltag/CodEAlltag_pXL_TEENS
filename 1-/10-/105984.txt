@@ -1,0 +1,18 @@
+Und so sprach Theo Eckertz:
+
+
+Naja. Nimm einfach die zsh, da weiss eh keiner mit umzugehen. :)
+
+
+Naja, dann mach' einfach ein "X-ISC: yes" [1] hin. ;)
+
+Gruss,
+Jean-Luc.
+
+[1] Innerer Schweinehund in Control. [2]
+[2] Sorry, Bruno. ;)
+-- 
+Can I leave and close my eyes for one mor night
+Can I pay to be set free of all this pain
+That makes me bleed
+                                                --ANGEL DUST - Bleed

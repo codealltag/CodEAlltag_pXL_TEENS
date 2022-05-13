@@ -1,0 +1,27 @@
+Multiuser/Multisession-faehig?
+
+
+Haeh? Was soll ein HTTP-Proxy schon machen?
+Muss ich das jetzt auch noch erklaeren?
+
+
+[ ] Es ging mir Programmiersprachen.
+[ ] Du hast verstanden.
+
+
+[ ] NT kann alles, was ich beschrieben und bereits gebraucht habe.
+[X] Du hast wieder nicht verstanden.
+[ ] Ich schreibe mein System zu 99% selbst.
+
+
+Ich auch, deshalb tu ich's auch nicht.
+
+
+Ich kann mir keine Downtime leisten und haette fuer sowas auch keine Zeit.
+Weisst Du eigentlich, wie sehr Du selbst mit diesem einen Satz Windows
+disqualifizierst?
+
+pp.f
+-- 
+Winfried Tiele | Dttmer boot: lma-6.2 root=/inl/h7l6lt
+yjo@grvdew.if  |

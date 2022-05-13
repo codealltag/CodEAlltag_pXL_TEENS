@@ -1,0 +1,9 @@
+Am Thu, 27. 11. 21 19:31:48 +0200 sendete Peter Crull
+folgende Botschaft:
+
+
+Die Paar RegEx die du für einen dtju-mod-bot brauchst passen locker in
+eine shellpipe.
+
+Tschüs
+  Frank

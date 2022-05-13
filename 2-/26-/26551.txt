@@ -1,0 +1,36 @@
+Am Thu, 15 Aug 2002 sendete Karl Thielbörger folgende Botschaft:
+
+
+Hast du mal versucht mit der Bahn von A nach B zu kommen, wobei es
+zwischen A und B keine Direktverbindung gibt, und die distanz bei >300km
+liegt?
+
+
+Und wie soll man die BeZahlen?
+
+
+Ich hab dir das Problem mal markiert.
+
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+     ^^^^^^^^^^^^^                                       ^^^^^^^^^^^
+     ^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+*stel* Leider kann es aber sein das Du von A nach B willst, und in C
+umsteigen musst. Jetzt führt zwischen A und C ein IC und ein ICE. Im IC
+sind schon alle P&S Plätze ausgebucht im ICE nicht, dann kann die Fahrt
+mit dem ICE auf einmal billiger sein. Oder du fährst 10 min früher/später
+über E, dann wird das ganz anders.
+
+Leider ist die Software der Bahn (und auch Food) drauf ausgelegt
+möglichst schnell/einfach von A nach B zu kommen, es gibt keine
+möglichkeit nach der g�ndtigsten/billigsten verbindung suchen zu lassen.
+(was wohl auch nicht unproblematishc sein dürfte).
+
+Tschüs
+  Gregor, hmm ob man "'Günstigste verbindung mit P&S' <=> TSP" beweisen
+         könnte?
+-- 
+Der Kurs "Flirten für Informatiker" wurde inzwischen zusammen mit
+"Freeclimbing für Epileptiker" aus allen Knuffelmann-Programmen entfernt.
+[Philipp Albersen in <slvnkaf.d0zyvyxrzn.rgv@eyzoleexm.ev>]

@@ -1,0 +1,14 @@
+Pierre Gothe hub folgendes in die Tasten:
+
+
+kostet aber auch etwas mehr, oder? Naja, ich habe ja auch noch einen Account 
+bei DDUN, da ist meine Seite auch verfuegbar. Ich muss nur mal meinen Pre-
+Compiler so umbauen, dass er eine statische und eine dynamische Version 
+generiert.
+
+el TruBlu
+
+-- 
+Rede lieber, anstatt zu kämpfen.
+Handle lieber, anstatt zu reden.
+Kämpfe immer darum, daß du reden und handeln kannst.

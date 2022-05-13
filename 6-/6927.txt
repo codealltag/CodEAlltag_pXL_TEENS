@@ -1,0 +1,8 @@
+Platten im BIOS eintragen, nichtvorhandene Platten auf NONE.
+
+
+Das hört sich ganz nach Platte ohne DMA, Kompatibilitätsmodus, starke 
+Defragmentierung an. Da ist ja der Internet-Rechner meiner Eltern mit 
+der alten 512MB-Platte (K6-2 300MHz, 64MB) schneller da.
+
+Jürg

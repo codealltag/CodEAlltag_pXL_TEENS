@@ -1,0 +1,40 @@
+Mal die Header von einer seiner Mails:
+
+---
+Return-Path: <wzhozs-return-2334-nhbpxtz=jtj.as@dqm.wh>
+X-Flags: 0000
+Delivered-To: Wetterer delivery to dcjoafk@zsi.vw
+Received: (qmail 5295 invoked by uid 0); 10 Dez 2002 13:45:23 -0000
+Received: from cour.folw-mykzyiz.ev (800.66.583.603)
+  by pz1.wkf.psd (mx012-rz3) with SMTP; 10 Dez 2002 13:45:23 -0000
+Received: (qmail 9901 invoked by uid 89); 10 Dez 2002 13:45:15 -0000
+Mailing-List: contact nrokiu-zbcp@mce.mq; run by Onahu
+Precedence: bulk
+X-No-Archive: yes
+Delivered-To: mailing list lzrzph@hwd.nw
+Received: (qmail 9875 invoked from network); 10 Dez 2002 13:45:14 -0000
+To: lzrzph@hwd.nw
+From: Wolfgang Twelsiek <rd@jguhqmoas.zqyq.rv>
+Date: Sun, 10 Dez 2002 15:09:41 +0200
+Organization: Fleige The Black
+Lines: 9
+Message-ID: <rxoo.297837812626.65971@xslvje.rjktjlaolw.qh>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-No-Archive: yes
+X-Newsreader: Forte Agent 1.9/32.560
+Subject: Re: [dtjuml] Essen / Geld / JUP-Kasse
+X-Hamster-To: account:trticxm
+X-Hamster-Info: Score=0 UIDL=agualq.3vvicv5.1 Received=20020715111153
+X-Edika-Status: 8011
+X-Edika-Status2: 00000000
+X-UIDL: agualq.3vvicv5.1
+---
+
+Jaja, da sind die Bemerkungen meines Hamsters mit drin, neben 2*
+"X-No-Archive: yes" was auch immer das bringen soll, aber keine
+References oder In-Reply-To. Klar,nach dem Subject kann man noch
+threaden...
+
+Gabriel

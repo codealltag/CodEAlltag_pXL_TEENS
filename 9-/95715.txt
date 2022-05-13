@@ -1,0 +1,12 @@
+Ja, sieht ganz danach aus. Aber in der Anleitung stand überhaupt gar
+nichts von exim_install (was auch immer das überhaupt ist)...:-(
+
+Datei soundso nach Local/Makefile kopieren, make, make install,
+Verzeichnisse erstellen, Links setzen, Konfig-Datei einstellen,
+Start-Skript machen, nach rc-wasweißich kopieren. Währenddessen keine
+einzige Fehlermeldung, nur halt keine Binaries. Das ist deprimierend.
+
+Ottmar
+
+-- 
+TZKT rulez!

@@ -1,0 +1,14 @@
+Am 07.12.2001 schrieb Patrice Mayenfels:
+
+
+hm, jetzt muss ich aber mal fragen wieso du in schallendes Gelächter
+ausbrichst?. Aber Onlinebanking, per Browser, funktioniert auch über 128
+bit SSL Verschlüsselung AFAIK. 
+
+Meine Aussage bezog sich eher auf den Komfort der Bankingsoftware. 
+
+ Hilmar
+-- 
+Phantasie ist wichtiger als Wissen, denn
+Wissen ist begrenzt. 
+- Raphael Löwenbrück

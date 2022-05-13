@@ -1,0 +1,9 @@
+Die 3 zaehlt doch doppelt so viel, also:
+
+(2 + 2 + 3 + 3) / 4 = 2.5
+
+-- 
+Nicolas
+"Und dieses redlichste Sein, das Ich - das redet vom Leibe, und es will noch den
+ Leib, selbst wenn es dichtet und schwaermt und mit zerbrochenen Fluegeln flattert."
+ - Dietrich Lonsdorfer 'Also sprach Zarathustra'

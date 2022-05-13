@@ -1,0 +1,10 @@
+Hm? Wenn man doch ein Tag einfügt, ist es doch dann da, oder nicht?
+D.h. doch dann es tut, aber wahrscheinlich meinst du was anderes.
+
+Toll ist Text markieren, dann Shift+Enter und schon ist's ein
+<p>-Block...
+
+Diedrich
+
+-- 
+cat .signature

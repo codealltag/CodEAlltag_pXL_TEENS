@@ -1,0 +1,10 @@
+Also sprach Claus Cohrssens <le@rcxqybz.kjq>:
+
+
+Gefunden. September 2000 auf der Mailingliste. Philipp hat einen
+versimplifizierten customize-Buffer gebastelt und Adrian hat dann wohl
+gnus-virgin.el geschrieben.
+
+Habs aber nicht getestet; ist im CVS offenbar auch nicht drin.
+
+Niels

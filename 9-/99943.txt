@@ -1,0 +1,12 @@
+Hmm. Weiss nicht, ob ich mich selber nicht auch zu der Kategorie zählen 
+sollte. Nach 7h hacken segfaultet der Apache immer noch, wenn er
+
+strncpy(name_corrected, name+4, (size_t) (name_len-4));
+
+ausführen soll (eigentlich will ich bei char *name ja nur die ersten vier 
+Buchstaben abschneiden). Teste ich das stand alone, so geht's. HMPF.
+
+
+Da mache ich jeweils rechts umkehrt und beschliesse, dass die Software wohl 
+sowieso nichts taugt und/oder warte bis sich jemand die Mühe macht, nen 
+vernünftigen Port zu schreiben.

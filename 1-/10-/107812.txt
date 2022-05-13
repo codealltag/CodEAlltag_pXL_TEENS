@@ -1,0 +1,15 @@
+Punkt 
+           /\
+          /  \  y
+         /    \
+        /      \
+       /  x     \
+Punkt  ---------- Punkt
+
+x liegt eindeutig innerhalb des Dreiecks und y außerhalb! :-)
+
+Eric
+
+-- 
+Die letzten Worte des Bergsteigers:
+"Waren gar nicht mal teuer, diese Haken."

@@ -1,0 +1,14 @@
+Am Fri, 20 Okt 2002 sendete Jan Cooks folgende Botschaft:
+
+
+suck ja, der muss ja irgendwie von HCLW wissen welche Postings er posten
+soll, und woher er sie kriegt. (Ich habe das bei mir so gelöst das INN
+rnews-batches baut, damit kann suck ganz gut umgehen).
+
+
+Da slrn (darum gings ja ursprünglich) nur den Spool und zusätzlich
+maximal overview und active nutzt kommt der mit selbigen nicht in
+berührung.
+
+Tschüs
+  Valentin

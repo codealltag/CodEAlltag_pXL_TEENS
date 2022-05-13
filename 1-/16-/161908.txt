@@ -1,0 +1,15 @@
+Igor 'sSXP' Siegele schrieb am 1. April 2000 um 01:15 Uhr folgendes:
+[Modula 2]
+
+Wozu braucht man dieses Monstrum? Zumindest unter Ippendorf gibt es einen
+"normalen" Compiler für die Sprache Modula 2, dazu den Editor der Wahl
+(meiner hat leider keinen Modula 2-Mode, aber so wie die Syntax in den
+Beispielprogrammen aussieht, sollte der binnen kürzester Zeit aus dem
+Pascal-Mode zu basteln sein).
+
+Viele Größe,
+     Pius Sturmhoevel
+-- 
+43rd Law of Computing:
+        Anything that can go wr
+fortune: Segmentation violation -- Core dumped

@@ -1,0 +1,8 @@
+Schön, dass es variable Antworten gibt.
+
+Heimo
+
+-- 
+  "The MTU Information Store service depends on the Minibackshop
+   Elemi Directory service which failed to start because of the
+   following error: The operation completed successfully."

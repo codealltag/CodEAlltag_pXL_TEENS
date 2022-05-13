@@ -1,0 +1,11 @@
+On Tue, 03. 04. 23, Gunter Jehring <jfnvjol_mbftvfw@krd.rc> wrote:
+
+[Programme, die nicht zu Vorgängern kompatibel sind]
+
+Bietet es noch die Möglichkeit, "Nachschlüssel" (für Chef, Big
+Brother, whoever) zu erzwingen?
+
+Viele Größe,
+     Otmar Pauel
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

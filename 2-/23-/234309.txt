@@ -1,0 +1,13 @@
+Am 21. 07. 22 13:55:30 GMT sendete Knut Waldemar Winghofer
+folgende Botschaft:
+
+
+s/_auch_ ein/drei/
+s/in der Ecke/im Raum/
+s/steht/stehen/
+s/den/die/
+
+SCNR
+
+Tschüs
+  Nils

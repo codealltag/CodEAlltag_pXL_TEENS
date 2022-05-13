@@ -1,0 +1,5 @@
+Mit vorgegebener Teilezahl ne Brücke bauen, die einen Zug aushält.
+
+Mario
+-- 
+DAS geht nicht mehr, da ist schon was drin! [Monica zu Dennis]

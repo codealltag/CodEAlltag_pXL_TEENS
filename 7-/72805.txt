@@ -1,0 +1,22 @@
+Torsten Claas hub folgendes in die Tasten:
+
+
+15 Punkte ist 1+
+14 Punkte ist 1
+13 Punkte ist 1-
+12 Punkte ist 2+
+...
+04 Punkte sind 4-
+...
+00 Punkte sind 6
+
+Benoetigte Durchschnittspunkte, um Abi zu bestehen: 05
+
+
+el TruBlu
+
+-- 
+Es gibt ein unfehlbares Rezept, eine Sache gerecht unter zwei Menschen 
+aufzuteilen:
+Einer von ihnen darf die Portionen bestimmen, und der andere hat die Wahl.
+- Hendrik Ferg [1877-1928]; dt. Politiker

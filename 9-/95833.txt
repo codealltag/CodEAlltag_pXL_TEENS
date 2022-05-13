@@ -1,0 +1,14 @@
+Gute Sache das. Habe ich eigentlich schon erwaehnt, dass SJT ganz gewaltig
+regiert? 
+
+Ich weiss. Aber das System laeuft erst seit drei Tagen und mir war es
+bis jetzt wichtiger, dass Sachen wie newsfeeds etc. richtig
+eingestellt sind. Von einer Horde Newsadmins verfolgt zu werden weil
+man eine Dupewelle losgelassen hat ist irgendwie nicht so das Wahre ;)
+
+Jetzt Besser?
+
+Fernando
+
+-- 
+kernel panic: unable to mount brain fs

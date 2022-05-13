@@ -1,0 +1,8 @@
+Ja, Auch. Aber weil unter Linux leider einiges nicht so toll geht...
+Hier wird ein recht konsquentes "Best of both worlds" angewandt, derzeit
+läuft mein Rechner normal unter Windoes, und per ssh lasse ich meinen
+newsreader auf nen anderen Rechner laufen...
+
+Kai
+-- 
+DAS habe ich nicht noetig. [Paul]

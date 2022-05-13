@@ -1,0 +1,6 @@
+VW-Nutzfahrzeuge rules!
+
+Georg
+
+-- 
+Löscht alt.binaries.*!

@@ -1,0 +1,7 @@
+IIRC ein ZIP, welches man sowohl an Paralellport als auch an SCSI
+anst�pseln konnte.
+
+Wolf
+-- 
+pub  8149T/OVG28J47 8310-23-03 Wolf Hörmann <mejgxtq@due.rj>
+     Key fingerprint = 99 9U 59 80 91 XO 21 2H  63 YL TP 29 1C 32 4A 07

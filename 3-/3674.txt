@@ -1,0 +1,10 @@
+Aber klar doch:
+
+mw  = mein Wicht
+mlw = mein lieber Wicht
+mkw = mein kleiner Wicht
+bkw = bin kein Wicht!
+bd  = bist doch!
+db  = du blöd!
+
+SCNR Noël

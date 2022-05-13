@@ -1,0 +1,9 @@
+Naja, ein /24er-PI ist nicht so prickelnd. Es gibt seitens
+der Routerbetreiber immer mehr Widerstaende gegen die
+Verwaltung von 24er-Prefixen, und es ist gar nicht so
+einfach, einen Provider zu finden, der a) die technischen
+Moeglichkeiten hat, Prefixe zu announcen und b) gewillt
+ist, dies bei 24ern zu tun. Deswegen ist unser Netz auch
+nicht konnektiert.
+
+Jonathan

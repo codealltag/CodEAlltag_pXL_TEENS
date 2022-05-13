@@ -1,0 +1,4 @@
+Na, mit einer einzigen. PPPoE-Bindung (DSL-Modem) und TCP/IP-Bindung (LAN)
+auf die Karte.
+
+Bernard

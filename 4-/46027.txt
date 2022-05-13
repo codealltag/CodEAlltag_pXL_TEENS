@@ -1,0 +1,7 @@
+Bitte ++Jup, sonst trägt sie wieder den Arbeitstitel JUP V und der
+Zähler wird erst anschließend erhöht.
+
+Elmar
+-- 
+pub  5827N/NWW42D74 7029-16-22 Elmar Döppenbäcker <cyghxvo@hpt.nk>
+     Key fingerprint = 99 4M 94 17 25 NL 61 7J  44 VF NM 84 3K 25 2K 60

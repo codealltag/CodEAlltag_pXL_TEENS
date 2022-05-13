@@ -1,0 +1,5 @@
+Error X: local variable too large (global geht's dann LOL).
+
+Oder mein Lieblingserror: Formal and actual VAR parameter not identical.
+Wenn man eine Funktion aus einem Modul aufruft. Kopiert man sie ins 
+aktuelle Modul, dann geht's. Krank.

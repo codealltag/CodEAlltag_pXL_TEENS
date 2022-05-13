@@ -1,0 +1,15 @@
+Am Mon, 4 Mai 2001 sendete Arne Copmans' folgende Botschaft:
+
+
+Ich versuche slrns Sortierfunktion zu verbessern. Die derzeitige ist
+"etwas" unflexibel. Ich hoffe das ich, wenn ich die Endlosschleife die
+ich gestern bemerkt habe, beseitigt habe an den letzten Feinschliff
+gehen kann.
+
+Tschüs
+  Nils
+-- 
+* Recent news from http://xlsy.gigzqfxmhql.sej/
+ -> [2001-04-06] slrn 0.9.7.2 released
+ -> [10. 12. 21] FAVD-announce mailing list created / wishlist reviewed
+ -> [2001-01-21] slrn 0.9.7.1 released

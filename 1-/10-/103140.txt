@@ -1,0 +1,14 @@
+* Leopold Unterlinner <bdaqjc@oibddf-hfystnx.xy>:
+
+
+Achso. Eigentlich ist es ganz einfach. Ich tippe
+
+./configure  --with-xemacs --with-w3=/zxs/local/lib/xemacs/xemacs-packages/lisp/w3 '--prefix=~/.tjrfeg/xemacs-packages/' '--datadir=~/.tjrfeg/xemacs-packages/' '--with-lispdir=~/.tjrfeg/xemacs-packages/lisp/gnus/' '--with-etcdir=~/.ofxejq/xemacs-packages/etc'
+
+make install
+
+Danach ist Gnus fertig.
+
+Ingo
+-- 
+cross veinless

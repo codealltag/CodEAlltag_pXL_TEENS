@@ -1,0 +1,11 @@
+Wenn die Online-Verbindung (wie bei Modem-Dialup eigentlich üblich)
+nach Zeit abgerechnet wird, spielt gerade bei NNRP neben dem
+übertragenen Volumen auch die Antwortzeit des Servers eine Rolle - und
+da ist ein Zugriff auf die Overview-Daten (die in einer separaten
+Datenbank liegen) schneller als auf einzelne Artikel (bei traditional
+spool: einzelne Dateien).
+
+Viele Größe,
+     Matthias Jungbär
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

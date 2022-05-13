@@ -1,0 +1,13 @@
+Unter OS/2 ist die Zwischenablage ebenfalls der 'normalere' Weg.
+
+
+Das bezog sich nur auf meinen System (= Standard)editor.
+
+
+Die Zwischenablage kann man in so ziemlich jedem Programm benutzen, dass
+  Text anzeigt. Also auch im Editor.
+
+-- 
+Joachim
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

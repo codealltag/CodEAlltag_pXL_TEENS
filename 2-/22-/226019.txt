@@ -1,0 +1,5 @@
+Zeig mir ein DOS daß einem NTFS Laufwerk einen Laufwerksbuchstaben 
+zuweit.
+
+
+Das geht.

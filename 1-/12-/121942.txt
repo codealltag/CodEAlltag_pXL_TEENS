@@ -1,0 +1,10 @@
+*g* In weiten Teilen des Usenets wird das Internet als Transportmedium
+genutzt.
+
+Somit könnte man evtl sagen: Ein Teil des Usenets benutzt einen Teil des
+Internets.
+
+Severin
+-- 
+Kann ihm bitte jemand die Stange wegnehmen?
+[Ignaz]

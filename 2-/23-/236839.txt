@@ -1,0 +1,11 @@
+Man kann mit Pascal /jedes/ Problem anpacken, also wieso sollte ich es 
+nicht verwenden. Die Programmierung geht schneller als in Assembler und 
+der Code ist lesbarer als C.
+
+
+Delphi ist auch was feines um schnell was zusammenzustricken. Hat den 
+Begriff Rapid Application Development wirklich verdient. Natürlich sind 
+auch die Executables entsprechend groß.
+
+-- 
+Bitte benutzt meine neue Adresse ixoefvk@mes.bd

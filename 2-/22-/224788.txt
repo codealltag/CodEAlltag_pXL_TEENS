@@ -1,0 +1,16 @@
+Am Sun, 14 Aug 1998 22:18:45 GMT sendete Gilbert Lanzke
+folgende Botschaft:
+
+
+Das nicht (mit nem 166er K6 hält sich die kompilierzeit eigentlich in
+grenzen) aber es kommt schonmal vor das ich einen veränderten kernel
+backe wärend ich nicht da bin, und da ich sowieso zufaul bin mir den
+path unter dem der kernel liegt zu merken (geschweige das immerwieder
+einzutippen) habe ich halt ein kleines script für sowas geschrieben.
+
+Tschüs
+  Darius
+
+-- 
+Man soll den Tag nicht vor dem Erscheinen Tino Beichl loben.
++++Tino Böhmann in dtju+++

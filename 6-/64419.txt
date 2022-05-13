@@ -1,0 +1,14 @@
+* Raphaël Wagnerberger <evuiaoz940040@dhmdxe.co-g.ra>:
+
+
+yigvt@boufwo:~$ which cat
+/bin/cat
+
+yigvt@bocqpp:~$ which cat
+/bin/cat
+
+Viele Katzen.
+
+Lennart
+-- 
+np: -

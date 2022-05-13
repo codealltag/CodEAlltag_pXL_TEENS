@@ -1,0 +1,9 @@
+Am 2 Mai 1999 17:16:04 GMT sendete Paolo Großkunze
+folgende Botschaft:
+
+
+Dann erzeugt normalerweise der eigene Newserver die Msg-Id -> scoring
+auf References: kein problem
+
+Tschüs
+  Kai

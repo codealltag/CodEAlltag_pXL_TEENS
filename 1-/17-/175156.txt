@@ -1,0 +1,19 @@
+Hanno Forstmeyer schrieb am 20. September 2000 um 16:52 Uhr folgendes:
+
+
+Dann lass dich halt dran erinnern:
+
+dhzwc@vfedinupwjbz:~ > cat >> .profile
+if [ -r ~/News/totest ]; then
+ grep '^From ' ~/News/totest | wc -l |\
+ awk '{if ($1>0) print "You have "$1" things to test"}'
+fi
+^D
+
+ :-)
+
+Viele Größe,
+     Maik Fringes
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

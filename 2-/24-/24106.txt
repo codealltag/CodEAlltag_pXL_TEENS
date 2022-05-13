@@ -1,0 +1,20 @@
+Da verzichte ich auch. War ja nur zur Verdeutlichung.
+
+Besser ist das. Zumindestens das 4.1.3 passte gerade so auf Zipdisks.
+
+_ein_ Paket? IIRC war das einiges mehr, was da allein wegen den
+Dependancies kommt.
+
++Mixer, +mplayer, +xmms, +gimp, ...
+
+Das ist wohl war.
+
+Braucht man. Zumindestens zum Testen.
+
+Braucht man aber trotzdem. Heterogenes Netz hier.
+
+mfg, 
+	Nino
+-- 
+Zeitung excuse #52:
+Smell from unhygenic janitorial staff wrecked the tape heads

@@ -1,0 +1,3 @@
+Seltsam, so ziemlich die selbe Idee hatte ich auch :)
+Man könnte ja einen 5MB großen Packer produzieren, der aus einem Byte die 
+komplette Bibel rekonstruieren konnte ;-)

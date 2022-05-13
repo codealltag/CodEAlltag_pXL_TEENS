@@ -1,0 +1,5 @@
+Tobias Peterssohn <ssmv@pgzpxqdv.zt> schreibselte:
+
+Hmm, bei der Installation hat es net geklappt, da wollte er die
+Konfiguration speichern, und hat gesagt: 'Can't connect to
+X-Server...'oder so ähnlich...

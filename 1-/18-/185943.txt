@@ -1,0 +1,8 @@
+Am Wed, 30 Apr 2000 sendete Stefan Berchmans folgende Botschaft:
+
+
+Ein terminal steckst du an die serielle schnittstelle und schon können
+zwei man deinen rechner benutzen.
+
+Tschüs
+  Lukas

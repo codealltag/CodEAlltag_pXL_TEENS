@@ -1,0 +1,24 @@
+----- vor dieser Zeile alles löschen -------
+
+Ich fühle mich in der Lage, die schier unglaubliche, riesige
+Entfernung von meinem Heimatort bis nach Plackersdorf zu überwinden.
+
+[X] Ja.
+[ ] Nein.
+
+Wenn nein, wäre ich bereit, in meiner Stadt oder in der Nähe ein
+Treffen zu organisieren?
+
+[ ] Ja.
+[X] Nein.
+
+Ich kann zu dem Termin 7.-9.5. 1999 vorraussichtlich kommen.
+
+[X] Ja.
+[ ] Nein.
+
+Wenn nein, welches Wochenende würde ich denn vorschlagen?
+
+[                ]
+
+------ nach dieser Zeile alles löschen ------

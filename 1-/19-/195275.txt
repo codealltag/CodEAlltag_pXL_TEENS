@@ -1,0 +1,26 @@
+Domenico 'sSXP' Hatzold schrieb am 10. Mai 1999 um 13:05 Uhr folgendes:
+
+
+Die Server achten eigentlich schon darauf, Postings nicht an Server
+weiterzugeben, die dieses Posting schon mal "in der Hand" hatten
+(durch Auswertung des Path:-Headers), schon allein, um unnötige
+Netz-Belastung zu vermeiden. Ein Typo in der Konfiguration oder ein
+geänderter FQDN eines Peers können das aber unterlaufen.
+
+
+Okay, dann ist es kein Problem.
+
+
+Mit "mehrere Server nutzen" meinte ich, daß man seine Postings an
+mehreren Stellen des Usenets einspeist. Darauf, ob sich der Server
+meines Providers und der von der vodaphone austauschen, haben meine
+Befehle keinen sonderlich großen Einfluß ;-)
+
+[...]
+
+Viele Größe,
+     Nils Henkels
+-- 
+"I loathe people who keep dogs. They are cowards who haven't got the
+guts to bite people themselves."
+                                                   -- Gerold Hödl

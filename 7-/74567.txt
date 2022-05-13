@@ -1,0 +1,11 @@
+Klaas Dochtermann hat geschrieben getan getutet:
+
+
+man 42 "rheinischer Genitiv"
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Dennis 'ivano' Janhsen in ko.qjp.sbecjsoz.qkjoansz

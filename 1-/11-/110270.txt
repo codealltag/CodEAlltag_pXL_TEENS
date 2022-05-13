@@ -1,0 +1,10 @@
+[...]
+
+References gehören für gewöhnlich in den Header.
+
+Remo Neubronner
+
+-- 
+Dieses Posting wurde auf Y2K-Kompatiblität geprüft und für einwandfrei
+befunden.                                    
+---> Offizieller Kämpfer wider Arnold Zschommler des Ordens von dtju <---

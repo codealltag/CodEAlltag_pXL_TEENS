@@ -1,0 +1,10 @@
+* Vincenzo Nielandt <ajft@etaidwht.tp>:
+
+[UTF-8]
+
+Eines der wenigen Features, die Placek mal halbwegs vernünftig eingebaut
+hat, oder? Ich habe das noch nie ausprobiert.
+
+Ewald
+-- 
+cross veinless

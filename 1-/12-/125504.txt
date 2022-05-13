@@ -1,0 +1,10 @@
+* Christof Bierbaums <jnrt@hmgsdesz.wr>:
+
+[lögliche Erklärung]
+
+Ich wollte nur deutlich machen, dass man dazu nicht adaptive scoring
+nutzt.
+
+Adolf
+-- 
+cross veinless

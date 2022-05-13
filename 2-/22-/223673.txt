@@ -1,0 +1,35 @@
+Nicht unbedingt. Ein Depp hätte überhaupt nicht bemerkt, daß du etwas  
+anderes machst.
+
+
+In der Schule verliert alles und jeder an Leistung.
+
+
+Ich hab' mal bei Manthey nachgefragt: Verstößt eindeutig  
+gegen die Menschenrechte. Dein Informatiklehrer darf demnächst vor der  
+Menschenrechtskommission der FHER aussagen.
+
+
+Leider. Ist nicht mal zum A****ausputzen gut, da auf rauhem  
+Recyclingpapier.
+
+
+Das ist aber nur für die Profis!
+
+
+Nehm Origial S3-Treiber. Die haben bei mir noch jedes System zerschossen.
+
+übrigens: Sollte der Computer eine Festplatte haben und du auf einen  
+vernünftigen Hexeditor (Sroka-Langkowski Disk Editor) Zugriff haben, gib' in der  
+Partitionstabelle ab 1D3 00 00 10 00 05 00 B8 0B 01 00 00 00 BC 01 00 ein.  
+Die Festplatte kriegen die so schnell nicht wieder hin. Hab's bei meinem  
+Bruder ausprobiert - funktioniert optimal. Danach kannst den PC nicht mal  
+mehr mit Diskette booten - die muß danach erst als Slave rein und eine  
+neue Partitionstabelle drauf.
+
+Willi Grahammer
+
+-- 
+Ich hasse Kaspar Oelschlegel!
+                                           E-Mail: gzpitxgocmfdf@tlb.cil
+---> Offizieller Kämpfer wider Urban Dikmans des Ordens von dtj <---

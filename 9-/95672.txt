@@ -1,0 +1,19 @@
+In article <50fzsuln2x.mmg@ogcsh-rvvmin.wx>, dxslqmjncybb@aeomtlunm.afe 
+says...
+
+
+Das ist z.T. einfach der Unfähigkeit Netscapes zu verdanken, sich an 
+HTML-(und andere)Standards zu halten. Die haben es MS auch verdammt 
+leicht gemacht, zum Schluss dann noch diese Farce mit der jahrelangen 
+Open-Source Flickschusterei...
+
+Jetzt neulich als Virgin ankündigte, den Milinski-Browser nicht mehr 
+weiterentwickeln zu wollen, gingen Freudenschreie von Horden von 
+Screendesignern durch diverse Webboards � la "haleluja, endlich kann man 
+vernünftiges und einheitliches Webdesign programmieren". Funny how times 
+change. Oder eigentlich überhaupt nicht funny. Aber für die hat Milinski 
+halt irgendwo zwischen Hover-Effekten, CSS und DHTML den Anschluss 
+verloren. Ich erinnere mich da noch an ganz andere Zeiten...
+
+-- 
+[::bf::]___________________________________________________________

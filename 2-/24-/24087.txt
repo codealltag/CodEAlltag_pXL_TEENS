@@ -1,0 +1,11 @@
+Und so sprach Italo Osterman:
+
+
+Kenn' ich schon. :)
+
+Gruss,
+Hans, <http://taz.fcbhmmjahsfr.fsx/gap.gvnd>.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.y

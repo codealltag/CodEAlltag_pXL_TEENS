@@ -1,0 +1,9 @@
+(* Timo Isleif wrote: *)
+
+
+Das Problem war bei uns folgendes :
+
+Bewerbung -> D
+Bewerbung -> WL
+
+Ihno

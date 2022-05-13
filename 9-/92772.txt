@@ -1,0 +1,12 @@
+* Uda Zaisser <mxla@yqti.im>:
+
+
+Ich musste die .gnus erst neu einlesen. Jetzt sollte es aber
+funktionieren.
+
+
+Habe ich gesehen.
+
+Benedikt
+-- 
+8

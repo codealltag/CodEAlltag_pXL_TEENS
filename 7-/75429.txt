@@ -1,0 +1,34 @@
+Benedikt Zwartscholten meinte kundzutun:
+
+
+Hier in uffikon gibt es so ein tolles Programm namens Papierflitzer, das zu
+benutzen alle Feuerwehren in unserem schönen Land aufgerufen sind.
+Da gibts dann bei der Einsatzeingabe so lustige Felder wie
+"Ausr�ckzeitppunkt" bei den einzelnen Fahrzeugen, "Alarmierungszeiten"
+und außerdem "Eingesetztes Personal". Und letztere Daten hat die Lst
+nicht, und da ist es weniger Aufwand, daß die uns ihr bißchen Daten
+schicken als wir denen den Rest vom Einsatzbericht. Außerdem braucht
+$wehrführung die Einsatzdaten vor Ort um die Einsatzstatistiken für z.B.
+Jahresbericht o.�. zu ermitteln.
+
+Klar, Papierflitzer ist dafür gedacht, die Daten zu $ZENTRALE zu übermitteln,
+damit die Daten untergimplach erfaßt werden können. *GEDACHT*.
+Und *sicherlich* haben auch die Programmierer an eine Funktion zum
+Datenabgleich per DF z.b. mit der Lst gedacht. Jahaa. *Ganz* sicher.
+Muß man ja nur verschiedene Datenbanken mergen.
+Und außerdem bin ich mir *wirklich* sicher, daß auch die Lsten für
+ihre Einsatzabwicklung Papierflitzer verwendet, weil das ja keinen Meter auf
+Feuerwehr optimiert ist oder so. Und auch sicher eine Schnittstelle
+für einen Prinzenpott-Auswerter hat. Oder so. Oder auch nicht.
+
+Ralf, ppmmpppffpmpfmp ppmmmmppp mpmmmmfmmfmm mffmmfmfp mpmmffmpp
+Mffmpmmppmpp pppmffmmfmfpfmp fmmmmfmfppmfmppmmfmfpfmp, mpmmffmpp
+Mmmfmffmmmpffmfmppmfppfffmfpppmfm mmmmmpmpppff fmpppffmpmmmpmf
+mmpmppfmmmmfmfp***mppppp mpfmffpppmpmmpp? Pppmffmmfmfpfmp? Mffmmfmfp
+fmmppfpmfpmffmpmpp mmpmppmffppm Fmpmfpmppmmmfmpmpppff
+mmmpppmpfmmmpppmfmmppppp.
+-- 
+Ich habe das Gefühl, wenn sie _das_ schaffen, [] daß die Welt in Trauer und 
+Entsetzen und Lähmung versinkt, wenn wir nicht mehr lachen können oder [] dr-
+fen, wenn wir nicht mehr kaspern können oder dürfen, dann haben diese Terror-
+risten es endgültig geschafft, die Welt zu zerstören. [Helene Dielmann in DMZA]

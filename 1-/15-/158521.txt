@@ -1,0 +1,13 @@
+Nils Jungheinrich schrieb am 10. Dezember 1999 um 00:07 Uhr folgendes:
+
+[CSS implementieren]
+
+Es ist ja nicht gerade so, als würde außerhalb des Hauses Weko
+nicht an brauchbarer CSS-Unterstützung gefeilt ...
+
+Viele Größe,
+     Nils Oldenschläger
+-- 
+Q: Why can't you compare structs?
+A: Compare them to what?  A summer's day?
+                  -- comp.lang.c Answers to Infrequently Asked Questions

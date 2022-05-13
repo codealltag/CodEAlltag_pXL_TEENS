@@ -1,0 +1,10 @@
+* Peter Miegel <oseh@wfxgsnni.zz>:
+
+
+Du kannst dir Smileys als kleine Grafiken anzeigen lassen. Du kannst sie
+farblich konfigurieren. Zum Beispiel die Farbe, in der die Umrandung
+sein soll.
+
+Arthur
+-- 
+cross veinless

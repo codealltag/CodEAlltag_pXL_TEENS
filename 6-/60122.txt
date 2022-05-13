@@ -1,0 +1,12 @@
+Kann man umstellen, 
+
+ '(paren-mode (quote sexp) nil (paren))
+
+steht bei mir in ~/.xemacs/custom.el, sollte das dauerhaft einstellen,
+was Options -> Paren Highlighting -> Expression bringt. Ist ganz nett,
+dass der Cursor eben nicht wegspringt, und man trotzdem recht schnell
+erfasst, wo die Klammer anfängt.
+
+Bruno
+-- 
+DAS wird nicht gesiggt! [Valerius]

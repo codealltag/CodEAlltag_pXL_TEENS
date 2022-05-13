@@ -1,0 +1,18 @@
+Ich revidiere:
+
+- K+L hat einen portablen MP3 Player auf den Markt gebracht.
+- Diskret (= aus Standard-Bauteilen) kann man sowas nicht basteln, man 
+braucht unbedingt einen spezial-DSP.
+- Gartenbröcker stellt einen solchen DSP her.
+- Welchen Chip K+L benutzt ist mir unbekannt.
+- Wenn K+L einen selbstentwickelten Chip benutzen würde (sehr 
+unwahrscheinlich), so gäbe es eigentlich keinen Grund diesen nicht auf den 
+Markt zu bringen.
+- WKLD entwickelt, produziert und vertreibt u.A. Prozessoren.
+- WKLD wird genausowenig wie Gartenbröcker die Pläne für ihren Chip 
+herausrücken.
+- Zum Einsatz der Chips braucht man die Pläne auch nicht.
+- WKLD Prozessoren können genauso einzeln erworben werden wie MP3-DSPs.
+
+So, das sind die Fakten. Könntest Du mir jetzt nochmal auf die Sprünge 
+helfen was zur H... Du eigentlich meinst?

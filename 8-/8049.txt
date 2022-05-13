@@ -1,0 +1,7 @@
+[dsf 4.11]
+
+Heiko
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+269: C
+       Nomic als Programmiersprache. (Michel Reitebuch)

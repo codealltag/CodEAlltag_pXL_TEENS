@@ -1,0 +1,14 @@
+Pack einfach folgendes in deine ~/News/de.all.SCORE (falls die Datei
+noch leer sein sollte):
+
+(((not
+   ("From" "\\(^\\|\\s-\\|\\s(\\|\"\\)[-a-z߰'A-Z-�]\\{2,\\}\\(\\s-.*\\s-\\|\\s-+\\)[-a-z߰'A-Z-�]\\{2,\\}\\(\\s-\\|\\s)\\|\"\\|$\\)" R))
+  -2000))
+
+Sollte da schon was drinstehen, dann musst du ein äußeres Klammernpaar
+löschen, und den Block dann passend in die Datei einfügen...
+
+Andreas, Nako
+
+-- 
+oi oi oi

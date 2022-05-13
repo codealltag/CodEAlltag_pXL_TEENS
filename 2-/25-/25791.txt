@@ -1,0 +1,10 @@
+Wir gehen nicht über Straßen. Wir leben in den dunkelen Dungeons der
+Rechenzentren und ernähren uns von kalter Pepperonipizza. Außerdem
+tragen wir schwarze Klamotten, spielen total veraltete Computerspiele
+und sprechen Assembler.
+
+mfg, 
+	Angelo
+-- 
+BOFH excuse #354:
+Chewing gum on /dev/sd3c

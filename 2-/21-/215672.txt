@@ -1,0 +1,14 @@
+Können sie nicht. Genauso wenig kann man mit HTML einen Buchstaben auf
+1/200stel der Wellenlänge des sichtbaren Lichts genau auf dem Papier
+plazieren. Eben deshalb finde ich den Vergleich Wave <-> Midi dem
+Vergleich DVI<->HTML angemessener als Wave <-> MP3: Es geht dabei
+nicht um Kompression, sondern um ein qualitativ völlig anderes Format.
+
+[Format für Dokus]
+
+Was soll bitte sehr der Vorteil gegenüber (zB) TexInfo sein?
+
+Viele Größe,
+     Thomas Schmeltzpfenning
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

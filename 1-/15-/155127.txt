@@ -1,0 +1,16 @@
+Am Tue, 8 Feb 2001 sendete Alberto Henser folgende Botschaft:
+
+
+Klar. Gerade die Art des Quotings sollte es zeigen.
+
+
+Sorry aber das ist unmöglich.
+
+
+Wenn ich ein 'f' für followup drücke öffnet sich vim und wenn ich den
+ohne den text zuändern beende merkt slrn das und postet nichts. Und
+ausserdem war es kein fullqoute und der From-header wird default mässig
+auch nicht mitgeqoutet.
+
+Tschüs
+  Pietro

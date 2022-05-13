@@ -1,0 +1,22 @@
+On 07. 06. 22, Hero Ohlsen <Jhe.Kjuzr@ocx.alk> wrote:
+[Auto-approve-Bot unterlaufen]
+
+Der User Agent kann sich durchaus mal ändern und ist relativ leicht zu
+fälschen. Der NNTP-Posting-Host ist ziemlich zuverlässig, insbesondere
+wenn dort eine dynamische IP steht, ist es IMO aber kompliziert, eine
+halbwegs zuverlässige Zuordnung hinzubekommen.
+
+
+In yr.mgxw.jhfifepn.newsreader werden zZt keine FAQs regelmäßig
+gepostet. Und selbst wenn - es ist illusorisch zu glauben, jeder
+Provider habe 30 Tage Expire und jeder Newbie würde sich sämtliche
+Header ziehen, um nach einer FAQ zu suchen. Dann IMO doch lieber den
+direkten Verweis.
+
+
+Wann kann er das schon...
+
+Viele Größe,
+     Beat Osswald
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

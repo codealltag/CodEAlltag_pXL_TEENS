@@ -1,0 +1,13 @@
+begin quoting ukhhum@rgiklxeoiyt.fha (Richarda Niederastroth):
+
+Das sowieso. Also:
+
+Wenn ich im From stehe, werden alle Artikel, die die Message-ID dieses
+Artikels in den References haben, hochgescoret.
+
+Geht auch: Die diese Message-ID unter den letzten (1/3) Einträgen in
+den References haben?
+-- 
+Mehmet Rommerskirchen, 22466 Untereglfing, DE
+My favorite newsgroups:
+mx.cvqi.vfpjcc, bf.swx.dbj.othl, guf.epl.bmvvs-rbnvfp

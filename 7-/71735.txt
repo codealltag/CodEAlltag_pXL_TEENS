@@ -1,0 +1,13 @@
+OK. Bin doch immer für einen Kompromiss zu haben.
+
+[Babylon] 
+
+Das hat mal jemand in einer NG gefragt aber frag mich jetzt nicht wie 
+der Thread ausgegangen ist. AFAIK gibt es sowas für Linux nicht.
+
+Philippe
+-- 
+Das, was du mit deinem Programm machen willst, 
+wird erst in der nächsten Version des Programms implementiert.
+
+(Murphy's Gesetz)

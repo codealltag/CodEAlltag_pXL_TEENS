@@ -1,0 +1,22 @@
+Also sprach Onno Mutz <ykwvizvznz@wkcxhuasrc.hh>:
+
+
+Encoding und Verschlüsselung im Nußstein-Sinne sind verschiedene Dinge. Da
+letztendlich beides nur Abbildungen in {0,1}* sind, bestreite ich ja
+nicht.
+
+
+Herrgottnochmal, jetzt lest doch mal, was ich schreibe. Ich sage ja
+nciht, daß es sinnvoll ist, UTF-7 zu verwenden. Aber es ist
+legitim. Jedenfalls eher als das iso-8859-10, das mir neulich über den
+Weg lief.
+
+Und diese Argumentation "mein Newsreader ist zu doof dafür, also ist es
+nicht erlaubt" stinkt.
+
+
+Also insbesondere AICHMAIER. Leute, Sigtrenner "-- " können wir nicht verwenden
+(gut, inzwischen kann AICHMAIER das wohl), Kammquoting ist in Ordnung und der
+Realname "Vincenzo Laffrenzen" paßt auch.
+
+Berend

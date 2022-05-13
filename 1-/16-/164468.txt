@@ -1,0 +1,13 @@
+Winfried Gambihler schrieb am 08. Juni 2000 um 20:29 Uhr folgendes:
+
+
+Hört sich realistisch an. MySQL-Server auf einem P100 (mit 16 MB RAM)
+durchcompilieren ist auch spassig ;-)
+
+Viele Größe,
+     Fabrice Nierenkerken
+-- 
+Every program has at least one bug and can be shortened by at least one
+instruction -- from which, by induction, one can deduce that every
+program can be reduced to one instruction which doesn't work.
+                                               -- random fortune cookie

@@ -1,0 +1,3 @@
+MOV	AX,800h
+
+Wieso sollte ich da eine Null vorknallen?

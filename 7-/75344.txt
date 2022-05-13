@@ -1,0 +1,12 @@
+Ivan Litterscheidt hat geschrieben getan getutet:
+
+
+Und in der Regel wachsen die Validator-Ausgabedaten auf einen *sehr*
+grossen Inhalt an.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Theodor 'patrice' Vaigt in gt.asd.fajvkdax.rxibgoej

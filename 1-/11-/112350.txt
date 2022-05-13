@@ -1,0 +1,8 @@
+Kgznb avuo@ypuaktfhww.ka (Anton Inderdohnen):
+
+Stimmt. Titanic war so ein seltsamer Selektionstest ...
+-- 
+Wie jagt man einen Elefanten - Teil 2:
+C- Programmierer bestimmen zuerst mit sizeof() die nötige Speichermenge
+für einen Elefanten, versuchen diese zu allozieren, vergessen dabei das
+Ergebnis abzuprüfen und schießen dann mit wilden Pointern auf den Elefanten.

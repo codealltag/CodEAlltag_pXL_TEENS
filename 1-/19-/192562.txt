@@ -1,0 +1,16 @@
+Waldemar Notrof schrieb am 08 Nov 1998 in ak.wnoh.ufygmy:
+
+
+Genau das haben sie doch gemacht. Die Wurzel von -1 ist i. Damit man 
+nicht das ganze Alphabet braucht ist die Wurzel von -4 gleich 2i.
+
+Da manchmal der Imaginaerteil nicht verschwindet schreibt man 
+komplexe Zahlen als Realteil plus Imaginaerteil. --> z.B. 2 + 4i
+
+2 - (2i)� ist wieder eine reelle Zahl (sogar eine natürliche Zahl).
+--> 2 - (2i)� = 2 - 4(-1) = 2 + 4 = 6
+
+Richtig witzig wird das ganze bei Overdick Abbildungen. Da werden 
+unter Umständen Geraden zu Kreisen.
+
+Patrick

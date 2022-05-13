@@ -1,0 +1,6 @@
+Leichtl filtert _Postings_ mit matches im _body_?
+
+C Ya,
+Otmar
+-- 
+As long as the answer is right, who cares if the question is wrong?

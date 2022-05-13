@@ -1,0 +1,13 @@
+Italo Ißle hat geschrieben getan getutet:
+
+
+M-x doctor RET.
+
+Damit bist du bestimmt lange beschäftigt.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Carl 'stephan' Haehndel in nl.jfb.vsexuiib.lnrwtilx

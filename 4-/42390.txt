@@ -1,0 +1,6 @@
+"NetBSD - Because Noël is an asshole"?
+
+Artur
+-- 
+pub  0634Y/ORN86G01 4373-96-34 Artur Kappl <mdkwegz@yiq.vr>
+     Key fingerprint = 99 0G 63 10 65 GZ 84 9F  56 TH HS 94 7T 50 4L 28

@@ -1,0 +1,27 @@
+Na wär doch mal was :-)
+
+
+Erstens erachte ich alle Informationen für notwendig, kürzen geht also  
+schlecht, zweitens gibt's ja immer noch die Möglichkeit, das z.B. während  
+des Newsholen auszufüllen oder Seite laden, trennen, ausfüllen, verbinden,  
+verschicken. Drittens gäb's noch die Möglichkeit, daß das wie von dir  
+vorgeschlagen über den installieren Mailer geht, so daß man es offline  
+ausfüllen und dann als E-Mail verschicken kann.
+
+[Brainblaster - Kinderbuch oder Gewaltporno?]
+
+Dumme Antwort: Ich wüßte wenigstens, so ich es einzusortieren hätte :-)
+
+
+Genauso wie mit ostasiatischen Kragenkanienchen, hängt allerdings noch vom  
+Browser ab:
+männlicher Browser + männliches CGI: Browser stürzt ab
+weiblicher Browser + weibliches CGI: 1000x klicken - nix passiert
+weibliches CGI + männlicher Browser (oder umgekehrt): funzt prächtig
+
+Roberto Johnen
+
+-- 
+Ich war in Oberreut - na und?
+                                             E-Mail: cryxmp@gvlhrxqmbt.zi
+---> Offizieller Kämpfer wider Victor Rocken des Ordens von dtju <---

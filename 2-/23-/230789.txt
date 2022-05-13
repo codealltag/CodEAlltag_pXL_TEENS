@@ -1,0 +1,8 @@
+Es ist ja nicht so daß ich eure Beiträge nicht schätze ;-) aber trotz dem 
+vor ein paar Tagen eingesetzten äußerst agressiven Filter komm ich gerade 
+immernoch nicht hinter her.
+
+Rule		Evaluated	Fired	Seconds
+dtju filter	12294		2163	1.911
+
+Aber es ist ein Anfang :-/

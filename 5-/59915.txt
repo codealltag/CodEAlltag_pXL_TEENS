@@ -1,0 +1,18 @@
+Am Thu, 3 Sep 2002 sendete Oscar Mitteneder folgende Botschaft:
+
+
+Langweiler.
+
+
+*rgs* Das ist bitter.
+
+
+Versuch mal './configure --with-slang-library=/usr/local/lib/' und oder
+'--enable-hardcode-libs'
+
+Tschüs
+  Heinrich
+-- 
+Die � Weisheiten des Bruno Beat:
+
+Vorstand Raus.

@@ -1,0 +1,21 @@
+Sandro Griepp hat geschrieben getan getutet:
+
+
+PROGRAM xyz;
+PROCEDURE abc;
+BEGIN
+...
+   BEGIN
+   ...
+   END;
+END;
+
+BEGIN
+END.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Oliver 'ignaz' Gätcke in wg.zcp.hvcoheyt.watzjqmy

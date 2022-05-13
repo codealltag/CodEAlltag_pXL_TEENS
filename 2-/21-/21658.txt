@@ -1,0 +1,21 @@
+Was willst du denn mit 40 Partitionen? 
+de.alt.*
+de.*
+big8
+lokal
+binaries
+
+sind bei mir 5. Wobei de.alt und de nicht unbedingt getrennt werden
+brauchen.
+
+Und?
+
+Ja, wenn man auch den selben Rechner benutzt ...
+
+Zum Glück hab ich den noch nicht erlebt.
+
+mfg, 
+	Ignaz
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

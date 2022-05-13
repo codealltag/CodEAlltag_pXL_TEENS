@@ -1,0 +1,11 @@
+Und so sprach Erika Rieber:
+
+
+Have a kit-kat.
+
+Gruss,
+Konrad.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.r

@@ -1,0 +1,25 @@
+Pasquale Aichhölzers <mhwptgt@atf.qz> wrote:
+
+[wie 128 MB vollbekommen?]
+
+Anscheinend. Oder du hast ein gänzlich verschiedenes NT als
+meinereiner.
+
+
+Die Hälte ist bei mir im absoulten Leerlauf, d.h. wenn mein
+Trayprogramme geschlossen sind, ich diverse speicheresidente Progs via
+Task-Manager abgeschossen habe, belegt. Vielleicht lasse ich zuviel
+Services laufen, aber das glaube ich nicht.
+
+
+Unter Normallast, d.h. im Leerlauf mit allen Servern und
+speicherresidenten Programmen, sind bei mir soviel verbraucht. Aber da
+arbeite ich ja noch nicht mit dem Rechner. Jetzt rechne den Bedarf von
+einem Browser, vielleicht Gozilla, Realplayer, dem Agent usw.
+zusammen, und du kommst der Grenze bedrohlich nahe. Und überschreitest
+sie halt ab und an...
+
+-- 
+sSXP 
+       "Eine Spezies, die das 20. Jahrhundert überlebt hat,
+       die geht nicht unter." -- Historiker Gimmnich, 82

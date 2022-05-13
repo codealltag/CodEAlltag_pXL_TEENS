@@ -1,0 +1,10 @@
+(* Richard Vitts wrote: *)
+
+
+Laut GVKC soll es demnächst überall DSL geben - scheinbar aber nicht 
+in Großstädten. Bei dem was ich mitbekomme von Berufsschulkollegen und 
+so weiter, bekommst du ohne Probleme auf dem plattesten Land deinen DSL-
+Zugang, aber in jeder halbwegs größeren Stadt musst du wochen- wenn 
+nicht monatelang warten.
+
+Raphael

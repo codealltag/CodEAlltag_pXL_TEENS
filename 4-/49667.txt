@@ -1,0 +1,10 @@
+Hallo Theo Krahn
+
+
+Gibt es im MFC nicht eine Klasse für Strings, bei der man das nicht
+wiessen muss?
+
+MfG Norbert
+
+-- 
+Ein Fahrlehrer ist ein Mensch, der jede Stunde einen fahren läßt.

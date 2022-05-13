@@ -1,0 +1,38 @@
+On 16 Dez 1998, Darius Gründemann <hor@itp.xb> wrote:
+
+["Rückstände" von alten Installationen]
+
+Ich habe es in dieser Ausprägung nur bei Coffeeshop erlebt.
+
+[Probleme bei gemeinsam benutzten Dateien]
+
+Da solche Dateien übrig bleiben wäre sehr wohl vermeidbar, wenn
+Kokopelli statt schwulen Büroklammern vernünftige Software
+programmieren würde. Fast alle Linux-Distributionen bauen zB
+inzwischen auf dem RPM-Format auf. Gemeinsam benutzte Dateien werden
+in eigene Pakete verstaut; jedem Programm liegt eine Liste von
+"Dependencies" bei, in der benötigte Pakete vermerkt sind. Programme
+wie YaST lesen diese in ein paar Sekunden ein und können dann
+automagisch beim Installieren einer Anwendung alle nötigen
+Bibliotheken mit auswählen und mir eine nette Warnung präsentieren,
+wenn ich im Zuge einer Deinstallation ein Paket entfernen will, das
+von einem später installierten Programm noch benötigt wird. Da sich
+das System die Dateien 'merkt', die mit einem Paket installiert
+wurden, können sie später vollständig entfernt werden; geänderte oder
+ergänzte Daten (wie Konfigurationsdateien) können dabei auf Wunsch
+vorher automatisch gesichert werden, etwa bei einem Update. Ich halte
+diese Vorgehensweise für /etwas/ vorteilhafter als das
+Coffeeshop-Gewurschtele.
+
+
+Ich fahre Uhrle seit einigen Wochen (aufgrund eines Hardwareproblems)
+mit 16 MB RAM. Einige Dinge sind zwar etwas langsamer als gewohnt
+(etwa das Compilieren größerer Projekte), mein System ist aber für die
+täglichen Aufgaben wie Newslesen, Texte schreiben und Surfen durchaus
+noch gut benutzbar. Mache die gleichen Sachen mit der gleichen
+RAM-Ausstattung unter Windows NT und wir sprechen uns wieder.
+
+Viele Größe,
+     Benedikt Isenbiehl
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

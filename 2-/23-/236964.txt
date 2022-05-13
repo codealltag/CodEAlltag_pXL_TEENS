@@ -1,0 +1,6 @@
+Gegen diesen Gedanken hilft auch kein anderes Betriebssystem.
+
+db.o
+-- 
+Simon Reinke-Garnschroeder | Kjosk boot: oct-7.6 root=/uae/z7p1cy
+jga@ktlqhf.ig  |

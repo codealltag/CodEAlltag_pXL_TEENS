@@ -1,0 +1,8 @@
+Ich arbeite daran. Allerdings fällt mir auf, daß gewisse Mitschüler (und  
+v.a. Mitschülerinnen) aus mir nicht bekannten Gründen Subjects wählen,  
+die mein Filter nicht eindeutig zuordnen kann. Und nein, Whitelist ist  
+keine Lösung.
+
+Emil Opgenoort
+-- 
+np: -

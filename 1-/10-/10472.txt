@@ -1,0 +1,9 @@
+Nun, das wäre auch interessant. Das würde die Klon-Theorie vermutlich
+nur bestätigen.
+
+Viel wichtiger ist mir zur Zeit aber, ob ixs oder ich recht hatte.
+
+Pasquale
+-- 
+BOFH #224:
+Dez  17 16:41:27 eijkelkamp su: 'su root' succeeded for .... on /dev/pts/1

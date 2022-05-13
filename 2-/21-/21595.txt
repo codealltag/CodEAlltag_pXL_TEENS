@@ -1,0 +1,7 @@
+Ich nicht.
+
+mfg, 
+	Lorenz
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

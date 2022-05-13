@@ -1,0 +1,20 @@
+* Winfried Zielinski <oulqsdhtiao@sskyjhcmbkk.jm>:
+
+
+In diesen Worten steckt viel Wahrheit.
+
+
+Gnus kennt in dem Sinne gar kein Killfile.[1] Charly wird ihn soweit
+heruntergescort haben, dass seine Postings automatisch als gelesen
+markiert werden, also beim normalen Lesen mit 'n' nicht aufgerufen
+werden.
+
+So, wie ich das auch gemacht habe.
+
+Klaus
+
+Footnotes: 
+[1]  Ja, doch, schon, aber nein.
+
+-- 
+cross veinless

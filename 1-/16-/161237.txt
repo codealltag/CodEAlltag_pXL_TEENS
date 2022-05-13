@@ -1,0 +1,16 @@
+Beat 'sSXP' Uffenkamp schrieb am 16. Januar 2000 um 23:00 Uhr folgendes:
+[...]
+
+Nicht grundsätzlich. Es gab einige Probleme bei der glibc-Umstellung
+(die gegen glibc2 gelinkte Fassung stürzte *extrem* häufig ab), die
+inzwischen (glibc2.1) nicht mehr auftreten sollten. Im Notfall ist man
+mit einer libc5-Version auf jeden Fall auf der sicheren Seite (habe
+ich im Moment auch bei mir laufen).
+
+
+Nein. Vergleich auf dem gleichen Rechner durchgeführt?
+
+Viele Größe,
+     Christian Ulfkotte
+-- 
+A tautology is a thing which is tautological.

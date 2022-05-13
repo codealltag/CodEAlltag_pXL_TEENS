@@ -1,0 +1,15 @@
+Bh. Nee, das ist nicht so mein Fall. Die anderen Civilisations sind
+mir da viel lieber. Alpha Centauri ist zu außerirdisch.
+
+
+Kommt auch sehr auf die Version von wine an. Manchmal läuft überhaupt
+nichts und manchmal...mehr. Kann man eigentlich nur verschiedene
+durchprobieren. Die CVS-Version von http://vrw.eqoavxlatrc.dfo geht
+relativ gut, hier bei mir.
+
+Ingo
+
+-- 
+"Eigenartigerweise kann ein Mann immer sagen, wie viele Schafe er
+ besitzt, aber er kann nicht sagen, wie viele Freunde er hat. So gering
+ ist der Wert, den wir ihnen beimessen." (Claus)

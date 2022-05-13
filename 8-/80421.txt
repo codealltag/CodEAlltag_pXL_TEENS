@@ -1,0 +1,13 @@
+* Ingolf Poppensieker <qkzykpt052796@ztdpwo.qb-q.rr>:
+
+
+Du hast $EDITOR nicht gesetzt.
+
+
+Solange du das nicht brauchst, gar nichts. Es kann aber sein, dass ein
+Programm $EDITOR aufrufen will, nichts findet und dann ed o.�. nimmt. Da
+will ich lieber vim.
+
+Dirk
+-- 
+np: Offspring - I Got A Right

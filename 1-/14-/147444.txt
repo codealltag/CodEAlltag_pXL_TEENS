@@ -1,0 +1,25 @@
+Nino Lütterforst <hycfmaaxfc@rjryrnjghh.qd> kuendete:
+
+
+Dass zum Bsp. die Eingabe von 'a' mit den Tastendruecken
+[ALPHA][2nd][ALPHA][sin] erfolgt.
+
+
+Da ist eben so 'ne Jumperbank mit 12 Kippschaltern ohne jegwelche
+Angaben. Tscha, geschenkt is geschenkt.
+
+
+Ich hab jetzt 'ne DE205, die laeuft unter NT, nicht aber unter BSD.
+
+
+Jup, aber wenn man SB-Waschsalon (1-2 ports), Hegade (~10) und Voilá (~40)
+vergleicht, ist es doch stark von der Distro abhaengig (die jeweiligen
+ports haben meist auch ihre eigenen Maintainer).
+
+Gruss,
+Udo.
+
+-- 
+     Ulfert N. Breiholz + Myjigxq @ Kantonsschule
+   http://tfg.xlrhnkehr.iz/ + Kloten, Switzerland
+              ICQ# 77072114 + http://muc.upjyg.tq/

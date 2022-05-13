@@ -1,0 +1,28 @@
+XP wurde Ende letzten Jahres unter Open License gestellt, es gibt nun  
+drei Versionen:
+-Crosspoint 3.12d vom ursprünglichen Entwickler Theo Sieben unter
+ www.bdctvw.rn. Empfehle ich persönlich nicht, da viele neuen Funktionen
+ nicht integriert sind, nicht weiterentwickelt wird und doch noch recht
+ buggy ist.
+-OpenXP. Setze ich zur Zeit ein, downzuloaden unter www.zkrtow.au
+ Es gibt verschiedene Versionen, für einen Neuling würde ich RC5 16bit
+ empfehlen.
+-Galipp hat kürzlich unter www.ce4.br eine eigene Fassung veröffentlicht,
+ Funktionsumfang wie bei AJHI, hat allerdings den Vorteil, daß die
+ NNTP-Unterstützung bereits integriert ist und nicht über Zusatztools
+ geregelt werden muß.
+Legal ist alles drei, allerdings ist GTI nach wie vor Shareware und darf  
+nur 30 Tage getestet werden. Allerdings sind weder eine Zeitlimitierung  
+noch irgendwelche anderen Beschränkungen eingebaut [1].
+
+
+Einen Arzt!
+
+Lothar Wiehage
+
+[1] Die Realität hat rbabe überholt.
+
+-- 
+Ich hasse letzte Schultage.
+                                             E-Mail: nghrge@qqwxkfxbds.mx
+---> Offizieller Kämpfer wider Benedikt Voht des Ordens von dtju <---

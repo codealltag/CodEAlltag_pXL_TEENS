@@ -1,0 +1,11 @@
+Ich denke wohl, ich kenne das Loch... Musz mal im uucpagent kucken.
+
+
+Aber einen UUCP-Satz bitte.
+mfg, 
+	Lennart
+-- 
+BOFH excuse #282:
+High altitude condensation from U.S.A.F prototype aircraft has contaminated
+the primary subnet mask. Turn off your computer for 9 days to avoid damaging
+it.

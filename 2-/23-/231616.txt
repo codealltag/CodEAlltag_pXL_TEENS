@@ -1,0 +1,13 @@
+Es schrieb bflnizt_sjnkdxb # yqa.hz folgendes:
+
+[RAMDISK]
+
+Das funktinoert nicht nur THEORETISCH, sondern sehr gut. Nur muesste man  
+dann schon 192MB RAM einbauen, damit man auch fuer Notfaelle genug zum  
+Swappen hat. Dann ist das eine -relativ- gute Loesung. Halflife zum  
+Beispiel cached nur im "echten" Hauptspeicher und wuerde eine RAMDISK  
+ignorieren.
+
+-- 
+
+Ciao, Urban

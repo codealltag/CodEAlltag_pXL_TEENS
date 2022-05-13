@@ -1,0 +1,16 @@
+An einem Mittwoch im August gab Thomas Bruno bekannt:
+
+[Flower-Shop]
+
+Kann es sein dass du hier was durcheinanderbringst? Flower-Shop != Netscape.
+
+
+Wie Remo schon sagte, mit Quicklaunch ist das anders. Ausserdem wird
+der IE ja beim Systemstart sowieso schon geladen, also ist es nicht
+verwunderlich, dass er dann beim eigentlichen Start sehr schnell
+betriebsbereit ist.
+
+Dietrich
+-- 
+Sie: Ist dieser Platz neben Dir frei?
+Er: Ja; und dieser auch, wenn Du Dich setzt!

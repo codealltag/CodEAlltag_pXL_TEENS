@@ -1,0 +1,6 @@
+Dafuer gibts die Zwischengroesse 1152 - die passt genau, finde
+ich...weil, auf 1024 ist schon wieder alles zu gross, und man hat so
+wenig Platz...
+
+Pietro
+--

@@ -1,0 +1,71 @@
+Es schrieb osuvqko_rgszpcx # mke.ev folgendes:
+
+
+Oioioi. Das sehe ich mir erstmal SEEEEEHHHHR genau an. :-) Aber das Board  
+macht eh bei 366hz schluss (K-Kiosk-Chipsatz). Oder natuerlich, ich takte das  
+Ding auf 5.5x75A2,5Mhz. Das duerfte auch ziehen. :-)
+
+
+10GB haben jetzt schon die 2000,- Angebote, damit macht man keinen Stich  
+mehr. Und wenn ich eine Platte kaufen wuerde, musste sie derzeit  
+mindestens 10GB haben, solange ich noch die anderen habe, einen Rechner  
+mit <8GB wuerde ich nur ungerne nehmen (es sei denn, der Rest stimmt zu  
+110%). Das koennte aber auch gut daran liegen, dass schon mein zweiter PC  
+anno dazumal eine 340MB Platte hatte und ich seitdem eigentlich nie mit  
+"wenig" auskommen musste. Dafuer hinke ich mit dem RAMausbau immer etwas  
+hinterher, diesesmal Chipsatzbedingt.
+
+
+Doch: Auswahl und Lieferbarkeit! Ich bin auch nicht der Ansicht, dass AGP  
+wichtig ist (wer Hardcoregamer ist, hat keine Zeit Texturen auszulagern  
+und der Rest kommt mit 4MB locker hin), aber die meisten Karten SIND AGP.  
+Und wenn uns Kohlenlagerplatz mit neuen Standards zuschuettet, kann man zu jeder  
+neuen Graka ein neues Mainboard kaufen.
+
+
+Dann jain: Unreal merkt man davon IMHO nichts bis nicht viel an, Quake II  
+dafuer umsomehr (das ist aber auch auf Sockel7 ausgerichtet). Und sonst  
+kann ich mich noch an die Tabelle erinern in der K6-II 300@100Mhz und P-II  
+300@66Mhz verglichen wurden und der Pentium doh knapp gewann...
+
+
+Ja, aber das koennte ich nur beim P2LX97 machen, bei diesem REchner hier  
+kaeme ja noch das Board dazu.
+
+
+Klar, ich dachte dabei an die Performance. Aber wenn man nicht zu krass  
+hochjubeln will (C 300 A mit 450Mhz) duerfte der Prozi das mindestens 3  
+Jahre machen und so lange hat man seine CPU selten...
+
+
+Ja. Aber es ist "nur" ein TX-Board- dafuer kann ich eben auch "richtige"  
+PCI-Karten benutzen.
+
+Wenn Du den Bustakt auf 75Mhz hochsetzt und den Multiplikator so laesst,  
+wuerde er mit ~133Mhz laufen- IMHO muesste er das abkoennen...
+
+
+Und dann VIA, Brigitta und ALI zugleich? Komich...
+
+
+Ja, aber eben das naechstbeste, wie gesagt, es ging darum, dass mein Vater  
+keine 300,- fuer eine Grafikkarte ausgeben wollte die ER nicht braucht und  
+ich nicht 200,- dazubezahlen wollte, weil der ISDN-Anschluss, den wir bald  
+bekommen, fuer mich teuer genug werden duerfte...
+
+
+Wer wo wann? Bei SS7 Boards schon, aber bei den meisten BX/LX Boards gates  
+schon...
+
+
+Jetzt muessen die Preise nur noch zum Kunden "durchgereicht" werden - und  
+das kann teilweise dauern...
+
+
+Nee, nicht ganz. :-) Ich habe mich auch unklar ausgedrueckt:
+Er lief sofort an, als ICH das wollte, von allein dann doch nicht. :-)  
+Waere ja noch schoener. Aber unser Ex UFV hatte dieses  
+"Feature"- natuerlich nicht zeitgesteuert... :-(
+-- 
+
+Ciao, Gérard

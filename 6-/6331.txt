@@ -1,0 +1,11 @@
+Kommt dann doch auf das selbe raus.
+*g* Verkehrt ist es mal nicht.
+
+Ich mir auch. Vor allem in Verbindung mit Makefiles.
+
+Macht nur Aerger, wenn man mal mit einem anderen OS ran muss.
+
+Ein Portmapper. NFS laeuft nicht ohne, und fuer irgendwas anderes
+braucht man den auch.
+
+Sehr sicher sogar.

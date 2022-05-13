@@ -1,0 +1,17 @@
+Die interessante Passage ist:
+
+
+Das "including a domain that host is in" ist mit "@gmx.[irgendwas]"
+mangels Komponente nicht zu machen, da in dem Falle eben nur die
+Domain genannt ist. "full name of the host" ist
+hostname.domainname.TLD, damit haben wir hier in dern References 2
+System, die MIDs erzeugen, die der oben genannten Passage
+widersprechen: Das eine steht bei Marlyse, das andere bei SW.
+
+
+Jepp. Ist zwar eine eher seltsame Methode zur Hostnamenvergabe, aber
+es kann die Bedingung erfüllen.
+
+Valerius
+-- 
+"Wir haben einen vorläufigen Erschießungsbefehl gegen Sie."

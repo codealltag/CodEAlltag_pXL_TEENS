@@ -1,0 +1,19 @@
+Henry Clauhs schrieb am 23. Februar 1999 um 15:34 Uhr folgendes:
+[...]
+
+hm, ja. Eigentlich war ja eine Audio-CD geplant, aber da ich dank
+Vitaminchen inzwischen auch MP3s codiere, dachte ich, du bekommst davon
+welche und wollte noch warten, bis es eine CD voll ist:
+
+tststs@alojiwdyoo:~ > du -Lhs mp3
+273M    mp3
+
+Was könnte man noch so draufpacken... Ich nehme nicht an, dass du dich
+für eine größere Sammlung selbstgebauter RPMs interessierst, die aus
+einer Berschnitz 6.2 eine wirklich brauchbare Distribution machen? ;-)
+
+Viele Größe,
+     Ronny Cohrsen
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

@@ -1,0 +1,5 @@
+man Schüler.
+
+Schüler sind die Luser der Schulen.
+
+Antoine

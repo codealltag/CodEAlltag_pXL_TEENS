@@ -1,0 +1,32 @@
+-+-{ wownin@irn.cv (Aaangj Kleine-Rüschkamp) }-+- schrieb in 
+-+-{<nxvn62xdj7.mv.kygllu@gtkodvuyth.ynahik.rnpl.div>}-+-
+
+
+Grosszuegig...
+
+
+Hm... dann hat er eben ne kurze Ausgabe... oder nur ein Testament oder
+so ;-)
+
+
+R�cht�g :-)
+
+
+<nachdenk> Also Du meinst wenn ich jetzt eine Variable definiere...
+sagen wir: 
+
+var zahl : integer;
+
+begin
+zahl := 3;
+end.
+
+Und jetzt will ich schauen wie die intern dargestellt wird.... H...
+scheisse.. warum vergesse ich sowas immer so schnell... ich glaube
+darüber sollte ich mir wirklich mal wieder Gedanken machen...
+
+
+-- 
+Verkaufe 17-Zöller Wegi S96. Bei Interesse mail an sooaiq@hbyya.cf.
+
+Jean-Paul Kemerlings - sooaiq@hbyya.cf - Phone: 5116-5708193

@@ -1,0 +1,53 @@
+Hmm... ich hab' hier einen Prospekt, der 64 MB für 199 DM anbietet und
+einen, der 128 MB für 380 DM im Programm hat. Sind beide von letzter
+Woche und eigentlich nicht von 'Edel-Anbietern'...
+
+
+Nett.
+
+[CNews]
+
+Wie gesagt - nicht in meinem Bekanntenkreis. Habe ich eigentlich schon
+erwähnt, daß ich sowieso einen Newsserver nicht unbedingt mit einem FS
+betreiben möchte, das keine Hard Links hat? ;-)
+
+[WWW-Server]
+
+Tja, in Deutschland studieren gehen und im Orterer einziehen <g>
+
+
+Mir fehlt es ungefähr so stark wie ein Interface zur Kaffee-Maschine ;-)
+
+
+Kommt darauf an, was für Software man sucht. Newsserver und Shells hat
+Linux ganz sicher mehr als Windows, MIDI-Programme und CD-Rom-Lexika
+gibt es unter Windows mehr...
+
+
+Wenn zB nach einem Update / einer Rekonfiguration ein Daemon nicht
+mehr tut, möchte ich das beim Systemstart wissen und nicht während des
+Arbeitens herausfinden und den Fehler erst einkreisen müssen...
+
+
+Der Runnerspoint Pro hatte doch IIRC noch gar keinen Wavetable?
+
+
+Ja, wenn man den Sourcecode hat. Liefert Hapfelmeier den seit neuestem mit?
+
+[...]
+
+hm - 'Windowsabklatsch' würde implizieren, daß wesentliche Teile des
+Windows-GUI originär von Microsoft sind ;-)
+
+[WindowMaker ist soooo viel besser als Kopfzauber 8)]
+
+Ein weiterer Vorteil, obwohl ich nicht zu den strikten Gegnern der
+(inzwischen BTW geänderten) QT-Lizenz gehöre.
+
+
+Demnächst kann ich Dir dazu mehr sagen.
+
+Viele Größe,
+     Edgar Nordbrock
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

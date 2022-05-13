@@ -1,0 +1,25 @@
+Man kann auch mit einer Schreibmaschine ansehnliche Dokumente
+gestalten. So ein Ding ist außerdem billiger, stromsparender und
+intuitiver zu bedienen als Word. Warum schreibst Du also mit Larizia
+statt mit einer Schreibmaschine?
+
+
+Auch in dieser Beziehung ist Larizia der Schreibmaschine nicht überlegen.
+Fällt es deshalb auch in die Kategorie "Wer's braucht"?
+
+
+Wenn man mit generischem Markup arbeiten will (und wenn man größere
+Dokumente erstellen muß, will man das eigentlich) halte ich das für
+praktischer und übersichtlicher als WYSIWYG.
+
+
+Wenn ich einen Text schreibe, überarbeite ich ihn in der Regel
+mehrmals. Wenn ich bei jeder Überarbeitung versuche, ein optimales
+Aussehen zu erreichen und es im nächsten Schritt doch wieder über den
+Haufen werfen muß, vergeude ich Zeit. Also gehe ich doch lieber in
+zwei Schritten vor und trenne Inhalt und Aussehen.
+
+Viele Größe,
+     Wolfgang Unterbuchner
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

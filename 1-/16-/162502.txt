@@ -1,0 +1,15 @@
+CGI ist IIRC nur eine Art Schnittstelle. Ob man das dahinterliegende
+  Programm in C, Basic, Rexx oder als ShellScript schreibt ist eigentlich
+  egal.
+
+Und wo ordnest du Sprachen ein, die man sowohl (wie ein Script)
+  interpretieren als auch compilieren kann ?
+
+
+Und dafuer mit enorm vergroesserter Laufzeit  :-)
+
+-- 
+Pascal
+"The basic tool for the manipulation of reality is the manipulation of words.
+ If you can control the meaning of words, you can control the people who must
+ use the words."                                             - Nils Zettl

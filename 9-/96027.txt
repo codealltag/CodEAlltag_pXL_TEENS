@@ -1,0 +1,20 @@
+Das ist böse [tm].
+
+
+Auch das ist Übel. Bisher hatte ich das Glück, dass in den Anleitungen
+zu bestimmten Dingen entweder ein Abschnitt "So geht's mit SuSe." gab,
+oder dass die Sache halt einfach funktionierte.
+
+
+Die im Netz fand ich bisher ganz gut. Mit den übersetzen oder auch
+nicht übersetzten HOWTOs konnte ich aber komischerweise bisher nicht
+allzu viel anfangen, weil sie einfach zu umfangreich waren.
+
+
+Ja, einige wichtige Dateien sind tatsächlich in anderen
+Verzeichnissen.
+
+Torsten
+
+-- 
+Wer hundert Jahre lang Zwiebeln isst, erreicht ein hohes Alter.

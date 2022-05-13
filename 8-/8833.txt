@@ -1,0 +1,3 @@
+Ach was. Ich wollte eigentlich nur auf die bilinearitaet gewisser
+Homomorphismen in euklidischen und unitaeren |K-Vektorräumen und deren
+Auswirkungen auf invariante Untervektorraeume hinaus.

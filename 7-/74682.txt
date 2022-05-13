@@ -1,0 +1,35 @@
+Am Sat, 07. 06. 21 sendete Christian Achenbachs folgende Botschaft:
+
+
+Bist du sicher das die mit Drehstrom fahren und nicht wegen etwas andern
+nur so bezeichnet werden? Wenn das netz ein Gleichstromnetz ist (Dafür
+spricht das die alten bahnen wohl damit fuhren) müsste man diesen erst
+in Drehstrom umsetzen.
+
+
+Nein, zumindest bei der Die Bahn bin ich mir recht sicher das die in den
+ICEs mehrere Bremssystem gleichzeitig haben (Generatorbremse,
+Wirbelstrombremse und normale Reibungsbremsen).
+
+
+Das ist garnicht kurios, das liegt im Prinzip. (Elektro-)magnetische
+Bremsen wirken weil in einem Metal ein Strom induziert wird welcher
+wiederum ein magnetfeld erzeugt das seiner Ursache entgegengerichtet ist
+(Kniefs Regel). Und für eine Induktion brauchts ein Magnetfeld und
+Bewegung. Und je schneller die Bewegung ist desto höher der Induzierte
+strom desto stärker das Magnetfeld. Also kommt bei kleiner
+geschwindigkeit kaum noch Induktion und damit kaum noch Bremswirkung
+zustande. (2. und 3. Elektro-installateurslehre ;))
+
+
+Irgendwo hab ich mal gehört/gelesen das die Die Bahn deswegen die
+Bremssysteme kombiniert, da die Generatorbremse ja doch unglaublich
+wirtschaftlich ist und die Wirbelstrombremse wenigstens noch die Schiene
+schont.
+
+Tschüs
+  Michael
+-- 
+Die Weisheiten des Wilhelm Willy: #9
+
+Auf das Jup Hoch folgt das RL Tief.

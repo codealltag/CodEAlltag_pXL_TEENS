@@ -1,0 +1,13 @@
+* kdeqlgguhu@cxasiqqbxz.sq (Pphpb Olten):
+
+
+Er zählt die '>'. Denke ich zumindest. Wenn ich mich in einer Zeile mit
+'>>' am Anfang befinde, bricht er alle Zeilen neu um, die mit '>>'
+'>>anfangen.
+
+
+H?
+
+Jérôme
+-- 
+cross veinless

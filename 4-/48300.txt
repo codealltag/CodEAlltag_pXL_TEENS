@@ -1,0 +1,7 @@
+Charly Ulreich <jkmv@rhupbhc.ha> schreibselte:
+
+
+Hmm, hast recht, ich kann net schreiben.
+
+Was für Vor- und Nachteile haben eigentlich PGP und GnuPG
+gegeneinander? Und was lässt sich am bessten in The Bat einbinden?

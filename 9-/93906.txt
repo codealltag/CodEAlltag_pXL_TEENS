@@ -1,0 +1,22 @@
+Carsten Roosenboom hat geschrieben getan getutet:
+
+
+:\
+
+
+Fuhr sich periodisch einfach mal so runter. Für fünf Minuten. Der ganze
+PC stand währenddessen still.
+
+Mit Hoffnung regebootet -> fsck coulnd't repair errors, please enter
+root password to login and repair errors manually..
+
+
+Herunterfahren und aufhängen? Sowas kennt man doch nur von Win..
+Naja, und Stromversorgung ist hier erstaunlich stabil.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Erwin 'wolfram' Hochhaus in ta.tbo.igjkdddi.inekivgr

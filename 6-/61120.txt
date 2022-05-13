@@ -1,0 +1,40 @@
+Nicht ganz. Es gibt Leute, bei denen lese ich aktiv drüber weg, aber
+ich hab nnmal leider einen Blick dafür...
+
+
+Dann trag den doch einfach da oben ein...
+
+
+PAPR.
+
+
+Weils Mist ist. Immerhin scheint die MID inzwischen vom Server
+generiert zu werden[1]
+
+
+Stell dir vor, die meisten, die hier was dazu meinen, _haben_ ihre
+eigenen Websites am Start. Das, was ich in der letzten Zeit
+verbrochen habe, sieht sogar mit praktisch allen Browsern ausser
+Crazy[2] gut aus, mag daran liegen, dass ich reines HTML 4.01
+Transitional (und ein HTML 4.01 Frameset) hinterlassen habe und
+ausserdem dummerweise voll im Spotlight der Öffentlichkeit stehe, da
+nunmal alles an der bewussten Seite auf mich hindeutet...
+
+
+Wir sind wichtig genug, auch ohne irgendein "Hackerbl�dbuch" :-)
+
+
+War doch bisher Standardprogramm :-)
+
+Klaus
+
+Footnotes: 
+[1]  IIRC war dem mal nicht so
+
+[2]  Crazy ist an der Stelle buggy, die Frames haben laut Source eine
+Breite von Null und damit sollten die Grenzen unsichtbar sein. IE,
+NN4.78 und Müllritter 0.9.7 machens richtig, Crazy 5 und 6 zeigen die
+Framegrenzen in grau an *grummel*
+
+-- 
+You have the capacity to learn from mistakes.  You'll learn a lot today.

@@ -1,0 +1,47 @@
+Aber sobald du eine Hausarbeit schreiben sollst oder irgendeine
+Präsentation, sind Bilder sehr angebracht und IMHO auch nötig.
+
+
+Kam mir so vor. Warum solltest du sonst heute noch den DHMS nutzen?
+Damals war er sicher gut, aber heute ist er IMHO nicht mehr zu
+gebrauchen.
+
+
+CorelDraw 8, Sound Forge 4.5, StarOffice 5.0, WinAmp 2.10, MultiDec 2.8,
+Netscape 4.5 usw, AudioCatalyst, ...
+
+
+Aha, jetzt sind wir schon beim Pentium 200. Da wären MultiDec 2.8
+(braucht MMX) und der Rest dürfte durch den mangelnden Speicher auch
+nicht so blendend laufen.
+
+
+Naja, Officepakete sind ja wohl nicht das Problem. Aber bei fetten
+Windword-Dateien kommt ein schneller Prozessor schon nicht schlecht.
+Ansonsten sind alle Grafik- und Soundprogramme für jedes bisschen
+Prozessorleistung dankbar.
+Selbst beim Newslesen kommt ein P100 wohl an seine Grenzen, wie mir
+Lennart K. schon mitteilte.
+
+
+Das habe ich weiter oben ja nun geschrieben. Ein P200 reicht ja bis
+jetzt meist auch noch aus, wenn genug Speicher vorhanden ist und man
+keine neuen Spiele spielen will.
+
+
+Es gibt ja durchaus noch neue Software, die auch auf alten PCs läuft,
+aber bei heutigen Multimedia-Anwendungen kommt man trotz aller
+Optimerungen um viel Prozessorleistung nicht herum.
+
+
+Word 97 läuft bei entsprechendem Speicher auch auf einem 486,
+nur sollte man neue Funktionen wie WordArt oder Grammatikprüfung (die eh
+wenig taugt) doch eher vermeiden. Und auf die langen Dateinamen will ich
+auch nicht verzichen wollen.
+
+CU
+Fabian
+-- 
+Liegt der Bauer tot im Zimmer, lebt er nimmer. 
+Liegt die Bäurin tot daneben, ist sie auch nicht mehr am Leben.
+(alte Bauernregel)

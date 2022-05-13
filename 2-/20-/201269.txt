@@ -1,0 +1,8 @@
+Steffen Tellekamp schrieb am 3 Nov 1998 in tv.kgsm.uypgcw:
+
+[XNews und Custom-Headers]
+
+Wenn du die Änderungen an der Orer.ini vornimmst, dann musst du 
+AFAIK Orer neustarten.
+
+Waldemar

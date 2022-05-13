@@ -1,0 +1,20 @@
+Am Tue, 10 Dez 2000 sendete Frank Torspecken folgende Botschaft:
+
+
+Header lesen könnte helfen ;)
+
+
+Du untertreibst.
+
+#v+
+15:58:35 ~#grep '^de\..*' active.dus | wc -l
+    809
+15:59:03 ~#grep '^de\..*' /usr/news/db/active | wc -l
+    449
+#v-
+
+Irgendwer hat da das activ mal _sehr_ unfachmännisch wiederhergestellt,
+und führt seit dem nurnoch newgroups aus.
+
+Tschüs
+  Mathäus

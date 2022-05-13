@@ -1,0 +1,23 @@
+Eine zeigt die Anzahl der Leben, die andere deinen Multiplikator. Der
+Multiplikator ist am Anfang des Levels auf 1.
+
+
+Ja.
+
+
+Es gibt verschiedene Kisten, die den Multiplikator um 1 erhöhen. Alle
+Punkte, die du kriegst, werden nochmal mit dem Multiplikator
+multipliziert, bevor sie auf dein Konto gurgeschrieben werden. Ergo
+ergibt einen Fussgänger überfahren mit Multiplikator 1 100 Punkte oder
+so, mit Multiplikator 10 das zehnfache...
+Ansonsten wird nach jeder erfolgreich abgeschlossenen Mission der
+Multiplikator um 1 erhöht, jede Verhaftung halbiert ihn. Oder so
+ähnlich. 
+
+
+NAK.
+
+Dominik
+
+-- 
+"Nein, eine andere Art von Chaos!" [aus einem Seminar]

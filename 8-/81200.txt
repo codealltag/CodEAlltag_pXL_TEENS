@@ -1,0 +1,10 @@
+Jörg Opgen-Rhein meinte kundzutun:
+
+
+Oehrelin meinte er fände die next Version noch besser...
+
+
+Mittlerweile %-4F|%-5n|%-3S|%20r|%15D|%-3c%P|%-3l|%T%s
+Ich Steh einfach auf Pipes als Fieldseparator :-)
+
+Tobias

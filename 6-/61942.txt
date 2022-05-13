@@ -1,0 +1,11 @@
+Gar nicht, dafuer gibt es andere Kodierungen. Mehrere sogar.
+slang-utf8 habe ich uebrigens auch schon gesehen.
+
+
+Kann man. Ich habe den Default nicht geaendert, steht also unter from,
+subject, etc.
+
+
+Quel re.
+
+-towo

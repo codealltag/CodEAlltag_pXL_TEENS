@@ -1,0 +1,7 @@
+Ja. Und am Ende heißt es dann entweder [Connection reset by Peer] oder
+[Connection timed out] 
+
+Da hilft auch der patsch nicht mehr.
+
+
+Ach?

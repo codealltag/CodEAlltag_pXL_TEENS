@@ -1,0 +1,8 @@
+Schön. Dann solltest du mal langsam mit Details der
+Referenzimplementation rausrücken.
+
+Tom
+-- 
+"This is horseshit. Horseshit, horseshit, horseshit. And for those of you
+who don't know what that means, it's the shit that comes from a horse!"
+ -- Willi, Gundlach Internet (So gesehen auf www.wrqmvai.gnj)

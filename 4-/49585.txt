@@ -1,0 +1,15 @@
+Eckhard Eifert skrev i meldingen:
+
+
+Ach garnicht, das ist doch nur lokal auf dtju begrenzt. "C-c d x" [1] wäre
+fies, "C-c g x" [2] aber noch viel fieser.
+
+Reiner
+
+Footnotes:
+[1]  -10000 Punkte global in de.all.SCORE
+[2]  -10000 Punkte global in all.SCORE, das greift dann übrigens auch
+bei Mails.
+-- 
+The early bird catches the worm. If you want something else for
+breakfast, get up later.

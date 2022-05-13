@@ -1,0 +1,11 @@
+Timo Neudörfer hat geschrieben getan getutet:
+
+
+man email-lookup-with-im
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Kai 'ingolf' Offenborn in yz.ool.dgszwvfi.hpzuyhqb

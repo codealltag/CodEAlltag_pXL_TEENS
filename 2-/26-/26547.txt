@@ -1,0 +1,12 @@
+Am Thu, 28 Mrz 2003 sendete Uda O Jurjahn folgende Botschaft:
+
+
+Huh?
+
+Tschüs
+  Udo
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 05. 04. 22 Udo Wildschütz <uabxmxvqjw@sjgasujamn.dy>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/B3F9CD02 05. 04. 22

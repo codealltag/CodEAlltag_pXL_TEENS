@@ -1,0 +1,21 @@
+*notier*
+
+
+Moment mal. Bist du sicher, das der mpg321 bei dir der forderndere ist?
+Ich hab hier einen Athlon 1200, und wenn ich am irmp3 einen mpg123
+laufen lasse und X starte , stockt das abspielen merklich. Wenn ich im X
+Pesalla aufmache auch. Latex-Compiles verträgt er auch nicht.
+Nehme ich allerdings mpg321, kann ich mit X, Pesalla und weiß der Geier
+noch was schaffen, mp3s Codieren und nebenbei noch 20G verschieben, ohne
+das was stottert.
+
+Sonst: Natürlich. Das Remote-Modul der beiden hat den selben
+Befehlssatz, von daher läuft das ohne Probleme.
+
+Ok... Muß ich mich wohl mal einlesen...
+
+mfg, 
+	Ivan
+-- 
+BOFH excuse #210:
+We didn't pay the Internet bill and it's been cut off.

@@ -1,0 +1,12 @@
+Ulrich Indermark schrieb am 22. November 1999 um 17:52 Uhr folgendes:
+
+[Auf der Suche nach einem UN*X-Editor]
+
+Ich gebe zu, dass vi viel kann, aber das, was Diedrich wollte, kann es
+leider nicht: eine Alternative zu vi bieten.
+
+Viele Größe,
+     Diedrich "emacs-mode in vim now ;)" Ickerodt
+-- 
+Boys will be boys, and so will a lot of middle-aged men.
+                                                         -- Ben Duve

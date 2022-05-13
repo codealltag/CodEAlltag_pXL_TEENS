@@ -1,0 +1,11 @@
+[Subject angepaßt] [1]
+
+
+Ack. Aber dafür kann man ja - so man kann - nach Subthreads filtern
+(sprich nach References).
+
+Gruß,
+Joachim
+
+[1] Der "lange Weg" über (was: xyz) hat IMHO keinen Zweck, wenn Threads so
+kurzlebig sind wie dieser hier vermutlich.

@@ -1,0 +1,3 @@
+Recht haben sie. Netscape ist eine verdammte Plage mit einer absolut miesen 
+Renderengine. Die kriegen noch nichtmal HTML 3.2 richtig gebacken (man denke 
+nur an Nested Tables...).

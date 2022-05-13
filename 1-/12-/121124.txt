@@ -1,0 +1,24 @@
+* Carlos Angerer <j-ozv@kfukkqjwjep.yz>:
+
+
+Achja, Agent ... *g*
+
+
+Mein Newsfeed scheint keine Löcher zu haben.
+
+
+Warum sollten sie nicht? Der Newsserver, von dem ich meine Postings
+bekomme, führt keine Cancel aus. Dafür bekomme ich die Cancel für die
+Gruppen, die ich subscribed habe, mitgeliefert. Ich kann dann für meinen
+lokalen Server entscheiden, ob er die Cancel ausführen soll oder nicht.
+Das Ganze nennt sich UUCP.
+
+
+Das ist sehr nett von dir.
+
+
+Ja, verstehe ich.
+
+Knut
+-- 
+cross veinless

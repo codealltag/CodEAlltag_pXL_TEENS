@@ -1,0 +1,24 @@
+On Thu, 17. 08. 21, Olaf...sSXP...Leidreiter <nCCM@mdk.rbv> wrote:
+[PGP 5.x vs. 2.6.3]
+
+Für meine Bedürfnisse nicht - ich benutze pgp eigentlich nur bei Mails
+und da läßt sich auch 2.6.3 perfekt in mutt einbinden. BTW lassen sich
+auch 2.6.3-Schlüssel unter 5.x verwenden, so daß man deswegen nicht
+unbedingt umsteigen muß.
+
+
+Ich kann (generell und abhängig von der Empfängeradresse) ein Default
+einstellen (signieren, verschlüsseln...) oder vor dem Abschicken ein
+PGP-Men aufrufen:
+
+(v)erschl., (s)ign., sign. (a)ls, (b)eides, (m)ic auswählen, (k)ein PGP
+
+Wenn eine verschlüsselte Mail reinkommt, werde ich automatisch nach
+meiner Passphrase gefragt, Signaturen werden automatisch überprüft und
+das Ergebnis vor der Mail im internen Pager des Mail-Programms
+angezeigt. Ist für mich einfach genug :-)
+
+Viele Größe,
+     Gianni Lafferentz
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

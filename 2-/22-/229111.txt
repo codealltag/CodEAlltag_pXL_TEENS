@@ -1,0 +1,2 @@
+Doom benutze Fixed-point Arithmetik, um die FPU nicht benutzen zu müssen. 
+Quake war der erste 3D-Shooter der auf die FPU setzte.

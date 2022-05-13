@@ -1,0 +1,11 @@
+*Hier* hatte ich jetzt erwartet, dass unten "Siehe oben" steht.
+
+
+Und das auch noch früh am Morgen... *sigh*
+
+Siebelt
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+237: Login
+       Test bei Admin und Programmierer, ob sie schreiben kann.
+       (Simon Nemetschke Iselin)

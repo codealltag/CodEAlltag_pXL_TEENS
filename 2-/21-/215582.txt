@@ -1,0 +1,12 @@
+On 10. 04. 23, Thomas Epperlein <Fgz.Bffkm@psw.fsg> wrote:
+
+[Vom Editor aus an andere Programme pipen]
+
+Mmh, könnte sein, daß das ein wenig UNIX-spezifisch ist, weil es der
+UNIX-Philosophie (Stichwort LEGO-Prinzip) eben entgegenkommt. Wie
+würde man das unter OS/2 lösen?
+
+Viele Größe,
+     Francisco Elert
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

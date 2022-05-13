@@ -1,0 +1,18 @@
+Am Mon, 31. 10. 22 sendete David Tenberg folgende Botschaft:
+
+
+Klar, die Welt ist Böse[tm], gerade im Computer bereich.
+
+
+Nein. Er hat ganz recht. Woher willst du wissen das in deinem Pgp nicht
+eine Backdoor eingebaut ist? Oder in program xy das du einsetzt?
+
+Sendmail hat schon mal bewiesen wie effektiv man damit Netzwerke
+lahmlegen kann.
+
+Tschüs
+  Henning
+-- 
+Die Weisheiten des Carsten Carsten: #8
+
+Frauen sind Schweine.

@@ -1,0 +1,10 @@
+Bodo Stockert tat schreiben getun haben:
+
+
+Ich müsste dieses Remote-Programm erstmal um laufen kriegen, aber beim
+Starten gibt es die Fehlermeldung aus, dass der IR-Port schon in
+Benutzung sei. Komisch das.
+
+-- 
+Why is 6 afraid of seven?
+Because 7 8 9.

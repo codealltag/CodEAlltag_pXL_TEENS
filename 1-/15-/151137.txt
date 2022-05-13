@@ -1,0 +1,10 @@
+Nein, nur ein kleiner Darstellungsbug: XP geht bei Zeitangaben  
+generell von ME(S)Z aus und rechnet bei der internen Darstellung  
+eventuell angegebene andere Zeitzonen nicht um.
+
+Pietro Elbers
+
+-- 
+Pietro Endress praktische Lebensratschläge, Teil 7:
+Nach der 4 kommt die 5.
+---> Offizieller Kämpfer wider Wilfried Zschegel des Ordens von dtju <---

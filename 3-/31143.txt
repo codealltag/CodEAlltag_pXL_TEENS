@@ -1,0 +1,2 @@
+Auf nem Athlon 550 Board geht das im Allgemeinen. Das läuft so oder so 
+mit 100 MHz FSB.

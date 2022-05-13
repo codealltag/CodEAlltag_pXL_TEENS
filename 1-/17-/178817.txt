@@ -1,0 +1,24 @@
+Am Tue, 06. 10. 21 sendete Karsten Christianßen folgende Botschaft:
+
+
+*stel* *stel* Mein ged�chniss und dein Quoting sagen anderes.
+
+
+------
+less README
+./configure --prefix=/usr/samba
+make
+make install
+while $erfolglos; do
+  vim
+  less README
+done
+------
+
+ALOIS
+
+
+http://vav.das.qfj/
+
+Tschüs
+  Björn

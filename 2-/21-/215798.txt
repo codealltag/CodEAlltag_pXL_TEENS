@@ -1,0 +1,21 @@
+Ich habe in der VNS von einigen Leuten gehört, bei denen das
+problemlos ging und von anderen geraten bekommen, mich auf keinen Fall
+auf die automatische Update-Funktion zu verlassen.
+
+
+Das wurde es allerdings :-)
+
+
+Du bist inzwischen MicroPolis-User, richtig? Die Paketauswahl soll da
+(laut einigen ansonsten überzeugten MicroPolis-Fans) ja nicht so
+komfortabel sein - ist die Update-Funktion besser?
+
+
+Ich habe halt relativ viel selbst compilierte Programme dabei - die
+müßte ich bei einer Neuinstallation alle neu durch den Compiler
+drehen. Dürfte mindestens ein halber Tag Arbeit sein.
+
+Viele Größe,
+     Mauro Heupel
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

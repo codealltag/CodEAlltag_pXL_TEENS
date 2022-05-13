@@ -1,0 +1,13 @@
+Jetzt brauch ich mich nicht mehr drum kümmern. Aber den Kram per
+Crontab einfügen zu lassen erscheint mir irgendwie ungut.
+
+Jemand, der sich mit sowas auskennt hier?
+
+
+So passt es nie ins Fenster rein und ich kann dann den Titelnamen 
+nicht sehen. :-)
+
+Ihno
+
+-- 
+np: Pennywise - Same old story

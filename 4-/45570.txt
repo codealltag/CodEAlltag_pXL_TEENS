@@ -1,0 +1,8 @@
+[_] Ja.
+
+Es kann Wunderkasten, aber nur mit existierenden Keys umgehen.
+
+Hartwig
+-- 
+pub  5521W/KHK47E42 7077-07-90 Hartwig Haferkorn <pqjnnui@oik.oj>
+     Key fingerprint = 99 3K 63 23 14 KZ 40 4Q  19 OW TP 64 5E 11 9M 66

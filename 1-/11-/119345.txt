@@ -1,0 +1,9 @@
+*g* *knicksmach*
+
+
+Bei Gelegenheit könnte mir mal jemand sagen, wie man da im Header ein
+http:// vorbasteln kann, ohne dass Hamsterchen sich wieder ewig und
+drei Tage beschwert?
+
+-- 
+Do you need a hand?

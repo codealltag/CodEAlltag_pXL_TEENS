@@ -1,0 +1,8 @@
+(* Francisco Wyser wrote: *)
+
+
+Und was hat das jetzt damit zu tun ob Frames nützlich sind oder nicht? 
+Nur weil Frames oft dazu verwendet werden nicht nachdenken zu müssen, 
+sind sie doch nicht a priori schlecht oder?
+
+Andre

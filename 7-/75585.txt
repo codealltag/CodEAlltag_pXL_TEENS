@@ -1,0 +1,9 @@
+Ansich ist das ja richtig. Doch so weit zu gehen alles erstmal als
+Datenschredder zu betrachten halte ich für maßlos übertrieben.
+Zwangsläufig heist das ja man muss auf open source umsteigen. und
+diesen source bevor man ihn kompiliert und installiert genau prüfen.
+Wenn man dann der Meinung ist er ist in Ordnung kann man ihn
+installieren. Nun mal wieder zur Praxis. Wer hat die Zeit und die
+Nerven das zu tun? Wer hat das Know-How das zu tun? 
+
+Tino

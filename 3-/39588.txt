@@ -1,0 +1,12 @@
+et@jkxfk:~$ wine --version
+Wine 20020411
+
+Nun, sollte es eigentlich machen. Aber blieb bei einem
+Mehr-Oder-Weniger-Standbild. Vielleicht habe ich die falsche
+URHZ.
+
+Willy
+
+-- 
+Setup-Fehler 723:
+"Die Informationsverarbeitung ist auf oberster Ebene fehlgeschlagen."

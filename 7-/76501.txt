@@ -1,0 +1,9 @@
+Das Problem ist, daß jedes Radserveice-Programm, welches bestimmte Biblio-
+theken nutzt, vollautomatisch seinen Taskbar-Eintrag bekommt d.h.
+entweder hat ein Programm keinerlei Fenster und Dialoge oder es hat
+seinen Eintrag. Inzwischen ist es so gelöst, daß die Dialoge nur in
+Korrnews enthalten sind, welches ggf. von Ecul_RZ gezielt aufgerufen
+wird.
+
+So long,
+Francisco O. Schmirer

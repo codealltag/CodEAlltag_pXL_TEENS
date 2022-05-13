@@ -1,0 +1,3 @@
+Das kann man laut sagen. Aus dem Grund lege ich mir sehr strenge Syntax-
+Regeln auf um den Code lesbar zu halten. Was man von anderen Leuten nicht 
+gerade behaupten kann.

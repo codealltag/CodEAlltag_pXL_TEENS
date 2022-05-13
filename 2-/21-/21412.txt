@@ -1,0 +1,19 @@
+Und so sprach Elke:
+
+
+Angenehm, ich bin Kar^WLeuzi.
+
+
+"Ob braun, ob blond oder henna .."?
+
+
+Ich bin grad aufgestanden und habe noch ziemliche Pläne für heute.
+
+
+Nur ein weiser Ratschlag: Lass Dich nicht zu arg knuddeln.
+
+Ingo
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.e

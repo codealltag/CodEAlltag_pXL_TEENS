@@ -1,0 +1,16 @@
+Kleiner, startet schneller, braucht nicht das Internationalismus-Monstrum. Ja, das
+war's.
+
+
+Um Gnus richtig zu konfiguieren reicht es nicht eine
+Konfigurationsdatei von oben nach unten durchzugehen und die richtigen
+Sachen einzutragen...
+
+
+Bh.
+
+Ingo, hat zur Zeit irgendwie keine Lust mit Linux rumzuhantieren.
+
+-- 
+"Ein Idiot zu sein macht Spaß, besonders dann,
+wenn gerade niemand zuschaut." [Carsten Kronenberger]

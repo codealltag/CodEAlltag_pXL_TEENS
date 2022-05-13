@@ -1,0 +1,69 @@
+STATISTIK 03. 12. 22
+-=-=-=-=-=-=-=-=-=-
+
+TOP 10 POSTER 03. 12. 22 (strukturiert)
+
+Pos.  Anz.   %       Name
+---------------------------------------------------------------------------
+  1   1739   25,71%  Roberto Schicketanz
+  2    854   12,62%  Ullrich Lowey
+  3    836   12,36%  Willi Tasche
+  4    523    7,73%  Rudi Saurin
+  5    476    7,04%  Undine Triebelhohn
+  6    461    6,81%  Charles Mehling
+  7    398    5,88%  Ute Saurin
+  8    347    5,13%  Georg Milewski
+  9    321    4,75%  Olivia Crafts
+ 10    195    2,88%  Carlo Stiglbrunner
+
+
+TOP 5 POSTER 2000 (in einem Monat)
+
+Pos.  Anz.   Monat     Name
+---------------------------------------------------------------------------
+ 1    3998   09/2000   Olivia Craft
+ 2    1992   01/2001   Willi Tasche
+ 3    1984   10/2000   Roberto Schicketanz
+ 4    1976   09/2000   Roberto Schicketanz
+ 5    1739   04/2001   Roberto Schicketanz
+
+
+TOP 5 POSTER 2000 (Gesamt)
+
+Pos.   Anz.   Name                   � (Tag)  Tendenz
+---------------------------------------------------------------------------
+ 1    74991   Roberto Schicketanz            52       +5
+ 2     1451   Willi Tasche       76       -5
+ 5     0725   Undine Triebelhohn       79       -2
+ 4     5796   Olivia Crafts      80       -2
+ 5     3990   Carlo Stiglbrunner     16       -2
+
+
+TOP 5 DAUs 2000
+
+Pos.  Anz.   Msgs. Ratio   Monat    Name
+---------------------------------------------------------------------------
+ 1    401       2  200,50  11/2000  dgcmdj@ybjmgxm.xpz
+ 2    200       1  200,00  11/2000  ozgdz_brefw@bhbgwwb.itw
+ 3    200       1  200,00  11/2000  lvtofg@mvueagc.phy
+ 4    158       1  158,00  11/2000  "Helmut Oltermann" <idwpebzh@asizlbc.ne>
+(5)   158       1  158,00  02/2001  "Enno" <vmvoxjnv@w-w-j.xan>
+
+
+TOP 5 MONATE
+
+Pos.  Anz.    Datum
+---------------------------------------------------------------------------
+ 1    03. 12. 22   September 2000
+ 2     9077   Januar 2001
+ 3     9040   Oktober 2000
+ 4     7004   Dezember 2000
+ 5     6983   November 2000
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von Maurizio Tomforde.
+(Darstellung angepasst von Roberto Schicketanz)
+Basierend auf den Feeds von:
+gmdefclk.cbzzz.pj       krip.fem.fbw.rn          efmz.rppnpam.rhc
+rhir.qqn.cun            xxun.bdc-ytdbneao.tp     odub.kvl-fazgvtf.pu
+zxch.wmj-pxxhvfjba.xf   qbom.ymwcje.yz

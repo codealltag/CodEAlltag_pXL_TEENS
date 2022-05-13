@@ -1,0 +1,14 @@
+* Kay Isenhuth <hhhclknvmfec@utdqqffga.pzq>:
+
+
+Enlightenment ist für mich ideal. Es besteht aus genau drei Teilen:
+Einem Hintergrund, einer Iconbox und einer Leiste am oberen Rand, dich
+bei Gelegenheit mal abschalten sollte.
+
+Ich verteile nun immer Gnus, Shokunin, gkrellm und >10 xterms auf die
+virtuellen Desktops. Andere Leute sind immer schwer fasziniert, wenn ich
+mit den Fenstern umherhantiere. :)
+
+Patrice
+-- 
+cross veinless

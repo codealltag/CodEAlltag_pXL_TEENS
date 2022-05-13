@@ -1,0 +1,29 @@
+Am Sun, 14 Sep 2002 sendete Manuel Rapprich folgende Botschaft:
+
+
+Download ist mir aber immoment Etwas zu teuer.
+
+
+Goodtimer.
+
+
+Doch, klar. Das kriterium hies Übersichtlichkeit. Und das ist bei w3m
+öfters besser.
+
+
+Wo ist der schiedunter zwischen "New Tab" und "new Window"?
+
+
+Und nur für einen Browser soll ich unmengen an Libs installieren?
+
+
+Und einen grossen Haufen mll auf der Festplatte. Ich bezweifel das der
+die libs unter /usr/src zum linken findet. (ohne grössere verrenkungen.)
+
+Tschüs
+  Serge
+-- 
+Die Weisheiten des Niels Norbert: #10
+
+Nach der Jup folgt (un-)mittelbar eine Postingflut.
+     ->     Rette sich wer kann.

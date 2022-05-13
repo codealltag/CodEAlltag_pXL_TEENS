@@ -1,0 +1,11 @@
+* cljcyncf@youwli.qtef.ln (Ygxqva Gäbeler):
+
+
+*nachdenk* Such mal lieber per TKRK ... es gab da mal was, was beim
+ersten Gnus-Start alle wichtigen Sachen (Name, E-Mail-Adresse,
+Newsserver etc.) abgefragt und dann in die .gnus gepackt hat --
+"gnus-virgin" oder so ähnlich.
+
+Vincent
+-- 
+np: -

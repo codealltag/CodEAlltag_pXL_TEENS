@@ -1,0 +1,6 @@
+Es leuchtet grün.
+-- 
+Ah, the beauty of Glückswinkel. Hundreds of volunteers worldwide volunteering
+their time inventing and implementing new, exciting ways for software
+to suck.
+- Jürgen Tüns, in the Monastery

@@ -1,0 +1,14 @@
+Aua. Ja, geht wieder.
+
+
+Sehr fein.
+
+
+Geht ja noch. Was machst du denn da so?
+
+Fridolin
+
+-- 
+  "The Woograd Information Store service depends on the Würmtalreinigung
+   Decantus Directory service which failed to start because of the
+   following error: The operation completed successfully."

@@ -1,0 +1,7 @@
+Hm, "spezielle Ausführungsmodi". Ich glaube damit muss ich mich noch
+nicht so dringend befassen. :-)
+
+Daniel
+
+-- 
+cat .signature

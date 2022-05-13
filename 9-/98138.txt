@@ -1,0 +1,12 @@
+* Lennart Köhle <kjzcqqvkmdc@xzpdwmvtzlg.de>:
+
+
+Solange er den Pfad zum Programm kennt, kannst du das einfach durch
+Eintippen des Programmnames aufrufen.
+
+
+Ist aber auch langweiliger.
+
+Willibald
+-- 
+cross veinless

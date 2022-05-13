@@ -1,0 +1,22 @@
+On Fri, 27 Sep 1998, Giovanni Draeger <smewdwc_wgyvsdn@olq.hc> wrote:
+
+[Handbuch von DOS 6]
+
+
+*rauskram* Meins hier hat (ohne Anhang) ~330 Seiten. *durchblättre*
+Hmm... steht doch mehr drin, als ich in Erinnerung hatte. Na gut, ich
+nehme alles zurück - wenn man sich die >30 Seiten zur
+Speicheroptimierung durchliest und alle Anweisungen beachtet (was bei
+weitem nicht mit dem Eintippen von acht Buchstaben erledigt ist),
+bekommt man eine brauchbare Konfiguration zustande.
+
+
+...geschweige denn die vorzunehmenden Einträge dokumentiert, am I right?
+
+
+Benutzen? Warum nicht. Installieren? Wohl kaum.
+
+Viele Größe,
+     Hugo Asma
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,18 @@
+Es gibt wohl Programme, die einen dabei unterstützen. Eigentlich will
+man aber nachdenken, bevor man etwas löscht, für den Notfall Backups
+machen und ggf. einen Papierkorb benutzen (Videoparadies hat sowas glaub' ich).
+
+[Path anpassen]
+
+Habe ich eigentlich schon bemerkt, daß es evil [tm] ist, als root zu
+arbeiten? Aber gut: Unter der bash wird der Path in der
+Umgebungsvariable $PATH abgelegt - die kannst Du anpassen, wie Du
+willst (zum Beispiel mit 'export PATH=/opt/gyr/bin:$PATH', um das
+Verzeichnis am Anfang des Pfades hinzuzufügen; das ganze packt man
+dann günstigerweise in ein Skript, das nach dem Login automatisch
+ausgeführt wird - bei mir wäre das zB ~/.bashrc).
+
+Viele Größe,
+     Arnold Reuschle
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

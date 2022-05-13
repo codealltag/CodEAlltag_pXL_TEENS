@@ -1,0 +1,11 @@
+Und so sprach Ralphs 'Rudolf Lueer:
+
+
+*g* Nein, das waere dann hier. :)
+
+Gruss,
+Eilert, fuer alles offen.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.f

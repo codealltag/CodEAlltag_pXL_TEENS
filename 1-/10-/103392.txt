@@ -1,0 +1,18 @@
+Am Mon, 19. 02. 23 sendete Niklaus Irrgang folgende Botschaft:
+
+
+Die sind ja schon weg. Dafür war ja der editor im Vordergrund.
+
+
+Funktioniert oder *beep*?
+
+
+Aktuell genug. ;)
+
+
+Mach mal ':set tw=72'
+
+Tschüs
+  Walter
+-- 
+Notorisch Schreibfaul.

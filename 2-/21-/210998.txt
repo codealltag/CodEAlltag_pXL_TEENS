@@ -1,0 +1,21 @@
+10DM (im Gegesatz zu null bei Festo ;-) und man muß sie erst bestellen...
+
+
+Sender kommt dann später. Hab mich noch nicht entschieden ob ich die 
+Trägerfrequenz über'nen PLL realisiere und den Rest per Software mache 
+oder es ob ich es doch komplett über die serielle Schnittstelle anpacke. 
+Ist gerade alles noch im fließen ;-)
+
+
+Naja, schwierig dürfte es nicht werden, wenn man sich ein bißchen in 
+Delventhal auskennt und man weiß was ein Lötkolben ist ;-)
+
+
+Bekommt man nicht bis zu einem Monat erlassen wenn man sonst Studien-mäßig 
+benachteiligt ist?
+
+
+Mit 13 im Mündlichen hätte ich 620 gehabt ;-)
+
+
+Buuuh, Schiebung.

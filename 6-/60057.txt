@@ -1,0 +1,10 @@
+So oft? Habe nur das gefunden: "Um den Lesekopf auf die Spur Null zu 
+positionieren, sitzt kurz vor dem mechanischen Anschlag bei anderen 
+Floppys eine Lichtschranke. Die 8529 hat keine, sollte es zu Lesefehlern 
+kommen, wird der Kopf in Grundstellung gefahren, indem man ihn 10mal 
+gegen den Anschlag fahren lässt. Dann müsste er endlich auf Spur Null 
+angekommen sein, so die dahinterstehende simple Logik."
+
+Das selbe galt wohl auch für's Formatieren.
+
+Gustav

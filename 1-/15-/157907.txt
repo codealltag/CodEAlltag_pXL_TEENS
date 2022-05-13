@@ -1,0 +1,12 @@
+Am Sun, 05 Jul 1999 sendete Philippe Bassler folgende Botschaft:
+
+
+Hmm bei gelegenheit mal bei Heiko nachfragen.
+
+
+Naja sowas hatte ich hier auch 1-2 monate laufen. Ich habe im letzen
+halben jahr einiges an Client<->Server/Server<->Server Kombis hier
+laufen gehabt, inclusiver ungewöhnlichster protokoll mischungen.
+
+Tschüs
+  Andreas

@@ -1,0 +1,7 @@
+Vielleicht nicht standardkonform, aber gleich nicht realitätskonform?
+Das erscheint mir zu weit gegriffen.
+
+t|a
+
+-- 
+Any feature is a bug unless it can be turned off. (Heuer's Law, 1990)

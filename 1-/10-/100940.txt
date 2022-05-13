@@ -1,0 +1,12 @@
+* "Otmar Claussen" <xmrr@szpxmemd.yg>:
+
+
+Achso. Das ist hier auch so. Wahrscheinlich kann Gnus nur eine bestimmte
+Anzahl per default.
+
+
+Keine Ahnung.
+
+Serge
+-- 
+cross veinless

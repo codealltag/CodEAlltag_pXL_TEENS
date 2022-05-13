@@ -1,0 +1,15 @@
+Merken. Besorgen. Versuchen zu installieren.
+
+BTW läuft mein MTA jetzt. :-) Allerdings ist es nicht postfix, sondern
+exim. Irgendwie seltsam. Mit postfix würge ich mehrere Tage rum und
+exim läuft innerhalb von kurzer Zeit genau so wie ich mir das
+vorgestellt hatte.
+
+Leider kann ich aber mit dem Nutzer "news" noch keine Mails mit mutt
+lesen, was recht praktisch wäre, aber das ist ja nur eine Kleinigkeit.
+
+Sergio
+
+-- 
+Die letzten Worte des Liebhabers:
+"Stört's Dich, wenn ich dabei lese?"

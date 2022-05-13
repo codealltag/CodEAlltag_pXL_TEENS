@@ -1,0 +1,8 @@
+Am Sat, 11. 09. 21 sendete Igor Fenslage folgende Botschaft:
+
+
+bzip2, bunzip2, bzcat und noch ein paar andere sind bei bzip 2 auch
+möglich.
+
+Tschüs
+  Albert

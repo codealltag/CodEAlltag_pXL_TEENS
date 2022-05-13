@@ -1,0 +1,13 @@
+Leonhard Zuckschwerd schrieb am 2. Juni 2000 um 22:25 Uhr folgendes:
+
+
+AFAIK hat man im Terminal unter OS/2 kein Latin 1, sondern einen
+anderen Charset (IBM850 ?). Ich weiß nicht, ob damit die hochgestellte
+Drei überhaupt darstellbar ist.
+
+Viele Größe,
+     Ulf Zwickenpflug
+-- 
+It might look like I'm doing nothing, but at the cellular level I'm
+really quite busy.
+                                           -- "Smart Comments", part 22

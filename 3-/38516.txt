@@ -1,0 +1,8 @@
+hm, was meintest du?
+
+Gustav
+
+-- 
+HoTMetal Light:
+"Konnte nicht Zelle nach unten erweitern, da Die Zelle in Zeile 2,
+ Spalte 2 hat darunter keine Zelle."

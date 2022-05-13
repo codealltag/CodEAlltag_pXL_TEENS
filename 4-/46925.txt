@@ -1,0 +1,16 @@
+Am Wed, 13 Jul 2003 sendete Benjamin Brunthaler folgende Botschaft:
+
+
+Doch ist sie.
+
+<Vermutung> Du hast diese ID als letztes Hinzugefügt? Zumindest gpg setzt
+jeweils die neuste ID als Primary ID. kannst du mit --edit-key und
+'primary' irgendwie ändern. <\Vermutung>
+
+Tschüs
+  Dietrich
+-- 
+Die Weisheiten des Volkmar Vincenzo: #6
+
+Am Unterhörzing Bahnhof haben sie zwar eine Tür geöffnet,
+aber dafür sind die Strassen dicht.

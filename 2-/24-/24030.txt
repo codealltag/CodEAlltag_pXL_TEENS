@@ -1,0 +1,16 @@
+$ apt-cache search ^slang1
+slang1 - The S-Lang programming library - runtime version.
+slang1-dev - The S-Lang programming library, development version.
+slang1a-utf8 - The S-Lang programming library with utf8 support
+slang1-ja - The S-Lang programming library with Japanese patch, runtime version.
+slang1-ja-dev - The S-Lang programming library with Japanese patch, development version.
+slang1-pic - The S-Lang programming library, shared library subset kit.
+slang1-utf8-dev - The S-Lang programming library, development version with utf8 support.
+slang1-utf8-pic - The S-Lang programming library, shared library subset with utf8 support.
+
+Hm. :)
+
+-towo
+-- 
+circa mea pectora multa sunt suspiria de tua pulchritudine que me ledunt misere
+tui lucent oculi sicut solis radii sicut splendor fulguris lucem donat tenebris

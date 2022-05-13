@@ -1,0 +1,7 @@
+"Rundablage" im Kontext Schreibtisch.
+
+
+Hau "Wenn der Router das mitmacht kommt da noch ein kleine 60er Platte
+rein" ke
+-- 
+Overflow on /dev/null, please empty the bit bucket.

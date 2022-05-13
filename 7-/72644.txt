@@ -1,0 +1,48 @@
+Am Fri, 18. 04. 23 sendete Theo Winterberger folgende Botschaft:
+
+
+Dann entfern wenigstens nach dem Essen die Beine aus deinen Zähnen, das
+zieht ja ekelhaft aus.
+
+
+Ein Grund mehr es nicht zutun.
+
+
+Doch. Alleine das verzichten auf nls bringt einige MBs. 
+
+Meine basissystem, mit nls (lfs+netzwerk+sshd):
+
+#v+
+felix: /pub/linux/lfs$du -h lfs.base.non-striped.i586.2001-27-15.tar.bz2
+32M     lfs.base.non-striped.i586.2001-27-15.tar.bz2
+21:57:27 /usr/src/base#du -sch
+149M    .
+149M    total
+#v-
+
+Ok würde mit servern wohl auch ~200MB sein. Ich wüsste nurmal gerne
+wieso ich jetzt ~900MB /usr habe. Hmm ich sollte vielleicht mal mozilla
+löschen, der ist eh zu lahm für meine Kiste. Bringt auch nicht viel.
+
+39M     /usr/X11R6
+107M    /usr/lib
+28M     /usr/netscape
+17M     /usr/samba
+299M    /usr/share
+71M     /usr/share/doc
+43M     /usr/share/doc/rfc
+137M    /usr/share/texmf
+
+Übel. Wirklich Übel.
+
+
+Ich sprach nicht ohne Grund von luxeriös ausgestattet. Und wenn du mehr
+als ein Gateway willst wieso 
+
+Tschüs
+  Günther
+-- 
+Die Weisheiten des Volkert Valentino: #6
+
+Am Jelpke Bahnhof haben sie zwar eine Tür geöffnet,
+aber dafür sind die Strassen dicht.

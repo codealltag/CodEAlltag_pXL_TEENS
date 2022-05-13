@@ -1,0 +1,9 @@
+Wenn man die culiente-Plattformen einzeln zählt, muß man zB auch die
+UNIX-Plattformen einzeln zählen. Der prozentuale Anteil der
+Plattformen, für die Südrad Office verfügbar ist, wird dadurch garantiert
+nicht steigen 8-)
+
+Viele Größe,
+     Roger Schittkäker
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

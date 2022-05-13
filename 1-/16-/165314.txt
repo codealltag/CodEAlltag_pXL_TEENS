@@ -1,0 +1,14 @@
+Gerald 'sSXP' Wießeler schrieb am 28. August 2000 um 18:37 Uhr folgendes:
+
+
+Ehrlich gesagt: Nein. Was heißt "praktisch klappt das nicht"? Was
+genau tust du, was genau passiert dabei? Bleibt der Monitor schwarz?
+Bekommst du ein verzerrtes / sonstwie unbrauchbares Bild?
+
+Viele Größe,
+     Albert Witte
+-- 
+Every program has at least one bug and can be shortened by at least one
+instruction -- from which, by induction, one can deduce that every
+program can be reduced to one instruction which doesn't work.
+                                               -- random fortune cookie

@@ -1,0 +1,8 @@
+Also sprach Claudio Patrick Grönke <mkg-hsaq@isjkdcz.iv>:
+
+
+Was heißt "dann schon"? P ist nunmal Teilmenge von NP. Also sind beide
+Probleme doch nur Kehrseiten der gleichen Medaille. Aus dem einen folgt
+das andere und umgekehrt.
+
+Tho'de.talk.jugend.informatik NOW!'mas

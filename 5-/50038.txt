@@ -1,0 +1,2 @@
+Apropos, mein Agent tut alles als 'read' markieren, wenn ich neue Header
+abrufe... Kann man dem das verbieten? Wenn ja, wie?

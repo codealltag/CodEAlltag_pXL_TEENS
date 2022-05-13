@@ -1,0 +1,34 @@
+Damit habe ich tatsächlich meine ersten Versuche im Usenet gemacht...
+(*mit Schaudern zur�ckdenk*) Allerdings habe ich dann doch recht
+schnell den Free Agent entdeckt.
+
+
+Zustimmung ;->
+
+
+Threading != Baumdarstellung, aber egal.
+
+
+OK, ich gebe zu, daß ich relativ lange suchen mußte, bis ich eine
+Schrift gefunden hatte, die all meinen Anforderungen entsprach
+(Umlaute und Sonderzeichen, ASCII-Kästchen, nicht zu verschnörkelt,
+nicht klobig). Jetzt bin ich aber ziemlich zufrieden damit.
+
+
+Ich habe mir schon länger vorgenommen, mir zusätzlich ein Makro zu
+schreiben, das beim Antworten automatisch ausgeführt wird und mich
+warnt, falls ein F'up2 gesetzt ist, aber irgendwie war es mir noch
+nicht wichtig genug.
+
+
+Agree. Mein Mailclient kann das (nach beliebigen RegExps Strings in
+den Headern / im Body farblich hervorheben, sehr flexibel), mein
+Newsreader leider (noch) nicht. Ist halt noch im Beta-Stadium.
+
+
+Hast Du aber einen empfindlichen Magen ;-)
+
+Viele Größe,
+     Hannes Zumholte
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

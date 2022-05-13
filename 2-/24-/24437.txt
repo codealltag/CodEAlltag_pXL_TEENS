@@ -1,0 +1,21 @@
+Am Montag jodelte Florian Krahe:
+
+
+Das ist kein Problem von Gnus, sondern von XEmacs. Der beherrscht bis
+heute keine Mule unter Windows, man programmiert da schon sehr lange
+dran rum, [1] aber kriegt es aus einem mir unerfindlichen Grund nicht
+fertig ein Release zu veröffentlichen. ;-/
+
+
+Damit solltest du dich aber auch nicht so weit aus dem Fenster
+lehnen. ;-) 
+
+Urs
+
+Footnotes: 
+[1]  <nuo6f07f.mfg@ornctj22.jmhscqlz.da-bymzgu.dy>
+-- 
+Bitte machen Sie folgenden Zusatz zu mienem Testament: Ich mag nichts wissen
+von der Neuerung der Leichenverbrennung. Ich will einmal begraben sein, wie
+ich's von Jugend an gewohnt bin.
+                                   - Helga Feichtmayer am 24.04.1911 an Ihren Notar

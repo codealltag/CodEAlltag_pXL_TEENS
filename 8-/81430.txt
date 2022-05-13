@@ -1,0 +1,18 @@
+Am Thu, 5 Apr 2001 sendete Bernd Trahn folgende Botschaft:
+
+
+Welcher Punkt?
+
+#v+
+15:36:49 ~$echo ' !krank'|perl -pe 's/^/noch /'
+noch  !krank
+15:36:53 ~$echo ' !krank'|perl -pe 's/^\s+/noch /'
+noch !krank
+#v-
+
+Tschüs
+  Samuel
+-- 
+Die Weisheiten des Gianni Gottfried: #1
+
+Die Jup ist nicht zum schlafen da.

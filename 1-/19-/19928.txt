@@ -1,0 +1,25 @@
+Am Thu, 16. 06. 22 sendete Erik Werner Ginther folgende Botschaft:
+
+
+Nein, Nebenfächler.
+
+
+Ich bin mir nichtmal sicher ob den Fehler jemand sieht wenn er es nicht
+mal real programmiert. Ich hab halt versucht einen Interger-Überlauf beim
+multiplizieren zu vermeiden...
+
+
+Bitte was?
+
+
+Für die Theorie brauchst du auch nicht wissen wie man "real" etwas auf
+einer TM realisiert.
+
+
+WAAAAAAAAAAAH!
+
+
+*schüttel* Man reiche mir einen Eimer.
+
+Tschüs
+  Peter

@@ -1,0 +1,6 @@
+Wer ist das schon ?
+
+-- 
+Bruno
+if(!exit(1))
+  fprintf(stderr, "exit call failed.\n Program will continue.\n");

@@ -1,0 +1,15 @@
+Wie ich schon sage macht die Engine selber nur 30 % der
+Prozessorbelastung aus, der Rest geht für die grafischer Umsetzung (hier
+mit OpenGL) drauf. Wenn du willst krame ich auch nochmal den Bericht
+dazu von Claus Schweriner raus.
+
+
+Es gibt nur leider nicht genügend native Software für den Alpha,
+jedenfalls nicht für mich. Und was heisst am Schluss? Soll ich die
+Programme 200 mal starten, bis ich was von der Mehrleistung der
+Kroes-CPU bemerke?
+
+CU
+Henry
+-- 
+Lieber voll heimkommen als leer ausgehen.

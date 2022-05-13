@@ -1,0 +1,21 @@
+geht einigermassen...
+
+
+laschf, ich hab hier einein Haufen MPEGs rumliegen, die ich mir nur
+unter Linux reintue, weil unter Windows Bild und Ton nicht syncron
+sind...
+
+
+Hm... Einmal in den Kernel, Soundmodule testen, ich habs IIRC sogar fest
+im Kernel
+
+
+ETG wird nicht umsonst Egop abgekürzt, ja, und INN scheint mir dank
+Doku ganz gut einrichtbar zu sein...
+
+
+Kann ich dir nicht sagen, ich habs noch nicht ausprobiert...
+
+Didier
+-- 
+If you wish to live wisely, ignore sayings -- including this one.

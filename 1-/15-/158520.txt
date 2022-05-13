@@ -1,0 +1,20 @@
+Holger Dreßel schrieb am 18. Juni 2000 um 21:49 Uhr folgendes:
+
+
+Dann sollte er eigentlich auch auf Feedback reagieren, sonst verlassen
+ihn uU nicht "nur" die User, sondern auch sein Arbeitgeber.
+
+
+Och, dahin wäre es von slrn+ eigentlich nur noch ein kleiner Schritt.
+Im Moment spiele ich aber mit dem Gedanken, ein wenig Arbeit in pan zu
+investieren; nach einem ersten kurzen Antesten macht er den Eindruck,
+als könnte er innerhalb von ein paar Monaten zum ersten richtig
+brauchbaren GUI-Newsreader unter Linux werden und die Entwickler
+scheinen auch recht aktiv zu sein ...
+
+Viele Größe,
+     Albin Dees
+-- 
+Q: Is C an acronym?
+A: Yes, it stands for ``C''.  It's another of those funky recursive acronyms.
+                  -- comp.lang.c Answers to Infrequently Asked Questions

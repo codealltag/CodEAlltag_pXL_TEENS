@@ -1,0 +1,7 @@
+PC zu langsam?
+
+Gunter
+
+-- 
+  "Beim Speichern der Änderungen ist der folgende Fehler aufgetreten:
+   Der Vorgang wurde ausgeführt."

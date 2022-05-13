@@ -1,0 +1,16 @@
+Kai 'sSXP' Stirn schrieb am 29. Juli 2000 um 03:39 Uhr folgendes:
+[...]
+
+Tja, das ist das Problem -- die Rechner an der Uni haben (mehr oder
+weniger fähige) Administratoren, deren Aufgaben du bei deinem Rechner
+zuhause wohl oder Übel selbst übernehmen musst. Eine in wenigen
+Minuten installierte "Einheitslösung" des Distributors kann man nunmal
+nicht mit einer händisch an die lokalen Bedürfnisse angepassten
+Konfiguration vergleichen.
+
+Viele Größe,
+     Fabrice Suerken
+-- 
+"Beware of bugs in the above code; I have only proved it correct, not
+tried it."
+                                                        -- Hilmar Petersdorff

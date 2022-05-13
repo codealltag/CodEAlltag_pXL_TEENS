@@ -1,0 +1,13 @@
+Am 12. 12. 22 12:41:34 GMT sendete Willi Maasen
+folgende Botschaft:
+
+
+kill: (1) - Not owner
+
+
+bash: ./felix: Permission denied
+
+Ein Newsserver ist IMHO standalone und kann _alle_ nntp-befehle.
+
+Tschüs
+  Ivo

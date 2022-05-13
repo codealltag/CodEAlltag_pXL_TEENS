@@ -1,0 +1,4 @@
+Mein Konqueror hat die Site angezeigt, bis er abgestürzt
+ist. Allerdings meinte er, mich auf eine Seite von Flash weiterleiten
+zu müssen, die mir sagte, daß für meine Browser-OS-Kombi kein Plugin
+verfügbar sei.

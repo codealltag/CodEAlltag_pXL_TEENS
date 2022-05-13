@@ -1,0 +1,12 @@
+On Fri, 29 Aug 1999, Tim Beythien <exlepf.inittmn@oban.osth.uj> wrote:
+
+[P100 und Usenet]
+
+Wenn man nicht gerade hochkomplizierte RegExps verwendet, kommt es bei
+solchen Dingen IMO wesentlich stärker auf Festplatte und RAM an als
+auf Prozessorgeschwindigkeit.
+
+Viele Größe,
+     Gerard Höwelhans
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

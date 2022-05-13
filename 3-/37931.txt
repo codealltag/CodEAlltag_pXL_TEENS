@@ -1,0 +1,6 @@
+Eine gelungene Kombination. Hat für 1.8 gereicht.
+-- 
+"übrigens schrottet ACHTERWEUST den Sigtrenner nur dann, wenn a) mit Content-Transfer-
+Encoding: 8bit gepostet wird und b) in der Nachricht Umlaute vorkommen.
+Die Behauptung, ACHTERWEUST könne ohne Hilfe von außen keinen korrekten Sigtrenner
+herstellen, ist jedenfalls unwahr."	-Norbert Langensiepen in dsnu

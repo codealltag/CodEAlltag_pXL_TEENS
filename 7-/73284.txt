@@ -1,0 +1,7 @@
+Geschickte Taktik... Worum gings? Aber bis zur Klärung: Bestimmt.
+
+Ullrich
+-- 
+a + b = c [Pythagoras]
+E = m*c [Einstein]
+=> E = m*(a + b)

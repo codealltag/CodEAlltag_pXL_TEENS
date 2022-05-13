@@ -1,0 +1,13 @@
+Wie kann ich meinen INN dazu überreden, den FQDN anzunehmen? Ein
+Eintrag in der inn.conf nützt nichts.
+
+Fragt mich jetzt bitte nicht, was das heißt, wurde mir so in den Mund
+gelegt.
+
+
+-- 
+Ich.
+
+aige.ymxhxdmd@pxx.co
+
++++ Wer Rechtschreibfehler findet, darf sie behalten +++

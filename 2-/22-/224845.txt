@@ -1,0 +1,8 @@
+machst du nightly builds per cronjob? ;-)
+
+mfg
+    steffen
+
+-- 
+Steffen Neureuther  -  eMail: mdderp@dgq.saapf.dw
+IRCNet: ^Spooky    -         fydjko@nci.lbghaoqb.zi

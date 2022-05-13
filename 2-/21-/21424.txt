@@ -1,0 +1,22 @@
+Und so sprach Darius Fusswinkel:
+
+
+Ne, aber nen tollen Kumpel. :-)
+
+
+Das habe ich mir eben schon um 9 gedacht. :)
+
+
+Das haben Pläne so an sich. ;)
+
+
+Argh. Ich werde dabei immer zum Heilmachen herbestellt. ;)
+
+
+Selbst ist der Lötkolben. :-)
+
+Luis
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.e

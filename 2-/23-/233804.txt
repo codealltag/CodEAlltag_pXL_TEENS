@@ -1,0 +1,16 @@
+Man kann den Linux-Kernel halt auch ohne Netzwerkfähigkeit backen
+(BTW auch auf standalone-Rechnern *nicht* empfehlenswert).
+
+
+Möglich, daß das mit MuLinux auch geht. Es ist aber nicht so gedacht -
+MadTeam ist völlig darauf ausgerichtet, aus leistungsschwachen
+Rechnern noch benutzbare Clients zu machen.
+
+[CWN]
+
+halt?
+
+Viele Größe,
+     Ulfert Ittensohn
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

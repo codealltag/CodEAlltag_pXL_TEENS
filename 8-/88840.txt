@@ -1,0 +1,13 @@
+[...]
+
+Nicht im slrn. Da ist das etwas komplizierter, weil er die Signatur
+aus einem Sig-File holt und dabei den Sig-Trenner automatisch anfügt.
+Du könntest also deinen Namen *in* der Sig darstellen, aber wer will das
+schon?
+
+Bodo
+
+-- 
+{ - Geschweifte Klammer auf
+0 - Null (eine Zahl vor 1)
+= - Gleichzeichen

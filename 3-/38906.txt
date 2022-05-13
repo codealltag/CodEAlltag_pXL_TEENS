@@ -1,0 +1,11 @@
+gender($oj) == weiblich ? "[x] Send PIGS!!!1" : "Erzähl mal.";
+
+
+Wie schön. Aus dir wird auch mal etwas ganz besonderes.
+
+-towo
+-- 
+Warum wird eigentlich zunehmend das gute Usenetprinzip "Keiner hat
+Anspruch darauf, von jedem gelesen zu werden." in Richtung "Ich darf
+jeden Bl�dfug schreiben, weil's eh ja keiner Lesen *muß*" mißbraucht?
+- Fred M. Altvater in pehautq.fi.dgrh

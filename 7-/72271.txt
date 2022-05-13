@@ -1,0 +1,16 @@
+(* Otto Petter wrote: *)
+
+
+Ja so wie diese hier :
+
+<HTML>
+  <BODY>
+    <P>Ich bin eine ganz einfache Seite</P>
+  </BODY
+</HTML>
+
+
+Ich schon. Sobald du ein halbwegs größeres Projekt hast und versuchst da 
+ohne CSS zu arbeiten wirst du mir recht geben.
+
+Italo

@@ -1,0 +1,9 @@
+man fiktive Filmfigur
+
+t|a
+
+-- 
+  /"\
+  \ /  ASCII ribbon campaign
+   X       against HTML
+  / \    in mail and news

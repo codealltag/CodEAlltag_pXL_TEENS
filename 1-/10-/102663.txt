@@ -1,0 +1,11 @@
+Ist auch gut so.
+
+
+Wie stabil läuft bei dir der 2. IDE-Kanal? Meine viel bis zur 1005er
+BIOS-Version einmal die Woche aus...
+
+Bernhard
+-- 
+Wie jagt man einen Elefanten - Teil 3:
+LISP-Programmierer bauen einen Irrgarten aus Klammern und hoffen,
+dass sich der Elefant darin verirrt...

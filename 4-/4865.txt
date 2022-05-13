@@ -1,0 +1,4 @@
+rar, tar.gz, tar.bz2.
+-- 
+mfg, 
+	Fredi

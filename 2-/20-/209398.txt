@@ -1,0 +1,30 @@
+Hamster ist ein lokaler News- und Mailserver (naja, der Mailteil braucht
+noch etwas Schliff) unter Windows 95/98/NT. Er kann Newsgroups von
+beliebig vielen Newsservern holen (auch dieselbe von mehreren, um
+Lücken/Ausfälle zu überbrücken) und dann lokal bereitstellen, dito für
+Mail. Ist noch BETA, aber stabiler als unter Win für Release-Software
+üblich (sprich: keine größeren Bugs (mehr), läuft ohne Abstürze). Eine
+Steuerung ist "von Hand" möglich, genauso allerdings auch per OLE und
+entsprechenden Skripts (Windows Scripting Host oder PERL). Eine Scorefile
+mit RegExp ist natürlich auch dabei.
+
+Hamster ist (und bleibt) Freeware, Autor ist Reinhold Wonneberger (Agent-Nutzern
+vielleicht schon durch diverse Tools wie das auch hier für Statistiken
+beliebte Agent-Find bekannt). Support erfolgt über eine Mailingliste; die
+Help-Files sind zwar englisch und knapp, enthalten aber alles wesentliche.
+Installation und Bedienung ist einfach und fehlertolerant (sprich, wenn es
+einem zu umständlich wird, kann manch auch direkt in den Ini-Files
+rumhampeln; die sind im Klartext und in der Struktur leicht verständlich).
+Im übrigen braucht Hamster dankenswerterweise *keine* Registry-Einträge.
+
+
+http://blogkmt.qxsk.iuwyl.ll/
+
+Gruß,
+Gustav
+
+PS: Damit bleibt Zoohandlung natürlich ein Online-Reader; das macht aber nix,
+weil Hamster als der dazugehörige Newsserver auf Deinem Rechner läuft. Die
+News werden dann über den Hamster vom (oder von den) externen
+Newsserver(n) geholt, danach gehst Du offline und greifst mit X-News auf
+Hamster zu. Klappt wunderbarlich.

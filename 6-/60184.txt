@@ -1,0 +1,12 @@
+Nur recht wirkungslos. Als mir Herr G.V. letzens mal eine E-Mail
+sendete, hab ich mir diese extra mal in den OE [1] geladen. Keiner der
+Header zeigte eine Wirkung. Einzige was evtl. was bringen könnte, ist
+Mail-Priority, doch hat er da ein Leerzeichen am Ende zuviel.
+
+Tobias
+
+Footnotes: 
+[1]  Nicht schlagen dafür, danke.
+-- 
+Wer lesen kann, hat Vorteile gegenueber einem in Kaffee getunktem
+Toastbrot. (Uwe Allkofer)

@@ -1,0 +1,29 @@
+Domenico Drux meinte kundzutun:
+
+
+Ja.
+
+
+Symlinks sind fast dasselbe wie Verknüpfungen unter Windoof. Es steht
+einfach der Name drin wo der Link hinweist. Nur daß du z.B. ein directory
+linken kannst und dann auch wirklich "cd symlink" machen kannst.
+
+Hardlinks sind böse[tm]. *g* Damit kannst du nur Dateien linken und auch
+nur innerhalb eines filesystems. Durch Hadlinks wird der link Count im
+ersten Inode der Datei erhöht. Wenn du einen Hardlink löschst, wird der
+Link Count vermindert.[1] Wenn der Link count auf 0 fällt, ist die
+Inodekette als frei anzusehen.
+
+Also wenn du einen Symlink machst und die Datei löschst, bleibt der Link
+da aber rennt ins Nirvana. Wenn du einen Hardlink machst und die Datei
+löschst ist sie weiter über den Hardlink ereichbar.
+
+Igor
+
+
+[1] wollte eben schon erniedrigt schreiben.
+-- 
+Ich habe das Gefühl, wenn sie _das_ schaffen, [] daß die Welt in Trauer und 
+Entsetzen und Lähmung versinkt, wenn wir nicht mehr lachen können oder [] dr-
+fen, wenn wir nicht mehr kaspern können oder dürfen, dann haben diese Terror-
+risten es endgültig geschafft, die Welt zu zerstören. [Kirsten Lueddeckens in Webb]

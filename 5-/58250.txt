@@ -1,0 +1,7 @@
+Dann wären noch das schon erwähnte Pegelmaß, welches der Radio- und
+Fernsehelektroniker an der Antennendose mit z.B., und da wird als
+Bezugsgröße eben mal 1V (dann BV) und mal IIRC 200[m][1]V (dann dBa
+(oder wars dBA? Kommt jedenfalls von der Post)).
+
+Claus
+[1] Long, long ago...

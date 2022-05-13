@@ -1,0 +1,23 @@
+Ivano Tophinke schrieb am 02.04.2001:
+
+[Gnus Konfigurationsmarathon]
+
+Ich hab es mal übernommen, Danke
+Doch habe ich noch folgendes in der .gnus, scheint sehr zuverlässig zu
+funktionieren. 
+,----[ .gnus ] [1]
+`----
+
+
+Ach die 644 ist die Rechteangabe? Aber die von dir gepostete Einstellung
+scheint keinerlei Wirkung zu zeigen. *grübel*
+
+ Raphael
+
+Footnotes: 
+[1]  Die Boxquotes und Fußnoten auf Funktionstasten zu legen, war eine
+geniale Idee wie ich immer wieder feststelle ;-)
+
+-- 
+Arbeit in der Realität[tm] macht größenwahnsinnig, zynisch,
+konditioniert und irgendwann BUMM[tm]. (Gabriel Kastenlehner, 16.12.1999)

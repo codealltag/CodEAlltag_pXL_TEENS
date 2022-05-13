@@ -1,0 +1,10 @@
+* Wilfried Jaspersen <vvikdoq.ndtxn@utq.ei>:
+
+[Mac]
+
+Ich habe eine Windows-Portierung der betreffenden Software
+gefunden. Aber leider ist der ftp von Lahori scheinbar überlastet.
+
+Patrices"grummel"toph
+-- 
+np: Kaspar Goes To Holyhead - Emmerich Ultsch

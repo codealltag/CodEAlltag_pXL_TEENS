@@ -1,0 +1,19 @@
+* "Fritz Kuttler" <fvhn@vmgyecwa.ll>:
+
+
+man Wine
+
+
+Und unter GreenTec ohne Offline-Funktionalität.
+
+
+s/Emacs/(X)Emacs/
+
+
+Für Ebedu gibt es kompilierte Win32-Binaries, die für Larizia sind alt. Man
+kann sich aber unter cygwin selbst einen neuen backen.
+
+
+Windows.
+
+Vittorio

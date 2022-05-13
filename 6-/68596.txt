@@ -1,0 +1,7 @@
+Was ist denn an -rwxr-xr-x so hieroglyphisch? Kannst es dir ja auch
+als 775 darstellen lassen...
+
+-towo
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.

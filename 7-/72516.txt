@@ -1,0 +1,55 @@
+PI steht in diesem Fall fuer "provider indepenent". Ein Teil des
+IPv4-Adressraumes ist Providern zugeordnet. Wenn Du also ein kleines
+Subnetz konnektierst, dann sind das i.a. IPs aus dem Pool Deines
+Providers. Nun gibt es auch IP-Adressbereiche, die unabhaengig von
+irgendwelchen Providern sind. Und wenn Du so einen Bereich hast,
+dann nutzt das nicht unbedingt viel (ok, es sei denn, er ist gross
+genug und Deine Firma/Einrichtung ist gross genug), da es fuer
+einen Provider einen nicht unerheblichen Konfigurationsaufwand
+darstellt, und je nach Groesse (z.b. /24 == das, was frueher C-Netz
+hiess) nicht gerne gesehen wird.
+
+Hinweis: die nachfolgenden Erklaerungen sind prinipieller Natur und
+damit technisch nicht zwangsweise ganz richtig, aber ich will hier
+nicht den ganzen Tag sitzen ;-)
+
+
+BGP = Border Gateway Protokoll.
+
+Dieses Protokoll wird vor allem verwendet, um Routinginformationen 
+zwischen den Gateways von ASen auszutauschen.
+
+
+AS = Autonomes System
+
+Es handelt sich um einen Verbund von Routern, Gateways und evtl.
+Rechnern, die mehr als eine Verbindung zu anderen Beteiligten im
+Internet haben.
+
+Typisches Beispiel ist ein ISP mit mehreren Verbindungen 
+(Uplinks) zu anderen ISPs.
+
+Wenn ich mein /24-PI verwenden will, muss ich das meinem
+ISP sagen. In den Routern seines AS traegt er nun ein, das
+dieses /24er-Netz ueber ihn geroutet wird. Mittels des BGP-
+Protokolls gibt er diese Information an Router seiner Uplinks
+bekannt (der Eintrag auf den Routern fuer mein /24er ist dann 
+ein sog. Prefix). Die Router bei den Uplinks verteilen die
+Information weiter. Im Endeffekt muss jeder Router auf der
+ganzen Welt die Routinginformation fuer mein /24er Netz haben.
+
+Ganz anders ist es, wenn ich einen IP-Bereich aus dem Pool
+meines Providers verwende, weil dafuer keinerlei Routinginfor-
+mationen ausserhalb meines ISP zu aendern sind, denn er hat 
+ja schon bekanntgegeben, welches sein IP-Bereich ist, der
+ueber ihn zu routen ist.
+
+Es ist wohl klar, dass ein Router umso mehr zu schaffen hat,
+je mehr einzelne Routinginformationen (Prefixe) er hat. Und
+da die /24er die absolut groesste Menge an Prefixen darstellen 
+und die Router ins Schwitzen bringen, ueberlegen halt einige 
+Routerbetreiber, dieses "Kleinzeugs" nicht mehr zu verarbeiten.
+
+Ich hoffe, ich konnte das jetzt etwas verstaendlich machen.
+
+Luis

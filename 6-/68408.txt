@@ -1,0 +1,24 @@
+Solches tippte Kaspar Drechsel:
+[Per .htaccess geschütztes Archiv mit einer U/P-Kombination in
+PHP-Seiten mit vielen U/P-Kombinationen einbauen]
+
+
+Kann PHP nicht die Links automatisch verbiegen, sofern Du keine
+absoluten URLs verwendest, Stichwort --enable-trans-sid? Und mit
+session.auto_start müßtest Du auch einen automagischen Start der
+Session hinbekommen.
+
+
+Du könntest den Inhalt der Seite erst in PHP laden lassen und die Links
+passend verbiegen. Performancem��ig IMHO ein Graus.
+
+
+Das ist noch der einfachste Teil des Problems. Schau Dir mal swish++
+an, das ist auf sowas gewissermaßen spezialisiert.
+<URL:http://ooxyamep.srp.sgj/xnbmiekjqs/rhenzbib/ffmgb/yplffuec.vgia#gpgm_izzt>
+
+Massimo
+-- 
+Mathias Jarasch -> <GPG-Key:http://yux.nefylgam-hsakxov.ya/qjl.aqklh>
+--------------> Fachlexika-Portal: <URL:http://tpqffbo.yiu-danqixg.lz>
+---------> Wortschatz-Lexikon:  <URL:http://asjoatftwn.qam-ohfklyr.xj>

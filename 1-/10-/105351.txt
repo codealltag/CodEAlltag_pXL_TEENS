@@ -1,0 +1,9 @@
+* August Cuntz <wvcuopm291168@qyvfrl.es-e.gv>:
+
+
+slrn auf jeden Fall (da gibt es kompilierte Win32-Versionen). Und mutt
+sollte sich notfalls unter cygwin kompilieren lassen.
+
+Ludwig
+-- 
+cross veinless

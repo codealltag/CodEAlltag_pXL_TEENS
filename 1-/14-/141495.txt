@@ -1,0 +1,5 @@
+Der PC selbst braucht nur ~80 Watt, die restlichen ~120 sind der Moni.
+
+
+Hat Standby und alles, aber ich schalt ihn normalerweise ganz aus wenn 
+ich ihn nicht brauche.

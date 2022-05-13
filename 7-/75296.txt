@@ -1,0 +1,11 @@
+Vito Grafweg hat geschrieben getan getutet:
+
+
+Depends on dependencies.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Olivier 'ingmar' Fleischle in ro.qkj.iudpjmax.moozmkjy

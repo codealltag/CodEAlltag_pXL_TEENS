@@ -1,0 +1,10 @@
+Nein. Das liegt am schönen Wetter, unter dem Einfluss der Wärme ist
+der kleine Abstand grösser geworden.
+
+
+Und ich vertraue den Sites, die den patch anbieten, insbes, wenn es
+sich um kernel.org handelt :-)
+
+Robert
+-- 
+Overflow on /dev/null, please empty the bit bucket.

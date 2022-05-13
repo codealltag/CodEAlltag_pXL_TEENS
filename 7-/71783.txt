@@ -1,0 +1,8 @@
+(* Gregor Strothe wrote: *)
+
+
+Es stand geschrieben:
+
+                          ^^^^^^^^^                            ^^^^^^^
+
+Siegfried

@@ -1,0 +1,11 @@
+Delphi ist auch sehr gut. Grund ist schon alleine die Möglichkeit standalone
+EXE-Dateien zu kompilieren, was besser für kleinere Tools ist.
+
+Frage: Wieso hast Du mit VB aufgehört und in die Ecke geschmissen? Was
+bringt Dir Delphi mehr?
+
+
+Leute die keine Ahnung haben und sich nicht ernsthaft mit diesen Themen
+auseinander gesetzt haben, die lachen.
+
+Carlos Böckelmann

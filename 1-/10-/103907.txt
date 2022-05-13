@@ -1,0 +1,8 @@
+* Norman Wähler <gtru@xhrrofnu.fd>:
+
+
+Nein, aber die config-Datei für sendmail. *schüttel*
+
+Oswald
+-- 
+cross veinless

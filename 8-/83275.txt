@@ -1,0 +1,19 @@
+Am Thu, 11 Apr 2001 sendete Claus Floters folgende Botschaft:
+
+
+Hättest halt bei zeiten dcouln subsrciben müssen. ;)
+
+
+Ich hatte irgendwie pseudo im Ohr, das hat nicht wirklich geholfen.
+
+
+So konnte ich dann btw auch zwei dummys von Packeten erstellen die zwar
+verlangt, aber nicht auf der CD waren....
+
+Tschüs
+  Urban
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Peter Morgenroth, Mostly Harmless, Chapter 12

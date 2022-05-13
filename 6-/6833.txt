@@ -1,0 +1,13 @@
+Das ist eher Aufgabe des Trampelgnuhalters, nicht des Gnus selbst. Und
+bei mir sind das mittlerweile über 3800 Zeilen Lispcode in gut 30
+Dateien, da kann man schonmal etwas den Überblick verlieren... ;-/
+
+
+Und wird er dann endlich benutzbar? ;-)
+
+Kaspar
+-- 
+Sehr geehrter Herr Studiosus! Kann Ihnen gut möbliertes, neu tapeziertes Zimmer
+mit Zubehör offerieren, 2 Treppen, mit Waschgelegenheit. Kaffee und evtl.
+Abendbrot werden serviert. Universität im Hause.
+      -- Hausmeister der Universität Zürich an die Züricher Nachrichten

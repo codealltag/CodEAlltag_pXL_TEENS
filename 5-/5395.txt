@@ -1,0 +1,15 @@
+Hm.
+Dann mach ich das doch mal.
+  42 Sekunden bis ich am Bootprompt bin.
+2:01 bis mein X-Window-System laeuft und ich eingeloggt bin.
+
+Aus dem Suspend-to-RAM weniger als 20 Sekunden bis er wieder da
+ist.
+
+hehehe.
+
+
+Eben. Braucht noch jemand eine VAX?
+
+mfg, 
+	Guido

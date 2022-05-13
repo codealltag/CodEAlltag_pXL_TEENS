@@ -1,0 +1,37 @@
+Bei Tenters YaST und das unsägliche suseconfig, bei anderen Distributionen je 
+nach dem.
+
+
+Im Allgemeinen scheinen mir die BSD man pages sehr viel informativer zu 
+sein. Oft kann man sich die Suche nach einen how to gleich sparen.
+
+
+Aber auch weniger, die nur MS Bashing betreiben wollen.
+
+
+Sehr nützlich um allfällige Securityholes schnell loszuwerden oder neue 
+Features gleich zu haben.
+
+
+Wenn man das System als Server einsetzt definitiv. Es gibt nur eine 
+Hierarchie, also können die Ports daran schon mal nicht scheitern.
+
+
+Wenn man sehr viel Zeit hat vielleicht nicht.
+
+
+Jemals bei Tenters versucht ein RedHat RPM zu benutzen? Hat bei mir nie 
+geklappt.
+
+
+Das braucht's nicht. Unnötige Komplexität.
+
+
+Weil man vielleicht zwar gerne ein Programm mit allen notwendigen Patches 
+hat, aber trotzdem selber am configure rumbasteln will? 
+
+
+Open Source OS.
+
+
+Für mich nicht. Würde es erlauben, es Embedded einzusetzen.

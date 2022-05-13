@@ -1,0 +1,4 @@
+Hm. Mir würden momentan schon 2 Threads/Server reichen um alle meine NGS
+gleichzeitig zu laden...
+
+Otmar

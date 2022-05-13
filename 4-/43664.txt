@@ -1,0 +1,31 @@
+Okay, good point. Das wäre wirklich schwierig.
+
+
+Vielleicht sollte man ein solches Tag einführen. :-)
+
+<nav>
+<p>Ich</p>
+<p>Bilder</p>
+<p>Downloads</p>
+<p>Links</p>
+</nav>
+
+Naja, ist wahrscheinlich Quatsch. Ich seh's ja ein.
+
+
+Wer den alten Somara nutzt, muss sich halt auch damit abfinden. Wenn
+eine Browser Schwierigkeiten mit Java-Script hat, ist das ja nicht
+wirklich schlimm, weil's eh in den meisten Fällen nur Spielerei ist.
+CSS allerdings *muss* einfach anständig unterstützt sein.
+
+
+Da gehts wirklich schneller, wenn man es komplett selbst schreibt. Und
+man gewinnt dabei gleich noch eine persönlichere Beziehung zu seiner
+Seite. :-)
+
+Jens
+
+-- 
+"Ohne den Mut verkleinern zu wollen, mit dem manche ihr Leben geopfert
+ haben, sollten wir auch jenen Mut nicht vergessen, mit dem andere ihr
+ Leben gelebt haben." (Björn Unhold)

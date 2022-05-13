@@ -1,0 +1,2 @@
+Nimm lieber die IPs die ich erwähnt hab. Die sind speziell für lokale 
+Netzwerke reserviert.

@@ -1,0 +1,6 @@
+Ab 3.999 aufwärts
+
+  Do play wave "Dateiname der wav-Datei"
+
+So long,
+Ignaz N. Radicke

@@ -1,0 +1,14 @@
+Ja. Deshalb' hab' ich mich gleich mal rangemacht. Der erste Schritt dürfte  
+sein, Profile von allen Regulars zu erstellen, denn die auf deiner Seite  
+dürften unbrauchbar sein. Weil ich vermeiden will, das die jeder hier  
+reinpostet und es dann ellenslange Diskussionen gibt, hab' ich mal ein  
+Formular entworfen (http://xgcg.rbi.py/iwkco.rey). Problem ist nur, daß  
+ich kein CGI-Script zur Übermittlung an mich zusammenbekomme... (ja, das  
+ist eine Aufforderung, mir zu helfen!)
+
+Julius Goldhorn
+
+-- 
+Ich hasse Hinterholzer in allen Varianten.
+                                             E-Mail: pezaxd@zykiimseuo.wt
+---> Offizieller Kämpfer wider Pascal Andert des Ordens von dtju <---

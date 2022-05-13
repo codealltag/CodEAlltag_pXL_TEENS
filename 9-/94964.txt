@@ -1,0 +1,13 @@
+Laurent Dirx hat geschrieben getan getutet:
+
+
+Ich meinte das eher auf das Intelligenzniveau (ey, boa, PHP-Guestbook,
+hört sich cool an, drauf damit; mh, klappt nicht, mal den Typen nerven)
+bezogen.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Felix 'erhard' Kampfenkel in rr.zid.atgulfgf.tlipmiow

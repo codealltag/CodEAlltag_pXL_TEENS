@@ -1,0 +1,12 @@
+On Sat, 10 Mrz 1998, Carlos Ullrich <jhznlct_duxyzfb@wgl.se> wrote:
+
+[INN + slrn = online-reading]
+
+Es ist aber ein (in der Bedienung spürbarer) Unterschied, ob ich slrn
+als Online- oder als Offline-Reader betreibe - eben deshalb benutze
+ich ihn online mit dem lokalen INN.
+
+Viele Größe,
+     Engelbert Ingenhaag
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

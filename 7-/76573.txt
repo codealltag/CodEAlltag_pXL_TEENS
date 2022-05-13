@@ -1,0 +1,7 @@
+Solches tippte Dirk Ops:
+[cron]
+
+Wenn nicht MAILTO gesetzt ist, ja. Aber die Mail von root wird ja
+normalerweise eh einem User zugeschlagen.
+
+Niclas

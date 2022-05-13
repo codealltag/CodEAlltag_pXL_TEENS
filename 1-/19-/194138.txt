@@ -1,0 +1,12 @@
+Aber das Teil reagiert AFAIK allergisch auf EMS.
+Mit dem alten DOS 6.X war das noch kein Problem, aber DOS 7.X frißt
+verdammt viel RAM.
+
+
+Auja, noch alles unter Kontrolle, kein Registries, da wußte man noch
+genau was man hat. :-)
+
+CU
+Alfred
+-- 
+Was man im Zug Überfüllung nennt, ist in der Kneipe Atmosphäre.

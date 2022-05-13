@@ -1,0 +1,14 @@
+Marco Niehuisen schrieb am 31. Juli 2000 um 22:34 Uhr folgendes:
+
+[...]
+
+Statt Netzwerk? Schießen -> speichern -> Diskette zum anderen Rechner
+rübertragen -> laden -> schauen, ob man getroffen hat? :-)
+
+Viele Größe,
+     Dennis Kirchbeck
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

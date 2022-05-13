@@ -1,0 +1,18 @@
+brrrr liebe mitlebenden! hallo counterstriker! hi pots! hola kamele!
+
+"Charly Brokemper" <cbnk@tsdxpxxj.ck> brrrrte folgendes von sich:
+
+
+Argh!
+
+Sieht etwa so aus:
+<style>
+A:HOVER {font: blablabla; color: blablabla;}
+BODY    {background-color: blabla; size: blabla;}
+</style>
+
+und ist HTML-Standard..
+
+-- 
+Wissen ist Macht,
+Nichts wissen macht nichts.

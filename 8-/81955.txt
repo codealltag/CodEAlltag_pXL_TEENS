@@ -1,0 +1,14 @@
+* Giuseppe Imroth <jnuzjpscb.qiyopb@ywpapezv.cn>:
+
+
+Ach so.
+
+
+(global-set-key [f11] 'gnus-smiley-display)
+
+
+Du benutzt ja nicht mal einen Editor. Wie soll ich da Witze machen?
+
+Denis"gemein!"toph
+-- 
+np: Limp Bizkit - Sophie

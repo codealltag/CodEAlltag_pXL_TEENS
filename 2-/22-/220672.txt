@@ -1,0 +1,11 @@
+Du kennst Dich halt in dem komischen linux-Dateisystem aus. Wenn man
+neu ist, steht man davor mit offenen Mund, selbst mit jahrelangen
+DOS/Schmuckgalerie-Kenntnissen. Die Ansammlung von Verzeichnissen, von dennen
+manche Laufwerke sind und so... Das dauert, bis man dahinter ist. Ich
+bins noch nicht. :)
+Dann kann eben auch so eine Inkoop-Installation "amoklaufen".
+
+C Ya,
+Olaf
+-- 
+No problem is so formidable that you can't just walk away from it.

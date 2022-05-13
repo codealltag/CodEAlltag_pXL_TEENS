@@ -1,0 +1,11 @@
+Hm... Warte mal... In den message-utils.el steht doch drin, wie das
+Subject automatisch um den (was:...)-Teil gekürzt wird. Damit sollte
+man doch im Prinzip auch einen String "Einheitssubject (was:
+$Altes_Subject_ohne_Re:" bauen können, und dann noch prüfen, ob das
+Subject gleich "Einheitssubject" ist. Wenn ja, nix tun, und wenn nein,
+dann halt ändern...
+
+Oskar
+-- 
+Wenn der Schutzmann die Arme gespreizt hat, will er damit verkünden, dass
+er keinen fahren lässt, weder von vorne, noch von hinten.

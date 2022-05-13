@@ -1,0 +1,5 @@
+Hm. RFC-gemäß kommt der Autor in den From:-, der technische Poster in den
+Sender:-Header.
+
+Gruß,
+Udo

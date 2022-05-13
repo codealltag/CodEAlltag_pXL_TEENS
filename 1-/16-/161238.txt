@@ -1,0 +1,12 @@
+Johannes Pfäffel schrieb am 20. April 2000 um 06:35 Uhr folgendes:
+[Newsreader konfigurieren]
+
+Wozu? Realname und E-Mail-Adresse können auf einem vernünftig
+gewarteten UNIX-System automatisch ermittelt werden, Kleinigkeiten wie
+Sigdashes, MIME-Deklarierung usw. sind bei den gängigen Readern
+selbstverständlich.
+
+Viele Größe,
+     Thorsten Peimann
+-- 
+All true wisdom is found in signature files.

@@ -1,0 +1,22 @@
+Am Fri, 31 Okt 2001 sendete Fredy Höchtel folgende Botschaft:
+
+
+Ich sag doch, das entsprechende Wissen ist verdrängt.
+
+
+Nix Länge, nix Querschnitt. Der spezifische Widerstand ist der
+Widerstand den ein Stoff bei einem Querschnitt von 1 mm und einer
+Länge von 1m hat.
+
+
+Irrelevant nicht wirklich. Er steck IIRC Wellenwiederstand mit drin.   
+
+
+s/Video/Koax/ Ich glaube die 90 Ohm war bei RG58.
+
+Tschüs
+  Raymond
+-- 
+Die � Weisheiten des Bernard Bernard:
+
+Vorstand Raus.

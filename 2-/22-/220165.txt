@@ -1,0 +1,9 @@
+Das BIOS liegt IIRC auch im ROM.
+Dadurch, dass erst jedes Teil einzeln ueberprueft wird, braucht ein
+  PC trotzdem mehrere Sekunden, bis das OS ueberhaupt aufgerufen wird.
+Der C64 war aber 'sofort da'.   :-)
+
+-- 
+Guido
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

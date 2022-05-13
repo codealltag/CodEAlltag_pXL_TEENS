@@ -1,0 +1,13 @@
+Naja, beim Rudern gibt es Riemen- und Skull-Boote. Beim Skullen hat
+jeder Ruderer im Boot zwei Ruder (=Skulls) in der Hand und beim Riemen
+nur ein Ruder (=Riemen).
+Also sieht ein Doppelvierer (Skull) so aus:
+     -=o=o=o=o=-       (4x-)
+Und ein Vierer (Riemen) so:
+     -=o=o=o=o=-       (4-)
+HTH
+Bo"ASCII rulez"je
+
+-- 
+Was ist ein Vader?
+(Günter W. Johannsmeier in daf)

@@ -1,0 +1,9 @@
+Ich weiß. Meine Mutter hat aber eben ein wenig seltsame Anforderungen
+("Und jetzt mach' das so groß, daß es genau drei Mal untereinander auf
+eine Seite paßt."), für die mir bisher noch keine elegante
+LaTeX-Lösung eingefallen ist.
+
+Viele Größe,
+     Fred Klöfkorn
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

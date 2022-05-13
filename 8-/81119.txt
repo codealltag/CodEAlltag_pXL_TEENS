@@ -1,0 +1,11 @@
+Okay.
+
+
+Oh! Wer dann?
+
+Benno
+
+-- 
+Drucker-Fehlermeldung:
+  "Beim Speichern der Änderungen ist der folgende Fehler aufgetreten:
+   Der Vorgang wurde ausgeführt."

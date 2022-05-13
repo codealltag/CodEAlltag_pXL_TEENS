@@ -1,0 +1,16 @@
+- Musikshop beseitigen [done]
+- Zako installieren [done]
+- ISDN einrichten [done]
+- Netzwerk einrichten [done]
+- Newsspool aus dem Backup zuk�ckspielen [done]
+- neuen leafnode installieren [done]
+- gnus-5.8.8 installieren und meine .emacs/.gnus zurückkopieren [done]
+- SMTP-Server aufsetzen
+- POP3/IMAP-Server aufsetzen
+- SMB aufsetzen
+- Kleinkrams (Zeichensatz auf der Konsole z.B.)
+
+Ausserdem werde ich die Antwort nicht einfach nur so runterschreiben
+können, das wird auch noch ne Zeit dauern...
+
+Luca

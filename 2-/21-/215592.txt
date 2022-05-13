@@ -1,0 +1,8 @@
+<Korinthenkack>
+Ein Newsserver holt keine News. Er bekommt sie gefeedet.
+</Korinthenkack>
+
+Viele Größe,
+     Stephan Gir
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

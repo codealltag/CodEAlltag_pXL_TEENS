@@ -1,0 +1,8 @@
+* Charles Fleischhut <fywjneb@tmw.ji>:
+
+
+Und er kann scheinbar keine richtigen Message-IDs erzeugen.
+
+Othmar
+-- 
+8

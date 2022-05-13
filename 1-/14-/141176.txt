@@ -1,0 +1,15 @@
+Und so sprach Helmuth Haederich:
+
+Wieso? Duerfen ja auch fuer anderswo Lokalisierungsarbeit investieren.
+
+
+Geht nicht (ohne grosse Troubles). Aber Yast2 kannst Du verweigern.
+
+
+"ATTENTION: There were changes to my /etc/host.conf. Don't touch it!"
+*argh*
+
+Gruss,
+Valerian.
+-- 
+I-C-H-H-A-S-S-E-S-U-S-E.

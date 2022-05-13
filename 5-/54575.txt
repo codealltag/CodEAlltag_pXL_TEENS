@@ -1,0 +1,7 @@
+Aha. Und wie hast du dieses (La)TeX-Makro definiert?
+
+\newcommand{\me}{-thh das faule Szaf }
+
+oder wie?
+
+Björn

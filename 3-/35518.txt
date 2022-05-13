@@ -1,0 +1,9 @@
+Am Sun, 21 Jul 2003 sendete Hartmut Flittner folgende Botschaft:
+
+
+Kommt darauf an. Wenn man einfach alles was auf dem Server ist übernehmen
+will, oder per skript aus der jnewsrc die Gruppen extrairen will, dann
+dürfte slrnpull (bei ersteren demnächst[tm]) einfacher sein.
+
+Tschüs
+  Fred

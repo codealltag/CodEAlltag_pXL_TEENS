@@ -1,0 +1,8 @@
+s/nicht//
+s/ohne/$& ersichtlichen/
+
+mfg, 
+	Luigi
+-- 
+BOFH excuse #446:
+Mailer-daemon is busy burning your message in hell.

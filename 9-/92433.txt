@@ -1,0 +1,11 @@
+Oliver Anderhalden hat geschrieben getan getutet:
+
+
+Ueber und unter der Zeile so ein horizontaler schwarzer Trennbalken.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Urs 'ingolf' Ungethüm in yj.vus.jeikzgdq.krpqclah

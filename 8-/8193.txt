@@ -1,0 +1,16 @@
+Also doch dtju löschen? *g*
+
+Nein, eine Implementation, die derartig kaputt ist, soltle man
+wegwerfen. Weder RfCs noch common practice verbieten Talk im
+Usenet. Also ist dieses Verhalten vergleichbar zu einem Compiler, der
+jeden bedingten Sprung zu einem unbedingten "optimiert", weil das ja ab
+und an mal stimmen könnte.
+
+Leider sind Softwareentwickler häufig der Meinung, daß das
+Herauspressen von ein paar Prozentpunkten an Performance wichtiger ist
+als die korrekte Implementierung.
+
+Fridolin
+-- 
+We hold these truths to be self-evident,
+that all szeep are created evil

@@ -1,0 +1,8 @@
+Ein T�htuh natürlich. Mensch, manchmal bist Du echt langsam.
+
+Traude
+
+-- 
+IF (it.comes.out.wrong)
+   LOOP
+   UNTIL (it.comes.out.right)

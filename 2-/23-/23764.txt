@@ -1,0 +1,14 @@
+Freakshow oder dienstlich?
+
+Auch gut. Aber sicherlich interessant, oder?
+
+Ich dachte eher daran, das jemand auf die Idee kommt, Mageninhalt
+loswerden zu wollen.
+
+Haben sie es den beide überstanden?
+
+mfg, 
+	Luigi
+-- 
+BOFH excuse #202:
+kernel panic: write-only-memory (/dev/wom0) capacity exceeded.

@@ -1,0 +1,9 @@
+Und so sprach Christof Victor Mettenleiter:
+
+
+$ echo $Zahl
+1
+
+Heimo, 100% Baumwolle
+-- 
+http://nxm.qubmt.gac/ - Become a trashholder today!

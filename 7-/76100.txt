@@ -1,0 +1,9 @@
+Hm? Geht nicht direkt. Muss ich erst immer in einen Ordner schieben.
+Irgendwie brennt er sogar schneller als er übers Netzwerk zieht...
+
+Charles
+
+-- 
+Setup ist nun bereit Windows 98 zu installieren. - Mächten Sie
+fortfahren?
+[   Nein   ] [ Abbrechen ]

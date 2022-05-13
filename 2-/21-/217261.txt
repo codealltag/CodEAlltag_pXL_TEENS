@@ -1,0 +1,15 @@
+Am 21. 04. 22 11:02:00 +0100 sendete Serge Ploogmaker
+folgende Botschaft:
+
+[...]
+
+Dafür brauchts afaik grössere umbauten in cleanfeed,das einzige was wohl
+möglich ist das man die grenze für EMP (ph/l)/(f/s/l) in cleanfeed anhebt.
+aber das wird dann wohl bei jedem newsserver tigsein.
+
+
+hm, das selbe gilt für dich, du bist schon vor monaten in dem filter
+hängengeblieben(seitdem habe ich den bei mir ausgeschaltet.)
+
+Tschüs
+  Ronald

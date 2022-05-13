@@ -1,0 +1,2 @@
+Zum Kaffeekochen brauche ich aber weder Emacs noch Gnus. Das geht ohne
+besser.

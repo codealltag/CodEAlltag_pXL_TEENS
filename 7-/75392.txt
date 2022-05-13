@@ -1,0 +1,19 @@
+Gerald Timmsen hat geschrieben getan getutet:
+
+
+F:\Programme\Hamster\groups>dir /s
+[..]
+     Anzahl der angezeigten Dateien:
+             212 Datei(en)    638.612.229 Bytes
+             191 Verzeichnis(se),  3.586.064.384 Bytes frei
+
+F:\Programme\Hamster\groups>
+
+Oh well..
+
+-towo, auf bestem Wege..
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Friedhelm 'berend' Junkerjürgen in nb.vme.mqduqdaf.oqzugdsl

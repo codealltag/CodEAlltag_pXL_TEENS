@@ -1,0 +1,21 @@
+Das Problem hast du in jeder anderen Sprache auch. Das der Code
+lesbar, verlässlich und wartbar ist, ist in erster Linie Aufgabe des
+Programmierers. 
+
+
+Das streite ich auch garnicht ab. Aber wenn der Mensch bei einer so
+banalen Änderung sowas merkt, dann stimmt bei der Sprache was nicht. 
+Dabei waren das einfache Booleans, die ich abgefragt habe.
+
+
+Nein, das ist bestimmt nicht Computer Science. Denn das entsprechende
+Studium sieht komplett anders aus.
+
+Ulfert, Rechner werden abstahiert und Algorithmen skizziert. Die
+Implementierung wird nie gemacht, das ist ja trivial. Und nicht
+Aufgabe eines Informatikers, dafür hat man ja untergebene
+Programmierer. 
+
+-- 
+75 Things you don't want to hear from your Sys Admin.
+55. Why did it say '/bin/rm: not found'?

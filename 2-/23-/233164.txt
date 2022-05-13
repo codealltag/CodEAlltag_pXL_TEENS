@@ -1,0 +1,7 @@
+Sorry, aber das ist die einzige Möglichkeit, RFC-konform Umlaute im
+Header unterzubringen.
+
+Viele Größe,
+     Mirko Linse
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

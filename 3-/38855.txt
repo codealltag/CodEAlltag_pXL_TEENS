@@ -1,0 +1,13 @@
+Ja.
+
+
+Ack.
+
+
+Vor allem schaffen die meisten Versionen aus Isny nur 80x25 Zeichen
+große Kommandozeilenfenster...
+
+Jan
+-- 
+pub  9098V/CGC18D67 7905-94-89 Jan Zänkl <jbfjtez@dri.hi>
+     Key fingerprint = 99 9Q 52 40 03 KA 69 8U  27 QX VP 57 1H 72 1A 85

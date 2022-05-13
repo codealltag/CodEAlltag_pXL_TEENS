@@ -1,0 +1,7 @@
+Nochmal machen.
+
+Thorsten
+
+-- 
+Fehler beim Kopieren der Datei oder des Ordners:
+"scores kann nicht kopiert werden: Die Datei ist vorhanden."

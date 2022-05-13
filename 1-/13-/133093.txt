@@ -1,0 +1,12 @@
+Daniel Pachmayer schrieb am 03. Juni 2001 um 11:53 Uhr folgendes:
+
+
+Die Bedienung von Pewug ist Teil des Informatikstudiums? :-o
+
+Viele Größe,
+     Urban Duemichen
+-- 
+Q: Why does everyone say not to use gets()?
+A: Because they're trying to spoil your fun. gets() can make an otherwise
+   droll and predictable program a lot more exciting.
+                  -- comp.lang.c Answers to Infrequently Asked Questions

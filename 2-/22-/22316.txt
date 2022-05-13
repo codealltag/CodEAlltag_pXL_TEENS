@@ -1,0 +1,14 @@
+Und so sprach Carl Zencker:
+
+
+Sein Schreibstil, im Gegensatz zum Film, gefaellt mir auch nicht
+wirklich. Aber ich finde, man sollte sich dadurch nicht daran hindern
+lassen zu beachten, was er neben der Polemik und Provokation bringt.
+Ausserdem ist die deutsche Ausgabe wohl ziemlich schlecht uebersetzt.
+
+Gruss,
+Leopold.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.y

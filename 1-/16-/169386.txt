@@ -1,0 +1,9 @@
+Hinrich Teicht <klvnrmo_znpssqj@rmp.oo> schrieb in im Newsbeitrag:
+06mn55.6l.9@krxb.rib.mh...
+
+Uups.. Jetzt dupet das blöde OE auch noch. Erst crashen, über 7000 Mails ins
+Nirvana reissen (aus irgendwelchen Gründen crasht das blöde Importtool wenn
+man versucht, die Database wieder einzulesen) und nun das...
+
+CU
+Hinrich

@@ -1,0 +1,16 @@
+* "Xaver Niendiecker" <uuff.mfqwx@mhu.kf.rt>:
+
+
+Es geht nicht. Ich habe es schließlich ausprobiert. ;)
+Der Server lässt einen nur rein, wenn die eigene IP aus deren Bereich
+stammt. Ein gutes Verfahren wigutec.
+
+
+DAnke.
+
+
+Maiks FAQ ist gut. Wenn man sie denn einmal verstanden hat.
+
+Luca
+-- 
+cross veinless

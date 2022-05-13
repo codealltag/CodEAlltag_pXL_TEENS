@@ -1,0 +1,6 @@
+Hamster verbraucht im Leerlauf so gut wie keine Prozessorlast, und mit 
+Plattenplatz dürftest du auch unter 5 MB wegkommen, ich lasse alle Groups 
+nach einem Tag expiren, speichern tut mtq...
+-- 
+ / _/ _` |
+ \__\__, |

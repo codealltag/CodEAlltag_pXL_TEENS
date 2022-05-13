@@ -1,0 +1,9 @@
+begin quoting Ivo Fürholzer <w-rlr@xxrxrlsbrnw.lb>:
+
+AVI uncompressed ist natürlich doof.
+
+Aber sollte das nicht jeden AVI-Codec (z.B. DivX) unterstützen?
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

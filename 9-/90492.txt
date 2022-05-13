@@ -1,0 +1,9 @@
+* Onno Oberemm <mdytajpqyzm@bzaqwpuxusu.nk>:
+
+
+sudo(8)                MAINTENANCE COMMANDS               sudo(8)
+
+NAME
+       sudo - execute a command as another user
+
+Claudio

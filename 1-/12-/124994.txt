@@ -1,0 +1,16 @@
+Hm? Ich hab hier nen ISDN-Patch für den Kernel aus dem CVS. Mit den
+Kerneln 2.2.17 und 2.2.18 kann man mit diesem Patch aber keine Treiber
+für HiSax kompilieren...
+
+
+...dafür funktioniert damit aber das CAPI4Linux für aktive
+B1-Karten. Mit passenden Treibern von Weinbergsmühle kann man das Ganze auch mit
+einer gewöhnlichen FritzCard nutzen. 
+
+Sinnvoll, wenn man z.B. auch faxen will.
+
+Pasquale
+
+-- 
+Qouten im Meer des Gluecks - DAU, so dumm wie der Sueden!
+                                                 [aus http://nag.mswvamtkqm.ek]

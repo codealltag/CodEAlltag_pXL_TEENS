@@ -1,0 +1,9 @@
+Am Thu, 02. 01. 23 19:26:56 GMT sendete Tom Casten
+folgende Botschaft:
+
+
+Das programm ist nur als root nutzbar? dann würd ich den am besten unter
+/usr/local/sbin/ ablegen.
+
+Tschüs
+  Dario

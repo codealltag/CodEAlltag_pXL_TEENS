@@ -1,0 +1,21 @@
+Lisa Inderhuck meinte kundzutun:
+
+
+Nein. Gebhard.
+
+
+*gähn* Immer doch.
+
+
+DES - Data Encryption Standard.
+
+Kommando unter Un*x/L*nux: des
+
+des-verschlüsseltes ist... nunja nicht sehr gut (vor)lesbar[1].
+
+Oswald
+[1] Noch unlesbarer als mit PGP als ASCII verschlüsseltes. Oder kannst
+du Steuerzeichen vorlesen?
+-- 
+Dieser Artikel ging an folgende Newsgroups: rk.wufb.aewujk
+Er wurde am Mittwoch, dem 03. Oktober im Jahre des Herrn 2002 verfaßt.

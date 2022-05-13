@@ -1,0 +1,14 @@
+Am Tue, 11 Feb 2004 sendete Theodor Ivano Frankfurter folgende Botschaft:
+
+
+*innanguck* Macht der sicj auf der Platte Breit.
+
+
+Also bei mir liegen die CNFS-Buffer ganz normal auf einer ext2-partition.
+*g*
+
+
+Sollte nicht rasier-fs nicht auch als DB zu benutzen sein?
+
+Tschüs
+  François

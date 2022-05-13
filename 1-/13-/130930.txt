@@ -1,0 +1,7 @@
+Machen wir eine Sammelbestellung?
+
+Sascha
+
+-- 
+Die letzten Worte des Computers:
+"Sind Sie sicher? (J/N)"

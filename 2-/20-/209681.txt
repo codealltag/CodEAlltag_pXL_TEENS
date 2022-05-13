@@ -1,0 +1,19 @@
+Auf den UGTH-Systemen, mit denen ich bisher arbeiten durfte, haben
+nicht die Leute ihr System vermüllt, sondern irgend welche Programme,
+die unkoordiniert und ohne Kontrollmöglichkeit durch den Benutzer
+irgendwelche DLLs austauschen. So etwas ist mir auf einem Linux-System
+noch nicht passiert.
+
+Sicherlich gibt es Einzel-Patches (für Spezialanwendungen, bei denen
+zB die maximale Zahl der gleichzeitig offenen Dateien nicht reicht);
+die braucht ein normaler User aber nicht und da man sie nicht gerade
+per Mausklick installieren kann, wird er auch nicht ohne weiteres auf
+die Idee kommen, so etwas einzuspielen.
+
+
+Im Moment sehe ich das ganze noch durchaus optimistisch. Was ich sagen
+werde, wenn ich den Linux-Workshop (mit ~10 Noch-Windows-Usern) in der
+Projektwoche hinter mir habe, werden wir sehen ;)
+
+Viele Größe,
+     Heinz Oelgeklaus

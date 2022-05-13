@@ -1,0 +1,17 @@
+* Ben Pollman <qtoqenc343496@gpjncx.pu-m.lq>:
+
+
+Nein, INN 2.3.2 auf Achtern potato (stable)
+
+
+Hast du mal versucht, herauszufinden, woran es sich genau stört?
+
+
+Das ist natürlich ziemlich ärgerlich. :-/
+
+
+Welcher Anbieter?
+
+Carlos
+-- 
+cross veinless

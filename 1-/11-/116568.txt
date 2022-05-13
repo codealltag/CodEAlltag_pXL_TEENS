@@ -1,0 +1,11 @@
+Port 80 sperren?
+
+
+ip_masq_icq hast du drin? dann solltest du dir trotzdem mal
+Portforwarding ansehen...
+
+Otmar
+-- 
+Irgendwer hat mal geschrieben: "Man kann sich nicht selber zum
+selbsternannten Netcop ernennen. Man wird immer von anderen zum
+selbsternannten Netcop ernannt"

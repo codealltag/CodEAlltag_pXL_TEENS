@@ -1,0 +1,10 @@
+"Hat der Selbstmordkandidat, der die Stippen gezogen hat, gelbgrün wie
+vorgesehen genutzt?"
+
+
+s/was/ob/
+s/sich//
+
+Raphael
+-- 
+So auf Kommando geht DAS nicht! [Tim]

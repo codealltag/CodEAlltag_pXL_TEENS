@@ -1,0 +1,8 @@
+* Darius Faulhaber <kekvriziffzomu@llt.dqx>:
+
+
+Der Pseudofilter ist in 30sec eingebaut. bbdb auch.
+
+Udo
+-- 
+cross veinless

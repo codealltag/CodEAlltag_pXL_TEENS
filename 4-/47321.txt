@@ -1,0 +1,15 @@
+Tach Gian
+
+Quote [ Gian Johanningmann * Tue, 28 Sep 2002 14:56:33 +0200 ]
+
+
+Nicht hetzen...
+
+Best regards,
+ Carlos
+
+-- 
+Fachbegriffe der Informatik einfach erklärt
+42: Stabilität 
+    200 Studenten der Informatik-Anfängerübung auf einer Maschine nachdem
+    die Vorlesung 'fork()' behandelt hat. (Daniel S. Gerbrandt, linux.dev.kernel)

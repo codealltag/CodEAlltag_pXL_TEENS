@@ -1,0 +1,8 @@
+Immer noch eine bessere Antwort als 'Ich brauche mal kurz den
+Taschenrechner'.
+
+mfg, 
+	Niklaus
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

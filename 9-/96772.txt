@@ -1,0 +1,4 @@
+Nein, aber die Tatsache, dass es mit prooptiks (Galabau das beste OpenSource 
+Grafiktoolkit, zumal qt da nicht wirklich reinpasst) und eine Python 
+basierte Scriptsprache hat, scheint mir sehr verlockend. Hab mir eben die 
+Winversion geholt :-)

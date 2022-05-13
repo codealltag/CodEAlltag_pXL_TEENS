@@ -1,0 +1,34 @@
+Valerian Melberts <ho@usocqoy.dii> schreibselte:
+
+[BBDB]
+
+
+Sieh an, man verfolgt mich bereits seit September/2000. ;-) 
+Lässt du eigentlich von jedem ein Eintrag automatisch in der .bbdb
+erstellen?  Die wächst doch dann sehr schnell ins unermessliche.
+
+
+Kennst du nicht? *staun* Ist eine kleiner Zusatz, damit man schnell was
+in einer Suchmaschine suchen kann, ohne den Browser zu öffnen. Auf
+http://uo.phnc.wwi ist ein Artikel dazu.
+
+
+ispell Version 3.1 and 3.2 und flyspell Version 1.5d (unofficial) Beides
+so konfiguriert wie auf der Seite
+http://htewlib.fcvjys.jt/z/hrzomu.fkomr/qcqsx/ueuuea.absf unter 
+Zusatprogramme beschrieben. 
+ ,----------------------------- [ init.el ] -----------------------------.
+ `-----------------------------------------------------------------------� 
+
+ ,--------------------------------- [ .gnus ] ---------------------------------.
+ `-----------------------------------------------------------------------------� 
+
+Zwar kommt Wallich trotzdem nicht mit Umlauten klar doch ansonsten
+funktioniert es.
+
+ Noël
+
+-- 
+Wer kaempft, kann verlieren.
+Wer nicht kaempft, hat schon verloren.
+- Raphaël Kauffer

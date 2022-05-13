@@ -1,0 +1,2 @@
+Mit dieser Version noch als Admin, da ist eh schon alles verloren ;)
+In der nächsten werd ich die User-Konzepte mehr berücksichtigen.

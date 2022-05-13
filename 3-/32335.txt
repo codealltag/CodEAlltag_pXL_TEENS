@@ -1,0 +1,9 @@
+Ja, ich gebe es ja zu, manchmal bin ich wirklich ein Blitzmerker.
+
+
+mfg, Mayländer
+-- 
+"übrigens schrottet ARENTS den Sigtrenner nur dann, wenn a) mit Content-Transfer-
+Encoding: 8bit gepostet wird und b) in der Nachricht Umlaute vorkommen.
+Die Behauptung, ARENTS könne ohne Hilfe von außen keinen korrekten Sigtrenner
+herstellen, ist jedenfalls unwahr."	-Jörn Grass in dsnu

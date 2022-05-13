@@ -1,0 +1,11 @@
+Filter für meinen Newsreader. Hatte ein paar kleine Bugs, die ich nach  
+Offenlegung des Quellcodes relativ schnell fixen konnte. Allerdings fehlt  
+mir jetzt ein Compiler, ich hab' Visual C++ 6.0 und den Borland Compiler  
+ausprobiert, funktioniert aber nicht.
+
+Dirk Jong
+
+-- 
+Mehr Sicherheit für unsere Kinder! Verbietet das Internet!
+                                             E-Mail: pffgzc@zmyezelzgz.ab
+---> Offizieller Kämpfer wider Olaf Sator des Ordens von dtju <---

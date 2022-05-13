@@ -1,0 +1,10 @@
+*grübel*
+
+Einen Wurm schreiben der ein im Attachment enthaltenes vorkonfiguriertes
+Paket aus MUA und NUA installiert und unter Windows als Default
+registriert und dabei die Servereinstellungen von Emilieschacht übernimmt?
+
+Elias, endlich mal was mit einer gescheiten "Schad"routine
+-- 
+baboo 
+np: Mechanical Moth - Radical Behavior

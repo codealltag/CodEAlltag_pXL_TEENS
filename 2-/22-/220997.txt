@@ -1,0 +1,11 @@
+On 25 Okt 1998, Lukas Lauwe <yizktq@greyb.jj-dco.ee> wrote:
+[...]
+
+slrn zum Beispiel. tin AFAIK auch, Gnus mit Sicherheit.
+
+    ^Da muß noch ein Leerzeichen hin, damit's ein Sigtrenner wird.
+
+Viele Größe,
+     Patrick Till
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,22 @@
+Am Tue, 09. 06. 22 sendete Emmerich Göttner folgende Botschaft:
+
+
+Ist auch jenachdem nicht mehr alzu logisch. Sollte aber mit eine FIFO
+und einem entsprechenden daemon gehen.
+
+
+Tja, dumm gelaufen. ;)
+
+
+Tu das. ;)
+
+
+Must du in den Sourcen suchen. (sollte mit grep nicht so schwer sein).
+
+
+Gebranntes Kind und so weiter?
+
+Tschüs
+  Timo
+-- 
+Notorisch Schreibfaul.

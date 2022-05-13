@@ -1,0 +1,2 @@
+Du machst überflüssige und falsche Leerzeichen zwischen Wort und
+Satzzeichen.

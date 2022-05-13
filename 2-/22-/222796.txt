@@ -1,0 +1,30 @@
+Am 01. 07. 21 23:39:31 GMT sendete Eckhard Nakken
+folgende Botschaft:
+
+
+Der grösste vorteil is wohl das du es so er besser nebenbei machen
+kannst, Ok das geht mit 2 rechnern auch aber ständig die tastatur, etc
+wechseln muss ja nicht sein.
+
+
+Kannst du bei der Gelegenheit nicht veilleicht noch gleichzeitig
+irgendwelch altlasten beseitigen, so das die Nachteile die Vorteile
+überwiegen?
+
+
+Wenn der rechner doch genug platz für spiele bietet könnte das anders
+sein ;) Und eine shell sollte lat�rnich auf jedem rechner vorhanden sein.
+
+
+Da wenn der rechner einmal läuft wohl nur kleinere updates fällig werden
+(imho) müsste da wohl eine Kombi aus ssh(+bash) und ftp völlig
+ausreichend sein. (und du brauchst nochnichtmal von deinem deinen rechner aufstehen. ;)
+
+
+Siehste dann merkt sie spätestens an diesem punkt, das sie dem rechner
+zusehr belastet. ;)
+
+[...]
+
+Tschüs
+  Gernot

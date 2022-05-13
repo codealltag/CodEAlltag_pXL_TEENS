@@ -1,0 +1,7 @@
+Wenn ich so denken würde, wäre ich wohl Turing-Komplett.
+
+mfg, 
+	Knut
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

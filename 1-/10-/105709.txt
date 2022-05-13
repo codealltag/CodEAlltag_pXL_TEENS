@@ -1,0 +1,5 @@
+Immer schon. Man muss nur "Wrap outgoing messages at: xxx" auf dem
+default 72 lassen.
+
+Gruss,
+Siegfried

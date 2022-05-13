@@ -1,0 +1,7 @@
+begin quoting Jürg Schlichers <qm@bmtnzwp.pui>:
+
+Die Frage war rhetorisch.
+-- 
+43rd Law of Computing:
+Anything that can go wr
+fortune: Segmentation violation -- Core dumped

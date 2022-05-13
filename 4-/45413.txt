@@ -1,0 +1,8 @@
+Mein Newsreader macht das alles ganz richtig. Nur das Korrnews verändert
+da was, das aber an sich auch ganz richtig so ist, nur in diesem Falle
+natürlich ungünstig ist. Der ist nämlich so eigestellt, dass er die
+Quotingzeichen zusammenzieht, also evtl. vorhandene Leerzeichen löscht
+und hinter das letzte eins setzt. Das finde ich schöner.
+
+-- 
+Any feature is a bug unless it can be turned off. (Heuer's Law, 1990)

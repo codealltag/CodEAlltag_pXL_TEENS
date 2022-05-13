@@ -1,0 +1,7 @@
+Nix. Ich sprech nur deutlich besser Englisch als Irisch.
+
+mfg, 
+	John
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

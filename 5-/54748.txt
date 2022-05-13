@@ -1,0 +1,12 @@
+Das macht Oort nicht ansatzweise stabliler.
+
+
+Der hier zugrundeliegende XEmacs ist noch ein gutes Stück älter, was
+die Codingsystems angeht. Inzwischen gehts per manuellem Eingriff
+recht gut, nur in Headern greift die Kontrolle auf "unknown
+Characters" nicht.
+
+Pietro
+-- 
+Weiner's Gesetz der Bibliotheken:
+Es gibt keine Antworten, nur Querverweise.

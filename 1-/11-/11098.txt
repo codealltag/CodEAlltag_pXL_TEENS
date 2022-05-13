@@ -1,0 +1,12 @@
+Es ist scheisse kompliziert zu bedienen, hat x config-Dateien, die man
+erst einmal durchschauen muß, durch die Programmierung schaut man nur
+durch, wenn man sich zum Klammeraffen macht, etc. 
+Im großen und ganzen: Es ist scheisse unübersichtlich. Und ich habe
+nicht die Muße herauszufinden, warum ich auf der Konsole überall
+Umlaute habe, nur im gnus nicht. Ich hätte gern was schlankes. 
+
+Rudolf, gnus wird hier benutzt, bis was größeres schiefgeht oder aber
+ich ihn endgültig satt bin.
+
+-- 
+Failure is not an option. It comes bundled with your OGNJ product.

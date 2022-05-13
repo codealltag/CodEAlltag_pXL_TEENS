@@ -1,0 +1,21 @@
+On Fri, 07 Feb 1999, Alois Egelhof <efkbjzxo@ozw.qi> wrote:
+[PGP]
+
+Nun ja, ich weiß, daß ich zwei komplementäre Schlüssel habe - einen
+zum Entschlüsseln und Signieren, den anderen zum Verschlüsseln und
+überprüfen der Signaturen - und daß ich tunlichst nur letzteren
+weitergeben sollte.
+
+Wie man es aber hinbekommt, daß eine Nachricht nicht entschlüsselt
+werden kann, obwohl ja sowohl der Algorithmus verfügbar ist, als auch
+der Schlüssel, der verwendet wurde, geht zum Beispiel schon über mein
+Vorstellungsvermögen hinaus.
+
+
+Wenn Du "password", den Namen Deiner Freundin oder Dein Geburtsdatum
+verwendest, ist es nicht besonders sicher ;-)
+
+Viele Größe,
+     Otto Weitekemper
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

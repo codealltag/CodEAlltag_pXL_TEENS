@@ -1,0 +1,10 @@
+*lach* Es fehlt noch irgendwie noch der gesamte Code, um etwaige Fehler
+abzufangen. Ich selber kenne das inzwischen gut genug, um keine Fehler
+mehr zu machen.... 
+
+
+Am ehesten das dritte. Aber das ist auch nicht sonderlich innovativ..
+
+-- 
+Wer A sagt, der muss nicht B sagen. Er kann auch erkennen, dass A falsch war.
+Stephan Ettensberger

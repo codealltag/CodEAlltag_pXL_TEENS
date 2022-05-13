@@ -1,0 +1,2 @@
+Seit wann hat der Editor Code zu /produzieren/? Egal, Emacs hat zum
+Beispiel einen SGML-Mode.

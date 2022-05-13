@@ -1,0 +1,7 @@
+Gert Ribka schrieb am 22 Jul 2000 in xt.agto.xvzbkt:
+
+
+Darum sollte man Mails auch immer mit dem eigenen (öffentlichen) 
+Schlüssel verschlüsseln. Läßt sich auch als Default einstellen.
+
+Hannes

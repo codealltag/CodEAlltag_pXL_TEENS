@@ -1,0 +1,11 @@
+On 25 Jul 1999, Ronald Wüllenweber <zxozbn.cgrf@lgw.wf> wrote:
+
+[Signaturtrenner bei Printy]
+
+Ist es nicht. AFAIK setzt XP es beim Senden aber in ein Leerzeichen um -
+zumindest kommt bei Deinen Postings (so wie es sein soll) ASCII 32 an.
+
+Viele Größe,
+     Urban Tressel
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

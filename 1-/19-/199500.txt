@@ -1,0 +1,15 @@
+Ich habe eigentlich noch nie was 'nachbearbeitet'.
+
+Dafuer kommt es manchmal vor, dass mir sowas einfaellt wie 'so eine Funktion
+  hab ich doch schonmal geschrieben' und dann geht das Gesuche in alten
+  Quellcodes los...    :-)
+
+
+Also ich brauche wenigsten bei groesseren Bloecken (z.B. einzelnen
+  Funktionen) eine grobe Beschreibung.
+Fuer das Programmieren in groesseren Arbeitsgruppen wird biseilen sogar ein
+  Kommentaranteil von 50% empfohlen.
+
+-- 
+Heimo
+"It is better to die on your feet than to live on your knees."

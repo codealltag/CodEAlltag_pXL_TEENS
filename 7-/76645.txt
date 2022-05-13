@@ -1,0 +1,16 @@
+Jean-Pierre Praaß meinte kundzutun:
+
+Umgeleitet. Die Ausgaben nämlich :-)
+
+Mit "> /dev/null" wird die Standardausgabe weggeworfen, mit "2>&1" wird
+die Standardfehlerausgabe (Ja, das *ist* was anderes) auf die
+Standardausgabe (&1) umgeleitet, von wo sie denselben Weg alles
+irdischen geht...
+
+
+Wolf
+-- 
+Ich habe das Gefühl, wenn sie _das_ schaffen, [] daß die Welt in Trauer und 
+Entsetzen und Lähmung versinkt, wenn wir nicht mehr lachen können oder [] dr-
+fen, wenn wir nicht mehr kaspern können oder dürfen, dann haben diese Terror-
+risten es endgültig geschafft, die Welt zu zerstören. [Victoria Dannenfeldt in LJF]

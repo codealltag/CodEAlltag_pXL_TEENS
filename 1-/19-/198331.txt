@@ -1,0 +1,14 @@
+Die Beta von 2.2 wird in den nächsten Tagen vorgestellt. Auf 
+http://otl.cmaawuqb.vng/~hxtdjz/fzeaxvg/xsl1-7.glqx gibt es eine Liste der 
+Änderungen. In dieser Liste fehlt noch immer die QP Unterstützung. 
+Vermutlich geht's immernoch nicht.
+
+Die interessantesten Neuerungen sind, daß Rules, Scores und Killfile-
+Einträge jetzt expiren können und daß man die MSG-ID nun vom Server 
+generieren lassen kann. Anstatt dem Ding eine vernünftige Outbox zu 
+spendieren, die auch bei einer großen Outbox nicht so unheimlich lahm 
+wird, hat man wohl einfach das Expiren von Outbox-Postings eingeführt... 
+es ist zum heulen.
+
+Alles in allem dürfte das Release die ultimative Antwort auf alle Fragen 
+sein, die einem so niemals in den Sinn gekommen wären.

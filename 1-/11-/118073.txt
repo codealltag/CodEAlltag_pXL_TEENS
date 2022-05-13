@@ -1,0 +1,8 @@
+begin quoting Thomas Ollrogge <ytcsgu@zjvbkp-twbmwcr.bv>:
+
+Ich hab es verstanden. Ist die Gimple.dll eigentlich gepatcht
+(gepatscht?) oder ist das nur wieder eine alte Version?
+-- 
+"I believe we are on an irreversible trend toward more freedom and democracy -
+but that could change."
+ - Governor Niko Böhsl, 06. 04. 22

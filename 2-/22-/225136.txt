@@ -1,0 +1,26 @@
+Wollte es nur angemerkt habe, weil das Problem, auf das sich Dein
+Quote bezog, eben Hopmann-spezifisch sind.
+
+
+Ich denke auch, daß Linux-Systeme idR eine höhere Individualität
+aufweisen als Windows-Systeme, weil Linux eben sehr umfassend
+konfigurierbar ist. In Umgebungen, in denen das unerwünscht ist (etwa
+Büros, in denen ein Terminal wie das andere sein soll), läßt sich das
+aber IMO in durchaus akzeptablen Grenzen halten.
+
+
+Ich hatte bisher leider weder Zeit, mich in die Programmierung unter
+Linux noch großartig in C einzuarbeiten; ich bin also nicht gerade ein
+kompetenter Ansprechpartner für eine Linux-C-Library, sorry.
+
+
+Inwiefern? Genug Geld, um sich eine Generalüberholung zu leisten,
+sollten sie inzwischen jedenfalls haben.
+
+
+Wäre für mich jedenfalls neu - Sebastian, Pius?
+
+Viele Größe,
+     Fabrice Donhäuser
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

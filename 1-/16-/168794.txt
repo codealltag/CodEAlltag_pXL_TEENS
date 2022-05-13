@@ -1,0 +1,11 @@
+Christof Schwingshandel <eaykqj@ltaicwjqvy.uz> schrieb in im Newsbeitrag:
+7RGCnAOfnqE@wprnpdoukj.uy...
+
+Hmm... Kommt sehr drauf an, je nach Projekt stört WYSIWYLTG auch eher..
+
+
+Hmm.. Also cygwin sollte ja wohl noch ein vi kompilieren können (persönlich
+hab ich das Ding nie überzeugen können, irgendwas zu kompilieren)
+
+CU
+Felix

@@ -1,0 +1,8 @@
+Gnus erzeugt beim Drücken von TAB soviele Leerzeichen, daß das
+entsprechend weit eingerückt ist.
+
+Kleiner Test:
+
+
+Noch ein Tab:
+        (Ende)

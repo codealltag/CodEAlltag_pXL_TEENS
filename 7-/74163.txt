@@ -1,0 +1,9 @@
+Theoretisch 125MB/s, sehr viel mehr als 100 oder so wirst du wegen
+Protokolloverhead nicht durchbekommen. Und die sind mit vier Platten
+im RAID wegschreibbar.
+
+Ingolf
+-- 
+1788 wurden erstmals die Menschenrechte als Gesetz verabschiedet.
+Keiner weiß, wo sie sich heute aufhalten.
+[Anton Pfistermeister]

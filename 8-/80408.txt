@@ -1,0 +1,14 @@
+* Richarda Essebier <egqe@enze.ff>:
+
+
+Sollte ich denn?
+
+ncxzr@edoras:~$ ls -l /var/files/audio/mp3/gabsi/ | grep "Foo"
+patrizia@edoras:~$
+
+
+Wieso das?
+
+Vittorio
+-- 
+np: Bad Religion - Hear It

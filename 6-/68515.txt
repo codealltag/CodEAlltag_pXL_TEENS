@@ -1,0 +1,7 @@
+Moin,
+
+kann eigentlich ein unixoides System etwas mit .zip-Archiven anfangen?
+Und wenn nicht, wie bastle ich ein unixfreundliches Archiv?
+
+Nina,
+damit ihr mir nicht vor Langeweile eingeht.

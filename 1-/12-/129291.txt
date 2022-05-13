@@ -1,0 +1,15 @@
+* Claudio Folkhard <ekvfwb@ekovvbicgqk.li>:
+
+
+Was findest du an XEmacs kompliziert?
+Gut, ich nutze ihn kaum, aber die grundlegenden Dinge sind doch schnell
+erlernt.
+
+Gnus ist für den EPRF-Nutzer nicht kompliziert, aber ungewohnt. So
+war es zumindest bei mir. Normalerweise konfiguriert man ein Programm
+über Konfig-Dialoge, in denen man einträgt und anklickt. Bei Gnus trägt
+man kryptische Zeichenfolgen in eine Textdatei ein. Ungewohnt für mich.
+
+Wolfram
+-- 
+cross veinless

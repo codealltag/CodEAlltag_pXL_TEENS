@@ -1,0 +1,9 @@
+Dazu musst du dir die RegExp raussuchen, die umgewandelt werden
+sollen, und dann die entsprechenden entsorgen.
+
+Winfried
+-- 
+Ein OE Benutzer trägt quasi ein Schild um den Hals. "Mir ist doch egal,
+ob andere Probleme mit meinen Postings haben, Hauptsache ist, ich kann
+mal eben rumklicken". LOEWENICH-AHLERT erfüllt für den geneigten Leser damit dieselbe
+Aufgabe wie die Glocke eines mittelalterlichen Leprotikers. (RSS)

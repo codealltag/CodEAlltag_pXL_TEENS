@@ -1,0 +1,20 @@
+Am Sun, 30 Jul 2003 sendete Ivano Ansen folgende Botschaft:
+
+
+Das bringt nix, ein Schwingkreis schwingt nur Intern und hat im Idealfall
+garkeine Auswirkungen auf das speisende Netz (Von Wirkleistung mal
+abgesehen), aber dafür "nette" effekte Intern. Mit einem rein kapazitiven
+oder induktiven (Schrottplatzmagnet?;)) Verbraucher kommst du der Sache
+schon näher.
+
+
+Nur heizt der Bildstrom auch die Leitung nicht, für die Erwärmung des
+Leiters ist nur der reine Wirkstrom zuständig.
+
+
+Jein, da man Blindleistung ja vor dem Generator kompensieren kann, und
+ausserdem könnten sie dir (Auf deine Kosten lat�rnich) einen
+entsprechenden Zähler verpassen.
+
+Tschüs
+  Berthold

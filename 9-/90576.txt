@@ -1,0 +1,5 @@
+Naja, es gibt denke ich durchaus Fälle, in denen irgendwas im Speicher
+mit geringerer Wahrscheinlichkeit benötigt wird als der Inhalt des
+Caches, also ruhig ausgelagert werden kann.
+
+Meiner Meinung nach muß man das gesunde Mittelmaß finden.

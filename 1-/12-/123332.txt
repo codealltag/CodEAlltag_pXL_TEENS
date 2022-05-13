@@ -1,0 +1,9 @@
+* alupzgvgbk@qdcvledrow.po (Pbxeu Junkernheinrich):
+
+
+Ich muss sagen, dass ich vim mittlerweile gut finde, um schnell in
+Dateien zu editieren. Im xterm macht er sich ganz ordentlich.
+
+Italo
+-- 
+cross veinless

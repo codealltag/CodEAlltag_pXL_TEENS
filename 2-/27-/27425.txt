@@ -1,0 +1,12 @@
+Am Sun, 03. 12. 22 sendete Charly Twarok folgende Botschaft:
+
+
+Zum glück habe ich keine Ahnung von Musik. ;)
+
+Tschüs
+  Engelbert
+-- 
+gpg-key (available via keyserver):
+pub  1024D/D5C1B358 03. 12. 22 Engelbert Illgut <wckndnbhcx@whbiincgtc.ao>
+     Key fingerprint = 2493 5DB5 35F4 010D E267  B81A 705C 5389 D5C1 B358
+sub  2048g/B3F9CD02 03. 12. 22

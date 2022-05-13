@@ -1,0 +1,7 @@
+Was wohl? der erstbeste Virenscanner schaut halt mal nach... Und 10
+Gig RAM/Swap ist auch bei Servern nicht zwingend Standard; Was einem
+OS passiert, das keinen Platz mehr hat, kannst du dir doch denken, oder?
+
+Winfried
+-- 
+You have the capacity to learn from mistakes.  You'll learn a lot today.

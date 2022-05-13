@@ -1,0 +1,10 @@
+* Gerhard Opper <lfpg@czsrvrss.ni>:
+
+[UTF-8]
+
+Ab und an stört es ja auch nicht sehr. Auf die Dauer ist es nur
+schlecht, wenn der eigene Reader das nicht vernünftig anzeigt.
+
+Ingmar
+-- 
+cross veinless

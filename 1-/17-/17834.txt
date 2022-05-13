@@ -1,0 +1,8 @@
+[Rest abgeschossen]
+
+In Deinem Ursprungsposting hattest Du keinen Shell-Redirector vor dem
+diff.
+-- 
+... he'd moved like music, like someone dancing to a rhythm inside his head.
+And his face for a moment in the moonlight was the skull of an angel.
+- Urban Oetelshoven in Maskerade

@@ -1,0 +1,18 @@
+Am Sun, 29 Okt 2001 sendete Thierry Keder folgende Botschaft:
+
+
+Bitte? Also ich finds recht intuitiv. Und sonnst kann man (fast) alles
+mit eigenen keybindings bzw slang-macros korrigieren
+
+
+Also Orginal vi oder vim schlecht konfiguriert/in irgendeinen
+Kompatipilit�ts modus mag ich auch nicht, aber ein funktionierender vim
+ist imho noch das beste.
+
+
+Bh. Wozu git es gvim.exe? ;)
+
+Tschüs
+  Bernd
+-- 
+Notorisch Schreibfaul.

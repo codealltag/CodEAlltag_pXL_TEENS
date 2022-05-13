@@ -1,0 +1,8 @@
+Sehe gerade daß das verschieden gehandhabt wird:
+
+Windows 95: The DeleteFile function deletes a file even if it is open for 
+normal I/O or as a memory-mapped file. To prevent loss of data, close 
+files before attempting to delete them.
+
+Windows NT/2000: The DeleteFile function fails if an application attempts 
+to delete a file that is open for normal I/O or as a memory-mapped file.

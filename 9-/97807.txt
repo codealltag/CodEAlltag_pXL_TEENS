@@ -1,0 +1,11 @@
+Am Mon, 7 Apr 2002 sendete Fernando Elsenhans folgende Botschaft:
+
+
+Für eine einfache verbindung mit einem Rechner dürfte das afaik nicht
+nötig sein. Für pppoe muss ja erstmal e (also ethernet) da sein. Und da
+kann man dann auch direkt ip drüber fahren.
+
+Tschüs
+  Konrad
+-- 
+Notorisch Schreibfaul.

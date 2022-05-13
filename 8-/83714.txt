@@ -1,0 +1,11 @@
+* Vittorio Trinckert <vxwdny-3472@zxteiiga-qzcbbbg.at>:
+
+
+Damit habe ich noch nichts gemacht.
+
+hnjqo@jykaba:~$ apt-cache search debmake
+debmake - Debianizing Tool and automated binary generation
+
+Klingt aber nicht schlecht.
+
+Berend

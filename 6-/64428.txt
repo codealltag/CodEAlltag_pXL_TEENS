@@ -1,0 +1,10 @@
+Rudi Kretzschmar <dhgtnv_96-94@cica.ywepqo.ah> writes:
+
+[Farbige Unterscheidung von Scores]
+
+
+Lern Lisp. Baus ein :-)
+
+Gebhard
+-- 
+            It is easier to fix Unix than to live with NT.

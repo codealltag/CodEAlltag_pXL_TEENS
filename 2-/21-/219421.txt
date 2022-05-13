@@ -1,0 +1,57 @@
+On Sun, 13 Jan 1999, Jochen...sSXP...Leopoldseder <qOZL@zeo.ftq> wrote:
+
+[Was bedeutet /dev/hdxx]
+
+Prima - dann sinkt das Risiko schon mal erheblich, daß Du Dir mit
+fdisk oder mkfs irrtümlich eine Partition zerschießt.
+
+
+/dev/hdxx? Das ist kein Verzeichnis, sondern ein sogenanntes "device
+file" - eine Datei, die ein Gerät repräsentiert. Im einfachsten Fall
+kann man etwas an ein Gerät schicken, indem man einfach etwas in das
+zugehörige device file schreibt (wenn ich zum Beispiel "test" nach
+/dev/lp1 schreibe, druckt mein Drucker "test" aus).
+
+Als normaler User hat man auf die meisten device files aber keinen
+direkten Zugriff (man stelle sich vor, was der Drucker ausgeben würde,
+wenn zwei User gleichzeitig versuchen würden, nach /dev/lp1 zu
+schreiben), sondern benutzt Programme, die sie anzusteuern (in diesem
+Fall den lpd, der die Druckerqueue verwaltet).
+
+Um eine Partition zu nutzen, hängt man sie unter UNIX aber in den
+Verzeichnisbaum ein (man 'mountet' sie). Damit legt man fest, auf
+welche Partition Benutzerdaten sollen ('/home'), auf welche variable
+Daten (Logfiles, Spools und so, '/var') etc.
+
+Der größte Vorteil dieses Konzepts ist es IMO, daß man nicht ständig
+überlegen muß, wo man nochmal seine Daten hatte ("War das jetzt auf I
+oder J? Ach nein, seitdem das CD-ROM draußen ist, ist das ja H...")
+und Links (unter Windows zB Verknüpfungen im Start-Men) nicht
+plötzlich ungültig werden.
+
+
+<nichtkapier> Wenn zwei Verzeichnisse gleich hießen, könnte man sie
+schlecht auseinander halten ;-) </nichtkapier>
+
+
+Kann man - in der Datei /etc/fstab wird festgelegt, welche Partition
+als welches Verzeichnis gemountet werden soll, ob das automatisch beim
+Booten geschehen soll oder erst auf Benutzerwunsch (Befehl 'mount')
+und uU noch ein paar Kleinigkeiten mehr - Details gibt's in man 5 fstab.
+
+
+HTH a little.
+
+
+Okay.
+
+
+<"Ganz schön feist" anstimm>
+Es ist gut, wenn Du weit, was Du willst - wenn Du nicht weit, was Du
+willst, ist das nicht so gut...
+</"Ganz schön feist" anstimm>
+
+Viele Größe,
+     Franz Leydecker
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

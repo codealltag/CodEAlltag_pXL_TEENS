@@ -1,0 +1,10 @@
+Wie konnte man da nochmal so suchen, dass es keinen Unterschied
+zwischen Groß und Kleinbuchstaben macht?
+
+Norman,
+ging doch irgendwie, oder?
+
+-- 
+  "The Jedowski Information Store service depends on the J-7
+   GTV Directory service which failed to start because of the
+   following error: The operation completed successfully."

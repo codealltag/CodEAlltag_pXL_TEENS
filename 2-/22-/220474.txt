@@ -1,0 +1,18 @@
+Nun ja, bei freier Software gibt es den Spruch "Contribute nothing -
+expect nothing". Ist schon irgendwo was Wahres dran.
+
+
+Ich hingegen bin gezwungen, für Programme zu zahlen, die ich nicht
+besonders gut finde. Die Software, mit der ich wirklich gerne arbeite,
+ist dagegen (fast immer) frei.
+
+
+Unter Windows scheinen die privaten Programmierer eher dazu zu
+tendieren, ihre Software zumindest als Shareware zu vertreiben - unter
+Linux ist es dagegen die Regel, daß ein Programm kostenlos (und frei)
+weitergegeben werden darf.
+
+Viele Größe,
+     Lukas Ullm
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

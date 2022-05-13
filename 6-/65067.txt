@@ -1,0 +1,6 @@
+Ey! - "Mir ist unbehaglich dabei."
+
+Meinrad
+
+-- 
+cat .signature

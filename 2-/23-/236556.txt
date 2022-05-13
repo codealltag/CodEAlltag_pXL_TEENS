@@ -1,0 +1,46 @@
+Nope. Probleme bekommen kann man mit jedem Betriebssystem, vor allem,
+wenn man die Anleitung nicht liest.
+
+
+Mit Kleinkindern habe ich es nicht getestet. Meine kleine Schwester
+(die man wirklich nicht als Computerprofi bezeichnen kann) konnte aber
+innerhalb kurzer Zeit damit News lesen, sogar ganz ohne GUI (die man
+unter Linux auch haben kann, wenn man will).
+
+
+Doch. Allerdings nehme ich an, daß Du Linux nicht nur benutzen (und
+ich bleibe dabei, daß es benutzerfreundlich ist), sondern auch selbst
+installieren und konfigurieren willst - und das fordert schon ein
+wenig Zeit und Bereitschaft, sich damit zu befassen.
+
+
+Das tun eigentlich die meisten Newsserver. Wenn Du mal selbst einen
+INN einrichtest, wird Dir in der inn.conf so etwas wie
+
+##      organization    If $ORGANIZATION doesn't exist.  What to put in
+##                      the Organization header if blank.
+
+über den Weg laufen. Bei anderen Servern dürfte das ähnlich sein.
+
+[SuSE]
+
+IIRC 79 DM. Es gibt auch 'abgespeckte' Versionen (zB ohne gedrucktes
+Handbuch), aber für einen Anfänger sind die vielleicht nicht unbedingt
+zu empfehlen. Allerdings kannst Du Dich mal in Deinem Bekanntenkreis
+umhören, ob nicht vielleicht noch jemand eine halbwegs aktuelle
+Distribution hat und sie Dir ausleihen kann (wir erinnern uns - das
+ist völlig legal).
+
+
+Kommt darauf an, was Du mit Linux alles machen willst. Mein Linux ist
+im Moment auf einer 1,2 GB-Platte zu hause, und obwohl ich noch einige
+Einsparungsmöglichkeiten hätte (ich habe vom Kernel und von vielen
+Programmen noch zusätzlich die Sourcen drauf, sämtliche RFCs, ein
+News-Expire von mind. 28 Tagen usw), habe ich noch keine
+Platzprobleme. Wenn ich mit Linux Harddisk-Recording machen wollte
+oder CDs brennen, hätte ich die aber natürlich sofort.
+
+Viele Größe,
+     Burkhard Weeber
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

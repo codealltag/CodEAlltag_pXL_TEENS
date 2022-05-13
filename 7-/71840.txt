@@ -1,0 +1,28 @@
+Sehr lobenswert deine Einstellung.
+
+
+Ja. Und ich hab gehört es soll noch Leute geben die immernoch keinen 
+Internetzugang haben. Ganz zu schweigen von einem Usenetzugang. Ist das 
+nicht erschreckend?
+
+
+Nun wenn man von einem P 450 Mhz mit 128 MB plötzlich auf einen P 100 
+Mhz mit 24 MB umsteigt kann das schon ein Schock sein.
+
+Aber versuchs mal bei ACZO [1] da werden häufig alte Rechner sehr
+günstig angeboten.
+
+
+Win95.
+
+Würde auf so einer Schüssel eigentlich ein Linux (ohne X-Server und die 
+grafische Oberfläche) noch stabil laufen?
+
+Kasimir
+
+Fußnoten:
+=========
+[1] http://guo.tuyh.sm
+-- 
+Die Bandbreite steigt in Gasblasen aus der Sargassosee und wird von
+dort in Ethernetkabel gefällt. (Viktor Gschoßmann in sr.zhb.ufo)

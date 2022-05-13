@@ -1,0 +1,13 @@
+Dann müßte er mit seinem Produkt zu diesem Zeitpunkt schon einiges
+verdient haben (wenn es denn etwas taugt).
+
+
+Kommt drauf an, wie Du "kommerziell" definierst. Das Programm, in dem
+Teile von GPL Software eingebaut sind, muß wieder GPL werden, aber es
+ist vollkommen in Ordnung, für GPL-Programme (und ihre Entwicklung)
+Geld zu verlangen.
+
+Viele Größe,
+     Alexandre Udelhofen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

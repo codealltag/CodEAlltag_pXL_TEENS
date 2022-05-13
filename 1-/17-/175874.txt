@@ -1,0 +1,13 @@
+Am 15 Feb 2000 20:38:00 +0100 wollte Niko Masloh folgendes loswerden:
+
+
+Is ja nix passiert, wie zu erwarten war. Und dass der Agent statt _99_
+nur noch _0_, also nicht _00_ anzeigt, ist bei Valentino auch so.
+
+
+Ach quatsch.
+
+-- 
+Ich.
+
++++ Wer Rechtschreibfehler findet, darf sie behalten +++

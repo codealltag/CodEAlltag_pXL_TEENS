@@ -1,0 +1,5 @@
+gmap@bsptpr:~$ free
+             total       used       free     shared    buffers     cached
+Mem:        386764     332812      53952     172032     110280      68336
+-/+ buffers/cache:     154196     232568
+Swap:       570268          0     570268

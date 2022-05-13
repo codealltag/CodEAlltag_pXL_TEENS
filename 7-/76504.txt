@@ -1,0 +1,6 @@
+Solches tippte Nico Dennhoven:
+
+Dafür ist LaTeX doch gut geeignet ;-) g-brief, dinbrief, scrlettr. Wenn's
+sein soll tkbrief als Frontend und passt.
+
+Benedikt

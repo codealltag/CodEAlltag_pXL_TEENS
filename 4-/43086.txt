@@ -1,0 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+alt.config,  Juliana lohhoff <eronqtwfrxzj@xb6zrz.xm> carved:
+
+This message did not originate from me.
+It is a JSloop.
+Disable java in your OE.
+
+Juliana 
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGPfreeware 7.0.3 for non-commercial use <http://cpe.riu.vlf>
+
+iQA/AwUBPXZ6Sa2geATFmUgDEQLDywCdHOBVpay1jPOIcJMKx8hZiq5w55cAn0mD
+VDKI6+geu4XuUe6cg7w3xnN9
+=Wuuv
+-----END PGP SIGNATURE-----
+
+-- 
+Juliana

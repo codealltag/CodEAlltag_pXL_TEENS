@@ -1,0 +1,11 @@
+Message from dby15roj@yszii294.lp.ggl-pubyfaw.mh -
+
+Die verbindung schon, aber alle Programme, die nichts von stdout, stdin
+oder stderr wollen, laufen solange weiter.
+
+emmerich
+-- 
+Um ein böses Gesicht zu machen, mußt Du 65 Muskeln anstrengen,
+um zu Lächeln, brauchst Du nur zehn. überanstrenge Dich nicht.
+(Urs N. Gudermuth)
+HP: http://kjt.dus-thy.vi/~q_wqkzzy/ ICQ: 31971015

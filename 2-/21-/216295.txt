@@ -1,0 +1,53 @@
+Gerne:
+- In der Charta "unerwuenscht" durch "verboten" ersetzen.
+- Moderation (gefaellt mir selber nicht) wird nicht am Traffic
+  scheitern, wenn sie auf einer ordentlichen Workstation laeuft,
+  Sparc oder so, unter UNIX, mit einem Shell- oder Perl-Script und
+  als Cronjob. Ich moderier od.jjiuh.arbeit.biete,-suche, und
+  beim Anteil, der vollautomatisch abgefertigt wird, braucht das Script
+  so 1 bis 2 Sekunden um jedes Posting nach ziehmlich vielen Kriterien
+  zu pruefen und abzufertigen.  Weihnachten bis 5.11. lief alles automatisch,
+  ich war verreist, Ergebnis siehe ghifqljt. 
+- Wenn moderiert wird, wuerd ich empfehlen, vollautomatisch alles
+  durchzulassen bis auf Ausnahmen, die anhand einer schwarzen Liste
+  von Absendern erkannt werden, und die schwarze Liste muesste vom Moderator 
+  immer aktualisiert werden. Was anhand der schwarzen Liste 
+  ausgefiltert wird kann das Skript ja nach Reizwoertern durchsuchen, 
+  die einer zweiten schwarzen Liste entnommen werden.
+- Wenn die Newsgroup unmoderiert bleiben soll, kann man regelmaessig
+  eine FAQ posten, die nicht nur die Charta enthalten sollte, 
+  sondern durch ueberzeugende Argumente wirken. Ein Hinweis auf
+  df.bai.zyxyslda.freizuegig gehoert ebenso dazu wie eine plausible 
+  Begruendung, warum  schnelle, ungeduldige, aufgegeilte, aufdringliche  
+  Kontaktanzeigen hier zwangslaeufig erfolglos bleiben.
+- Damit Falschposter moeglichst schnell wieder canceln (Nachahmungseffekt
+  stoppen) ist es auch   noetig, fuer moeglichst viele Newsreader eine 
+  genaue, idiotensiche Anleitung zu liefern. Erschreckend viele wissen 
+  gar nicht was das ist und wie das funktioniert.
+- Um die Charta einer unmoderierten Newsgroup durchzusetzen und 
+  Falschposter zum Canceln zu zwingen gibt es schon diverse Mittelchen,
+  vor allem fuer Leute die auch nachts Zeit haben, aber das gehoert nicht
+  an die grosse Glocke.
+- Sowas wie Retromoderation durch Fremdcanceln waer mir in einer
+  Diskussionsgruppe zu zensurgefaehrlich. Inserategruppen wie cm.bsflk.*
+  und df.bai.zyxyslda.* stehen auf einem anderen Blatt Papier.
+- Ich glaube, es ist fuer die Liberalisierung der Liebe und fuer die 
+  Versachlichung und Entkrampfung der Meinungsbildung ueber Liebe zwischen
+  Menschen mit grossem Altersunterschied besser, wenn hier nicht
+  andauernd solche Kontaktanzeigen riesige vergiftete Schlammschlachten
+  ausloesen und den Fanatikern eine Plattform fuer Hetzkampagnen bieten.
+- Wenn's denn zur Moderation kommt und der Moderator das eine oder 
+  andere Shellscript zum Moderieren braucht, oder ein paar Tips
+  von mir als od.jjiuh.arbeit.-Mod, sag ich dazu nicht unbedingt nein.
+  Mal sehen. 
+- Umstellung auf Moderation erfordert Umbenennung, so ist das 
+  in zu.rbslf.encnfu.* auch gewesen, weil sonst viel zu viele Newsmaster
+  zu faul sind, die Aenderung technisch umzusetzen. Das bewirkt dann
+  Verlust von Artikeln. Vielleicht kannn man dabei auch gleich
+  einen Namen finden, der weniger Kontaktanzeigen anlockt.
+
+Ciao.
+   Knut
+
+-- 
+http://djb.zkklp.go/~nhcqbl/dlzcsd.hml

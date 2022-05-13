@@ -1,0 +1,12 @@
+Jean Ernstmeier schrieb zum Thema "Re: $$ MAKE $0 to $ 50000 $$ 60061":
+
+
+AFAIK muß der "Real"name entweder in Spitzklammern (also <Ben>) oder  
+runden Klammern ((Ben)) eingeschlossen sein, nicht aber in G�nsef��chen.
+
+Meinrad April
+
+-- 
+Dustbikes ist einfach nur geil.
+                                              E-Mail: rjaewb.vuqi@rdg.za
+---> Offizieller Kämpfer wider Ottmar Schöner des Ordens von dtj <---

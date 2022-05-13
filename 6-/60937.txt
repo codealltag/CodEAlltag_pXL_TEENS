@@ -1,0 +1,12 @@
+Moment mal, warst nicht Du derjenige, der gesagt hat "ohne CSS wird das 
+HTML eben so dargestellt wie man selbst will", i.e. mit den Broswer-
+Vorgaben? Ich verwende für den eigentlichen Text keine absoluten 
+Größenangaben, die Schriftgröße wird also nur von Deinem Browser 
+vorgegeben. ;-)
+
+
+Interessante Aussage. Vielleicht werde ich doch noch so eine Seite 
+einrichten. Auf die Seite kann man ja dann zusätzlich noch einen Mail-
+Link pappen.
+
+Gruß, Lars

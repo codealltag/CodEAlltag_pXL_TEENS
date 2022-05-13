@@ -1,0 +1,14 @@
+Das Zeichen mag für ANSI korrekt codiert sein, allerdings hilft mir das  
+unter ASCII-DOS nichts. Deshalb plädiere ich für gegenseitige  
+Rücksichtsnahme, ich verzichte ja z.B. auch auf komplizierte Rahmenlinien,  
+weil die unter Windows nicht korrekt dargestellt würden.
+
+
+Dafür kann Tratex einiges, was andere Newsreader nicht können.
+
+Tim Naesemann
+
+-- 
+"Also, wie war das noch? Andre ist total s, aber am Ende total tot -
+ oops!"  (TV Spielfilm über Titanic)         E-Mail: uxskyk@twqplgtufa.rq
+---> Offizieller Kämpfer wider Artur Boven des Ordens von dtju <---

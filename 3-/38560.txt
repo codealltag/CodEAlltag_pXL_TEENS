@@ -1,0 +1,9 @@
+Tut es ja auch nicht.
+Die haben ja nicht mal eine richtige Implementation von SMB.
+
+-towo
+-- 
+Warum wird eigentlich zunehmend das gute Usenetprinzip "Keiner hat
+Anspruch darauf, von jedem gelesen zu werden." in Richtung "Ich darf
+jeden Bl�dfug schreiben, weil's eh ja keiner Lesen *muß*" mißbraucht?
+- Waldemar C. Ullbrich in jizrblw.fg.hzcs

@@ -1,0 +1,25 @@
+Solches tippte Ben Hermanies:
+
+Du bekommst nie eine Shell zu sehen, sondern login ruft ein
+Auswahlmenü auf, in dem man zwischen elm und pine wählen kann, ein
+Interface für talk oder so exotische Sachen wie "Dateitransfer per
+Z-Modem" hat...
+
+
+Naja, bei ~ 30.000 Nutzern muss man als Admin extrem userproof planen... ;-)
+
+
+:-) Ich zum Beispiel. Und nur das zählt für mich.
+
+
+Man nehme verschiedene character encodings bei Sender und Empfänger.
+Dazu noch QP als content transfer encoding und erhalte... furchtbaren
+Zeichensalat. 'mal sehen, wann ich diesmal den Wursts zu sehen
+bekomm'
+
+Thomas
+-- 
+Thorsten Wiederhoeft -> <GPG-Key:http://zqm.expoiekl-lzjbjzo.je/rxn.ujwii>
+Whatever that hurts -----> <http://jpx.vvuipygy-ehhgtqj.wm/ccdov.ugj9>
+----------> Wortschatz-Lexikon: <URL:http://kdkedlgpnw.oat-lsosrmo.fz>
+<URL:http://raajcfy.ylz-nzsdbiw.gz>   <URL:http://yuny.nue-stnjlgu.cq>

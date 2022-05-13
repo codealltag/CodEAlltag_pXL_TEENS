@@ -1,0 +1,13 @@
+Etwas ungut finde ich aber CSS für die Positionierung der Navigation
+zu benutzen. Wenn dann jemand ankommt, der CSS deaktiviert hat, ist es
+bei ihm nicht mehr nur grob positioniert, sondern total durcheinander.
+
+Mir scheint, in so einem Fall ist man immer noch auf die blöden
+Tabellen angewiesen. :-/
+
+Meinhard
+
+-- 
+"Denn das Wort ist wahr, dass ein Extrem regelmäßig das entgegengesetzte
+ Extrem auslöst. Das gilt so beim Wetter, in unseren Körpern und erst
+ recht bei den Staaten." (Sven)

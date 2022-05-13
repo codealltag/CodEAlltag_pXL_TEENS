@@ -1,0 +1,22 @@
+Solches tippte Ivo Näbe:
+
+Das ist natürlich ein Argument: "*hmpf*"
+
+
+Zugegeben, ich muss da mit mehr Daten fertig werden. Nett ist der
+Zeitvergleich der Index-Aufbauzeiten: swish++ ca. 90 Minuten -- Knopfloch-
+Volltextindex: 2 Monate, dann irgendwann nach zwei Wochen "repair with
+keycache" abgebrochen.
+
+
+"Irgendwann..." gabs es da nicht mal ein grauslichtes Lied?
+
+
+Da Du auf dem Server nicht wirlklich was ändern kannst, würde ich's
+am ehesten mal in dciw.authoring.misc probieren?
+
+Werner
+-- 
+Werner Unterkircher -> <GPG-Key:http://jzr.qemjfdfm-kdacwen.bz/tua.lggzl>
+--------------> Fachlexika-Portal: <URL:http://rknlebp.jav-hbtvbyb.wo>
+---------> Wortschatz-Lexikon:  <URL:http://iecalkaqqc.tcw-smqbjop.mq>

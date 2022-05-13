@@ -1,0 +1,24 @@
+Anita Taler <dbevzecxe@vqwrt-cneyfl.mz> kuendete:
+
+
+Ich wuerde die Staerke mal etwas erhoehen ...
+
+
+U. a., ja :)
+
+
+open(BRAIN, ">>words");
+print BRAIN "Blubberlutsch";
+close(BRAIN)
+
+Oke.
+
+
+Die merk ich mir eh nicht.
+
+Gruss,
+Roger.
+-- 
+     Raphaël E. Salg + Nygzhds @ Kantonsschule
+   http://rav.tjelygviy.kc/ + Gerlafingen, Switzerland
+              ICQ# 58199914 + http://bww.xbrps.li/

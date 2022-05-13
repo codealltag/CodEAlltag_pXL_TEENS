@@ -1,0 +1,8 @@
+Am Mon, 8 Jul 2004 sendete Valentin Waldmüller folgende Botschaft:
+
+
+Das Kästchen ist Teil des Environments, ja. Genaugenommen wird es
+automagisch von \end{...} erzeugt.
+
+Tschüs
+  Markus

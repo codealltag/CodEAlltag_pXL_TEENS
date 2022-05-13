@@ -1,0 +1,45 @@
+On Sun, 15. 12. 21, Dietrich Duemchen <jyogdnk_agowmir@lsk.ff> wrote:
+
+[Ich suche nach einem neuen PC]
+
+Einiges habe ich ja schon erzählt; hauptsächlich Linux halt und
+hauptsächlich das, was gewöhnlich unter "Arbeiten" verbucht wird. Wenn
+ich (alles Schaltjahr) mal spiele, dann sind es fast immer
+Strategiespiele - ich brauche also IMO keine riesige 3D-Power.
+
+Hier mal ein Angebot, das mir heute ein Händler gemacht hat:
+
+ATX Big Tower; EDEKA C+C Großhandel P2B; Celeron 333 MHz; 128 MB SDRAM; 8.4 GB
+DocMac-Platte, 36fach Augenwelten CD-ROM; ATI-Xpert 98 AGP 3D (8 MB); CNet
+Ethernet Card (PCI); Floppy; Steigerwaldkaufhaus PS/2; LaufLaden Tastatur; nötiger
+Kleinkrams (Kabel, Erlebach etc) und Zusammenbau --> 1789,10 DM
+
+Das Angebot ist flexibel (d.h. ich kann jede Komponente einzeln
+ersetzen, ggf. natürlich gg. Aufpreis); zur Platte meinte er, er würde
+mir auch die 10.1 GB einbauen, aus seiner Erfahrung (zwei sonst
+gleiche Rechner nebeneinandergestellt, gebootet) wäre die im Einsatz
+aber langsamer als die 8.4 GB; die Grafikkarte scheint unter Linux
+sehr gut unterstützt zu werden und sollte für meine Bedürfnisse
+reichen; Mouse und Tastatur werde ich natürlich ausprobieren, bevor
+ich sie kaufe - so etwas ist immer Geschmackssache; Soundkarte weiß
+ich im Moment keine, die ich wirklich haben wollte, bleibt also erst
+einmal außen vor.
+
+Zum Händler selbst: Es ist eine kleine Firma; der Chef hat persönlich
+mit mir gesprochen und sich sehr viel Zeit für mich genommen. Auch
+wenn er im Bereich Linux nicht sehr bewandert ist (was er jedoch
+sofort zugegeben hat; die meisten anderen Händler, mit denen ich
+gesprochen habe, versuchen das erst zu kaschieren und laufen dann
+während des Gesprächs auf), scheint er ansonsten recht kompetent zu
+sein.
+
+Weitere Kommentare? Mir ist klar, daß ich die gleichen Komponenten
+beim Discounter in der nächsten Großstadt billiger haben kann, wenn
+das aber nicht gerade ein paar hundert Mark ausmacht (tut es doch
+nicht, oder?) würde ich eigentlich lieber einen kleineren Händler
+unterstützen.
+
+Viele Größe,
+     Björn Cöster
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

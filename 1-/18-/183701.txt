@@ -1,0 +1,25 @@
+tjntudkggf@nemokubyta.ea (Zjath Regedantz) wrote in
+<fpol91q75k.tb.qjfxxkfucd@pbodtcsbcy.bzcyghy.gp>: 
+
+
+Ich hatte bisher nur den Fall, dass gar nichts mehr lief. Da half 
+auch RegEdit nichts mehr.
+
+
+Ich habe noch einen heilen A500 (allerdings ohne Platte) und einen 
+A1200/030 mit defektem Mainboard. *seufz*
+
+
+Der Joystickport war da. Aber die Einstellung "Gamecontroller" nicht.
+Joystick konnte ich also anschliessen, aber Windows erkannte ihn 
+nicht.
+
+
+Also wars ja richtig.
+
+Heinz
+-- 
+
+Ein Glühwürmchen schwebte durch die Nacht.
+Ich wollte sagen: Sieh doch, Geliebte!
+Aber ich war ja allein.

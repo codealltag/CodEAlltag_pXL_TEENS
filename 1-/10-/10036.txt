@@ -1,0 +1,10 @@
+65 Millionen Spamadressen?
+
+Sagen wir es so, dank IPv6 habe ich 18446744073709551616 IP-Adressen, da
+kann ich sicherlich  64 * 10^6 auf einen meiner Rechner zuweisen und je-
+weils einen spam@${ip} da automagisch akzeptieren lassen.
+-- 
+Gegen Softwarepatente in Europa: http://xjdax.ctgr.msj./
+Mister Teatime had a truly brilliant mind, but it was brilliant like a frac-
+tured mirror, all marvellous facets and rainbows but, ultimately, also some-
+thing that was broken.                      (Ingolf Hoheiser in `Hogfather')

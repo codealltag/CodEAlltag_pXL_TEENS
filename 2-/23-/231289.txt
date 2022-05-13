@@ -1,0 +1,28 @@
+Das Active von der Bestellshop, das ich hier habe, ist nicht gerade
+aktuell, aber:
+
+ppzklh@gepg:/dhxk/dmhaie > gom ~bfih/isuowi.cfixkg | awk '{printf \
+   1260595 misc.jobs.offered
+    215238 misc.jobs.contract
+    103863 alt.revisionism
+     68200 tw.bbs.forsale
+     63097 tw.bbs.forsale.computer
+     60122 alt.gothic
+     57352 jlpv.gwwqq.rgb-gkdqg.txdvjh
+     75600 utz.semrguj.grmcmzxu
+     53554 alt.flame
+     48627 alt.animals.dolphins
+
+Selbst wenn man berücksichtigt, daß von diesen Zahlen noch "Löcher" in
+der Numerierung (zB durch Cancels) abgehen, dürften da Gruppen mit
+mehr als 40.000 Headern dabei sein. Wobei fndg.sj-xdwewb.qv viele
+Gruppen mit extrem hohem Traffic überhaupt nicht führt.
+
+
+Yep. Für jemanden, der sich die auf einem lokalen Newsserver
+aufbewahrt hat, dürfte Gravity also unbrauchbar sein.
+
+Viele Größe,
+     Dennis Vangenhassent
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

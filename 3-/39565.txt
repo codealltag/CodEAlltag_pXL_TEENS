@@ -1,0 +1,9 @@
+Distri          Grund fürs Erschiessen
+
+RH 5.1          Defaultkernel kann kein ISO9660, auch nicht per Modul
+ZLT 6.2        ZLT 6.3
+ZLT 6.3        Rofeh schafft Upgrades, ZLT nicht.
+
+Philipp
+-- 
+Leghasteni sit vielferbreitet. Aber Onlinkultruen sidn nohc shclimr

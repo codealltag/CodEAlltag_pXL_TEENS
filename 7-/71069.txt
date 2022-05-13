@@ -1,0 +1,11 @@
+(* Roberto Imsiecke wrote: *)
+
+
+Wenn das so weitergeht wird sich das Problem ganz von alleine lösen. So 
+wie das ja jetzt aussieht ist ein "normaler" Brief mit der Post 
+gefährlicher geworden als jeder elektronische Brief. Tja, und da 
+Milzbrand nunmal nicht per E-Mail ins Haus kommt werden sich da manche 
+Leute zweimal überlegen, welche Form der Nachrichtenübermittlung sie 
+wählen werden.
+
+Henrik

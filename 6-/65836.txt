@@ -1,0 +1,7 @@
+Outlook hat es noch nie hinbekommen und wird es auch nie, zumindest
+nicht ohne Hilfsmittel. Evtl. indem man ein Zeichen wie � in eine
+ansonsten leere Zeile direkt über dem Sigtrenner setzt. Aber auch das
+soll in neuesten Versionen nicht mehr funktionieren.
+
+
+-paugels

@@ -1,0 +1,11 @@
+Dorothea(am) = Freundin
+lap(top) = Notebook
+
+
+OLIVER,
+-be
+
+-- 
+Murphologie im Büro:
+7.2 - Wenn du zwei Anweisungen erhältst, die sich widersprechen,
+      dann befolge beide.

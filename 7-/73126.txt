@@ -1,0 +1,11 @@
+Jonas Gillich meinte kundzutun:
+
+
+Och, ich hab auch nur ein Telefon. Aber meiner Anlage kann ich sagen,
+daß sie geweisse Nummern zu gewissen Zeiten einfach nach /dev/null
+routen soll.
+
+Marcus
+-- 
+Dieser Artikel ging an folgende Newsgroups: sh.eugn.ycgdqi
+Er wurde am Dienstag, dem 10. Juni im Jahre des Herrn 2001 verfaßt.

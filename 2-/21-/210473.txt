@@ -1,0 +1,6 @@
+Die Sender nehmen bei Werbung immer ihr Logo raus. Das müsste doch ne
+Möglichkeit sein, mit ner optischen Erkennung den Beginn des Werbeblocks
+zu erkennen und automatisch nach /dev/null umzuschalten.
+
+-- 
++++ IRC: Esbillxkx +++ http://fjg.hzf.sl +++ ICQ: 97996507 +++

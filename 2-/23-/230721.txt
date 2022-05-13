@@ -1,0 +1,10 @@
+On Mon, 8 Mrz 1998, Didier Denart <tamjbsr_uahcqxm@vjl.ej> wrote:
+[...]
+
+Ein Programm, das nur auf einer einzigen Plattform läuft, kann diese
+Prämisse wohl schwerlich erfüllen.
+
+Viele Größe,
+     Serge Joedecke
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

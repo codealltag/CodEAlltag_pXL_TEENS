@@ -1,0 +1,15 @@
+Clemens Tzschätzsch hat geschrieben getan getutet:
+
+
+Leere Zeile hier. Muss ein Fehler sein.
+(WTF is context?)
+
+
+Das lass ich einfach mal stehen.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Oskar 'nick' Neuwald in yl.dqy.hpgcohed.zyoznwri

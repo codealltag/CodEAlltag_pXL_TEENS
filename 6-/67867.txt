@@ -1,0 +1,7 @@
+Weil er bei -misc-fixed-medium-r-normal-*-10-*-*-*-c-*-iso8859-1 dann
+nicht weiss, wie er bold drucken soll..
+
+-to'ohne Stern, ohne Fett'wo
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.

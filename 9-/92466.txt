@@ -1,0 +1,2 @@
+Da ist der Agent kaputt. Das macht Hommen-mime immer so, wenn Zeichen
+aus verschiedenen Kodierungen enthalten sind.

@@ -1,0 +1,7 @@
+[dsf 4.17]
+
+Serge
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+25: Multithreaded
+       Wir mußten ein Flußdiagramm malen, um es zu debuggen. (Meinhard Teebus)

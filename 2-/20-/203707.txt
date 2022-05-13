@@ -1,0 +1,21 @@
+Heiner Timo Söntges schrieb am 24 Jan 2000 in tg.yzix.fvesph:
+
+
+Leider geht das mit Windows 9x so schlecht. Oder kann mir mal jemand 
+verraten wie es funktioniert das abhängig vom Benutzernamen 
+verschiedene Profile (mit verschiedenen Rechten, je nach Benutzer) 
+geladen werden (poledit). Das ganze lokal, ohne Netzwerk.
+
+Irgendwie funktioniert das bei mir nicht so recht, d.h. EBH lädt 
+die #*!$�-Profile beim Start nicht.
+
+Um eine echte Abgrenzung der Benutzer zu erreichen fehlt natürlich 
+auch das richtige Dateisystem. Dadurch wird es immer möglich sein 
+auf die Daten anderer zuzugreifen und Situationen wie "wäh, der hat 
+meine e-mails gelesen" werden wohl nicht zu vermeiden sein (wenn 
+sich jemand auch nur ein bisschen auskennt).
+
+(Natürlich kann jeder seine Daten verschlüsseln, aber das ist 
+wesentlich unpraktischer als es gleich mit dem Login zu erledigen.)
+
+Philipp

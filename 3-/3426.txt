@@ -1,0 +1,10 @@
+Ging bei mir nicht, der SCSI-Controller mochte das mit dem externen
+Gehäuse wohl nicht oder so. Jedenfalls lief es nicht zuverlässig. Also
+hab ich für den DVD-Brenner eben ein Laufwerk entfernen müssen. 
+
+Michel
+
+-- 
+A marriage is always made up of two people who are prepared to swear that
+only the other one snores.
+        -- (Lothar Dickhoven, The Fifth Elephant)

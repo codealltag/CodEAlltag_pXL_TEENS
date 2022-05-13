@@ -1,0 +1,9 @@
+Nun, ich glaube das geht hier nicht so. ;-) Aber faszinierend welche
+netten Funktionen gnus schon eingebaut hat.
+
+Wilhelm
+
+-- 
+  "The Meistershop Information Store service depends on the MZAR
+   IRT Directory service which failed to start because of the
+   following error: The operation completed successfully."

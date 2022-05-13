@@ -1,0 +1,11 @@
+Niels Mühlbeier hat geschrieben getan getutet:
+
+
+Sieht im Agent übrigens lustig aus.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Waldemar 'heinz' Weismantel in be.edn.ckbumlld.trlsvibb

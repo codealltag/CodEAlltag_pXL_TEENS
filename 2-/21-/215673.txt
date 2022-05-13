@@ -1,0 +1,10 @@
+Was heißt "weg"? ext2-formatiert? Das kann LILO unmöglich gewesen sein.
+
+
+Wie man eine Kollision bei Verwendung von LILO und Windows NT
+vermeidet, steht dort jedenfalls lang und breit drin.
+
+Viele Größe,
+     Wolfram Muscheler
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

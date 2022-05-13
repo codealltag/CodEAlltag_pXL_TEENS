@@ -1,0 +1,16 @@
+Nein, nein. Das geht ganz schnell, wenn auf c:\ nur Windows und
+Programme ist. Treiber sind alle auf einer CD, zusammen mit allen
+wichtigen Programmen (winamp, winzip, icq, usw.).
+
+Alles andere kommt auf andere Partitionen. Dann formatiert man
+einfach, spielt Windows drauf, installiert alle Treiber von oben nach
+unten (dazwischen braucht man nicht mal neu zu starten), danach die
+ganzen kleinen Programme und wenn man Lust hat noch seinen
+Office-Kram. Fertig.
+
+Viel mehr kann man auf Ihate doch eh nicht laufen lassen. :-)
+
+Walter
+
+-- 
+Ihate hasst mich.

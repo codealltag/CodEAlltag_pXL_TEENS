@@ -1,0 +1,15 @@
+Am Tue, 31. 08. 22 sendete Werner Eberle folgende Botschaft:
+
+
+Da wo jetzt news steht. ;)
+
+
+Unix-standard ist es einfach $NNTPSERVER entsprechend zu setzen.
+
+Tschüs
+  Rüdiger
+-- 
+Die Weisheiten des Vincent Vinzenz: #6
+
+Am Lammerbach Bahnhof haben sie zwar eine Tür geöffnet,
+aber dafür sind die Strassen dicht.

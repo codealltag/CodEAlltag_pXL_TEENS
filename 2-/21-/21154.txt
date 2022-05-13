@@ -1,0 +1,10 @@
+Und so sprach Niklaus Neuefeind:
+
+
+Wenn mal der Strom ausfällt und alles Papier verbrennt, lat�rnich.
+
+Uwe, könnte ja sein.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.g

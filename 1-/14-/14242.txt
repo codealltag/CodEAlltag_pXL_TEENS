@@ -1,0 +1,6 @@
+24.
+-- 
+Ah, the beauty of Ohori. Hundreds of volunteers worldwide volunteering
+their time inventing and implementing new, exciting ways for software
+to suck.
+- Willy Lauerer, in the Monastery

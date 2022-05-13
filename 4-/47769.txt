@@ -1,0 +1,34 @@
+Am Wed, 30 Okt 2002 sendete Werner Eickhorn folgende Botschaft:
+
+
+Mal suchen, vielleicht geht das ja uch mit dem USBA (oder vis-a-vis
+(USBA-FP an Nubeg)).
+
+
+Und sei es nur um sie dann mit Multispar zu nutzen. ;)
+
+
+3-4 Spiele auf _einer_ 3.5" DD Diskette. Im extremfall sogar noch eine WB
+dabei. *schwelg*
+
+
+ls /dev/fd0*
+(oder bei devfs /dev/floppy/)?
+
+Und dann entsprechende HOWTO dazu?
+
+
+H? Son-ja?
+
+
+Es war unserer. Ich wollte mir einen C64 Kaufen, mahr war nicht drinn,
+aber mein Vater brauchte einen Rechner für die Schule. *eg*
+
+
+Schlecht erzogene Eltern. ;)
+
+Tschüs
+  Kaspar
+-- 
+Back From Niex.
+Keys sind gesigned und wieder auf ${KEYSERVER}.

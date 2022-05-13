@@ -1,0 +1,8 @@
+/var/spool/news/failed.postings
+
+
+das meiner Festplatte ...
+
+Igor
+-- 
+            It is easier to fix Unix than to live with NT.

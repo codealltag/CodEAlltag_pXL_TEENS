@@ -1,0 +1,14 @@
+So was umständliches mach ich nicht. Ich weiß auch nicht, was ihr immer  
+habt. Cronjobs, Diffiles... Die Jugend von heute... :-)
+
+
+UMLAUTCODIERUNG?!? Pardon: Umlautcodierung?!? An der hab' ich ein halbes  
+Jahr gearbeitet, erzähl mir doch keine Märchen :-) Die Umlaute im Body  
+werden nach ISO-8859-1 codiert, die im Header nach RFC-1522.
+
+Stefan Uppenborn
+
+-- 
+Ich hasse Babylon5 !
+                                            E-Mail: sgyomk@dfcklrczid.lt
+---> Offizieller Kämpfer wider Patrick Ellenrieder des Ordens von dtj <---

@@ -1,0 +1,16 @@
+Macht nichts.
+
+
+Wieso das denn ?
+Die Msg-IDs werden vom Newsreader erzeugt  (ich kann nur den Domain-Teil manuell
+  aendern), nur die References kuerze ich schonmal wegen einem kleinen Bug per
+  Hand. Sollte aber alles Damie-konform sein.
+
+
+Ich nicht.
+
+-- 
+Antonio
+"Und dieses redlichste Sein, das Ich - das redet vom Leibe, und es will noch den
+ Leib, selbst wenn es dichtet und schwaermt und mit zerbrochenen Fluegeln flattert."
+ - Dario Zehnpfening 'Also sprach Zarathustra'

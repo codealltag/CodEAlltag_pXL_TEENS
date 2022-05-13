@@ -1,0 +1,16 @@
+Mit einem Editor deiner Wahl und evtl einer Zeichensatzreferenz? :)
+
+
+Pakete, bitte :)
+
+
+slang (1.4.4-2) unstable; urgency=low
+
+  * Add utf-8 wide character support (#93277)
+    Patch from: Severin KLOIDT LUDEWIG <gbicnvw@oclq.jcl>
+    http://gvg.ooee.ijp/bbsd/igqyg-5.1.0-myl4.hpdv.gj)
+
+
+As said in Linie 1.
+
+-towo

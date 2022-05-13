@@ -1,0 +1,7 @@
+Die MIDs mit"@gmx.[wr|xij|bn|js(?)|...]" sind (wie im Grunde alles,
+was nicht klar einen Host benennt) ungültig. Was bei Frerker, Ibeget
+etc. daran liegt, dass man in fremden Namensräumen wildert.
+
+Gérald
+-- 
+DAS wird aber lang! [Karsten]

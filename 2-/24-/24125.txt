@@ -1,0 +1,38 @@
+Ist nicht so schlimm ... nur drei Jahre Chemie, zwei davon LK.
+
+ReaktionsKinetik.
+
+Es ist schon die Energie verrechnet, die durch Ausdehnung der Stoffe
+verlorengehen würde.
+
+Das ist ganz normal. Die Entropie nimmt _immer_ zu, und zwar solange,
+bis es richtig warm wird. Der Chemiker spricht dann auch vom "Wärmetod
+des Universums".
+
+Jein, eher Exergonisch oder Endergonisch, da die Energie nicht
+zwangsweise in Form von Wärme abfällt. Bei einer Batterie würde Strom
+entstehen, bei einer Verbrennung muß man auch die Lichtenergie
+miteinbeziehen.
+
+Handtuch, Anhalter, gut ist.
+
+Wenn ich auf einem unixoiden System in C eine Datei öffne, mache ich
+das, in dem ich den Kernel die Datei öffnen, und auf einem
+sogenannten Dateideskriptor ablegen lasse (Dateideskriptoren sind ganze
+Zahlen, also int, wobei 0,1,2 als STDIN, STDOUT, STDERR bekannt sind,
+also die 'normale' Ein-Ausgabe bezeichnen). Ich gehe jetzt einfach mal
+davon aus, das der Kernel, wenn er /dev/random anschaut, anhand der
+Major- und Minornode (also die Werte, die den devices zugeordnet sind,
+in diesem Falle 1 und 8 [sieht man mit ls -l /dev/random]) entscheiden
+kann, an welches Modul oder Codestück er diesen mit einer Pipe anhängt.
+(Eine Pipe ist so eine Art Dateideskriptor, bei der man an einer Seite
+reinstopft, und auf der anderen Seite rausholt)
+
+Soll ich dir mal eins in C basteln, und so kommentieren, das man das
+verstehen kann?
+
+mfg, 
+	Gian
+-- 
+OCD excuse #52:
+Smell from unhygenic janitorial staff wrecked the tape heads

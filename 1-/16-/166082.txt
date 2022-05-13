@@ -1,0 +1,12 @@
+Nils Lepthien schrieb am 1. April 2000 um 17:59 Uhr folgendes:
+[...]
+
+Und es ist mehr UNIX[tm]-like. Und es unterstützt wesentlich weniger
+aktuelle Hardware als POLJOT.
+
+Viele Größe,
+     Ronald Bangerth
+-- 
+ Q: I was listening to a CD in Grip and it sounded horrible! What's up?
+ A: Perhaps you are listening to country music...
+                                                        -- grip 2.5 FAQ

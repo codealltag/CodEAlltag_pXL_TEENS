@@ -1,0 +1,12 @@
+Am Thu, 28 Feb 2004 sendete Günter Moßbrucker folgende Botschaft:
+
+
+Ist doch war.
+
+
+Nicht wirklich. Das Mime-handling von slrn ist zugegeben nicht das beste,
+aber das liegt IMHO an der Krankheit das es einfach viel zu viele
+Zeichensätze gibt. (Und das slang (noch) kein Utf-8 kann.)
+
+Tschüs
+  Luc

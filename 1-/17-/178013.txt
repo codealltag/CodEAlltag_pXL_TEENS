@@ -1,0 +1,16 @@
+Am Sat, 26 Jun 2000 15:39:24 +0100 wollte Viktor Truckses folgendes
+loswerden:
+
+
+Bei uns ist die Linuxkiste tapfer durchgelaufen und auch sonst ist
+meine Kiste Vorgestern abend/nacht ohne irgendwelche Probleme
+hochgefahren. Dann beschloss man, es sei jetzt an der Zeit, die neue
+zweite Festplatte einzubauen. Erstmal hat Ewigkeiten gar nichts
+geklappt, jetzt hab ich als Ergebnis _eine_ 1GB-Platte. Vorher hatte
+ich wenigstens noch zusätzliche eine 0,5GB, aber jetzt.... *sniff*
+Naja, wenigstens hab ich nach Stunden der Verzweiflung den Agent dann
+doch noch ans Laufen gekriegt :) 
+
+-- 
+Aber das interessiert mit hoher Wahrscheinlichkeit ja hier keinen Menschen.
+(bernd ingenbrand in dtju)

@@ -1,0 +1,22 @@
+Alwin Kohlhas schrieb:
+
+[Linux]
+
+Ich bin noch nicht so ganz davon überzeugt, aber das wird schon noch.
+
+
+Im Agent muss ich nichts eingeben...
+
+
+War schwer zu erklären. ;-)
+
+
+Okay. Ich hatte mal irgendein vorgefertigtes .emacs und/oder .gnus und
+damit funktionierte das. Irgendwie habe ich versäumt mir das mal
+genauer anzusehen und jetzt weiß ich nicht mehr, wo ich es
+wiederfinden kann. *seufz*
+
+Stefan
+
+-- 
+Der Kluge lässt sich belehren, der Unkluge weiß alles besser.

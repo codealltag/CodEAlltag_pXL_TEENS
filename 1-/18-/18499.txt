@@ -1,0 +1,14 @@
+Ah, gut zu wissen.
+
+Oh, ich kann auch einen der OJRT-Server nehmen, oder
+szfi.cpzgcbe.yp, der ist zumindestens zum lesen offen. Nur hab
+ich halt (a) kein DSL und (b) keinen per nntp versorgbaren
+Statistiker. Außer dem Hamster jetzt, aber das Ding brauchte auch
+Nachbearbeitung.
+
+
+mfg, 
+	Ludwig
+-- 
+BOFH excuse #171:
+NOTICE: alloc: /dev/null: filesystem full

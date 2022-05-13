@@ -1,0 +1,7 @@
+Hmm, bei mir klänge das dann doch etwas komisch.
+
+Vittorio
+
+-- 
+75 Things you don't want to hear from your Sys Admin.
+55. Why did it say '/bin/rm: not found'?

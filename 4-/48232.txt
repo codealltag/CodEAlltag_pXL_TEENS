@@ -1,0 +1,17 @@
+Mike Zischank apparently wrote exactly the following:
+
+
+Weil du es so eingestellt hast. Oder ist es gar per default so?
+
+
+Die Cleveren dressieren ihren Hamster ja auch so, das er die Passworte
+nicht vergisst.
+
+Einstellungen -> Benutzerverwaltung/Passworte -> Passworte -> unten
+steht dann ein Feld "Verschlüsselung:" dort kannst du einstellen,
+System-Info nutzen, oder eben nicht.
+
+Enr 'einer von der cleveren Truppe' ico
+-- 
+Sinnlose Wortschwallereien durchgeknallter Möchtegern-Studenten.
+(I. Zschörnig in de.talk.jokes.d ueber detebe)

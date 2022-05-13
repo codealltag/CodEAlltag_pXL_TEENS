@@ -1,0 +1,8 @@
+Ok, Wer war das? Wer hat die Steine geworfen? Wer genau? Wir machen hier
+nicht weiter, bis das festgestellt wurde!
+
+mfg, 
+	Giovanni
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

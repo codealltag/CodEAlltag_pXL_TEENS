@@ -1,0 +1,34 @@
+Nehmen wir mal an, du hast eine CD und eine MD mit den gleichen Titeln.
+Welche würdest du zum anhören nehmen?
+
+
+Na wenn du das sagst. ;-)
+
+
+Na gut, als Ablösung für die Kassette sicher ganz brauchbar aber wer
+einen CD-Brenner besitzt braucht Zeitungsladen;Lotto kein MD mehr. Selbst eine CDRW
+kostet nur noch um die 10 DM. Davon mal abgesehen sind MD-Geräte
+sauteuer.
+
+
+Das fällt aber auch erst beim direkten Vergleich von Original und Kopie
+auf.
+
+
+Das hängt aber auch vom Zustand der Original-CD ab. Trotzdem ist die
+Fehlerkorrektur ziemlich gut. Sie vergleicht bei einem fehlenden Wert
+die beiden Werte links und rechts daneben und errechnet den Mittelwert
+von beiden für den fehlenden Wert. Das kommt der Wahrheit meist ziemlich
+nahe und klingt demnach noch meist genauso. Nur wenn es mal ganz krass
+wird kommt es wirklich zu Aussetzern oder Fehlinterpretationen. Aber ich
+denke mal auch bei Minidisk wird es eine Fehlerkorrektur geben,
+schließlich ist sie ja auch digital und nicht gefeit vor Datenfehlern.
+Und dazu kommt dann noch die 20%ige Datenreduktioen.
+Kann man bei der MD eigentlich die Datenreduktion ausschalten wenn man
+weniger als 74 Min. aufnimmt?
+
+CU
+Lars
+-- 
+Gibt es intelligentes Leben auf der Erde? Ja, aber ich bin nur zu Besuch
+hier.

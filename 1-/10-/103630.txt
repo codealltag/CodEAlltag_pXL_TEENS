@@ -1,0 +1,19 @@
+* Achim Rosskothen <bnzgyz@anokzd-tattnlk.ai>:
+
+
+Gnus stürzt bei mir auch bei großen Gruppen nicht ab. Ich habe es gerade
+mal mit einer fünfstelligen Anzahl von Postings in dtju ausprobiert. Es
+dauert, aber es geht.
+
+
+Es gibt zwei Möglichkeiten:
+a) Du hast Gnus noch nie benutzt -> du solltest nicht über Dinge reden,
+   von denen du keine Ahnung hast.
+b) Du hast es schonmal benutzt -> dann lügst du.
+
+Oder was macht `M-x customize'? Bei mir kann ich mir da eine
+Konfiguration zusammenklicken.
+
+Philippe
+-- 
+cross veinless

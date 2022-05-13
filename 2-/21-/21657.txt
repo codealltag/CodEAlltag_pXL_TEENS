@@ -1,0 +1,7 @@
+Explosive Ordenances Disposal - Kampfmittelbeseitigungsdienst.
+
+mfg, 
+	Niklaus
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

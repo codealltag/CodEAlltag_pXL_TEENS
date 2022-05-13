@@ -1,0 +1,13 @@
+Funktioniert ganz gut, aber je nach OS gehen einige Daten dabei verloren
+  (Attribute, Links, Referenzen...).
+
+
+Nur gut, wenn man keine Laufwerksbuchstaben benutzt.
+Ansonsten gibt das nur Chaos.
+
+Die Entscheidung liegt bei dir.
+
+-- 
+Patrice
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

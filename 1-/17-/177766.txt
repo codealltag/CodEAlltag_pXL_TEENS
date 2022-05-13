@@ -1,0 +1,14 @@
+Dieter Aletsee schrieb am 17. Juni 1999 um 23:09 Uhr folgendes:
+
+[...]
+                         /\
+Irgend jemand hier hat doch tatsächlich noch nicht Enno und meine
+Patches eingespielt... ;-)
+
+Viele Größe,
+     Hansjörg Närrlich
+-- 
+Every program has at least one bug and can be shortened by at least one
+instruction -- from which, by induction, one can deduce that every
+program can be reduced to one instruction which doesn't work.
+                                               -- random fortune cookie

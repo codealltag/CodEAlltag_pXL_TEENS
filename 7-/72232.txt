@@ -1,0 +1,13 @@
+Am Sun, 17. 10. 22 sendete Thorsten Meinjohanns folgende Botschaft:
+
+
+Ich hab nicht in den Sourcen geschaut, aber ein kurzer grep hat den
+anschein das nur dann diese dateien gelöscht werden wenn sie im tempdir
+angelegt werden. (wenn use_tmpdir in der rc gesetzt wird).
+
+Tschüs
+  Max
+-- 
+Die Weisheiten des François Francis: #9
+
+Auf das Jup Hoch folgt das RL Tief.

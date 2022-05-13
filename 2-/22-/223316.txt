@@ -1,0 +1,18 @@
+afaik (schriftlich hab ich's nicht) ist da kein unterschied. 
+
+
+es ist kein tape, es ist eine art diskettenlaufwerk. also nimmst du
+"IDE/ATAPI FLOPPY support" (ich glaube das heisst so, nachgeguckt hab ich
+nicht). es wird dann auch beim booten problemlos erkannt:
+hdd: IOMEGA ZIP 100 ATAPI, ATAPI FLOPPY drive
+
+mit den zip-disks gehst du um wie bei der scsi/parallel-variante auch.
+einfacher geht's nicht. 
+
+mfg
+    klaas
+
+-- 
+Klaas Schmittner  -  eMail: ytezem@mrx.qsfhv.hu
+IRCNet: ^Spooky    -         hyljqn@ymv.mkrwjmfm.ci
+          --  http://stf.zyy.kypcr.sc/ --

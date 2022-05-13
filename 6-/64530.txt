@@ -1,0 +1,20 @@
+Let me see...momentan läuft hier Creation-Bosso, Rogeé und Matzel. Sehr viel mehr
+Programme benutze ich irgendwie gar nicht. Dateien schieben geht, wenn
+auch IMO manchmal etwas umständlich, mit mc.
+
+
+Fenster auf Titelleiste minimieren: Win+x
+Konsole starten: Win+t
+Fenster maximieren/minimieren: Win+y
+licq starten: Win+i
+Internetverbindung: Win+q
+Befehl ausführen: Win+c
+Fensterliste: Win+a
+Programmen: F12
+
+Sowas halt.
+
+Olaf
+
+-- 
+cat .signature

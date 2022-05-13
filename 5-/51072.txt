@@ -1,0 +1,30 @@
+Und so sprach Torsten Maue:
+
+
+Warst Du schon ueberall?
+
+
+Tja.
+
+
+Hu? Mirror?
+
+
+guido@asterix:~/cl/netbsd/i386/sets> ls
+base.tgz        kern-laptop.tgz misc.tgz        xcontrib.tgz    xserver.tgz
+comp.tgz        kern.tgz        xbase.tgz       xfont.tgz
+etc.tgz         man.tgz         xcomp.tgz       xmisc.tgz
+guido@asterix:~/cl/netbsd/i386/sets> du -k
+66486   .
+guido@asterix:~/dl/netbsd/i386/sets>
+
+Sollte nicht soooo lange dauern, IMHO.
+
+
+Tja.
+
+
+NetBSD 1.6 soll IIRC auch XF86 4.schlagmichtot mitbringen.
+
+Gruss,
+Guido.

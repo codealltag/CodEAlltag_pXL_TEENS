@@ -1,0 +1,8 @@
+Ich nehms zurück, das ist nicht das Integral, das wäre F(x)=1/3x^3.
+Die Ableitung ist BTW simpel f'(x)=2x . Nullstelle ist also 0 und es
+ist der Standardgraph der Analysis. :)
+
+-- 
+sSXP
+
+Science is what happens when preconception meets verification.

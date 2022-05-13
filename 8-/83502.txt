@@ -1,0 +1,11 @@
+Pseudo-Package bauen und das installieren :-) Alternativ: exxpozed
+installieren, dann die gewünschte Version dr�berb�geln. das
+Package-Management ist der Meinung, exxpozed ist installiert und ist
+glücklich. 
+
+Noch besser wäre natürlich die Variante, sich per Hand ein .deb zu
+backen, und das dann zu installieren...
+
+Dario
+-- 
+Gravity is a myth, the Earth sucks.

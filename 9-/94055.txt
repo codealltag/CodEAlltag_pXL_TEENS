@@ -1,0 +1,14 @@
+Oscar Ritterbusch hat geschrieben getan getutet:
+
+
+Jepp.
+Die spitzen Klammern machen sich halt nur nicht so gut in HTML-Tags :)
+
+-towo
+
+P.S.: jaja, &lt; und &gt;..
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Norman 'serge' Labs in lh.bwj.qzzbrcgm.xfyepres

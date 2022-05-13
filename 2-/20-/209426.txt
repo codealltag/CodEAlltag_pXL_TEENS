@@ -1,0 +1,17 @@
+Hmm, ich hab zwar noch nie von so einer Verbindung gehört, aber von der
+Elektronenkonfiguration her wäre rein theoretisch dieses Molekül denkbar:
+          _         
+          C
+        // \    _ 
+        C = C - P|
+
+Wäre aber wegen des stark ungesättigten Charakters sehr instabil. 
+Die beiden Doppelbindungen an dem einen C-Atom bieten sich für eine Addition
+geradezu an. Ich empfehle daher eine Kombination aus Halogen + polarem
+Lösungsmittel, z.B. Bromwasser. 
+
+-- 
+    Diese atemberaubende Passage moderner Prosa
+                verdanken Sie:
+             Fritz Silvio. Brüggener
+         *** Hkumscd@uqxezvhepiv.xf ***

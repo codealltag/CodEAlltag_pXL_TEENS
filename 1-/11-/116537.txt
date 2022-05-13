@@ -1,0 +1,13 @@
+Dixit Roger Boßel <t-eaz@kiwzwzpzicw.hh>:
+
+Eingabegeräte bestehen da aus Software. Entweder eine Unicode-Tabelle
+oder lateinische Umschrift, die - unter Zuhilfenahme einer Art
+Rechtschreibkorrektur - in chinesische Zeichen verwandelt wird.
+
+Frage: In welche Richtung wird Chinesisch (bzw. CJK allgemein) denn
+nun geschrieben? Hatten die Chinesen da nicht mal eine Umstellung?
+-- 
+Crosspostings in *.misc-Gruppen und andere Gruppen der gleichen
+Hierarchieebene sind per Definition off-topic, da in *.misc-Gruppen
+nur das hineingehört, was in keine andere Gruppe der Hierarchieebene
+paßt.

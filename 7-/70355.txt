@@ -1,0 +1,12 @@
+Am Sat, 18 Sep 2001 sendete Rolf Cristensen folgende Botschaft:
+
+
+Da nicht. Aber da brauche ich perl eigentlich selten, meistens reicht
+sed.
+
+Tschüs
+  Ingo
+-- 
+Die Weisheiten des Christian Jup: #2
+
+Man sollte am frühen Morgen nicht seinen Laptop auseinander nehmen.

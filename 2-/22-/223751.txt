@@ -1,0 +1,5 @@
+Ja, der könnte unterproportioniert sein (da mein 166 seit 2 Jahren mit 200 
+läuft kann ich's allerdings nicht mehr genau abschätzen ;-)
+Vor allem die Hardware-Emulation (Grafik, Sound) dürfte zeitaufwendig 
+sein. Mein eigener m68k-Emulator läuft ungefähr 8 mal so schnell wie das 
+Original. ;)

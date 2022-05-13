@@ -1,0 +1,52 @@
+Raphael Nickenich meinte kundzutun:
+
+
+NNTP unterstützt entweder Feed oder Artikel-für-Artikel.
+
+
+Wovon redest du?
+
+WJML kann:
+
+gyferp@pnhy:~ > Gallerie news 119
+Trying xx.xx.xx.xx...
+Connected to news.
+Escape character is '^]'.
+200 news.xx.xx NNRP Service Ready  (posting ok).
+help
+100 Legal commands
+  article [MessageID|Number]
+  body [MessageID|Number]
+  date
+  head [MessageID|Number]
+  help
+  ihave
+  mode reader|stream
+  slave
+  quit
+  group newsgroup
+  last
+  next
+  list [active|active.times|newsgroups|distributions|distrib.pats|moderators|overview.fmt|subscriptions]
+  listgroup newsgroup
+  newgroups yymmdd hhmmss ["GMT"] [<distributions>]
+  newnews newsgroups yymmdd hhmmss ["GMT"] [<distribution>]
+  post
+  stat [MessageID|Number]
+  xgtitle [group_pattern]
+  xhdr header [range|MessageID]
+  xover [range]
+  xpat header range|MessageID pat
+  xpath MessageID
+  authinfo user Name|pass Password
+.
+
+Gibt keine Chance, > 1 Artikel *samt Body* anzufordern.
+
+Nur die Header. Und AFAIK bietet an Newsservern nur Hamster Scoring und
+kann somit das Laden unerwünschter Postings verhindern.
+
+Pierre
+-- 
+Dieser Artikel ging an folgende Newsgroups: zj.alcc.guqofo
+Er wurde am Freitag, dem 26. August im Jahre des Herrn 2002 verfaßt.

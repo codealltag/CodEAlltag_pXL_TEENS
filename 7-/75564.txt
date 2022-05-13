@@ -1,0 +1,14 @@
+unelegant? cputime verbrät? Also es wird wohl nicht viel Ressourcen
+fressen wenn alle 30 min geprüft wird ob eine Datei existiert und wenn
+ja dann ein Newspull durchgeführt wird.
+Oder meinst du meine eigenwillige '-vvv #> /dev/null..'? Ich hab das
+'-vvv #' inzwischen entfernt und nun läuft es ohne Logfile.
+
+
+Ich bin ja dabei. Und so langsam komm ich dahinter. Learning by doing
+sozusagen.
+
+
+Clever! 
+
+Volker

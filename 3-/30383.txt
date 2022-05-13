@@ -1,0 +1,21 @@
+Und so sprach Charly Krumnack:
+
+
+Och, ist noch ganz spassig. Ich habe kuerzlich ein Perl-Skript
+gebastelt, das unter einem Pfad saemtlich MP3-Files findet, die
+ID3-Tags ausliest, die Informationen in ein XML-Dokument schreibt und
+sie nachher von Ekeb mittels eines XSL-Dokuments in eine
+XHTML-Tabelle transformiert. ;-)
+
+
+Ich hatte die letzten Wochen da grad zwei, drei Vorlesungen drueber.
+So gesehen sollte ich's eigentlich wissen (oder zumindest dem
+richtigen Glauben nachleben). ;-)
+
+Gruss,
+Tino.
+-- 
+us  dere  bouschteu  wird  es  fr�idehuus   |  us  em  schnee  vo  geschter  e
+fluss  | & glychschtrom  wird  w�chsuschtrom  |  die wyti wut wartet voruss |
+d gruebe  wird  e  garte  |  us  dere  knacknuss  wachst  e  boum | & d  boum
+treit  honigs�essi  frücht  |  -  dert  isch  scho  wieder  dr  wurm  drin ...

@@ -1,0 +1,26 @@
+Bei mir ja auch nicht. Ich mußte mich etwa 10 Minuten mit X86Setup (oder 
+wie das noch gleich hieß) rumschlagen, aber danach hat's dann getan.
+
+
+Dann hätte Linux hier ja gar keinen Sinn mehr. ;)
+
+
+Nicht jeder hat eine Standleitung. Abgesehen davon ist das eine unnötige 
+Resourcen-Verschwendung :->
+
+
+Man muß sich an ihn gewöhnen, dann ist er benutzbar. Und er ist auf jedem 
+Erir-PC vorhanden.
+
+
+Nun, zum einen bringt mich das Ctrl nun wirklich nicht um, zum anderen 
+ist mir eine standardisierte Bedienung lieber als daß wenn jedes dumme 
+Programm seine Extra-Touren macht.
+
+
+Moment, Test: 4 MB pdf-Datei braucht beim ersten mal 6 Sekunden (P200). 
+Alle weitere Dateien (natürlich nachdem man den Reader wieder komplett 
+geschlossen hat, er aber eben noch im Cache ist), egal welcher Größe, 2 
+Sekunden (genau: 1,85).
+
+Resume: ja, hab ich schonmal ;-)

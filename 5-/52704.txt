@@ -1,0 +1,11 @@
+Dann kannst du auch gleich mehrere SSH-Sessions aufmachen und dort
+jeweils einen vim starten.
+
+
+Dann würdeich dir einfach raten, mehrere Dateien gleichzeitig zu öffnen.
+Kann vim auch.
+
+
+Und das funktioniert immer nocht. *megasuperduperhypfendfreu*
+
+Emil

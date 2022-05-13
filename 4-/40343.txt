@@ -1,0 +1,6 @@
+Komtm drauf an, was du da tippst... Wenn du Zeichen aus Latin1
+brauchst, hat dein NR verdammtnochmal Latin1 zu deklarieren.
+
+Urs
+-- 
+Leghasteni sit vielferbreitet. Aber Onlinkultruen sidn nohc shclimr

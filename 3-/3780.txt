@@ -1,0 +1,9 @@
+dd if=/dev/zero of=/dev/windowspartition managed Windows recht
+entgültig.
+
+Jan
+
+-- 
+Besser schweigen und als Narr scheinen,
+als sprechen und jeden Zweifel beseitigen.
+Ferdinand Ungermanns

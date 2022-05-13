@@ -1,0 +1,14 @@
+[Ballerspiele]
+
+Da schlägst du aber einen grossen Bogen. Wie hätte ich denn reagieren
+sollen? Campen will ich nicht unbedingt, und einen anderen Ausweg aus
+dem Burghof gibt es nicht. Und ich hatte keine Chance, dich zu sehen,
+weil da der Torbogen dazwischenwar. 
+
+Lars, ist halt dumm gelaufen.
+
+-- 
+Tim:~$ whoami
+root
+Tim:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Eduard Clauß]

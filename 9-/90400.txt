@@ -1,0 +1,11 @@
+Hallo !
+
+Quoted text from Gernot Idrees :
+
+
+Nicht nur dir. Wenn du mehrere IE- und Netscape-Fenster auf hast, geht 
+sogar meine Kiste im Büro (1,2GHz, 256MB) deutlich in die Knie. Hab 
+dann auch irgendwann mal nachgesehen und bei 42% CPU-Nutzung ist das 
+auch kein großes Wunder.
+
+Karlheinz

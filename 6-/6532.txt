@@ -1,0 +1,11 @@
+Stimmt, es sind drei Punkte und davor und danach eine Klammer. 
+
+
+Sowas kenne ich schon. Das sind drei beliebige Zeichen, die zur weiteren
+Verarbeitung in $n (mit n \in \N ) gespeichert werden. 
+Alle weiteren Bedeutungen werde ich so sicherlich kaum lernen.
+
+Nico
+
+-- 
+Wie kriegen wir raus, ob DAS geht? [Vorlesung Diskrete Strukturen, Neunmann]

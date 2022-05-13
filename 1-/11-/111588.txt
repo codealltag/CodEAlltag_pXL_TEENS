@@ -1,0 +1,10 @@
+Jeder Transfer, der nur einmal über den PCI/AGP geht ist eine
+effektivere Ausnutzung von Rechenzeit. 
+
+Es hat gute Gründe, wieso ich hier 25MB Ram drin habe, aber dafür
+praktisch nicht swappe.
+
+Jean
+-- 
+Ich trage meinen Gürtel nicht am Handy
+[S.N. auf einer Autobahnraststätte]

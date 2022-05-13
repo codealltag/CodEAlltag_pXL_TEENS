@@ -1,0 +1,7 @@
+Und sowas schafft ein Rechnertechnikpraktikum[0]?
+
+Mauro, entsetzt
+[0] Die, die ich hier in Thalacker mal dabei beobachten durfte als ich
+in den Raum hinter dem Praktikumsraum diverse Cisco-Switche schleppte,
+waren gerade dabei, einige ICs zu verarbeiten/verlöten. Und die haben
+*definitiv* mehr als drei Anschlüsse.

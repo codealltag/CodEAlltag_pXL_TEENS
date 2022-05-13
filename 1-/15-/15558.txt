@@ -1,0 +1,9 @@
+Richtig cool wäre es eigentlich nur, wenn es hebräisch wäre.
+
+Veit
+
+-- 
+"Dieses Programm stellt SCSI-Kennung fest, und empfiehlt einen
+ erhältlichen Kennung, anschließen ein NEUES Laufwerk. Keine
+ Notwendigkeit starten dieses Programm, falls Sie neues Laufwerk nicht
+ an schließen."

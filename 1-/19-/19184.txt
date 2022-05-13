@@ -1,0 +1,7 @@
+Spät wird das wohl aussehen.
+
+mfg, 
+	André
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

@@ -1,0 +1,8 @@
+Informatik ist eine Wissenschaft. Zwar eine für sich, aber eine
+Wissenschaft.
+
+mfg, 
+	Armin
+-- 
+BOFH excuse #65:
+system needs to be rebooted

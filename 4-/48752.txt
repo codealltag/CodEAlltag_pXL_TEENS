@@ -1,0 +1,13 @@
+Am Sat, 13 Sep 2001 sendete Berthold Askamp folgende Botschaft:
+
+
+Es geht nicht um mich. Es geht darum ob ein Programm ohne Userinteraktion
+(sei es interaktiv oder seine eigene rc) einen String den er als
+Realnamen im Usenet verwenden will herausfinden kann.
+
+
+Für ersteres wurden Ausweise und ähnliche Systeme erfunden, zweiteres ist
+herzlich irrelevant.
+
+Tschüs
+  Antonio

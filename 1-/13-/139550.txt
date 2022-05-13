@@ -1,0 +1,23 @@
+Serge Iburg schrieb am 23. Februar 2001 um 00:31 Uhr folgendes:
+
+[Probleme mit Subject-Wechsel bei Threaddrifting]
+
+Zum Teil ist "Einheitssubject" ja auch wirklich eine ziemlich
+zutreffende Überschrift für das, was "dahinter steckt" --
+chat-ähnlicher Smalltalk ist in de.talk.jugend nicht gerade eine
+Seltenheit und dabei ist es oft so gut wie unmöglich, ein genaues
+Thema anzugeben.
+
+Wenn in einem Thread aber in der Tat mal ein ganz bestimmtes Thema
+diskutiert wird und (ob von Hand oder automatisch per Skript) ein noch
+zutreffendes Subject durch "Einheitssubject" ersetzt wird, hat sich
+dieser Gag für meinen Geschmack etwas zu sehr verselbstständigt.
+
+Das sind zumindest meine 2 Cents.
+
+Viele Größe,
+     Serge Langman
+-- 
+Q: Why can't you compare structs?
+A: Compare them to what?  A summer's day?
+                  -- comp.lang.c Answers to Infrequently Asked Questions

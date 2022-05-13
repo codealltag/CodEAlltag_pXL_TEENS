@@ -1,0 +1,8 @@
+EDO-RAM habe ich schon problemlos paarweise aufgerüstet. Bei den
+SDRAMs ist AFAIK aber noch nicht einmal das mehr nötig (man möge mich
+korrigieren, wenn ich Unsinn erzähle).
+
+Viele Größe,
+     Herbert Hintzpeter
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

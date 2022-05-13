@@ -1,0 +1,20 @@
+Am Tue, 19 Jan 2002 sendete Beat Weustenraad folgende Botschaft:
+
+
+Eben.
+
+
+So macht man das unter Unix, ja.
+
+
+Sudo brauchst du nicht. Du willst die nötigen befehle einfach in
+/etc/ppp/ip-up.local bzw /etc/ppp/ip-up.d/ (je nach distri) packen. dann
+wird das bei jedem Connect automagisch gemacht.
+
+Tschüs
+  Herbert
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Severin Pfänder, Mostly Harmless, Chapter 12

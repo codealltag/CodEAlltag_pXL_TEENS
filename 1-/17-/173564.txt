@@ -1,0 +1,49 @@
+Am Wed, 17 Jan 2001 sendete Mathäus Bonck folgende Botschaft:
+
+
+Es wird wohl niemand ausser die aun ~/news/totest rumspielen ;)
+
+
+Für mich hat entweder sed gereicht oder es war direkt so das perl besser
+ist.
+
+
+Ich auch nicht, aber man darf ja träumen ;)
+
+
+IMHO ist für einen rechner der Primär zum surfen|schreiben|spielen
+gedacht und die keinen speziellen root hat ein (besseres) windows
+deutlich besser geeignet als ein multiuser unix das seine stärke gerade
+aus den permissions und den recht komplexen rc's hat.
+
+
+Das ist ein anderes problem was aber auch was damit zutun hat das die
+kunden den herstellern alles glauben und sich nicht gegen unfertige
+programme wehren.
+
+
+Klingt gut, ich würd das aber mit einem output in eine file bevorzugen.
+
+
+Immer her damit.
+
+
+Ich glaube ich mache das anders. (ich hab schon eine Idee).
+
+
+Das ist wircklich [HUMBUG] ;)
+
+
+Ack.
+
+
+Eben drum.
+
+
+Man muss sich halt beim schreiben etwas disziplinieren.
+
+
+Und ich hasse info, absolut unhandlich das teil.
+
+Tschüs
+  Bernhard

@@ -1,0 +1,18 @@
+Es war im Oktober 2002 als Jochen Grotejohann uns wissenlassen wollte:
+
+
+Benno ist in der Beziehung arrogant, ja. Erst heute lief eine schöne
+Diskussion in der Ding-Liste darüber. Er hält an dem Namens des Headers
+fest, nein er hofft sogar, dass sich Programmierer von NUAs ihm
+anschließen und es in ihre Programme implementieren. Die Spezifikation
+hat er online gestellt und meint, dass wäre genug.
+
+
+Es ist ja im Grunde nur die Spielerei eines Mannes, du solltest es also
+nicht überbewerten. Ausserdem musst du diese Funktion, die ja nur eine
+von tausenden ist, nicht nutzen.
+
+Ulrich
+-- 
+Support the ban of Dihydrogen Monoxide
+www.budm.phz

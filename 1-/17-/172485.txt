@@ -1,0 +1,11 @@
+Viktor Fetting schrieb am 6. September 2000 um 16:47 Uhr folgendes:
+
+
+Seit wann ist das Speichern und Einlesen von Daten eine Sache des
+grafischen Frontends?
+
+Viele Größe,
+     Ulrich Frederic
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

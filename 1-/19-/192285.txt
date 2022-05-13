@@ -1,0 +1,9 @@
+Irgendwie macht ne Newsserverstat nicht so viel Sinn, wenn
+jeder seinen eigenen Server führt, oder?
+
+
+Ebenso.
+
+unglenk
+-- 
+It said "Insert disk #3", but only two will fit!

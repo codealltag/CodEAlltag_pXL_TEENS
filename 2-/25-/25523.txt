@@ -1,0 +1,8 @@
+Vielleicht sollte man das wahlweise durch '/usr/share/doc' oder
+'/usr/bin/man' ersetzen.
+
+mfg, 
+	Roman
+-- 
+BOFH excuse #67:
+descramble code needed from software company

@@ -1,0 +1,10 @@
+* Hans Zembrot <torymup843814@vtlofr.ae-c.ab>:
+
+
+Ja, für manche scheint das ein Betriebssystem zu sein.
+
+Gibt es Emacs für Windows? Ich habe ja nur XEmacs. :-b
+
+Otmar
+-- 
+cross veinless

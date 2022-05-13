@@ -1,0 +1,6 @@
+Das hab ich zwischenzeitlich über Dressman auch herausgefunden. Denn als
+ich noch über Netscape postete stimmte die Zeitzone mit GMT +0200 weil
+Netscape den Header setzte. doch nun läuft offensichtlich der Newsserver
+in Neuenrade auf GMT, somit setzt er diese Zeit auch in die Postings.
+
+Nick

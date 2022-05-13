@@ -1,0 +1,13 @@
+Felix Twarkowski <oergsuh.mzbfs@zao.xi> schrieb in im Newsbeitrag: > >Darauf
+würde ich mich nicht verlassen. Niemand wird sich beschweren, wenn er
+
+Auch da nicht unbedingt. Und jeder halbwegs vernünftige Sysadmin setzt bei
+solchen Projekten dann sowieso gleich auf SCSI und bei den dortigen Preisen
+darf man die Verfügbarkeit auch nach dem Verkaufsstop eher erwarten.
+
+
+Wohl immer noch billiger, als alte Platten zu lagern.
+
+
+Das hingegen rendiert nun ganz bestimmt nicht. Geht IMHO auch gar nicht so
+leicht.

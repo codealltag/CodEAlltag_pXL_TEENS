@@ -1,0 +1,4 @@
+Vor Korrnews Base64 und UTF-8, danach QP und ein minimaler Zeichensatz.
+
+So long,
+Christian S. Mühleis

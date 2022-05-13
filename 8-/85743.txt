@@ -1,0 +1,17 @@
+Einige schwarze Zahlen, ein bisschen Text. Ja, sowas halt.
+
+
+Zwei.
+
+
+Aha. Naja, trotzdem kein Grund das Ding zu benutzen.
+
+
+Weil er die offene Klammer sucht, jedoch keine da ist und er das dann
+als Fehler ausgibt. Mit einem Beep.
+
+Arian
+
+-- 
+"Meines Erachtens hat die Kirche weder 'Ja' noch 'Nein' zu sagen,
+sondern ausschließlich 'Amen'." [Cédric Egloff]

@@ -1,0 +1,16 @@
+^^^^^^  ^^^^^^^^^^^  ^^^^^^^^^^^^^^^^^^^^  ^^^^^^^^^
+    1         2                  3               4
+
+ad 1) irrelevant
+ad 2) irrelevant
+ad 3) irrelevant
+ad 4) irrelevant
+
+                        ^h
+
+Philippe, lutzend
+
+-- 
+Wie jagt man einen Elefanten - Teil 3:
+LISP-Programmierer bauen einen Irrgarten aus Klammern und hoffen,
+dass sich der Elefant darin verirrt...

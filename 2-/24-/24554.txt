@@ -1,0 +1,8 @@
+Hat es vermutlich auch nicht. Würde mich bei dem kernel aber auch
+nicht so sehr stören wie die macken, die ich im 2.4.21 schon gefunden
+habe...
+
+Alain
+-- 
+              The best things in life are free, but the
+                expensive ones are still worth a look.

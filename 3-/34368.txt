@@ -1,0 +1,21 @@
+Am Fri, 24 Jun 2002 sendete Björn Amshoves folgende Botschaft:
+
+
+Jein, nur da lohnt es sich kostenmässig, für jede Achse einen Generator
+nur zum Bremsen ist wohl etwas teuer.
+
+
+Ich befürchte das die Bremskraft von Generatorbremsen sich eh nicht linear zur
+Geschwindigkeit ändert, sondern das sie bei sinkender Geschwindigkeit
+rapide gegenn Null geht. (So vom gefühl her, hab gerade keine Lust das
+nachzuschlagen).
+
+
+Da ist Reibungsbremsen ja auch verschwendung.
+
+
+Klar, im Winter kannst du da bestimmt nett mit Heizen. Akkus oder so
+alleine sind wohl eher ungeeignet.
+
+Tschüs
+  Vincent

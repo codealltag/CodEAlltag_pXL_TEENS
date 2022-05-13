@@ -1,0 +1,10 @@
+Nimmt aber nur RGB-Signale, keine H/F,
+für TV & Co. ungeeignet.
+Andersrum kann man aber einen Amiga auch nicht
+einfach an nen Fernseher anschließen, dazu
+braucht man nen H/F-Modulator...
+
+unterkofler
+-- 
+Double your drive space - delete Windows!
+                                          Finger rwrd@aafbdogu.iac for PGP-Key.

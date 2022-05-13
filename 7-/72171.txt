@@ -1,0 +1,17 @@
+Am Tue, 24. 01. 23 sendete Otmar Kuhnke folgende Botschaft:
+
+
+Ein teil lässt sich in slang machen und der rest mit vim und
+autocommands.
+
+
+/usr/shar/doc/slang*/slang.txt
+
+http://pvzae.lng.dio/~uithb/
+
+Tschüs
+  Ulfert
+-- 
+Die Weisheiten des Noah Nick: #8
+
+Frauen sind Schweine.

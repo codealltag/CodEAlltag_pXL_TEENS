@@ -1,0 +1,10 @@
+Schaun wir mal...
+
+Salome:/home/charly # wc -l /etc/leafnode/config
+     64 /etc/leafnode/config
+
+Stehen auch noch ein Haufen Kommentare drin...
+
+Charly
+-- 
+      ...and that is how we know the Earth to be banana-shaped.

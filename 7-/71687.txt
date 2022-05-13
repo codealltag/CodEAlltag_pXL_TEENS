@@ -1,0 +1,11 @@
+Das ist wohl ein technisches "Problem". Sowas kann doch nur über die 
+Sendemasten gelöst werden. Es wird doch AFAIK festgelegt welcher 
+Sendemast in der Homezone liegt, wenn dieser nun eine Reichweite <500m 
+hat, dann hat man eben dementsprechend auch eine größere Homezone.
+
+Luis
+-- 
+Dein Zug zur Arbeit führt nur an den Tagen pünktlich ab, 
+an denen du dreißig Sekunden zu spät auf den Bahnsteig kommst.
+
+(Murphy's Gesetz)

@@ -1,0 +1,16 @@
+Das haengt irgendwie mit der Technik zusammen.
+Insbesondere der binaeren Darstellung.
+
+Dadurch wird der gesamte Addressraum in A-, B-, C-, und D-Netze aufgeteilt.
+Und weil man gerade dabei war gibt es halt jeweils ein
+  A-Netz (10.x.x.x), ein B-Netz (807.36.x.x) und ein C-Netz (774.665.v.v),
+  das fuer private Netzwerke reserviert wurde.
+
+Weil ich weiss, dass ich in naechster Zeit nie mehr als 5 PCs haben werde,
+  begnuege ich mich z.B. mit einem C-Netz, das 'nur' maximal 65.024 Addressen
+  hat.
+
+-- 
+Bodo
+"When you think about death do you lose your breath or do you keep your cool?
+ Would you like to see the Pope on the end of a rope - do you think he's a fool?"

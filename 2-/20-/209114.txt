@@ -1,0 +1,9 @@
+Ja und ?
+
+Anwendungen rechnen auch nicht mit Sekunden, sondern mit der Zeit, die
+  sie gerade brauchen.
+
+-- 
+Tobias
+
+Math is like love -- a simple idea but it can get complicated.

@@ -1,0 +1,16 @@
+Vermutlich auch bei einem Server nicht mehr. Außer dieser eine kurze
+Plattenzugriff, der bei so vielen Usern sicher nicht ins Gewicht fällt.
+
+
+Dann würde ich gar nicht mehr auffallen. Macht mal. 
+
+
+Weit du wie ich mitschreiben kann, wieviele Byte da übertragen werden
+so einen ganzen Tag. Ich vermute, dass surfen auf einer Website
+(z.B. www.mixeazoiivy.gz lesen) um ein vielfaches mehr an Übertragung
+rüberbringt, als einen Tag lang den pop3 - Server abzurufen.
+
+Valentino
+
+-- 
+Hier kommt nichts mehr.

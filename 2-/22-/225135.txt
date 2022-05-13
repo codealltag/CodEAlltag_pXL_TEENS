@@ -1,0 +1,18 @@
+On Wed, 29 Dez 1999, Eilert Tenfelde <ziztxc@kry.niclg.xm> wrote:
+
+[Kernel compilieren]
+
+IMO sollte man zusätzlich noch ein Backup des alten (lauffähigen)
+Kernels behalten und LILO so einrichten, daß man ihn vom LILO-Prompt
+aus problemlos booten kann. Ich selbst benutze ZUF (gezwungenermaßen)
+nicht, aber AFAIK wird das nicht automatisch gemacht, oder?
+
+
+Falls auf das 'Neustarten' kein 'Freuen' folgen sollte, mag das besser
+sein. Wie das geht, ist wahlweise einem guten Linux-Handbuch oder dem
+Kernel-HOWTO zu entnehmen, das irgendwo unter /usr/doc/ liegen sollte.
+
+Viele Größe,
+     Ignaz Andert
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

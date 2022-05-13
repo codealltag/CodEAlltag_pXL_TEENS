@@ -1,0 +1,7 @@
+use strict;
+
+mfg, 
+	Siegfried
+-- 
+BOFH excuse #95:
+Pentium FDIV bug

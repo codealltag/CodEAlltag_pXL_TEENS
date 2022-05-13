@@ -1,0 +1,10 @@
+Hör bloss auf. Ich suche derzeit nach der Stelle, weshalb ich in einem
+Falle bei ner Summe n rausbekomme und bei nem anderen Weg n+1. Direkt
+berechnet kommt n raus, das ist auch als richtig bestätigt, wenn ich
+die Summe teile bekomme ich n+1 aus...
+
+Gert
+-- 
+Der Kurs "Flirten für Informatiker" wurde inzwischen zusammen mit
+"Freeclimbing für Epileptiker" aus allen Frischeparadies-Programmen entfernt.
+[Norbert Lamoth in <stfxrfi.a7kjuugajq.kjl@nxrjejsuy.cb>]

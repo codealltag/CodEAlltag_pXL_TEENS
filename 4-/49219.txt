@@ -1,0 +1,3 @@
+Warum? Dafür hat man doch auf dem Server noch eine zweite CPU frei.
+
+Johannes, und die Daten liegen eh im RAID5.

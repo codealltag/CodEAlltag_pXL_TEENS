@@ -1,0 +1,12 @@
+Und so sprach Jan Gomert:
+
+
+gqahx@icjpppmf:~> ls /dev |grep sd[0-9][a-z] |wc -l
+      80
+
+SCSI-Disks sind was feines. :)
+
+Gruss,
+Niels, ausser sie sind uralt und stinklahm. ;-)
+-- 
+Individualists unite!

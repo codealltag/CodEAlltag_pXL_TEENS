@@ -1,0 +1,9 @@
+Jup.
+
+BTW: Deiner Msg-ID fehlt noch ein '.de' oder '.Baum' oder so.
+  Ohne Punkt ist sie nicht RFC-konform.
+
+-- 
+Arno
+"When you think about death do you lose your breath or do you keep your cool?
+ Would you like to see the Pope on the end of a rope - do you think he's a fool?"

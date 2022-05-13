@@ -1,0 +1,6 @@
+Nein, nur ein Test auf das vollständige Lesen von dtju und die
+Fähigkeit, sich Teile anderer Threads zu merken :-)
+
+Clemens
+-- 
+If you keep anything long enough, you can throw it away.

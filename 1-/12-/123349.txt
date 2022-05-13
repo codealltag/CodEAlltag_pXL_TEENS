@@ -1,0 +1,13 @@
+* Maik Röttgen <fpkz@bcugevgh.ln>:
+
+[Sigtrenner]
+
+Natürlich kann er das. Entweder den Sigpatch oder diese komische Klammer
+nehmen. Bei 5.00.x geht beides noch, bei 5.50.x nur noch der Patch.
+
+
+Oder das.
+
+Nick
+-- 
+cross veinless

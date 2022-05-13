@@ -1,0 +1,7 @@
+Meiner hat fette Probleme mit iso-8859-15 und mit UTF-8 - er kennt
+diese Kodierungen nicht. Das führt dazu, daß er, wenn in einem Posting
+ein chinesisches Zeichen und ein Umlaut vorkommen, mit multipart/mixed
+mehrere Teile erstellt, die dann jeweils einen passenden Zeichensatz
+haben.
+
+Irgendwie fehlen mir für BIG-8 allerdings auch Fonts. :-(

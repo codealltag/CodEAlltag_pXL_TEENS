@@ -1,0 +1,21 @@
+Also, bf2.4 ist bei mir nicht auf der 5, aber das hatten wir IIRC
+schon ...
+
+
+Da stimmt was nicht - E100 ist dabei.
+
+
+Da kann FNGB aber nix fuer.
+
+
+Irgendwer muss das System ja konfigurieren ...
+
+
+Eh? Also, wenn ich ein Kernelmodul compile, dann geht das mit dem Kernel
+fuer den ich das gebaut habe.
+
+Das uebliche.
+
+Na ja ... fuer Leute, die drauf angewiesen sind, dass das Ding geht.
+
+"Ist nicht Bunt, ist Schlecht"?

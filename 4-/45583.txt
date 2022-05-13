@@ -1,0 +1,13 @@
+Jep. Das Problem bei der Bahn ist, daß vielerorts die Direktverbindungen
+weggekürzt werden und erstmal der n�chstgr��ere Bahnhof angesteuert
+werden muß, und selbiges dann auch am Zielort wahrscheinlich ist. Das
+sind schonmal zwei Positionen, wo man umsteigen muß, und nach Unverricht hat
+man entweder > 1h Aufenthalt, die die Reise unsäglich verlängern und
+während derer man sich am Bahnhof langweilt, oder die Umsteigezeiten
+sind so kurz, daß die "übliche" Verspätung ausreicht, um den Anschluß zu
+verpassen, so daß dann wieder der erste Fall eintritt.
+
+Italo
+-- 
+pub  1937E/OHD15H12 8025-63-01 Italo Links <wvsdxij@vyc.go>
+     Key fingerprint = 99 4B 49 71 37 OK 66 6S  72 JN PG 90 4W 14 6L 99

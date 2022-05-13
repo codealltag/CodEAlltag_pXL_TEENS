@@ -1,0 +1,5 @@
+On Mon, 11 Jan 2002 15:12:24 +0200, Otto Gäble
+
+Bei den Properties solltest Du Dich auch so mal weiter umsehen, da
+gibts ein paar ganz gute Sachen, zumal Du da auch einstellen kannst,
+wie viele Messages bei neuen Newsgroups gezogen werden sollen, etc.

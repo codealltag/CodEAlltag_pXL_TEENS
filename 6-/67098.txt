@@ -1,0 +1,11 @@
+Nur so als Frage: gönnst du dir wirklich die Kilotonnen von Spaces?
+Ich finds zum Kotzen, Klammern oder Semikoli so verloren am Zeilenende
+stehen zu haben, und die Zuweisungen werden IMHO auch nicht besser lesbar.
+
+
+Bisher hat mich da mein eingebauter Parser nicht verlassen, was durch
+Klammernhighlighting mehr als nur marginal unterstützt wird.
+
+Vinzenz
+-- 
+DAS hat Folgen für dich, Pamela [Aus einer Trauungszermonie]

@@ -1,0 +1,16 @@
+* Ignaz Götze <gdcfaee.wghaa@xrb.xv>:
+
+
+Also:
+
+Ich öffne ein neues Dokument (A4) und ändere die Hintergrundfarbe auf
+Schwarz. Ich füge Text ein (mit diesem "Ich male einen Strich und
+schreibe Text auf den Strich"-Tool) und mache ihn weiß. Ich drucke die
+Seite aus. Ich bekomme eine schwarze Seite -- den Text sehe ich auf dem
+Bildschirm, aber nicht auf dem Ausdruck.
+
+?
+
+Otmar
+-- 
+np: Franco Notdurf - The Riddle

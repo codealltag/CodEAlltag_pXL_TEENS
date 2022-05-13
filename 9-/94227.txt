@@ -1,0 +1,31 @@
+Daniel Maschmeyer schrieb:
+
+[->slrn oder so]
+
+Geht mir ähnlich. Ich habe mir da aber etwas umständliches überlegt:
+Man kann ja News mit Unkown (oder der persönliche Lieblings-Server)
+auf PC1 holen und mit slrn (oder Gnus, je nach Lustigkeit des Users)
+ganz normal lesen und so. Hat man dann noch einen PC2, holt man von
+dort mit Hamster alle Postings nochmal zum Zwischenlagern vom Unkown
+ab. Dann startet man seinen Archiv-Agent auf PC1 und ld den Kram da
+rein.
+
+So kann man auch weiterhin Agent als Archiv nutzen.
+
+Toll, ne? Ja, ich bin genial, ich weiß. 
+Okay, eine Lösung für die Laptopsache habe ich nicht. Da könnte man
+sicher auch was mit lokalem Newsserver hinwurschteln.
+
+
+Aber das kann ja eh nicht schaden, damit umgehen zu können.
+
+
+Braucht nicht mehr zu können als der Mail-Teil des Agent...
+
+
+Mal schauen.
+
+Fridolin
+
+-- 
+Nirgendwo fallen so viele Schulstunden aus, wie in der Schule.

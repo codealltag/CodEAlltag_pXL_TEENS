@@ -1,0 +1,19 @@
+Nicht so viel.
+
+Greatest Hits,
+Forbidden,
+Dehumanizer und
+The Best of Johann Völkle
+
+
+Du hast sie doch irgendwie auf "Pflaume" gestellt, oder war das default ?
+
+
+Im Prinzip schon. Eine Msg-ID muss erstens einmalig sein (ist bei dir wohl
+  gegeben), und zweitens einen vollstaendigen Domain-Namen haben.
+  Pflaume ist AFAIK kein Domain, da sollte wenigstens noch ein Punkt rein.
+
+-- 
+Karsten
+"When you think about death do you lose your breath or do you keep your cool?
+ Would you like to see the Pope on the end of a rope - do you think he's a fool?"

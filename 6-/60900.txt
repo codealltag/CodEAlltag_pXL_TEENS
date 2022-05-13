@@ -1,0 +1,24 @@
+[snip]
+
+Gut, ich verstehe Deine Motivation, allerdings denke ich da einfach 
+praktischer. Bezieh mal mit ein was genau auf der Seite nicht 100% 
+Standardkonform ist: MARGINs im Body, BACKGROUND Tag für die Tabelle und 
+ein einzelnes Align für den Counter. Schlimmstenfalls darf das also auch 
+bei allen zukünftigen Browsern nicht schlechter aussehen als eine 100% 
+konforme Seite auf einem Browser ohne CSS Support. Da der hypotetische 
+Zukunfts-Browser mir nicht bekannt ist, die Browser ohne CSS aber sehr 
+wohl, ist das vorerst für mich eine akzeptable Lösung.
+In anderen Worten: ich halte mich ja schon so weit es geht an allen neuen 
+Krimskrams, nur an unwesentlichen Stellen erlaube ich mir 
+rückwärtskompatibel zu sein. Sollte ein seltener Browser diese Tags 
+einfach ignorieren: auch nicht weiter schlimm.
+
+
+Die CSS Datei erweitern und 2 Templates umschreiben. Vielleicht 10 
+Minuten Arbeit für die gesamte Site (die eigentlichen Seiteninhalte sind 
+konform, nur das Men nicht und das ist in den Templates). Ich hatte das 
+ja schon ausprobiert aber dann eben gesehen wie mälig es auf NN47 
+aussieht. Möge er in Frieden ruhen, dann nehme ich das Unternehmen 
+nochmal auf.
+
+Gruß, Daniel

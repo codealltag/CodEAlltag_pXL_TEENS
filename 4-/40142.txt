@@ -1,0 +1,6 @@
+Wobei mir jetzt auf einmal der Gedanke kommt, wie das denn mit dem
+Von-CD-booten funktioniert, weil ja zu dem Zeitpunkt noch kein
+CD-Treiber geladen sein kann?
+
+
+pius

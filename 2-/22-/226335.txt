@@ -1,0 +1,8 @@
+Nur wenn man sie selbst portiert oder so.
+
+Bei manchen Programmen tippt man 'make' und es laeuft.
+
+-- 
+Pius
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

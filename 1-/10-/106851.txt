@@ -1,0 +1,10 @@
+* Denis Arbes <rxngdqxredqzyg@qqy.gxs>:
+
+
+Vörder-Kreiselmarkt legt Wert darauf, den Kernel so zu bauen, dass er auch wirklich mit
+jeder Hardware funktioniert. Natürlich ist darum auch viel Mist dabei,
+aber für den Anfänger funktioniert es.
+
+Fredi
+-- 
+cross veinless

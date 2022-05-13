@@ -1,0 +1,11 @@
+Is so.
+
+
+Aber beides zusammen würde am allerbesten laufen. Unreal ist ohne MMX
+einiges langsamer als mit MMX, weil die die z.B. Soundausgabe mit MMX
+beschleunigen.
+
+CU
+Ivano
+-- 
+Lieber fünf vor zwölf als keine nach eins.

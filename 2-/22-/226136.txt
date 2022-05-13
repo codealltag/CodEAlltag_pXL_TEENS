@@ -1,0 +1,18 @@
+ganz abgesehen davon, dass Ihate auch bei der dateisystemstruktur und den
+abhängigkeiten ein eigenes ppchen kocht, und man deshalb am besten nur
+rpms von ymt.hmgf.cpd oder welche, die ausdrücklich für Ihate gemacht sind
+nehmen sollte. und davon gibts nur ganz wenige. fazit: selbercompilieren
+oder auf ne andere distri umsteigen
+
+
+aaaber windows-programme haben auch kein problem damit, tonnenweise
+überflüssige und veraltete DLLs zu installieren mit dem ergebnis dass nix
+mehr geht. 
+
+mfg
+    lars
+
+-- 
+- Lars Oldenburg  -  eMail: tpojfl@vgx.xatst.au
+- IRCNet: ^Spooky    -         ttoxnm@kbz.eggtgqlt.te
+--

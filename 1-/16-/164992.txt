@@ -1,0 +1,12 @@
+Raymond Elstrodt schrieb am 17. Februar 2000 um 14:17 Uhr folgendes:
+[...]
+
+Ihre Bestellung ist aufgenommen. Bitte fahren Sie zum Schalter vor.
+
+Viele Größe,
+     Samuel Gritschneder
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

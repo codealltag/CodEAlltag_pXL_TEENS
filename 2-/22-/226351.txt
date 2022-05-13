@@ -1,0 +1,20 @@
+Das liegt wohl an der Java-Version.
+Wenn ich wirklich 100% Systemauslastung habe (News holen, wasauchimmer...),
+  dann geht bei TEZI garnichts mehr.
+
+
+Ich habe auch kaum Zeit zum programmieren.
+Scripte schreibe ich so wie ich sie brauche, also relativ selten.
+  Dafuer laufen sie ohne extra Interpreter ;)
+
+
+ATV hat dafuer andere Vorteile.
+
+Wenn eine Firma, die Hard- und Software herstellt aber ihre Hardware nichtmal
+  auf Kompatibilitaet mit der eigenen Software ueberprueft, dann ist das fast
+  schon negativ-Marketing.
+
+-- 
+Pascal
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

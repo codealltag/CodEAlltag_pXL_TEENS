@@ -1,0 +1,52 @@
+Für einen Volker-Fan wirkst Du ziemlich erstaunt ;-)
+
+
+Hätte ja sein können, daß Dir das Problem bewußt ist und Du eine
+Lösung dafür parat hast - ich bin ja nun nicht allwissend.
+
+
+So viel Zeit muß sein; ist auf dem Weg. Es werden darin ein paar
+Variablen benutzt, die in der rc.config (JENU's-spezifisch) gesetzt
+werden, aber das sollte recht einfach anzupassen sein...
+
+
+Werden die ganzen Artikel dann auch noch doppelt in die Datenbank
+eingetragen, oder gibt es dafür eine intellente Lösung?
+
+
+Hab' gerade mal ausprobiert, wie lange ein find darüber bei mir dauert:
+
+tststs@uvcfcqdvki:~ > time find /var/spool/news | wc -l
+  25240
+
+real    0m0.305s
+user    0m0.070s
+sys     0m0.230s
+
+Sind eben nur gut 25.000 Verzeichniseinträge. FAT32 (auf der gleichen
+Platte) ist da BTW 'etwas' langsamer:
+
+tststs@uvcfcqdvki:~ > time find /dosc | wc -l
+   3528
+
+real    0m3.322s
+user    0m0.010s
+sys     0m3.290s
+
+tststs@starflower:~ > echo -e 'scale=6\n0.305/25240' | bc
+.000012
+tststs@starflower:~ > echo -e 'scale=6\n3.322/3528' | bc
+.000941
+
+Natürlich nicht völlig repräsentativ - nur mal so zum Vergleich <bg>
+
+
+Ich be mich eben in Diplomatie ;-)
+
+
+Den Unterschied hatten wir ja im letzten Posting schon festgestellt.
+
+Viele Größe,
+     Michel Niewandt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

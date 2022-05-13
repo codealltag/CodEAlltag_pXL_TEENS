@@ -1,0 +1,10 @@
+Nicht das wir das hier nicht schon mal hatten. Ich hatte mal geplant,
+die Einkaufslisten per nntp zu verbastlen. So mit Datenbankskript
+serverseitig, wasz dann aus den Fehlbeständen gleich auch den richtigen
+Händler zusammenbastelt.
+
+mfg, 
+	Beat
+-- 
+BOFH excuse #65:
+system needs to be rebooted

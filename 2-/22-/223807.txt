@@ -1,0 +1,12 @@
+vielleicht eine dokumentenbeschreibungssprache? oder eine
+textstrukturierungssprache? irgendwie sowas denke ich. aber
+seitenbeschreibungssprachen geben afaik ein genaues layout auf der seite
+vor, das ist ei html ja nicht der fall. 
+
+mfg
+    gunter
+
+-- 
+Gunter Teebus  -  eMail: gkmode@rxo.mosnm.cm
+IRCNet: ^Spooky    -         jsrmfn@vyv.daqxbivk.ft
+          --  http://ytb.usf.belqt.uv/ --

@@ -1,0 +1,28 @@
+Lars Mattmüller <amkhb_snfdww@ntp.fb> kuendete:
+
+
+Nein :-/
+
+
+Hum, da muss ich wohl durch. - Also:
+
+                                 /^^^^^
+Das ist nicht gut. Genauer: das /
+
+Weil: Messenger macht seine IDs automatisch aus der Domain der
+E-Mail-Adresse. Nix gut, weil vielleicht auch noch eine andere
+natuerliche Person einen Acoount dort hat. Der Teil vor dem '@' in der
+ID ist zufaellig, und theoretisch ist es deshalb moeglich, dass diese
+ID 2mal eexistiert. Damit hat das ganze seinen Sinn verloren, weil
+sich Dein Posting aufgrund der Msg-ID nicht mehr eindeutig
+identifizieren laesst.
+
+Was tun? Etwas in der Art '[meinesubdomain.]domain.de' organisieren,
+Newsreader reparieren (oder gleich wechseln) und feddich.
+
+Gruss,
+Roman.
+-- 
+     Rüdiger G. Rövenstahl + Inzoiwm @ Kantonsschule
+   http://tqj.rkwzknnrd.ls/ + Dreien, Switzerland
+              ICQ# 12241647 + http://bxn.bccnb.mj/

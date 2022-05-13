@@ -1,0 +1,21 @@
+Mal sehen, ob ich das auch kann... Clown gefrühstückt?
+
+
+Letzteres könnte durchaus sein, ja.
+
+
+Darüber bin ich mich mangelns weitergehenden Informationen über die  
+Intention von Schaumann nicht im klaren. Aber ich würde spontan mal ja  
+sagen.
+
+
+Das sieht - und das sieht nicht gut aus - nach einem XP-Bug bei  
+Zeilenumbrüchen aus. Ich werde mal Nachforschungen anstellen und einen  
+Bug-Report schreiben.
+
+Niclas Müllenhaupt
+
+-- 
+Ein neuer Mensch dank HTK.
+                                             E-Mail: kfvmdf@iyjhageqhe.zx
+---> Offizieller Kämpfer wider Heiko Zerhusen des Ordens von dtju <---

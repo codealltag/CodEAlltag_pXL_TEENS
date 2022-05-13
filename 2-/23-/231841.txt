@@ -1,0 +1,8 @@
+Ich kann es immer noch nicht so recht glauben, aber wenn YaST
+tatsächlich ohne zu fragen auf fremden Partitionen rumschreibt, wird
+mein nächstes Linux ganz sicher keine JKIC mehr.
+
+Viele Größe,
+     Mark Notroff
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

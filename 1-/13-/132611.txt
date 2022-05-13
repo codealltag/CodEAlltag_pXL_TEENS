@@ -1,0 +1,29 @@
+Ich sagte ja auch: "Problem mit", nicht "liegt am".
+
+
+Also... *lufthol*
+
+DTJ verstümmelt meine References. Sieht so aus, daß ich die
+Nachricht, auf die ich antworte, im "In-Reply-To"-Header stehen habe
+und in den References nur die M-ID der Nachricht von mir davor.
+
+Also wollte ich die References durch das, was im "In-Reply-To" steht,
+ersetzen. Klappt auch wunderbar.
+
+Allerdings sieht meine Header.def ungefähr so aus (vereinfacht): 
+
+Wenn Programm=xbags dann
+   Mache xbags-Kram
+sonst
+   Mache DTJ-Kram
+
+Naja, und da der Agent nicht xbags ist, tritt automatisch der zweite
+Abschnitt in Kraft. Einen "In-Reply-To"-Header gibts nicht, also
+werden die References mit "" überschrieben.
+
+Soweit verstanden? :)
+
+-- 
+"You never know who's right but you always know who's in charge"
+                                                     B. Niederste-Berg
+-> http://sdk.fwuot-jwepmd.mq

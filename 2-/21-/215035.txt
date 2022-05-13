@@ -1,0 +1,15 @@
+In <Lass-mich-in-ruh7kavmk.11f.fschueller@fschueller.cologne.de>,
+Benno Hoffmann schrieb/wrote:
+
+[Path anpassen]
+
+Das nicht, aber als user ist der PATH dahin ja eingetragen.
+
+
+Ok.
+
+cu,
+Nino
+-- 
+             Homepage @ http://cnyo.cd/vr - XPO @ 1683698
+Nichts geschieht ohne Risiko, aber ohne Risiko geschieht auch nichts.

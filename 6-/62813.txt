@@ -1,0 +1,7 @@
+Nico Raschen scort auch alle drei. Ist wohl so, dass trotz direktem
+Spoolzugriff auf der SCSI-Platte noch eine merkliche Verzögerung
+eintritt.
+
+Harm
+-- 
+Dieses Posting wurde mit 256-fach ROT13 verschlüsselt.

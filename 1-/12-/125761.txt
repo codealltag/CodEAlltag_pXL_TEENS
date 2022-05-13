@@ -1,0 +1,19 @@
+Aus meiner zugegebnermassen recht kurzen Erfahrung unter Alkohol kann
+ich feststellen, dass ich auch mit einem recht hohen Pegel nix tue, was
+ich nicht auch nüchtern machen würde. Im Gegenteil, ich tendiere eher
+dazu, meinen pegel zu überschätzen, obwohl ich noch recht
+zurechnungsfähig bin, und bin dann eher noch stiller als sonst...
+
+
+Hm... Lass mich mal überlegen, wann ich das letzte mal ne Flasche Bier
+hatte...
+
+*nachdenk* Muss die Installsession "Windows 98SE auf den neuen Rechner
+3./06.05.2001" gewesen sein...
+
+Günther
+-- 
+Wie jagt man einen Elefanten - Teil 2:
+C- Programmierer bestimmen zuerst mit sizeof() die nötige Speichermenge
+für einen Elefanten, versuchen diese zu allozieren, vergessen dabei das
+Ergebnis abzuprüfen und schießen dann mit wilden Pointern auf den Elefanten.

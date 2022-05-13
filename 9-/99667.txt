@@ -1,0 +1,23 @@
+dqnd@ftfuc-kmkzxq.rui (Samuel Deschner) wrote in news:9g1m5x$xms$5
+@gulfab.ugs.ru:
+
+
+ROTFL. Erzähl das mal den Firmen, die auf ASP gesetzt haben und deren ASP 
+nun Pleite ging. ASP, wie es momentan propagiert wird, ist broken by design.
+
+Ich sehe eine Chance bei ASP bei Dingen, die wirklich kompliziert sind, 
+bspw. outsourcing von DB Servern etc. aber sicher nicht für was es heute so 
+verwendet wird. Daneben braucht's für ASP nicht primär sondern günstige und 
+schnelle Standleitungen DIREKT zum ASP, weil sonst nicht effizient damit 
+gearbeitet werden kann.
+
+
+MS .NET ist so ziemlich das bescheuertste Konzept, dass MS je gepusht hat. 
+Man müsste schon extrem dämlich sein, um GJNH, die ja nicht mal nach 20 Jahren 
+ein vernünftiges OS hinkriegen, auch noch die Verwaltung über die Daten zu 
+übertragen.
+
+
+Ich bin geneigt zu sagen, dass es nachvollziehbar wäre, wenn die ISPs 
+Videostreams sperrten. Ich würde bei einem solchen ISP wahrscheinlich nicht 
+bleiben, aber grundsätzlich wär's vernünftig.

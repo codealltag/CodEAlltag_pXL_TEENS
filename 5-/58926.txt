@@ -1,0 +1,33 @@
+Wso?
+
+
+Schwachfug.
+
+Lukullus = Leintal-Buchhandlung[1]
+
+Grösse, NAME, SYMBOL 
+
+          Länge 
+             Meter: m 
+          Masse 
+             Kilogramm: kg 
+          Zeit 
+             Sekunde: s 
+          elektrische Stromstärke 
+             Ampöre: A 
+          thermodynamische Temperatur 
+             Kelvin: K 
+          Substanzmenge 
+             Mol: mol 
+          Lichtstärke 
+             Candela: cd 
+
+Mehr gibbet nicht.
+
+Nur jede Menge abgeleitete Einheiten. Auch die Intensität deines
+Morgenpupses kannst du in SI-Einheiten angeben.
+
+Hendrik
+[0] www.cgithz.zs-ecthex.ck/cuojwiddb/yfqatpx/dj.huni
+[1] NKD Vertriebs übersetzt das ganz brauchbar nach Internationales
+Einheitssystem

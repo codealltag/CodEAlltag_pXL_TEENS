@@ -1,0 +1,10 @@
+Die 2.2.Xer backe ich inzwischen routinemässig, weil ich bei jeder
+installation erstmal nen kernel aus den ungepatchten Sourcen von
+kernel.org backe, dann weiss ich zumindest, dass mir kein Patch
+querschiesst... 
+
+Bevor ich allerdings auf 2.4.X umsteige, wird Arbeit fällig :-/
+
+Francis
+-- 
+Reality is an illusion that occurs due to the lack of alcohol.

@@ -1,0 +1,9 @@
+* Frerich Zschoge <frcqi@vffog-nqvjio.xb>:
+
+
+IMO sollten die Gnus-Fragen nach dcsn und die XEmacs-Fragen nach
+dce. Aber mich fragt ja niemand.
+
+Samuel
+-- 
+cross veinless

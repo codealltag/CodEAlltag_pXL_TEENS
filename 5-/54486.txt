@@ -1,0 +1,17 @@
+Hm. Du willst doch wohl nicht noch einen mehr haben, der dich fragt, ob
+$FOO leicht zu implementieren ist und "ob du es mal gerade eben
+bast^Wprogrammieren könntest"? *g*
+
+BTW... hatte gerade eine interessante Idee... *g*
+
+slrn im "Multi-Console-Mode"... Ein slrn, der nur die Gruppenliste
+anzeigt, ein slrn, der nur den Thread view zeigt, und ein slrn für die
+Artikel... Die Koordination der slrns könnte man in /var/slrn ansiedeln
+und "die richtige slrn-group" kriegt man per Kommanozeilenoption oder
+configfile hin...
+
+Außerdem wäre eine History konfigurierbarer Länge der letzten gelesenen
+M-IDs interessant, Zwischenspeicherung in einer Datei, Anzeige in einer
+URL-Box...
+
+Axel, mal wieder innovativ *g*

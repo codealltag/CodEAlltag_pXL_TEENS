@@ -1,0 +1,12 @@
+Friedrich Brochlos schrieb am 23 Apr 1999 in lt.coay.jfkzwl:
+
+
+In der XNews.ini solltest du unter [Compose] noch folgende Zeilen 
+eintragen:
+
+CustomHeadersCount=3
+CustomHeader1=*MIME-Version: 1.0
+CustomHeader2=*Content-Type: text/plain; charset=iso-8859-1
+CustomHeader3=*Content-Transfer-Encoding: 8bit
+
+Igor

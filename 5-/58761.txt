@@ -1,0 +1,14 @@
+Hab meine Freunde, IIRC in ungefaehr diesem Zusammenhang, das schonmal
+sagen gehoert. Mehr aber auch nicht.
+
+-towo
+
+PS:
+(add-hook 'emacs-startup-hook 'column-number-mode)
+(add-hook 'message-mode-hool 'auto-fill-mode)
+
+Warum tun die es nicht?
+
+Argh, moment, beim zweiten ist es offensichtlich -- aber der erste
+meckert was von invalid parameters und haemmert dann den Formatstring
+raus..

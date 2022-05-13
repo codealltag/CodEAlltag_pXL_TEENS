@@ -1,0 +1,7 @@
+*notier* Romm�karten einkaufen.
+
+mfg, 
+	Reinhard
+-- 
+BOFH excuse #342:
+HTTPD Error 4004 : very old Okurav cpu - insufficient processing power

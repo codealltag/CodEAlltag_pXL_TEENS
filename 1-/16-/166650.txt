@@ -1,0 +1,9 @@
+Folkert Timme <Hpz.Rruhh@cmz.myf> schrieb in im Newsbeitrag:
+tozt1kwksz.1t.Nlf.Dazgy@kakxqyxomvc.hoqzwa.vls...
+
+Kanuverleih kenn ich nur als OpenGL library ;-)
+
+
+Je nach dem, wenn das Grundsystemstabil ist und Access Control Lists
+unterstützt, würde ich wohl zum NZP greifen und dazu einen hübschen
+Standalone Mailserver...

@@ -1,0 +1,15 @@
+Am Sun, 28 Aug 2002 sendete Mario Docters folgende Botschaft:
+
+
+Nanana, er benutzt Gnus, da musst du ihn nicht auch noch des
+selbstkompilierens bezichtigen, wo doch jeder weiss das echte Männer[tm]
+das Makefile auswendig lernen, den Sourcecode im Kopf phrasen und dann
+mittels KAU das executable erstellen.
+
+Tschüs
+  Italo, auch nur Selbstkompilierer
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Philipp Reinard, Mostly Harmless, Chapter 12

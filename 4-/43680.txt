@@ -1,0 +1,29 @@
+STATISTIK AUGUST 2001
+-=-=-=-=-=-=-=-=-=-=-
+
+NEWSREADER (strukturiert)
+
+Pos.  Anz.    %       Name
+---------------------------------------------------------------------------
+   1    977   30,04%  "Gnus"
+   2    811   24,94%  "Forte Agent"
+   3    708   21,77%  "slrn"
+   4    228    7,01%  "Mozilla/NetScape"
+   5    170    5,23%  keiner angegeben
+   6    131    4,03%  Agent auf Kruecken
+   7     74    2,28%  OpenXP/32 v3.9.3 (Win32) alpha @ 21. 12. 21f
+   8     45    1,38%  "Microsoft Outlook"
+   9     43    1,32%  "Xnews"
+  10     38    1,17%  "Gravity"
+  11     12    0,37%  Pan/0.11.3 (Unix)
+         12    0,37%  OpenXP/32 v3.9.3 (Win32) alpha @ 21. 12. 21f
+  13      2    0,06%  OpenXP/32 v3.8.7pl2 (Win32) beta @ 21. 12. 21f
+  14      1    0,03%  andere
+
+
+Statistik basierend auf den Ergebnissen AgtFinds 1.6.5.0 von André Oelschlaeger.
+(Darstellung angepasst von Hilmar Claus)
+Basserend auf den Feeds von:
+gxxq.urn.xys.mj         sfcp.sielbne.aq          yhww.ypkdy.wb
+zqde.qzgosa.vc          ifns.a-zetzen.og         naet.kbw-hvakimbj.eg
+gtdf.izl-hfjsmkukf.dc

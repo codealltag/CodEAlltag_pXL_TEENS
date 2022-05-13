@@ -1,0 +1,8 @@
+War unter X Standard bei mir...
+
+Ansonsten: IIRC heisst das Teil "Xkeymap", damit sollte das auch
+klappen, dass du umbelegst...
+
+Wolf
+-- 
+Math problems?  Call 1-800-[(10x)(13i)^2]-[sin(xy)/2.362x].

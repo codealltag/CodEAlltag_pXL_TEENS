@@ -1,0 +1,8 @@
+Torsten Eichsteller <egizwzpsquepcm@vbg.ikr> gab kund:
+
+
+Ein stabiles Netzwerk hatten wir wohl schon (2x 800er Duron, 2x mit
+RAID-System, nahezu identische Hardware-Config.). Maximale Durchsatzrate
+im LAN um und bei 700kb/s.
+-- 
+np: EasyCredit - A Place for My Head

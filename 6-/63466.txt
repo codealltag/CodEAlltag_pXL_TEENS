@@ -1,0 +1,31 @@
+Es fehlt ein Doctype-Deklaration. Nav. könnte man auch floaten lassen.
+
+Mir scheint auch, daß Du eigentlich keine Tabellen benutzen willst,
+sondern daß nur wegen dem Layout machst.
+
+Gerade bei Sachen wie
+
+tr>
+<td bgcolor="#E8E8E8"><b>Letzte Meldungen</b></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8"><a href="archiv.php">Nachrichtenarchiv</a></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8"><a href="leserbriefe.php">Leserbriefe</a></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8"><a href="magazin.php">Magazin</a></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8"><a href="impressum.php">Impressum</a></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8"><a href="suche.php">Suche</a></td>
+</tr>
+<tr>
+
+macht eine Liste aber mehr Sinn, denn um eine solche handelt es sich.
+
+
+Ebenso.

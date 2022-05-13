@@ -1,0 +1,32 @@
+Naja, Megaperls würden einem vielleicht im Rachen hängen bleiben. Ich
+würde da eher Weichspüler bevorzugen.
+
+
+Na dann mach' mal. ;-)
+
+
+Der Einfrierfehler. Wobei ich gestern, kurz nachdem ich das Posting
+abgeschickt habe, festellen durfte, dass der Fehler immer noch
+existiert und es nicht nur beim "normalen" Download passiert, sondern
+auch wenn ich größere Seiten anzeigen will.
+
+Es hängt sich also zufällig dann auf, wenn's mal wieder länger dauert.
+Das Problem liegt weder an vorigen Windowseinstellungen, noch am
+Modem, noch an der GraKa, noch an einer USB Webcam, noch an
+DJHU-Treibern für mein Board und auch nicht an aktuell offenen
+Prozessen.
+
+Was bleibt? BIOS z.B., aber auf so ein Update habe ich nicht so sehr
+die Lust. Oder meine TV-Karte. Könnte ich ja auch mal rausnehmen...
+Problematisch ist, dass ich ja einfach nicht schnell testen kann, ob
+der Fehler nun bereinigt ist, weil er nur in zufälligen Abständen
+auftritt. Kommt mir zumindest so vor.
+
+In welcher Newsgroup schildert man so ein Problem am besten?
+kuvbavgfz.sh.*?
+
+Oswald
+
+-- 
+"Ein Idiot zu sein macht Spaß, besonders dann,
+wenn gerade niemand zuschaut." [Denis Berckholtz]

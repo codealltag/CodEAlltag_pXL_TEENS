@@ -1,0 +1,6 @@
+Ja, ich kenne das sehr gut.
+
+
+Wieso nicht? Glaubst Du der Server rät ob Du neue Mails hast? Da passiert 
+ein bißchen mehr im Hintergrund als einfach "+OK user x has 0 messages (0 
+octets)." zu schicken.

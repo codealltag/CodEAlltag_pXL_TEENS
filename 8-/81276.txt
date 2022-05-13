@@ -1,0 +1,11 @@
+Siebelt Wiederspahn hat geschrieben getan getutet:
+
+
+ls ./next_jup/include | sed s/Alkohol/!Alkohol/
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Uwe 'cornelius' Witkugel in ny.ffg.otcubhop.bccwsecp

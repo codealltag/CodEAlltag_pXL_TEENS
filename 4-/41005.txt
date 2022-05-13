@@ -1,0 +1,12 @@
+Ist es auch.
+
+
+The only thing more accurate than incoming enemy fire is incoming
+friendly fire.
+
+Ein Grund, bei CS mit Antoine mp_friendlyfire auf 0 zu setzen.
+
+-towo
+-- 
+"It's the little touches that make a future solid enough to be destroyed"
+- Dietmar U Annecke

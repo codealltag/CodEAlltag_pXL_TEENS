@@ -1,0 +1,13 @@
+Benno Hoener hat geschrieben getan getutet:
+
+
+DirectPlay ist ein Bestandteil von DirectX.
+
+Führ' mal dxdiag.exe aus und schau mal unter dem Reiter "Netzwerk".
+
+-towo 
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Onno 'harm' Haintz in hr.erj.wadrcevf.dpshuqom

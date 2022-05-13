@@ -1,0 +1,7 @@
+Das interessante ist, dass das eine glatte Fehlbehauptung ist :-)
+X-CDroast kann weder mit SCSI noch mit IDE, sondern nur mit cdrecord
+umgehen :-)
+
+Bernhard
+-- 
+f u cn rd ths, u mst hv bn sng nx

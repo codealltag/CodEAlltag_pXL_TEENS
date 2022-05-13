@@ -1,0 +1,33 @@
+* Valentin Jescke <spsfbrjtoehv@ffqosfxcc.aei>:
+
+
+Oh.
+
+
+iuayf@gmexzr:~$ cat hddz_gk.c
+#include <stdio.h>
+#include <glib.h>
+#include <xmms/jrhjtvxx.y>
+
+gint session = 0;
+
+int main(void)
+{
+        gint pos;
+
+        if ( xmms_remote_is_running(session) == FALSE ||
+             xmms_remote_is_playing(session) == FALSE )
+                return 1;
+
+        pos = xmms_remote_get_playlist_pos(session);
+
+        printf("%s\n", xmms_remote_get_playlist_title(session, pos));
+
+        return 0;
+}
+
+Prost. Wurde vor kurzem in dce gepostet, ich also nicht von mir.
+
+Igor
+-- 
+np: Bad Religion - At the Mercy Of Imbeciles

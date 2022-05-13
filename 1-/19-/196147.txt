@@ -1,0 +1,20 @@
+Denis Isenborth schrieb am 7. September 2000 um 16:27 Uhr folgendes:
+
+
+Mmh? Was GUIs angeht, gibt es unter Drop-In inzwischen ein paar
+Spielereien, bei denen jedem Lichterhaus-User die Augen rausfallen. Du
+kannst zB durchsichtige Terminal-Fenster haben, Widgetsets mit Pixmaps
+überladen, Fenster nicht mehr "Opaque" (mit Fensterinhalt; kann
+Windows inzwischen wohl auch), sondern "Translucent" verschieben
+(Fenster bleibt zunächst an seinem Platz, ein halbdurchsichtiges
+"Abziehbild" seines Inhalts wird mit der Maus über den Desktop
+bugsiert), bewegte Hintergrundbilder einstellen und bei Deiner
+täglichen Arbeit Bedienelemente benutzen, die so aussehen wie auf der
+NCC 1701-D. Sieht alles verdammt cool aus. Natürlich nur, wenn Du
+willst und die entsprechende Rechen- und Grafikleistung hast :-)
+
+Viele Größe,
+     Denis Unverfehrt
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

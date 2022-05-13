@@ -1,0 +1,20 @@
+Eigentlich habe ich von Windows gar keine Ahnung, aber vielleicht wirst
+du im Quellcode der HMTL - Datei fündig. Suche nach refresh.
+
+Ansonsten versuche mal Javascript abzustellen. Das verhindert, dass sich
+ein Browser von selber nochmal startet - Normalerweise.
+
+
+Ich glaube schon, so auf den ersten Blick zumindest. Vielleicht kannst
+du auch mal den Computer rebooten. (Zumindest wird gerne gesagt, dass
+das bei Windows irgendwas bringt. Ist ja bei guten Betriebssystemen so
+gut wie nie notwendig.)
+
+
+Schade... 
+
+
+Ottmar
+
+-- 
+Hier kommt nichts mehr.

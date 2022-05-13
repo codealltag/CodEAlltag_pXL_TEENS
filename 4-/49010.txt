@@ -1,0 +1,14 @@
+Am Fri, 18 Okt 2002 sendete David Cohaus folgende Botschaft:
+
+             ^^^^^^^^^^^^^^^^^^^^^^
+
+man getpwnam
+
+
+Ich? Der root.
+
+
+Dann trifft die obrige Bedingung nicht zu.
+
+Tschüs
+  Richard

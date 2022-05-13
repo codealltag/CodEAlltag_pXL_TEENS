@@ -1,0 +1,10 @@
+Am Wed, 6 Mai 2003 sendete Ulfert Rabauer folgende Botschaft:
+
+
+*grussel* Ich habe hier ein (ansonsten recht brauchbares) Buch über C
+(ohne '++') Die haben bei jeder Funktion die Namen der Parameter
+eingetoitscht. Und es geht nicht um selbst geschriebene Funktionen
+sondern um solche die aus ANSI|POSIX|SYSV|BSD|etc. Standards kommen.
+
+Tschüs
+  Mirko

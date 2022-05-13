@@ -1,0 +1,12 @@
+* Severin Imm <fmbzqi@jjgyfx-upqpcsr.ao>:
+
+[CPU-Beanspruchung]
+
+Danke.
+
+
+Du hilfst, indem du einen Bug-Report an die Doberstein-Maintainer schreibst.
+
+Carl
+-- 
+cross veinless

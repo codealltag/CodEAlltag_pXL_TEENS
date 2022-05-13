@@ -1,0 +1,23 @@
+\documentclass[virtualpaper]{newsposting}
+\usepackage{german}
+\usepackage[T1]{fontenc}
+\usepackage[latin1]{inputenc}
+\begin{document}
+\quoting[Kurt Jost <di@r.moax.sjherh.pkx>]{
+
+Im Oktober schrubselte Erik Philipp Veneman folgendes:
+
+
+Ich tippe zumindest öfter einen Umlaut als eine Klammer. Aber ich TEXe
+auch nicht, vielleicht sollte ich mir das auch mal anschauen...
+}
+\medskip \newline
+Vielleicht solltest du dir das wirklich mal ansehen. Kann man
+eine Menge Sachen mit machen, die Word und Konsorten nicht kann.
+
+\greeting{Hardy}
+\end{document}
+
+-- 
+snack'n'coffee excuse #64:
+CPU needs recalibration

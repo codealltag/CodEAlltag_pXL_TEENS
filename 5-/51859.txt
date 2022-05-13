@@ -1,0 +1,6 @@
+Nein.
+
+Bei einer Standleitung habe ich gewisse SLAs, und zwar unter Garantie
+was anderes als Best-Effort-IP.
+
+Benno

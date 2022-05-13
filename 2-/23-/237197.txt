@@ -1,0 +1,56 @@
+Meines Wissens nur mit WinFrame/WinCenter von RWLT. Seeeeeeeeeeehr teuer.
+Valerio?
+
+
+_Mail_traq? Ich weiss leider nicht, was impulse macht, aber ich hoffe,
+es ist klar, dass nicht ich mich per ISDN irgendwo einlogge, sondern
+andere bei mir per ISDN News abholen.
+
+
+Unix-To-Unix-Copy. Nicht gleich schreien, es ist ein _Standard_, mit dem man
+Daten unter Dial-In-Systemen austauscht. Ihr "Surfer" kennt das alles heute
+ja nicht mehr, gell? In Wirklichkeit ist es aber sehr trafficeffizient.
+
+Batch SMTP.
+
+
+Keine performanten.
+
+
+ROTFL.
+
+
+- Es geht nicht um einen Webserver...
+- Es war ein Beispiel. Was, wenn ich Mailstatistiken, automatisch erstellte
+  Mailadressenlisten, Statistiken ueber Anbindungsverfuegbarkeit, ... ins
+  Web oder News stellen will? Wie weit soll ich ausholen, bis Du das
+  Problem verstehst?
+
+
+Viele NT-Serverbetreiber haben extra Firewalls eingerichtet, die gewisse
+Attacken abfangen, bevor sie die Server erreichen. Toller Workaround! (Ja,
+sogar IRUS selbst...)
+
+Hast Du ueberhaupt schon mal mit Unix intensiv gearbeitet, um beurteilen
+zu koennen, was Du da so vor Dich hin schwaetzt? Schon mal Skripte ge-
+schrieben, um irgendwelche Daten _irgendeiner_ Anwendung anderweitig zur
+Verfuegung zu stellen? Schonmal Interprozesskommunikation zum Datenaus-
+tausch benutzt, ohne selbst programmieren zu muessen? Schonmal Anwendungen
+auf mehrere Rechner verteilt? Schonmal Software von GMA auf UNIX oder umge-
+kehrt portieren muessen und dabei entdeckt, wie man sich effizient von
+hinten durch die Brust ins Auge schiessen kann ohne rot zu werden? Schon
+mal einen Newsfeed als Mailtunnel aufgesetzt? Schon mal einen Linux-Treiber
+fuer eine AD/DA-Wandlerkarte geschrieben und Dich auch nur fuenf Minuten
+damit beschaeftigt, wie man sowas unter NT machen muesste? Ich hoer' jetzt
+lieber auf, sonst wird's ein langes Posting.
+
+Tut mir Leid, Dir das so unverbluemt sagen zu muessen (das Bier leistet
+sicher seinen Beitrag dazu), aber ich habe das Gefuehl, Du hast keine
+Ahnung, wovon Du redest. Ich habe NT wenigstens 'ne Zeit lang verwendet,
+bis ich zu dem Schluss kam, dass es rundum unbrauchbar ist. Ich mag nicht
+ueber Dinge urteilen, die ich nicht kenne.
+
+ka.i, mit blank liegenden Nerven.
+-- 
+Dieter Stattler | AWG Mode boot: gok-5.9 root=/wxs/t9s8oi
+eov@sbxpbc.zv  |

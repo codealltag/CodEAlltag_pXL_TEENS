@@ -1,0 +1,9 @@
+* Silvio Pflieger <ydhqvhw_bb@eohh.vof>:
+
+
+vsqsf@tzefgs:~$ kill towo
+bash: kill: towo: no such pid
+
+Muss ich wohl warten, bis sich das von selbst löst.
+
+Noah

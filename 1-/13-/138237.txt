@@ -1,0 +1,43 @@
+Jaaaaa.... ich hab ja schon meinen Kompromiss gefunden...
+
+
+Ja, das würde es auch, wenn ich jedesmal die ganze Gruppe reinlade, wenn
+ich aber nur die reinlade, die ich noch nicht gelesen habe, (die anderen
+Postings werden _nicht_ angezeigt!) dann hat das Threading nach
+Refernezen nicht viel Sinn.
+
+
+Hm. Weiß nicht, so lebt sichs ganz gut...
+
+
+Das Problem liegt daran, dass als "read" markierte Postings gleich
+draußen bleiben. 
+
+
+Ja, so ists. (Gnus kann schon die Postings auch abspeichern, aber da ich
+sowieso meinen eigenen Newsserver habe wollte ich das nicht. Nennt sich
+Redundanz. - Doppelt speichern von daten.)
+
+
+Das muss ich mir mal ansehen.
+
+
+Wäre eine Möglichkeit. Muss ich mir ansehen.
+
+
+Werde ich wahrscheinlich auch...
+
+
+Mal sehen.
+
+
+Ok, ok...
+
+
+Theodor
+
+-- 
+.. and then I was asked:
+"Would you like to dance with a little Dragon?"
+Without any thoughts I said:
+"Yes, I would."

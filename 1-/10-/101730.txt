@@ -1,0 +1,7 @@
+Stimmt, da kann man gut drauf verzichten.
+
+Ich frage mich sowieso, was eine anmeldepflichtige NG in de.* verloren
+hat.
+
+Am besten wird die gleich auf moderated gesetzt, mit Bot-Moderation,
+oder /"unauthorisierte"/ Artikel werden retromoderiert.

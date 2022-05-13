@@ -1,0 +1,24 @@
+Kay Oxenfarth schrieb am 1. Juli 1999 um 20:30 Uhr folgendes:
+
+
+Da lasse ich mich doch nicht zwei Mal bitten:
+
+define followup_hook ()
+{
+   if (current_newsgroup() == "nu.aimv.jugend")
+     {
+	message_now ("Subject \""+extract_article_header("subject")+
+		     "\" bitte ggf. ändern.");
+	() = getkey;
+     }
+}
+
+ :-)
+
+Viele Größe,
+     Werner Ortman
+-- 
+checking if system is big endian... no
+checking for money... none left :(
+checking for assembler support... Linux i686, assembler routines enabled!
+                                         -- Hermes 1.2.5 configure-script

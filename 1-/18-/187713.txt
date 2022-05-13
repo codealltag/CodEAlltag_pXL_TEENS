@@ -1,0 +1,17 @@
+Keine Ahnung, ich hab' nur das Schul-Pascal (ITG-Pascal, deutsche Befehle,  
+keine Sprungmarken, kein Compiler und auch ansonsten relativ untauglich)  
+und eine hm... mir geschenkte Uralt-Version mit dem Namen "IRN  
+Pascal".
+
+
+Keine Ahnung, ich weiß nur:
+101 - alles futsch (zumindest bei XP)
+200 - Prozessor zu schnell
+201 - Datei fehlt oder korrupt
+
+Tom Meihsner
+
+-- 
+Erwarte immer das Schlimmste und du wirst nicht enttäuscht.
+                                             E-Mail: ersjrl@oahoqegkku.cv
+---> Offizieller Kämpfer wider Roland Armbrustmacher des Ordens von dtju <---

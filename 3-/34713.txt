@@ -1,0 +1,7 @@
+Am Sat, 24 Nov 2002 sendete Mike Hainzl folgende Botschaft:
+
+
+Das s/bin/bist/ macht die interne Fehlerkorrektur beim Lesen automagisch. ;)
+
+Tschüs
+  Ihno

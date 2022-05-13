@@ -1,0 +1,16 @@
+Gibt aber Probleme mit der Bezugsverkettung. Manche Billignewsreader  
+können da ins Schleudern kommen. Denn wenn ich z.B. heute um 10 Uhr ein  
+Posting schreibe und du antwortest am selben abend darauf, XP das Datum  
+aber auf 0 Uhr setzt, sieht das dann so aus:
+
+ 05.07.  10:00  Guy Ehlbeck     Posting
+ 05.07.  00:00  Guy Hiebl   Re: Posting
+
+Nicht gerade das beste...
+
+Guy Ehlbeck
+
+-- 
+Nächster Termin für den Weltuntergang: Juni 1999 (Angaben ohne Gewähr)
+                                              E-Mail: byecj@b-irqupx.lb
+---> Offizieller Kämpfer wider Winfried Int-Veld des Ordens von dtj <---

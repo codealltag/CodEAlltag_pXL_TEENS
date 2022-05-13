@@ -1,0 +1,10 @@
+Ja. Asche ueber mein Haupt!
+Ich habe in /etc/hosts die Reihenfolge der Namen fuer den eigenen Rechner
+geaendert... scheiss Seiteneffekte. :-/
+
+Trotzdem habe ich keine Erklaerung, wie der Artikel abgesetzt wurde.
+
+ud.u
+-- 
+Remmer Cristensen | Epifer boot: zbc-7.9 root=/box/n3a5pi
+rjb@fiabex.bv  |

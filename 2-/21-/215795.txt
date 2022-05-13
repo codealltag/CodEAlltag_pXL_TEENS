@@ -1,0 +1,12 @@
+On 02. 06. 22, Ottmar Weissgaerber <Hoz.Wmxaf@cmu.pkr> wrote:
+
+[An andere Programme pipen geht nicht bei allen Editoren]
+
+Ich denke schon, daß es ein Kriterium dafür ist, ob man einen Editor
+ernst nehmen kann. Die Editoren, die ich bisher ausprobiert habe (ulrich,
+vim, jed, XEmacs) hatten das Feature auch eingebaut.
+
+Viele Größe,
+     Jonas Wollesack
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

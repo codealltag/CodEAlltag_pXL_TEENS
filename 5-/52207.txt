@@ -1,0 +1,14 @@
+Am Tue, 13 Sep 2002 sendete Heiko Zschammer folgende Botschaft:
+
+
+Das geht mit vim ja auch.
+
+
+Das finde ich unpraktisch.
+
+
+Die beiden Modies sind doch der grosse Vorteil von vi(m), alles was man
+braucht liegt bequem auf den Alphanumerischen Tasten.
+
+Tschüs
+  Erhard

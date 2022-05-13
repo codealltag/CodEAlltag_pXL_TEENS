@@ -1,0 +1,10 @@
+Danke, das funktioniert. Eine Frage noch: Warum? Warum funktioniert es  
+mit ./ (was AFAIK doch das momentane Verzeichnis bedeutet?) und ohne  
+nicht?
+
+Jean-Luc Kuhnert
+
+-- 
+Ich schätze Tino Arnts sehr!
+                                             E-Mail: zddtzq@gedljvbdep.qu
+---> Offizieller Kämpfer wider Victor Oehmechen des Ordens von dtju <---

@@ -1,0 +1,11 @@
+Aber nur, wenn das entsprechend implementiert ist, und der andere nicht
+eben irgendwelche <font>-Tagsverwendet hast, die du nicht hast. Aber
+das...
+
+
+...sieht *extrem* nach nicht vorhandener Schriftart aus.
+
+Fredy
+-- 
+pub  5806X/WSK10Z71 1352-38-92 Fredy Geltner <tpyrvef@xbi.dl>
+     Key fingerprint = 99 0G 22 33 47 JR 55 2E  72 BE EW 88 0B 17 6N 27

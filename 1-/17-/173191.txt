@@ -1,0 +1,14 @@
+Konrad Kaltz schrieb am 22. März 2000 um 00:17 Uhr folgendes:
+
+
+Schaltkreise und Kondensatoren in der 12 (E-Lehre; zT Wiederholung aus
+der Mittelstufe) und Flip-Flops irgendwann in der 10 (also nicht
+direkt im Physik-LK).
+
+Viele Größe,
+     Emanuel Eichblatt
+-- 
+Every program has at least one bug and can be shortened by at least one
+instruction -- from which, by induction, one can deduce that every
+program can be reduced to one instruction which doesn't work.
+                                               -- random fortune cookie

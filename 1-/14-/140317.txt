@@ -1,0 +1,6 @@
+Muss man das nicht sowieso, wenn man Info gewählt hat?
+
+Vincenzo
+
+-- 
+Löscht alt.binaries.*!

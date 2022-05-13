@@ -1,0 +1,21 @@
+OK, hier noch ein paar Infos...
+Ich benutze Cute-Ftp 2.6.1 auf einem Windows 98 System.
+Ich komme mit dem Programm bis auf den Server und kann dort dann auch
+navigieren, und Dateien hochladen. Nur der Download funktioniert nicht.
+Mir wird dann (ein ERROR) gemeldet, das ich ERST einen File uploaden
+soll.. Aber selbst nach dem Upload eines Files bekomme ich keinen
+Zugriff....
+Was mach ich falsch ??
+
+Hier ist mal ein Beispiel Server den ich genutzt habe (oder versucht habe
+zu nutzen):
+FTP-Adresse:    012.952.999.50
+UserID:              mp3
+Passwort:           mp3
+Port:                  21 (ist ja normal, oder ??)
+
+Und der File, den ich downloaden wollte steckt im Verzeichnis /UPLOAD
+(glaub ich...)
+
+Vielen Dank, Leute...
+Hoffentlich könnt Ihr mir helfen...!

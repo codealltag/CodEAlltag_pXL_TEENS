@@ -1,0 +1,4 @@
+F ist auf gnus-summary-followup gebunden. Warum ist das jetzte eine
+Macke?
+
+-towo

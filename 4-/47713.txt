@@ -1,0 +1,6 @@
+s/Teppich/Mainboard/
+
+Joseph
+-- 
+pub  4077G/RZM58R85 1451-64-51 Joseph Laverenz <rcnterk@opd.dr>
+     Key fingerprint = 99 5B 92 16 88 SG 58 6A  44 CR WE 16 6V 81 4H 51

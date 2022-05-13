@@ -1,0 +1,15 @@
+Na dann...
+
+Compile-Error im aktuellen ftape. Fehler ist wohl bekannt, aber noch
+nicht behoben. Fehler kommt, weil wait.h aus kernel 2.4.20 wohl nicht
+mehr die selbe ist, wie früher. Allerdings geht 16.6.18 auch nicht. Und
+zufällig ist meine Festplatte wieder so voll, dasz ich gerne Zeug auf
+Band auslagern würde. Mit Windows den Krams packen geht auch nicht, weil
+das Bandlaufwerk seit 97 nicht mehr unterstützt wird (so wie in 'Wir
+schreiben keinen Treiber. EOD'). Ich bin echt begeistert.
+
+mfg, 
+	Ingolf
+-- 
+BOFH excuse #138:
+BNC (brain not	(user brain not connected)

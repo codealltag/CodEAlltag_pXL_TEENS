@@ -1,0 +1,10 @@
+[MID-Generationsm�glichkeiten] 
+
+Dann passt das ja. Mal schauen, was ich mit verschiedenen
+Kompressionsalgos so alles in eine MID reinbekomme.
+
+mfg, 
+	Sandro
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

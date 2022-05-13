@@ -1,0 +1,14 @@
+Harr!
+Harr!
+Harr!
+Harr!
+Harr!
+Harr!
+Harr!
+Harr!
+
+mfg, 
+	Hermann
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

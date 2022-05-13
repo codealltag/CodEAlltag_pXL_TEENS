@@ -1,0 +1,19 @@
+Keine Ahnung. Ich hab das ganze dann einfach mit Strg-Alt-Entf
+abgewürgt, oder besser, versucht abzuwürgen. Dann hatt Kremann den
+Geist aufgegeben und ich hatte nur noch OS-Überreste auf dem
+Bildschirm. Sehr seltsam.
+
+
+*meld*
+
+BTW: Kann mir jemand erklären, was ich tun muss um Gnus offline laufen
+zu lassen? :-)
+
+Ich will, dass es die Postings auf meinen Befehl vom Hamster holt und
+sie dann samt Body im Gnus bleiben. Am besten für immer.
+
+Enrico
+
+-- 
+Die letzten Worte der PRIMARK-Besatzung:
+"Das Lämpchen da blinkt."

@@ -1,0 +1,27 @@
+Ja.
+
+
+Nein.
+
+-v?
+
+Ich denke, ja. :)
+
+Also, das Vorzeichen steht auch für einen Zahlenwert, weil eben 1111
+und 0111 vom Betrag nicht gleich sind. Das sind 1111 und 0000. Die
+Zahlenfolge drückt einen bestimmten Wert in den positiven oder
+negativen Zaheln aus, bei positiven in der Form 0000+xxxx, bei
+negativen 1111-xxxx.
+Somit ist also der Wertebereich um eine Stelle gewachsen, weil die
+Daten eben nicht Vorzeichen plus X, sondern aus einer Zahl (eindeutig
+positiv oder negativ, je nach ersten Ziffer) besteht.
+
+Genauer kann ichs dir auch nicht erklären. :) Wenn jetzt wieder ein
+"H?" kommt, krame ich meine Literturtipps raus und fertig. :) RSO ist
+sowieso nicht meine Stärke. :)
+
+-- 
+sSXP
+
+"Adopted kids are such a pain -- you have to teach them how to look
+like you ..."  -- Denise Niendorff

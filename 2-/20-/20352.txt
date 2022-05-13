@@ -1,0 +1,8 @@
+Wenn dann >> {}. Wenn die Schnittmenge zweier Mengen 5 ist, dann
+hat man evtl. was falsch gemacht.
+
+mfg, 
+	Jörg
+-- 
+BOFH excuse #412:
+Radial Telemetry Infiltration

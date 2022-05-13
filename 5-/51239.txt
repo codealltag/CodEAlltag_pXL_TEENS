@@ -1,0 +1,18 @@
+Claudio Alandt tippte sich die Fingern wund mit folgendem:
+
+
+Ja. Er sortiert den dazugeladenen Artikel nicht korrekt im Summarybuffer
+ein.
+
+
+,---------
+`---------
+Das sollte es beheben, wobei ich noch am testen bin.
+
+
+Japp!
+
+Anton
+-- 
+Immer wieder behauptete Unwahrheiten werden
+nicht zu Wahrheiten, sondern was schlimmer ist, zu Gewohnheiten.

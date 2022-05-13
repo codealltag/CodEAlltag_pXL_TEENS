@@ -1,0 +1,7 @@
+Mit Linux noch nicht weit genug? Meinem P100 hier machen ein paar
+Server (News, Mail, WWW...) im Hintergrund eigentlich nichts aus.
+
+Viele Größe,
+     Noël Mers
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

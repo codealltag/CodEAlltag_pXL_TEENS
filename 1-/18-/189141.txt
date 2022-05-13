@@ -1,0 +1,8 @@
+Beweis durch sinnfremde Behauptung? Assoziationen zählen in der Logik
+nicht, da zählen nur Atome, aussagenlogische Formel, boolsche
+Auswertungen und anderer Blödsinn...
+
+C Ya,
+Heimo
+-- 
+[wegen ausgegangenen Keksen verwaist]

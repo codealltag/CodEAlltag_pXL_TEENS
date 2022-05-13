@@ -1,0 +1,32 @@
+Mmh, wir haben jetzt eine und ich kann nicht sagen, dass ich sie nochmal  
+kaufen wuerde:
+Die Filterung z.B. bei Halflife ist das grausamste seit der Matrox  
+Mystique! Wenn ich senkrecht auf eine Textur schaue ist sie "scharf" (Ich  
+meine, ich erkenne gut, was es sei soll), je flacher der Winkel wird,  
+desto verschwommener wird sie und das auch noch so "Stufenweise".
+Gehe ich mit Blick geradeaus ueber ein Gitter, dann weiss ich nur von dem  
+Gitter, weil ich das Spiel ja von einer Voodoo-Karte kenne.
+
+Mit der Performance bin ich allerdings ganz zufrieden, Halflife laeuft  
+immerhin bei 800x600 wirklich fluessig (>30fps) auf einem P-II 350.
+
+
+Ein WAS? :-)
+
+
+Mmh, ich habe noch recht alte Treiber [Ende '97] und Halflife loeppt  
+darauf und die Miniport 3Dfx Driver machen bei OGL-Spielen auch keinen  
+Aerger.
+
+
+Das bin ich, das Bild war irgendwie <iehhhhh> bei >800x600, bei 800x600  
+ist aber der Leisezeichen-desktop (oder wie er unter 3.0 hiess) riesengross  
+gewesen...
+
+ga>Meinst du, ich kauf mir einen Mundlhof Patch? Ich bin doch nicht verrueckt,
+ga>und zahl 80 Mark nur fuer den 3d Support...
+
+Als Besitzer der "normalen" Version waeren es 25,- gewesen.
+-- 
+
+Ciao, Ullrich

@@ -1,0 +1,17 @@
+On Sat, 26 Sep 1999, Orlando Inhetveen <bmyshio_uvqwadr@mpu.vf> wrote:
+
+[rpm mit glibc2-Binary auf libc5-System]
+
+Wenn ich an ein DOS-System gehe, eine .EXE-Datei aufrufe und gesagt
+bekomme "This program requires Microsoft Windows." kann ich mich
+natürlich entweder erkundigen, was dieses "Windows" ist und wo ich es
+herbekomme, oder ich kann "Microsoft ist einfach nur chaotisch" schreien.
+
+Wenn ich an ein Linux-System gehe, ein .rpm installieren will und
+gesagt bekomme, daß ich andere Libraries dafür brauche, stehe ich vor
+einer ziemlich ähnlichen Entscheidung.
+
+Viele Größe,
+     Darius Greifenhain
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,19 @@
+Kerstins, JUIM, ...
+
+H? Als ich mir das letzte mal X gezogen habe, hatte das noch ~80MB,
+alles zusammen.
+
+Hab ich nicht hier.
+
+Exakt. Das Grundsystem. Kein TeX drauf, kein X, kein INN, kein Apache,
+kein Samba, ...
+
+Ich hab das mal ausprobiert. Als ich dann arge Probleme bekommen habe,
+weil ppp nicht wirklich einfach zum laufen zu bekommen war, wurde gerade
+Bergleutehaus freigegeben...
+
+mfg, 
+	Massimo
+-- 
+BOFH excuse #329:
+Server depressed, needs Prozak

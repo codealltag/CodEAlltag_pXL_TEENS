@@ -1,0 +1,5 @@
+Normalerweise bietet es eine Schrift an und die wird automatisch beim 
+initialisieren eines Modes eingestellt.
+
+-- 
+Wer diese Sig lesen kann hat sich für den richtigen Autor entschieden ;-)

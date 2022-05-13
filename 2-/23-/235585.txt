@@ -1,0 +1,9 @@
+Das sind dann Koaxkabel, die verlaufen von PC zu PC (peer-to-peer).
+Einen Hub braucht man fuer BNC-Kabel (sehen aus wie Telefonkabel),
+  da hat jeder PC ein eigenes Kabel zum Hub. Ist zwar schneller
+  aber IMHO zu aufwendig.
+
+-- 
+MdP Jonathan
+If someone says "I want a programming language in which
+  I need only say what I wish done," give him a lollipop.

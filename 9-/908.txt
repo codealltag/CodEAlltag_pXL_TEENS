@@ -1,0 +1,13 @@
+Nein, das haben wir IIRC noch nicht getan. 
+
+
+Nagut, dann eben Szniet. Dabei ist die sicherlich garnicht da. Was auch
+wieder ihre Schuld sein dürfte? 
+
+Enrico
+
+-- 
+Arnold:~$ whoami
+root
+Arnold:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Thomas Piskorowski]

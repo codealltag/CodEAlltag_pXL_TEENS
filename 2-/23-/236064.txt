@@ -1,0 +1,98 @@
+Ach, Schach ist euch lieber? Bittesehr!
+
+41. Schachkreismeisterschaft Oberthulba
+=================================================
+
+Im Finale standen sich der Vorjahresmeister Viktor Ollrogge von den  
+Schachfreunden Platzbecker und der vielversprechende Lokalmadator Victor  
+Westerheide vom Abishirt gegenüber. Gespielt werden auf zwei  
+Siege, es steht 1:1 nach einer relativ zügigen Partie für Ollrogge und  
+einem wahren Marathonsieg für Westerheide, der viermal kurz vorm Matt stand.  
+Nun die entscheidende, letzte Partie:
+1. d4 Sf62. c4 e6
+3. Sc3 Lb4
+4. e3 c5
+5. Sge2 cxd4
+6. exd4
+Nach 6.... 0-0 7. a3 Le7 8. d5 exd5 9. cxd5 Te8 10. d6 Lf8 11. g3 hatten  
+die Schwarzen in letzter Zeit mit Schwierigkeiten zu kämpfen.
+6.... d5
+7. c5
+Bisher war an dieser Stelle 7.... Se4 8. Ld2 Sxd2 9. Dxd2 a5 üblich, siehe  
+z.B. Miles - Short, Dramfeld 1984, Informator 38/747. Westerheide wartet mit  
+einer Neuerung auf:
+7.... e5!?
+Kritisch für den Wert der ganzen Idee scheint mir die Untersuchung  
+folgender Varianten nach 8. dxe5 Sg4 und nun:
+A) 9. Sf7 d7 10 Da4 + Sc6 11. Lb5;
+B) 9. f4 Lxc 5 10. Sd4;
+C) 9. Lf4 Sc6 10. Lg3.
+Eine dieser Fortsetzungen hätte Weiß wählen sollen, denn nach dem Textzug  
+gerät er in Schwierigkeiten:
+8. a3? Lxc3 +
+9. Sxy3 exd4 10. Sb5?
+Danach wird er seinen Bauern nicht mehr wiedersehen. Die beste Chance war  
+das Endspiel nach 10. Dxd4 0-0 11. Lg5 (11. Lb5 Ld7 12. Lxd7 Dxd7 13. 0-0  
+Sc6 ist für schwarz günstig) 11.... Te8 + (nicht aber 11.... Sc6 12. Lxf6  
+Sxd4 13. Lxd8 Sc2 + ? 14. Kd3 Sxa1 15. Le7 Te8 16. Ld6 Lf5 17- Ld3 +-) 12.  
+Le2 Sc6 13. Lxf6 Sxd4 14. Lxd8 Sxe2 15. Sxe2 b6! (Kombiniert den Druck auf  
+der e-Linie mit der Drohung ... La6. Dagegen wäre 15.... Txd8 16.Td1! Le6  
+17. Sd4 Tac8 18. b4 schlecht für Schwarz), und nun kann Weiß ins Remis  
+abwickeln mit 16. Lg5 La6 17. Le3 bxc5 18. 0-0-0 Lxe2 19. Txd5.
+10.... 0-0 11. Le2
+Oder 11. Sxd4 De7 + nebst Dxc5 mit einem gesunden Mehrbauern.
+11....Se4
+12. Dc2 Sc6 13. Lf4
+Um ... a6 mit Sd6 beantworten zu können.
+13.... Df6
+14. Lg3 Lf5
+15. Ld3 Se5
+16. Lxe5 Dxe5
+17. 0-0 a6
+18. f4?!
+Die zusätzliche Schwächung des weißen K�nigsfl�gels wird nun die  
+Realisierung des schwarzen Mehrbauerns problemlos machen; 18. Sd6 Sxd6 19.  
+cxd6 Tac8 20. Dd2 Lxd3 21. Dxd3 Tfd8 22. Tac1 war relativ besser.
+18.... Df6
+19. Sc7 Tad8
+20. Tae1 Dc6
+21. Sxd5 Txd5
+22. Lxe4 Lxe4
+23. Txe4 Txc5
+24. Dd3 Td5
+Damit ist die Partie praktisch entschieden. Den technischen Teil erledigt  
+Schwarz tadellos:
+25. f5 Df6
+26. h3 h6
+27. Kh1 Tfd8
+28. Tef4 Tb5
+29. T1f2 Te5
+30. Td2 Te1 +
+31. Kh2 Te3
+32. Dc4 d3
+33. Tf1 b5
+34. Df4 Te2
+35. Tfd1 Txd2
+36. Txd2 Td4
+37. De3 Td5
+38. De4 Dd6 +
+39. Kg1 Dc5 +
+40. Kh1 Dc1 +
+41. K2 Dxd2
+42. Dxd5 Df4 +
+43. Kg1 d2
+44. Dd3 a5
+
+1:2
+
+Valerio Westerheide hat zum ersten Mal seit 15 Jahren wieder einen Titel nach  
+Wettringhof geholt. Alles in allem war es ein sehr packender Wettkampf  
+mit vielen glücklichen Siegern und fairen Verlierern. Jean-Claude Hekers für Fade 
+Flören aus Wettringhof.
+
+Jean-Claude Hekers
+
+-- 
+Ich hasse FUU!!!
+                                              E-Mail: vnpqx@n-ajqxrh.md
+---> Offizieller Kämpfer wider Sascha Fetting des Ordens von dtj <---

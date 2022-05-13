@@ -1,0 +1,10 @@
+Aprobos umbrechen: Wie sage ich vim denn eigentlich, dass es einen
+markierten Textteil doch bitte neu umbrechen soll?
+
+Wenn ich nämlich nachträglich Wörter einfüge wird die Zeile überlang
+und er soll den Absatz dann neu formatieren. Wie macht man sowas? :-)
+
+Benedikt
+
+-- 
+Einheitssignatur.

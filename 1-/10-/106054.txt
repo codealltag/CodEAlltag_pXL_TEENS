@@ -1,0 +1,11 @@
+Irgendwie sowas. Kann man eigentlich die shell auf /bin/false setzen?
+
+
+Nicht allzuviel.
+
+
+Oh. Sicher?
+
+Niclas
+-- 
+DAS macht mir keinen Spaß! [Patrizia]

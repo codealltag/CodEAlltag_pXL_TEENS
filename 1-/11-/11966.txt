@@ -1,0 +1,9 @@
+^^^^^
+
+Das wäre auch eine blöde Idee, Nikolaus ist doch kein Spammer. ;-)
+
+Ingolf
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - Ahan, 09. 08. 21

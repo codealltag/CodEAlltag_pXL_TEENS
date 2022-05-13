@@ -1,0 +1,7 @@
+Aha, du willst länger bleiben. Sehr fein!
+
+Salvatore
+
+-- 
+Microsoft Entwicklungsumgebung:
+"Eine Ausnahme von Typ 'Unbekannte Ausnahme' wurde nicht behandelt."

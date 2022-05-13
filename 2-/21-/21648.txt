@@ -1,0 +1,9 @@
+Da du beim D�belsetzen i.d.R. etwas tiefer bohrst, als der Dübel lang
+ist (und die normale Putzstärke über Rohren dicker ist als ein Dübel
+lang) wirst du nach Niedermeyer das Rohr anbohren.
+
+mfg, 
+	Markus
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

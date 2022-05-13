@@ -1,0 +1,16 @@
+Am Thu, 12 Jun 2002 � sendete Meinrad Christopher folgende Botschaft:
+
+
+Nein, ist sie nicht. Da steht "--|" was allerdings in slrnpager nicht zu
+erkennen ist (der dritte buchstabe wird nicht angezeigt) wenn du dir
+aber die Sig automagisch abtrenne lässt (oder sie einf�rbbst) wirdst du
+sehen das genau das nicht erfolgt. Und im editor sieht man das anstelle
+des Leerzeichens ein Steuerzeichen ist.
+
+Tschüs
+  Sascha
+-- 
+Die � Weisheiten des Veit Valentin: #10
+
+Nach der Jup folgt (un-)mittelbar eine Postingflut.
+     ->     Rette sich wer kann.

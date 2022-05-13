@@ -1,0 +1,13 @@
+Wolfram Luecke meinte kundzutun:
+
+Man nimmt im Zug der Fakultät oft genug mit Zahlen x mal, bei denen
+log(10)x Teil von |N+ ist. Und jede dieser Zahlen hängt weitere log(10)x
+Nullen ans Ende an. selbiges bei Zahlen, die einen ganzzahligen Teiler
+haben, der zu einer der eben genannten Zahlen führt.
+
+Willy
+-- 
+[17:26] <pathfinder> Muss mich jetzt dann mal Richtung warmes Nass aufmachen,
+                     da ich gegen 18 Uhr aus dem Haus muss um nach MISSY zu
+                     fahren und LotR-3 ansehen werde.
+[17:27] <Yetiszaf> pathfinder: Spoiler: Er ist Andres Vater.

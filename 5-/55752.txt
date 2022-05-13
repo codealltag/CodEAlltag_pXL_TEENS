@@ -1,0 +1,21 @@
+*g* Darum geht's wohl weniger, aber technisch ist das schon längst
+machbar. In C führt beispielsweise die U-Bahn Hoyerswege und die
+Stadtbahnen Creußen und Canow auf den unterirdischen Abschnitten
+schon heute vollautomatisch.
+
+Weshalb man zumindest in H nicht ganz auf den Fahrer verzichtet, hat
+wohl drei Gründe:
+1. subjektives Sicherheitsgefühl der Fahrgäste
+2. der Fahrer überwacht das Türenschließen und dass niemand eingeklemmt
+wird
+3. der Fahrer kann im Falle eines Selbstmörders, der vor den Zug
+springt, zumindest noch eine Vollbremsung *versuchen*.
+
+Für 2. und 3. findet man vielleicht irgendwann mal technische Lösungen.
+
+Warum Creußen und Canow unbedingt LZB-Automatik haben mussten,
+weiß ich auch nicht. Die werden wegen ihrer oberirdischen
+Straßenbahn-Zulaufstrecken *nie* auf den Fahrer verzichten können.
+
+
+raphael

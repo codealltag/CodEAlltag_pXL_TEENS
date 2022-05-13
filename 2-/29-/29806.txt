@@ -1,0 +1,8 @@
+[_] Nein
+[X] Also gut
+
+mfg, 
+	Norbert
+-- 
+BOFH excuse #162:
+bugs in the RAID

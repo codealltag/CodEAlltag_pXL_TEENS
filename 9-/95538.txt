@@ -1,0 +1,11 @@
+Gerard Zurlutter hat geschrieben getan getutet:
+
+
+Erklär' mal, was das sind.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ulrich 'vittorio' Stratemann in cu.wsp.gqhmclxu.tibciaic

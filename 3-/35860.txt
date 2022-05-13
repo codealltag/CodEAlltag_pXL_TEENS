@@ -1,0 +1,17 @@
+N, das passiert ja mit Signalen. Und wenn die gestört sind, muss der
+Fahrdienstleiter halt über Funk Fahrbefehle "gegen Rot" diktieren.
+Außerdem wäre da ja kein _Mangel_ gegeben. :-)
+
+"Blockmangel" hab ich auch noch nie gehört, könnte aber sowas wie
+"Trassenmangel" sein. Sprich, der IRE (=leicht besserer RE, gibbet in UNTERVISNITZ
+erst ab 2006) war vermutlich verspätet und seine Trasse schon durch andere
+Züge belegt. Ihn dann dazwischenzuschieben, bringt auf stark
+frequentierten Strecken nur weitere Verspätungen für nachfolgende Züge,
+jeder schleicht dem anderen hinterher...
+
+Bei der Waltari ist eine Trasse esamu nicht nur die "Hardware" sondern auch
+netzverwaltungstechnisch Synonym für Kapazität, die ein Zug durch seine
+Fahrt belegt.
+
+
+ben

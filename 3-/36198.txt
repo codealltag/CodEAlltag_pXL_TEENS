@@ -1,0 +1,7 @@
+* Justin Ströbl <dwxkain@eeo.gr>:
+
+
+Du kannst für den Einstieg mal `man sm' lesen. Nein, das ist nichts
+versautes.
+
+Elmar

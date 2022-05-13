@@ -1,0 +1,3 @@
+Ich weiss nicht, woran sie sich alles nicht halten, aber bei mir ging damals 
+kein RPM aus dem Netz. Und das Zeug von AKAKraft war erstens ziemlich kaputt und 
+zweitens selten aktuell. Und suseconfig ist sowieso kriminell. Never again.

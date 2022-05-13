@@ -1,0 +1,3 @@
+Nicht UNIX, sonder der andere, den auch mySQL macht.
+-- 
+Wer später bremst ist länger schnell!

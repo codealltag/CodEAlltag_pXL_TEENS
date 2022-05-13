@@ -1,0 +1,3 @@
+Die getrennte Speicherverwaltung eines Rechners haette ich mal gerne..
+
+-towo

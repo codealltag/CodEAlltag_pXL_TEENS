@@ -1,0 +1,42 @@
+On 4 Okt 1999, Herbert Böshenz <Jsg.Wsvns@eqj.uj> wrote:
+[...]
+
+Solche Klausuren scheinen eine Spezialität von Physiklehrern zu sein.
+Unserer hat uns letztes Jahr (LK, 11/II) kurz vor Ostern eine
+Übungsklausur in die Hand gedrückt, die so aussah:
+
+<--->
+Der Osterhase für den Bereich Römmelsdorf und Umgebung ist ein furchtbar
+faules Tier, aber er ist clever. Er ist es leid, die vielen, vielen
+Eier zu kochen, zu bemalen und in der Kiepe den Kindern zu bringen.
+
+Statt dessen, so hat er sich überlegt, ist es ja viel leichter, aus
+den Eiern Rührei zu machen und dieses dann im Rucksacktank zu den
+Kindern zu transportieren; die Kinder müßten dann nur die Stiefel vor
+die Tür stellen (das sind sie ja schon vom Nikolaus gewöhnt).
+
+Durch diverse Experimente hat er herausgefunden, daß die Eier
+zerbrechen, wenn sie so schnell im Kreis geschleudert werden, daß die
+Zentrifugalkraft das 20-fache ihres eigenen Gewichtes erreicht.
+
+Darauf hat er sich die im folgenden beschriebene Maschine gebaut:
+
+[Abenteuerliche Sechseck-Konstruktion und Aufgaben dazu]
+
+Während der Osterhase arbeitet, haben seine Kinder sich eine
+Schiffschaukel gebaut. Der Schwerpunkt des aus Gondel (10 kg) und
+Höschen (2 kg) bestehenden Systems liegt in der Ruhelage 3 m unter dem
+Drehpunkt. Die Aufhängung sei masselos.
+
+[Ein paar Aufgaben dazu]
+
+j) Wieviel mal so schwer wie üblich fühlt sich ein Höschen - Masse
+(unhöflich) bzw. Gewicht (Diskretion) unbekannt - auf dieser Schaukel
+beim Durchgang durch die Ruhelage, wenn es einen Überschlag gemacht
+hat (Geschwindigkeit oben: 1 m/s)?
+<--->
+
+Viele Größe,
+     David Bresslau
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

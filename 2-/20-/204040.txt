@@ -1,0 +1,9 @@
+Nachtrag: 21.10 ist fertig. Es wurde nur v2.11 mit einer etwas gepatched 
+Library neu compiliert...
+
+Zu 2.2 heißt es:
+"Gravity is nearing the end of its alpha test cycle.  MoBiTec plans to 
+release a public beta of 2.2 sometime in August, so stay tuned for more 
+news."
+
+Also bis November wird's sie dann geben.

@@ -1,0 +1,12 @@
+begin quoting Etienne Cseh <ytnituntrdeqjk@bzf.kae>:
+[4 GB auf 3023 Bytes komprimiert]
+
+Und was schafft gzip? Oder WinZip?
+
+
+Besser so. Oder willst Du für Dumm-DAUs eine Datei basteln? Bei gzip
+wird ja nicht angezeigt, wieviele Bytes die Ursprungsdatei hat,
+zumindest bei WinZip nicht.
+-- 
+"Public speaking is very easy."
+ - Governor Jürg Kirchener to reporters in 23/12

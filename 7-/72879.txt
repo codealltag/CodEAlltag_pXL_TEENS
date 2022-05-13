@@ -1,0 +1,21 @@
+Emil Inderwies meinte kundzutun:
+
+
+Ack. Jetzt muß ich nur noch meine SUsI ohne Yast2 dazu bringen[0].
+
+
+Ack.
+Nore rf jveq xnhz ibexbzzra, qn vpu vapugf oref Argm znpur. Frvf QviK zvg
+Zbecurhf mvrura, frvf rvara Qvnyhc-Obg vz VEP ynhsra ynffra.
+
+Pasquale
+[0] /: 250MB ext2. /usr/src: 3G ext3. Ja, ich hab noch platz frei.[1][4]
+[1] Minimalinstallation. Und dann die Hälfte[2] weg und gcc+gpp rein.[3]
+[2] X,Getab+&2 rauszuwerfen spart *viel* Paltz. Mehr als xshared brauchts nich.
+[3] Man will sich seine Applikationen ja compilieren können.
+[4] Problem: yast1 kann kein ADSL konfigurieren scheint mir. Hammelrad hat eigenen
+    Agent dafür. Aber wenn man *nur* das Paket installiert, will er Yast2Base.
+    Yast2Base will alle anderen Yast2-Agents. Und Getab. Und X. Dumm, das.
+-- 
+Dieser Artikel ging an folgende Newsgroups: jk.feli.vvtyxt
+Er wurde am Donnerstag, dem 6. Oktober im Jahre des Herrn 2001 verfaßt.

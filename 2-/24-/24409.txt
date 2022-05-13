@@ -1,0 +1,8 @@
+for ($i=1; ($variable =~ m/bla/) == $i; $i++);
+if ($variable =~ m/bla/);
+
+Rein symptomatisch kein Unterschied. ;)
+
+-towo
+-- 
+circa mea pectora multa sund suspiria de tua pulchritudine que me ledunt misere

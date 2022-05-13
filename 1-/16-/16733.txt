@@ -1,0 +1,23 @@
+Vinzenz Cress lies uns an folgenden Gedanken teilhaben:
+
+
+(((Y NOR (Y NOR Y)) NOR (Y NOR (Y NOR Y)))
+  NOR
+  (((Y NOR (Y NOR Y)) NOR (Y NOR (Y NOR Y))) 
+    NOR 
+      ((Y NOR (Y NOR Y)) NOR (Y NOR (Y NOR Y)))))
+
+NOR
+
+(((Y NOR (Y NOR Y)) NOR (Y NOR (Y NOR Y)))
+  NOR
+    (((Y NOR (Y NOR Y)) NOR (Y NOR (Y NOR Y)))
+      NOR
+        ((Y NOR (Y NOR Y)) NOR (Y NOR (Y NOR Y)))))
+
+reginald - wird das hier nun Logik für Anfänger?
+-- 
+�� Oberster Verteidiger des Ordens der Dunklen Seite von de.ALL [tm]  ��
+#  >>[Criss-Post & F'up2 in den Bodensatz des Usenet]                  #
+#  > Hier ist nicht der Bodensatz, hier ist bereits die Untertasse.    #
+#  [Leon Irmischer und Ignaz Stellbrink in d.a.r.w.]                        #

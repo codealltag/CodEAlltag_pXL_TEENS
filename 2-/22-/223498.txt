@@ -1,0 +1,44 @@
+Am 06. 09. 22 20:13:52 GMT sendete Charles Pommerich
+folgende Botschaft:
+
+
+Ist nur die frage ob ein dos (welches auch immer) da sparsamer ist.
+Und beim Linux kernel ist es bestimmt leichter die grüsse auf das
+minimum zudrücken als bei dos.
+
+
+Wenn der Rechner als reines terminal dienen soll brauchst du keine shell:
+
+
+in /etc/passwd sollte ausreichen *g* Und sonst halt ein zweiter Nutzer
+mit einer kleinen shell zum spielen.
+
+
+Ich hab leider kein ssh hier, so das ich nicht testen konnte wie viel
+das braucht und ob das auch als shell in passwd eingetragen werden kann.
+
+
+Das wird unter dos nicht anders sein. Du muss das System halt so
+einrichten das nicht ausversehen zuhohe last komt (z.B. nur tty1 zum
+einlogen bereitstellen usw.) Und da du das system ja wahrscheinlich eh
+per hand aufspielen musst, kannst du das ja dann gleich mit erledigen.
+
+
+Dann muss ich nachher mal gucken ob es auf der Pele seite eine suchfunktion
+gibt, alle hefte durchblättern ist nicht so lustig ;)
+
+
+Ich habe in mein Miditower noch zwei 5,25" und einen 3,5" platz frei
+das sollte fürs erst reichen.
+
+
+Mehr ists bei mir auch nicht.
+
+
+Ich werde dann wohl auch viel von der Winpartition auf auf zip auslagern.
+
+
+*rotfl* 
+
+Tschüs
+  Udo

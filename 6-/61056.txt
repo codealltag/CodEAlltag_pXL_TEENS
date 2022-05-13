@@ -1,0 +1,5 @@
+Die bbdb waere recht nett.
+Wenn sie denn hier mal funktionieren wuerde. Das Wildcat-Paket stellt
+mir *kein* bbdb-initialize.
+
+-towo

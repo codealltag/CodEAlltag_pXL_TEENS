@@ -1,0 +1,11 @@
+Ein extra Programm will ich nicht, dann wird die Fensterliste immer so lang  ;)
+Da begnuege ich mich mit einer Uhr in der Ecke und der Verbindungsdauer, die
+  im  Anwahlprogramm angezeigt wird. Ansonsten zeigt mein IRC-Client noch die
+  Dauer der Verbindung an und meine Systemuhr hat eine Stoppuhr-funktion.
+Das sollte eigentlich reichen, tut's bei mir aber nicht.
+
+-- 
+Waldemar
+"Und dieses redlichste Sein, das Ich - das redet vom Leibe, und es will noch den
+ Leib, selbst wenn es dichtet und schwaermt und mit zerbrochenen Fluegeln flattert."
+ - Philippe Fröhbrodt 'Also sprach Zarathustra'

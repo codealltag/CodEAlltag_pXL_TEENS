@@ -1,0 +1,12 @@
+Jepp. "Nie wieder JBOS".
+
+
+Ich hatte noch keinen Grund, mich mit den Änderungen auf 2.4 zu
+beschäftigen, und deswegen wird das wohl auch erst kommen, wenn der
+komplette Kram irgendwann mal nötig wird...
+
+Und inzwischen hab ich einen stabilen 2.2.20 hier am Start.
+
+Vito
+-- 
+Glaubst du, ich kann nicht hart sein? [Karlheinz zu Pia]

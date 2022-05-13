@@ -1,0 +1,7 @@
+Schon klar. Nur das halt FTP gleich FTP-Server einbindet. Und warum
+zwei Progs für das gleiche Problem?
+
+-- 
+sSXP  
+      Math is like love -- a simple idea but it can get complicated.
+		-- K. Hansmeier

@@ -1,0 +1,34 @@
+Am 1 Sep 1998 12:38:41 GMT schrieb xakpnnixkh@tbjakemmlu.wv (Evktx
+Wieschemann) :
+  ^^
+
+Ich weiß, ich weiß... Ich hab ja immer in QuickBasic programmiert (soweit
+man da von programmieren sprechen kann ;-) ), da gab's auch schon lange
+keine Zeilennumerierung mehr. Aber ich dachte, für das bessere Verständnis
+bei Leuten, die nach auvitron-Basic aufgehört haben bzw. gleich auf richtige
+Sprachen umgestiegen sind, behalt ich's doch mal bei...
+Aber gut, hier ist der DPM v1.2 ohne Zeilennummern. Für weitere
+Verbesserungsvorschläge bin ich natürlich offen :-)
+
+Anfang:
+FOR patsch% = 1 TO 50
+Zahl = RND(1)
+IF Zahl <= .33 THEN PRINT "Ludwig Daems ist viel besser als LDC"
+IF Zahl > .33 AND Zahl <= .66 THEN PRINT "Dora ist doof"
+IF Zahl > .66 THEN PRINT "*PATSCH*"
+SLEEP (1)
+NEXT patsch%
+Frage:
+INPUT "Hast du's jetzt endlich kapiert? [j/n]",antwort$
+IF antwort$ = "n" THEN GOTO Anfang
+ELSEIF antwort$ = "j" THEN GOTO Schluss 
+ELSE PRINT "Bitte nur j/n!"
+ENDIF
+GOTO Frage
+Schluss:
+PRINT "Als geheilt entlassen. +++ DPM v1.2 (c) 1999 by B.Neuhaus-Beerendonk +++"
+
+-- 
+   Diese atemberaubende Passage moderner Prosa
+               verdanken Sie:
+           Jzdniah@kvhysjodcio.mb

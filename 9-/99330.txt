@@ -1,0 +1,13 @@
+Am Tue, 26 Nov 2000 sendete Hansruedi Albrandt folgende Botschaft:
+
+
+Das musst du aber dann erstmal per malloc auf die grüsse von rvfv_nomSven 
+bringen. In einen zeiger auf ein char passt nix rein.
+
+
+Das wäre die quick&dirty methode.
+
+Tschüs
+  Mark
+-- 
+Notorisch Schreibfaul.

@@ -1,0 +1,18 @@
+Der vi ist tatsächlich ziemlich... gewöhnungsbedürftig. Wie heißt es
+doch gleich im UNIX-Alphabet:
+
+U is for uniq which comes after sort and
+V is for vi which is hard to abort
+
+
+Yep. Wenn man tatsächlich mit vi (oder einem der vielen Clones)
+arbeiten will, braucht man die erste Zeit ganz sicher ständig ein
+Handbuch oder wenigstens eine passende Kaffeetasse ;). Da man 'seinen'
+Editor auf einem UNIX-System aber für praktisch alles einsetzt, lohnt
+es sich schon, verschiedene auszuprobieren und sich in den, den man
+ausgesucht hat, ein wenig einzuarbeiten.
+
+Viele Größe,
+     Hugo Stocksieker
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

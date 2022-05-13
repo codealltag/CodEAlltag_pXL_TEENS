@@ -1,0 +1,34 @@
+Am 06. 08. 21 21:56:19 GMT sendete Torsten Leyer
+folgende Botschaft:
+
+
+*eg*
+
+
+Also insgesamt knapp 150 MB auf /usr. Das sollte eigentlich reichen,
+Wieviel platz ist sonst noch?
+
+
+Ok, das geht lat�rnich.
+
+
+Naja sowas würd ich nur ungern remote machen. Esseiden du kannst
+sicherstellen das keiner an dem dann laufen rechner rumspielt.
+
+
+OK Dann solte doch ein etwas neuerer kernel drauf.
+
+
+Die könnte ja eigentlich weiterlaufen wie bisher.
+
+
+Arbeitet den nochjemand ausser dir unter Linux mit dem Rechner?
+
+
+Ein Update auf 2.0.36 sollte eigentlich relativ problemlos gehen.
+
+
+War mir dann auf dauer einfach zu umständlich.
+
+Tschüs
+  Jörg

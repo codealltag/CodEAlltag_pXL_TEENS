@@ -1,0 +1,12 @@
+Hi all,
+
+ich will meinen alten PC mit meinem neuen PC vernetzen, erstens um vom
+alten PC aus das CD-Rom und evtl. noch die ISDN-Karte zu nutzen und
+natürlich, um mit Freunden im Netz zu spielen. Wenn ich mir eine
+NE2000-kompatible PCI-Netwerkkarte kaufe, kann ich da irgendwas falsch
+machen?
+btw: D**m1, läuft das eigentlich ohne weiteres im Netzwerk?
+
+-- 
+Ludger Trommeschläger, Mollenfelde, Germany
+http://Tyhp.qyxr.sehjn.gp

@@ -1,0 +1,7 @@
+Wenn ich mein Abi hab hab ich hoffentlich Zeit...
+Vielleicht komme ich dann mal wieder   :-)
+
+-- 
+Lorenz
+if(!exit(1))
+  fprintf(stderr, "exit call failed.\n Program will continue.\n");

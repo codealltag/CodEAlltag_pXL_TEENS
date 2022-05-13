@@ -1,0 +1,7 @@
+Naja, so schlimm ist es nun auch nicht.
+
+Michel
+
+-- 
+Setup-Fehler 723:
+"Die Informationsverarbeitung ist auf oberster Ebene fehlgeschlagen."

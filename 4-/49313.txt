@@ -1,0 +1,18 @@
+Am Wed, 14 Nov 2001 sendete Ullrich Gutermuth folgende Botschaft:
+
+
+Papperlapapp.
+
+
+Tür zu.
+
+
+cron/daily
+make?
+
+
+Achso, das mahce ich mit ntpdate und xntpd auf meinem Server fürs
+netzwerk, das ändert aber nichts an der unzuverlässigkeit.
+
+Tschüs
+  Dominik

@@ -1,0 +1,48 @@
+Am 19 Aug 1998 20:08:50 GMT sendete Edwin Uhlen
+folgende Botschaft:
+
+
+Stebimt ja das teil hat Grafik ;)
+
+
+Was fragst du mich das?
+
+
+War auch eher allgemein gemeint.
+
+
+Hört sich interesant an, wenn du zeit hast kannst du es mir ja mal
+mailen. TIA
+
+
+Eher weniger *eg*.
+
+------
+20:10:05 ~$locate /var/spool/ | wc -l
+     28
+------
+
+Die news liegen bei mir unter /usr/news/spool ;) (Was wiederum nach
+/home/news/spool/ gelinkt ist) also:
+
+------
+20:10:55 ~$locate /home/news/spool/ | wc -l
+  98957
+------
+
+Ein ausklammern von /home/news/spool/ ist wirklich einen versuch wert,
+danke.
+(wenn Du es nicht
+
+
+Du hast 'ca. 100.000 untze eintrüge in der db' aber sehr merkwürdig
+ausgedrückt ;)
+
+[...]
+
+ich habe anacron auch '-s' aber das ist eigentlich egal da anacron ja
+nur einen job aufruft (run-parts /etc/cron.daily) denn rest arbeitet
+run-parts nach dem Alphabet ab.
+
+Tschüs
+  Niels

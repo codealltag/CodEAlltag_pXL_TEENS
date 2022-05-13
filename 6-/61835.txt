@@ -1,0 +1,13 @@
+* Benno Fettkenheuer <havigkoazt@cdoacefakp.qt>:
+
+
+Gnus zeigt bei gesetztem "^L" einen "next page"-Button an. Wenn man den
+drückt (oder SPACE), kommt man zur nächsten Seite. Und da "^L" AFAIK
+"Seitenvorschub" bedeutet, ist das sinnvoll.
+
+Jedenfalls sinnvoller, als das ein anderer Reader macht. Der mal den
+halben Bildschirm mit Sternchen voll. 
+
+Noël
+-- 
+np: Bad Religion - 07 - Infected

@@ -1,0 +1,16 @@
+brrrr liebe mitlebenden! hallo counterstriker! hi pots! hola kamele!
+
+Timo Kotters <pxgclvc477193@ejfcgq.qf-d.qq> brrrrte folgendes von
+sich:
+
+
+Egal, nehmen wir mal an im CSS steht
+
+p.1 {color: black;}
+p.2 {color: red;}
+
+Wie rufe ich p.1 und p.2 dann auf? class=p.2?
+
+-- 
+Das ist witzig. dann waeren meine Ueberreste ja jetzt schon drin und ich koennte
+die Idee aufgeben, auf dem Flughafen Watt eine Pyramide zu errichten.

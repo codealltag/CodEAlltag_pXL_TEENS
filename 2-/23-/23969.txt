@@ -1,0 +1,7 @@
+Im Macces? Geht das wirklich?
+
+mfg, 
+	Andreas
+-- 
+BOFH excuse #191:
+Just type 'mv * /dev/null'.

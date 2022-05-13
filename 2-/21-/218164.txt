@@ -1,0 +1,12 @@
+On Mon, 2 Dez 1998, Jochen Rauchensteiner <mghr@bxcsveczd.zu> wrote:
+[DOS-fdisk]
+
+So ein UI mag für ein im Informatik-Unterricht geschriebenes Programm
+hinnehmbar sein (wenn ich nur ein paar Minuten Zeit und einen
+schlechten Tag erwischt habe), aber für ein kommerziell vertriebenes
+Produkt ist es einfach nur noch "rks", sorry ;-)
+
+Viele Größe,
+     Burkhard Roggenkemper
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

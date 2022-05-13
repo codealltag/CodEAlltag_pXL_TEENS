@@ -1,0 +1,14 @@
+*shrug* Meine Kenntnisse bezüglich Netzwerken im Allgemeinen und
+Netzwerkfähigkeiten von DOS im Speziellen halten sich ehrlich gesagt
+in Grenzen. Wado bekommt es aber doch auch irgendwie hin...
+
+
+Es meiner Schwester ermöglichen, sich mit einem 386er (4 MB RAM)
+über's Netzwerk auf einem 'großen' PC einzuloggen und dort slrn / mutt
+laufen zu lassen (nach Möglichkeit farbig). Die eigentliche
+Rechenarbeit würde dabei der andere PC übernehmen.
+
+Viele Größe,
+     Sergio Weishaupt
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

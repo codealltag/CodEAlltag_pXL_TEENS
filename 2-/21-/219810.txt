@@ -1,0 +1,7 @@
+Es gibt eine einfache Möglichkeit, an eine ganze Menge großartiger
+nativer Software für den Alpha zu kommen. Sie heißt osj.
+
+Viele Größe,
+     Claus Lordick
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

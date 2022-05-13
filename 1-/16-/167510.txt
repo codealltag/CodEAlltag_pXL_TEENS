@@ -1,0 +1,7 @@
+Gut, ein Grund für ssh. Aber offen lassen, für den allgemeinen Zugriff
+kann man es doch, oder zwingst du jeden, Mails mit PGP zu versenden?
+
+-- 
+sSXP  
+      The problem with any unwritten law is that you don't 
+      know where to go to erase it.  -- Zschech and Way

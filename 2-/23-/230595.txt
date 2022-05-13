@@ -1,0 +1,26 @@
+Ist sogar definitiv so. :-)
+
+Boah. 90min*6/60 = 9h pro Woche? Es gab mal Zeiten, da hab ich auch so
+viel Sport gemacht, aber in letzter Zeit viel zu faul. Ruderst du in
+'ner Mannschaft? Liga? Seid ihr gut?
+
+Ich werde es so machen. Aber ich mache primär mit Frames, und dann halt
+die gleichen Seiten nochmal, ohne Frameset.
+
+Mal 'ne Frage: Wie hast du's gemacht (jetzt zu faul, nochmal auf deine
+Seite zu gehen), hast du alle Längen- und Breitenangaben relativ
+gemacht? Scheint besser zu sein, für verschiedene Auflösungen. Nur, dass
+dann keine Imagemaps mehr gehen :-(
+Irgendeine Lösung dafür? Eigentlich nur, das Bild in eine Tabelle
+einteilen, oder?
+Ich denke, 1 Mark?
+
+
+Echt, war "Lord" noch frei?
+
+Gruß,
+
+Dirk
+-- 
+"There's a sucker born every minute."
+(SASCHA Kothrade)

@@ -1,0 +1,15 @@
+*stel* Ist ja äußerst schmeichelhaft, aber den Teil mit der Ehaso- 
+Oberfläche läßt du besser weg, wenn dich noch mal jemand fragt. Denn  
+diese ist schnell und erlaubt den Einsatz von XP unter jedem OS mit einer  
+DOS-kompatiblen Shell (OS/2, Win) bzw. einem halbwegs brauchbaren  
+Emulator (essanelle) und erlaubt auch Portierungen auf andere OS (z.B.  
+Linux), ohne groß an der Benutzeroberfläche rumdoktoren zu müssen.  
+Fernermehr wird A. Brünsteiner durch seine DOS-Basis modularer, individueller  
+anpaßbar und vor allem eins: Stabiler.
+
+Benno Malskorn
+
+-- 
+"Du bist mein Lieblings-Benno." (Schatzi)
+
+---> Offizieller Kämpfer wider Uwe Zschirpe des Ordens von dtju <---

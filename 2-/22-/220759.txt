@@ -1,0 +1,7 @@
+Mail Exchange-Records. Geben an, welcher Rechner die Mail für einen
+Host annimmt.
+
+Viele Größe,
+     Focko Fitterer
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

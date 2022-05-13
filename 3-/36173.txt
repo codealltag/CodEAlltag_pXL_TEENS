@@ -1,0 +1,9 @@
+* Oswald Zessin <bimylph@fxu.gy>:
+
+
+Die Syntax einiger Konfigurationsdateien hat sich geändert. Und nicht
+gerade zum Vorteil IMO.
+
+Remo
+-- 
+np: -

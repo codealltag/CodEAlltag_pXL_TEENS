@@ -1,0 +1,9 @@
+Es gibt eine Statistik "Relayers" - die erfaßt offenbar alle Server im
+Path. Dann gibt es "My Feeds" - die erfaßt die letzten Rechner im Path
+(vor dem eigenen Server), und dann gibt es "Feeds of ...", wobei die
+letzten Rechner im Path vor dem einzutragenden erfaßt werden.
+
+Die Ursprungsserver lassen sich so nicht erfassen.
+
+Gruß,
+Wolfgang

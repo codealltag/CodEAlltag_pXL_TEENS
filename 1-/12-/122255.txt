@@ -1,0 +1,15 @@
+* Ulrike Peiker <zmvy.r@byxgl.wc>:
+
+
+FYI: wenn man eine Variable auf "t" setzt, bedeutet dass, das
+die passende Funktion angeschaltet ist. Bei "nil" ist sie aus.
+
+
+Ist aber wirklich so.
+
+
+Kein Problem, einfach fragen. :)
+
+Samu
+-- 
+cross veinless

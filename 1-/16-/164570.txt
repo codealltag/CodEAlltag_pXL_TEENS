@@ -1,0 +1,15 @@
+Scheint wohl stark von der Art der Arbeit abzuhängen. Wenn ich in meiner 
+C-IDE rumhänge, dann noch Mail und News sowie die komplette Juwel Library 
+geladen habe und noch nebenher etwas in Delphi 4 entwickle, komme ich 
+noch lange nicht auf 128MB. Eher auf die Hälfte. Dann noch Fanwelt mit 
+einem Bildschirmf�llenden Bild geladen... macht 85MB gesamt. Oh, und 
+MSVC++ könnte ich ja auch noch aufmachen. Hey, jetzt haben wir schon 
+89MB!
+
+Was versteht man nun also bitte unter "richtig damit arbeiten"? Wenn ich 
+"richtig arbeite", dann hab ich weit weniger als obige Programme 
+gleichzeitig laufen.
+
+
+Eben, wenn sie wie mein Emulator ein Idle-Thread erstellen und den voll 
+ausreizen ist das systemimmanent.

@@ -1,0 +1,3 @@
+Es gibt Leute die haben auf einem 16KB ZX81 ein Schach-Programm 
+geschrieben, da wird ein TCP/IP Stack wohl kein Problem sein. 
+Abgesehen davon wurden schon ZX81 mit IIRC 1MB Speicher gesichtet...

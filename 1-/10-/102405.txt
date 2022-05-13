@@ -1,0 +1,10 @@
+Server aufsetzen war ganz einfach, ich hab GHD-IMAP genommen, der
+kann auch poppen^WPOP3, damit ändert sich für den Rest der Familie
+nix. Was ich jetzt noch machen muss, ist meinen Gnus einzurichten.
+
+Und da ist das Problem. Der will nicht.
+
+Marc
+-- 
+"Your american beer is like making love in a canoe -
+ fucking close to water" [Monty Python]

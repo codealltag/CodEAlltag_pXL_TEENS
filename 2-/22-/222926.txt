@@ -1,0 +1,11 @@
+Aber Linux (zumindest ist es bei 4 MB RAM mehr als ratsam). Wenn ich
+also beides auf die Platte quetschen will, brauche ich Platz für eine
+Swap-Partition.
+
+
+Ich schrieb etwas von Ulafa-Kunden.
+
+Viele Größe,
+     Charly Müller-Dietz
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

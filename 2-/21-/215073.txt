@@ -1,0 +1,11 @@
+chmod +s `which kill`
+
+
+rm ./felix
+*g*
+
+
+Welche kann mtq nicht?
+-- 
+ / _/ _` |
+ \__\__, |

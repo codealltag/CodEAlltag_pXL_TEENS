@@ -1,0 +1,6 @@
+Einen Regexp rauswerfen, schon wird *fett* als
+"sternchen-f-e-t-t-sternchen" angezeigt, und nciht als Fettdruck.
+
+Konrad
+-- 
+Help fight continental drift.

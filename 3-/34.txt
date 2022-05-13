@@ -1,0 +1,8 @@
+Am So, 4 Nov 2007 sendete Gerold Neumanns folgende Botschaft:
+
+
+Gute Frage. Endweder habe ich da nen Bug in slrn reingebastelt, oder mich
+in vim einfach vertupsselt.
+
+Tschüs
+  Martin

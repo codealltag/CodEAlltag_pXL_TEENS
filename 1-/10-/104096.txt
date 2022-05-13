@@ -1,0 +1,21 @@
+Angenommen, wir haben einen Counter, der primitiv so hochgezählt wird,
+dass er bei z.B. 60 Stunden Laufzeit gerade an die Grenze des Integerbereichs
+stösst. Danach hast du plötzlich negative Werte (Einige "Tricks" in
+irgendwelchen Aufbauspielen funktionieren exakt so...), un ddas gibt
+dann z.B. unschöne Ergebnisse, wenn du aus irgendeinem Grund dann die
+Wurzel ziehen willst --> Nicht definerter Wert, der soll irgendwo
+weiterverwendet werden --> Crash.
+
+Wenn der Counter aber 6x10 Stunden läuft, dann kommt der nie in den
+kritischen Bereich, in dem er plötzlich umkippt, einfach, weil der
+Wert, der in der Variablen drinsteht, mehr oder weniger eine lineare
+Funktion der Zeit ist, jedenfalls bis zu dem Moment, an dem der
+Überlauf stattfindet, da ist dann entweder Ende des
+Definitonsbereichs, oder aber eine Sprungstelle.
+
+Da unser angenommener Crash aber halt nur mit dem einen Counter
+zusammenhängen soll, wird dir bei 6x10Stunden die Kiste nie abschmieren.
+
+Mirko
+-- 
+                  Weird enough for government work.

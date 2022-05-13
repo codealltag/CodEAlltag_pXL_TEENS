@@ -1,0 +1,13 @@
+N. Wenn Oliver nach Eckersbach[1] verfrachtet wird stimmts.
+Dann ist er der Golle-Wust...
+
+Oswald
+[1] Ebermannstadt. übewiegend bekannt durch eine dort (ehemals?) ansässige
+    psychatrische Anstalt. Darum ist hier in der Region "Nach Eckersbach
+    schicken" ein Sysnonym für "In eine geschlossene psychiatrische
+    Anstalt einweisen", aka "In die Klapse stecken".
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+tent_counter)->get(@input_content_keys[$input_content_key_counter])->as_scalar()

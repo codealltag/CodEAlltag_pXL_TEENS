@@ -1,0 +1,13 @@
+* Werner Dwornitzak <iwvpr@wazyn-mmemne.cr>:
+
+
+Was möchtest du machen?
+
+a) aus einem p-Eintrag einen nicht-p-Eintrag
+b) aus einem nicht-p-Eintrag einen p-Eintrag
+
+?
+
+Francesco
+-- 
+cross veinless

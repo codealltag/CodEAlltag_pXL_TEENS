@@ -1,0 +1,9 @@
+Keine Sorge, Massenvernichtungswaffen sind stark genug, um auch ein
+sich nicht an den Kriegen beteiligendes Land kaputt zu machen.
+
+-towo
+-- 
+ No  Points     Name                                                   Hp [max]
+  1    4688080  VeraAdam-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

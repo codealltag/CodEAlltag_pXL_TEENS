@@ -1,0 +1,16 @@
+*eishinterr�ckensterszteck*
+
+Sag lieb "Bitte bitte"!
+
+
+Die Länge sagt nix über den Inhalt...
+
+
+Ack.
+
+
+Normalizer: Regelt die Lautstärke automagisch immer auf ein Level
+KFI: Minimierter ICGP erscheint in der Titelleiste des aktiven
+Fensters
+
+Ulfert

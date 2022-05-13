@@ -1,0 +1,12 @@
+Es läuft bei mir heftig zuverlässiger...
+
+
+Warten, bis der Speicher wirklich gebraucht wird.
+
+
+IIRC schmeisst der immer 0 bei den shared libs raus, frag mich nciht
+nach der Begründung...
+
+Maurice
+-- 
+"Heisenberg may have slept here"

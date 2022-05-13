@@ -1,0 +1,7 @@
+JA. Auch ein Hauptschüler sollte 4*7 ausrechnen können.
+
+mfg, 
+	Carlos, weiß garnicht mehr, ob er das schon beantwortet hatte
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

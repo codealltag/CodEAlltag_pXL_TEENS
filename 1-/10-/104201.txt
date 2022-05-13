@@ -1,0 +1,11 @@
+Wenn ich zwei unabhängige Prozesse auf zwei CPUs verteile ist der
+Aufwand des splittens und zusamenbastelns nahe Null.
+
+
+Nein. Aber von der behauptet auch niemand, dass man sie als
+High-Performance Serverlösung einsetzen kann.
+
+Nino
+-- 
+"Your american beer is like making love in a canoe -
+ fucking close to water" [Monty Python]

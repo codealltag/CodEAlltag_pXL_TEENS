@@ -1,0 +1,20 @@
+Hmpf, mir daemmert's langsam, dass Susi bisher wenig mit DOS o.ae. zu
+tun hatte.
+Du machst folgendes:
+
+  (Bsp.: C:) Auf das Laufwerk, auf dem deine MP3s liegen, wechseln.
+
+  (Beispielsweise cd MP3s, cd "Eigene Dateien\MP3s" etc.)
+
+  Eigentlich muesste es dir -irgendwas sein, aber ich kann den
+  Parameter gerade mangels Emulator nicht nachschauen. So bekommst du
+  die Dateien halt auch mit Groesse, MS-DOS-Dateinamen,
+  etc. angezeigt; fuer's Grobe reicht's.
+
+-to'Damit grep -i Placebo gehst, das von der einen von mir geposteten
+    URL runterladen und dann in dein Windowsverzeichnis entpacken
+    (grep.exe reicht)'wo
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.
+$(sudo /root/get-xmms-title)

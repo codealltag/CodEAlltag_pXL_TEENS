@@ -1,0 +1,3 @@
+Mein Taschenrechner könnte etwas mehr, mein PC hätte auch mit 2^64 kein 
+Problem, bei meine Kopf ist aber bei 2^32 Schluß, höhere Zahlen hab ich 
+bisher noch nie gebraucht.

@@ -1,0 +1,1 @@
+Ich meinte, daß das USB-Modem eine NIC emuliert.

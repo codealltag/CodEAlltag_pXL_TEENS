@@ -1,0 +1,11 @@
+So ungefähr. Die \n im Original-Text rausfiltern und gleich durch <BR>
+ersetzen.
+
+Ist recht trivial. Das einzig anspruchsvolle: Ich will das in C
+schreiben.
+
+mfg, 
+	Carl
+-- 
+KZT excuse #76:
+Unoptimized hard drive

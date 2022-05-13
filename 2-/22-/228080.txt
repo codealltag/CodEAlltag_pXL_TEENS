@@ -1,0 +1,9 @@
+Was heißt 'nicht-existenter FQDN'? FQDNs in Message-IDs müssen nicht
+im DNS eingetragen sein und ein Newsserver, der Mailantworten
+generiert (außerhalb von Testgruppen, wo das explizit gewünscht ist)
+gehört abgeklemmt.
+
+Viele Größe,
+     Ulrich Tränkl
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

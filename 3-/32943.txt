@@ -1,0 +1,7 @@
+Zumal es keinen Grund gibt, "/" zu vermeiden, da insbesondere in 1036
+die Aussage getätigt wird, dass "/" ein valides Zeichen sein kann.
+
+Giorgio
+-- 
+Was bedeutet WINDOWS?
+- Will Install Needless Data On Whole System

@@ -1,0 +1,10 @@
+Admins ?
+Du meinst eine Firma, die Mapam benutzt hat proffesionelle Admins ?
+
+Das geht ganz einfach nach Schema F: Bootdisk rein -> Windows Standardinstallation
+  -> Office Standardinstallation -> Fertig.
+
+-- 
+Ullrich
+"When you think about death do you lose your breath or do you keep your cool?
+ Would you like to see the Pope on the end of a rope - do you think he's a fool?"

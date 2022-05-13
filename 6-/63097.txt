@@ -1,0 +1,22 @@
+--=-=-=
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+Geht so..
+
+--=-=-=
+Content-Type: text/plain; charset=iso-8859-15
+Content-Transfer-Encoding: 8bit
+
+
+Endaevour prallt von der Erde ab, und die runde Raumstation konnte ich
+keinen konstanten Drall geben, also mussten die Leute sich dran
+gewöhnen, dass oben nach 10 sec unten ist, und umgekehrt..
+
+Gibt's schon Jumpships? Echtzeitberechnung von LaGrange-Punkten?
+Koordinaten für Zenith und Nadir-Sprungpunkte *abschweif*? :)
+
+-towo
+
+--=-=-=--

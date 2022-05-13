@@ -1,0 +1,19 @@
+Muss man. Toll. Bringt dir recht wenig, wenn du das wirklich
+kannst - in den Klausuren muß das nämlich alles Spec-Konform
+sein, auch wenn keine Implementation das umsetzt. Wir haben hier
+auch SQL gemacht, wollten dann die Konstrukte testen und haben
+keinen Server gefunden, der das dann alles konnte.
+
+Simulator bringt dir aber für die Klausur recht wenig - wenn du
+das auf dem Papier bauen mußt.
+
+Frag nicht.
+
+Ich schon. Und dann drei Tage Spaß, bis das dann auf brauchbar
+umgestrickt war.
+
+mfg, 
+	Karl
+-- 
+BOFH excuse #412:
+Radial Telemetry Infiltration

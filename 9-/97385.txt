@@ -1,0 +1,3 @@
+Kukicha muss da irgendeinen Bug haben... Teilweise warnt es einem vor dem 
+absenden sogar davon, aber von Anfang an richtig machen scheint ned drin zu 
+sein.

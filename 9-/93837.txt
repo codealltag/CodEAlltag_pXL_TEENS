@@ -1,0 +1,11 @@
+Reinhard Moshacke hat geschrieben getan getutet:
+
+
+Hm .. also ... was wollen sie denn damit? Und tut das weh?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Nicolas 'tim' Jungholt in xt.cog.htdpjrid.qhcsyxpi

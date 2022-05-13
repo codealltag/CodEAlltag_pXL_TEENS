@@ -1,0 +1,13 @@
+Jürgen 'sSXP' Rennstich schrieb am 02. Oktober 2000 um 18:42 Uhr folgendes:
+
+[DOS-Anwendung für Modula 2]
+
+Ich habe leider keine Ahnung, was von dem Zeug, das ihr da können
+müsst, compiler- oder IDE-spezifisch ist und gebe dir deshalb bei der
+Entscheidung, ob es sich lohnt etwas anderes zu probieren, besser
+keinen Rat.
+
+Viele Größe,
+     Elmar Riedrich-Möller
+-- 
+All true wisdom is found in signature files.

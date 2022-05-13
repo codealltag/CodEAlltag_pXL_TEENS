@@ -1,0 +1,39 @@
+Ich weiß ja nicht, ob sie in Sichtweite ist. Die geographische  
+Beschaffenheit der Umgebung ist so:
+
+  ^             |  | |       |   $$$$$$$$$$         |    |    !!!!!!!!!!
+  N      #####  |  | |   2   |   $$$$$$$$$$   +-----+    |    !!!!!!!!!!
+         #####  |  | |       |   $$$$$$$$$$   |  P       |    !!!!!!!!!!
+#####    #####  |  | |       |   $$$$$$$      |  P     3 |
+#####     ####  |  | |       |                +-----+    |
+#####           |  | |       |                      |    |    ######
+----------------+  +-+       +-------------/ /------+    |    ######
+  1                                    3                 |    ######
+----------------+  +-+       +-------------/ /-------+   |    ######
+++++    ######  |  | |       |  ##########           |   |    ######
+++++    ######  |  | |       |  ##########           |   |
+
+
++ ist mein Haus
+$ ist Schatzimutterarbeitsplatz
+# sind unbedeutende Häuser unbedeutender Leute
+! ist der Sportplatz des Todes
+P sind Parkplätze
+1 ist die Straße, in der ich wohne
+2 ist die Straße in die Stadt
+3 ist die Schatzimutterarbeitsplatzanfahrtsstra�e
+
+Schatzimutter führt jeden Morgen mit ihrem alten Elfenwerk zu ihrem  
+Arbeitsplatz am Landratsamt, welches sich in Sichtweite von unserem Haus  
+befindet. Dabei kommt sie aus nördlicher Richtung (2) und biegt in Straße  
+6 ein, um schließlich auf einem Parkplatz zu parken. Ich kann dies von  
+unserem Haus aus beobachten. Wenn Schatzi in die Stadt will, kommt sie  
+für gewöhnlich mit ihrer Mutter und läuft dann über 3 und dann 2 in  
+nördliche Richtung in die Stadt. Dabei kann ich sie beobachten.
+Was ich sagen will: Ich kann mir nie sicher sein, daß sie nicht in  
+Sichtweite ist.
+
+-- 
+Dominik Grüwilin praktische Lebensratschläge, Teil 5:
+Frauen sind Gift - aber äußerst liebenswürdig. Und hübsch.
+---> Offizieller Kämpfer wider Erich Trändlin des Ordens von dtju <---

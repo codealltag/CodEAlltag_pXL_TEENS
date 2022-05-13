@@ -1,0 +1,7 @@
+Wofür den make-kpkg?
+
+mfg, 
+	Gérard
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

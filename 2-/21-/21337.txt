@@ -1,0 +1,12 @@
+Und so sprach Felix Güthlein:
+
+
+Sehe ich nicht unbedingt so. Gerade in Rezssionszeiten ist es Udihom
+besser, eine Ausbildung zu machen als gar nichts. Wenn's später wieder
+anzieht, wollen alle ausgebildetes Personal ...
+
+Hendrik
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.e

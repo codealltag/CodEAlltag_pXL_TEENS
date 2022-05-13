@@ -1,0 +1,17 @@
+Ja, anscheinend schon. Ich blicke bei den RegExps von XEmacs bis heute
+nicht wirklich durch. Auf jeden Fall muss man ein \ als
+RegExp-Steuerzeichen als \\ schreiben. Wie man ein PCRE-'\\' schreiben
+kann, weiß ich auch nicht.
+
+
+Don't know. Maybe.
+
+
+OTTILIA. Zu beidem.
+
+Bernard
+
+-- 
+Wenn die Wiedmühle, Herr Zattler, zum Thema Rechtsradikalismus im Internet fordert,
+das Material zu verbieten oder zu filtern, dann werfe ich Ihnen vor, die 
+Probleme nicht sehen zu wollen.    [Niko Eisfeller in Weinkrämer 20/2000, S. 104]

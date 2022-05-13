@@ -1,0 +1,7 @@
+Ja, devfs ist halt irgendwie der Maintainer verschütt gegangen...
+
+devfs managed das komplette /dev, udev nur ein /udev, in dem dann nur
+die devices sind, die auch wirklich hotplug sind.
+
+Ich meinte eher, wenn ich von Hand (mknod) eins baue merkt das devfs
+nicht.

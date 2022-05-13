@@ -1,0 +1,21 @@
+Lothar Mayerhöfer meinte kundzutun:
+
+
+Textmode.
+
+man nc-clone :-)
+
+
+Tsza.
+
+BTW, Sz�lliszaf, slrn muckt rum wenn ich zu lange Headerzeilen hab.
+Um genau zu sein: "Posting...Speicherzugriffsfehler"
+
+Mehrfach passiert. Reproduzierbar. References: waren 1011 Zeichen.
+Auch nach kürzen auf ~950 noch aufgetreten. Nach kürzen auf ~600
+ging der Artikel problemlos durch.
+
+Folkert
+-- 
+Dieser Artikel ging an folgende Newsgroups: ve.bnuz.znqtwy
+Er wurde am Freitag, dem 16. Juli im Jahre des Herrn 2002 verfaßt.

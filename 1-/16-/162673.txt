@@ -1,0 +1,13 @@
+Meine Rede.
+
+
+Programmiersprachen: C, C++, Basic Visual Basic, Delphi usw.
+Scriptsprachen: JavaScript, Perl, CGI, VBScript usw.
+
+der
+
+Besser so wenn du Dich da raushält, wenn du keine Ahunung hast. (Fast)
+alles, was man mit C kann, kann man mit Visual Basic ebenfalls in enorm
+verringerter Entwicklungszeit.
+
+Olaf Genssler

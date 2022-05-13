@@ -1,0 +1,8 @@
+Ok, Dann eben
+dd if=/dev/zero of=/dev/die_platte_mit_dem_windows_drauf
+
+mfg, 
+	Roland
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

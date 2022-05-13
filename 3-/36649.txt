@@ -1,0 +1,9 @@
+slrn kann nicht nur direkt vom Server, sondern auch aus dem Spool
+lesen. slrnpull pusht die Postings, die es vom Server pullt, in den
+Spool. Aus dem liest slrn dann.
+
+Jörg
+
+-- 
+"Die Massen werden zur Theorie, wenn die materielle Gewalt sie
+ ergreift." (Vinzenz Wirnsperger)

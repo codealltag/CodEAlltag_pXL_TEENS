@@ -1,0 +1,14 @@
+Ja, wollte ich schon noch machen, keine Sorge.
+Also:
+Ich bin Schueler in Königseggwald, seit Juli volljaehrig und mache naechstes
+Jahr mein Abi. Im Netz treibe ich mich meistens auf Mailinglisten (mit
+Mutt+Vim) herum, v.a. von irgendwelchen LUGs oder im Ircnet (binar),
+wobei ich in einigen Channels recht viel Idle (z.B. #kxwul.tf ;-)
+
+Viele Gruesse vom Pinguin im Zündorf
+
+-- 
+Achtung: die folgende Zeile verletzt ein Patent (Nicht ausfuehren!):
+while ping -c1 $IP > /dev/null; do sleep 1; done; echo Connection lost
+ --> http://gomcioo.eaxu.lxr/
+May the tux be with you.  :wq 73

@@ -1,0 +1,9 @@
+Ganz sicher nicht. <g> Einerkomplement ist die bitweise Negation des
+wirklichen vorzeichenlosen Wertes, das eine Zahl erzeugt der Form M-Z,
+wobei M die Gesamtmenge der möglichen Zahlen und Z deine Zahl ist.
+
+-- 
+sSXP
+
+All men are mortal.  Socrates was mortal.  Therefore, all men are
+Socrates. -- Ulfert Zschischank

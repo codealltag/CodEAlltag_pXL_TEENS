@@ -1,0 +1,22 @@
+Patrick Tilstra schrieb am 26. November 1999 um 13:43 Uhr folgendes:
+[...]
+
+Ich kenne "Visual Basic" ebenfalls nicht; da es deiner Aussage nach
+objektorientiert ist, ist aber wohl eher ein Vergleich mit C++
+angebracht:
+
+ - Ist "Visual Basic" ein Standard, für den Plattform- und
+   Betriebssystem-übergreifend Implementationen existieren?
+
+ - Besitzt "Visual Basic" zum Sprachumfang gehörig (und damit
+   compilerunabh�ngig) etwas, das der Standard Template Library
+   vergleichbar wäre?
+
+ - Ermöglicht "Visual Basic" 'fortgeschrittene' Techniken wie
+   Fehlerbehandlung mit Exceptions, Namespaces, Mehrfachvererbung,
+   Templates und überladen von Funktionen und Operatoren?
+
+Viele Größe,
+     Paul Timmermans
+-- 
+A person is just about as big as the things that make them angry.

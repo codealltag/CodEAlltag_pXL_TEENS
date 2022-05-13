@@ -1,0 +1,10 @@
+hm, hallo? Dir ist schon bekannt, daß Linux seine größte Verbreitung
+im Moment auf dem Serversektor hat, oder? Wenn ein solcher nicht nur
+ein paar Rechner im LAN bedienen soll, ist ein P100 dafür 'leicht'
+unrealistisch - schau' Dir mal an, was für Maschinen zB bei Dejanews
+herumstehen (und unter Linux gefahren werden).
+
+Viele Größe,
+     Mauro Lembke
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

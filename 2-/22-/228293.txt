@@ -1,0 +1,10 @@
+Ich hab mal eine nicht-existente FQDN benutzt, danach kriegte ich zig
+  E-Mails, weil irgend ein Server das wohl ueberprueft hat  :-)
+
+
+Dann erkennt mein Newsreader aber meine Postings nicht mehr.
+
+-- 
+Antoine
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

@@ -1,0 +1,10 @@
+Und so sprach Dominik Nittschalk:
+
+
+Na, wohl nicht so gut wie sein Hype, aber wohl immer noch gut genug. :)
+
+Winfried, <http://ayt.pabzq.tf/fsxrhrsios/ssuy/ki-11.30.53-205/>.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.t

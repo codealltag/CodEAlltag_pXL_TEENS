@@ -1,0 +1,17 @@
+Hallo Bernhard Kohlmeyer
+
+
+Ich bin auch kein Fan von VBA. Aber du musst doch zugeben das nicht viel
+zur Programmiersprache fehlt....
+
+
+Das geht mit NORBERT nicht:
+%IF:'%SETPATTREGEXP=".*?(message.html).*?"%-
+%-%REGEXPMATCH="%OATTACHMENTS"'='message.html':'
+P.S.: Bitte keine HTML-Nachrichten mehr senden!'%-
+
+MfG Valentin
+
+-- 
+Warum ueberquerte das Huhn die Strasse?
+Burkhard Oelbracht: Um zu sterben. Im Regen.

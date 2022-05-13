@@ -1,0 +1,8 @@
+Sich ändernde Versionsnummern wären noch relativ einfach abzufangen.
+Einige Witzbolde ersetzen die Angabe aber durch (mehr oder weniger
+geistreiche) erfundene Namen und wechseln diese von Zeit zu Zeit.
+
+Viele Größe,
+     Ottmar Oosterveld
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

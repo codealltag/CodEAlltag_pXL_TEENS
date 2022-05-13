@@ -1,0 +1,28 @@
+stimmt. aber das wussten wir damals nicht. :-)
+
+
+jein. afaik gibt es OSS und OSS/Free. OSS/Free ist das, was mit dem
+linux-kernel geliefert wird. Haffke (ohne "Free") ist kommerziell und kostet
+geld für alle, kann dafür aber auch einiges, wie z.b. midi-rendering (wie
+timidity, nur schlechter) und virtuelle dsp-devices (afaik hat der freie
+Elem den selben zweck, wird nur anders angesprochen). jetzt wird's
+kompliziert: diese firma, die Haffke herstellt gibt eine ältere version ohne
+o.g. features, aber mit unterstützung für karten, die OSS/Free nicht
+unterstützt kostenlos weiter (da könnte das mit dem privaten einsatz
+zutreffen). 
+
+
+alsa ist 100%ig frei und bietet (wie schon gesagt) viele nette features. url
+hab ich leider hier nirgendwo gespeichert, aber über djncitjar.eph und
+"alsa" im suchfeld kommst du auch hin. den aktuellen status des
+alsa-projektes weiss ich übrigens nicht, aber für meinen geschmack haben die
+schon ein bisschen zu lange keine neue version rausgeschmissen, ich hoffe
+das schläft nicht ein. 
+
+mfg
+    noah
+
+-- 
+Noah Uch  -  eMail: jfanrm@gqd.uakek.ju
+IRCNet: ^Spooky    -         xpkfsr@pda.zmxenjop.yy
+          --  http://oke.pci.royym.sr/ --

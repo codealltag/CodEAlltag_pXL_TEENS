@@ -1,0 +1,2 @@
+Das kommt nur daher, dass man als User nur wenig Chancen hat, ein System zu 
+administrieren und ich unter Unix sonst kaum was tue.

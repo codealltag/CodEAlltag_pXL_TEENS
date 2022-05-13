@@ -1,0 +1,8 @@
+So wie unter Un*x-Derivaten aller Art. Raus aus dem gnus, .gnus
+editieren, und dann "M-x gnus". Wenn keine Meta-Taste da ist, wird ESC
+als Meta interpretiert.
+
+Samuel
+-- 
+Jetzt habe ich endlich auch einige Kratzer von dir - und nicht nur von
+Doreen. [Ivan T. nach einem wilden Gerangel mit Theo M.]

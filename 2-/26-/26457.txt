@@ -1,0 +1,14 @@
+Am Sun, 6 Jul 2003 sendete Meinrad Gutemann folgende Botschaft:
+
+
+Wie fängt man einen Elephanten, teil 80%:
+
+dtjuler fangen einen Elephanten indem sie solange den Kontext ignorieren
+bis der Elephant von selber im Thread landet.
+
+Tschüs
+  Julian
+-- 
+Mein Beileid - das Enil-Deutsch ist irgendwie sehr eigenwillig, frei nach
+dem Motto: "verdeutsch Dich, oder ich pruegel Dich ins Dudenformat".
+(Kasimir Jannsohn in <eyym3s0m18.h76.gnf@rtcclbznvhib.lx>)

@@ -1,0 +1,28 @@
+Ah so. Ja, 9000 Packages zur Verfügung zu haben, hat was. Ich hätte früher 
+nie gedacht, daß ich mal Software brauchen könnte, die es da nicht gibt. In 
+letzter zeit finde ich ständig welche (gut, ist nicht bermäßig wichtig): 
+SchneidBar und Wavesurfer beispielsweise.
+
+
+Ich habe eine Weile keine Probleme mehr gehabt. Ich hoffe, es paßt, obwohl 
+ich nichts gemacht habe. Außer History neu bauen.
+
+Ich hatte gestern die glorreiche Idee, Kopfsache auszuprobieren. Das war jetzt 
+mein zweiter Versuch. War. Ich habe keine Lust, den Rechner tagelang 
+durchlaufen zu lassen, um dann festzustellen, daß ein für mich zentraler 
+Bestandteil des Systems kaputt ist.
+
+Wenn der UUCP-ebuild _kaputt_ ist, so daß man es von Hand richten muß, ist 
+es nichts für mich. Und wenn man den ebuild notdürftig geflickt hat und 
+weder Configfiles noch ein Spooldir generiert werden, dann gehört es auf 
+den Müll.
+
+Dann doch lieber ein etwas sehr abgehangenes LottoToto und Teile selbst 
+kompilieren. Obwohl ich eigentlich _nur_ INN bzw. die Usenetinfrastruktur 
+selbst machen will. Aber bei LottoToto kommt dann immer dazu, daß man das 
+aktuelle GnuPG möchte, einen etwas neueren Mozilla, vielleicht gar eine 
+libdvdcss und ein Xine...
+
+Was solls. 
+
+Benno

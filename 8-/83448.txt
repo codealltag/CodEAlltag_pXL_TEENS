@@ -1,0 +1,10 @@
+Am Mon, 15 Okt 2001 sendete Lorenz Biesinger folgende Botschaft:
+
+
+-vvv
+
+Tschüs
+  Valerio
+-- 
+Hier sollte eigentlich ein netter Satz aus "Programming Perl" stehen,
+aber leider finde ich ihn nicht wieder.

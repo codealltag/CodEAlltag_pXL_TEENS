@@ -1,0 +1,10 @@
+Fridolin Zimbrod <icnfq@gnalz.ek> schrieb in im Newsbeitrag:
+F-Ooqgcjlgc-Rkqvdqyes-Qb.39398@otwg.joias.eh...
+benutzen
+
+Da arbeitet man am besten sowieso mit einen RAID5 SCSI System und >256 MB
+RAM, dann merkt man auch nicht mehr allzuviel davon. Und dann ist wenigstens
+nach einem Crash auch nich alles weg...
+
+CU
+Herbert

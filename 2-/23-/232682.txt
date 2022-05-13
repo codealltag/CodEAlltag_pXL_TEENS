@@ -1,0 +1,32 @@
+Am 03 Apr 1999 06:00:00 +0100 sendete John Radde
+folgende Botschaft:
+
+
+*räusper*
+Glaubst du.
+
+
+Das ist nicht möglich. Wenn ein geschlossener stromkreis nur einen sehr
+geringen Widerstand hat hast du einen Kurzschluss. Und bei einem
+Kurzschluss wird jedemenge Elektischeenergie in Wärme umgewandelt.
+
+
+Ja.
+
+
+Der Elektrische Widerstand: Formelbuchstabe [R] Einheit [Ohm].
+
+
+Ja.
+R=U/I macht 0=Spannung/Stromstärke.
+
+
+Tschüs
+  Steffen
+
+Btw: John kannst du nicht mal dieses lästige Subject ändern
+     unterlassen *G,d&r*?
+
+-- 
+Rechts^hschreibf�hler gelten der Allgemeinen Belustigung
+und sind beabsichtigt.

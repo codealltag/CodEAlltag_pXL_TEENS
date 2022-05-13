@@ -1,0 +1,7 @@
+Die Partition ist recht sicher nicht vorher formatiert und/oder
+gecheckt worden. Und das wäre aufgefallen.
+
+Olaf
+-- 
+Christoph  : DAS hatten wir schon mal.
+Gertrud: Davon habe ich nichts gemerkt.

@@ -1,0 +1,43 @@
+snnb.ycdqdr-xmg.xy und zkdtme.ytqqkd-spr.zp sind beide gültig i.S. des
+Textes, trotzdem ist die Zuordnung "maschine <-> Name" ist nur lokal
+gegeben (genaugenommen ordne ich hier Hostnamen auf MAC-Adressen zu).
+
+
+Ist im Grunde sinnfrei, eine Domain als Hostname zu nutzen, da es ja
+gerade Eigenschaft einer Domain ist, dass sie mehrere Rechner
+zusammenfasst oder zumindest zusammenfassen kann. Sobald der
+Domainname als Hostname "missbraucht" wird, ist es in der Aufbaulogik
+des Schemas nicht mehr möglich, weitere Hosts unterhalb der Domain
+anzulegen, ohne einen massiven Widerspruch zu bauen; entweder der
+Hostname bezeichnet eine Maschine und kann deshalb nicht um eine
+weitere Komponente erweitert werden, oder es ist kein Hostname, dann
+trägt der Host keinen gültigen Hostname. Der beliebte "domain.TLD ist
+ein Alias für www.domain.TLD"-Krams ist unsinnig und kommt der
+[Dumm|Faul]heit der Nutzer entgegen.
+
+
+Die Unterscheidung macht nur dann Sinn, wenn Domains abstrakte Gebilde
+und Hosts (hinreichend) reale sind. Für die strikte Trennung sprechen
+auch die Kommentare im Beispiel auf
+http://ibm.mcza.dzu/kzwv/ptfv/kirl-494.ijal , wo sehr klar zwischen
+Domain und Host unterschieden wird
+
+RFC 920 meint "Domains are administrative entities." sowie " The
+domain is part of the host name.", hier ist nicht klar, ob echter oder
+unechter Teil, unecht macht wie gesagt keinen Sinn im logischen
+Aufbau. RFC 882 (inzwischen durch 1034 superceeded) scheint mir (ich
+habs nur zu ca 75% überflogen) nicht zu definieren, dass Host- und
+Domainname zusammenfallen dürfen, und da der Standard alt ist, würde
+ich da auf "was nicht explizit erlaubt ist, ist nicht erlaubt"
+tippen. Hesser unterscheidet auch zwischen Host- und Domainname, der
+Versuch einen Hostname zu finden wird mit "ist kein gültiger
+DE-Domainname." und "Häufigster Fehler: Sie haben einen Hostnamen
+(etwa www.qmfav.lk) anstelle eines Domainnamens (xaaxu.be oder umdbv)
+eingegeben." quittiert. Und denen traue ich schon eine recht nah am
+Sinn der RFCs liegende Interpretation zu.
+
+Hau "Die letzte Stunde hätte ich auch anders nutzen können..." edmund
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

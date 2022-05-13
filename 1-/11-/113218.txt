@@ -1,0 +1,13 @@
+ssh vom Rechner eines Freundes auf seinen Server, von da aus ssh auf
+meinen Rechner, da hab ich meinen Gnus gestartet, Ausgabe lief dann
+halt lokal bei meinem Freund. Momentan sitze ich noch an einem
+Rechner, der gerade aufgesetzt worden ist, und teste das X11 :-)
+
+
+Sowieso... Mal sehen, evtl antworte ich nachher noch mal eben schnell,
+wenn ich wieder kurz @home bin :-)
+
+Günther
+-- 
+This sentence contradicts itself -- no actually it doesn't.
+ -- Gutekunst

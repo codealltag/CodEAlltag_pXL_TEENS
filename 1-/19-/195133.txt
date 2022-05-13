@@ -1,0 +1,16 @@
+Genau das ist mir eben auch passiert. Das passiert manchmal, wenn man  
+auflegt, bevor alle Threads korrekt beendet wurden.
+Folgendes hat bei mir geholfen: DATA.IDX löschen, DATA.DAT mit einem Hex- 
+Editor öffnen. Bei einer fehlerhaften DATA.DAT befinden sich am Ende der  
+Datei ein Haufen Sonderzeichen. Diese und das letzte korrekte Posting bis  
+auf die Sonderzeichen vor X-Hamster-Info: löschen, die Werte in der  
+DATA.INI um die vermutete Anzahl der verlorenen Postings zurücksetzen bzw.  
+DATA.INI löschen, Group neu abonnieren und History rebuilden. Aber  
+Sicherheitskopie nicht vergessen :-)
+
+Orlando Kollmorgen
+
+-- 
+Wählt Zukunft! Wählt die IBPN.
+                                             E-Mail: nirvaz@unkeyovvvq.ya
+---> Offizieller Kämpfer wider Gian Diedrichs des Ordens von dtju <---

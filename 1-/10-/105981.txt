@@ -1,0 +1,28 @@
+Und so sprach Rudolf Wasmuß:
+
+
+per was?
+
+
+Du kannst in Gnome keine oder soviele Leisten haben, dass der ganze
+Bildschirm verdeckt ist, oder auch was zwischendrin; die Leisten sind
+vom Typ, Aussehen und Groesse her konfigurierbar. Auf meinen Desktop
+kann ich von den 786 Pixeln schon 32 fuer 'ne Leiste entbehren. Und
+Sawfish hat definitiv die cooleren Themes als IceWM.
+
+Aufm Laptop bevorzuge ich Enlightenment, weil bei 800x600 sieht die
+Geschichte dann schon anders aus; und wenn ich mal die Gelegenheit zum
+rumprollen habe, dann sicher mit dem Laptop. :-) Ausserdem liebe ich
+BlueSteel. :-)
+
+
+gnome-terminal dank Gnome - aber ich hab ja nicht auf allen Maschinen
+X ...
+
+Gruss,
+Nicolas.
+-- 
+Can I leave and close my eyes for one mor night
+Can I pay to be set free of all this pain
+That makes me bleed
+                                                --ANGEL DUST - Bleed

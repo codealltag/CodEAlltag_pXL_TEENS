@@ -1,0 +1,29 @@
+Am Sun, 14 Sep 1998 20:30:10 GMT sendete Ludwig Focker
+folgende Botschaft:
+
+
+Ach. Nur soll angeblich mit geeigneten Schutzmassnahmen der Strom der im
+fehlerfall fleist so niedrig sein das nichts passiert.
+
+
+s/220/230/
+
+
+Dadrauf wollte ich hinaus (vielleicht sollte ich mehr im Verbose-mode
+schreiben) Das Ströme von > 50 mA Herzrhythmusstörungen o.�. auslösen
+können weis ich nur ist es meistens so das wenn man an Spannung kommt
+das betroffene Körperteil sofort wegzuckt. Ich wollte halt wissen wie es
+passiert ist da ich a) das *etwas* soverstanden habe als hätte sie
+stärkere verbrennungen und nicht nur ein paar brandmale an den fingern
+und b) sowas in einem vernünftig installiertem Haus nicht passieren
+sollte (mit diesen auswirkungen).
+
+
+OANA, nur muss nicht umbedingt der längste weg der schlimste sein, eine
+Hand rein, andere hand raus soll auch sehr effektiv sein. Aber mit den
+Negative folgen des Strome kennst du dich wohl besser aus, ich arbeite
+eher mit den positiven seiten. (btw: ist das jetzt hier Offtopic? btw2:
+wenn gerade einer am essen ist -> guten hunger ;)
+
+Tschüs
+  Ivan

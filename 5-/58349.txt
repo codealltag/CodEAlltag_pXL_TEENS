@@ -1,0 +1,46 @@
+Und so sprach Philippe Roggentin:
+
+
+Ich hab hier was gebastelt, das tut. Allerdings noch nicht mit LMK
+zusammen, any hints?
+
+#v+
+#!/usr/pkg/bin/perl
+
+# Give file name as first argument to mpg123wrap or ...
+if(open(MP3,"<$ARGV[0]")) {
+@stream = <MP3>; close(MP3); }
+
+# ... get it piped into mpg123wrap.
+else {
+@stream = <STDIN> }
+
+# ID3 tag starts here.
+$TAGStartPos = index($stream[$#stream],"TAG");
+
+# Get clean title and artist tags
+$title = substr($stream[$#stream],$TAGStartPos+3,30);
+$title =~ s/\0//g;
+$title =~ s/\ \ //g;
+
+$artist = substr($stream[$#stream],$TAGStartPos+33,30);
+$artist =~ s/\0//g;
+$artist =~ s/\ \ //g;
+
+# Write "now playing" information to a specified file.
+open(TARGET, ">$ENV{'HOME'}/.signature") or die "Could not write to target file.\n";
+print TARGET "np: $artist - $title";
+close(TARGET);
+
+# Pipe the whole stuff into mpg123
+open(PLAYER, "| /usr/pkg/bin/mpg123 -");
+foreach $line (@stream) {
+print PLAYER $line;
+}
+close(PLAYER) or die "Unable to execute mpg123.\n";
+#v-
+
+Gruss,
+Siebelt.
+-- 
+np: Patent Uhlenbroich - D. Johansmeier vo Buempliz

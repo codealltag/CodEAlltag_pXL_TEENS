@@ -1,0 +1,6 @@
+Ist ja auch immens sinnvoll, einen nicht aktuellen Source per rpm zu
+nehemne, wenn man sowieso selbstkompilieren will...
+
+Ullrich
+-- 
+DIE JONGNY REGIERUNG BITTET:  ALTE LAPPEN NICHT WEGWERFEN!

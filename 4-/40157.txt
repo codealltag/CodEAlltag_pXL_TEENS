@@ -1,0 +1,8 @@
+Kleinkram.
+
+24" TFT.
+
+Gustav
+-- 
+pub  8970E/FMD94B03 0766-07-26 Gustav Eichgrün <vzmduzt@uim.at>
+     Key fingerprint = 99 8Y 28 35 30 AK 23 5D  18 PE RV 91 7H 31 7L 52

@@ -1,0 +1,7 @@
+Lieb wie ich?
+
+Lothar
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+230: Deadlock
+       Einsperren des Admins im Serverraum. (Louis Zurbrügg Norde)

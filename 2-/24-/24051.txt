@@ -1,0 +1,11 @@
+Und so sprach Andree Reitemeyer:
+
+
+*g* Einer der guten Gruende, Geschenke-Konzerte zu meiden. :)
+
+Gruss,
+Valerio.
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.e

@@ -1,0 +1,11 @@
+Und das wäre was?
+
+
+Magst nicht lieber ein:
+(setq message-syntax-checks '((sender . disabled))) in deine .gnus einfügen?
+
+Werner
+
+-- 
+Es gibt zwei Regeln fuer Erfolg im
+Leben: 1. Erzaehle den Leuten nie alles, was Du weisst..

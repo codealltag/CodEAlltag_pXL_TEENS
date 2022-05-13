@@ -1,0 +1,9 @@
+Nein, overflowbla kommt nur bei AFV-Karten. Eine solche habe ich ja
+bekannterweise. Nach einem Patch läuft das aber. Unter Win98 habe ich
+überhaupt keine Probleme mit dem Spiel.
+
+Niclas
+
+-- 
+Geldautomat:
+  "Unbekannter Fehler '-128' bei '57'."

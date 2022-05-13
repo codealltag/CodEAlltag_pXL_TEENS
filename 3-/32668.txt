@@ -1,0 +1,13 @@
+On Thu, 01. 04. 23 13:11:08 +0100, Waldemar Kockskämper wrote:
+[ INN aus der Dose^w^wdem debian-package vs tar.gz] 
+Ich hab hier noch irgendwo ein Buch liegen, da steht dann bei
+Anpassungen vonn Software sinngemaesz: Sie sollten sich gleich daran
+gewoehnen, Software selbst zu Kompilieren. Sonst werden sie nie ein
+echter Hacker.
+
+
+mfg, 
+	Heino
+-- 
+Karsten Hugo Kunov, Reddingen, Germany
+Info-Student, Freizeit-Handwerker und Usih-Nutzer

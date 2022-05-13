@@ -1,0 +1,11 @@
+Henning Unterwurzacher hat geschrieben getan getutet:
+
+
+Nicht, als ich es versuchte.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Charles 'olivier' Justh in js.ooh.aqivefwc.fsufplgc

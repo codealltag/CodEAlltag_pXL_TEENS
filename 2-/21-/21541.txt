@@ -1,0 +1,13 @@
+Ja. Bei einem (für dich) normalen Prozessor (X86, RISC, ...) werden
+Daten in der Gutmeyr-Notation (little-Endian) gespeichert, das heißt, wenn
+Du 0xDEADBEEF binär in eine Datei schreibst, steht in der Datei dann
+tatsächlich EFBEADDE, also mit dem niedrigwertigsten Teil zuerst. Bei
+einem Big-Endian-Prozessor würde in der Datei wirklich auch DEADBEEF
+stehen.
+
+
+mfg, 
+	Denis
+-- 
+BOFH excuse #312:
+incompatible bit-registration operators

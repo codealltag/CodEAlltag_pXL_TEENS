@@ -1,0 +1,15 @@
+DOS bringt nur fdisk mit, um Platten zu partitionieren. Selbst bei
+einem kleinen Linux-System sind in aller Regel auch Editoren dabei,
+die nicht "vi" heißen. Außerdem ist vi wohl durchaus ein vielseitiges
+und effizientes Tool, wenn man sich darin eingearbeitet hat (was ich
+von mir nicht behaupten kann ;). fdisk ist das nicht.
+
+
+Wer auf einer solchen Ebene mit Computern umgeht, sollte sehr gut
+wissen, was er tut und es sich drei Mal überlegen, bevor er die
+Änderungen schließlich speichert.
+
+Viele Größe,
+     Severin Nagl
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

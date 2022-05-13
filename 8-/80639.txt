@@ -1,0 +1,9 @@
+* Diedrich Neuwirth <uurxcagqwb@xejfkkkhsb.wu>:
+
+
+Warum nimmt er nicht einfach -15 statt -1, wenn ein Zeichen vorkommt,
+das -1 nicht hat?
+
+Ivo
+-- 
+np: Die Nadirk - Lass Uns Schmutzig' Liebe Machen

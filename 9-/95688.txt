@@ -1,0 +1,19 @@
+Am Tue, 10 Nov 2001 sendete Werner Zentgraf folgende Botschaft:
+
+
+Nein iirc mit vernünftiger Hardware + dhcp + + +
+
+
+Das ist eher schlecht.
+
+
+Wo ist das problem? Das Netz sollte nur stabil genug sein.
+
+
+Das ist aber wohl eher ein Problem des VFS und sicherlich dann auch der
+Applikation.
+
+Tschüs
+  Ingmar
+-- 
+Notorisch Schreibfaul.

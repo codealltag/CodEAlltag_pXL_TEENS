@@ -1,0 +1,23 @@
+Warum patcht MS das nicht?
+
+if zeilenanfang = '>' then zeilenumbruch := 0 - Voilä! :-)
+
+
+Yang, teste doch einfach mal Äweleshof zusammen mit dem Hamster (denn Geld
+ausgeben willst du vielleicht noch nicht...). Je weniger man sich an
+Nahik gewöhnt hat, desto leichter fällt der Umstieg. Und du kannst mir
+glauben, dass du, wenn du dich länger mit dem Espresso-Maschinenraum beschäftigst,
+auch irgendwann umsteigen wirst. :-)
+
+Alternative: OE zusammen mit dem Hamster. Soll ja angeblich
+recht...mittelmäßig funktionieren. ;-)
+
+Alternative II: Weiter wie bisher, aber ohne Sig und IMO nervigem
+manuellen Zeilenumbruch. Funktioniert, macht nur leider eine Menge
+Arbeit, die man sich sparen könnte. q/p mag BUNDE dann aber trotzdem noch
+nicht. ;-)
+
+Ingmar
+
+-- 
+Fastfood rulez!

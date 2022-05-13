@@ -1,0 +1,8 @@
+"Schreiben Sie nun hinter jede Message-ID in der Konfigurationsdatei,
+ob Ihnen das zugehörige Posting gefallen hat, oder nicht." :-)
+
+Rupert
+
+-- 
+Setup-Fehler 723:
+"Die Informationsverarbeitung ist auf oberster Ebene fehlgeschlagen."

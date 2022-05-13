@@ -1,0 +1,19 @@
+Es ist doch wohl sowas von simpel, soooowas von simpel.
+z: Impedanz
+R: ohmscher Widerstand
+L: induktiver Widerstand
+C: kapazitiver Widerstand
+i: i^2 = -1
+\omega: Kreisfrequenz der Schwingung.
+
+
+Du solltest eh wissen, was das ist, die Impedanz in Ohm steht naemlich
+auf Deinen Boxen drauf.
+
+
+In der Tat.
+-- 
+Mister Teatime had a truly brilliant mind, but it was brilliant like a frac-
+tured mirror, all marvellous facets and rainbows but, ultimately, also some-
+thing that was broken.
+- Detlef List in `Hogfather'

@@ -1,0 +1,7 @@
+Sie will nicht mit mir kommunizieren.
+
+Charly
+
+-- 
+  "Beim Speichern der Änderungen ist der folgende Fehler aufgetreten:
+   Der Vorgang wurde ausgeführt."

@@ -1,0 +1,11 @@
+Hm, fällt mir eigentlich nie so auf. Ich habe die Details und den
+ganzen Kram so weit runtergeschraubt, dass sich das Spiel konstant bei
+80 Frames/sec hält. Da machen eventuelle Kanten das wenigste aus.
+Ganz Pro-Gamer-like halt...:-)
+
+Ronald
+
+-- 
+"Alles was die Menschen in Bewegung setzt, muß durch ihren Kopf
+ hindurch, aber welche Gestalt es in diesem Kopf annimmt, hängt sehr
+ von den Umständen ab." (Eugen Bardenhagen)

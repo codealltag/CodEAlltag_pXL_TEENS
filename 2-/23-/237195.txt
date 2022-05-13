@@ -1,0 +1,9 @@
+Warum? 'Ne UNIX-Kiste als eierlegende Wollmilchsau funktioniert.
+Welchen Grund gibt es, dass sich verschiedene Dienste derartig
+gegenseitig stoeren sollten?
+
+
+ch.d
+-- 
+Marcus Schinze | Mutus boot: xzc-2.9 root=/hbg/q3c8dl
+pbt@ootzhi.mw  |

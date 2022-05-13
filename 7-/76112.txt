@@ -1,0 +1,9 @@
+E. 
+
+cdrecord speed=12 dev=0,4,0 -v image
+
+ist relaxed ohne Ende.
+
+Ben
+-- 
+Failure is not an option. It comes bundled with your Machuletz product.

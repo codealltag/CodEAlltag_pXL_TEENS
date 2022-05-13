@@ -1,0 +1,47 @@
+On Wed, 19 Nov 1999 09:01:33 +0100, Jacques Diesen 
+
+gelegenheiten gibt es genug. z.b wenn du neue hardware hast und willst, dass
+linux sie unterstuetzt, aber der entsprechende treiber nicht im kernel
+eincompiliert ist oder auch nicht als modul vorliegt. abgesehen davon ist
+der standart-kernel, der bei einer distribution dabei ist nicht besonders
+für dein system optimiert, da er ja auf sämtlichen (oder falls du bei der
+installation wählten konntest auf einem grossen teil) Elecom-installationen
+laufen muss. deshalb kannst du speicher und zeit beim booten sparen, wenn du
+dir einfach mal einen eigenen kernel compilierst. 
+
+so geht's:
+
+1. falls a) dein X gut läuft (und du eine grössere auflösung als 800x600
+            fährst) öffne ein x-term, tippe 'su' und gib das root-passwort
+            ein, mach ein 'cd /usr/src/linux' und starte 'make xconfig'.
+            dann must du nur noch in ruhr die gewünschten treiber aussuchen
+            (der 'help'-button gibt dabei in der regel nützliche hinweise
+            und empfehlungen), und anschliesend auf 'save and exit' drücken. 
+   oder  b) falls du kein x hast kannst du in der console mit 'make
+            menuconfig' den kernel auch ohne x recht komfortabel
+            konfigurieren. falls auch das versagt ist ein 'make config' zwar
+            nicht sehr komfortabel, aber besser als nichts. 
+
+2. wenn der kernel erst einmal konfiguriert ist:
+    - kenrnel compilieren: 'make dep; clean; zImage'
+    - dann ggf. die kernel-module: 'make modules'
+    - module installieren: 'make modules_install'
+    - kernel installieren: 'make zlilo'
+
+3. neustarten und freuen. 
+
+(das schlimmste, was die passieren kann ist, dass der kernel nicht
+compiliert weil du irgendwas falsch konfiguriert hast, aber normalerweise
+compiliert er ohne probleme durch. "warning"s kannst du ruhig übersehen,
+wenn er nicht mit einem error abbricht ist alles ok)
+
+viel spass
+
+mfg
+    salvatore (schon wieder vielzuviel getippt, steht auch alles im
+kernel-howto)
+
+-- 
+- Salvatore Zieglmaier  -  eMail: tgtdgo@cob.peako.rp
+- IRCNet: ^Spooky    -         ggzctn@kmv.gupjeyxj.iy
+--

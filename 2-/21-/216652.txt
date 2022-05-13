@@ -1,0 +1,9 @@
+Ich habe nicht vor, einen Newsserver unter kolenda zu betreiben. Erst
+ging es um ein Beispiel, bei dem der Prozessor bei einem Suchvorgang
+der Flaschenhals ist, dann um eins, bei dem es (AFAIK) die Festplatte
+ist. That's all.
+
+Viele Größe,
+     Fred Belger
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

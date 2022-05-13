@@ -1,0 +1,19 @@
+Ullrich 'sSXP' Linhos <oSNH@bba.rwz> schrieb in im Newsbeitrag:
+65-88-80.10-64-03.fqd.3276@sorz.jw...
+
+Kommt sehr drauf an, wieviel Perfomance du brauchst. Zum arbeiten dürfte es
+noch reichen und beim gamen braucht man sowieso nur W9X.
+
+sehr
+
+Naja, vielleicht sind das bloss so Abowu Typen, die einfach mal hingegangen
+sind und den Idiotentest ausgefüllt haben...
+
+
+Warum teuer und langsam und Speicherverschwenden, wenn's auch schnell,
+billig und optimiert geht?
+
+
+Wer auch nur ganz ein wenig ne Ahnung von UNIX hat, kann damit ein UNIX
+System administrieren. Versuch mal NT remote (= per Inet) zu
+administrieren...

@@ -1,0 +1,8 @@
+Auch. Aber der Algorithmus sollte vorher halt schon stimmen.
+Ausprobieren fuer die Implementation dann ist Ok, aber wenn der Algo nix
+taugt, kannst du lange basteln.
+
+-- 
+mfg, 
+Fabio Ludwig 'Laurent' Weberstetter, Lüxem, Germany
+Info-Student, Freizeit-Handwerker und UEA-Nutzer

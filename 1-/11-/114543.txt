@@ -1,0 +1,9 @@
+Nee, is klar. Deswegen bricht auch nur der Mailserver einer
+Versicherung mindestens einmal pro Woche total zusammen. Zuerst
+antwortet er nciht mehr in Sachen Mail, dann bricht ganz kurz danach
+der Ping auch weg. Dann sagt man dem Admin bescheid, und der führt die
+Kiste neu hoch.
+
+Gebhard
+-- 
+Tomorrow will be canceled due to lack of interest.

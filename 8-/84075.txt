@@ -1,0 +1,8 @@
+Leicht dümmlich, wenn du p dann nochmal brauchst und es diesmal nicht
+diese Eigentschaften haben soll. Ein komplett umschließendes div ist
+da sinnvoller, IMHO.
+
+Sergio
+
+-- 
+Mittwoch, weg, Irland, 10 Tage.

@@ -1,0 +1,6 @@
+Irgendwie lässt es sich nicht kompilieren.
+
+Ulf
+
+-- 
+cat .signature

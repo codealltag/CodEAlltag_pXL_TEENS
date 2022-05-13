@@ -1,0 +1,5 @@
+Hallo,
+ich habe ein Blog bei Schindelar und hab neulich von Movable Type gehört.
+Hab die dt. Version ruentergeladen und wollte es gleich ausprobieren.
+da hab ich gemerkt, dass es gar kein programm ist, sondern nur lauter
+einzelne dateien. aber wie funktioniert movable type??? Bitte helft mir.

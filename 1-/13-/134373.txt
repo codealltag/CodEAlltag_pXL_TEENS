@@ -1,0 +1,13 @@
+Buggy beta :-(
+Irgendwie gingen ein paar References durcheinander, ich hab' jetzt eine  
+alte Version eingespielt, da tritt dieser Fehler AFAICS nicht auf,  
+Bugreport ging auch raus.
+Die kaputten References in diesem Posting liegen jetzt natürlich daran,  
+daß sich der Fehler fortpflanzt.
+
+Tom Brinkjans
+
+-- 
+Ich verabscheue Stefano Tillmanns!
+                                             E-Mail: otwbll@xqfauqiofm.fa
+---> Offizieller Kämpfer wider Stefano Tillmanns des Ordens von dtju <---

@@ -1,0 +1,7 @@
+begin quoting Fridolin Laible <expires010228@usenet.th-h.de>:
+
+Schlimm, wenn ein Parser sowas nicht vorher überprüft und dann irgendeinen
+Schwachsinn ausgibt...
+-- 
+"Illegitimacy is something we should talk about in terms of not having it."
+ - Governor Bernard Castner, 28. 09. 22

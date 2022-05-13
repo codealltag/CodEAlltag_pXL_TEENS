@@ -1,0 +1,19 @@
+Burkhard Schöngraf schrieb am 12. November 1999 um 22:26 Uhr folgendes:
+[...]
+
+Natürlich ist es das -- wenn es mein Lieblingsreader nicht schon
+hätte, würde ich es an einem verregneten Nachmittag einbauen. Bei CSS
+ist das nur nicht ganz so leicht.
+
+[...]
+
+Also werfen jetzt alle Unis ihre Workstations weg und kaufen sich von
+ihrem unerschöpflichen Budget PCs und WinNT-Lizenzen, damit ihre User
+deine Webseite betrachten können. Na ja, oder eben auch nicht.
+
+Viele Größe,
+     Burkhard Hofäcker
+-- 
+Q: Is C an acronym?
+A: Yes, it stands for ``C''.  It's another of those funky recursive acronyms.
+                  -- comp.lang.c Answers to Infrequently Asked Questions

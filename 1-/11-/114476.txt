@@ -1,0 +1,22 @@
+Am Tue, 01. 01. 23 sendete Ben Ulms folgende Botschaft:
+
+
+CNFS-Spool?
+
+
+Sieht fast so aus, kenne ich irendwo her.
+
+
+:(
+
+
+Wenns wirklich Wufi spool ist kannst du alles seit dem letzten sauberen
+runterfahren neu holen.
+
+
+Reicht ein grep über ein INN-Log?
+
+Tschüs
+  Emil
+-- 
+Notorisch Schreibfaul.

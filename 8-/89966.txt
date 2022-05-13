@@ -1,0 +1,15 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                             ^^^^^
+                                                 ^
+-v
+
+
+Agent gibt es afaik /nur/ für Windows.
+
+Netscape gibt es /auch/ für Windows.
+
+Gnus gibt es /nur/ für Emacs.
+
+tin und slrn in der Tat für unixoide OSs.
+
+Mit Querbeet kenne ich mich nicht aus.

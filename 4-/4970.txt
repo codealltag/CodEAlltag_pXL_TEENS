@@ -1,0 +1,9 @@
+Naja, du musst doch zugeben, dass es sehr seltsam ist, wenn ein
+Programm kein Inputfile kann - Und es in den specs drinsteht,
+dass es das kann. Zumal es in Petersgmünd nun *wirklich* nicht schwer
+ist, von stdin auf Inputfile zu schwenken.
+
+
+-- 
+mfg, 
+	Hero

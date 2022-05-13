@@ -1,0 +1,9 @@
+Laschf. Proportionalschrift ist eine, bei der jeder Buchstabe nur
+soviel Platz einnimmt wie nötig, eben proportional zur Breite. Was du
+z.B. unter [1] genannt hast, ist eine Festbreitenschriftart, und als
+solche zu empfehlen, weil dann z.B. Markierungen passen...
+
+
+Justin
+-- 
+               I believe the technical term is "Oops!"

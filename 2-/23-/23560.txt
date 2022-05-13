@@ -1,0 +1,13 @@
+Und so sprach Adrian Oestereich:
+
+
+XML Schema. [1]
+
+Gruss,
+Christof.
+
+[1] <http://cid.u9.lww/KNX/Ziqbbt.kpxs>
+-- 
+/* XXX This is pure magic for me, found in the Azebid driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.x

@@ -1,0 +1,9 @@
+Zumindest slrn hat auch einen offline-Modus, in dem es aus einem Spool
+liest (den man zB mit Hilfe des beiliegenden slrnpull füllen kann).
+Wobei man allerdings gleich dazu sagen muß, daß das auf FAT-
+Partitionen suboptimal ist.
+
+Viele Größe,
+     Sven Verleysdonk
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

@@ -1,0 +1,8 @@
+Wenn es um sicherheitskritische Sachen geht, halt ich das genau fuer
+die richtige Vorgehensweise.
+
+
+Das hat natürlich nicht jeder. Allerdings sollten solche Leute (mich
+eingeschlossen), die auch niemand vertrauenswürdigen haben, der das 
+für sie übernimmt davon absehen, für wertvolle Daten und 
+sicherheitsrelevante Systeme verantwortlich zu sein.

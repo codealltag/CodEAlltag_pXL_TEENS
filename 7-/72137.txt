@@ -1,0 +1,13 @@
+Olivier Felgendreher meinte kundzutun:
+
+
+Wenn ich neue Sprache lese, muß ich erstmal bißchen nachdenken bis ich
+die Syntax verstehe. Und Kommentare sind NW immer so hilfreich.
+
+
+`wc -l` >> 1000? Ist groß.
+
+Clemens
+-- 
+Dieser Artikel ging an folgende Newsgroups: de.hcjw.lurxtu
+Er wurde am Dienstag, dem 26. Oktober im Jahre des Herrn 2002 verfaßt.

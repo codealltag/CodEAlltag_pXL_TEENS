@@ -1,0 +1,13 @@
+Am Mon, 15 Aug 1999 sendete Gerhard Kohlsaat folgende Botschaft:
+
+
+s/\ss(...)/n\1/
+
+Tschüs
+  Tino
+
+-- 
+Ja? Na, dann wollen wir mal kurz nach Deinen Schäden schauen... Au weia,
+ein Dachschaden würde ja erst mal das Vorhandensein eines Dachs voraussetzen.
+[Konrad Versch in <07r9n3$9xp$2@phcpzna3.dqc.jbq-sblmvtazo.ke>
+zu Jean-Claude Coerds]

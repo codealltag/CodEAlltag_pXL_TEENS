@@ -1,0 +1,7 @@
+Charly Neunmann <zpzrxlb.mntkl@uja.vl> schrieb in im Newsbeitrag:
+jmn4dz6ce9s6alxcyi01isor8e4lmqta1z@9id.nho...
+
+Vor allem muss ich mich nicht beeilen, wenn ich mit ssh rumspiele oder
+CGI-Scripts teste... (die lokale Devbox ist momentan leider ziemlich
+zerschossen, weder PHP noch MySQL noch Qmail scheinen noch zu laufen und
+Bind 8.2.2 P5 will aus unerfindlichen Gründen nicht durchkompilieren).

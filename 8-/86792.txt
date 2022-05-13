@@ -1,0 +1,13 @@
+Uwe Theeuwen hat geschrieben getan getutet:
+
+[Winamp-Szafskin]
+
+
+*meld*
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- André 'edwin' Schlemb in lr.chz.immbnktq.wwcvcayq

@@ -1,0 +1,11 @@
+* Oliver Röder <zpndqw@iynooq-ccjhqfa.ie>:
+
+
+- von wem ist der Patch
+- was macht er
+- wer hat ihn schon ausprobiert
+- welche Rückmeldungen gibt es
+
+Dietrich
+-- 
+cross veinless

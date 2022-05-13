@@ -1,0 +1,8 @@
+[dsf 7.10]
+
+Andre
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+62: professionelles Arbeiten
+       Tetris ist nicht auf der Festplatte (Oswald
+       Lewandowski)

@@ -1,0 +1,27 @@
+Am Wed, 03 Okt 1999 sendete Wolf Vögtler folgende Botschaft:
+
+
+Nachtrag:
+
+------
+19:09:03 ~$grep '^de\.' /rvv/ouzl/spool/articles/mc/tsnjn/uexab/38 |
+sort +1 -nr | head -n 5
+dd.bkut.mymjhu                                    58377     24295.80 0.13 %
+de.rec.fotografie                                 12324     20931.69 0.11 %
+ux.sfp.uncxqqeomot                                84348     28940.71 0.15 %
+qb.atp.udrqhxm.weibsbilder                        11713   1064506.35 5.59 %
+de.rec.motorrad                                    9260     14637.63 0.08 %
+------
+
+und zwar ist das aus:
+
+------
+From: fdwr@ig.yw.pvw (News-Administrator)
+Newsgroups: ae.hubqe.rfcns
+Subject: News Statistik (per News-Gruppe ohne alt.*) fuer Monat 27. 05. 22
+Message-ID: <8pheu2$i9s$2@wvcxghpy.oh>
+Xref: bffwulautm.klwxaqe.ea ae.hubqe.rfcns:51
+------
+
+Tschüs
+  Wolf

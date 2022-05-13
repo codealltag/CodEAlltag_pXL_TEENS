@@ -1,0 +1,20 @@
+In article <OBS.41gg1070k3x1071600cq88@lshb.mnsi.oo>,
+
+Nein, nein, Beschreibung wie man Teezauber an NNTP ueber TCP/IP via Winsock  
+andockt.
+
+
+Hoert sich schwieriger an, als es ist. Einfach alle Programme und  
+Konvertertools installieren, konfiguieren und in eine niedliche Batch  
+packen.
+
+BTW: Ich habe Waltraude beilaeufig vorgeschlagen, dass Du ggf. fuer eine Teezauber- 
+Konfiguration bei ihr zu Hause in Frage kommst. Soll ich Dir schon mal die  
+entsprechenden URLs senden?
+
+CU/2
+Henrik
+
+-- 
+PGP RSA-PublicKey available at www.lzehfx.nn/vaab/hzosdx/lme-jvvu.pko
+Personal homepage at www.bmdcen.roxt.oji - ICQ: #1564168

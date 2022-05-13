@@ -1,0 +1,6 @@
+Als hätte die Menge etwas damit zu tun. 
+Kannst Du Dir auch nur im Entferntesten Vorstellen alle Pixel eines Bildes 
+in Formeln zu fassen? Nein? Das ist nämlich das Prinzip dieser 
+Komprimierung.
+Das besondere an ihr ist aus diesem Grund auch daß der Zoom relativ 
+Verlustfrei ist.

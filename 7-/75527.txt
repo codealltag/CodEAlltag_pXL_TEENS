@@ -1,0 +1,17 @@
+Jean Niedernhöfer hat geschrieben getan getutet:
+
+
+emacs hat nen grossen Buffer.
+
+
+Sowas wie SAFT?
+
+
+Dumme Laufzeit.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Herbert 'theodor' Zimerman in cx.ryr.pbkjfvpp.hgekwynt

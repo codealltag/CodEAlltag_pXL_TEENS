@@ -1,0 +1,11 @@
+*g* Der war gut. Nein, Standards koennen sie nicht ohne weiteres
+aendern. Aber dafuer koennen sie ihre Implementation inkompatibel zu
+der anderer Hersteller machen und ihre dann als die einzig seelig
+machende verkaufen. Siehe z. B. Kerberos oder Win2000/Samba.
+
+Vittorio
+
+-- 
+"Republicans understand the importance of bondage between a mother and
+ child."
+ ....Governor Berthold Hubert, Jr.

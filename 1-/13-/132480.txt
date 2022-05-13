@@ -1,0 +1,12 @@
+* Gabriel Jaenike <pxicdh@stxmy-fqfisb.sj>:
+
+
+`M-x gnus RET'
+
+`M' ist der Meta-Key, d.h. bei dir die Alt-Taste. Obiger Befehl heißt:
+Alt gedrückt halten und m drücken, danach beide Tasten loslassen. gnus
+eintippen und Return drücken. Danach startet Gnus.
+
+Reinhold
+-- 
+cross veinless

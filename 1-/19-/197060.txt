@@ -1,0 +1,13 @@
+In dem Editorfenster für die Antwort:
+All Fields
+Signature>None
+
+Alternativ kannst Du in das Editorfenster auch die aktuelle Sig pasten
+(Rechtsklick auf Editorfenster>Paste Signature) und da verändern. Mit
+der Aktion wird in der oben angesprochenen Siganture-Einstellung
+natürlich automatisch auf "None" umgeschaltet.
+
+C Ya,
+Etienne
+-- 
+Ausscheider 5/00

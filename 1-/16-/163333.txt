@@ -1,0 +1,9 @@
+On Thu, 13 Feb 2000 17:58:05 +0200, Frank Röw
+
+Nicht bei Nico Otmar...
+
+-- 
+abnormal program termination: "liebe"
+Trying to restart... ... can't connect to server...
+Trying to find equivalent... found "Freundschaft"
+Connecting to server... successful... connected...

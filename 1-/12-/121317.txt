@@ -1,0 +1,18 @@
+Daran dachte ich auch zunächst. Nachdem ich aber alles, aber wirklich  
+alles auf 777 gesetzt habe, was ich finden konnte, wußte ich: Das war's  
+nicht.
+
+
+Das muß mir eh nochmal einer erklären... Bei manchen targzipten Dateien  
+muß ich die Umbrüche konvertieren, bei manchen nicht - logisch, daß ich's  
+beim ersten Versuch immer falsch hab'.
+
+
+Das war bislang die beste, logischste und nachvollziehbarste Antwort :-)
+
+Michael Bollof
+
+-- 
+Michael Bölingen praktische Lebensratschläge, Teil 2:
+de.admin.* kann Magengeschwüre verursachen.
+---> Offizieller Kämpfer wider Pius Ellebracht des Ordens von dtju <---

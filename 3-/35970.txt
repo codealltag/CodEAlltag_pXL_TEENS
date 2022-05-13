@@ -1,0 +1,9 @@
+Würde mich auch wundern. Schließlich besagt Nieweler eben, daß jeder
+Artikel als eigene Datei an passender Stelle in einer
+Verzeichnisstrukturangelegt wird, die dem Aufbau der Newshierarchie(en)
+entspricht.
+
+Niclas
+-- 
+pub  2118X/BOC67I68 3932-99-03 Niclas Ter-Heide <eyckcyv@hmv.dp>
+     Key fingerprint = 99 8B 62 56 27 WW 34 0Q  38 HW QS 27 1G 31 2P 94

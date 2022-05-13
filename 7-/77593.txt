@@ -1,0 +1,139 @@
+Diverser Kleinkram:
+
+-- 8< --- 8< --- 8< --- 8< --- 8< --- 8< --- 8< --- 8< --- 8< --- 8< --
+V4.0
+(V3.9999)
+- Optimierung: Bei Konvertierung Text zu html wird ggf. der Content-
+  Type von "multipart/alternative" nach "multipart/mixed" geändert,
+  so daß auch NOTROFF & Co den konvertierten HTML-Teil zu sehen bekommen.
+- Bugfix: Durch einen Kompilierungsfehler funktionierten die inter-
+  aktiven Funktionen (Ask, Inputbox) bei Only_KN nicht mehr.
+- Bugfix: Unter Umständen wurde das erste Attachment nicht korrekt
+  identifiziert und somit ein Laufzeitfehler (Listenindex) ausgelöst.
+- Bugfix: Die Typ-Erkennung wurde durch Großschrift im Content-Type
+  ausgehebelt.
+- Bugfix: Die Verwendung einer unbekannten numerischen- oder String-
+  variablen innerhalb von String- oder numerischen Ausdrücken konnte
+  zu einem Laufzeitfehler führen, jetzt kommt eine vernünftige
+  Fehlermeldung.
+(V3.999)
+- Neu: Nachfrage bei nicht existenten Abschnitten
+- Neu: Nachfrage bei nicht existierender header.def-Datei
+- Bugfix: Beim ändern von Mime-Charsets wurde ggf. ein kaputter Header
+  beim Content-Type produziert:  'text/plain; name="Beispiel.txt"'
+  => 'text/plain; name="Beispiel.txt"charset=ISO-8859-1'
+- Bugfix: Beim Speichern von Binär-Attachments waren diverse Fehler
+  möglich, dadurch, daß jetzt bei "Save" der originale und unbearbeitete
+  Text der Mail herangezogen wird, sind solche Fehler nicht mehr möglich,
+  leider aber auch keine Änderungen vorm Speichern am Text selber.
+- Source: 8.3 kompatible Namen, da das verwendete ZIP-Programm die
+  Namen sonst kaputt macht.
+(V3.99)
+- Bugfix: Änderungen mittels "Do Replace" übergingen die automatische
+  (De)Kodierung und setzen kein �nderungsflag.
+- Bugfix: Unix-übliche Zeilenumbrüche stören bei Include-Dateien
+  nicht mehr.
+(V3.98)
+- Neu: "Do delete Header" akzeptiert jetzt auch String-Ausdrücke
+- Bugfix: Bei mehreren Posting gab es eine Schutzverletzung
+- Bugfix: In bestimmten Konstellationen führten führende Leerzeichen
+  in Parameterlisten von Funktionen zu eigenartigen Fehlermeldungen.
+- Bugfix: <= und >= funktionierten bei numerischen Vergleichen nicht
+- Bugfix: Ein nicht vorhandener numerischer Ausdruck lieferte einen
+  Zufallswert zurück.
+(V3.97)
+- Neu: Außer Stringvariablen können jetzt auch Integer-, Float- und Boolean-
+  Variablen verwendet werden, die Kompatibilität ist dadurch gewahrt, daß
+  undefinierte Variablen automatisch als Stringvariablen angelegt werden.
+- Neu: Innerhalb von Subs können jetzt lokale Variablen definiert werden
+  (Var local %Variablenname%: Typ)
+- Neu: Sub-Variablen können auch vom Typ Boolean, Integer oder Float sein.
+- Neu: Do Play wave <Dateiname> [and wait] erlaubt das Abspielen von Wave-
+  Dateien ohne zusätzliche "Tricks".
+- Neu: Der Korrnews-Fehlerdialog und der Input-Befehl kann jetzt auch von Only_KN
+  aufgerufen werden, intern wird dafür Korrnews selber herangezogen.
+- Neu: Numerische und String-Vergleiche kennen jetzt auch den Vergleichsausdruck
+  "... between ... and ...".
+- Neu: Variablen können jetzt auch ohne extra "Set" gesetzt werden d.h. "%Hi%='hallo'"
+  ist genauso zulässig wie die alte Form "Set %Hi%='hallo'".
+- Bugfix: Attachments wurden ggf. beschädigt
+- Bugfix: Der Klartext vor den MIME-Attachments bei Multipart-Postings bleibt
+  jetzt erhalten
+- Bugfix: Unter bestimmten Umständen wurde doppelt kodiert
+(V3.96)
+- Neu: "Set [raw] HeaderContent <Nummer> ...", String-Funktionen HeaderName(Nr),
+  HeaderContent(Nr), RawHeaderContent(Nr) erlauben die komplette Abarbeitung
+  des Headers.
+- Neu: Fehlermeldung, wenn Arbeits- oder Dateiverzeichnis nicht existiert.
+- Neu: "Do optimize MIMEHeader" entspricht der entsprechenden "Header I"-Option
+- Bugfix: Die Abfrage HasSig verändert ggf. den aktuellen MIME-Part, da diese
+  Funktion auch bei If-Bedingungen intern ausgeführt wurde, die durch eine
+  umliegende Bedingung ausgeschlossen war, konnten Attachments zerstört
+  werden. HasSig und vergleichbares wird jetzt nur noch bei Bedarf ausgeführt.
+- Bugfix: Die minimale Body-Kodierung wurde versehentlich auch bei Attachments
+  ausgeführt, was zumindest für kaputte Header sorgte.
+- Bugfix: Gefoldete Zeilen a la Received wurden bei "optimierter Headerkodierung"
+  "entfolded".
+- Bugfix: Die Funktion "Leerzeile vor Sig" ist jetzt wieder re-implementiert.
+- Bugfix: Diverse Hints in der Oberfläche fehlten noch oder waren falsch
+  zugeordnet.
+- Bugfix: "Do Convert to 7Bit" konvertiert auch Intro, Lines & Signatur
+- Bugfix: Die Auto-Konvertierung zwischen Zeichensätzen machte unter speziellen
+  Umständen Probleme, so daß z.B. bei einer Auto-Konvertierung zwischen undekla-
+  riertem Windows-1252 nach utf-8 die Umlaute der Signatur verschwanden.
+(V3.95)
+- Zeichensatzunterst�tzung für ISO-8859-1, ISO-8859-15, Windows-1252, utf-7/8
+  und weitere Zeichensätze für Header und Body incl. automatischer Konvertierung
+  bei Bedarf.
+- Transparenter Zugriff auch bei Quoted-Printable und Base64
+- Encoding (8Bit, QP, Base64, 7Bit) automatisch oder per header.def umstellbar
+- Handhabung von Multi-Part-Postings: Alle Parts direkt zugreifbar, Abfrage des
+  MIME-Typs, Löschung mit oder ohne Speicherung möglich, alle Komfortfunktionen
+  arbeiten für die verschiedenen MIME-Parts getrennt.
+- HTML => Text
+- diverse Anpassungen an der Oberfläche und Ergänzung der header.def-Syntax u.a.
+  um Konvertierungs- und Multi-Part-spezifische Funktionen/Befehle.
+
+V3.2
+- Neu: Oneliner & Reformat-Kennungen jetzt einstellbar
+- Neu: Multiline-Header können nicht mehr versehentlich Probleme verursachen,
+  da - falls fehlend - jetzt automatisch ein Leerzeichen vor die Zusatzzeilen
+  gesetzt wird.
+- Neu: Funktion "Ord" gibt das ASCII-Zeichen des ersten Zeichens im übergebenen
+  String zurück
+- Bugfix: Debug-Modus funktioniert wieder
+- Bugfix: Bei Rechenzeichen direkt hinter parameterlosen numerischen Funktionen
+  (wie z.B. in: Bodylines-3) kam es zu Interpretationsfehlern.
+
+V3.12
+- Bugfix: ">=" und "<=" wurden bei Stringvergleichen genau falschrum interpretiert
+- Neu: header.def: Funktion "Ord" gibt des ASCII-Wert des ersten Zeichens des
+  übergebenen Strings zurück.
+- Bugfix: Das Wandeln eines neuen Subjects in 7-Bit-Zeichen läßt einen eventuellen
+  "was"-Anteil unverändert.
+
+V3.11 20.10.2000
+- Bugfix: msg-Dateien ohne CRLF am Ende verlieren nicht mehr die letzte Zeile, wenn
+  diese zufällig aus nicht mehr als 2 Zeichen besteht
+- Änderung der internen Abläufe: Zitate können jetzt auch in der Introduction
+  untergebracht werden.
+
+V3.1 18.08.2000,
+- Neu: header.def: While/Wend, Repeat/Until, Endless/Loop, Break, Continue
+- Neu: "Oneliner"-Automatik für beispielsweise XNews & URLs
+- Neu: "Reformat"-Automatik, um gezielt Absätze neu umzubrechen
+- Fix: OE-Kammquoting-Reparatur sollte jetzt noch besser arbeiten, die internen
+  Grenzen waren etwas eng gewählt.
+- Fix: header.def: For/Next wird bei Anfangswert größer Endwert nicht mehr durchlaufen
+- Fix: header.def: Gotos in Subs oder innere Schleifen werden jetzt abgefangen
+- Fix: Boxquotes harmonieren jetzt auch mit Quoted Printable und Tab-Zeichen
+
+V3.01 29.06.2000,
+- Neu: Aktualisierte Hilfe
+- Neu: Fußnoten können auch Umbruchplatzhalter bekommen
+- Fix: Diverse Kleinfehler bei Fußnoten
+- Fix: Diverse Kleinfehler bei Boxquotes
+-- >8 --- >8 --- >8 --- >8 --- >8 --- >8 --- >8 --- >8 --- >8 --- >8 --
+
+So long,
+Giuseppe S. Jänichen

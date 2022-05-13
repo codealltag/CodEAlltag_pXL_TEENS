@@ -1,0 +1,7 @@
+Aber früher hiess es doch mal so, oder?
+
+Eckhard
+-- 
+"Since the functions in the C runtime library are not part of the Win32 API, we
+believe the number of applications that will be affected by this bug to be very
+limited"                                              - Egub, 30. 11. 21

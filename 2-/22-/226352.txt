@@ -1,0 +1,29 @@
+Warum loeschen ?
+Hab ich da was verpasst ?
+
+
+Eigentlich schon, aber ich ha trotzdem wichtigeres zu tun.
+
+
+Solche Sachen sollte man routinemaessig ablehnen.
+
+
+Wenn du das so siehst, kann sich sofort jeder sein halbes System selbst
+  schreiben. Eine Firma kann es einem ja sowieso nicht recht machen.
+
+
+Dann sollte man die Sachen halt protokollieren oder so.
+
+Mein Eindruck von Windows ist zumindest der, dass praktisch jedes Programm
+  auf das Windows-Verzeichnis und die Registry zugreift, dort irgendwas
+  ablegt und nie wieder loescht.
+Bei anderen Systemen geht's doch auch anders.
+
+
+Schlimm genug.
+Letztendlich gehoeren sie aber zur Gruppe, die's nicht versteht.
+
+-- 
+Urban
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

@@ -1,0 +1,11 @@
+Weil man nicht unbedingt mehrere Server (naja...leafnodes) 
+hintereinander schalten will, da man sonst Probleme mit der
+Synchronisation bekommt. Außerdem geht das Lesen der Header direkt
+aus dem Spool fast unendlich schneller als vom leafnode.
+
+Gunter
+
+-- 
+"Das Geheimnis des Lebens und das Geheimnis des Todes sind verschlossen
+ in zwei Schatullen, von denen jede den Schlüssel zum öffnen der
+ anderen enthält." (Gregor Veltmann)

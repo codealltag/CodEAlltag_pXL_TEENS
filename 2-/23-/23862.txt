@@ -1,0 +1,7 @@
+Na gut, dann fork()e bitte mal.
+
+mfg, 
+	Carl
+-- 
+BOFH excuse #144:
+Too few computrons available.

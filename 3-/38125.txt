@@ -1,0 +1,7 @@
+Lieber früh als spät anfangen.
+
+Carl
+
+-- 
+Setup-Fehler 723:
+"Die Informationsverarbeitung ist auf oberster Ebene fehlgeschlagen."

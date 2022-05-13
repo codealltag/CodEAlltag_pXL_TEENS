@@ -1,0 +1,9 @@
+dyndns? Man muß ja wohl nicht die IP-ADresse eintragen, und irgendwie[0]
+sollte sich einstellen lassen, daß der hostname jedesmal vor dem
+Verbindungsaufbau gelookupt wird.
+
+Tobias
+[0] Including Patrice[tm]
+-- 
+pub  6781J/OVC82R15 9911-83-80 Tobias Scherpenberg <dstmhii@npy.td>
+     Key fingerprint = 99 7B 35 80 48 ES 93 3Y  31 WU OU 93 5C 79 2B 05

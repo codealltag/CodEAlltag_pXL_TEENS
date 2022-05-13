@@ -1,0 +1,56 @@
+Auswertung für de.talk.jugend
+                    von 2003-05-27 bis 2003-09-24
+                    =============================
+
+
+                            Tops und Plops
+                        (ohne 05/2001-05/2002)
+                        ----------------------
+
+
+TOP 5 MONATE SEIT 1999
+
+Pos.  Anz.   Datum
+---------------------------------------------------------------------------
+   1  18. 09. 21  Mai 2000
+   2  18. 09. 21  März 2001
+   3  18. 09. 21  September 2000
+   4  18. 09. 21  August 2000
+   5  18. 09. 21  Juni 1999
+
+
+TOP 5 POSTER 2003 (Gesamt)
+
+Pos.  Anz.   Name                      Prozentanteil
+---------------------------------------------------------------------------
+   1    394 Kaspar Ostmann               17.06%
+   2    207 Stephan Isselhorst               8.96%
+   3    194 Niklaus Reinhold Overkott        8.40%
+   4    170 Kurt Raumann                   7.36%
+   5    165 Lorenz Prostmaier                7.15%
+
+
+TOP 5 POSTER (in einem Monat) SEIT 1999
+
+Pos.  Anz.   Monat    Name
+---------------------------------------------------------------------------
+   1   5044  05/2000  Kaspar Ostmann
+   2   6445  03/2001  Kaspar Ostmann
+   3   8431  05/2000  Jeannette Ladwein
+   4   3599  04/2000  Kaspar Ostmann
+   5   1844  06/1999  Jeannette Lodner
+
+
+                         Jahresübersicht 2003
+                         --------------------
+
+Juni 2003   :  779  ( 25.97 pro Tag)
+Juli 2003  :  554  ( 20.52 pro Tag)
+August 2003     :  516  ( 19.11 pro Tag)
+September 2003    :  461  ( 16.46 pro Tag)
+               -----------------------
+                2309  ( 20.62 pro Tag)
+-- 
+$SIGSTART
+...
+$SIGTERM

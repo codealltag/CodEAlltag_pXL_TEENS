@@ -1,0 +1,12 @@
+Am Thu, 19 Jan 2000 sendete Vincent Frisen folgende Botschaft:
+
+
+Die references werden nicht nach anzahl der ID's gekürzt sondern nach
+zeichenn (Laut GNKSA <998).
+
+
+Da sollte es eigentlich keine probleme geben aber kürzer ist trotzdem
+besser.
+
+Tschüs
+  Niels

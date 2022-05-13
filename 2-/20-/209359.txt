@@ -1,0 +1,9 @@
+Am 13 Nov 1998 19:54:55 GMT sendete Benedikt Engelage
+folgende Botschaft:
+
+
+Man braucht doch nur 'screen' '<ctrl> <a>, <ctrl> <d>' und 'screen -r'
+;)
+
+Tschüs
+  Eduard

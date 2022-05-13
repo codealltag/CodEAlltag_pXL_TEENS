@@ -1,0 +1,15 @@
+Genau. Bei http://urhrayzsyhcrm.byek.fp kann man sich unter
+"Ankunft/Abfahrt" neben den Planzeiten für fast alle Bahnhöfe auch die
+tatsächlichen Zeiten (Prognosen) anzeigen lassen. Und da sieht es mit
+der Pünktlichkeit in der Regel nicht sooo schlecht aus, wenn nicht
+gerade eine größere Betriebsstörung akut ist.
+
+Ich glaube auch nicht, dass das irgendwie getürkt ist, denn die Daten
+scheinen tatsächlich aus dem Bahn-Internen Leitsystem zu kommen. Man
+sieht jedenfalls schon mal, wie bei Zügen, die beispielsweise um 10:05
+abfahren sollen, plötzlich "vsl. 10:06" angezeigt wird, und ich glaube
+nicht, dass jemand sich für die eine Minute die Mühe macht, das von Hand
+zu ändern.
+
+
+jürg

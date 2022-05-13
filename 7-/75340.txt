@@ -1,0 +1,11 @@
+Ottmar Imholt hat geschrieben getan getutet:
+
+
+Could you elaborate on that?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Samu 'rudi' Ingenpaß in dq.lup.gbevpjos.cdsrutyv

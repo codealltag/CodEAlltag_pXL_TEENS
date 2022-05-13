@@ -1,0 +1,14 @@
+Am 29 Apr 1999 20:44:00 GMT sendete Olivier Tränckler
+folgende Botschaft:
+
+
+Wenn Garantiert ist das niemand anders diese Ip benutz( z.b. wenn das
+eine Ip aus dem "normalen"(und das ist afaik 203.i.x.j) Ip-raum ist
+und der Newsserver die Msg-Id mit seiner eigenen Ip-adresse erzeugt)
+sollte das kein problem sein.
+
+Tschüs
+  Ernest
+
+-- 
+Kumm loss mer fiere ...

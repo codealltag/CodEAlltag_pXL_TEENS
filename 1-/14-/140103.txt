@@ -1,0 +1,14 @@
+Fabian Egelriede schrieb am 28. Februar 2001 um 21:43 Uhr folgendes:
+
+[L10N bei Dursty]
+
+Wenn du mit englischen Ausgaben besser zurecht kommst, ist das in dem
+Fall kein Zeichen dafür, dass die Lokalisierung schlecht wäre, sondern
+dafür, dass du sie besser abschalten solltest.
+
+Viele Größe,
+     Jens Untiedt
+-- 
+Q: Is C an acronym?
+A: Yes, it stands for ``C''.  It's another of those funky recursive acronyms.
+                  -- comp.lang.c Answers to Infrequently Asked Questions

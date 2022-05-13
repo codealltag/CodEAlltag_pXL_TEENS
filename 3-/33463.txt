@@ -1,0 +1,4 @@
+PROLOG? Logisches Programmieren?
+-- 
+One machine can do the work of fifty ordinary men, but no machine can do the job
+of one extraordinary man. [Patrick Ulfkotte]

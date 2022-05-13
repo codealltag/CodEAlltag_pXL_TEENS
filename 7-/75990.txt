@@ -1,0 +1,8 @@
+Wie die Geier. :-) Na ich schaue mal ob ich mich morgen mal ransetze.
+
+Oscar
+
+-- 
+  "The Eisenkrone Information Store service depends on the Esperanto
+   LFCU Directory service which failed to start because of the
+   following error: The operation completed successfully."

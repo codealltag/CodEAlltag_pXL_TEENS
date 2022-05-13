@@ -1,0 +1,69 @@
+Nein, aus dem Gedaechtnis. Abgesehen davon, sagen wir da ja auch nicht  
+sooo schlimm aus ;)
+
+[Aerger mit Trollen on IRC]
+
+Stellt sich die Frage, ob die Trollzahlen im IRC im Verhaeltnis zu den  
+hiesigen in dtju stehen. Man wird sehen.
+
+
+Nein ;) Bis vor ein paar Stunden habe ich mit Netscape gepostet, da habe  
+ich ueberhaupt nicht viel gesehen *schuettel* ... ich bewundere die Leute,  
+die mit sowas auf Dauer zurechtkommen.
+Jetzt habe ich endlich wieder XP (diesmal  
+XP<->UUZ<->XP2SOUP<->VSOUP<->WINSOCK<->NNTP-Server , duerfte die gleiche  
+Konfiguration sein, wie sie auch Jürgen Hüllmantel hat) und hoffentlich auch  
+wieder meinen Spass an cholerischen Punks die sich ueber Sir Jérôme  
+aufregen anstatt ihn zu killfilen.
+
+
+Wozu gibt es KillThread-Funktionen, IIRC kann ich sogar VSOUP anweisen  
+diverse Threads gar nicht erst runterzuladen...
+
+
+Muss mal schauen, was jetzt bei YSPERDORF eingestellt ist, Netscape Colladingens  
+bin ich ja wie gesagt los.
+
+
+s.o. - ab heute wieder der Fall.
+
+Vorher habe ich Waschsalon wie folgt eingesetzt:
+Zu Hause : Waschsalon<->FXUUCICO<->WINSOCK<->ueber IP-ansprechbararer UUCP-Host
+Im Urlaub: Waschsalon<->UKA_PPP<->NNTP-Host oder XP<->direkter Dialin beim UUCP-H.
+
+Da ich allerdings den Provider gewechselt habe, kann ich leider, leider  
+nicht mehr auf UUCP zurueckgreifen und UKA_PPP war fuer mich  
+ausgeschlossen, da ich a) keine Lust hatte UKA_PPP meine ISDN-Karte  
+schmackhaft zu machen und b) *eine* Verbindung sowohl fuer News als auch  
+fuer Internet nutzen wollte. Also musste also eine Loesung her, wie ich  
+sie oben beschrieben habe. VSOUP pollt beim NNTP-Host die News, XP2SOUP  
+uebersetzt SOUP nach RFC und UUZ nach ZCONNECT, was XP intern verwendet.
+Und ich hatte einfach weder die Zeit, noch die Lust mich da intensiv drum  
+zu kuemmern - aber mittlerweile laeuft ja alles.
+
+
+Ich klicke ganz automatisch auf "Vergroessern", abgesehen davon muesste er  
+trotzdem umbrechen, wenn er ein vernuenftiger Newsreader sein will.
+
+
+Hast Du schon einen Fuehrerschein?
+
+
+Das meiner Mutter ;)
+
+
+Gut, an mir soll es also nicht scheitern.
+
+[Planungsmailingslist]
+
+Moment, das ist aber ein Privat-Problem der Leute und wenn wir diesmal  
+ganz besonders drauf acht geben, dass jeder "Wichtige" in die  
+Planungsmailinglist eingetragen ist, dann sollte das nicht zum Problem  
+werden.
+
+CU/2
+Jürgen
+
+--
+PGP RSA-PublicKey available at www.iyktvy.wv/wetb/ispsvj/yqn-ljsp.zow
+Personal homepage at www.ujohro.rlsk.poj - ICQ: #4090812

@@ -1,0 +1,14 @@
+Hm, aber einleuchtender wäre vielleicht diese Schreibweise gewesen:
+
+ACK = lim (a)  oder wie wäre es damit:
+      a-->oo
+
+				 +
+ACK = lim (c/a) ; c Element von R
+      a-->0 + 0
+
+
+kurt, sinnbefreit
+-- 
+Philosophie ist ein Spiel mit Zielen, aber ohne Regeln.
+Mathematik ist ein Spiel mit Regeln, aber ohne Ziele.

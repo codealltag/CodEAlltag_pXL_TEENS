@@ -1,0 +1,10 @@
+Wenn du schon darüber grübelst, könntest du gleich auch mal
+probieren. Vielleicht schmecken sie dir ja.
+
+Oskar
+
+-- 
+Alessandro:~$ whoami
+root
+Alessandro:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Cédric Ebnet]

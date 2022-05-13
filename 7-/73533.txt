@@ -1,0 +1,10 @@
+Geht doch - INI-Datei.
+
+
+Das ist ein deutlich komplexeres Problem.
+
+So long,
+Konrad S. Meeuwissen
+-- 
+http://thlh.cqfim.hs/nme/
+Endlich: Hamster 1.3.23.0  & Korrnews 4.01 (Some [minor] Bugs deleted)

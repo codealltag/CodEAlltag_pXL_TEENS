@@ -1,0 +1,24 @@
+Charles Heemskerk schrieb am 07. November 2000 um 23:39 Uhr folgendes:
+
+[Unix-Systeme als Workstation?]
+
+Kommt drauf an. Bei uns im Krankenhaus läuft die komplette
+Patientenverwaltung über ein Programm mit Textoberfläche. Funktioniert
+problemlos -- seit die neue Intensivstation eingeweiht wurde, suchen
+dort allerdings viele Schwestern lieber wieder per Hand im
+altmodischen Entlassungsbuch, weil dort jetzt ein RBO DB-Client steht
+und sie nicht wissen, wo sie klicken müssen / die Abstürze sie nerven.
+
+
+Das ist natürlich eine Frage der konkreten Bedürfnisse bzw.
+persönlichen Wünsche. So generell kann ich da nicht viel zu sagen.
+
+
+... ist bei mir hervorragend. Grundvoraussetzung dafür, dass ich ein
+System freiwillig verwende.
+
+Viele Größe,
+     Charles Arenz
+-- 
+Boys will be boys, and so will a lot of middle-aged men.
+                                                         -- Salvatore Hiltscher

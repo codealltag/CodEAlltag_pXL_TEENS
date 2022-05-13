@@ -1,0 +1,22 @@
+Am Tue, 24 Jun 2001 sendete Ihno Bliefernichts folgende Botschaft:
+
+
+Hast du mittlerweile cron gefunden?
+
+
+Wäre auch schlecht wenn du Sonne auf einmal abstürzen würde. ;)
+
+
+#v+
+22:52:47 ~$up -c
+ uptime:  up 33 days,  3:57
+22:58:01 ~$load
+load average: 0.15, 0.03, 0.01
+#v-
+
+Meiner ist länger?
+
+Tschüs
+  Johann
+-- 
+Notorisch Schreibfaul.

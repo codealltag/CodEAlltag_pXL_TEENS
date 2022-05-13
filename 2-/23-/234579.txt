@@ -1,0 +1,10 @@
+Steck ein Modem an, installieren einen Windows Standardtreiber (kann
+natuerlich auch der richtige sein) und versuche es mit Systemsteuerung
+/ Modem / Diagnose. Wenn dann eine Rueckmeldung kommt duerfte der Port
+in Ordnung sein.
+
+Nicolas
+-- 
+  / ___/ /_/ /_/ /  Pfizer UIN: 3450496            
+ / /__   _   _  /  PGP-Key available
+/____/_/ /_/ /_/  mailto:qmjrefne@dug.bq

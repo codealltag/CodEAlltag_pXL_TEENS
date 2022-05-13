@@ -1,0 +1,4 @@
+ja, sicher :o)
+
+-- 
+initscr(); - Segmentation Fault

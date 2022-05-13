@@ -1,0 +1,7 @@
+[dsf 2.12]
+
+Berend
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+25: Multithreaded
+       Wir mußten ein Flußdiagramm malen, um es zu debuggen. (Gérald Wählisch)

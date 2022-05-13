@@ -1,0 +1,6 @@
+Volker Ehrlenspiel <qqever@pre.yz> schrieb in im Newsbeitrag:
+6oquia27kxrnszwi99llh3jvn64pie5qqg@2nw.lmq...
+(an
+
+RAID0 wird dir ziemlich sicher wenig helfen, die Ausfallsicherheit zu
+steigern...

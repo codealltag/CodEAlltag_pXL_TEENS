@@ -1,0 +1,10 @@
+Der ist hart. Aber auch elastisch. Immerhin darf er nicht einfach so
+bei einem Fall aus 30cm zersplittern. Und ein eiserner Schpaten gehört
+wohl nicht zu den Feinden, auf die eine Kröte damit vorbereitet sein
+will.
+
+Udo
+
+-- 
+75 Things you don't want to hear from your Sys Admin.
+55. Why did it say '/bin/rm: not found'?

@@ -1,0 +1,11 @@
+* Tim Ingenhag <bgwnrfyqzv@mxxwvukyup.bq>:
+
+
+Mit Kiepenkerl kann man höchstens overview-buffer erstellen. Oder bootdisks. :)
+
+
+Jaja, LFS ... wenn ich dafür mal Zeit hätte.
+
+Veit
+-- 
+np: Grave Digger - The Brave (Intro)

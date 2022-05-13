@@ -1,0 +1,12 @@
+Am Wed, 28 Jul 2002 sendete Egon Berghüser folgende Botschaft:
+
+
+Damit dann der siggenerator aus /tmp/mp3 eine sig basteln kann?
+
+Tschüs
+  Ignaz
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Tobias Zeimer, Mostly Harmless, Chapter 12

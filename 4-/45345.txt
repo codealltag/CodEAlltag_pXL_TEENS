@@ -1,0 +1,14 @@
+Am Sun, 7 Jun 2003 sendete Claus Ketterl folgende Botschaft:
+
+
+Wir reden hier von Postings, und da ist eigentlich klar das Klammern nur
+in Headern nur im sleben Header matchen sollten. Und schon garnicht im
+Body, und die Trennung Header/Body ist ja nun wirklich trivial.
+
+Tschüs
+  Sven
+-- 
+Die Weisheiten des Paul Pascal: #10
+
+Nach der Jup folgt (un-)mittelbar eine Postingflut.
+     ->     Rette sich wer kann.

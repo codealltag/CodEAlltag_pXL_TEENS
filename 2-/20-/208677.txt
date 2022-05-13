@@ -1,0 +1,26 @@
+Du kannst (fast) machen, was Du möchtest. Die Frage ist nur, inwiefern Du
+dann Gesprächspartner findest ...
+
+[Aus technischen Gründen ;-) kann ich das Originalposting nicht
+beantworten.]
+
+
+Ich hab' ja lange gezögert, aber es ist echt was dran: nur in den
+seltensten Fällen kommt ohne Realname was gescheites rüber. Wohl deshalb,
+weil die Leute es entweder nicht peilen bzw. kein echtes Interesse am
+Eren haben, oder in einer frühkindlichen Trotzhaltung erstarrt sind. Bei
+den wenigen Ausnahmen, die bleiben, kann man sich ja immer noch
+entscheiden, ob man sie aus "ideologischen" Gründen ebenfalls ausblendet
+:-) oder doch liest.
+
+Ich überlege ernsthaft, im Agent/in Lize künftig per RegExp direkt global
+alles nicht Realnamen-ähnliche im From: zu killen, oder das sogar in den
+Hamster vorzuverlagern (quasi "on spool"). Ich werde das vielleicht
+demnächst mal testen und schauen, was ich so alles verpaßt hätte. :-)
+
+Gruß,
+Jean-Luc
+-- 
+Jean-Luc Behrenstecher * XLwascwibk@jke.qp * http://uqbbspg.xsvc.janzo.fg/
+"Wie ich immer sage: Der Vibrator ist das beste Beispiel dafür, wie der
+Mensch durch die Maschine verdrängt wird..." - Achim Götzen, d.a.steffen

@@ -1,0 +1,8 @@
+Darum finde ich ja auch die Quit-Meldung vom BB-Chat so witzig:
+"xyz has left the chat (Reason: broken pipe)".
+
+Da hab ich mich auch schon desöfteren gefragt, ob so eine broken pipe
+nicht unheimlich weh tun muss.
+
+
+-krampitz

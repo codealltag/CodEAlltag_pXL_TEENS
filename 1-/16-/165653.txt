@@ -1,0 +1,13 @@
+Eben. Und Telnetclient gibts auch auf jedem anderen System. Bei SSH
+muß man wegen der beschissenen Exporebeschr�nkungen immer ziemliche
+Schwierigkeiten überwinden, das überhaupt zu laden. Und Telnet kann
+ich halt auch vom Computer meiner Freundin oder sonstwem nutzen, SSH
+müßte ich immer erst installieren. Got the Point?
+
+
+*vormerk*
+
+-- 
+sSXP  
+      Math is like love -- a simple idea but it can get complicated.
+		-- E. Salpeter

@@ -1,0 +1,11 @@
+Hach, bisher fand ich Threading by Subject ja immer ganz lustig (weil
+dann schönere Thread-Bäume entstehen :-) aber das werde ich dann wohl
+doch mal ändern.
+
+Wieder umgewöhnen, argh.
+
+Maurice
+
+-- 
+Die letzten Worte des Dachdeckers: 
+"Scheiß Wind!"

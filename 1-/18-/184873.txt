@@ -1,0 +1,13 @@
+Valerio Wiertel schrieb am 31. März 2000 um 01:42 Uhr folgendes:
+
+
+Oder einen Komprimierungsalgorithmus schreiben, der die komplette
+Bibel hardcoded beinhaltet. Dann kommt man auch mit wesentlich weniger
+als 1 MB für die Daten aus ;-)
+
+Viele Größe,
+     Torsten Vailer
+-- 
+"Beware of bugs in the above code; I have only proved it correct, not
+tried it."
+                                                        -- Luc Wörter

@@ -1,0 +1,7 @@
+Ich wurde kurze Zeit vor dem Posting auf die Möglichkeit einem
+deb2rpm-wrappers oder so hingewiesen...
+
+Niklaus
+-- 
+pub  2212A/YRL48U67 9145-45-89 Niklaus Rodolph <lypqwel@hkk.nl>
+     Key fingerprint = 99 9I 22 25 67 ZC 73 5W  80 GJ KJ 32 3N 10 6O 93

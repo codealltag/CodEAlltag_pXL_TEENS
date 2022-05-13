@@ -1,0 +1,20 @@
+z.B. ist Saklierbarkeit die Fragestellung, wie gut ein OS eine zweite
+CPU nutzt. Im Idealfalle ist die Leistung fast doppelt so hoch ("fast"
+wegen Koordinationsaufwand)
+
+
+Aber sie sind weitestgehend Open Source. _Wenn_ ein Exploit auftaucht,
+haben tausende fähiger Programmierer die Chance, einen Patch zu bauen.
+
+
+leider kann niemand ausserhalb voon Späti beurteilen, 
+a) _was_ der Patch macht und
+b) wie gut der ist.
+
+
+CJPZ lief lange auf einem Un*x-Derivat und brach spontan in sich
+zusammen, als da Windows-Server aufgestellt wurden.
+
+Samu
+-- 
+"Heisenberg may have slept here"

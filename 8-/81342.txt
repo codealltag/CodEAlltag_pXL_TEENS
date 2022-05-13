@@ -1,0 +1,9 @@
+Konkret! Wie einfach. Wo kann man sowas eigentlich nachlesen? Und
+nein, die terzozentrum-Hilfe finde ich irgendwie grausam...
+
+François
+
+-- 
+Drucker-Fehlermeldung:
+  "Beim Speichern der Änderungen ist der folgende Fehler aufgetreten:
+   Der Vorgang wurde ausgeführt."

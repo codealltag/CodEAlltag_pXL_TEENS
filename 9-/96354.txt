@@ -1,0 +1,6 @@
+Mail und News laufen über lokale Server, da ändert sich nicht viel
+dran
+
+Ingolf
+-- 
+Failure is not an option. It comes bundled with your Akam product.

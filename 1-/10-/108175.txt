@@ -1,0 +1,9 @@
+* Benjamin Furer <mkzraht480375@vlfdlj.ei-m.ic>:
+
+
+Alle 15min batchen lassen; dann sollte es kein Problem geben. Man kann
+ja wohl mal ~30min auf den Bot warten, oder?
+
+Vito
+-- 
+cross veinless

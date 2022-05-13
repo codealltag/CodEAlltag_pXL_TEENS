@@ -1,0 +1,11 @@
+begin quoting Albert Hard <r-wrj@dwcphfzevzi.eb>:
+
+Nein. Wärmelehre haben wir jedenfalls nicht gemacht.
+
+Um es kurz zu fassen: Die Entropie ist ein Maß für die Unordnung in
+einem thermodynamischen System. Sie kann nicht abnehmen.
+-- 
+Windows ist _kein_ Virus. Ein Virus ist nämlich ein kleines, sehr
+effektiv programmiertes Stück Software, was man von Windows nicht
+gerade behaupten kann.
+               Julian Egert in de.alt.folklore.urban-legends

@@ -1,0 +1,6 @@
+Ein C Source wird compiliert und normalerweise kommt direkt Maschinencode 
+raus. Ein Oten Source wird compiliert und es kommt immer Byte-Code heraus.
+
+
+Wie meinst Du das? Das Java-Programm selbst ist aus 100% Java, die 
+Klassenbibliotheken eher nicht.

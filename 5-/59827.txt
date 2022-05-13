@@ -1,0 +1,9 @@
+Hast du die CD noch da? Wäre doch mal interessant, ob mein Hubela auch
+die Version wieder ignoriert...
+
+Alfons
+-- 
+Frei nach Moores Gesetz: Der Ressourcenbedarf für ein und die selbe Aufgabe
+vervierfacht sich alle 18 Monate. Irgendwann wird man stolz sein, wenn man
+sleep(1) in Echtzeit schafft. [Ingo Jädike in
+<ibbc8i4uv1.6u1.bvlqwyi.oodwfd@fud.gcp.wu-pvbzbopy.ai>]

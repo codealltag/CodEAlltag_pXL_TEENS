@@ -1,0 +1,14 @@
+Genaugenommen müsste man ja noch zwischen Bahnhof und Haltepunkt
+differenzieren... :-) An einem Haltepunkt sitzt oft überhaupt niemand,
+der Durchsagen machen könnte.
+
+Zur Erklärung: Alles, was im Bahnhofsbereich keine Weichen hat (d.h.
+dass keine Züge enden oder überholen etc. können) ist laut bahninterner
+Definition kein Bahnhof, nur ein Haltepunkt. Da braucht man dann auch
+kein Ortsstellwerk und damit auch keinen "Durchsager". Hat aber nichts
+damit zu tun, wie groß der jeweilige Ort oder Ortsteil ist (auch wenn
+Hauptbahnhöfe sicher immer Bahnhöfe sein werden, wegen der vielen
+Weichen...).
+
+
+gerhard

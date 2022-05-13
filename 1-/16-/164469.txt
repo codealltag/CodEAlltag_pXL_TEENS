@@ -1,0 +1,13 @@
+Pius Joosten schrieb am 30. Juni 1999 um 16:12 Uhr folgendes:
+
+
+Macht drei Mausklicks (einen auf "Load List", Doppelklick auf die
+gewünschte Liste). Dass es da natürlich einfacher ist, sich eine
+RegExp auszudenken und einzutippen, leuchtet mir sofort ein.
+
+Viele Größe,
+     Niels Nordholt
+-- 
+It might look like I'm doing nothing, but at the cellular level I'm
+really quite busy.
+                                           -- "Smart Comments", part 22

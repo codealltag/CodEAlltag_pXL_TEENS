@@ -1,0 +1,4 @@
+Ja, unbedingt. Ohne garantiere ich als Software-Hersteller auch gar nichts 
+für meine eigenen Programme, denn es ist ganz und gar nicht so daß Treiber 
+beim Erscheinen fehlerfrei sind.
+Kurzum: man kann sich eine Menge Ärger ersparen.

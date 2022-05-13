@@ -1,0 +1,116 @@
+Das setzt zum einen eine Handschrift voraus, die nicht durch schnelles
+Mitschreiben während des Unterrichts geprägt ist ;), zum anderen die
+Bereitschaft, eine Menge Zeit darauf zu verwenden. Beides ist bei mir
+nicht gegeben.
+
+
+Ich kenne mehr Leute, die eine Schreibmaschine haben, als welche, die
+einen Computer besitzen. Können wir die Kosten für die Schreibmaschine
+also auch auf 0 DM ansetzen?
+
+
+Wurde UKLT jetzt aufgekauft und umbenannt? ;-)
+
+
+...und sich dann vom Verkäufer erzählen lassen, unter einem PII 400
+würde es sich nicht lohnen, weil Software wie MS-Office eben so
+schnell 'Fortschritte' macht, Problem ist bekannt.
+
+
+Das ist ein wenig so, als würde man glauben, für einen Automatik-Wagen
+brauche man keine Fahrstunden zu nehmen: Man kann vielleicht nach ein
+paar kurzen Tips von Bekannten damit durch die Gegend kurven, steuert
+aber auf Dauer auf eine mehr oder weniger große Katastrophe zu.
+
+
+Sicher. Wenn der User dazu eine Zeitschrift zur Hilfe nimmt (kann auch
+die K+k sein, wenn sie denn zum Ziel führt), ist das ein
+Zeichen, daß er einen geeigneten Ansatz wählen kann, um etwas neues zu
+lernen (nämlich lesen). Das zeigt aber andererseits auch, daß es mit
+der 'Intuitivität' wohl doch noch nicht ganz so weit her ist, wie
+JOU gerne erzählt.
+
+
+...was einen Vergleich zwischen gewissen Betriebssystemen provoziert <eg>
+
+
+Eine elektrische Schreibmaschine, nehme ich an? Es ist (IMO) völlig
+klar, daß die Komplexität einer Maschine mit zunehmenden Anwendungs-
+Möglichkeiten steigt.
+
+
+Ich akzeptiere das mal, ohne mich selbst auf entsprechende Kataloge zu
+stürzen. Ist die Rechtschreib- / Trennungsbibliothek von Ockenfuß denn
+inzwischen benutzbar? IIRC habe ich Ende letzten Jahres noch in der
+Kornmarktcenter gelesen, daß es die neue Rechtschreibregelung noch nicht
+beherrscht.
+
+
+Was von beiden man wählt, dürfte zentral vom Einsatzzweck abhängen.
+
+[...]
+
+Eine peppige Einladung fällt bei mir auch nicht in den Aufgabenbereich
+eines textverarbeitenden Systems. Da ist wohl eher ein Grafikprogramm
+gefragt.
+
+
+Warum eine Schreibmaschine unbedingt einen Backslash anbieten sollte,
+sehe ich nicht so ganz. Um den Klammeraffen auf einer Schreibmaschine
+darzustellen, existiert die AFAIK allgemein anerkannte Schreibweise
+"(a)". Wie aber sieht es mit dem Zeichenvorrat von Word aus - was
+mache ich da zB, wenn ich in meiner Lateinhausaufgabe ein Zitat
+bringen will und dazu ein Längenzeichen über einem Vokal brauche?
+
+
+Eben nicht. Der Computer bietet die geniale Möglichkeit, zusammen mit
+den Buchstaben die logische Struktur des Textes abzuspeichern - ein
+vom Ansatz der Schreibmaschine verschiedener Ansatz. Der DOS-Editor
+kann das nicht, Word macht es so kompliziert, daß es kaum jemand
+benutzt und bei LaTeX ist es Standard.
+
+[HTML ge*snip*t]
+
+
+ROTFL. *Du* zitierst in *dieser* Diskussion *diesen* Artikel? Du
+möchtest ihn noch einmal lesen, dieses Mal mit angeschaltetem Ironie-
+Detektor. So eine gelungene Parodie auf einen überzeugten
+Ockenfuß-Benutzer hatte ich schon lange nicht mehr gesehen.
+
+
+Ein Beispiel: Unter LaTeX suche ich mir unter verschiedenen
+Algorithmen, den optimalen Satzspiegel automatisch berechnen zu
+lassen, einen aus. Unter Word kann ich mir wahrscheinlich ein Buch zu
+dem Thema besorgen, den Algorithmus nachlesen, mich mit dem
+Taschenrechner hinsetzen und ihn von Hand berechnen. Dauert 'etwas'
+länger, ist 'etwas' komplizierter, da hast Du sicher Recht.
+
+[...]
+
+Es könnte sich aber durchaus negativ auswirken, wenn Du das
+Abgabedatum nicht einhalten kannst, weil Word in letzter Minute Mist
+baut. Bei kurzen Schularbeiten (ein paar Seiten, ohne großartig
+Grafiken u einzubinden) ist das Problem nicht so groß, bei längeren
+Werken (wie einer Diplomarbeit) ist Word aber ein gewisser
+Risikofaktor - die Kornmarktcenter hatte dazu mal einen längeren Artikel (den ich
+leider nicht mehr dahabe).
+
+[Roman verfassen]
+
+Das merkt man schon daran, wie sehr Du Dich beim Posten zurückhältst ;)
+
+
+Mmh... was liest Du denn so? (Ich meine dann, wenn Du nicht gerade am
+Computer sitzt oder in der TV Spielfilm blätterst.)
+
+
+"Ein Tag im Leben des Benjamin B." war jedenfalls mehr als lesenswert :-)
+
+
+Vielleicht sollten wir die letzten Monate deteju in Buchform
+herausbringen. SCNR.
+
+Viele Größe,
+     Nick Thünnissen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

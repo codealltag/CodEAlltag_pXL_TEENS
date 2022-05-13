@@ -1,0 +1,20 @@
+${JAPANISCHES_WORT[*]}szaf.
+
+Wir wissen, dass $JAPANISCHES_WORT ein Array ist.
+Wir wissen, dass folgende Buchstaben in dem Array sind:
+ a a e i k k m s t
+Wir wissen auch, dass die Übersetzung des Wort, welches
+ durch das Array beschrieben wird, ins Englische  unge-
+ führ eine ähnliche Bedeutung wie 'Godspeed' hat.
+Wir wissen, dass manche Leute das Wort, das durch unser
+ Array beschrieben wird, ähnlich wie eine gewisse Tier-
+ gattung klingt, deren Name auf der JUP gefallen ist.
+
+
+Weil das durcheinandermachte dann nicht mehr richtig reagiert?
+
+-towo
+-- 
+"Anyone can speak Troll," said Ingo dismissively, "all you have to do is point
+and grunt."
+- from "Harry Potter and the Goblet of Fire"

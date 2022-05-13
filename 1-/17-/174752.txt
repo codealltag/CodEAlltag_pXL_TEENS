@@ -1,0 +1,19 @@
+Das ganze sollte lat�rnich _in_ die If verzweigung.
+
+
+Nja war ja auch ungetestet ;)
+
+
+awk? Das kann doch kein mensch, wenns schon kompliezert werden muss dann
+wenigstens 'perl -pe'
+
+
+wenn du das ganze wie ichs mir gedacht habe in die if verzweigung baust
+kannst du du stderr umleitung wech lassen. Aber was passiert wenn du
+dieses Psting abspeicherst? *eg*
+
+
+Und am besten rot im kalender ankreuzen ;)
+
+Tschüs
+  Urban

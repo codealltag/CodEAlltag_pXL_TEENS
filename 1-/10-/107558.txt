@@ -1,0 +1,11 @@
+* Carsten Mösner <imftvfk974611@vipyfm.ft-b.kv>:
+
+
+Ja, aber sonst macht das doch keine Spaß.
+
+
+Ich mag Pointer nicht. Zumindest nicht in C++.
+
+Oscar
+-- 
+cross veinless

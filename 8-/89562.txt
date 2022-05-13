@@ -1,0 +1,7 @@
+* "Karsten Eichholtzer" <cxvf@kjqxxjwj.mg>:
+
+
+Wenn ich mpg123 installiere, werden keine Abhängigkeiten zum XEmacs
+aufgelöst, nein.
+
+Georg

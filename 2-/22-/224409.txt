@@ -1,0 +1,17 @@
+Das ist IMHO voelliger Bloedsinn.
+Ich zaehle mich wirklich nicht zu den Nostalgikern, die staendig darauf hinweisen,
+  dass vor vier Jahren auch 500 Mb gereicht haben, aber was will man denn auf einem
+  Standard-PC mit 16 Gb ?
+Ein durchschnittliches Programm braucht heute 1-30Mb, Professionelle Programme
+  (CorelDraw, Compiler etc.) etwa 100-500 Mb, dann noch ein Betriebssystem mit
+  etwa 100-400 Mb und eigene Daten mit 10-2000 Mb (sehr variabel).
+Selbst wenn man noch zwei extra Partitionen zum CD-Brennen und fuer's Backup
+  miteinrechnet kommt man nicht ueber 6 Gb.
+
+
+Wie machst du's denn sonst ?
+
+-- 
+Willibald
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

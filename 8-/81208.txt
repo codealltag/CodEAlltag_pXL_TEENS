@@ -1,0 +1,3 @@
+^
+
+In der Aussagenlogik sieht der Operator übrigens anders aus.

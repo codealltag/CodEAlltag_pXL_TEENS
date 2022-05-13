@@ -1,0 +1,7 @@
+AFAIK ist die Bezeichnung 'Proxy' dafür nicht richtig, auch wenn man
+es uU zu ähnlichen Zwecken einsetzen kann.
+
+Viele Größe,
+     Charles Dickhut
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

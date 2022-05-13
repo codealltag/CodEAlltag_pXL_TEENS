@@ -1,0 +1,8 @@
+ptnqb@omfslm:~$ yo -g /dev/audio
+crw-rw----    1 root     audio     14,   29 Jun  29  2001 /dev/audio
+
+Ist ein Characterdevice...
+
+Benno
+-- 
+Ich brauche DAS nicht! [Claus]

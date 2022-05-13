@@ -1,0 +1,11 @@
+(* Vincenzo Wolers wrote: *)
+
+
+Ne, warum?
+
+Wenn das Handy aus ist, jemand ruft an und spricht nicht auf die 
+Mailbox, dann sehe ich doch nicht, dass dieser jenige überhaupt 
+angerufen ist. Ist das Handy jedoch an und lautlos, dann sehe ich auf 
+dem Display immer noch "x Anrufe in Abwesenheit".
+
+Cornelius

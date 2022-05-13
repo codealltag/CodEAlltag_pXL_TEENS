@@ -1,0 +1,7 @@
+* Ullrich Rölfer <hcjjjfgjjj@fmpkwbpuqi.rk>:
+
+
+Hostname wäre kein Problem, aber passwd gebe ich nicht heraus. Du kannst
+ja mal "geheim" oder sowas probieren. :)
+
+Johannes

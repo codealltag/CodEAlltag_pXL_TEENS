@@ -1,0 +1,64 @@
+Yep - ein wenig finanzieller Spielraum bleibt mir noch. Kann sein, daß
+daraus ein paar MHz mehr werden.
+
+
+Das 36fach scheint sich ganz gut zu verkaufen - also halte ich es für
+eher unwahrscheinlich, daß es ein solches Problem hat.
+
+
+Ja; sollte doch für normalen Einsatz reichen, oder?
+
+
+Informatikhausaufgaben und ähnliches setzen so ein Ding immer noch
+voraus. Ist ja auch nicht der große Kostenfaktor.
+
+
+Ich weiß ehrlich gesagt nicht, wie teuer die OEM-Version davon kommt
+(finde in den Preislisten nur die einzeln verkaufte) und was eine 3
+Tasten-Mouse vergleichbarer Qualität sonst kostet.
+
+
+Wie gesagt - ich habe mir die Tastatur noch nicht selbst angesehen. A
+propos: Es scheint (bis auf ganz wenige Ausnahmen) nur noch
+Theisenhof-Tastaturen zu geben :( Na ja, vielleicht bekomme ich es hin, die
+überflüssigen Tasten als Compose o.�. zu benutzen - die schicken doch
+ganz normal einen Keycode ab, oder?
+
+
+War eigentlich auch mein Eindruck; schön, daß mir nicht schon wieder
+jeder etwas anderes erzählt ;)
+
+[...]
+
+Dann würdest Du Dir also bedenkenlos eine 18 GB Quantum Bigfoot kaufen.
+
+
+Ist es im Fall, daß ich irgendwann plötzlich eine Vorliebe für solche
+Spiele entdecke, nicht sowieso anzuraten, daß ich mir dann eine
+aktuelle 3D-Beschleuniger-Karte zulege?
+
+
+Tja, ich suche halt etwas, das a) für MIDI etwas taugt und b) auch
+unter Linux vernünftig läuft. Meine jetztige Karte (AWE 32) ist in
+beiden Disziplinen IMO ziemlich gut, nur eben nicht mehr auf dem
+Markt.
+
+
+Ist die Garantie nicht sowieso in den meisten Fällen eine Sache des
+Herstellers? Das Zeug wird doch heutzutage grundsätzlich eingeschickt,
+oder nicht?
+
+
+Mmh... vielleicht benutze ich ja das Wort "Discounter" falsch. Wie
+würdest Du einen Laden wie http://izj.gxkdihv.hf/ bezeichnen?
+
+
+Na ja - wenn es glatt läuft, ist das natürlich eine feine Sache. Wenn
+irgend etwas hinterher nicht funktioniert (und sei es, weil ein
+Bauteil von Anfang an kaputt war) rege ich mich bei so etwas aber so
+leicht auf, daß ich es lieber gleich lasse ;-)
+
+Viele Größe,
+     Pius Zigilboim
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

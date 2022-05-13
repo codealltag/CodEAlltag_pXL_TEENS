@@ -1,0 +1,4 @@
+egrep -v (^$|^\s%)|wc -l
+?
+
+Theo

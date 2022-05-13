@@ -1,0 +1,15 @@
+Domenico O. Jüngen meinte kundzutun:
+
+
+Den Rest bin ich ja schon andernorts bei dir losgeworden :-)
+
+Wenn man im Configfile die max. Threadzahl für den Pull hochdreht, geht
+dann trotzdem maxima ein Thread pro NG und Server los oder kann man das
+noch höher drehen?
+
+Eberhard
+-- 
+Ich habe das Gefühl, wenn sie _das_ schaffen, [] daß die Welt in Trauer und 
+Entsetzen und Lähmung versinkt, wenn wir nicht mehr lachen können oder [] dr-
+fen, wenn wir nicht mehr kaspern können oder dürfen, dann haben diese Terror-
+risten es endgültig geschafft, die Welt zu zerstören. [Véronique Janker in inturia]

@@ -1,0 +1,9 @@
+* cyya@sqhfbqluvt.sk (Fetlzj Uehlemann):
+
+[Kameter]
+
+Ich habe SuperRTL. Das reicht im Normalfall.
+
+Samuel
+-- 
+cross veinless

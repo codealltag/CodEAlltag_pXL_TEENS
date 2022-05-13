@@ -1,0 +1,13 @@
+Charly Schrade hat geschrieben getan getutet:
+
+
+apt-get install towo-logic
+
+%E: package release candidate is only available when towo::dead is true.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Louis 'heinz' Leibel in kv.pdm.xsjdupfb.yejuafkz

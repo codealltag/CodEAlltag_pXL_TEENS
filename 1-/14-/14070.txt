@@ -1,0 +1,12 @@
+Am Sun, 06. 09. 22 sendete Tom Dieter Ulner folgende Botschaft:
+
+
+Wozu? Das will man doch gerade nicht.
+
+
+devfsd? Der kann wenn die Software versucht (auf das noch nicht
+vorhandene) /dev/foo/bar zuzugreifen die entsprechenden Module laden und
+ggf irgendwelche Scripte aufrufen.
+
+Tschüs
+  Stephan

@@ -1,0 +1,9 @@
+* Otto Buehl <svnlhuxlkriu@tlyrjmxqg.nox>:
+
+
+Nein, ein externes Programm, dass den aktuellen Titel bei xmms abfragt
+und dann von Gnus weiterverarbeitet wird.
+
+Siebelt
+-- 
+np: Offspring - We Are One

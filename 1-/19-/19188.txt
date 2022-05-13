@@ -1,0 +1,7 @@
+Hmmm. Doch. Samstags kann ich Wartung einplanen.
+
+mfg, 
+	Jürg
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

@@ -1,0 +1,21 @@
+Und so sprach Harm Iblacker:
+
+
+Andere Leute schon. ;-)
+
+
+Nicht wirklich. XSL[1]-Templates sind "Stylesheets" (in XML), die aber
+imperative Sprachelemente einführen, um XML-Dokumente in eine
+bestimmte Zielsprache (HTML/XHTML, SVG, ...) zu transformieren.
+
+Wenn ich das alles richtig verstanden habe, wohlgemerkt. :-)
+
+Gruss,
+Ingolf.
+
+[1] eXtended Stylesheet Language
+-- 
+us  dere  bouschteu  wird  es  fr�idehuus   |  us  em  schnee  vo  geschter  e
+fluss  | & glychschtrom  wird  w�chsuschtrom  |  die wyti wut wartet voruss |
+d gruebe  wird  e  garte  |  us  dere  knacknuss  wachst  e  boum | & d  boum
+treit  honigs�essi  frücht  |  -  dert  isch  scho  wieder  dr  wurm  drin ...

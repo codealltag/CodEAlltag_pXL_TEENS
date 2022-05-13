@@ -1,0 +1,10 @@
+Am Tue, 11. 05. 21 sendete Ulrich Pflögel folgende Botschaft:
+
+
+EOF. Auch End-of-File genannt. Das ist das Zeichen das Strg + D nunmal
+erzeugt.
+
+Tschüs
+  Noah
+-- 
+Weniger ist mehr.

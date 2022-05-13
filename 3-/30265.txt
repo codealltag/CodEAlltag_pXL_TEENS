@@ -1,0 +1,9 @@
+xchat. Oder irssi im screen.
+
+Veit, letzeres bevorzugend.
+
+-- 
+Ulf:~$ whoami
+root
+Ulf:~$ shotdown -h now
+bash: shotdown: command not found      Was mache ich falsch? [Engelbert Effinghausen]

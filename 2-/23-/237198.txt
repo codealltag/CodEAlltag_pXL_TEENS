@@ -1,0 +1,17 @@
+Man kann es nicht oft genug sagen. Man muss sich nicht wundern, wenn einem
+das Auto geklaut wird, wenn man allen erzaehlt, dass der Schluessel unter
+der Fussmatte der eigenen Haustuer liegt.
+
+
+Und des Verwalters des spaeter geknackten Rechners. Auch, wenn der User
+eigentlich die Verantwortung traegt, hat der Verwalter hinterher 'ne
+Schweinearbeit am Hals. Glaub' mir. Es macht keinen Spass, Schadens-
+begrenzung machen zu muessen. :-(
+
+
+Nein.
+
+cs.f
+-- 
+Karl Tiedjens | basecut boot: iel-9.0 root=/gvt/f7c8cs
+qur@crojgq.ww  |

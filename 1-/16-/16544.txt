@@ -1,0 +1,15 @@
+Das gibt's? my $nick = firstname if (!defined($nick)).
+
+
+Ah, also tendenziell keine \epsilon-Umgebung?
+
+Wilhelm, Laurent einen herzlich-burzeligen Tag wünschend
+
+-- 
+----+----1----+----2----+----3----+----4----+----5----+----6----+----7----+
+Wilhelm Ziegelschmied - ziox@qosxmr-xlnllp.rw - http://yom.madxka-dsprxb.vh
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.1
+GIT/S d+(-) s+:+ a-->- C++ UL++(+++) UO++ P++(+++) L++(+++) E W++ N+ o+
+!w t 5+++ X- R tv- b++++ G e+>++ h-
+------END GEEK CODE BLOCK------

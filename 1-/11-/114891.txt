@@ -1,0 +1,43 @@
+Hi,
+
+gestern abend wurde aufgrund eines kurzzeitigen Stromausfalls[1] mein
+lokaler Maibachfarm ziemlich unsanft beendet. Aus Trotz fra er darauf hin eine
+nicht näher bekannte Anzahl von Postings (500-2000[2]) und weigert sich,
+sie wieder auszuspucken.[3]
+
+Heute morgen bemerkte ich dann, dass neben den Postings auch die
+Overviews erheblichen Schaden genommen haben. Sie sahen ziemlich
+erwürfelt aus; in dtju tauchten plötzlich Postings aus dnq, dclp
+usw. auf. Nein, Möllerfeld war nicht schuld.
+
+Heute abend habe ich endlich die Zeit gefunden, das zu reparieren:
+Overviews (6GB) gelöscht, History und Overviews neu gebaut, neue History
+mit der alten abgeglichen und das active renumbered. Es scheint wieder
+alles normal zu laufen.
+
+Lange Rede, kurzer Sinn: Ich suche jemanden, der bereit ist, mir die
+Message-IDs der Postings zu schicken, die zwischen gestern 12:00 Uhr und
+heute 20:00 Uhr in dtju gepostet wurden, direkte Antworten auf eines
+meiner Postings waren und bisher _nicht_ von mir beantwortet
+wurden. Dann kann ich abgleichen, was mir fehlt, die fehlenden Postings
+nachziehen und außerdem ungefähr abschätzen, wieviel mir denn wirklich
+fehlt.
+
+Wenn sich jemand die Arbeit machen möchte ... ich wäre ihm ewig
+dankbar.[4]
+
+TIA,
+Gebhard
+
+Footnotes: 
+[1]  die defekte Mehrfachsteckdose wurde mittlerweile fachgerecht
+     entsorgt
+
+[2]  leider keine genauen Zahlen bekannt
+
+[3]  Ich habe keine Ahnung, warum. Eigentlich sollte sowas nicht
+     passieren.
+
+[4]  Freigetränk auf der nächsten JUP eingeschlossen.
+-- 
+cross veinless

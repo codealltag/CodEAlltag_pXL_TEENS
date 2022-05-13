@@ -1,0 +1,15 @@
+Bfff, bringt das wirklich was? Reicht es nicht einfach den sshd auf
+Port 80 laufen zu lassen, oder so?
+
+
+Wenn ich einen hätte (naja, bald hab ich ja einen :-), ließe ich das
+lieber bleiben. Sonst würden die anderen wieder auf der Einzel- und
+Bonzenkind-Sache rumreiten. ;-)
+
+
+Ooooh! *tütsche*
+
+Jochen
+
+-- 
+The box said: "Requires Win95, NT or better" So I installed Linux.

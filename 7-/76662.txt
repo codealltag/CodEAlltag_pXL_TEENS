@@ -1,0 +1,16 @@
+Nun läuft auch mplayer. Es lag am fehlenden aalib-Dingens, was
+eigentlich für ein normels Abspielen von Videos ohne ASCII-Spielerei
+völlig unnötig gewesen wäre.
+
+Aber wie bekomme ich damit _richtiges_ Full-Screen hin? (mit -fs
+vergrößert er den schwarzen Rand um das Bild herum -> toll)
+
+
+Hehe, nie gehört.
+
+Bruno
+
+-- 
+  "Die Formatierung konnte nicht unterbrochen werden. Klicken Sie auf
+   'Wiederholen' um erneut zu versuchen die Formatierung zu stoppen.
+   Klicken Sie auf Abbrechen um sie sofort abzubrechen."

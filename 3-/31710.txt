@@ -1,0 +1,27 @@
+(yepp shadowrun is super, is aber hier ned das thema :)
+
+also wenn hier schon die mehrheit schreibt, dass visual basic zu
+vergessen ist (so fasse ich es zumindest auf) dann möchte ich
+zumindest ein paar begründungen hören ;)
+es ist nämlich sehr wohl auch in visual basic möglich (ich meine 6.0;
+.NET ist sowieso wieder ein ganz anderes thema), strukturiert zu
+programmieren...
+ich weiß leider nicht warum viele von euch so sehr an C++ oder pascal
+hängen (Joneleit pascal, das für Manufaktum-dos, kann oder konnte ich übrigens
+auch recht gut)
+und sehe von der strukturierung her nicht viel unterschied.
+
+natürlich habt ihr recht, man kommt früher oder später also
+profiprogrammierer nicht an einer programmiersprache wie (Visual) C++
+vorbei, aber schlecht is VB nun deswegen absolut nicht. sogar
+rechenaufwendige spiele werden teilweise mit VB programmiert,
+zumindest seit es directX für VB gibt.
+
+in C++ mag ich zwar ein anfänger sein, in VB hab ich allerdings schon
+erfahrung, die übers einfache zahlenraten-spiel-programmieren
+hinausgeht, soviel zu meiner person ;)
+
+PS: @Martin 22: wohnst du in Österreich? *g*
+
+MfG,
+Garrelt

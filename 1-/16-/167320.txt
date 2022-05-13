@@ -1,0 +1,15 @@
+Redundant Array of Inexpensive Disk
+---------------
+
+Generell 2 Ziele: 
+
+		-schnelle, große FxD durch mehrere preiswerte FxD
+		-Erhöhung der Zuverlässigkeit durch Redunandante Daten
+
+Heißt, ohne redundante Daten ist es kein RAID, auch wenn RAID Level 0
+das beschreibt. Für mich hat das mit RAID schon nix mehr zu tun.
+
+-- 
+sSXP  
+      The problem with any unwritten law is that you don't 
+      know where to go to erase it.  -- Döscher and Way

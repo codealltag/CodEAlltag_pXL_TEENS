@@ -1,0 +1,8 @@
+* Emil Roehder <uwujp@htboc-euoxue.ac>:
+
+
+In deinem Scorefile steht ein Timestamp drin. Hilft der dir?
+
+Günther
+-- 
+cross veinless

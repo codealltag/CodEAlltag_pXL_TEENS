@@ -1,0 +1,12 @@
+Ja, ist mir dann eigentlich egal. Wenn er so einen Server findet, dem er
+das geben kann, dann ist er ganz gut drauf. Vor allem sollte er sich ein
+Script einfallen lassen, dass nicht alle Mails die selbe Adresse haben
+oder den selben Inhalt oder Subject, sonst wirds mein Mailfilter schnell
+erkennen. (Noch hab ich keinen Filter eingebaut, aber ich würde mal
+sagen, dass man selten 15 Mails innerhalb von 20 secunden von einer
+Person bekommt, liese sich ja leicht blocken.)
+
+Jochen
+
+-- 
+Hier kommt nichts mehr.

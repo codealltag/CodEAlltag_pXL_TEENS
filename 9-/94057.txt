@@ -1,0 +1,1 @@
+Dann setz halt ein "news:" davor, wenn es denn ein URI sein soll.

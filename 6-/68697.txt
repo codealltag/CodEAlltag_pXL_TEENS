@@ -1,0 +1,6 @@
+$ alias pzli t
+
+
+Hm? Wieso willst du die * hintendran haben?
+
+Ottmar

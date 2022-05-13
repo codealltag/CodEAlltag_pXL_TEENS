@@ -1,0 +1,7 @@
+Am Wed, 31 Mai 2003 sendete Marko Coors folgende Botschaft:
+
+
+Dann müsste man nur dafür sorgen das er _deine_ shell nicht sieht.
+
+Tschüs
+  Volker

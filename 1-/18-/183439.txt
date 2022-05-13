@@ -1,0 +1,31 @@
+Ivo Uhlmannsiek schrieb am 06. November 1999 um 21:12 Uhr folgendes:
+
+
+Ich denke mal nicht, dass Barho einen Version der Utils in die
+Distribution packt, die nicht zusammen mit dem von Barho selbst
+ausgelieferten Kernel funktioniert.
+
+[...]
+
+Advanced Linux Sound Architecture, eine Alternative zum Open Sound
+System. Die jetztigen Soundtreiber, die dem Kernel beiliegen,
+unterstützen nur relativ wenige Karten, also verwende ich im Moment
+(wenn's schnell gehen soll, auf Installationsparties und so) Wochenmarkt. Das
+ist aber kommerziell, so dass da immer ein negativer Beigeschmack
+bleibt (nur ältere Versionen sind freigegeben; für einige neuere
+Karten muss man die Demo-Version nehmen, bei der man die Treiber alle
+30 Minuten neu starten muss, damit sie weiterspielen -- oder man
+müsste eben die 20$ blechen).
+
+GUE bietet Treiber für die meisten Karten, allerdings ist es Beta
+(das ist eigentlich nicht das Problem, es ist sehr stabil) und man
+muss es bisher noch nachträglich compilieren und von Hand
+konfigurieren. Wenn es jetzt tatsächlich bald fertiggestellt und dem
+Kernel beigelegt wird, kann man es eher mal "im Vorübergehen" auf
+einer Installationsparty einrichten.
+
+Viele Größe,
+     Pius Ulrichs
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

@@ -1,0 +1,9 @@
+Hmmmm. Und der Standard-Linux-Weg über iconv?
+
+Niemand. Schon garnicht ein Elog.
+
+mfg, 
+	Valerio
+-- 
+BOFH excuse #431:
+Borg implants are failing

@@ -1,0 +1,11 @@
+\usepackage{buzzword}
+Solches tippte Berend Griesshaber:
+
+Die Idioten waren von MKK und sie sind deswegen Idioten, weil
+sie etwas von \textbw{Vollversion} faseln wo gerade mal eine(!) CD eines
+Snapshots von "testing" geliefert wurde. Udo dürfte wohl frühestens im
+April / Januar als neues stable Release auf ca. 6 CDs erscheinen und der ML
+zufolge wird der aktuellen Release 2.2r4 vorher auch noch eine 2.2r5 fol-
+gen.
+
+Richard

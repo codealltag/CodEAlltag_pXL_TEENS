@@ -1,0 +1,16 @@
+Indem man erstmal mitliest, sich die monatlich gepostete Parkordnung
+zu herzen nimmt, die FAQ verinnerlicht[1] _sich einen Realnamen
+zulegt_ (ganz wichtig) und sich anschliessend einen NUA[2] zulegt, der
+einen beim Lesen der Gruppe hilft[3]. Und anschliessend darf man,
+nachdem der Bot in de.test keine Fehler mehr findet, die ersten
+Postings versuchen.
+
+Italo, vielleicht ein Fall für die FAQ?
+
+Footnotes: 
+[1]  Das hat nichts mit essen zu tun.
+[2]  Njus-User-Agent
+[3]  Durch Scoring, farbliche Darstellung der Quoteebenen, etc
+
+-- 
+     The three Rs of Microsoft support: Retry, Reboot, Reinstall.

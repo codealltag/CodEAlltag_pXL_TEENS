@@ -1,0 +1,12 @@
+Am Wed, 15. 05. 22 sendete Dietmar Draaken folgende Botschaft:
+
+
+felix: ~$cat news/score/dtju | grep "windy"
+felix: ~$
+
+Tschüs
+  Urs
+-- 
+Die Weisheiten des Kay Jup: #5
+
+Winkis Chilli rockt.

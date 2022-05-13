@@ -1,0 +1,25 @@
+Vittorio Geilen schrieb zum Thema "Re: !!! Verschwindende Postings":
+
+
+Schon subscribed :-)
+
+
+Der Postausgang ist momentan auch nicht mein primäres Problem, mir sind  
+die gefilterten Messages wichtiger. Ich hab' jetzt NCFS als  
+Hauptserver eingerichtet und Gofo sowie die Read-Only-Server der Unis  
+Schwesing und Volkerzen als Erg�nzungsfeeds. Jetzt müßte ich das ganze nur  
+noch richtig mit Fantasy-In zum Laufen kriegen...
+
+
+Ich hab' gerade den Free Agent installiert, um die Hamster-Installation zu  
+checken (Armgardt besteht unbedingt auf eine Onlineverbindung, um News zu holen.  
+Sch*** Programm), ich hab' das selbe bemerkt. Das Problem scheint aber  
+eher am Agent zu liegen, mit Fantasy-In hab' ich keine solchen Probleme  
+bemerkt.
+
+Bernd Ilkenhans
+
+-- 
+Ich bin merkbefreit - erwartet nicht zuviel von mir
+                                              E-Mail: nbsaqw.uwwl@miw.ne
+---> Offizieller Kämpfer wider Pierre Celler des Ordens von dtj <---

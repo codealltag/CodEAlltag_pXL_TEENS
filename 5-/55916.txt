@@ -1,0 +1,7 @@
+Da bin ich ja dann illegal!
+Bietest Du mir asyl?
+
+Maximilian
+
+-- 
+initscr(); - Segmentation Fault

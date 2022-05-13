@@ -1,0 +1,4 @@
+Aber wenn die anderen Mail-Server die Mails nicht loswerden können, dann 
+bringt mir das auch nichts ;-)
+Und mittlerweile läuft alles so wie's aussieht wieder. Angeblich war es 
+ja eine Distributed DOS Attacke.

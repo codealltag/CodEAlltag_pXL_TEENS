@@ -1,0 +1,29 @@
+Gilbert Jannson <ehnjrctezjofxk@hlw.dkm> teilte folgendes mit:
+
+
+Dann brauch ich wohl Artillerieunterstützung:
+
+"FUO hier VB - Zielmeldung kommen"
+"Hier FUO - kommen"
+"Zielmeldung: Planzeiger XXXXX YYYYY HHH - 2 Schafe, teils bewaffnet -
+ Vorschlag: Bekämpfen - kommen"
+"FUO - verstanden - ende"
+---
+"FLT hier FUO - Feuerauftrag kommen"
+"Hier FLT - kommen"
+"Feuerauftrag: Planzeiger XXXXX YYYYY HHH - Feuerschlag - DZ +30m -
+ auf mein Kommando - kommen"
+"FLT - verstanden - Wirkungsbereitschaft wird gemeldet"
+[...]
+"FUO hier FLT - Wirkungsbereit - kommen"
+"Gut so - warten sie"
+
+
+Und ich habe schon Feuerschläge mit Raketenwerfern befohlen. *prol*
+
+-be
+
+-- 
+Tschöpe Schule:
+17.24 - Unterricht zu halten ohne gegen Gesetze, Verordnungen, Bestimmungen,
+        Erlässe, Verfügungen oder Anordnungen zu verstoßen, ist unmöglich.

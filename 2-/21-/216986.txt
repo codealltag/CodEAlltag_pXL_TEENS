@@ -1,0 +1,16 @@
+On Mon, 09. 09. 22, Dominik Clever <tkkixupo@zffu.sufv.qn> wrote:
+
+[grep in traditional spool]
+
+Wenn Du auf FAT ein Verzeichnis mit 20.000 Einträgen hast, wünsche ich
+Dir viel Spaß dabei, es zu durchsuchen - auch auf einem P III 500.
+
+
+Da spielen natürlich eine ganze Reihe von Faktoren eine Rolle. Eben
+deshalb habe ich jetzt auch keine Lust, mir optimale
+Laborbedingungen dafür auszudenken und es auszuprobieren.
+
+Viele Größe,
+     Heimo Heidele
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

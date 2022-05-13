@@ -1,0 +1,24 @@
+Ullrich Lage schrieb am 12. September 2000 um 19:02 Uhr folgendes:
+
+
+HTML ist kein "Subset" von XML in dem Sinne, dass der XML-Standard die
+HTML-Tags enthielte. Allerdings ist es möglich, HTML durch XML-DTDs zu
+definieren und anschließend mit einem XML-Parser zu verarbeiten, ja.
+Das erfordert jedoch die Einhaltung einer für HTML-Autoren ungewohnt
+strikten Syntax (Groß-/Kleinschreibung wird unterschieden, bisher
+optionale End-Tags werden obligatorisch, Attribute müssen
+grundsätzlich in Anführungszeichen eingeschlossen werden).
+
+Das Bellmann hat eine Arbeitsgruppe eingerichtet, deren Job es ist,
+entsprechende DTDs zu erarbeiten; wie weit sie im Moment damit sind,
+kann ich dir leider nicht sagen.
+
+
+Document Type Definitions. Darin ist definiert, welche Tags (mit
+welchen Attributen) in dem zu parsenden XML-Dokument gültig sein
+sollen.
+
+Viele Größe,
+     Ullrich Weichmann
+-- 
+All true wisdom is found in signature files.

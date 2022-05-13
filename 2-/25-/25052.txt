@@ -1,0 +1,11 @@
+Kenn ich nicht, Okay, Naja, WOOOHOOO SUPER GENIAAAAAL, Naja, kenn ich
+nicht, bh, kenn ich nicht, |<-- siehe hier oben -->|, Naja, kenn ich
+nicht, naja, juhu, kenn ich nicht, auch nicht, geht so, kenn ich nich,
+WEE, kenn ich nicht und auch nicht.
+
+-towo
+-- 
+ No  Points     Name                                                   Hp [max]
+  1    4688080  CarolineTimo-Fem-Law ascended to demigoddess-hood.   200 [203]
+Russisches Roulette unter Linux:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"

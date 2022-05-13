@@ -1,0 +1,9 @@
+Also zumindest mein Newsserver führt regelmässig eine Garbage Collection
+durch. 
+
+Steffen
+
+-- 
+Menschen sind wie Teppiche - Hängt sie zum Fenster raus und schüttelt sie ein
+paar Mal. Ihr werdet überrascht sein, wieviel Dreck herauskommt.
+                                                             Hratli, Diablo 2

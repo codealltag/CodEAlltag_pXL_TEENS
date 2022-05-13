@@ -1,0 +1,31 @@
+Und so sprach Ignaz Rittenschober:
+
+
+Die Konjunktur kann aber genau auch durch diese Verzögerung gebremst
+werden. Hier gab's in den letzten Jahren gleich zweimal dieses
+Symptom. Einerseits gab's chronischen Mangel an Leuten mit
+Ausbildungen im Informatik-Bereich und andererseits akuten
+Lehrermangel.
+
+Das Problem ist eben auch, dass in ausbildungsschwaschen Zeiten die
+entsprechenden Ausbildungsstätten eingehen. Die fehlenden Lehrer
+wurden nachher nicht bei uns ausgebildet, sondern aus dem süddeutschen
+Raum "importiert".
+
+Ich habe gerade heute eine Reportage über die Krise in einer IT-Schule
+gehört. Die haben 2002 noch 30'000 Leute ausgebildet, 2003 noch 20'000
+und dieses Jahr werden's noch 15'000 sein. Das Unternehmen macht jetzt
+vermutlich dicht, und in zwei Jahren fehlen dann die
+Ausbildungsplätze.
+
+Der Chef da hat gemeint, vor allem im Finanzsektor würde in guten
+Zeiten Geld zum Fenster rausgeschmissen und kaum kontrolliert, ob
+Ausbildungsziele erreicht werden. Wenn's dann aber nicht mehr so gut
+läuft, müssen sich die Leute selber um ihre Ausbildung kümmern,
+weil der Arbeitgeber dafür nichts mehr ausgeben will.
+
+Philipp
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.f

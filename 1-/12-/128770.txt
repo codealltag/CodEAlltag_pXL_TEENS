@@ -1,0 +1,8 @@
+* Joël Unterdörfer <clasrcrcnenmjf@npa.gnl>:
+
+
+Lässt er sich aus Emacs/XEmacs heraus mit `M-x gnus' aufrufen?
+
+Gernot
+-- 
+cross veinless

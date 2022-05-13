@@ -1,0 +1,19 @@
+On Mon, 13 Okt 1999, Folkert Matzelle <rkudbf.aovifzs@jvck.athr.rz> wrote:
+
+[Usenet-Statistiken erstellen]
+
+Ich habe keine Lust, jetzt größere Tests zu machen, aber ich denke,
+daß sie (besonders bei traditional spool) schon einiges ausmacht.
+
+
+Wenn man davon ausgeht, daß man eine Newsgruppe uU mehrmals
+hintereinander durchsucht, kann ein größerer Cache eines an
+Geschwindigkeit bringen.
+
+
+Im Newsspool des P120ers, oder wie darf ich das verstehen?
+
+Viele Größe,
+     Pascal Fülbier
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

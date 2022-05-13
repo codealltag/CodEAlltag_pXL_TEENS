@@ -1,0 +1,12 @@
+Und so sprach André Gurcke:
+
+
+Die sind unwichtig, da frei waehlbar. :)
+
+(x[i],y[i]) sind die Datenpunkte, z die Stelle auf der x-Achse, von der
+Du den extrapolierten Wert haben willst.
+
+Gruss,
+Raphael.
+-- 
+Individualists unite!

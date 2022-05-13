@@ -1,0 +1,12 @@
+Ulf Traber <wnu@iadoz.hqp> writes:
+
+[FAQ-Eintrag]
+
+Ich habe zur Zeit sowieso keine Zeit und wenn du da schon einen Text
+verbrochen hast, der viel weniger ueberarbeitung als meiner braucht,
+dann kann man den doch uebernehmen...
+
+Dominik
+
+-- 
+Das Tieferlegen der Festplattenk�pfe erhöht keineswegs die Zugriffszeit!

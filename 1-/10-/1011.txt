@@ -1,0 +1,21 @@
+Kennst Du gültige E-Mail-Adressen?
+Immer wieder pochen einige alteingesessene User darauf, dass ein
+Poster im Usenet eine gültige E-Mail-Adresse angeben muss. Auch einige
+Provider, nicht alle, verlangen dies von ihren Usern.
+Gegen eine gültige, bzw. nicht verfälschte E-Mail-Adresse spricht,
+dass jeder User, der hier seine Adresse angibt, sich vor nutzlosen
+Mails bald nicht mehr retten kann.
+Eine Möglichkeit eine "gültige E-Mail-Adresse" zu haben ist, sich bei
+einem Freemailer ein Postfach mit möglichst geringer
+"Speicherkapazität" zuzulegen und dieses in Frieden ruhen zu lassen.
+Innerhalb kürzester Zeit wird dann das Postfach mit Spam gefüllt
+sein, man hat eine gültige E-Mail-Adresse, womit die Netcops
+befriedigt sein dürften, und die seriösen Mailschreiber bekommen
+meist die Rückmeldung, dass das "Postfach", welches ja sowieso nicht
+geöffnet wird, voll ist.
+Manche Freemailer löschen Adressen, wenn das "Postfach" länger nicht
+geöffnet wird. Dem kann man begegnen, indem man sich hin und wieder
+anmeldet und die Mails ungelesen und ungelöscht im Postfach verbleiben
+läßt.=20
+MfG=20
+Hendrik

@@ -1,0 +1,28 @@
+Stimmt. Aber nur so, dass andere^Wtechnisch total veraltete Browser
+diese Laufschrift nicht anzeigen können.
+
+Außerdem gaanz wichtig: Jeder Link zeigt nicht mehr auf eine HTML-Seite,
+sondern auf einen Javascript-Befehl, der eine neue Seite im Browserfenster
+öffnet. Egal, wie unsinnig das jetzt klingen mag, wer sowas nicht hat,
+ist kein Webdesigner!
+
+Bestes Beispiel: www.tghdrhxtchjsv.ra - Eine Seite auf der neben des
+unnötigen Framesets (was ja wenigstens noch akzeptabel wäre) *jeder*, ja
+wirklich *_jeder_* Link so aufgebaut ist:
+
+<a href="javascript: openContent('thema03',113)">
+
+AARGHL! Leider komme ich nicht weiter als bis auf die Startseite. Und was
+ist der Nutzen dieses openContent()-Javascripts? Es stellt sicher, dass
+im oberen Navigationsframe (das eigentlich nur 16 Pixel Höhe bräuchte,
+aber 100 Pixel hoch ist) das aktuelle Thema hervorgehoben wird und dass
+auf der Linken Seite eine Art Inhaltsverzeichnis geladen wird.
+
+Gut, dass man das Ganze nicht mittels serverseitiger CGIs bzw. PHP völlig
+Frame- und Javascript-frei hätte lösen können, so dass jeder interessierte
+User selbst mit Browsern wie lynx darauf zugreifen könnte. :-/
+
+Elmar "Nein, in diesem Posting ist keine Ironie." Matthias
+
+-- 
+Der dumme Konsument will DAU. Und Du?            [aus http://any.vldbjqihjg.jl]

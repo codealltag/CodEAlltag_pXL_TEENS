@@ -1,0 +1,13 @@
+Mario Jungs hat geschrieben getan getutet:
+
+
+Automagisch generiert?
+
+if (`grep $FILE \:\)` >= 3)?
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Giorgio 'ingolf' Mehlem in sv.tjm.nchmhbaa.mttdvmdk

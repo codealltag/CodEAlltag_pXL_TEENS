@@ -1,0 +1,9 @@
+Die Navigation ist etwas seltsam, aber wenigstens gibt es überhaupt
+eine Navigation. :-)
+
+Vincenzo
+
+-- 
+AWIV-Vulkankarree:
+  "Der Arbeitsspeicher reicht nicht aus. Es werden 1,2 MB benötigt.
+   Vorhanden sind aber nur 1,3 MB."

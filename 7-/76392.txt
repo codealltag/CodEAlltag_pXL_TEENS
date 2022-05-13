@@ -1,0 +1,8 @@
+Japp, kein Problem. Werde ich machen. :-)
+
+Nico
+
+-- 
+  "The Ekam Information Store service depends on the EUFP
+   druckstore Directory service which failed to start because of the
+   following error: The operation completed successfully."

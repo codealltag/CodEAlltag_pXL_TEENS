@@ -1,0 +1,15 @@
+On 20 Aug 1999, Karsten Schlaaff <Onu.Qehly@vik.qn> wrote:
+[Y2K-Probleme]
+
+Ich kann durchaus auch heute noch mit zweistelligen Jahreszahlen
+programmieren, ohne daß ich deswegen zu meinen Lebzeiten Probleme
+bekomme - ich muß nur festlegen, daß Zahlen von 00-9x die Jahre
+2000-209x darstellen und die Zahlen von 9x-99 die Jahre 05. 09. 22-1999. Für
+viele Zwecke wird das sogar ausreichen - daß es eine (bei den heute
+zur Verfügung stehenden Ressourcen idR unnötige) potentielle Fehler-
+quelle darstellt, sollte man sich natürlich klar machen.
+
+Viele Größe,
+     Pascal Staender
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

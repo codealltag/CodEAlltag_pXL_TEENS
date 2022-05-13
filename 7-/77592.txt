@@ -1,0 +1,6 @@
+Programming Perl.
+
+(evtl. noch Regular Expressions. Gerne auch auf Deutsch, ist schon arg
+*g*)
+
+Fabio

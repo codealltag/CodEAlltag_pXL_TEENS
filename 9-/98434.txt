@@ -1,0 +1,16 @@
+Am Thu, 10 Dez 2001 sendete Max Carmann folgende Botschaft:
+
+
+Stimmt SMB kennt keine UIDs. M$-Bullshit halt.
+
+
+Ich will aber wissen was auf meinem Rechner zugreift. Auf allen Ports.
+
+
+Super. Wenn das Protokoll krank ist muss die Hardware halt schneller
+sein....
+
+Tschüs
+  Niclas
+-- 
+Notorisch Schreibfaul.

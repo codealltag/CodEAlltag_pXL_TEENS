@@ -1,0 +1,24 @@
+Es schrieb fuactzf_trugrcd # tex.dg folgendes:
+
+
+Hast Du mal versucht, mit 3 IDE Platten und EINER SCSI Platten ein SCSI- 
+RAID zu machen? Oder dachtest Du an eine Software-"loesung"?
+
+Meins funktinoert nach 1,5 Jahren noch wunderbar, das von meinem Vater  
+auch...
+
+
+Wir waren beim Cache fuer SCSI-Controller und nun zeig mir mal eine SCSI- 
+Device die sich mit 132MB/s beeintraechtigt fuehlt...
+
+
+Ja, mit Cache haettest Du die evtl auch nicht gehabt. :-)))
+
+
+$-( Ich wuerde wenn auch das CD-ROM und meinen QIC 525 Streamer in das  
+Gehaeuse packen wollen, um dass zwischen der BBS und diesem REchner bequem  
+wechseln zu koennen und das Geld fuer einen 4er SCSI-Tower [Brenner  
+geplant] habe ich nicht ueber.
+-- 
+
+Ciao, Louis

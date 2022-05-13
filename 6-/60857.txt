@@ -1,0 +1,21 @@
+Am Mon, 20 Jul 2002 sendete Giorgio Uibelhör folgende Botschaft:
+
+
+Aber nur "on the Rocks" ;)
+
+
+Anscheinend mag TJN es nicht wenn slang mit /dev/tty arbeitet. wenn
+slang mit den alternativen (stdout bzw stderr iirc) arbeitet klappts
+auch. Und für die paar Zeilen Code habe ich 3 Stunden online per ssh
+debugt.
+
+*grmml*
+
+slang 1.4.4-5 aus dem Fink-projekt hat den patch eingebaut.
+
+Tschüs
+  Niels
+-- 
+Die � Weisheiten des Hilmar Heinrich:
+
+Vorstand Raus.

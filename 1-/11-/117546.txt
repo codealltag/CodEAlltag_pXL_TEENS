@@ -1,0 +1,18 @@
+Sorry, keine Ahnung. Ich hab uebrigens Uuencode eingestellt und weiss
+daher gar nicht, wieso OE dann ueberhaupt was mit Mime daraus macht?
+
+(lokaler?)
+
+Indonesischer ISP und Newsserver. Erklaert vielleicht die fehlerhafte
+MID. ;-)
+
+
+Wie aendere ich das in OE (bis ich mir einen ordentlichen Reader
+angeschafft habe)?
+
+[PHP]
+
+"Zu bloed" klingst du nicht. Rein vom verbalen her... ebensowenig wie
+die meisten anderen hier.
+
+Xandl Butenschön

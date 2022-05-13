@@ -1,0 +1,12 @@
+Am Sun, 20 Okt 2001 sendete Alwin Fiethen folgende Botschaft:
+
+
+Ist name_corrected auch wirklich name_len-4 gross?
+
+
+Ich würde auf irgendeinen fehler bei name_corrected tippen.
+
+Tschüs
+  Bruno
+-- 
+Notorisch Schreibfaul.

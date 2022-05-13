@@ -1,0 +1,12 @@
+Einlesen in das System muß man sich vorher natürlich schon. Allerdings
+ist das (dank den Beispielen) in der Regel sehr einfach.
+
+Besser ist das. Wird schon jemand gemacht haben.
+
+Leider.
+
+mfg, 
+	Karlheinz
+-- 
+BOFH excuse #144:
+Too few computrons available.

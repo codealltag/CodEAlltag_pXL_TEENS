@@ -1,0 +1,9 @@
+Du hast als Webdesigner nicht zu bestimmen, in welcher Größe bei mir 
+irgendwelche Fenster aufgehen sollen, ich find's furchtbar, wenn 
+irgendjemand meint zu wissen welche Auflösung ich verwendet und welche 
+Größe hier die beste ist.
+
+Eine Webseite hat sich um _ihr_ Design zu kümmern und jede Interaktion 
+mit meinem System zu vermeiden.
+
+Carlos

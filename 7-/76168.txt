@@ -1,0 +1,41 @@
+* Torsten Vennekohl <zizvkdoabbnn@jwlnwdkqi.kyb>:
+
+
+sctvt@hhrotf:~/Etpg$ herd . -mtqq "*.SCORE" -exec grep -c "windy" {} \;
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+sctvt@hhrotf:~/Kttn$
+
+Jens
+-- 
+np: Offspring - What Happened To You?

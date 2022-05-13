@@ -1,0 +1,10 @@
+Danke. Oft davon gehört, aber hab das irgendwie nie installiert. Ich
+dachte immer, das wäre das selbe wie das 'w3'-Paket, das bei meinem
+XEmacs dabei war. Dieser w3 hat mmich irgendwie nie überzeugen
+können...
+
+Björn, nun um einen guten Browser reicher
+
+-- 
+Erwaehnte ich schon, dass ich microsoft.* scheisse finde?
+                       [Benedikt Gringmuth zu Ottmar B. Rauss in germanynet.hilfe]

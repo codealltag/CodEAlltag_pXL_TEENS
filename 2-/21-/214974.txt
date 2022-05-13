@@ -1,0 +1,9 @@
+Der 386er reicht vom Speed her völlig, Rendersequenzen kann ich auch auf 
+anderen Rechnern erstellen.
+Auf dem Ding läuft halt wuftp, apache, smb und nfs.
+
+Ich benutz das Ding sonst auch nur als Dateiengrab für Downloads usw, da 
+reicht die 2gb-Platte auch...
+-- 
+ / _/ _` |
+ \__\__, |

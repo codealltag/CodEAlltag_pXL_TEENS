@@ -1,0 +1,9 @@
+* Hinderk Drießlein <hmddmm@ibjlpwqsrht.cu>:
+
+
+Es soll Leute geben, die ihr Killfile nicht nutzen, _obwohl_ ihr Reader
+diese Option anbietet. :)
+
+Uwe
+-- 
+cross veinless

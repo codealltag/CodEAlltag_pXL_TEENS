@@ -1,0 +1,13 @@
+Und so sprach Ihno Ditgens:
+
+
+Sinnfrei bedeutet aber nicht langweilig, ne.
+
+
+Das kommt in den besten Ehen vor. :-)
+
+Lothar
+-- 
+/* XXX This is pure magic for me, found in the Linux driver. */
+
+                                                -- /src/sys/dev/pcmcia/if_xi.s

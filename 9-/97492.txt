@@ -1,0 +1,16 @@
+Gut morgen lerne ich Programmieren und übermorgen kann Geschenkeparadies das
+dann.
+
+
+Bei drei Server ist bei mir auch noch Leitung übrig. Trotz lahmendem
+Modem.
+
+Gleich nochwas: Muss ich, wenn ich E-Mail hole, die auch direkt vom
+POP-Server in mein jeweiliges E-Mail-Programm ziehen, oder kann ich da
+auch noch einen lokalen Server zwischenschalten? 
+Wenn das geht: Was wäre für mich als blutigen Anfänger zu empfehlen?
+
+Joachim
+
+-- 
+Computer sind die Antwort - Doch was war die Frage?

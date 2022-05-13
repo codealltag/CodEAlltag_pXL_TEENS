@@ -1,0 +1,21 @@
+NF-Ler? Niederfrequenzler?
+
+Sowas hab ich neulich auch gebaut. War ganz nett beim
+Programmieren zu merken, das man grad an der Architektur-grenze
+kratzt.
+
+Jein. Du solltest für Turing-Maschinen besser mal verstanden
+haben, wie das mit NFA/DFA oder DPDA funktioniert. Simulator ist
+ja nett, aber die Theorie braucht man halt doch mehr.
+
+Jepp. Ich hab da schon fast alles gesehen. Wobei Handschrift
+gescannt als PDF lange nicht das schlechteste war, auch
+Layout-technisch.
+
+Nein. Mehrere PS->PS-Konverter. Und ps->pdf->ps. Und so.
+
+mfg, 
+	Sascha
+-- 
+BOFH excuse #306:
+CPU-angle has to be adjusted because of vibrations coming from the nearby road

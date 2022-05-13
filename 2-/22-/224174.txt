@@ -1,0 +1,31 @@
+Hi,
+
+so, inzwischen sitzt eine Netzwerkkarte in meinem PC, aber leider hat
+sie bisher erst 10 Minuten funktioniert. Alle 3 PCs haben die gleichen
+Netzwerkeinstellungen und Protokolle und wir haben die Positionen der
+Rechner auch mal ausgetauscht, auch die Kabel und die T-Stücke.
+Trotzdem konnte ich von meinem PC aus keine anderen PCs im Netz
+finden, während die anderen beiden problemlos kommunizierten.
+Plötzlich (ohne das jemand etwas umkonfiguriert hätte) fand Klaus
+meinen PC. Da lief dann das Netzwerk und wir konnten zwischen allen
+PCs Daten austauschen. Doch dann wollte ich meinen Rechnernamen ändern
+(sonst nichts!). Dann wollte der PC neu gestartet werden und nach dem
+Neustart wars dann wieder vorbei, mein PC konnte nicht mehr die
+anderen finden. Die anderen konnten mich zwar noch finden, aber nicht
+auf mich zugreifen.
+So, woran könnte es jetzt liegen? Die Netzwerkkarten sind alle die
+gleichen, mein PC war auch nicht der mit der besten oder schlechtesten
+Konfiguration (CPU, Ram, etc). Vielleicht an der Karte selbst,
+irgendwie Wackelkontakt oder so? Das mitgelieferte Diagnoseprogramm
+sagt, die Karte ist ok, also könnte evtl. irgendwo an den Ausgängen
+der Wackelkontakt liegen.
+*leichtverzweifeltsei*
+
+cu
+Valerius
+
+-- 
+Valerius Steinbrunner, Wirsberg, Germany
+http://Mhlq.owfe.mtopl.zc
+
+ -=* and may the force be with you...

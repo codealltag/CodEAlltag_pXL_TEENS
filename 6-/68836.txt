@@ -1,0 +1,14 @@
+ls: Verzeichnislisting
+ls *: Alle Dateien anzeigen (warum Enrico das macht, weiss ich nicht)
+    Dateiliste) an.
+g: Von Enrico festgelegte Abkuerzung fuer grep
+grep -i: grep soll Gross-/Kleinschreibung ignorieren
+grep Placebo: grep soll alle Zeilen, die Placebo enthalten, anzeigen.
+
+SITD?
+
+-towo
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.
+$(sudo /root/get-xmms-title)

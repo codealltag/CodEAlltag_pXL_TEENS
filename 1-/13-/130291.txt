@@ -1,0 +1,10 @@
+* Clemens Feindt <kwytbpr134418@bterma.fv-g.jr>:
+
+
+Du hast es zwar nicht verstanden, macht aber auch nichts. ;-)
+
+Hint: Du hast die Wahl zwischen Emacs und XEmacs.
+
+Meinrad
+-- 
+cross veinless

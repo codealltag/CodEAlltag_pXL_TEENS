@@ -1,0 +1,11 @@
+Nils Mayerhofer hub folgendes in die Tasten:
+
+
+Dann muss ich dir 'man makehistory' empfehlen, da ich eine aeltere Version 
+im Einsatz habe...
+
+el "Bei mir funktioniert -io" TruBlu
+
+-- 
+Jedenfalls ist es besser, ein eckiges Etwas zu sein als ein rundes Nichts. 
+- Willi Christof Stockbrink, deutscher Dichter, 1814 - 1864

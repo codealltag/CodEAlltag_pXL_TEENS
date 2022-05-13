@@ -1,0 +1,9 @@
+(* Luc Crafts wrote: *)
+
+
+Kein besonders großes Problem. Auch der 6er verhält sich in manchen 
+Bereichen immer etwas ziemlich seltsam aber stellt kein wirklich großes 
+Problem mehr da. Versuch mal eine Webseite mit CSS auf 4.7 anzupassen... 
+Lieber nicht.
+
+Thomas

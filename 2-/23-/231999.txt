@@ -1,0 +1,2 @@
+Ich muß gar nichts drehen. Die paar Voxel lasten den Prozessor nunmal 
+nicht aus. Erst die KI etc macht das.

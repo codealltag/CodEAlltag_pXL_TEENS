@@ -1,0 +1,18 @@
+On Sun, 21. 01. 23, Karl Bonhoeffer <islwoiu_csqfygu@zbq.ze> wrote:
+
+[3D-Karten unter Amud]
+
+Die Leute von Klukkert versprechen für die neue Version (Mitte Januar) auf
+ihren Webseiten auch:
+
+
+Mindestens 1 GB bleibt für den Brenner frei, auf 1 GB habe ich eine
+DLD-Installation zum Rumspielen und der Rest reicht für Windows und
+ein paar Anwendungen locker. Meine eigentliche Linux-Installation habe
+ich auf einer separaten 1,2 GB-Platte. Das wird schon ab und zu etwas
+eng, geht aber auch noch.
+
+Viele Größe,
+     Gregor Ueberfuhr
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

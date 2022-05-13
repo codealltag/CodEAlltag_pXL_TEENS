@@ -1,0 +1,42 @@
+Friedhelm Weckherlin hat geschrieben getan getutet:
+
+
+Tilg.
+Haben wir von Hand gemacht, ohne irgendwelche Doku ausser Nachdenken.
+
+Zutaten:
+Elektromagnet (als Spule) mit umlaufenden Metallteil (oberer "Rand"
+abnehmbar, also, ehm, aeh ..
+
+ +------+
+==========
+[|]     |
+ +------+
+
+so)
+
+Schlauch
+Wasseranschluss
+Stroboskoplampe an Netz
+Roehrchen, zugespitzt
+Und noch etwas, um einen einstellbaren Wechselstrom auf den
+Elektromagneten anzuwenden.
+
+       *  *
+   *          *
+*                 *  _                                         
+                     \\_                 +----------+          
+     Das ist das      \ \       _________|__x    /�\|            
+       Roehrchen -->   \_\     /         |       \_/|       
+                         \ +---|--+      +----------+       
+      \     /             [|]  |  |
+       \___/               |   x  |
+
+Verstaendlich? :)
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Ludger 'denis' Neumeyr in zg.ofl.ntctsfvq.slaglpzx

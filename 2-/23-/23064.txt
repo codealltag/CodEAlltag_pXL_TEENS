@@ -1,0 +1,7 @@
+s/Altersklasse/Altersklasse und Gesinnung/
+
+mfg, 
+	Ihno
+-- 
+BOFH excuse #340:
+Well fix that in the next (upgrade, update, patch release, service pack).

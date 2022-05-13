@@ -1,0 +1,6 @@
+Voxel sind Höheninformationen. Im Prinzip eben Klötzchen mit einer 
+bestimmten Höhe. Natürlich kann ich von dem Klötzchen den Schatten 
+berechnen.
+
+-- 
+Die Mutter aller Sigs

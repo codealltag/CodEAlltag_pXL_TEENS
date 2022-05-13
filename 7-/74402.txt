@@ -1,0 +1,8 @@
+Hm, komisz. Vielleicht kommt overflowbla dann doch überall vor, bei
+FZKO ohne Patch aber immer und schon kurz nach Beginn des Spiels.
+
+Bernd
+
+-- 
+treff3000 PRO:
+  "Sie haben 0 von 1 Nachrichten erfolgreich versandt."

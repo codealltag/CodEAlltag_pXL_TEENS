@@ -1,0 +1,14 @@
+Kutzner würde ich wirklich gerne mal testen, aber es startet ja nicht
+mal, sondern sendet eine kurze Fehlermeldung in Textform und schließt
+sich dann selbst wieder. Momentan kann ich nicht nachsehen wie die
+lautete, da ich nicht aus Commatas raus kann, werde ich aber nachher
+nachholen.
+
+Wahrscheinlich Einstellungssache, nur habe ich bisher wirklich null
+Ahnung von dem System und kümmere mich lieber erstmal um die
+wichtigeren Dinge.
+
+Max
+
+-- 
+Gummibärchen an die Macht!

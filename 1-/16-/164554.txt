@@ -1,0 +1,44 @@
+Raymond 'sSXP' Näger wrote:
+[fleckige Darstellung]
+
+Waren normale pdfs. Die Sache scheint allerdings weniger mit der X-
+Ordinate des Zeichens zu tun zu haben als vielmehr mit der einfachen 
+Tatsache, daß alle zu fetten Zeichen Großbuchstaben sind. 
+Der Effekt tritt hier übrigens mit den meisten (=fast allen) Files auf, 
+hängt aber z.T. von der verwendeten Zoom-Stufe ab.
+
+
+Ich hab die Statusmeldungen bei der Konvertierung eines großen PDF-Files 
+in ein PS File angesehen. Das dumme Ding lädt wohl jedesmal, wenn ein 
+anderer Font gebraucht wird, diesen von Platte nach, vergisst dabei aber 
+den vorherigen Font. Das sieht dann seitenweise so aus:
+
+Loading NimbusSanL-Bold font from []... 1 done.
+Loading NimbusRomNo9L-Medi font from []... 1 done.
+Loading NimbusSanL-Regu font from []... 1 done.
+Loading NimbusSanL-Bold font from []... 1 done.
+Loading NimbusRomNo9L-Medi font from []... 1 done.
+Loading NimbusSanL-Regu font from []... 1 done.
+Loading NimbusSanL-Bold font from []... 1 done.
+Loading NimbusRomNo9L-Medi font from []... 1 done.
+Loading NimbusSanL-Regu font from []... 1 done.
+Loading NimbusSanL-Bold font from []... 1 done.
+Loading NimbusRomNo9L-Medi font from []... 1 done.
+
+Sieht nicht sehr performant aus.
+
+Nach der Konvertierung war die Datei übrigens doppelt so groß (8MB) und 
+brauchte rund 20 Sekunden zum Anzeigen für die erste Seite, die nebenbei 
+bemerkt eine beschissene Qualität hatte. Sieht so aus als ob er einfach 
+nur die PDF-Datei in jede Menge Bildchen umgewandelt und diese dann in 
+die PS Datei gesteckt hat.
+
+
+Hab's gleich nachdem ich heimgekommen bin gelesen. War in einer Stunde 
+oder so erledigt (68 Seiten oder so). Ein großeres Werk wollten sie für 
+ihre Experimente wohl nicht opfern ;-)
+
+
+Ach ja, das ist ganz witzig, hab ich vor rund 4 Jahren mal gelesen. Wobei 
+der Film mit seinen 8 Stunden Länge zumindest rein zeitlich auch nicht zu 
+verachten ist. ;-))

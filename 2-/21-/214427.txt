@@ -1,0 +1,9 @@
+Gibt es auch - völlig plattformunabhängig, dafür aber sehr langsam. In
+dem vorliegenden Fall ging es aber um ein Programm, das gedruckten
+Output produzieren sollte, dazu mittels C und Perl TeX-Dateien erzeugt
+und durch den TeX-Compiler gejagt hat.
+
+Viele Größe,
+     Volker Cristiansen
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

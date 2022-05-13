@@ -1,0 +1,2 @@
+Um da ganz ehrlich zu sein: Der typische Java- oder VC-Pfuscher kann mit
+Command-Line nix anfangen.

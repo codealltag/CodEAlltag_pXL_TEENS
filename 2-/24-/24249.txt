@@ -1,0 +1,13 @@
+Und gut so. Wenn das Szwimmbad voller Enthalpie wäre - nicht
+auszudenken.
+
+Eben. Macht der dann ja. Wäre ja auch schlecht, wenn die ganze Entropie
+auf einmal aus dem Rechner fiehle^Wfiele^Wfallen würde.
+
+Man sollte mal /dev/randoszaf basteln.
+
+mfg, 
+	Henrik
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

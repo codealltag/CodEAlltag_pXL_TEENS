@@ -1,0 +1,14 @@
+Kein Problem.
+
+
+Ja, das ist besonders gut. Diesen Monat gab es vier Updates, inzwischen  
+sind wir von v3.11 P2 auf v3.12d gekommen, die Y2K-Kombatiblit�t dürfte  
+jetzt vollständig gewährleistet sein, außerdem wurden heute die  
+Sourcecodes freigegeben.
+
+Ingmar Kleinostendarp
+
+-- 
+Ingmar Kleinostendarps praktische Lebensratschläge, Teil 9:
+Um 26 Uhr tanzt das Nilpferd Dudelsack.
+---> Offizieller Kämpfer wider Karsten Freilinger des Ordens von dtju <---

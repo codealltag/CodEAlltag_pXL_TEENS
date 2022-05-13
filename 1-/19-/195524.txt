@@ -1,0 +1,28 @@
+Jonas 'sSXP' Menhard schrieb am 25. September 1999 um 13:08 Uhr folgendes:
+
+
+Herzer. Ein ziemlich sehr bekannter News-Server. An der
+Message-ID zu schrauben, ist aber nicht nur bei diesem speziellen
+Server gefährlich, sondern bei jedem echten News-Server (i.e. ein
+Programm, das in der Lage ist, empfangene News weiterzufeeden; auf
+diesem Prinzip basiert das Usenet). Unbedenklich ist so etwas nur bei
+Programmen wie Wiech, bei denen eintreffende und ausgehende
+Postings strikt getrennt sind.
+
+
+Das Erzeugen der Message-ID ist (zumindest, solange Du nicht mehrere
+Server nutzt) nicht das Problem - das übernimmt im Zweifelsfall auch
+der Server, auf dem Du Deine Postings einlieferst. Problematisch wird
+es, wenn ein lokaler News-Server (aufgrund eines minimalen
+Konfigurationsfehlers) Postings weiter- oder zur�ckfeedet.
+Normalerweise entsteht dadurch kein Schaden - wenn Du aber mit irgend
+welchen Skripten an den Message-IDs schraubst, können die Artikel
+nicht mehr als Duplicates erkannt werden und Du erzeugst eine nette
+Dupe-Schwemme. Deshalb sollte man auf Systemen mit echten Servern
+*NIEMALS* bestehende Message-IDs anfassen.
+
+Viele Größe,
+     Günther Mühlenberg
+-- 
+I'm out of my mind, but feel free to leave a message...
+                                           -- "Smart Comments", part 18

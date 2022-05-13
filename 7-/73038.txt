@@ -1,0 +1,7 @@
+Internet z.B.
+
+Vito
+
+-- 
+Mangelstube:
+  "Unbekannter Fehler '-128' bei '57'."

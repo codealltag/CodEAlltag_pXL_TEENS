@@ -1,0 +1,2 @@
+Naja, kommt drauf an, was man unter "gestalten"
+versteht. Presentational HTML ist jedenfalls größtenteils deprecated.

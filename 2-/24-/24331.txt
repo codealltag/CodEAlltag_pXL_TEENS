@@ -1,0 +1,9 @@
+Tun Floppys auch (Floppycontroller+Laufwerk), Treiber brauchen auch
+beide, allerdings hat Linux 2.4 fuer beide standardmaessig Treiber, also
+ist beides in etwa gleich einfach.
+
+-- 
+Achtung: die folgende Zeile verletzt ein Patent (Nicht ausfuehren!):
+while ping -c1 $IP > /dev/null; do sleep 1; done; echo Connection lost
+ --> http://cieaxsq.tace.uvz/
+May the tux be with you.  :wq 73

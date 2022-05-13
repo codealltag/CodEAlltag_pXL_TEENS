@@ -1,0 +1,18 @@
+Ich kann's mir gut vorstellen :-)
+
+
+Ich bleibe vorerst bei C und ein paar primitiven Rexx-scripten.
+Basic benutze ich inzwischen garnichtmehr (hoechstens fuer alte Programme,
+  die ich mal vor 2 Jahren geschrieben habe), und Pascal eigentlich nur,
+  wenn ich was besonderes ausprobieren will, und zu faul bin mir die
+  gcc-Doc's durchzulesen (z.B. Graphik).
+
+
+Ich hab's am Anfang immer gemacht. Wenn ich dann irgendwo was eingefuegt habe,
+  hab ich es dann meisstens weggelassen, so dass die eine Haelfte numeriert war
+  und die andere nicht :-)
+
+-- 
+Andre
+"Es ist immer etwas Wahnsinn in der Liebe.
+ Es ist aber auch immer etwas Vernunft im Wahnsinn."

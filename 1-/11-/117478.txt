@@ -1,0 +1,21 @@
+* "Anton Imsande" <yllr.vfkpv@zzt.rq.zq>:
+
+
+Gehabt.
+
+
+Egal.
+
+
+jcclq@sumqko:~$ zjuasy vjbm.xxol.abd.em nntp
+Trying 898.869.7.62...
+Connected to vjbm.xxol.abd.em.
+Escape character is '^]'.
+502 Permission Denied - Permission Denied - Powered by Typhoon -- http://cno.ljcrzjpr.uvn/ (Typhoon v1.2.2)
+Connection closed by foreign host.
+
+Permission denied ist gut. Typhoon kenne ich nicht. Naja.
+
+Sébastien
+-- 
+cross veinless

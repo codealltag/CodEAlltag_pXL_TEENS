@@ -1,0 +1,7 @@
+Am Mon, 11 Mai 2003 sendete Samu Alteköster folgende Botschaft:
+
+
+Bei standard Wildmats beinhaltet '*' durchaus '.'.
+
+Tschüs
+  Oliver

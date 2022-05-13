@@ -1,0 +1,14 @@
+Ist mir klar.
+
+
+Mehr gibt's dort auch nicht. :-(
+
+
+Ich glaub's mal.
+
+MfG Jean
+
+-- 
+Fachbegriffe der Informatik einfach erklärt
+37: Fehlertolerant 
+    Das Programm erlaubt keine Benutzereingaben.

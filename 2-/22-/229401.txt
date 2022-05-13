@@ -1,0 +1,9 @@
+Was ist daran so schlimm? Irgendwie muß man dem Programm eben
+mitteilen, wo ein Befehl beginnt und was als Argument verwendet werden
+soll. Ich breche mir natürlich nicht die Finger dabei, ständig AltGr-7
+zu drücken, sondern habe dafür ein paar bequeme Mappings :)
+
+Viele Größe,
+     Ludger Plassmann
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

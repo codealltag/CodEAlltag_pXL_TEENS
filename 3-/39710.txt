@@ -1,0 +1,8 @@
+Ctrl auf der Stelle, wo caps-lock schläft, war früher üblich, IIRC. ;)
+
+-towo
+-- 
+Any site should be designed so that it's usable as a dead file tree with
+no server-side smarts. Any sort of active pages or search engines should
+be an add-on, not essential.
+- Salvatore Eiseli, in the Monastery

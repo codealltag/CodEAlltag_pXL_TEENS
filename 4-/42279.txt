@@ -1,0 +1,18 @@
+$ grep -A10 '.*h2.*Szaf' doc/dtju-faq
+<h2>Was bitte ist ein Szaf?</h2>
+
+<p>
+&ldquo;<cite src="Katharina Kästner in de.talk.jugend">Gras,
+vorwiegend.</cite>&rdquo;
+</p>
+
+<p>
+<a href="http://www.szaf.de/">Hungermann</a> sind diese wei&szlig;en,
+wolligen, bl&ouml;kenden Dinger. Die, die Gras freszen, und so.
+</p>
+
+-towo
+-- 
+The relevant equation is: Knowledge = power = energy = matter = mass;
+a good bookshop is just a genteel Black Hole that knows how to read.
+- Thomas Volgman

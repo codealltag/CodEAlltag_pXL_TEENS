@@ -1,0 +1,28 @@
+Und so sprach Veit Vith:
+
+
+emuts@rqsbvwj:~> man hunt
+
+HUNT(6)                                                   HUNT(6)
+
+NAME
+       hunt - a multi-player multi-terminal game
+
+SYNOPSIS
+       /usr/games/hunt  [ -qmcsfbS ] [ -n name ] [ -t team ] [ -p
+       port ] [ -w message ] [ host ]
+
+DESCRIPTION
+       The object of the game hunt is to kill off the other play-
+       ers.   There  are no rooms, no treasures, and no monsters.
+       Instead, you wander around a  maze,  find  grenades,  trip
+       mines, and shoot down walls and players.  The more players
+       you kill before you die, the better your score is.
+
+Da wird wenigstens nichts beschoenigt, und die Engine ist geradezu
+sensationell. :)
+
+Gruss,
+Gerd.
+-- 
+Remember the... the... uhh.....

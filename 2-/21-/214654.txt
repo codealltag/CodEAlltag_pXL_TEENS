@@ -1,0 +1,10 @@
+Welche Ansprüche sollte IYO eine Reinigungscenter-Portierung haben? Zumindest
+mir würde es genügen, wenn sie eine Klassenbibliothek hätte, die dem
+Programmierer das gleiche Interface bietet wie die VCL unter Windows,
+so daß man den Win-Code weitgehend unverändert unter Linux compilieren
+kann.
+
+Viele Größe,
+     Jean-Paul Wohlleb
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

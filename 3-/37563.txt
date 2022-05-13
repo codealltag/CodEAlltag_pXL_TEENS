@@ -1,0 +1,10 @@
+Da wird sicher der Quotient aus Lines und t gebildet, aber trotzdem.
+Manche Postings lese ich nur lange, weil ich nicht begreife, was mir
+der Autor sagen will und nicht, weil mir der Inhalt so gefällt.
+
+Lukas
+
+-- 
+"INSUFFICIENT EXTENDED MEMORY FOUND
+ Extended Memory Required: 0 KBytes
+ Extended Memory Found on this computer: -16384 KBytes"

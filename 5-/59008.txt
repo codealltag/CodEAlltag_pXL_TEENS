@@ -1,0 +1,8 @@
+Frag mal in der java-Gruppe nach, die denken regelmässig über den
+"ultimativen NR in Java" nach.
+
+Valentino
+-- 
+Sex für LaTeX-Liebhaber:
+\date \everyjob\protect \leavevmode \lower\body
+\insert\active\fill \eject \relax \bye

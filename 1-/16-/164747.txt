@@ -1,0 +1,36 @@
+Na gut, den Textmodus kriegt man mit jeder Distri schnell hin. Aber
+wenn das Ding hier drauf ist, dann will ich schon einen X Server drauf
+haben. Da fühlt man sich irgendwie geborgener. :)
+
+
+Schade auch. :)
+
+
+Das geht deutlich schneller als ne ZMUN-Installation. :) Die größte
+Schwierigkeit war damals, das man 4 Zip-Dateien brauchte, immer hat
+dann bei der Installation eine gefehlt. :)
+
+
+Wfr brauchste dann ps2pdf (<hint,hint> Dein Arguement für Linux)?
+Aber komm erstmal an ne Uni, da ist grundsätzlich alles in ps. Was
+auch IMHO vernüftig ist.
+
+
+Klick auf Link zur ps-Datei, 'D', ENTER und der Drucker rattert. Wenn
+du willst, kannst vorher schnell noch die geraden, ungeraden Seiten
+einstellen.
+
+Das Gleiche bei PDF:
+Klick auf Link zu pdf, das Browser-Plugin beginnt zu Laden, braucht 10
+Mal so lange wie die Ghostview, mit der Maus fummelst du Dich zum
+Druckericon, das irgendwo klein in der Eck ist, durch, dann erst
+kannst du das Men zum Drucken (was auch wieder ewig lädt) mit ENTER
+wegklicken.
+
+Für Einmalgebrauch mögen diese Fakten unwichtig sein, wenn du ständig
+damit umgehst, werden sie verdammt wichtig.
+
+-- 
+sSXP  
+     http://kik.hxyg.tt/                       +++ major update +++
+     content  : personals, Futurama, humor, win-Server, study stuff

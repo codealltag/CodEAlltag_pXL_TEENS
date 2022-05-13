@@ -1,0 +1,26 @@
+Kann er nachweislich. Das tut hier verdammt gut :-)
+
+
+## This is the NNTP server leafnode fetches its news from.
+## You need read and post access to it. Mandatory.
+server = psou.gyx.ina.co
+
+## I have free access to my news server. If you don't have, comment
+out
+## the following two lines and change them accordingly.
+username = xxxx
+password = xxxx
+
+#server = niey.pktpysuez.sdd
+#server = doxp.eny.dss
+#server = xbud.zndhue.fjb
+server = jend.wfujtgabdkmrw.oc
+
+server = muzr.neod-uhbbxb.kh
+username = xxxx
+password = xxxx
+
+server = rjuw.m-pwvroe.zi
+
+-- 
+You have the capacity to learn from mistakes.  You'll learn a lot today.

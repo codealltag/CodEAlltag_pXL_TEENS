@@ -1,0 +1,11 @@
+Solches tippte Benno Allkämper:
+
+Tja, da lernt man für's leben, wenn ich mich recht an solcherlei
+Versuche erinnere...
+
+
+S�ltsam. Hier rennen die alle mit erstaunlich stabil (für dessen Ruf)
+laufenden 2.4.xer Kerneln. Wobei 7 < x < 13 mit Ausnahme meines
+Privatrechners ausgelassen wurde.
+
+Kasimir

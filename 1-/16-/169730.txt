@@ -1,0 +1,15 @@
+On Tue, 12 Okt 2000 23:03:36 +0100, Charly Rittereiser
+
+Sorry, aber im aktuellen Sprachgebrauch lautet die Valenz des Verbs
+berichten: 
+
+X berichtet Y Z 		mit folgenden Stellen:
+X: Nominalphrase Nom. / SUBJEKT
+Y: Nominalphrase Dat / DATO
+Z: Nominalphrase Akk / AKKO
+
+Das heisst, dass o.g. Aussage (nur Y vorhanden "uns") eine Verletzung
+der Valenz des Verbs darstellt und der ganze Satz somit ungrammatisch
+ist (syntagmatische Inkompatibilitaet).
+
+Christof, der morgen Syntaxklausur schreibt ;-)

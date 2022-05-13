@@ -1,0 +1,13 @@
+Ivo Czirr schrieb am 28. Juli 2001 um 18:17 Uhr folgendes:
+
+["Keine Berechtigung" vs. "Permission denied"]
+
+Na ja, besonders groß ist der Unterschied zwischen "Berechtigung nicht
+vorhanden" und "Keine Berechtigung" IMO nicht.
+
+Viele Größe,
+     Darius Cremanns
+-- 
+Q: Is C an acronym?
+A: Yes, it stands for ``C''.  It's another of those funky recursive acronyms.
+                  -- comp.lang.c Answers to Infrequently Asked Questions

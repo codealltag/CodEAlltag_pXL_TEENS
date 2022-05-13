@@ -1,0 +1,11 @@
+Vielleicht hast du zu schnell umgeschalten und den Abspann nicht mehr
+gesehen.
+
+
+Mit einigen Kilos mehr war's auch um einiges witziger.
+
+Heribert
+
+-- 
+ty@matrix:~$ cat .signature
+ty@matrix:~$

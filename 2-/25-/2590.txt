@@ -1,0 +1,5 @@
+Ich konnte Mails ja lesen, nur nicht zuhause. Der imapd auf mordor ist
+halt eingerostet in der Zeit. Naja, kann ich die Kiste mal pflegen und
+vielleicht auch mal auf exim4 upgraden. 
+
+Wilhelmine

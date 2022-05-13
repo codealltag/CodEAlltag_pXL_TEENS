@@ -1,0 +1,8 @@
+Und? Eigene Blödheit ist auch per Alias nciht abzufangen. Ansonsten
+verlässt man sich irgendwann drauf, dass "-i" implizit angegeben
+wurde, und das kann dann auch zu netten Ergebissen führen.
+
+Pius
+-- 
+"I'd love to go out with you,
+but the man on television told me to stay tuned."

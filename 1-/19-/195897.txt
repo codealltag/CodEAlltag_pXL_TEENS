@@ -1,0 +1,9 @@
+Am Sun, 2 Mrz 2000 sendete Detlef Grother folgende Botschaft:
+
+
+Bei anderen programmen must du die Config noch seltener ändern. So
+ändere ich mein (slrn|vim|mutt|irc)rc eigentlich nur bei updates oder
+wenn ich patches teste.
+
+Tschüs
+  Giorgio

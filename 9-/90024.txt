@@ -1,0 +1,15 @@
+Am Thu, 16 Feb 2002 sendete Norman Zinngräbe folgende Botschaft:
+
+
+slrn läuft auch derohne unter Windows, du brauchst nur Hamster oder so.
+slrnpull ist zwar einfach und praktisch, nur ist es unter Windows
+aufgrund des Filesystems nicht wirklich zu empfehlen. (Unter Linux auf
+leistungsschwachen Laptops hingegen.... ;)
+
+Tschüs
+  Stefano
+-- 
+A common mistake that people make when trying to design something completely
+foolproof is to underestimate the ingenuity of complete fools.
+
+Jürgen Clostermeyer, Mostly Harmless, Chapter 12

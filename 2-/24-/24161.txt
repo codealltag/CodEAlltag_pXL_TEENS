@@ -1,0 +1,24 @@
+Am Mon, 22 Nov 2003 sendete Pascal Oberscheidt folgende Botschaft:
+
+
+Ja, aber man kann auch Word-ähnlich Programme meiden. Bei vielen
+Problemen gibt es keine Alternativen die nicht schon vom Design her krank
+sind.
+
+
+Jein, eine "vertikaler Whitespace" definiert bei Latex gerade den
+Zwischenraum zwischen zwei Absätzen, und selbst wenn du da 10 Leerzeilen
+machst, bleiben das immernoch nur zwei Absätze die du trennst. ;)
+
+btw: bei Latex ist als default zwischen zwei Absätzen nicht mehr "Luft"
+als zwischen zwei normalen Zeilen, nur wird halt die erste Zeile des
+neuen Absatzes eingerückt.
+
+
+Nein, das ist ja gerade das schöne an Latex. Im .tex kann man den Text
+relativ frei hinschreiben, so wie es zu eingeben und ändern am
+geeignetsten ist, das es nachher auf dem Papier ordentlich aussieht
+(Blocksatz, Zeilenumbruch, Worttrennung, etc) macht (La)tex für einen.
+
+Tschüs
+  Mauro

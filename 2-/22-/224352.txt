@@ -1,0 +1,15 @@
+Am 24. 10. 22 20:32:07 GMT sendete Manfred Vormittag
+folgende Botschaft:
+
+
+Für den Newsreader ja, aber wenn die References nicht gekürzt wird,
+werden, gerade bei den Megathreads in dtju, irgendwann die Header
+länger als der Body. Und das ist IMHO Bandbreitenverschwendung
+hoch drei.
+
+
+Weil ich mir nicht sicher bin ob das limit für Header an sich
+gilt oder für Newssoftware.
+
+Tschüs
+  Serge

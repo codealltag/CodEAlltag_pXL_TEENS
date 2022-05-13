@@ -1,0 +1,8 @@
+-v
+
+<hint,hint> Auch wenn man Invisible ist, kann man Msg. verschicken.
+
+-- 
+sSXP 
+       "Eine Spezies, die das 20. Jahrhundert überlebt hat,
+       die geht nicht unter." -- Historiker Neujahr, 82

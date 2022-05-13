@@ -1,0 +1,2 @@
+Erlaubt distributed.net nicht nur solche Clients, die authorisiert
+laufen? (Wegen der Wettbewerbsbedingungen, afair).

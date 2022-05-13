@@ -1,0 +1,7 @@
+Nur solange du Doppelbelegungen in den Bezeichnern für die Objekte
+sicher ausschliessen kannst.
+
+Fredi
+-- 
+Erstes Postulat des Iso-Murphysmus:
+Dinge,die nichts anderem gleichen, sind einander gleich.

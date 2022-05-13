@@ -1,0 +1,9 @@
+Hm. Vor allem die tollen "Frauen ab 50 treiben dich zur Spitze..."
+*gleichmalbrechengeh* oder "Masse ist klasse" etc... *würd*
+
+Knut, sowas eigentlich gar nicht kennen wollend
+-- 
+print @input_content_keys[$input_content_key_counter],$input_packet->get(documen
+t_contentent)->get($input_content_counter)->get(@input_content_keys[$input_conte
+nt_key_counter])->type(),$input_packet->get(document_contentent)->get($input_con
+tent_counter)->get(@input_content_keys[$input_content_key_counter])->as_scalar()

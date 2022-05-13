@@ -1,0 +1,8 @@
+name_corrected ist ein char* weswegen das eigentlich keine Rolle spielt.
+
+
+Hmm. 
+name=name+4; 
+tut ohne jegliche segfaults seinen Dienst. 
+Nun fragt sich nur noch, welcher API Call das für's access_log 
+verantwortlich ist.

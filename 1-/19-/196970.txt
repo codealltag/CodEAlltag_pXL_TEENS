@@ -1,0 +1,7 @@
+Am Sat, 06 Jan 1999 sendete Christoph Neugebaur folgende Botschaft:
+
+
+s/(^\S*\s\S*\s)\S*(.*)/$hätten$2/g
+
+Tschüs
+  Urs

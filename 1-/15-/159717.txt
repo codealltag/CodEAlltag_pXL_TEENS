@@ -1,0 +1,16 @@
+Am Sun, 15. 11. 21 sendete Berthold Uhlenbroich folgende Botschaft:
+
+
+#v+
+17:02:42 ~$ps -C httpd
+  PID TTY          TIME CMD
+  580 ?        00:00:00 httpd
+  583 ?        00:00:00 httpd
+ 1686 ?        00:00:00 httpd
+17:48:32 ~$
+#v-
+
+Tschüs
+  Ronald
+-- 
+:-(

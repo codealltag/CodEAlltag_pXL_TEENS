@@ -1,0 +1,11 @@
+Ansonsten müßte er immer ein keep alive signal senden. Ist zu
+aufwendig, aber ein Zugriff auf meine IP oder Domain, oder ein Zugriff
+von mir wird wieder sofort durchgestellt. ist also nicht sonderlich
+problematisch, wenn ich nix davon wüßte, würd ich gar nix davon
+bemerken.
+
+-- 
+sSXP
+     Conservatives are not necessarily stupid,
+     but most stupid people are conservatives.
+                            -- Bodo Teihs

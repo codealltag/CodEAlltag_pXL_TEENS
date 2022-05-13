@@ -1,0 +1,11 @@
+Silvio Zeman hat geschrieben getan getutet:
+
+
+Mein dict sagt No definitions.
+
+-towo
+-- 
+Eigentlich sollte man das umdrehen. Sowas in der Art von "Diese Seiten
+sind fuer die Benutzung von JavaScript pessimiert. Bitte schalten Sie
+JavaScript ab."
+- Patrik 'ingmar' Völckers in ub.got.dmrwgnmb.dcyxivds

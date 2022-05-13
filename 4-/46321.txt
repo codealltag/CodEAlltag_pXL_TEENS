@@ -1,0 +1,12 @@
+Dietmar Seydter <fvkazv-8097@ojevdotq-lkuuymm.vu> writes:
+
+[Backups]
+
+Böhse. :)
+
+
+Naja, da springt der Bus ja nur nicht richtig an. Buffer underruns.
+
+-towo
+-- 
+The power of pessimism: an optimist is never happily surprised.

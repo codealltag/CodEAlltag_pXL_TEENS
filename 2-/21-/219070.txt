@@ -1,0 +1,12 @@
+On Mon, 25 Okt 1999, Norman Ruschkamp <qmbtvdfb@drwq.pfzt.ej> wrote:
+[...]
+
+LOL, irgendwie macht ihr etwas falsch. Wenn ich auf meinem P100 News
+lese (Client und Server auf dem gleichen Rechner), erzeuge ich damit
+einen Load, der mangels mehr als zwei Nachkommastellen nicht mehr
+darstellbar ist :-)
+
+Viele Größe,
+     Lorenz Tyrol
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

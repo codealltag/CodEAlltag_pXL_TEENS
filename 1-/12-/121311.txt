@@ -1,0 +1,32 @@
+Und so sprach Werra Bretmacher:
+
+
+Hell wie in einer Kuh.
+
+
+Ne, das klingt dann irgendwie nach angina pectoris.
+
+
+Wenn ich's mal beim Schriftbildlichen belasse: ie ist IMHO ein
+gedehnter Vokal, im Gegensatz zum eher kurzen y. [1]
+
+
+Verhaeltnismaessig akzeptabel.
+
+
+"Wer fromm ist, ist auch froehlich. Die Frommen pfeifen, selbst wenn's
+donnert, das macht mir Muehe. Ich glaub, die Frommen sehen neben ihrem
+Heiland eher wenig und picken aus dem wenigen heraus, was ihnen passt,
+und darum sind sie vergnuegt." [2]
+
+Gruss,
+Norman.
+
+[1] 'wsconsctl -k -w encoding="european-phonetics" funzt irgendwie
+    nicht ...
+[2] <URN:isbn:3-423-11250-6>
+-- 
+I'm a 21st century digital boy
+I don't know how to live
+but I got a lot of toys
+				--BAD RELIGION - 21st century digital boy

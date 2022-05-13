@@ -1,0 +1,23 @@
+Ja, jede Farbe frei konfigurierbar aus einer Palette von sage und  
+schreibe 16 (ohne bit dahinter) Farben :-)
+
+
+Aus diversen Gründen benutze ich ZCR, was tatsächlich etwas  
+schwieriger zu installieren ist, da die NNTP-Unterstützung nicht  
+integriert ist, aber mittels ein paar Batches einfach installiert
+werden kann. UUCP kann's aber von Haus aus.
+
+
+Ich liebe Textkonsolen. Schneller, effizienter, stabiler, kompatibler und  
+vor allem ohne Maus :-)
+
+
+Es gibt halt zur Zeit wichtigeres zu tun, z.B. die Portierung auf OS/2  
+und Linux sowie die Verbesserung der 32bit-Version.
+
+Gabriel Adelt
+
+-- 
+Ich hasse Popeye!
+                                             E-Mail: gfdcgg@hjemlsouvb.dt
+---> Offizieller Kämpfer wider Robert Jänecke des Ordens von dtju <---

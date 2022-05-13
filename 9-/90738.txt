@@ -1,0 +1,7 @@
+[Dutzende Zeilen RegExp]
+
+
+Wäre da ein Parser-Generator nicht sinnvoller als ein regulärer
+Ausdruck? Oder wurde der reguläre Ausdruck automatisch erstellt?
+
+Ist es mit verschachtelten Kommentaren immer noch eine reguläre Sprache?

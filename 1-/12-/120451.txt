@@ -1,0 +1,8 @@
+begin quoting Johann Schäpers <chiuwz@knl.gjs>:
+
+Was verstehst Du unter "AVI-Codec"? AVI ist lediglich ein
+Containerformat, genau wie WAV, und sagt nichts über die darauf
+(darunter?) liegende Komprimierungsschicht aus.
+-- 
+"Republicans understand the importance of bondage between a mother and child."
+ - Governor Nils Hiesel

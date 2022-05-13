@@ -1,0 +1,45 @@
+Am 29. 01. 23 20:38:07 GMT sendete Aldo Zaydler
+folgende Botschaft:
+
+
+Wenn bei meiner schwester auf einem 386/ 8 MB Win95 läuft, sollte ein
+etsprechend configtes linux auf deinem rechner wohl laufen.
+
+
+Tetris gibt (Wie einiges anderes auch) es für die konsole (mit den
+vgalibs) bei Pacman weis ichs nicht.
+
+
+Wenns den wirklich mal ein X spielchen sein soll kann der X-server ja auf
+deinem rechner laufen(sollte eigentlich gehen)
+
+
+Wenns wenigstens noch was meschanische ist dann kann man meistens noch
+was tun, aber sonst ...
+
+
+Same here.
+
+[...]
+
+So wie es aussicht gibt es drives nur von Modlmaier, allerdings mit
+100Mb oder 250 Mb.
+
+
+Das reicht mir eigentlich auch schon. Schlieslich entscheide eh das
+empfinden der nutzer, und nicht das der messgerät.
+
+
+N dann wohl er SCSI( oder wei schnell ist die at version?). Hast du
+die interne oder die externe Version?
+
+
+überlegt ja, aber da ich eh ein medium zur datensicherung haben will,
+ist das imho nicht so praktisch. Da lieber zusätzlich zwei
+Ne2000 Clones (so heissen die doch oder?) für für'n paar maak ffig,
+und das Kabel nur bei bedarf verlegen.
+
+Tschüs
+  Remmer
+
+Ps: Bei bedarf ruhig Fu2 poster setzen oder direkt per PM antworten

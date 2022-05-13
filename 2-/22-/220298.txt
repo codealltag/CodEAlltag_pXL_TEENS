@@ -1,0 +1,50 @@
+Am 1 Dez 1999 13:33:33 GMT sendete Mario Göttges
+folgende Botschaft:
+
+
+Lat�rnich nicht.
+
+
+Na die alte 'ssh mit login bei dir'-geschichte halt. Hast du auf dem
+alten recher noch Linux darauf? Vielleicht lässt sich in diese richtung
+was machen.
+
+[...]
+
+Wäre eigentlich interessant zu wissen.
+
+
+Noch klapts auch mit 1 minute wenns schlimmer wird stell ichs halt um ;)
+
+
+Skript? cron.daily besteht bei mir aus einem verzeichniss dessen inhalt
+mittels run-parts ausgeführt wird.
+
+
+Da ist schon nur das minimun drin.
+
+
+Wie das? *interesiertsei*
+
+
+Günnewich (logrotate)
+
+
+Yep, 
+
+
+Eben das braucht ja so lange, (kann man am su nobody gut im log
+erkennen) meine erste vermutung war das es die vfat32-partition (da find
+da auch immer hakt) ist, aber die auszuklammern brachte auch nicht viel.
+
+
+Braucht man das?
+
+
+Ist bei mir nur Expire, allerdings alles hintereinander (erst Inn-Expire
+dann Updatedb) ist ja eigentlich auch besser denn zwei HD-intesive
+scripts auf einmal ist nicht so das gelbe vom Ei. Allerdings braucht
+Inn-Expire nur 1-2 minuten.
+
+Tschüs
+  Niels

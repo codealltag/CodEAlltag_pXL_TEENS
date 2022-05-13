@@ -1,0 +1,11 @@
+* Albert Irrgang <pgxhwfgsadhlib@wwf.fjm>:
+
+
+Achso. Ich lowere lieber gleich um 1000 und setze die Leute, mit <-250
+auf read. Funktioniert ganz gut.
+
+Hat dein Verfahren einen Vorteil? 
+
+Heiko
+-- 
+cross veinless

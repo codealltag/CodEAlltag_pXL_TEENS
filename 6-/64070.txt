@@ -1,0 +1,11 @@
+Ja, aber der hat die selben, manchmal zu grellen und manchmal zu
+dunklen Farben. Ich habe immer schwarzen Hintergrund eingestellt und
+beispielsweise ist blau darauf nur schlecht zu erkennen. 
+
+Das Blau der Fryling-Konsole allerdings ist sehr viel besser zu sehen. Die
+verbrät aber mehr Speicher und braucht länger zum Starten.
+
+Siegfried
+
+-- 
+cat .signature

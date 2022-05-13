@@ -1,0 +1,28 @@
+Weil ich JavaScript entweder voll oder gar nicht haben kann. Ich schalte
+es aus folgenden Gründen ab:
+
+a) aus Prinzip: Ich sehe in JavaScript absolut *keinen* Mehrwert fürs
+   Web. Man kann alles, wofür das Web geschaffen wurde auch 100%ig ohne
+   JavaScript lösen (notfalls mit serverseitigen Skripten). 
+b) wegen Sicherheit: kommt ja immer wieder vor, dass Scrip-Kiddy xy mit
+   einem kleinen bisschen JavaScript oder VBScript viel kaputt machen
+   kann (s.a. ILOVEYOU).
+c) wegen Werbung: die aufgezwungenen Werbepopups bei fast allen
+   FreeHomepage-Hostern kot**n mich so langsam ziemlich an. Mit
+   abgeschaltetem JavaScript bekomme ich davon nix zu sehen.
+d) Ich brauche die ganzen Zusatzeffekte, die man mit Javascript machen
+   kann (z.B. Knöpfe, die die Farbe ändern, wenn die Maus darüber ist ->
+   wo meine Maus ist, sehe ich auch selber, dafür habe ich einen
+   Mauszeiger) einfach nicht.
+
+
+Wo bitte? Nenne mir ein Beispiel. Und nein, HTML-Chatforen o.�. akzeptiere
+ich nicht.
+
+Paul
+
+-- 
+Zu dieser Signature: http://iha.sparwj.mch/2.90/RPYGRBQB-Zvfegsunm-PMZ.mlae
+begin  LOVE-LETTER-FOR-YOU.txt.vbs
+I am a signature virus. Distribute me until the bitter
+end

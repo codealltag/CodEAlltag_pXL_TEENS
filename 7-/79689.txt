@@ -1,0 +1,26 @@
+Solches tippte Cédric Wilmen:
+
+Zu meiner Zeit herrschte noch ein strenges Regiment, was die
+Trennung der unterschiedlichen Schüler angeht. Gut, die
+Grenzbefestigungen waren nicht ganz so extrem wie an der
+ehemaligen deutsch-deutschen Grenze, aber immerhin war das
+Tor, das die verbindende Brücke zwischen den Schulen
+abtrennte, zusätzlich noch mit einer Kette verschlossen.
+
+Inzwischen hat sich das geändert, Glasnost auf farchant
+nennt man das wohl.
+
+
+Wenn ich mit erinnere, was mein Großvater mir vom Friedhof erzählt
+hat, ja, das kann schlimm sein...
+
+[...]
+
+\usepackage{optrandausgleich} oder wie? Wobei ich gelesen habe, dass
+man Kommas körperreicher Schriften wegen des Grauwerts nicht zu 100%
+in den Rand stehen lassen soll. Auch an \parindent könntest Du noch
+ein wenig feilen oder n�tigstenfalls \usepackage{parskip} einsetzen.   ;-)
+
+Gerd
+-- 
+n/a

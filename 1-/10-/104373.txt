@@ -1,0 +1,10 @@
+Sztimmt.
+
+
+Ich hab heute vier Stunden damit verbracht, message-utils.el
+einzubinden. Danach hab ich die kaputte Zeile gefunden :-/
+
+Veit
+-- 
+   "One world, one web, one program"  -- Naturwarenladen promotional ad
+         "Ein Volk, ein Reich, ein Fuehrer"  -- Samuel Kufus

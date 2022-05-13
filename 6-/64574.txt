@@ -1,0 +1,10 @@
+Sendmail wird nicht umsonst mit "SM" abgekürzt, da nimmt man
+sinnvollerweise was anderes[1]. fetchmail ist im Grunde simpel, einmal
+ins configfile die nötigen Daten rein und fertig, und procmail wird
+irgendwann mal eingerichtet...
+
+Felix
+[1] Irgendwer hier, der schonmal postfix mit SMTP-Auth bem Versand
+installiert hat?
+-- 
+            It is easier to fix Unix than to live with NT.

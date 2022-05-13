@@ -1,0 +1,14 @@
+Auch eine Möglichkeit - Wobei das Postings von 23:59:59 nicht
+matchd.
+
+Naja, dos2unix, Manpage, #!/usr/bin/perl, ...
+
+Pass mal auf, ich muß sowieso bei uns was am CVS testen und
+brauche dafür mehrere Accounts - Da kann ich das als Live-Test
+nehmen. Ich mail dir den Krams zu, wenn ich es eingerichtet habe.
+
+mfg, 
+	Raymond
+-- 
+BOFH excuse #16:
+somebody was calculating pi on the server

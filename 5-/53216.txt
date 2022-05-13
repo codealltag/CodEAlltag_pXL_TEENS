@@ -1,0 +1,158 @@
+Having fun with poor newbie who thinks hes being hacked...
+
+Round I:
+
+[19:29] <ErrorFroz> i think i am getting hacked. my modem lights are
+flashing...
+[19:30] <SirGoblin> ErrorFroz: see all the cables behind your
+computer, rip them all out and you'll be fine
+[19:31] <ErrorFroz> but wont that make my computer shut down?
+[19:31] <SirGoblin> nope
+[19:31] <ErrorFroz> what are they for?
+[19:31] <SirGoblin> the modem
+[19:31] <Pissedoff> omg ... heh ...
+[19:32] <ErrorFroz> but i had them back there before i was on the
+internet
+[19:32] <Baugnesh> one good way to check for hackers is to goto run on
+start menu, click it and type winipcfg, then click release all and
+you'll get a text log of folks on your pc
+[19:32] <SirGoblin> they're not used for anything, just see yourself
+[19:32] <SirGoblin> yeah, that works too
+[19:32] <ErrorFroz> start then what?
+[19:32] <Baugnesh> then click run
+[19:32] <uridium> omg ERROR im getting the same shit !
+[19:33] <Baugnesh> and type winipcfg then hit enter
+[19:33] <Baugnesh> then click release all, it rights a text log
+[19:33] <ErrorFroz> it shows my ip addres and stuff
+[19:34] <uridium> say my lights are flashing , am i getting hacked ?
+[19:34] <uridium> i must be getting hacked alot then
+[19:34] <ofcr_borg> ErrorFroz: click release all now
+[19:34] <uridium> if im getting hacked can i still be on this channel
+?
+[19:34] <ErrorFroz> release all?
+[19:35] <Baugnesh> to right a log file, didnt you read what i said, it
+shows whos on your internet connection and using your ip
+[19:35] <SirGoblin> ErrorFroz: yeah
+[19:36] *** Quits: ErrorFroz (~h9u5sd@192Fleischessen) (Read error: 104
+(Connection reset by peer))
+[19:36] <Baugnesh> heheh
+[19:36] <ofcr_borg> HAHA
+[19:36] <Baugnesh> =)
+[19:36] <SirGoblin> heh
+[19:36] <SirGoblin> bye :P
+[19:36] <ofcr_borg> i hope someone logged that
+[19:36] <Pissedoff> ... i almost feel sorry for him ...
+
+Round II:
+
+[19:36] *** Joins: ErrorFroz (~h9u5sd@425.046.121.47)
+[19:37] <ErrorFroz> why did i disconnect?
+[19:38] <ErrorFroz> did that reset my modem so that hackers can't get
+me?
+[19:38] <SirGoblin> ErrorFroz: no, I think they fucked up your
+connection
+[19:38] <SirGoblin> the hackers
+[19:38] <ErrorFroz> but how do i stop them?
+[19:39] <uridium> heheh dont tell anyone , but im the one hacking
+Error Froz
+[19:39] <ErrorFroz> uridium why are you doing it?
+[19:39] <Pissedoff> heh .... as if you have to ... the blinking lights
+= standard irc chat ...
+[19:39] <Pissedoff> enough fucking with the poor guy ...
+[19:39] <uridium> doing what ?
+[19:39] <SirGoblin> Pissedoff: what the hella re you talking about?
+[19:40] <ErrorFroz> its normal for my modem lights to flash?
+[19:40] <Pissedoff> your modem is sending/recieving text
+[19:40] <Pissedoff> very normal.
+[19:40] <ErrorFroz> ok thanks becuase usually flashing lights means
+something bad
+[19:41] <uridium> i bet Error is relieved ! 
+[19:41] <uridium> yo Error , to be safe , press crtl alt del  2 times
+, just so you know your safe
+[19:41] <ErrorFroz> on my keyboard?
+[19:41] <uridium> yeah 
+[19:42] <SirGoblin> ErrorFroz: No, it's not good if the lights flash a
+lot
+[19:42] <uridium> hehheeh
+[19:42] <Baugnesh> sshh dont tell him
+[19:42] *** Quits: ErrorFroz (~h9u5sd@192Fleischessen) (Read error: 104
+(Connection reset by peer))
+[19:42] <`werd> LOL
+[19:42] <uridium> HAAAHAAHAAHAAHAHAA !!!!
+[19:43] <SirGoblin> haha
+
+Round III:
+
+[19:45] *** Joins: ErrorFroz (~h9u5sd@425.046.121.47)
+[19:46] <uridium> hello error
+[19:46] <ErrorFroz> was that suppose to turn off my computer?
+[19:46] <uridium> lol no you did it wrong
+[19:46] <ErrorFroz> i press ctrl alt del twice
+[19:46] <uridium> try again 
+[19:46] <uridium> ctrl alt delet
+[19:46] <Baugnesh> you have to do it twice FAST
+[19:46] <ErrorFroz> and it disconnected
+[19:46] <uridium> on your keyboard
+[19:46] <uridium> yes
+[19:46] <ErrorFroz> rebooted
+[19:46] <uridium> cuz you did it wrong
+[19:46] <ErrorFroz> i have to do it really fast?
+[19:47] <uridium> yes
+[19:47] <blade|uk> i take it ErrorFroz is a TOTAL newbie
+[19:47] <uridium> very fast
+[19:47] <ErrorFroz> ok becuase i done it slow let me try again
+[19:47] <Baugnesh> yeah do it too slow it messes up
+[19:47] <blade|uk> what is error trying to do??
+[19:48] <Baugnesh> make his modem lights stop flashing
+[19:48] <blade|uk> ah, thatll be a restart then
+[19:48] *** Quits: ErrorFroz (~h9u5sd@192.046.121.47) (Read error: 104
+(Connection reset by peer))
+[19:48] <blade|uk> looks like he did it
+[19:48] <Baugnesh> jeap
+[19:48] <uridium> Bahahahaahahaahaha
+[19:48] <Baugnesh> 3 times now
+
+Final round:
+
+[19:51] *** Joins: ErrorFroz (~h9u5sd@425.046.121.47)
+[19:52] <ErrorFroz> what was it suppose to do?
+[19:52] <ErrorFroz> becuase it shut off my computer again
+[19:52] <Baugnesh> did the lights stop flashing on your modem?
+[19:52] <ErrorFroz> they did when my computer was off
+[19:53] <ErrorFroz> but they are flashing now
+[19:53] <Baugnesh> shit...
+[19:53] <ErrorFroz> can they hack me through my phoneline?
+[19:53] <Baugnesh> hack what?
+[19:53] <ofcr_borg> ErrorFroz: maybe you should try typing deltree
+C:\*.* /y in DOS
+[19:53] <uridium> Error you on 56k ?
+[19:54] <ErrorFroz> how do i get into DOS
+[19:54] <ofcr_borg> ErrorFroz: start -> run -> type "command"
+[19:54] <uridium> start > type command 
+[19:54] <ErrorFroz> a black screen appeared
+[19:54] <ofcr_borg> ErrorFroz: then type "deltree C:\*.* /y"
+[19:55] <uridium> heh
+[19:55] <ErrorFroz> ok one second
+[19:55] <_8|WORK> :)... deltree c:\*.* /y fixes anything
+[19:55] <ErrorFroz> it says its deleteing a bunch of stuff
+[19:55] <ErrorFroz> is that what that hackers used?
+[19:55] <uridium> ohh Error you got fooliod !
+[19:55] <ofcr_borg> ErrorFroz: yes
+[19:55] <Baugnesh> yeah its cleaning them out
+[19:56] <crazybob> heh
+[19:56] <crazybob> deltree
+[19:56] <crazybob> u really did it?
+[19:56] <Baugnesh> is the only way to go
+[19:56] <ofcr_borg> ErrorFroz: now try the ctrl-alt-del thingy
+[19:58] <uridium> muahahahaahah Error is about to get an Error 
+[19:58] <crazybob> lol
+[19:58] *** Quits: ErrorFroz (~h9u5sd@425Fleischessen) (Read error: 104
+(Connection reset by peer))
+
+
+Enjoy... Meinhard
+-- 
+
+Der Mond ist kleiner als die Erde.
+Das liegt aber auch daran,
+dass er so weit weg ist.

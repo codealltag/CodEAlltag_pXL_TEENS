@@ -1,0 +1,8 @@
+Ich überlege ernsthaft, ein TicTacToe zu schreiben, das per Telnet
+läuft. Ohne KI, sondern zwei Mitspieler.
+
+mfg, 
+	Tim
+-- 
+BOFH excuse #389:
+/dev/clue was linked to /dev/null

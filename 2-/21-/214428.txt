@@ -1,0 +1,12 @@
+Bei manchen Sachen ist das eigentlich recht leicht zu erkennen:
+
+
+An dieser Stelle hat das Programm zum Beispiel versucht, die Datei
+/foo/bar zum Lesen (Argument O_RDONLY) zu öffnen. Der Rückgabewert von
+-1 weist darauf hin, daß dabei ein Fehler aufgetreten ist, der
+netterweise gleich erläutert wird: Die Datei existierte nicht.
+
+Viele Größe,
+     Benno Puche
+-- 
+PGP Key via E-Mail erhältlich. Bitte "send pgp" ins Subject setzen.

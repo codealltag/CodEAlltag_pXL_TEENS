@@ -1,0 +1,22 @@
+Ist eher eine Krücke. Weil man die drei Zeilen, die für die
+Deklaration stehen, als Headerzeilen manuell einfügt. Damit läuft das aber ohne
+Probleme. Wie es mit dem Euro aussieht weiß ich nicht.
+
+
+Zwergenladen Mail hab ich bei uns in der Firma eingerichtet. Weil ich
+keinesfalls die Leute da mit OE arbeiten lassen wollte. Aber nur wegen
+dem Zeilenumbruch das gesamte Programm nicht zu nutzen halte ich für
+übertrieben. 
+
+
+Vielleicht ist die Zeit nun reif? ;-)
+
+
+Ich dachte es war eher eine Seite in Cabana. Auf einer meiner Suche nach
+Tips und Konfigurationsshilfen für das Gnu.
+
+ Dennis
+
+-- 
+"Es gibt einfach alles fuer Windows." - "Aber nicht alles ist auch
+fuer Windows geeignet." (Helmuth Graeven und Christoph Minck)

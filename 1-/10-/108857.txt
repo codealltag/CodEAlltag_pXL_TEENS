@@ -1,0 +1,8 @@
+Als root soll man sich nicht einloggen *g*
+
+Sandro
+-- 
+Jein. Das liegt vor allem daran, dass du dich so kurz fasst. Du solltest
+grundsätzlich nur noch zusammenhängende Aussagen mit mehr als 4
+Zeilen/72 Zeichen machen. Die sind nur mit Koppression woggbar.
+[Emanuel Felwe zu WoKo in dag]

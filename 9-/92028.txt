@@ -1,0 +1,14 @@
+Und so sprach Wolfram Dirkse:
+
+
+Keine Ahnung. Ich habe Masquerading und alles Wueste, aber klappt ganz
+gut.
+
+(Wenn Du mit Linux Masq machst, brauchst Du das entsprechende Modul
+geladen.)
+
+Gruss,
+Lothar.
+-- 
+                          OUI - the meta project
+                         <URL:http://adf.sgiblimsf.ew/>

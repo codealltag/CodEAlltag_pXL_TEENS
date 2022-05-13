@@ -1,0 +1,10 @@
+Das kann an der Gruppe liegen, bei den hiesigen Threadl�ngen fallen
+schonmal References raus. Aber das kan auch genausogut am Reader
+liegen, ich kenne die genauen Einschränkungen gegenüber der
+Bezahlversion nicht, da soll sich jemand zu äussern, der wenigstens
+ThangLong nutzt...
+
+Helmuth
+-- 
+F: Was ist ein Mathematiker?
+A: Ein Gerät das Kaffee in Behauptungen umwandelt.

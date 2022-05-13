@@ -1,0 +1,26 @@
+Und so sprach Franco Tendler:
+
+
+Das hängt aber von der Applikation, die den entsprechenden Dialog
+implementiert/benutzt, ab. Nettes Beispiel: Fugu. In der Liste taucht
+der Desktop als "Schreibtisch" auf, aber wenn man "D" drückt, springt
+die Auswahl trotzdem dorthin.
+
+
+Systemeinstellungen > Sprache
+
+Das, womit man mit dem Mac reden kann.
+
+
+[_] Die bash ist Bestandteil des GUI.
+
+Keiner hindert Dich, eine lokalisierte bash zu installieren.
+
+Allerdings würde Dich auch keiner mehr für gesund erklären.
+
+Ralph
+-- 
+Can I leave and close my eyes for one more night
+Can I pay to be set free of all this pain
+That makes me bleed
+                                                --ANGEL DUST - Bleed

@@ -1,0 +1,8 @@
+Solange das BMP <256 Farben hat, ja.
+
+Gruß,
+
+Gian
+-- 
+"There's a sucker born every minute."
+(BJÖRN Ohnheiser)

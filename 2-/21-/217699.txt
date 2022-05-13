@@ -1,0 +1,10 @@
+*IIRC* nicht.
+
+
+Fehlender MIME-Support, beschissene Outbox, Msg-IDs werden grundsätzlich 
+als E-Mail Adresse angesehen -> kein Jump per Reference-Zeile. Außerdem 
+noch zumindest ein kleiner Fehler bei der Rule-Bearbeitung (nur die dtju-
+Rule ist hier bisher betroffen und es funktioniert seltsamerweise wenn man 
+die Zeilen etwas umstellt). Rules lassen sich nicht auf den kompletten 
+Header ansetzen.
+Das dürfte es glaub ich gewesen sein.

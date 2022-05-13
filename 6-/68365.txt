@@ -1,0 +1,11 @@
+Ersteres.
+Dumm nur, dass mutt dann beim normalen Hintergrund diesen schwarz, und
+nicht durchsichtig, anzeigt.
+
+       ^
+Hmpf.
+
+-towo
+-- 
+Je mehr Kaese, desto mehr Loecher. Je mehr Loecher, desto
+weniger Kaese. Also, je mehr Kaese, desto weniger Kaese.

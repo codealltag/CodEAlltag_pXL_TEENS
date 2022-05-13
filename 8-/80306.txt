@@ -1,0 +1,27 @@
+Leo Aholt meinte kundzutun:
+
+
+Also, warum nochwas dazu? *g*
+
+
+G.
+
+ 1  D|31231| -4|Thomasszaf          |7 Okt 00 10:12|  3 | 14|Re: [STATISTIK 09/2000] TOPs
+ 2! D|31455| 11|Sebastian Göttert    |7 Okt 00 18:10|  2P| 13|mq>
+ 3! D|31595|  1|Thomas Veneman    |7 Okt 00 19:38|   P| 14|  mq>
+ 4! D|31448|  1|Tobias Koestner       |7 Sep 08 17:46| 28 | 14lwqRe: [STATISTIK 09/2000] TOPs
+ 5! D|31514|  1|Hauke Viedt     |7 Okt 00 18:57|   P| 15|x mq>
+ 6! D|31458| 11|Sebastian Göttert    |7 Okt 00 18:11|   P| 25|tq>
+ 7! D|31610| 11|Felix Aholt     |7 Okt 00 20:04|  2P| 22|tq>
+ 8! D|31692|  1|Matthias Arnscheidt    |7 Okt 00 21:39|   P| 14|x mq>
+ 9! D|31611| 11|Felix Aholt     |7 Okt 00 20:05|   P| 25|tq>
+10! -|31459| 11|Sebastian Göttert    |7 Okt 00 18:12|  2P| 10|tq>
+                                                              ^^^^^
+Normalerweise stehen da richtig schön diese ASCII-Zeichen zum Baumbauen.
+
+
+!lokaler Newsserver
+!slrn
+!linux
+
+Ernest
