@@ -1,6 +1,6 @@
-# CodE Alltag<sub>pXL</sub> TEENS
+# CodE Alltag<sub>XL</sub> TEENS
 
-CodE Alltag<sub>pXL</sub> TEENS is part of CodE Alltag, a German-language email corpus. It contains ~239.000 automatically pseudonymized emails on topics of interest for teenagers.
+CodE Alltag<sub>XL</sub> TEENS is part of CodE Alltag, a German-language email corpus. It contains ~239.000 automatically pseudonymized emails on topics of interest for teenagers.
 
 CodE Alltag<sub>XL</sub> has been extracted from Usenet newsgroups and underwent merely rudimentary data cleansing. Although no demographic information on the authors has been collected, CodE Alltag<sub>XL</sub> is likely to contain a gender bias since taggers recognized more mentions of male given names (either authors or persons written about).
 
